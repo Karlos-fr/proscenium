@@ -17,3 +17,6 @@ analyse/
 
 # Fichiers de travail des générations de logos
 logos/**/codex-log.txt
+
+# Scripts personnels (TV de la maison), gardés hors du dépôt
+tv-accueil-google.ps1
