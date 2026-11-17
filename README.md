@@ -119,4 +119,4 @@ page that opens: the TV checks it and saves it.
   their rights holders.
 - Photos of the day: Bing. Weather: [Open-Meteo](https://open-meteo.com).
 
-To build the app or the packs yourself: [doc/BUILDING.md](doc/BUILDING.md) (in French).
+What's new: [CHANGELOG.md](CHANGELOG.md). To build the app or the packs yourself: [doc/BUILDING.md](doc/BUILDING.md) (in French).
