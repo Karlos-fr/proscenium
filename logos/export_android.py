@@ -4,7 +4,8 @@
 
 - icône classique (Android 7, Freebox) : mipmap-*/ic_launcher.png, de 48 à 192 px ;
 - icône adaptative (Android 8 et plus, TV) : premier plan et fond, de 108 à 432 px ;
-- bannière Android TV : drawable-xhdpi/banner.png (320 × 180).
+- bannière Android TV : drawable-xhdpi/banner.png (320 × 180) ;
+- bannière de la page de saisie de la clé sur le téléphone : raw/web_banner.png (640 × 360).
 """
 import shutil
 import sys
@@ -31,6 +32,10 @@ for name, k in DENSITIES.items():
 banner = res / "drawable-xhdpi"
 banner.mkdir(parents=True, exist_ok=True)
 Image.open(piste / "banner-320x180.png").convert("RGB").save(banner / "banner.png", optimize=True)
+raw = res / "raw"
+raw.mkdir(parents=True, exist_ok=True)
+Image.open(piste / "banner-1280x720.png").convert("RGB").resize((640, 360), Image.LANCZOS).save(
+    raw / "web_banner.png", optimize=True)
 
 adaptive = res / "mipmap-anydpi-v26"
 adaptive.mkdir(parents=True, exist_ok=True)

@@ -124,6 +124,16 @@ final class KeyServer {
             if (h.toLowerCase().startsWith("content-length:")) length = Integer.parseInt(h.substring(15).trim());
         }
         OutputStream out = c.getOutputStream();
+        if (parts.length >= 2 && parts[1].equals("/logo.png")) {
+            // Bannière de l'appli, en tête de page (même fond bleu nuit que la page)
+            try (java.io.InputStream logo = ctx.getResources().openRawResource(R.raw.web_banner)) {
+                java.io.ByteArrayOutputStream bytes = new java.io.ByteArrayOutputStream();
+                byte[] buf = new byte[16 * 1024];
+                for (int n; (n = logo.read(buf)) > 0; ) bytes.write(buf, 0, n);
+                send(out, "200 OK", "image/png", bytes.toByteArray());
+            }
+            return;
+        }
         if (parts.length < 2 || !parts[1].equals("/" + token)) {
             respond(out, "404 Not Found", page(ctx.getString(R.string.key_page_expired), false, null));
             return;
@@ -163,12 +173,13 @@ final class KeyServer {
                 .append("<title>Proscenium</title><style>")
                 .append("body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;")
                 .append("background:#000820;color:#eef;font:16px/1.5 system-ui,sans-serif}")
-                .append("main{width:min(420px,100% - 32px)}h1{font-weight:300;font-size:26px;margin:0 0 12px}")
+                .append("main{width:min(420px,100% - 32px)}")
                 .append("input{box-sizing:border-box;width:100%;padding:12px;border-radius:10px;border:1px solid #445;")
                 .append("background:#0d1430;color:#fff;font:15px monospace}")
                 .append("button{margin-top:12px;width:100%;padding:12px;border:0;border-radius:10px;")
                 .append("background:#5b8cff;color:#fff;font-size:16px}p{opacity:.85}")
-                .append("</style></head><body><main><h1>Proscenium</h1><p")
+                .append("img{display:block;width:100%;max-width:360px;margin:0 auto 8px}")
+                .append("</style></head><body><main><img src=\"/logo.png\" alt=\"Proscenium\"><p")
                 .append(color == null ? "" : " style=\"color:" + color + "\"").append(">")
                 .append(escape(message)).append("</p>");
         if (form) {
@@ -185,8 +196,11 @@ final class KeyServer {
     }
 
     private static void respond(OutputStream out, String status, String html) throws Exception {
-        byte[] body = html.getBytes(StandardCharsets.UTF_8);
-        out.write(("HTTP/1.1 " + status + "\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: "
+        send(out, status, "text/html; charset=utf-8", html.getBytes(StandardCharsets.UTF_8));
+    }
+
+    private static void send(OutputStream out, String status, String type, byte[] body) throws Exception {
+        out.write(("HTTP/1.1 " + status + "\r\nContent-Type: " + type + "\r\nContent-Length: "
                 + body.length + "\r\nCache-Control: no-store\r\nConnection: close\r\n\r\n").getBytes(StandardCharsets.US_ASCII));
         out.write(body);
         out.flush();
