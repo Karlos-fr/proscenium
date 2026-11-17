@@ -316,6 +316,11 @@ abstract class HomeDock extends HomeHeader {
                     && e.getAction() == KeyEvent.ACTION_UP) pickAppToAdd();
             return code == KeyEvent.KEYCODE_DPAD_CENTER || code == KeyEvent.KEYCODE_ENTER;
         }
+        // Touche Menu de la télécommande : même menu que l'appui long
+        if (code == KeyEvent.KEYCODE_MENU) {
+            if (e.getAction() == KeyEvent.ACTION_UP && !moveMode) showAppMenu();
+            return true;
+        }
         if (code == KeyEvent.KEYCODE_DPAD_LEFT || code == KeyEvent.KEYCODE_DPAD_RIGHT) {
             int dir = code == KeyEvent.KEYCODE_DPAD_RIGHT ? 1 : -1;
             if (e.getAction() == KeyEvent.ACTION_DOWN) {
