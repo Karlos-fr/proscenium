@@ -1,0 +1,1958 @@
+{
+ "id": "disney-pixar",
+ "name": {
+  "fr": "Disney & Pixar",
+  "en": "Disney & Pixar",
+  "de": "Disney & Pixar",
+  "it": "Disney & Pixar",
+  "es": "Disney & Pixar",
+  "sv": "Disney & Pixar"
+ },
+ "description": {
+  "fr": "Les longs métrages d'animation des studios Disney et Pixar",
+  "en": "Animated feature films from Disney and Pixar",
+  "de": "Animierte Spielfilme von Disney und Pixar",
+  "it": "I lungometraggi d'animazione Disney e Pixar",
+  "es": "Los largometrajes de animación de Disney y Pixar",
+  "sv": "Animerade långfilmer från Disney och Pixar"
+ },
+ "films": [
+  {
+   "id": 408,
+   "year": "1938",
+   "title": {
+    "fr": "Blanche-Neige et les Sept Nains",
+    "en": "Snow White and the Seven Dwarfs",
+    "de": "Schneewittchen und die sieben Zwerge",
+    "it": "Biancaneve e i sette nani",
+    "es": "Blancanieves y los siete enanitos",
+    "sv": "Snövit och de sju dvärgarna"
+   },
+   "backdrops": [
+    "/4yWayBvwl9gHXaWrDrAslxjL7mh.jpg"
+   ],
+   "logo": {
+    "fr": "/8nghxvsfEDPADFkoviwVWfsDJzD.png",
+    "en": "/khaTeJn3HrFMsw6fsGW8Ei1ow1p.png",
+    "de": "/f62BJrQCS197cUHYIkyzAkmgvUw.png",
+    "it": "/lfjwkbeFdM7Fim18UIpoUHJ9Pxz.png",
+    "es": "/xyojOHrwJmTH1673s1kHmBbVPO5.png",
+    "sv": "/vY4Ap3tMUaOsztV39ZjG0nJzn9A.png"
+   }
+  },
+  {
+   "id": 756,
+   "year": "1940",
+   "title": {
+    "fr": "Fantasia",
+    "en": "Fantasia",
+    "de": "Fantasia",
+    "it": "Fantasia",
+    "es": "Fantasía",
+    "sv": "Fantasia"
+   },
+   "backdrops": [
+    "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg"
+   ],
+   "logo": {
+    "fr": "/8avqSYG1mVbokmnZyWiOkFJ4gaT.png",
+    "en": "/6g3xg7rwuDOWwQoKWvt2E5WmQuW.png",
+    "es": "/dIrBMldHPLvVSnsxorPJWrafOWy.png"
+   }
+  },
+  {
+   "id": 10895,
+   "year": "1940",
+   "title": {
+    "fr": "Pinocchio",
+    "en": "Pinocchio",
+    "de": "Pinocchio",
+    "it": "Pinocchio",
+    "es": "Pinocho",
+    "sv": "Pinocchio"
+   },
+   "backdrops": [
+    "/ikpwuaK0yzNhXO24OeB7cKulhZE.jpg"
+   ],
+   "logo": {
+    "fr": "/fGWDHHBE5FJLWjGb2i4OV1YREEt.png",
+    "en": "/sjHxyktjip14vhT8d5XUYF11mJp.png",
+    "es": "/TLggIpDX8gJrYWaSDZBNCgM25C.png"
+   }
+  },
+  {
+   "id": 11360,
+   "year": "1941",
+   "title": {
+    "fr": "Dumbo",
+    "en": "Dumbo",
+    "de": "Dumbo",
+    "it": "Dumbo",
+    "es": "Dumbo",
+    "sv": "Dumbo"
+   },
+   "backdrops": [
+    "/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg"
+   ],
+   "logo": {
+    "en": "/1glIs4X7Pr1K5aUwzZG9GXdA8Kx.png",
+    "fr": "/1glIs4X7Pr1K5aUwzZG9GXdA8Kx.png"
+   }
+  },
+  {
+   "id": 3170,
+   "year": "1942",
+   "title": {
+    "fr": "Bambi",
+    "en": "Bambi",
+    "de": "Bambi",
+    "it": "Bambi",
+    "es": "Bambi",
+    "sv": "Bambi"
+   },
+   "backdrops": [
+    "/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg"
+   ],
+   "logo": {
+    "fr": "/xtGDwngckamvQfinMGibhRMoGWc.png",
+    "en": "/rWj2wfHsadjOl4eTPVLz1gnA4jj.png",
+    "es": "/sziGkSEPbwxVih6vBCKHETaFDSF.png"
+   }
+  },
+  {
+   "id": 11224,
+   "year": "1950",
+   "title": {
+    "fr": "Cendrillon",
+    "en": "Cinderella",
+    "de": "Cinderella",
+    "it": "Cenerentola",
+    "es": "La Cenicienta",
+    "sv": "Askungen"
+   },
+   "backdrops": [
+    "/puJKgNcWaGgMk5VHanSSomUTpmw.jpg"
+   ],
+   "logo": {
+    "fr": "/klVAyNv6I0rGLP5BiatEDGAnnz8.png",
+    "en": "/bBIGA3MvSZS7bhBLVUh4KRS6L0o.png",
+    "it": "/aKxiu9eiRTch26PJFTBn1imD6yM.png",
+    "es": "/8qtznXJmyS8ak01U8aSuI12EfqY.png",
+    "sv": "/7culZrQjthfwtypRvZavaT3cQnX.png"
+   }
+  },
+  {
+   "id": 12092,
+   "year": "1951",
+   "title": {
+    "fr": "Alice au pays des merveilles",
+    "en": "Alice in Wonderland",
+    "de": "Alice im Wunderland",
+    "it": "Alice nel paese delle meraviglie",
+    "es": "Alicia en el país de las maravillas",
+    "sv": "Alice i Underlandet"
+   },
+   "backdrops": [
+    "/tyj0QztA0PkYo6XauifWjkx7UVi.jpg"
+   ],
+   "logo": {
+    "fr": "/zteTnBgCv5ZFD8oIUAOY0yQbzGd.png",
+    "en": "/8WpartP1ULEeEDwat1wSVj9HhGc.png",
+    "de": "/iQ68qynVjUgfUuWiwoPrO8lElXE.png",
+    "it": "/x9WRmcPuoqiLan4W5vJ6LXwzsEq.png",
+    "es": "/yYnmq1q1Dg704JLWagyxJJFIVTv.png",
+    "sv": "/qWFE4zBgCrdvwHW054XZLpBiFnF.png"
+   }
+  },
+  {
+   "id": 10693,
+   "year": "1953",
+   "title": {
+    "fr": "Peter Pan",
+    "en": "Peter Pan",
+    "de": "Peter Pans heitere Abenteuer",
+    "it": "Le avventure di Peter Pan",
+    "es": "Peter Pan",
+    "sv": "Peter Pan"
+   },
+   "backdrops": [
+    "/vwcfvPzYO3Gz975yRXp6DYSSbzo.jpg"
+   ],
+   "logo": {
+    "en": "/9JSJqOPw8cJSEPH1dQSN4OXB7dO.png",
+    "it": "/gDE33imgYO65ZZUaswKcqRXKWTE.png",
+    "fr": "/9JSJqOPw8cJSEPH1dQSN4OXB7dO.png"
+   }
+  },
+  {
+   "id": 10340,
+   "year": "1955",
+   "title": {
+    "fr": "La Belle et le Clochard",
+    "en": "Lady and the Tramp",
+    "de": "Susi und Strolch",
+    "it": "Lilli e il vagabondo",
+    "es": "La dama y el vagabundo",
+    "sv": "Lady och Lufsen"
+   },
+   "backdrops": [
+    "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg"
+   ],
+   "logo": {
+    "fr": "/bKpfYVSBbbM5Byp6o6fbqE1rkAK.png",
+    "en": "/qLdA321zFWmiL2kJgztPZXLnK8.png",
+    "de": "/6AUaeGDg6IBDGKjyOVqYN846QiG.png",
+    "it": "/ajKuSZcIiFO92MNyHRmhMxTttEp.png",
+    "es": "/yRPYfVVnFktcLxhveX3HftDH6xi.png",
+    "sv": "/cccZsgsTqA4xdDUQ3taTWAFuLBn.png"
+   }
+  },
+  {
+   "id": 10882,
+   "year": "1959",
+   "title": {
+    "fr": "La Belle au bois dormant",
+    "en": "Sleeping Beauty",
+    "de": "Dornröschen",
+    "it": "La bella addormentata nel bosco",
+    "es": "La bella durmiente",
+    "sv": "Törnrosa"
+   },
+   "backdrops": [
+    "/me67dwJnUBt3O9NqZaBdEQ6i4vM.jpg"
+   ],
+   "logo": {
+    "fr": "/9AMTMJE1sH0XA1My0IEaJcXCxvp.png",
+    "en": "/mv0RUmGdVM7vowklvcRzZFDRiIk.png",
+    "de": "/auurOIJVFshW1vg3dEfnJGixyQ5.png",
+    "it": "/573GBb2j1Fbz81kPLqSAdoY55RM.png",
+    "es": "/hVEFdS7iF3B7i4mRcGTsKLBilQR.png",
+    "sv": "/kjSKvax7SHCFl7HzwxNmryDJNfH.png"
+   }
+  },
+  {
+   "id": 12230,
+   "year": "1961",
+   "title": {
+    "fr": "Les 101 Dalmatiens",
+    "en": "One Hundred and One Dalmatians",
+    "de": "Pongo und Perdita",
+    "it": "La carica dei 101",
+    "es": "101 dálmatas",
+    "sv": "Pongo och de 101 dalmatinerna"
+   },
+   "backdrops": [
+    "/cZgUATpU4NDlsfGj7sRriKJEiLB.jpg"
+   ],
+   "logo": {
+    "fr": "/5deQSSTRBd3lLu0Oerl0zNoJPJO.png",
+    "en": "/dzhqK5SzFX66NqO4r9eUMMzGzFi.png",
+    "de": "/wZmMq51hK1KfEBnMJJJuILHluha.png",
+    "it": "/sCWqydDpmNp05ITff7MLo2FICZg.png",
+    "es": "/ugNxJ0PMPva4p4NJ4sobSjWxf1J.png",
+    "sv": "/rjrWcdc4OdAqOK9TF6ajxFbX2PO.png"
+   }
+  },
+  {
+   "id": 9078,
+   "year": "1963",
+   "title": {
+    "fr": "Merlin l'enchanteur",
+    "en": "The Sword in the Stone",
+    "de": "Merlin und Mim",
+    "it": "La spada nella roccia",
+    "es": "Merlín el encantador",
+    "sv": "Svärdet i stenen"
+   },
+   "backdrops": [
+    "/uMe6McFXAPEhkasGVlaLTOuhfnl.jpg"
+   ],
+   "logo": {
+    "fr": "/2cuYfUd9KkDHsAQFKmTWWqF7yk3.png",
+    "en": "/zkihkznwTogA0GPUm1fqnV7SKvW.png",
+    "de": "/xO9BrVXBhFrklGHHGxUDL068s0O.png",
+    "it": "/jXBnwV5HHR6GZVzv3naedzFjylu.png",
+    "es": "/wfMzCoBkFGbDkbJ3sWVGfi7l3y2.png",
+    "sv": "/9pDR0EFjJqECvIbzKw5YI73yuyV.png"
+   }
+  },
+  {
+   "id": 9325,
+   "year": "1967",
+   "title": {
+    "fr": "Le Livre de la jungle",
+    "en": "The Jungle Book",
+    "de": "Das Dschungelbuch",
+    "it": "Il libro della giungla",
+    "es": "El libro de la selva",
+    "sv": "Djungelboken"
+   },
+   "backdrops": [
+    "/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg"
+   ],
+   "logo": {
+    "fr": "/gpRU0Me1sUHKWoJVwZjLPLYwsOi.png",
+    "en": "/epbYsbU2LptWv1C5JQxO5SHeNrk.png",
+    "de": "/f0PcubUZFI2MINqzMNbVmvhjS1i.png",
+    "it": "/tXfh2DO02cAShIkkLzZAykcxTz1.png",
+    "es": "/rsJPbO3WLODlTzTxRpWHatSlH2p.png",
+    "sv": "/uAtT1ES9CGPnzlrkei0IDwlzARR.png"
+   }
+  },
+  {
+   "id": 10112,
+   "year": "1970",
+   "title": {
+    "fr": "Les Aristochats",
+    "en": "The Aristocats",
+    "de": "Aristocats",
+    "it": "Gli Aristogatti",
+    "es": "Los aristogatos",
+    "sv": "Aristocats"
+   },
+   "backdrops": [
+    "/rnMwOM8gMqo6Gf6XXMpaJEayUwk.jpg"
+   ],
+   "logo": {
+    "fr": "/ql4m7RfYfLAZqsBtoDbVKGrs5x7.png",
+    "en": "/uhmjfw0grFtPTF8G3s0eNh97zTi.png",
+    "it": "/dXnRgDTYbGogpWbYHQNgo3erFFm.png",
+    "es": "/sabkR5rnqJnSmGUq0VXWZCbKYdN.png",
+    "sv": "/pm5DZTHhx1r6KkNn8mfIeIYpdP6.png"
+   }
+  },
+  {
+   "id": 11886,
+   "year": "1973",
+   "title": {
+    "fr": "Robin des Bois",
+    "en": "Robin Hood",
+    "de": "Robin Hood",
+    "it": "Robin Hood",
+    "es": "Robin Hood",
+    "sv": "Robin Hood"
+   },
+   "backdrops": [
+    "/oegA1YBl1PszRbB0qj4UpVSr9Jt.jpg"
+   ],
+   "logo": {
+    "fr": "/vTfHvu2u5NjGVgCUVbVG8DL0FJD.png",
+    "en": "/ld6Q6p8gafaLGam1nZiJ5N7712m.png",
+    "de": "/139aT5FubGjlvsOh9VrB10NS3D3.png",
+    "es": "/ghPW6OBNmOV2VXigpkXiWTfqqYE.png"
+   }
+  },
+  {
+   "id": 11319,
+   "year": "1977",
+   "title": {
+    "fr": "Les Aventures de Bernard et Bianca",
+    "en": "The Rescuers",
+    "de": "Bernard & Bianca - Die Mäusepolizei",
+    "it": "Le avventure di Bianca e Bernie",
+    "es": "Los rescatadores",
+    "sv": "Bernard och Bianca"
+   },
+   "backdrops": [
+    "/dSlofjxxcTSLmnH6602WsSSELU5.jpg"
+   ],
+   "logo": {
+    "fr": "/8dLRXpgIKbX8jmG4ZlocEz1sdph.png",
+    "en": "/ctFIZyU7qXIfpipGRvIMEH7Ehal.png",
+    "de": "/8kp2y87DjuPE3haWVVU5ocq8t9Z.png",
+    "es": "/vOXS1ys0mdQ1Eh8xwsmaY6PGKlc.png",
+    "sv": "/5lZSuf1AweAnd1g01lUGa6sK7J3.png"
+   }
+  },
+  {
+   "id": 250480,
+   "year": "1977",
+   "title": {
+    "fr": "Les Aventures de Winnie l'ourson",
+    "en": "The Many Adventures of Winnie the Pooh",
+    "de": "Die vielen Abenteuer von Winnie Puuh",
+    "it": "Le avventure di Winnie the Pooh",
+    "es": "Lo mejor de Winnie the Pooh",
+    "sv": "Filmen om Nalle Puh"
+   },
+   "backdrops": [
+    "/19lyrve8NcorainRPLXELTDVnA2.jpg"
+   ],
+   "logo": {
+    "fr": "/m8dwSulbF14tbmxxuMemWfGjp7f.png",
+    "en": "/yXWoodtKdIZ3lZfVmivfX8Oww8.png",
+    "sv": "/hiKKBL7hqh2AsGxZGTlNl6e8Ns9.png"
+   }
+  },
+  {
+   "id": 10948,
+   "year": "1981",
+   "title": {
+    "fr": "Rox et Rouky",
+    "en": "The Fox and the Hound",
+    "de": "Cap und Capper",
+    "it": "Red e Toby nemiciamici",
+    "es": "Tod y Toby",
+    "sv": "Micke och Molle - vänner när det gäller"
+   },
+   "backdrops": [
+    "/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg"
+   ],
+   "logo": {
+    "fr": "/oYHxYzZsjqUjubUG7XVZCQ5AGCw.png",
+    "en": "/lrEdti0E01aNX8AVqURr2wXNKIb.png",
+    "de": "/aoLJhrKp7fXC0xbh0rAA35esZCQ.png",
+    "it": "/nRmYrqqDsRLpJubeQg6cby6mHV3.png",
+    "es": "/bDXMy2J3Tk9QfGd7BB7aX4JWUbc.png",
+    "sv": "/rjZxAPhSZdg9QDVRygcdi6AX3jy.png"
+   }
+  },
+  {
+   "id": 10957,
+   "year": "1985",
+   "title": {
+    "fr": "Taram et le chaudron magique",
+    "en": "The Black Cauldron",
+    "de": "Taran und der Zauberkessel",
+    "it": "Taron e la pentola magica",
+    "es": "Taron y el caldero mágico",
+    "sv": "Taran och den magiska kitteln"
+   },
+   "backdrops": [
+    "/dQgzIGv3UjuZa52rH49gXKGS9pD.jpg"
+   ],
+   "logo": {
+    "fr": "/rNQ76evs6UMf4WCiKKecRh9nN7E.png",
+    "en": "/b44cFh06VTJrwlcmir6vvPOG2fx.png",
+    "de": "/uu3wAMuRJQlBYohFfLraviR8Phg.png",
+    "it": "/2m97clpJtH7kuS5nfug4r3P15dN.png",
+    "es": "/iw1CmQyPYBr7qS21foOAqdBg0uq.png",
+    "sv": "/yiWzDaG8mP4aKooODlIfnYSSOsW.png"
+   }
+  },
+  {
+   "id": 9994,
+   "year": "1986",
+   "title": {
+    "fr": "Basil, détective privé",
+    "en": "The Great Mouse Detective",
+    "de": "Basil, der große Mäusedetektiv",
+    "it": "Basil l'investigatopo",
+    "es": "Basil, el ratón superdetective",
+    "sv": "Mästerdetektiven Basil Mus"
+   },
+   "backdrops": [
+    "/ijCfzdRLhrdu9OUIaPsVt08ogT5.jpg"
+   ],
+   "logo": {
+    "fr": "/piVBkb3wFXzIJFbKOb8IJdbCEki.png",
+    "en": "/eNaPOxThwH7wPjFACtEzxDGDkSs.png",
+    "de": "/hDcNVVn4Ed4ECmAXrkOgyNEeR1w.png",
+    "es": "/iVayUhUDlvDgopdZSi187oqSs37.png",
+    "sv": "/brymEW5NY8xaGOhzwKGiVm6SbEC.png"
+   }
+  },
+  {
+   "id": 12233,
+   "year": "1988",
+   "title": {
+    "fr": "Oliver & Compagnie",
+    "en": "Oliver & Company",
+    "de": "Oliver & Co.",
+    "it": "Oliver & Company",
+    "es": "Oliver y su pandilla",
+    "sv": "Oliver & gänget"
+   },
+   "backdrops": [
+    "/k18aKqDPrbTsijtN9jRpnTHxQks.jpg"
+   ],
+   "logo": {
+    "fr": "/8w4SVCeLmuFkq9l7puxogHRQ399.png",
+    "en": "/k9yupFZTYLOrxFvC2wwNi9Ul8W2.png",
+    "es": "/zAr41Nd13mokPDgB91j9lZWk2h4.png",
+    "sv": "/dOC7T81k5ghkXesXmwNfbYpp3Yz.png"
+   }
+  },
+  {
+   "id": 10144,
+   "year": "1989",
+   "title": {
+    "fr": "La Petite Sirène",
+    "en": "The Little Mermaid",
+    "de": "Arielle, die Meerjungfrau",
+    "it": "La sirenetta",
+    "es": "La sirenita",
+    "sv": "Den lilla sjöjungfrun"
+   },
+   "backdrops": [
+    "/qGZXYHvWR1TYOU9raCaEABrj9m7.jpg"
+   ],
+   "logo": {
+    "fr": "/2L2mDWU1hXGNTk8Z4bMTSZItOkE.png",
+    "en": "/uO0HjHFY0azplPTkxDo9AmK3U77.png",
+    "de": "/dwOTboz9R3gOjtHQh2FizCHUzyH.png",
+    "it": "/wQCUFLU3dvRNRMjeFzAsYRzyzLB.png",
+    "es": "/9n9fWjHOo9YYhAjLyT96a0cFTvk.png",
+    "sv": "/iXiG1aqfCXWgXXU8XDxkvUgxHNc.png"
+   }
+  },
+  {
+   "id": 11135,
+   "year": "1990",
+   "title": {
+    "fr": "Bernard et Bianca au pays des kangourous",
+    "en": "The Rescuers Down Under",
+    "de": "Bernard & Bianca im Känguruland",
+    "it": "Bianca e Bernie nella terra dei canguri",
+    "es": "Los rescatadores en Cangurolandia",
+    "sv": "Bernard och Bianca i Australien"
+   },
+   "backdrops": [
+    "/nOAmKHegzi3uXZ8tkYiiZWBdUl5.jpg"
+   ],
+   "logo": {
+    "fr": "/2dGST64vrwHcenXWHsPgWgRjWP.png",
+    "en": "/2E89XjLPE5V1hhrl3QRHI1owcFy.png",
+    "de": "/aHL1Mfc8hXbP7qhJFRYSTSInJLm.png",
+    "es": "/fQpNNlJCoy37GNlYKHTOAmjdlrH.png",
+    "sv": "/m8et9pIA1pPMblNKSDq1D4siVGt.png"
+   }
+  },
+  {
+   "id": 10020,
+   "year": "1991",
+   "title": {
+    "fr": "La Belle et la Bête",
+    "en": "Beauty and the Beast",
+    "de": "Die Schöne und das Biest",
+    "it": "La bella e la bestia",
+    "es": "La bella y la bestia",
+    "sv": "Skönheten och odjuret"
+   },
+   "backdrops": [
+    "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg"
+   ],
+   "logo": {
+    "fr": "/uzioLayEGNE3srFso8FEX1folG3.png",
+    "en": "/8d0uAA4vbiBxuwUDtYlleCVCckZ.png",
+    "de": "/fPRQExucS3TnRXmYwQgvN4VHd44.png",
+    "it": "/uIiByXtmTFOncwFr87alrZOiQKh.png",
+    "es": "/ciockcq9OEj727O1SLuhmFWuVbz.png",
+    "sv": "/w8E4KnU0XXhQb8w65aPH1WefKPa.png"
+   }
+  },
+  {
+   "id": 812,
+   "year": "1992",
+   "title": {
+    "fr": "Aladdin",
+    "en": "Aladdin",
+    "de": "Aladdin",
+    "it": "Aladdin",
+    "es": "Aladdin",
+    "sv": "Aladdin"
+   },
+   "backdrops": [
+    "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg"
+   ],
+   "logo": {
+    "fr": "/m0ZeAjUUbCoxnNC34dJ0c1qaFLJ.png",
+    "en": "/nYWnPUdktgzxSXufNVE1JTH746m.png"
+   }
+  },
+  {
+   "id": 8587,
+   "year": "1994",
+   "title": {
+    "fr": "Le Roi lion",
+    "en": "The Lion King",
+    "de": "Der König der Löwen",
+    "it": "Il re leone",
+    "es": "El rey león",
+    "sv": "Lejonkungen"
+   },
+   "backdrops": [
+    "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg"
+   ],
+   "logo": {
+    "fr": "/6QK2lwAgmym2ctjb7Uvm6vTXD7g.png",
+    "en": "/4ldICpAouQAhuT4z3A6tXYMR4Kz.png",
+    "de": "/j4JUoIqeYrMgEK6WOsUyieuv4hd.png",
+    "it": "/7vbtq1yG9Or9J4x2Ls7ejlrszb6.png",
+    "es": "/oIjNoucWBbtwk4TcJfsP0kffur0.png",
+    "sv": "/476j8du5ibBZGeHJzXFZjsc3nCo.png"
+   }
+  },
+  {
+   "id": 10530,
+   "year": "1995",
+   "title": {
+    "fr": "Pocahontas, une légende indienne",
+    "en": "Pocahontas",
+    "de": "Pocahontas",
+    "it": "Pocahontas",
+    "es": "Pocahontas",
+    "sv": "Pocahontas"
+   },
+   "backdrops": [
+    "/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg"
+   ],
+   "logo": {
+    "fr": "/1nw0shRJVdyYRCM3PEft8g6mHs3.png",
+    "en": "/cW4D4KPUwEhijFEOrB0DcXMcWEl.png",
+    "de": "/lhl6NYLSNjY7JDFJOD1kxFLjWx8.png",
+    "it": "/cCUfX3LHZ0CHeuvb6klbB0Z4sOf.png",
+    "es": "/k2Qr7HvrPzJUbtXPJ2Q7fuqQ3JV.png"
+   }
+  },
+  {
+   "id": 862,
+   "year": "1995",
+   "title": {
+    "fr": "Toy Story",
+    "en": "Toy Story",
+    "de": "Toy Story",
+    "it": "Toy Story - Il mondo dei giocattoli",
+    "es": "Toy Story",
+    "sv": "Toy Story"
+   },
+   "backdrops": [
+    "/8AqWECiUHnz1Crj69uB9vhiK9Le.jpg"
+   ],
+   "logo": {
+    "fr": "/fCyduKmikHt0aJnEn9FEBTAmNTn.png",
+    "en": "/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png",
+    "it": "/uKE9CXtd8BNgu9wCtEYmvd5qlMx.png"
+   }
+  },
+  {
+   "id": 10545,
+   "year": "1996",
+   "title": {
+    "fr": "Le Bossu de Notre-Dame",
+    "en": "The Hunchback of Notre Dame",
+    "de": "Der Glöckner von Notre Dame",
+    "it": "Il gobbo di Notre Dame",
+    "es": "El jorobado de Notre Dame",
+    "sv": "Ringaren i Notre Dame"
+   },
+   "backdrops": [
+    "/gANMasppEDQk95SvLsFNHtfBYNy.jpg"
+   ],
+   "logo": {
+    "fr": "/8n5CshN8Toeft6i6Xv9gPwDMk5J.png",
+    "en": "/2lnnMDR00wnbMqpDowBGEB3vxK7.png",
+    "de": "/lmfudvviEzqiMtZbhtNcYRxSciq.png",
+    "it": "/mj8lhiZbDWnphNsqTQWBgYn0tyK.png",
+    "es": "/bozHgf2Lru6UoL9rx4xVPLMjoy3.png",
+    "sv": "/uYxjNfsxgr1ymzlytC01dLMvpT.png"
+   }
+  },
+  {
+   "id": 11970,
+   "year": "1997",
+   "title": {
+    "fr": "Hercule",
+    "en": "Hercules",
+    "de": "Hercules",
+    "it": "Hercules",
+    "es": "Hércules",
+    "sv": "Herkules"
+   },
+   "backdrops": [
+    "/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg"
+   ],
+   "logo": {
+    "fr": "/hQO4cZqA8hthZE6EIcqE2G4bL0g.png",
+    "en": "/bqPuQsjzqt3LUkIgpQQTL8FLl1d.png",
+    "es": "/aqYqmwaJ0JQlmHqPjxEvvImm0Nv.png",
+    "sv": "/zAHcA4K0WETwTszeAcUozY4UDmT.png"
+   }
+  },
+  {
+   "id": 9487,
+   "year": "1998",
+   "title": {
+    "fr": "1001 Pattes",
+    "en": "A Bug's Life",
+    "de": "Das grosse Krabbeln",
+    "it": "A Bug's Life - Megaminimondo",
+    "es": "Bichos, una aventura en miniatura",
+    "sv": "Ett småkryps liv"
+   },
+   "backdrops": [
+    "/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg"
+   ],
+   "logo": {
+    "fr": "/f0djdFoC1wWXoQZolzJT2jxWUbo.png",
+    "en": "/bkJYEFNaG9i2IC3XisreW5DFUqy.png",
+    "de": "/zgG1bFpUTAqMf24xthpbNiRe6Cn.png",
+    "es": "/1D09mDAU6EdV9VfAXCuMUGqKjNg.png",
+    "sv": "/lm71wYClL5mLbaM1FPiqeMEgpw5.png"
+   }
+  },
+  {
+   "id": 10674,
+   "year": "1998",
+   "title": {
+    "fr": "Mulan",
+    "en": "Mulan",
+    "de": "Mulan",
+    "it": "Mulan",
+    "es": "Mulán",
+    "sv": "Mulan"
+   },
+   "backdrops": [
+    "/cTQiSrWhTDJPW8p56CUCoVNJZYl.jpg"
+   ],
+   "logo": {
+    "fr": "/j4QqLLsx9vX0jMrNRo8cnomSEvo.png",
+    "en": "/b6F2VAnvzh7tmJp0EjQVBI3W4KM.png",
+    "de": "/saVPIE8gsF45Z6z3nWfNNTjF07w.png",
+    "es": "/iBG856WJ7jtqEPO0McLvfnEBXjr.png"
+   }
+  },
+  {
+   "id": 37135,
+   "year": "1999",
+   "title": {
+    "fr": "Tarzan",
+    "en": "Tarzan",
+    "de": "Tarzan",
+    "it": "Tarzan",
+    "es": "Tarzán",
+    "sv": "Tarzan"
+   },
+   "backdrops": [
+    "/a0E1mbejev56Ii51hCnYUDj4tZS.jpg"
+   ],
+   "logo": {
+    "fr": "/kS0oO1cyOKvIOm33JtWpI5aWU2Z.png",
+    "en": "/1ijjaZgoaEEVpdLqKw3T81LBVji.png",
+    "es": "/7vebYZaw6n0a4sduyt5nCKD6wb0.png"
+   }
+  },
+  {
+   "id": 863,
+   "year": "1999",
+   "title": {
+    "fr": "Toy Story 2",
+    "en": "Toy Story 2",
+    "de": "Toy Story 2",
+    "it": "Toy Story 2 - Woody & Buzz alla riscossa",
+    "es": "Toy Story 2: Los juguetes vuelven a la carga",
+    "sv": "Toy Story 2"
+   },
+   "backdrops": [
+    "/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg"
+   ],
+   "logo": {
+    "fr": "/qRfT4YSz5Wy4eGh8lIsR37MdHHS.png",
+    "en": "/yYIJLn22UFH9aIg1S11xeFXMOMC.png",
+    "it": "/fbXvFXKmq4lPaUMtm4oL2cTyAkP.png",
+    "es": "/2HDKKUCf98rRpzJq2KuThyGZ9hr.png"
+   }
+  },
+  {
+   "id": 10567,
+   "year": "2000",
+   "title": {
+    "fr": "Dinosaure",
+    "en": "Dinosaur",
+    "de": "Dinosaurier",
+    "it": "Dinosauri",
+    "es": "Dinosaurio",
+    "sv": "Dinosaurier"
+   },
+   "backdrops": [
+    "/laeEtakR2pLKu3CeRwB2lU5Y53X.jpg"
+   ],
+   "logo": {
+    "fr": "/795hFTrbCiAWoWM2huGBJp4VQw7.png",
+    "en": "/3bMFGk3PMThge6RvOLvZWk3QUMh.png",
+    "de": "/xdM0Ci5hOo8EDcow6uhskeGKO3s.png",
+    "es": "/idg5qeRkjbQ1my3nSFoKn2Plbbs.png",
+    "sv": "/9WBFxB8kX5C9Vw4Pes6fK15LtDR.png"
+   }
+  },
+  {
+   "id": 49948,
+   "year": "2000",
+   "title": {
+    "fr": "Fantasia 2000",
+    "en": "Fantasia 2000",
+    "de": "Fantasia 2000",
+    "it": "Fantasia 2000",
+    "es": "Fantasía 2000",
+    "sv": "Fantasia 2000"
+   },
+   "backdrops": [
+    "/wBQ2tSdXgAOAdH14VgXtN9qD0Ol.jpg"
+   ],
+   "logo": {
+    "fr": "/zUFadKxBceW9rSR2Qr7X8NCgD4i.png",
+    "en": "/Fl0tEWdmFitWJIhVcn098JKDKj.png",
+    "es": "/sYnkPacyrUJZDLdx1IdhwykRkDu.png"
+   }
+  },
+  {
+   "id": 11688,
+   "year": "2000",
+   "title": {
+    "fr": "Kuzco, l'empereur mégalo",
+    "en": "The Emperor's New Groove",
+    "de": "Ein Königreich für ein Lama",
+    "it": "Le follie dell'imperatore",
+    "es": "El emperador y sus locuras",
+    "sv": "Kejsarens nya stil"
+   },
+   "backdrops": [
+    "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg"
+   ],
+   "logo": {
+    "fr": "/lYxHk0NZyRSJH40iFfBKM52FYjn.png",
+    "en": "/6vvISfFfJMGmPtzAq0M0zYBZ3Lb.png",
+    "de": "/zOmW2BXzal3plXOhVQkAMZwuOSA.png",
+    "it": "/iX4zLVXwJPmChBg8uc4oJ6a0un.png",
+    "es": "/dBQWG79yO7pO50rWeECeiMTlu9N.png",
+    "sv": "/r0XrfMyu38EEuPmpely8jF2gR4l.png"
+   }
+  },
+  {
+   "id": 10865,
+   "year": "2001",
+   "title": {
+    "fr": "Atlantide, l'empire perdu",
+    "en": "Atlantis: The Lost Empire",
+    "de": "Atlantis - Das Geheimnis der verlorenen Stadt",
+    "it": "Atlantis - L'impero perduto",
+    "es": "Atlantis: El imperio perdido",
+    "sv": "Atlantis - en försvunnen värld"
+   },
+   "backdrops": [
+    "/4eTiLRTYwAVQyQAjuFuf3BXAony.jpg"
+   ],
+   "logo": {
+    "fr": "/se7bOTCiupjQMdlT57aROmCVIlP.png",
+    "en": "/xi5CCSRhHkIGoMRyT89vZ6sUFQ9.png",
+    "de": "/g6CT2EHRUc2FzRuEcxzsZrNpjGk.png",
+    "es": "/yfgO6QTChYR93I40d87V8wWdd41.png",
+    "sv": "/8jlfXXpp5BlMRMod7fq0MgBGmGK.png"
+   }
+  },
+  {
+   "id": 585,
+   "year": "2001",
+   "title": {
+    "fr": "Monstres & Cie",
+    "en": "Monsters, Inc.",
+    "de": "Die Monster AG",
+    "it": "Monsters & Co.",
+    "es": "Monstruos, S.A.",
+    "sv": "Monsters, Inc."
+   },
+   "backdrops": [
+    "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg"
+   ],
+   "logo": {
+    "fr": "/m77YatbparqRpvVoUAkKtZucVeE.png",
+    "en": "/grDBSGzGzDDvKezYNQWB65MkJXu.png",
+    "de": "/ngJTKD6LRQo5leYlcoNnH2NaT0G.png",
+    "it": "/eBiOBsN9bnUerVjP17jJp12Mq0j.png",
+    "es": "/AjXCJ8VGSdhQdLmHzKH2VTNnJmv.png"
+   }
+  },
+  {
+   "id": 9016,
+   "year": "2002",
+   "title": {
+    "fr": "La Planète au Trésor : Un nouvel univers",
+    "en": "Treasure Planet",
+    "de": "Der Schatzplanet",
+    "it": "Il pianeta del tesoro",
+    "es": "El planeta del tesoro",
+    "sv": "Skattkammarplaneten"
+   },
+   "backdrops": [
+    "/f2opsSUSiMdEp6AiY2sbC8QPd8S.jpg"
+   ],
+   "logo": {
+    "fr": "/247OqC2sUFv6CfLSkmgeuW0BQnD.png",
+    "en": "/gq5U32W6ohl1j3hhwzDzOwIMz6K.png",
+    "de": "/9JGzL9QSiaCYBcHyFkTIld2lUg1.png",
+    "it": "/leR6cu6WOIa4aBeMh4Tr9995q1n.png",
+    "es": "/A77Jly1vHrn2tOXjHmicdgM67n0.png",
+    "sv": "/5fmACNtvbTepTEUO808BluVajUz.png"
+   }
+  },
+  {
+   "id": 11544,
+   "year": "2002",
+   "title": {
+    "fr": "Lilo et Stitch",
+    "en": "Lilo & Stitch",
+    "de": "Lilo & Stitch",
+    "it": "Lilo & Stitch",
+    "es": "Lilo & Stitch",
+    "sv": "Lilo & Stitch"
+   },
+   "backdrops": [
+    "/AcxbOWUbwtIEDisfuhNGHQNfnMK.jpg"
+   ],
+   "logo": {
+    "fr": "/73LG1SttNNDAQhqBvKqw5gK2MpA.png",
+    "en": "/cTtQ1wKgJZUPAo0xymJUtPZQYYO.png",
+    "de": "/uV4mX8mSYTCkH715AuYh8u6xKQT.png",
+    "es": "/7HY2dPCI46NPZt3APMCZMDWXUZL.png"
+   }
+  },
+  {
+   "id": 10009,
+   "year": "2003",
+   "title": {
+    "fr": "Frère des ours",
+    "en": "Brother Bear",
+    "de": "Bärenbrüder",
+    "it": "Koda, fratello orso",
+    "es": "Hermano oso",
+    "sv": "Björnbröder"
+   },
+   "backdrops": [
+    "/sZhY0BAsN1bMAPLIqMRqG1fqb3A.jpg"
+   ],
+   "logo": {
+    "fr": "/cPYaggpJlvMtOkDJYgYXbcuyS3I.png",
+    "en": "/mhVGwD2fRgtmPF5cnxODVZUw2Zi.png",
+    "de": "/w0ZbG8gCsRNYqNOKOeuXk77sdiK.png",
+    "es": "/syBaZ0x9nrhFHifBUlHMGCWWbI7.png",
+    "sv": "/jnGVR6gVu4qjovHgTlFUNxY6UPv.png"
+   }
+  },
+  {
+   "id": 12,
+   "year": "2003",
+   "title": {
+    "fr": "Le Monde de Nemo",
+    "en": "Finding Nemo",
+    "de": "Findet Nemo",
+    "it": "Alla ricerca di Nemo",
+    "es": "Buscando a Nemo",
+    "sv": "Hitta Nemo"
+   },
+   "backdrops": [
+    "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg"
+   ],
+   "logo": {
+    "fr": "/5z0RJkKu3bMqOyHwbENJD9kv7a3.png",
+    "en": "/gRweHvOoM7hKg3q8iExsXzAhsBv.png",
+    "de": "/dGSXtTVTr8BV830bU7Hz5lmlHo1.png",
+    "it": "/7hUh8SvEvBm2HE2cLKyog6xN4KS.png",
+    "es": "/qTQug3WnJk9DLAbxoXLGqfagwIX.png",
+    "sv": "/zvx8qUhJ78Wiw3r2Xrfbv3luCmC.png"
+   }
+  },
+  {
+   "id": 13700,
+   "year": "2004",
+   "title": {
+    "fr": "La ferme se rebelle",
+    "en": "Home on the Range",
+    "de": "Die Kühe sind Los!",
+    "it": "Mucche alla riscossa",
+    "es": "Zafarrancho en el rancho",
+    "sv": "Kogänget"
+   },
+   "backdrops": [
+    "/Jghbo8U2XkmGjCfKD9NiMM70ha.jpg"
+   ],
+   "logo": {
+    "fr": "/1oBANO9JIfszTlV1SCx6W9YBv61.png",
+    "en": "/5Hse4fuFIvqktFA8DoQOOvWOjea.png",
+    "de": "/hY0TB0dHTNLYZUyIXeKSmZcnZ21.png",
+    "es": "/64eSg612flvkyg1EaZUvnhFe7J6.png",
+    "sv": "/ubt1bAcgZOBLEjhjXaALHOmQIwN.png"
+   }
+  },
+  {
+   "id": 9806,
+   "year": "2004",
+   "title": {
+    "fr": "Les Indestructibles",
+    "en": "The Incredibles",
+    "de": "Die Unglaublichen",
+    "it": "Gli Incredibili - Una \"normale\" famiglia di supereroi",
+    "es": "Los Increíbles",
+    "sv": "Superhjältarna"
+   },
+   "backdrops": [
+    "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg"
+   ],
+   "logo": {
+    "fr": "/AfRm06KPPxiEvBJO1iyudbNwWcg.png",
+    "en": "/3HPRaJU7yuBsG13wFrW3Znxo5R0.png",
+    "de": "/iThg75dzzO3kP79EA6uw7xQhW8y.png",
+    "it": "/nR0qkznjtVy06Nhajc3kZtR3pqQ.png",
+    "es": "/1tFZRihPDHGiSBoezNpP5bUU9Vz.png",
+    "sv": "/pWCfNOQINBFbXytNCFcLeGGXJRZ.png"
+   }
+  },
+  {
+   "id": 9982,
+   "year": "2005",
+   "title": {
+    "fr": "Chicken Little",
+    "en": "Chicken Little",
+    "de": "Himmel und Huhn",
+    "it": "Chicken Little - Amici per le penne",
+    "es": "Chicken Little",
+    "sv": "Lilla kycklingen"
+   },
+   "backdrops": [
+    "/h5Bwxe6dTVFtAFkybkd1EAB4yUW.jpg"
+   ],
+   "logo": {
+    "fr": "/cWg7hS4dWeVSbenVcBsCTvp7L1V.png",
+    "en": "/l0XCMXeGmqqxWN6BNWjVS4RikUo.png",
+    "de": "/ucZriVTQAT6MtXUdV2Gnmk0mx8i.png",
+    "sv": "/s1z706QL7oyV0lfBAtEUcJlTv7J.png"
+   }
+  },
+  {
+   "id": 920,
+   "year": "2006",
+   "title": {
+    "fr": "Cars : Quatre roues",
+    "en": "Cars",
+    "de": "Cars",
+    "it": "Cars - Motori ruggenti",
+    "es": "Cars",
+    "sv": "Bilar"
+   },
+   "backdrops": [
+    "/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg"
+   ],
+   "logo": {
+    "fr": "/eremUr9yXBaoRmKx96aj3MuQfxP.png",
+    "en": "/42wamhnoKqfLBpaXm5gNthHuOLm.png",
+    "it": "/hcO0Mdnrc3JVqpgfcV94ietk8dG.png",
+    "es": "/z3Q1DzNjYH6ituxrv62HtqeBEGX.png",
+    "sv": "/7yCe0bM4ys9DgVlTZRRBFDCk3RE.png"
+   }
+  },
+  {
+   "id": 1267,
+   "year": "2007",
+   "title": {
+    "fr": "Bienvenue chez les Robinson",
+    "en": "Meet the Robinsons",
+    "de": "Triff die Robinsons",
+    "it": "I Robinson - Una famiglia spaziale",
+    "es": "Descubriendo a los Robinsons",
+    "sv": "Familjen Robinson"
+   },
+   "backdrops": [
+    "/AsWuvFnzgmG6kZMIpJO7HZpvYRB.jpg"
+   ],
+   "logo": {
+    "fr": "/af7fZCrWZ72MFtAaN0IPftLL0AN.png",
+    "en": "/dXUNrJPd5j0P6t6Qebhg9zgT7SH.png",
+    "de": "/c4v4pimnIemk0VIByX4CLtcwuOh.png",
+    "es": "/fIa5n3jFUEGoQrIwWmCotyoQaxA.png",
+    "sv": "/tKrHWZJEUaWkAP5xMktFtXWmtNv.png"
+   }
+  },
+  {
+   "id": 2062,
+   "year": "2007",
+   "title": {
+    "fr": "Ratatouille",
+    "en": "Ratatouille",
+    "de": "Ratatouille",
+    "it": "Ratatouille",
+    "es": "Ratatouille",
+    "sv": "Råttatouille"
+   },
+   "backdrops": [
+    "/zeoaHdXRDd5IoUiMVsNhwTZm78B.jpg"
+   ],
+   "logo": {
+    "fr": "/cROPrWNXuxLsgbcVhf0Md02Xg48.png",
+    "en": "/5rOOsVxvoBgeFqneF65rGTog90H.png",
+    "es": "/tlgUHYHaoUS4FRKauBKcLR0DTEb.png",
+    "sv": "/r8dx265u2zbN7XY5XYiCseesKuI.png"
+   }
+  },
+  {
+   "id": 13053,
+   "year": "2008",
+   "title": {
+    "fr": "Volt, star malgré lui",
+    "en": "Bolt",
+    "de": "Bolt - Ein Hund für alle Fälle",
+    "it": "Bolt - Un eroe a quattro zampe",
+    "es": "Bolt",
+    "sv": "Bolt"
+   },
+   "backdrops": [
+    "/zWqxBc6pdSIjklqWfZ70l5ce28P.jpg"
+   ],
+   "logo": {
+    "fr": "/xomA05jEfX0ETrgmFUjGyAY8pso.png",
+    "en": "/latw9ZuHTWEMAEU7sjg3Dopx3aZ.png",
+    "es": "/x97Rz20wHUtarM5TXaRKlPwz7YY.png"
+   }
+  },
+  {
+   "id": 10681,
+   "year": "2008",
+   "title": {
+    "fr": "WALL·E",
+    "en": "WALL·E",
+    "de": "WALL·E - Der Letzte räumt die Erde auf",
+    "it": "WALL•E",
+    "es": "WALL·E: Batallón de limpieza",
+    "sv": "WALL-E"
+   },
+   "backdrops": [
+    "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg"
+   ],
+   "logo": {
+    "fr": "/8NdwNnOkBAF82NDX2aFZ2sxBN02.png",
+    "en": "/rgD6xUFYfQqfI28ZbqtvDPRwzck.png",
+    "de": "/2IiGW2chZoffpA6XuSLGkbQbWfv.png",
+    "es": "/hYeoW9SW7EHzvAsA5HcVEJmNsuY.png"
+   }
+  },
+  {
+   "id": 10198,
+   "year": "2009",
+   "title": {
+    "fr": "La Princesse et la Grenouille",
+    "en": "The Princess and the Frog",
+    "de": "Küss den Frosch",
+    "it": "La principessa e il ranocchio",
+    "es": "Tiana y el sapo",
+    "sv": "Prinsessan och grodan"
+   },
+   "backdrops": [
+    "/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg"
+   ],
+   "logo": {
+    "fr": "/AlICjiA2ajFLkfklFDw6FFAaM8z.png",
+    "en": "/kSI8Co0sX0XJSi5c9kGkAUgt0kw.png",
+    "de": "/1JCPcxeVC2E5ERBuXQot5ajXw1E.png",
+    "it": "/EUJUMUn1FcfwulFXv0kvdsSQ9T.png",
+    "es": "/cltjEJ6YfE4qJmcFc9hJmbLp1tA.png",
+    "sv": "/fcytxLm4wgivXrpGSdiyUW50dN6.png"
+   }
+  },
+  {
+   "id": 14160,
+   "year": "2009",
+   "title": {
+    "fr": "Là-haut",
+    "en": "Up",
+    "de": "Oben",
+    "it": "Up",
+    "es": "Up",
+    "sv": "Upp"
+   },
+   "backdrops": [
+    "/hGGC9gKo7CFE3fW07RA587e5kol.jpg"
+   ],
+   "logo": {
+    "fr": "/u1w7oKKrPS1btZ2p9YKbrqtMyi3.png",
+    "en": "/xi23eSwoibr5XeuZWBkTIBcA8O2.png",
+    "de": "/sVRfPUbo8E27Lxj9TRefVi67RZy.png",
+    "es": "/iZQ49BuiUEjY2JsneLXjUkiD1YU.png",
+    "sv": "/k9Gcyw4u95Unfqapbtcl4rmwOab.png"
+   }
+  },
+  {
+   "id": 38757,
+   "year": "2010",
+   "title": {
+    "fr": "Raiponce",
+    "en": "Tangled",
+    "de": "Rapunzel - Neu verföhnt",
+    "it": "Rapunzel - L'intreccio della torre",
+    "es": "Enredados",
+    "sv": "Trassel"
+   },
+   "backdrops": [
+    "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg"
+   ],
+   "logo": {
+    "fr": "/xETDaCINKea0sKNJo2YumkXc1D9.png",
+    "en": "/cvfhdrzcieECmif1byJ26b6cF2s.png",
+    "de": "/339sb8en8KN4TkXCaUT9YoUdO1Z.png",
+    "it": "/jrSrsMCZQLhnFgSfo6aFTPjfbtz.png",
+    "es": "/dHkN6MBT9WnmahgHPGKXWvucDkE.png",
+    "sv": "/uS7GD64z8LsYX8NYWYN6fKiA8Cg.png"
+   }
+  },
+  {
+   "id": 10193,
+   "year": "2010",
+   "title": {
+    "fr": "Toy Story 3",
+    "en": "Toy Story 3",
+    "de": "Toy Story 3",
+    "it": "Toy Story 3 - La grande fuga",
+    "es": "Toy Story 3",
+    "sv": "Toy Story 3"
+   },
+   "backdrops": [
+    "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg"
+   ],
+   "logo": {
+    "fr": "/rSRG9CszCufxNBeyKDWsmnOTgnC.png",
+    "en": "/1rBoAA0H6gE978rIgdgaLCJ265l.png",
+    "it": "/dqVrxD74JcOTUfNyjtpZ8hKPGJI.png"
+   }
+  },
+  {
+   "id": 49013,
+   "year": "2011",
+   "title": {
+    "fr": "Cars 2",
+    "en": "Cars 2",
+    "de": "Cars 2",
+    "it": "Cars 2",
+    "es": "Cars 2",
+    "sv": "Bilar 2"
+   },
+   "backdrops": [
+    "/robYRZk9LxJTwD7GlZCginji5k.jpg"
+   ],
+   "logo": {
+    "fr": "/zk5i1w2KtCnSQ9AWaDP6fbmf5eb.png",
+    "en": "/xSDu2zGuG0Ji2sEAZZNmyhQtaiU.png",
+    "es": "/sdavSzwUu7fzbWeRhZMZuc80yja.png",
+    "sv": "/4xRSu0tsEDuDNNtol1lDvtuPxQN.png"
+   }
+  },
+  {
+   "id": 51162,
+   "year": "2011",
+   "title": {
+    "fr": "Winnie l'ourson",
+    "en": "Winnie the Pooh",
+    "de": "Winnie Puuh",
+    "it": "Winnie the Pooh - Nuove avventure nel Bosco dei Cento Acri",
+    "es": "Winnie the Pooh",
+    "sv": "Nalle Puhs film - Nya äventyr i Sjumilaskogen"
+   },
+   "backdrops": [
+    "/e0SlSnLQzIhdcr86akVJinA1Jau.jpg"
+   ],
+   "logo": {
+    "fr": "/Aaa2IAehULO12m8aAk9kr4vuW28.png",
+    "en": "/6LSqgFiV1OIER6q1IraMYVP2K3l.png",
+    "de": "/5ahA3ATcoAXMJ7Ow2gddq7LzsjI.png",
+    "es": "/bGT0Wyn2N83xCUOLTIFd8opl5s.png",
+    "sv": "/9dpM4jcBgnMVtM7LJ5drP8krLHe.png"
+   }
+  },
+  {
+   "id": 82690,
+   "year": "2012",
+   "title": {
+    "fr": "Les Mondes de Ralph",
+    "en": "Wreck-It Ralph",
+    "de": "Ralph reichts",
+    "it": "Ralph Spaccatutto",
+    "es": "¡Rompe Ralph!",
+    "sv": "Röjar-Ralf"
+   },
+   "backdrops": [
+    "/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg"
+   ],
+   "logo": {
+    "fr": "/qKOhxvxnu4PDq4GsnlbAlDN6g79.png",
+    "en": "/7MJtrxiALfZ46QnJZSC8Aap7CFW.png",
+    "de": "/3Fc2s2f0zH3ck8mzgUE6QJ0j2x0.png",
+    "it": "/9wK9oOMAurXT92O30dtbRWNRveU.png",
+    "es": "/etjYf3t9PFgV0tNIRWLxMgdAtJy.png",
+    "sv": "/nB7xi0YMqnzbbv65XtuLmVMiQ3p.png"
+   }
+  },
+  {
+   "id": 62177,
+   "year": "2012",
+   "title": {
+    "fr": "Rebelle",
+    "en": "Brave",
+    "de": "Merida - Legende der Highlands",
+    "it": "Ribelle - The Brave",
+    "es": "Brave (Indomable)",
+    "sv": "Modig"
+   },
+   "backdrops": [
+    "/qx9ts2hBYJrkIQxhryitxnLlm2u.jpg"
+   ],
+   "logo": {
+    "fr": "/eGBVt2zZGHDr7SqY6sWitkeQodt.png",
+    "en": "/jVmdUsKemhHi0W0YD4FNLrCg0Hh.png",
+    "de": "/6P42r9Z0Vx2GK2L41vyGaT7e9aj.png",
+    "it": "/5rQjogHoma0F73z3LFKdsPbETmf.png",
+    "es": "/aeJhAW7DG2jO5VQ2Mxeez24oRhQ.png",
+    "sv": "/p7vw3Ry5k7uL6NAVoulvVg8xjvo.png"
+   }
+  },
+  {
+   "id": 109445,
+   "year": "2013",
+   "title": {
+    "fr": "La Reine des neiges",
+    "en": "Frozen",
+    "de": "Die Eiskönigin - Völlig unverfroren",
+    "it": "Frozen - Il regno di ghiaccio",
+    "es": "Frozen: El reino del hielo",
+    "sv": "Frost"
+   },
+   "backdrops": [
+    "/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg"
+   ],
+   "logo": {
+    "fr": "/d2EhE3Klfcawha3FKoQfEStn6mO.png",
+    "en": "/r05nI8WQvBbdvuwVXtXuvOi0cJ9.png",
+    "de": "/xxjLOrBOLGHihyaKNAfUaqTNXek.png",
+    "it": "/t2RxMeVl4f5AyMCe3zVuKMe0qGY.png",
+    "es": "/btBSMBV41VXBOfGVFnnQdM9Uflz.png",
+    "sv": "/k1Ch8JLiMuodDTEUXOeeWPPCNNH.png"
+   }
+  },
+  {
+   "id": 62211,
+   "year": "2013",
+   "title": {
+    "fr": "Monstres Academy",
+    "en": "Monsters University",
+    "de": "Die Monster Uni",
+    "it": "Monsters University",
+    "es": "Monstruos University",
+    "sv": "Monsters University"
+   },
+   "backdrops": [
+    "/mIpCxBWNz6SHCQBe2K2PFr5MB7f.jpg"
+   ],
+   "logo": {
+    "fr": "/oRQAh5VH3m1p40vP6X8Y25oLvPV.png",
+    "en": "/1G9iQzjuClydDqrJyuw0Vt1Kxut.png",
+    "de": "/cQtja6L17z0JHaZ89rfk9WY5ywF.png"
+   }
+  },
+  {
+   "id": 177572,
+   "year": "2014",
+   "title": {
+    "fr": "Les Nouveaux Héros",
+    "en": "Big Hero 6",
+    "de": "Baymax - Riesiges Robowabohu",
+    "it": "Big Hero 6",
+    "es": "Big Hero 6",
+    "sv": "Big Hero 6"
+   },
+   "backdrops": [
+    "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg"
+   ],
+   "logo": {
+    "fr": "/baaVVd3Msb0qh6MFFkUZWoVDw0I.png",
+    "en": "/2LUg1b1C0cyfTa422hUuya7wnqK.png",
+    "de": "/fEDAJSNi6zczZ2D3YpxaxrHzYoH.png",
+    "es": "/ganZhk94eaicQBcx3QGypDUT80I.png"
+   }
+  },
+  {
+   "id": 105864,
+   "year": "2015",
+   "title": {
+    "fr": "Le Voyage d'Arlo",
+    "en": "The Good Dinosaur",
+    "de": "Arlo & Spot",
+    "it": "Il viaggio di Arlo",
+    "es": "El viaje de Arlo",
+    "sv": "Den gode dinosaurien"
+   },
+   "backdrops": [
+    "/cF3H9pyUF6dsvqlYUcH0TyBAMTG.jpg"
+   ],
+   "logo": {
+    "fr": "/xYt0SsocBUlx9zD7JWJH7rOM21E.png",
+    "en": "/6k9a9TfoLjGdn0FNrVn8c5SusYj.png",
+    "de": "/jOYctjf34hBQK8P9eOtkFVe1HpX.png",
+    "es": "/5jox2gY5JU62Fr6VauqYnx3mGBY.png",
+    "sv": "/85eNGIJxoeKwgtrvbehDD3flTUl.png"
+   }
+  },
+  {
+   "id": 150540,
+   "year": "2015",
+   "title": {
+    "fr": "Vice-versa",
+    "en": "Inside Out",
+    "de": "Alles steht Kopf",
+    "it": "Inside Out",
+    "es": "Del revés (Inside Out)",
+    "sv": "Insidan ut"
+   },
+   "backdrops": [
+    "/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
+   ],
+   "logo": {
+    "fr": "/aklCYUQ9eX0utk6YLL7UzP1JiQw.png",
+    "en": "/rm7EZqB4AupYzoj0yPPMpyhsOO0.png",
+    "de": "/zmsWzjXXRXmqhBWtzWDTImCriBc.png",
+    "es": "/7VPSEOjcicen7gQwdQsbMy5n3CG.png",
+    "sv": "/6APOlFDJ9TIEHmsb33lHZALK0MG.png"
+   }
+  },
+  {
+   "id": 127380,
+   "year": "2016",
+   "title": {
+    "fr": "Le Monde de Dory",
+    "en": "Finding Dory",
+    "de": "Findet Dorie",
+    "it": "Alla ricerca di Dory",
+    "es": "Buscando a Dory",
+    "sv": "Hitta Doris"
+   },
+   "backdrops": [
+    "/wijltj1toRcicHlCn8Cpsp4yPXe.jpg"
+   ],
+   "logo": {
+    "fr": "/3qYhpzv0F8Tc9DBEMrNUv3HM1X8.png",
+    "en": "/sguLSByYIpYIgN5uedU6gh0dflX.png",
+    "de": "/pEnLXRDvwn8vzpQ6ZUpLxuPkzuM.png",
+    "it": "/vsPhR7xa9pzAZr3H3KrYwaMISpa.png",
+    "es": "/tochxMxTWvZiRRXaK8sq8o8M27U.png",
+    "sv": "/tn7y5dWeouuBBdJdtt51KPTbpEa.png"
+   }
+  },
+  {
+   "id": 277834,
+   "year": "2016",
+   "title": {
+    "fr": "Vaiana, la légende du bout du monde",
+    "en": "Moana",
+    "de": "Vaiana",
+    "it": "Oceania",
+    "es": "Vaiana",
+    "sv": "Vaiana"
+   },
+   "backdrops": [
+    "/qLVNZFHYUR6Li64He67SWl6BHQe.jpg"
+   ],
+   "logo": {
+    "fr": "/b7yqgLRBukg4wbcnGjuZhcrIeh2.png",
+    "en": "/oexzU1HUcq6Bzza4KMeU4MbzGza.png",
+    "de": "/pWdXZXkq3l2hDeKZUqy3Vje2X7v.png",
+    "it": "/rDAygm2F3ceqb5hUZcCt5GOeIFh.png",
+    "es": "/2oz43DmZK7543tdIJfme1a7DgeI.png",
+    "sv": "/tkPaJeymHUwo6PMPwfcHeJQLh4K.png"
+   }
+  },
+  {
+   "id": 269149,
+   "year": "2016",
+   "title": {
+    "fr": "Zootopie",
+    "en": "Zootopia",
+    "de": "Zoomania",
+    "it": "Zootropolis",
+    "es": "Zootrópolis",
+    "sv": "Zootropolis"
+   },
+   "backdrops": [
+    "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg"
+   ],
+   "logo": {
+    "fr": "/uN4eHLR8Hwa9jCDClnO5PYPC29q.png",
+    "en": "/bHIwMS8fSIM6kYfXdS7bD0mNYsq.png",
+    "de": "/k0DvJtK9GrhLJdOJHp8Au9wJmv5.png",
+    "it": "/qZCcdV8nJe8V0LDKeHelbYWpdFx.png",
+    "es": "/9XlMtEIoauZ546QVgPsA54t4P9D.png",
+    "sv": "/i59UvUHX4b4vbrtyZcHEyU75rJD.png"
+   }
+  },
+  {
+   "id": 260514,
+   "year": "2017",
+   "title": {
+    "fr": "Cars 3",
+    "en": "Cars 3",
+    "de": "Cars 3 - Evolution",
+    "it": "Cars 3",
+    "es": "Cars 3",
+    "sv": "Bilar 3"
+   },
+   "backdrops": [
+    "/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg"
+   ],
+   "logo": {
+    "fr": "/wxXGOT8iPET1OEo1kArV1GcDklC.png",
+    "en": "/q37qU7jFpx43z60n04gVoZMqIAv.png",
+    "es": "/xtZhCcUJ1YJYpA2iimWpqtSQcmf.png",
+    "sv": "/j2Q3M7HmtGD662xgw4gqXFPgTHz.png"
+   }
+  },
+  {
+   "id": 354912,
+   "year": "2017",
+   "title": {
+    "fr": "Coco",
+    "en": "Coco",
+    "de": "Coco - Lebendiger als das Leben!",
+    "it": "Coco",
+    "es": "Coco",
+    "sv": "Coco"
+   },
+   "backdrops": [
+    "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg"
+   ],
+   "logo": {
+    "fr": "/cTaWqsn54w83nCpX8K3tuTRa3OG.png",
+    "en": "/pLlaM6lXpKbwVCUdsqJ7axwb5UF.png",
+    "es": "/A5WVnUk6qcSQla6yMsPW2nQ7VB3.png"
+   }
+  },
+  {
+   "id": 260513,
+   "year": "2018",
+   "title": {
+    "fr": "Les Indestructibles 2",
+    "en": "Incredibles 2",
+    "de": "Die Unglaublichen 2",
+    "it": "Gli Incredibili 2",
+    "es": "Los Increíbles 2",
+    "sv": "Superhjältarna 2"
+   },
+   "backdrops": [
+    "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg"
+   ],
+   "logo": {
+    "fr": "/bcHWLKdwU8FHO1um0gPfjF4S8Xs.png",
+    "en": "/wtEebv4zf9TvvfywwXEcaScFRn7.png",
+    "de": "/2haqlXnCBkCelA0UHQtpjkhXZhi.png",
+    "it": "/vcC2PFZTR2MYvi4AwQg7HgFCjJE.png",
+    "es": "/tB8AzqdaIw8FTRISLECGzOrOqS0.png",
+    "sv": "/hJZZIHQFSeYL3kNm9LJgLx27yIK.png"
+   }
+  },
+  {
+   "id": 404368,
+   "year": "2018",
+   "title": {
+    "fr": "Ralph 2.0",
+    "en": "Ralph Breaks the Internet",
+    "de": "Chaos im Netz",
+    "it": "Ralph spacca Internet",
+    "es": "Ralph rompe Internet",
+    "sv": "Röjar-Ralf kraschar internet"
+   },
+   "backdrops": [
+    "/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg"
+   ],
+   "logo": {
+    "fr": "/fYUxjd4qY06iMJLiDpW4RgjAC3D.png",
+    "en": "/jDMp0iPLgZWwhmm2G3gob9NFKvz.png",
+    "de": "/a6NHk6EBU5N9MIBX8z5k0iRd2rH.png",
+    "it": "/ArPALTvDbDZ0xzmvp0SyofwV1hz.png",
+    "es": "/gqHl1eXB7Ekv82Qbs6UYPlhPxar.png",
+    "sv": "/A3kDWkqOemPVYqOZa2sN4kNsSjL.png"
+   }
+  },
+  {
+   "id": 330457,
+   "year": "2019",
+   "title": {
+    "fr": "La Reine des neiges II",
+    "en": "Frozen II",
+    "de": "Die Eiskönigin 2",
+    "it": "Frozen II - Il segreto di Arendelle",
+    "es": "Frozen 2",
+    "sv": "Frost 2"
+   },
+   "backdrops": [
+    "/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg"
+   ],
+   "logo": {
+    "fr": "/o2LJEwUbM8EPPr6mLnTzVeHTv6b.png",
+    "en": "/uVLjCFRS4cv1mFijWkzeKeI16DL.png",
+    "de": "/rdU3Ty4oc8bzHAJuQjBEtsQZsmy.png",
+    "it": "/8yHbKq4rMI0L1t663ogfWlXl5aU.png",
+    "sv": "/ihyBHS0fSUqdkdFek402DAt8NCG.png"
+   }
+  },
+  {
+   "id": 301528,
+   "year": "2019",
+   "title": {
+    "fr": "Toy Story 4",
+    "en": "Toy Story 4",
+    "de": "A Toy Story: Alles hört auf kein Kommando",
+    "it": "Toy Story 4",
+    "es": "Toy Story 4",
+    "sv": "Toy Story 4"
+   },
+   "backdrops": [
+    "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg"
+   ],
+   "logo": {
+    "fr": "/1QqRHq1faHdIzhUbYQnONhk0uJ4.png",
+    "en": "/2GRjstkOJcEBsflJeuwlcaPHq0m.png",
+    "de": "/dOapa8GRv6Nl6J1DGIicnfmh33D.png",
+    "it": "/79sRBN5pSJA9X1raD6jiDs2Ppw4.png"
+   }
+  },
+  {
+   "id": 508439,
+   "year": "2020",
+   "title": {
+    "fr": "En avant",
+    "en": "Onward",
+    "de": "Onward: Keine halben Sachen",
+    "it": "Onward - Oltre la magia",
+    "es": "Onward",
+    "sv": "Framåt"
+   },
+   "backdrops": [
+    "/dW6yBuKwiMeronJZw8kozYLMorB.jpg"
+   ],
+   "logo": {
+    "fr": "/732vLiNfl53OeeOC9NKmTW6K7Kz.png",
+    "en": "/zyyCmHROCGeBmIGX0sVbspmBEyv.png",
+    "de": "/w0B8gQQzbC2LfbUNvqQ8O8U9x5M.png",
+    "es": "/co2PA7qA0t0gwxIC7gQZ1AUr1rl.png",
+    "sv": "/qD1IOVDexaR42V1P1ts6tKe1Ni9.png"
+   }
+  },
+  {
+   "id": 508442,
+   "year": "2020",
+   "title": {
+    "fr": "Soul",
+    "en": "Soul",
+    "de": "Soul",
+    "it": "Soul",
+    "es": "Soul",
+    "sv": "Själen"
+   },
+   "backdrops": [
+    "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg"
+   ],
+   "logo": {
+    "fr": "/xBeFNSNl8zlwtbsdY8ErmK7LRJm.png",
+    "en": "/x0zdKfh6qqud6BZAITgP6zhmE1g.png",
+    "es": "/goglHaLvgEEF1PUrYziBjOWLPuK.png",
+    "sv": "/y6Szbc1cPPUCNEWpil1S8PG4iQl.png"
+   }
+  },
+  {
+   "id": 568124,
+   "year": "2021",
+   "title": {
+    "fr": "Encanto, la fantastique famille Madrigal",
+    "en": "Encanto",
+    "de": "Encanto",
+    "it": "Encanto",
+    "es": "Encanto",
+    "sv": "Encanto"
+   },
+   "backdrops": [
+    "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg"
+   ],
+   "logo": {
+    "fr": "/julfkDJZTG80YZnaxOYd42OL5sk.png",
+    "en": "/ycRmJIpQgOvWW8JOpGbuYz6z91W.png",
+    "es": "/3z4mBxVu66FEIPia4md4ecmwP7W.png"
+   }
+  },
+  {
+   "id": 508943,
+   "year": "2021",
+   "title": {
+    "fr": "Luca",
+    "en": "Luca",
+    "de": "Luca",
+    "it": "Luca",
+    "es": "Luca",
+    "sv": "Luca"
+   },
+   "backdrops": [
+    "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg"
+   ],
+   "logo": {
+    "fr": "/phaS426mhsB6sbJNQSN9VVMy3EW.png",
+    "en": "/1k0lYEyYy60L9yjnzKHHP9b5OIa.png"
+   }
+  },
+  {
+   "id": 527774,
+   "year": "2021",
+   "title": {
+    "fr": "Raya et le Dernier Dragon",
+    "en": "Raya and the Last Dragon",
+    "de": "Raya und der letzte Drache",
+    "it": "Raya e l'ultimo drago",
+    "es": "Raya y el último dragón",
+    "sv": "Raya och den sista draken"
+   },
+   "backdrops": [
+    "/zmX7ObPaRfiCmY6LMalUb1bJDKj.jpg"
+   ],
+   "logo": {
+    "fr": "/slEwCplub9ZGaHzxqUMI0MV17eN.png",
+    "en": "/etfk9zR84irhwoCSf9PJrhT1cmP.png",
+    "de": "/jSvLTJps1Ie868lxTp2eZE8ft8r.png",
+    "it": "/roGivlqoLe5ZJpcNKr2qExI7LJa.png",
+    "es": "/B4CWdyq6KdRE3kvb8H61xOx2Th.png",
+    "sv": "/3Nn1YBQGuJz6deQo3xhLic8a019.png"
+   }
+  },
+  {
+   "id": 508947,
+   "year": "2022",
+   "title": {
+    "fr": "Alerte rouge",
+    "en": "Turning Red",
+    "de": "Rot",
+    "it": "Red",
+    "es": "Red",
+    "sv": "Röd"
+   },
+   "backdrops": [
+    "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg"
+   ],
+   "logo": {
+    "fr": "/bkBO6Pbd2nz72NMJUojkvbhBPrc.png",
+    "en": "/ut7WBlw5q0odVHIpZSRgmm6Trkr.png",
+    "de": "/69ALhspBn0q4vGz9t4GdCIg2yQC.png",
+    "it": "/7Q3hmjjx2byVHu2ldLvV4dK5EKE.png",
+    "es": "/w0xaUJK54cuPxm6hq5lsGCwqtXo.png",
+    "sv": "/ivQAydA72bA60QSwh07r1Oe7q9n.png"
+   }
+  },
+  {
+   "id": 877269,
+   "year": "2022",
+   "title": {
+    "fr": "Avalonia, l'étrange voyage",
+    "en": "Strange World",
+    "de": "Strange World",
+    "it": "Strange World - Un mondo misterioso",
+    "es": "Mundo extraño",
+    "sv": "En annorlunda värld"
+   },
+   "backdrops": [
+    "/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg"
+   ],
+   "logo": {
+    "fr": "/ucoIvjprqnuxext0gFzxO86UT3L.png",
+    "en": "/2ho2tk0RFIV3T6eECEUN7PD54Fm.png",
+    "it": "/2aMPbLz4op2r40as1GGelvyQSsH.png",
+    "es": "/4eIlnHCivSR7qcuijcw054gOrSn.png",
+    "sv": "/jI0d9YUscfegFurHUwWvOHRLvk8.png"
+   }
+  },
+  {
+   "id": 718789,
+   "year": "2022",
+   "title": {
+    "fr": "Buzz l'Éclair",
+    "en": "Lightyear",
+    "de": "Lightyear",
+    "it": "Lightyear - La vera storia di Buzz",
+    "es": "Lightyear",
+    "sv": "Lightyear"
+   },
+   "backdrops": [
+    "/hwUxHPkuUleJeoick4uZsrKDXxF.jpg"
+   ],
+   "logo": {
+    "fr": "/2BD1hN6XZVFYGvs6Eek3hVObsEx.png",
+    "en": "/lPhvZ2sZBSZaqEhyzuz0DNHKFt6.png"
+   }
+  },
+  {
+   "id": 1022796,
+   "year": "2023",
+   "title": {
+    "fr": "Wish : Asha et la bonne étoile",
+    "en": "Wish",
+    "de": "Wish",
+    "it": "Wish",
+    "es": "Wish: El poder de los deseos",
+    "sv": "Önskan"
+   },
+   "backdrops": [
+    "/ehumsuIBbgAe1hg343oszCLrAfI.jpg"
+   ],
+   "logo": {
+    "fr": "/jjqPiS2mYfF6W7ddDsUrvJ3siQH.png",
+    "en": "/kHLzvQCqGhvZ5gqtK9al8Mbvi7g.png",
+    "es": "/ocgJuVeMQAqH0OpZ3U6oLxQs47F.png",
+    "sv": "/16V0ZOAVcumuYKskajXU2h4Eo4q.png"
+   }
+  },
+  {
+   "id": 976573,
+   "year": "2023",
+   "title": {
+    "fr": "Élémentaire",
+    "en": "Elemental",
+    "de": "Elemental",
+    "it": "Elemental",
+    "es": "Elemental",
+    "sv": "Elementärt"
+   },
+   "backdrops": [
+    "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg"
+   ],
+   "logo": {
+    "fr": "/tVwqWGE16eqPkHEwCnJsOoeZRZR.png",
+    "en": "/aYT1V9U0LjgCosicUA3oLnFF53x.png",
+    "de": "/yfnE5lDb81TSsMu9Ahkf89bzI2n.png",
+    "it": "/2WZVEWjSJSlZ14afeBCLMLYYY2V.png",
+    "es": "/glC1AWkQFUwCRQVIQY8hCAV9vkM.png",
+    "sv": "/3vJD8PkVqmZ6IW64pl6CwKP2uB7.png"
+   }
+  },
+  {
+   "id": 1241982,
+   "year": "2024",
+   "title": {
+    "fr": "Vaiana 2",
+    "en": "Moana 2",
+    "de": "Vaiana 2",
+    "it": "Oceania 2",
+    "es": "Vaiana 2",
+    "sv": "Vaiana 2"
+   },
+   "backdrops": [
+    "/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg"
+   ],
+   "logo": {
+    "fr": "/zenhHwP1VVBSyFbTBV49iR04Snb.png",
+    "en": "/mLcFQQ1NuhkT3TycMT49IXrCkcC.png",
+    "de": "/9BBRrUZ9RpINtCnXH4BvevaUujf.png",
+    "it": "/aqC0O0tfwaU6joNBcFRu6TLrjHR.png",
+    "es": "/6y1b2fmGr4ZoIxMcQRBF0PQ6Sw.png",
+    "sv": "/rTnuh4IWjclKgy4XKKlhfyVnsn3.png"
+   }
+  },
+  {
+   "id": 1022789,
+   "year": "2024",
+   "title": {
+    "fr": "Vice-versa 2",
+    "en": "Inside Out 2",
+    "de": "Alles steht Kopf 2",
+    "it": "Inside Out 2",
+    "es": "Del revés 2 (Inside Out 2)",
+    "sv": "Insidan ut 2"
+   },
+   "backdrops": [
+    "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
+   ],
+   "logo": {
+    "fr": "/eO3NJ6DTSbC26vQ3Mv6AQAAJonY.png",
+    "en": "/h40hblm8J1if7T2CBMjCD85HwuD.png",
+    "de": "/bDGj12qNutBTOpqutUYHlIzGz0x.png",
+    "it": "/aoenjJMv9mvfT06OmccIsJVlyuN.png",
+    "es": "/2pThxAbwd3L1XQ5LpHxWmADXzTx.png",
+    "sv": "/qxjX2a8CBKtaKwWxvWRwXlNh7nD.png"
+   }
+  },
+  {
+   "id": 1022787,
+   "year": "2025",
+   "title": {
+    "fr": "Elio",
+    "en": "Elio",
+    "de": "Elio",
+    "it": "Elio",
+    "es": "Elio",
+    "sv": "Elio"
+   },
+   "backdrops": [
+    "/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg"
+   ],
+   "logo": {
+    "fr": "/857gbd6k5ND7WwOK1a0FEvAlYIM.png",
+    "en": "/ezSSRvbpMA7pZfiTxJ1EJowi7Vm.png",
+    "es": "/uvsj8cQrqVbEUMTxIZXvQ4ezKFi.png"
+   }
+  },
+  {
+   "id": 1084242,
+   "year": "2025",
+   "title": {
+    "fr": "Zootopie 2",
+    "en": "Zootopia 2",
+    "de": "Zoomania 2",
+    "it": "Zootropolis 2",
+    "es": "Zootrópolis 2",
+    "sv": "Zootropolis 2"
+   },
+   "backdrops": [
+    "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg"
+   ],
+   "logo": {
+    "fr": "/414SEGltZGYaVo8JZjSMwh5HNhw.png",
+    "en": "/b2vTbsREFUNlUTkTsbLYGJBUlZH.png",
+    "de": "/kaZVBD0eqn1t3cv8SjdUpXJ018b.png",
+    "it": "/cwA4V4Xb7VzJ0R9k1OUtLwxbIQa.png",
+    "es": "/eZwZCmxED2niS2gvakcalxw97Sl.png",
+    "sv": "/JXyLFB4ZEk6FZsZ9rNNAMlo7gh.png"
+   }
+  },
+  {
+   "id": 1327819,
+   "year": "2026",
+   "title": {
+    "fr": "Jumpers",
+    "en": "Hoppers",
+    "de": "Hoppers",
+    "it": "Jumpers - Un salto tra gli animali",
+    "es": "Hoppers",
+    "sv": "Operation Bäver"
+   },
+   "backdrops": [
+    "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg"
+   ],
+   "logo": {
+    "fr": "/3dwAWdT9S26qHgWQCXObWEAhG3R.png",
+    "en": "/fl1x8jxKs38eFQyQndApSPX6Fux.png",
+    "de": "/zeJaypy43kYo6y5ADt9lxWqtkLc.png",
+    "it": "/vahgVKrzjTre2NIamuUIbOqwVxD.png",
+    "es": "/gsD5xIliP0YFfjXETFInVvNuIVL.png",
+    "sv": "/jW7Mr2wrt5DRGzn6ruOE33TyBWe.png"
+   }
+  },
+  {
+   "id": 1084244,
+   "year": "2026",
+   "title": {
+    "fr": "Toy Story 5",
+    "en": "Toy Story 5",
+    "de": "Toy Story 5",
+    "it": "Toy Story 5",
+    "es": "Toy Story 5",
+    "sv": "Toy Story 5"
+   },
+   "backdrops": [
+    "/qjTqY5coNiz6sVtPng40IzltsoN.jpg"
+   ],
+   "logo": {
+    "fr": "/4fQ4BcgGXZDX2HAmGQLbPUXVYNa.png",
+    "en": "/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
+    "de": "/ybyyRJPFUKNy9U3joGY5giWMc3b.png",
+    "it": "/AjaAavzPPvisWEgLKVHk8wNTKOv.png",
+    "es": "/w591RAh8h5R0F5cA2QcyBv7B4WI.png"
+   }
+  }
+ ]
+}

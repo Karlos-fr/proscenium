@@ -1,0 +1,68 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": "disney-pixar",
+   "name": {
+    "fr": "Disney & Pixar",
+    "en": "Disney & Pixar",
+    "de": "Disney & Pixar",
+    "it": "Disney & Pixar",
+    "es": "Disney & Pixar",
+    "sv": "Disney & Pixar"
+   },
+   "description": {
+    "fr": "Les longs métrages d'animation des studios Disney et Pixar",
+    "en": "Animated feature films from Disney and Pixar",
+    "de": "Animierte Spielfilme von Disney und Pixar",
+    "it": "I lungometraggi d'animazione Disney e Pixar",
+    "es": "Los largometrajes de animación de Disney y Pixar",
+    "sv": "Animerade långfilmer från Disney och Pixar"
+   },
+   "films": 89,
+   "cover": "/4yWayBvwl9gHXaWrDrAslxjL7mh.jpg"
+  },
+  {
+   "id": "classiques-marvel",
+   "name": {
+    "fr": "Classiques & Marvel",
+    "en": "Classics & Marvel",
+    "de": "Klassiker & Marvel",
+    "it": "Classici & Marvel",
+    "es": "Clásicos y Marvel",
+    "sv": "Klassiker & Marvel"
+   },
+   "description": {
+    "fr": "Grands classiques du cinéma et films Marvel",
+    "en": "Great film classics and Marvel movies",
+    "de": "Große Filmklassiker und Marvel-Filme",
+    "it": "Grandi classici del cinema e film Marvel",
+    "es": "Grandes clásicos del cine y películas de Marvel",
+    "sv": "Stora filmklassiker och Marvel-filmer"
+   },
+   "films": 43,
+   "cover": "/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg"
+  },
+  {
+   "id": "ghibli",
+   "name": {
+    "fr": "Studio Ghibli",
+    "en": "Studio Ghibli",
+    "de": "Studio Ghibli",
+    "it": "Studio Ghibli",
+    "es": "Studio Ghibli",
+    "sv": "Studio Ghibli"
+   },
+   "description": {
+    "fr": "Les films d'animation du Studio Ghibli",
+    "en": "The animated films of Studio Ghibli",
+    "de": "Die Animationsfilme von Studio Ghibli",
+    "it": "I film d'animazione dello Studio Ghibli",
+    "es": "Las películas de animación del Studio Ghibli",
+    "sv": "Studio Ghiblis animerade filmer"
+   },
+   "films": 25,
+   "cover": "/z2jsAbXWGdJvadhovznjGg33VND.jpg"
+  }
+ ]
+}

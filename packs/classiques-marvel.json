@@ -1,0 +1,940 @@
+{
+ "id": "classiques-marvel",
+ "name": {
+  "fr": "Classiques & Marvel",
+  "en": "Classics & Marvel",
+  "de": "Klassiker & Marvel",
+  "it": "Classici & Marvel",
+  "es": "Clásicos y Marvel",
+  "sv": "Klassiker & Marvel"
+ },
+ "description": {
+  "fr": "Grands classiques du cinéma et films Marvel",
+  "en": "Great film classics and Marvel movies",
+  "de": "Große Filmklassiker und Marvel-Filme",
+  "it": "Grandi classici del cinema e film Marvel",
+  "es": "Grandes clásicos del cine y películas de Marvel",
+  "sv": "Stora filmklassiker och Marvel-filmer"
+ },
+ "films": [
+  {
+   "id": 679,
+   "year": "1986",
+   "title": {
+    "fr": "Aliens, le retour",
+    "en": "Aliens",
+    "de": "Aliens - Die Rückkehr",
+    "it": "Aliens - Scontro finale",
+    "es": "Aliens: El regreso",
+    "sv": "Aliens - återkomsten"
+   },
+   "backdrops": [
+    "/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg"
+   ],
+   "logo": {
+    "fr": "/oPfIWgFGftL9hXPLbz8U85Y5TZ9.png",
+    "en": "/8VjEUUn7MS61ZzeeQTuo0otOCWC.png",
+    "de": "/f2inHWJi2BOU3YQfNtl1HY7gcNu.png",
+    "it": "/isMgyJ7ykKFOYHwXEwAF300dhnC.png",
+    "es": "/b9rfPHx7qURf8uUo0CvQeTpJ8vJ.png",
+    "sv": "/ltxmSb5nZl4GDN0YcbhXtG7lio8.png"
+   }
+  },
+  {
+   "id": 24428,
+   "year": "2012",
+   "title": {
+    "fr": "Avengers",
+    "en": "The Avengers",
+    "de": "Marvel's The Avengers",
+    "it": "The Avengers",
+    "es": "Vengadores",
+    "sv": "Avengers"
+   },
+   "backdrops": [
+    "/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg"
+   ],
+   "logo": {
+    "fr": "/57dQq6y92XciIy4zXqi6uUo1nZf.png",
+    "en": "/2VLCNzMOGayRGdiSGyaOD0MzA3Y.png",
+    "es": "/41K6Pj56MITowyjsUyENSCtAIJY.png"
+   }
+  },
+  {
+   "id": 299534,
+   "year": "2019",
+   "title": {
+    "fr": "Avengers : Endgame",
+    "en": "Avengers: Endgame",
+    "de": "Avengers: Endgame",
+    "it": "Avengers: Endgame",
+    "es": "Vengadores: Endgame",
+    "sv": "Avengers: Endgame"
+   },
+   "backdrops": [
+    "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg"
+   ],
+   "logo": {
+    "fr": "/g9ceyt6lxZwHgzdhgqrzy3WmZBB.png",
+    "en": "/gvGe333uy5FynrYAtGuQwlzzxku.png",
+    "es": "/buRixJDsTvxTHuY6xXK8p9wZoYU.png"
+   }
+  },
+  {
+   "id": 299536,
+   "year": "2018",
+   "title": {
+    "fr": "Avengers : Infinity War",
+    "en": "Avengers: Infinity War",
+    "de": "Avengers: Infinity War",
+    "it": "Avengers: Infinity War",
+    "es": "Vengadores: Infinity War",
+    "sv": "Avengers: Infinity War"
+   },
+   "backdrops": [
+    "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
+   ],
+   "logo": {
+    "fr": "/uEYht3G0rTUR4jIXo4ojbkdLk7K.png",
+    "en": "/iiFFPJduveJnb6D2TYKL4AFJIFn.png",
+    "es": "/6SH4ANv9KvArYxdJ2TDvSJCvGhG.png"
+   }
+  },
+  {
+   "id": 99861,
+   "year": "2015",
+   "title": {
+    "fr": "Avengers : L'Ère d'Ultron",
+    "en": "Avengers: Age of Ultron",
+    "de": "Avengers: Age of Ultron",
+    "it": "Avengers: Age of Ultron",
+    "es": "Vengadores: La era de Ultrón",
+    "sv": "Avengers: Age of Ultron"
+   },
+   "backdrops": [
+    "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg"
+   ],
+   "logo": {
+    "fr": "/pVy1M8S8dXKkEQKWofvj4pyBokL.png",
+    "en": "/20LDr1XcZV7e9vIDZadm8iRsDcx.png",
+    "es": "/of8hrpd4rumHl8J2GWO2LmWeS3T.png"
+   }
+  },
+  {
+   "id": 284054,
+   "year": "2018",
+   "title": {
+    "fr": "Black Panther",
+    "en": "Black Panther",
+    "de": "Black Panther",
+    "it": "Black Panther",
+    "es": "Black Panther",
+    "sv": "Black Panther"
+   },
+   "backdrops": [
+    "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg"
+   ],
+   "logo": {
+    "fr": "/uR8Rm64Lva6iqg6vAfZfEbaA6Vs.png",
+    "en": "/2T3WO0ZgiICLRfirgA0L1fVEhwx.png",
+    "es": "/ziiBAvzCgF19C6lYZV6mfNzI6B9.png"
+   }
+  },
+  {
+   "id": 271110,
+   "year": "2016",
+   "title": {
+    "fr": "Captain America : Civil War",
+    "en": "Captain America: Civil War",
+    "de": "The First Avenger: Civil War",
+    "it": "Captain America: Civil War",
+    "es": "Capitán América: Civil War",
+    "sv": "Captain America: Civil War"
+   },
+   "backdrops": [
+    "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg"
+   ],
+   "logo": {
+    "fr": "/oWeM2bLuPANwqQ7jpkQ1LC1NKiP.png",
+    "en": "/w1ZLhVffmmKDGoB8Oi0MdlQTw6m.png",
+    "de": "/oftt8VTBGATYu4CftwxUyLdo5J8.png",
+    "es": "/1R8GF0PmmIVQyTQu7Czn03VHoUw.png"
+   }
+  },
+  {
+   "id": 1771,
+   "year": "2011",
+   "title": {
+    "fr": "Captain America : First Avenger",
+    "en": "Captain America: The First Avenger",
+    "de": "Captain America: The First Avenger",
+    "it": "Captain America - Il primo vendicatore",
+    "es": "Capitán América: El primer vengador",
+    "sv": "Captain America: The First Avenger"
+   },
+   "backdrops": [
+    "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg"
+   ],
+   "logo": {
+    "fr": "/7BJwslpou0zCdd9P6OlQw9AcSbE.png",
+    "en": "/1GPeoEcMOUvkgwRXY76s9zE57I9.png",
+    "it": "/j9L6O6jQcPUWKulGGfu3AxpwB7V.png",
+    "es": "/bPz8Dv3aUlgQH6CJz9rVH063Mfm.png"
+   }
+  },
+  {
+   "id": 100402,
+   "year": "2014",
+   "title": {
+    "fr": "Captain America : Le Soldat de l'hiver",
+    "en": "Captain America: The Winter Soldier",
+    "de": "The Return of the First Avenger",
+    "it": "Captain America: The Winter Soldier",
+    "es": "Capitán América: El Soldado de Invierno",
+    "sv": "Captain America: The Winter Soldier"
+   },
+   "backdrops": [
+    "/jJvrPQAHFKmz4pVano4UtWTsRgA.jpg"
+   ],
+   "logo": {
+    "fr": "/zfRdVA9NKi1q0b3yNq8TCCDz4H1.png",
+    "en": "/7taEKhcDUfQyUV5F0vPAnzs0bYm.png",
+    "de": "/uaU1s1ejbrwnuUlxzpbVvVrtXWz.png",
+    "es": "/j3qfatOtBaETO8nme8dLvefD2mx.png"
+   }
+  },
+  {
+   "id": 284052,
+   "year": "2016",
+   "title": {
+    "fr": "Doctor Strange",
+    "en": "Doctor Strange",
+    "de": "Doctor Strange",
+    "it": "Doctor Strange",
+    "es": "Doctor Strange",
+    "sv": "Doctor Strange"
+   },
+   "backdrops": [
+    "/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg"
+   ],
+   "logo": {
+    "fr": "/ipuKJ3vRRpWUSpo6oCY6bAABhd4.png",
+    "en": "/oGTJ88hszp8GuTpppGmYceJB7RP.png",
+    "it": "/n2OUPKHh3mU4f9ENiaRiZMPwA7Z.png",
+    "es": "/5wS1ffWgEdA2NcbjZypunACUPDG.png"
+   }
+  },
+  {
+   "id": 601,
+   "year": "1982",
+   "title": {
+    "fr": "E.T. l'extra-terrestre",
+    "en": "E.T. the Extra-Terrestrial",
+    "de": "E.T. – Der Außerirdische",
+    "it": "E.T. l'extra-terrestre",
+    "es": "E.T., el extraterrestre",
+    "sv": "E.T. the Extra-Terrestrial"
+   },
+   "backdrops": [
+    "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg"
+   ],
+   "logo": {
+    "fr": "/4IUWmiRIvPzTM8LnLRgr4p5Xh65.png",
+    "en": "/cj5vQJiJ9ByXNNeVy3mG5exM1BA.png",
+    "de": "/jZ7JwXj3YMNG6YELeAiKHOUBQYN.png",
+    "it": "/oeeYwbJat46xeWhisVDUxtkbMoD.png",
+    "es": "/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+   }
+  },
+  {
+   "id": 927,
+   "year": "1984",
+   "title": {
+    "fr": "Gremlins",
+    "en": "Gremlins",
+    "de": "Gremlins - Kleine Monster",
+    "it": "Gremlins",
+    "es": "Gremlins",
+    "sv": "Gremlins"
+   },
+   "backdrops": [
+    "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg"
+   ],
+   "logo": {
+    "fr": "/bcndK5CHQrUfIGmMSgwe3wwQEjZ.png",
+    "en": "/pC4yMTDailjuGZO6JOqG5Ot0G63.png",
+    "de": "/x2tcB2nKX71qQZhL8Weychu6dlj.png",
+    "es": "/fbFJ5SVajGly1kCLdSjOUCM1wAA.png"
+   }
+  },
+  {
+   "id": 879,
+   "year": "1991",
+   "title": {
+    "fr": "Hook ou la Revanche du capitaine Crochet",
+    "en": "Hook",
+    "de": "Hook",
+    "it": "Hook - Capitan Uncino",
+    "es": "Hook (El capitán Garfio)",
+    "sv": "Hook"
+   },
+   "backdrops": [
+    "/x5VGdEBBGuhA0YRlk6dFFxGcamG.jpg"
+   ],
+   "logo": {
+    "fr": "/ehR9N1Fkb0P0kgpGBoPU2M55mbX.png",
+    "en": "/hDOd76RiUwHuGe5GDTrYImhDYg6.png",
+    "it": "/8DzHy40KFoVW8drml9yZdo2doS6.png",
+    "es": "/vDVwX9GknQM1aXKQLZzbiyLTJiZ.png"
+   }
+  },
+  {
+   "id": 602,
+   "year": "1996",
+   "title": {
+    "fr": "Independence Day",
+    "en": "Independence Day",
+    "de": "Independence Day",
+    "it": "Independence Day",
+    "es": "Independence Day",
+    "sv": "Independence Day"
+   },
+   "backdrops": [
+    "/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg"
+   ],
+   "logo": {
+    "fr": "/ndeJ8VDjt24pT1rkp5k9e11EZiZ.png",
+    "en": "/mwoCHwBuWrEd9RLPrktHV33esnT.png",
+    "es": "/6sJFDKxnsaKfSHgXuP1Uk9qvlRO.png"
+   }
+  },
+  {
+   "id": 89,
+   "year": "1989",
+   "title": {
+    "fr": "Indiana Jones et la dernière croisade",
+    "en": "Indiana Jones and the Last Crusade",
+    "de": "Indiana Jones und der letzte Kreuzzug",
+    "it": "Indiana Jones e l'ultima crociata",
+    "es": "Indiana Jones y la última cruzada",
+    "sv": "Indiana Jones och det sista korståget"
+   },
+   "backdrops": [
+    "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg"
+   ],
+   "logo": {
+    "fr": "/9fFHjJudBcKyvsGexC9C8Zq3OMn.png",
+    "en": "/AoXnr773qvewCqQ5OnD8sSA1s0l.png",
+    "de": "/eomKJY6enLPViN5WroJN93f6BkE.png",
+    "it": "/rJr0XT6QGZphozXqCLmryfGq8R6.png",
+    "es": "/zSlO3CnCdLq7vZUmRDrk9WRk9Z.png",
+    "sv": "/lvQZxs5Srj8UXMKTT4vziJrQMHs.png"
+   }
+  },
+  {
+   "id": 87,
+   "year": "1984",
+   "title": {
+    "fr": "Indiana Jones et le Temple maudit",
+    "en": "Indiana Jones and the Temple of Doom",
+    "de": "Indiana Jones und der Tempel des Todes",
+    "it": "Indiana Jones e il tempio maledetto",
+    "es": "Indiana Jones y el templo maldito",
+    "sv": "Indiana Jones och de fördömdas tempel"
+   },
+   "backdrops": [
+    "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg"
+   ],
+   "logo": {
+    "fr": "/qQHsBo2Jv7dUSiQ8hzIwdyDJe5J.png",
+    "en": "/qrcg92Ps9YATpetzILW60qgolNT.png",
+    "de": "/7A1yPPIK107BiVznZrgfg5pP68k.png",
+    "it": "/fm6WMKkZK4zTIxRj3cm2ncc6voN.png",
+    "es": "/rUqugZkR5R55Z0mVcb3uu3IOYbY.png",
+    "sv": "/oRH9NxOqh7In3tEcVooDyNVs0pp.png"
+   }
+  },
+  {
+   "id": 1726,
+   "year": "2008",
+   "title": {
+    "fr": "Iron Man",
+    "en": "Iron Man",
+    "de": "Iron Man",
+    "it": "Iron Man",
+    "es": "Iron Man",
+    "sv": "Iron Man"
+   },
+   "backdrops": [
+    "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg"
+   ],
+   "logo": {
+    "fr": "/4aXD4t6kSSCX92r5LXP0QnSSLk8.png",
+    "en": "/f1EpI3C6wd1iv7dCxNi3vU5DAX7.png",
+    "de": "/jN5riS6FwndKvaRLxlYgbELxIw0.png",
+    "it": "/c2Fmag8objUUTPIbd60WWRm9HRp.png"
+   }
+  },
+  {
+   "id": 329,
+   "year": "1993",
+   "title": {
+    "fr": "Jurassic Park",
+    "en": "Jurassic Park",
+    "de": "Jurassic Park",
+    "it": "Jurassic Park",
+    "es": "Jurassic Park (Parque Jurásico)",
+    "sv": "Jurassic Park"
+   },
+   "backdrops": [
+    "/4SyDTF02R5BepqSdQmOaNCHObzF.jpg"
+   ],
+   "logo": {
+    "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
+    "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
+    "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
+   }
+  },
+  {
+   "id": 11,
+   "year": "1977",
+   "title": {
+    "fr": "La Guerre des étoiles",
+    "en": "Star Wars",
+    "de": "Krieg der Sterne",
+    "it": "Guerre stellari",
+    "es": "La guerra de las galaxias",
+    "sv": "Stjärnornas krig"
+   },
+   "backdrops": [
+    "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg"
+   ],
+   "logo": {
+    "fr": "/aj27iLLhAcmKyCHhwt3kwONNXnI.png",
+    "en": "/vswPivs3yuUsk5aW6DbnyeNQ4GX.png",
+    "de": "/fODbPT1ALJcOSFfcAyJehCkrlwQ.png",
+    "it": "/n9PCMQtJzcHTwjmVjFRWOj6TBQK.png",
+    "es": "/dLgwXopLDtvZ3pn7GbMbSsckKuc.png"
+   }
+  },
+  {
+   "id": 330,
+   "year": "1997",
+   "title": {
+    "fr": "Le monde perdu : Jurassic Park",
+    "en": "The Lost World: Jurassic Park",
+    "de": "Vergessene Welt: Jurassic Park",
+    "it": "Il mondo perduto - Jurassic Park",
+    "es": "El mundo perdido: Jurassic Park",
+    "sv": "The Lost World: Jurassic Park"
+   },
+   "backdrops": [
+    "/A4rYaPdzgocCjQ0n9LUSYUxyvpS.jpg"
+   ],
+   "logo": {
+    "fr": "/ryMRxGYQdeb3gf9Exad9sjEr0Mc.png",
+    "en": "/nS98j1pAPCkHxOfgmN6YPHhZ6Hm.png",
+    "de": "/7cEZvIZkYAZdQJzza5BKamQkCZy.png",
+    "it": "/knelNX3dFI5dLh1IbLkck1gC27a.png",
+    "es": "/5QMKyZYsiph25a1iJybP7ANgsGX.png"
+   }
+  },
+  {
+   "id": 1892,
+   "year": "1983",
+   "title": {
+    "fr": "Le Retour du Jedi",
+    "en": "Return of the Jedi",
+    "de": "Die Rückkehr der Jedi-Ritter",
+    "it": "Il ritorno dello Jedi",
+    "es": "El retorno del Jedi",
+    "sv": "Jedins återkomst"
+   },
+   "backdrops": [
+    "/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
+   ],
+   "logo": {
+    "fr": "/syXVQAuBRxA7SAUYTr1Tc7WUvah.png",
+    "en": "/p6UVRBp1Hveqf5nrHAIlIq2LZk0.png",
+    "de": "/p401Gv0Voko2VsHk7XxZEIwPTEN.png",
+    "it": "/1s613zRcu9ANXVKaUSn83AZpMyB.png",
+    "es": "/bOB6lRH8Y0j1Z1g3bDqbGHKBobS.png"
+   }
+  },
+  {
+   "id": 8587,
+   "year": "1994",
+   "title": {
+    "fr": "Le Roi lion",
+    "en": "The Lion King",
+    "de": "Der König der Löwen",
+    "it": "Il re leone",
+    "es": "El rey león",
+    "sv": "Lejonkungen"
+   },
+   "backdrops": [
+    "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg"
+   ],
+   "logo": {
+    "fr": "/6QK2lwAgmym2ctjb7Uvm6vTXD7g.png",
+    "en": "/4ldICpAouQAhuT4z3A6tXYMR4Kz.png",
+    "de": "/j4JUoIqeYrMgEK6WOsUyieuv4hd.png",
+    "it": "/7vbtq1yG9Or9J4x2Ls7ejlrszb6.png",
+    "es": "/oIjNoucWBbtwk4TcJfsP0kffur0.png",
+    "sv": "/476j8du5ibBZGeHJzXFZjsc3nCo.png"
+   }
+  },
+  {
+   "id": 85,
+   "year": "1981",
+   "title": {
+    "fr": "Les Aventuriers de l'arche perdue",
+    "en": "Raiders of the Lost Ark",
+    "de": "Jäger des verlorenen Schatzes",
+    "it": "I predatori dell'arca perduta",
+    "es": "En busca del arca perdida",
+    "sv": "Jakten på den försvunna skatten"
+   },
+   "backdrops": [
+    "/zPACwR32amTNvzId9qyapCWXYDJ.jpg"
+   ],
+   "logo": {
+    "fr": "/7xCuK6sEVCupDWwnw7khvC88BC9.png",
+    "en": "/pQwAK7zj1tU8bYdVI47v7bUpv5B.png",
+    "de": "/6UkVejM8Y3AbD3eLHPb7BZWg8iZ.png",
+    "it": "/jIwN17u4X89hE7yYqa5yKYdwR1l.png",
+    "es": "/ql6eKGJhaovo0QnJLnwtebddSGq.png",
+    "sv": "/gbx2Dy5pSuFtSAccTHYh50p52L6.png"
+   }
+  },
+  {
+   "id": 118340,
+   "year": "2014",
+   "title": {
+    "fr": "Les Gardiens de la Galaxie",
+    "en": "Guardians of the Galaxy",
+    "de": "Guardians of the Galaxy",
+    "it": "Guardiani della Galassia",
+    "es": "Guardianes de la galaxia",
+    "sv": "Guardians of the Galaxy"
+   },
+   "backdrops": [
+    "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg"
+   ],
+   "logo": {
+    "fr": "/uMMSqe3Fdjl7BUW9H8M2smJq9N5.png",
+    "en": "/tikZxXefORICSFaRxEJ01YEfOu1.png",
+    "it": "/n72mdjuHlK41YpjvkKdKq1EHvJQ.png",
+    "es": "/yNdPfPqsFgPgPiU35NrRzuLFVM.png"
+   }
+  },
+  {
+   "id": 447365,
+   "year": "2023",
+   "title": {
+    "fr": "Les Gardiens de la Galaxie : Volume 3",
+    "en": "Guardians of the Galaxy Vol. 3",
+    "de": "Guardians of the Galaxy Vol. 3",
+    "it": "Guardiani della Galassia Vol. 3",
+    "es": "Guardianes de la Galaxia: Volumen 3",
+    "sv": "Guardians of the Galaxy Vol. 3"
+   },
+   "backdrops": [
+    "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg"
+   ],
+   "logo": {
+    "fr": "/8eFke1aevNZBvTA8qVUuVEWCrFh.png",
+    "en": "/A532V9h9obWT6dLsAZizJlawIaY.png",
+    "it": "/cdFFWhWs8ZEMz25jHgSCd5ZcXDx.png",
+    "es": "/Noi3XhX7UKaEPwyIJQKjlzG9Jc.png"
+   }
+  },
+  {
+   "id": 9340,
+   "year": "1985",
+   "title": {
+    "fr": "Les Goonies",
+    "en": "The Goonies",
+    "de": "Die Goonies",
+    "it": "I Goonies",
+    "es": "Los Goonies",
+    "sv": "The Goonies - dödskallegänget"
+   },
+   "backdrops": [
+    "/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg"
+   ],
+   "logo": {
+    "fr": "/mFhGWiadxBCUHTKjpan70vrhs2l.png",
+    "en": "/pjBLobqECI8tEKjM6BL88nLOL4j.png",
+    "de": "/4H7pC9UfagGjer04tucIF9ZxROL.png",
+    "it": "/hCbYfrxmBHg2ScoYjCeqsNcx6j7.png",
+    "es": "/xtpE3IYtl1gz5l8at7SvdVuPHDE.png",
+    "sv": "/9Q7QFfZ7ppbdCaUfIzmCrl5sd6A.png"
+   }
+  },
+  {
+   "id": 1891,
+   "year": "1980",
+   "title": {
+    "fr": "L'Empire contre-attaque",
+    "en": "The Empire Strikes Back",
+    "de": "Das Imperium schlägt zurück",
+    "it": "L'Impero colpisce ancora",
+    "es": "El imperio contraataca",
+    "sv": "Rymdimperiet slår tillbaka"
+   },
+   "backdrops": [
+    "/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
+   ],
+   "logo": {
+    "fr": "/vHjIGQUmf0Glxlj3RnonJK8PhQy.png",
+    "en": "/bNgZMOcEqdtJejjvZOlfE7W0HQI.png",
+    "de": "/bjp6mY4D3jlYBdebedEyg9m9w3y.png",
+    "it": "/ms0pZRAHJAwE9uURAoklLP4ZJFa.png",
+    "es": "/9cfYSldHZmPukaatZRS4Ren3QX8.png"
+   }
+  },
+  {
+   "id": 603,
+   "year": "1999",
+   "title": {
+    "fr": "Matrix",
+    "en": "The Matrix",
+    "de": "Matrix",
+    "it": "Matrix",
+    "es": "Matrix",
+    "sv": "Matrix"
+   },
+   "backdrops": [
+    "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
+   ],
+   "logo": {
+    "fr": "/iBrE6JgSbNbWjLuYKdDpEDl9rlU.png",
+    "en": "/iWxxHjuJ1vCLQcg3iiOMucvbrF1.png",
+    "de": "/vI6oPPFZjfr4jOu21NHyoZmfsn2.png",
+    "it": "/7tg7ZTv0AbO5afJaUZguvqK5O4g.png",
+    "es": "/kA8phmxG7h4BIN061fiutckq9Ho.png"
+   }
+  },
+  {
+   "id": 607,
+   "year": "1997",
+   "title": {
+    "fr": "Men in Black",
+    "en": "Men in Black",
+    "de": "Men in Black",
+    "it": "Men in Black",
+    "es": "Hombres de negro",
+    "sv": "Men in Black"
+   },
+   "backdrops": [
+    "/o9puyKpayQoX8ikIaYtf2PfKv3.jpg"
+   ],
+   "logo": {
+    "en": "/mTevhilEOa7dqILrE9YQnNhkIQ7.png",
+    "es": "/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
+   }
+  },
+  {
+   "id": 562,
+   "year": "1988",
+   "title": {
+    "fr": "Piège de cristal",
+    "en": "Die Hard",
+    "de": "Stirb langsam",
+    "it": "Trappola di cristallo",
+    "es": "Jungla de cristal",
+    "sv": "Die Hard"
+   },
+   "backdrops": [
+    "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg"
+   ],
+   "logo": {
+    "fr": "/taW4Bu1ndiqSdwRyDiN4wBaPQcZ.png",
+    "en": "/elYpRiF6dJbnkB5yMvoWolidLvj.png",
+    "de": "/rnz9gQWE1OnwyuQjEGJ0Jdi828W.png",
+    "it": "/waBN3K8WbresEsXsmef1o4qlhSM.png",
+    "es": "/w8DyM4j0cGVfSvrDqf3AtgEkdqr.png"
+   }
+  },
+  {
+   "id": 105,
+   "year": "1985",
+   "title": {
+    "fr": "Retour vers le futur",
+    "en": "Back to the Future",
+    "de": "Zurück in die Zukunft",
+    "it": "Ritorno al futuro",
+    "es": "Regreso al futuro",
+    "sv": "Tillbaka till framtiden"
+   },
+   "backdrops": [
+    "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg"
+   ],
+   "logo": {
+    "fr": "/qBgFS7Lln11vQ3zRtISUmKCDyrL.png",
+    "en": "/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "de": "/hERkSr0EYaKNv3wLJo4bgIBpYyV.png",
+    "it": "/n5odobvL1L56AQVStx53eIRv5Mh.png",
+    "es": "/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
+    "sv": "/x6UqUDCC6wbutLCCFyaHvPNcaKj.png"
+   }
+  },
+  {
+   "id": 165,
+   "year": "1989",
+   "title": {
+    "fr": "Retour vers le futur II",
+    "en": "Back to the Future Part II",
+    "de": "Zurück in die Zukunft II",
+    "it": "Ritorno al futuro - Parte II",
+    "es": "Regreso al futuro II",
+    "sv": "Tillbaka till framtiden del II"
+   },
+   "backdrops": [
+    "/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg"
+   ],
+   "logo": {
+    "fr": "/maqUxsuLKjFGv8mFic4aIym15rL.png",
+    "en": "/hcMAuJFNVfEKjdBsWg5XIOSdTZa.png",
+    "de": "/jEGRNqdXTIOje732jMnPJrbOldz.png",
+    "it": "/bO4fQjzoayBDqYGAxonf8RBpKKh.png",
+    "es": "/hJOIF2KVRgdTonfyLkCdyq6buo5.png",
+    "sv": "/37co8tfzQaCv7cBJvnvPqkZO9ug.png"
+   }
+  },
+  {
+   "id": 196,
+   "year": "1990",
+   "title": {
+    "fr": "Retour vers le futur III",
+    "en": "Back to the Future Part III",
+    "de": "Zurück in die Zukunft III",
+    "it": "Ritorno al futuro - Parte III",
+    "es": "Regreso al futuro III",
+    "sv": "Tillbaka till framtiden del III"
+   },
+   "backdrops": [
+    "/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg"
+   ],
+   "logo": {
+    "fr": "/1kwCQTsVUKAGkLXrz1FJrFZgzQb.png",
+    "en": "/vfJybPoKmZzOVypmOMOzvXxTHky.png",
+    "de": "/37DrkP8EmvozullWYEBPtY4Z8AY.png",
+    "it": "/yArZzQAxPC7aZi5sfEsiTGRjRoc.png",
+    "es": "/R7CCAaWeyYu15jtXHAjEDejGY1.png",
+    "sv": "/4LfM0XfewM9JnMl7X1Xbu0ETnss.png"
+   }
+  },
+  {
+   "id": 620,
+   "year": "1984",
+   "title": {
+    "fr": "S.O.S. Fantômes",
+    "en": "Ghostbusters",
+    "de": "Ghostbusters - Die Geisterjäger",
+    "it": "Ghostbusters (Acchiappafantasmi)",
+    "es": "Los Cazafantasmas",
+    "sv": "Ghostbusters - Spökligan"
+   },
+   "backdrops": [
+    "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg"
+   ],
+   "logo": {
+    "fr": "/sI3X7H9jVazCRROUCYbmwTNVVJy.png",
+    "en": "/zZaNFDIURV51vMsNYGKc7Uguymj.png",
+    "de": "/t2IAruxMzX1hj9R35rTXYCjFEpM.png",
+    "it": "/zgSi2oybhVaoE7qBPIOoQa7lZjM.png",
+    "es": "/kJADnzciFbQXNT3CWUUSxa4ywcq.png",
+    "sv": "/rq0ZUSMBIxUkjk7qMwpyv1jGCMf.png"
+   }
+  },
+  {
+   "id": 315635,
+   "year": "2017",
+   "title": {
+    "fr": "Spider-Man : Homecoming",
+    "en": "Spider-Man: Homecoming",
+    "de": "Spider-Man: Homecoming",
+    "it": "Spider-Man: Homecoming",
+    "es": "Spider-Man: Homecoming",
+    "sv": "Spider-Man: Homecoming"
+   },
+   "backdrops": [
+    "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg"
+   ],
+   "logo": {
+    "fr": "/3o2gGJSNsmPOxuaIxeDchKlvlv9.png",
+    "en": "/dBuI6v9X484QeG3fb4oH8RJ7021.png",
+    "it": "/pc8X5EvS0skMDDJ70l5F0iM8fmu.png",
+    "es": "/z1NmlOHGhFOt4cQJpyl9AHUtUsx.png"
+   }
+  },
+  {
+   "id": 634649,
+   "year": "2021",
+   "title": {
+    "fr": "Spider-Man : No Way Home",
+    "en": "Spider-Man: No Way Home",
+    "de": "Spider-Man: No Way Home",
+    "it": "Spider-Man: No Way Home",
+    "es": "Spider-Man: No Way Home",
+    "sv": "Spider-Man: No Way Home"
+   },
+   "backdrops": [
+    "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg"
+   ],
+   "logo": {
+    "fr": "/jsoz5mnNzlsBqA8EiG71wdmCw6E.png",
+    "en": "/9xjIoK8eGVvMdiqwUQbEBUeh9Ej.png",
+    "it": "/fgPVQgBvuRRr7MCgIKwy4VGUXZa.png",
+    "es": "/yu1IfNUAb0VBCt39tJsBAjZ9HlU.png"
+   }
+  },
+  {
+   "id": 1893,
+   "year": "1999",
+   "title": {
+    "fr": "Star Wars, épisode I - La Menace fantôme",
+    "en": "Star Wars: Episode I - The Phantom Menace",
+    "de": "Star Wars: Episode I - Die dunkle Bedrohung",
+    "it": "Star Wars: Episodio I - La minaccia fantasma",
+    "es": "La guerra de las galaxias. Episodio I: La amenaza fantasma",
+    "sv": "Det mörka hotet"
+   },
+   "backdrops": [
+    "/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
+   ],
+   "logo": {
+    "fr": "/kew3bmV7a0HCnuGJFpgOoJJhi5Q.png",
+    "en": "/ng7NyKidNO3tpngil1jW6DNMPVx.png",
+    "de": "/s2OPnklfUDQExrhgMAHDrx27JOY.png",
+    "it": "/leivDqFnLgAkw5Cqh9mjPtsR4DE.png",
+    "es": "/b3W3Yqm7FGiNC1TFtkiJ3i6BJF4.png"
+   }
+  },
+  {
+   "id": 280,
+   "year": "1991",
+   "title": {
+    "fr": "Terminator 2 : Le Jugement dernier",
+    "en": "Terminator 2: Judgment Day",
+    "de": "Terminator 2 - Tag der Abrechnung",
+    "it": "Terminator 2 - Il giorno del giudizio",
+    "es": "Terminator 2: El juicio final",
+    "sv": "Terminator 2: Domedagen"
+   },
+   "backdrops": [
+    "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg"
+   ],
+   "logo": {
+    "fr": "/m1gAZv4QigKC2kxxVRsJjrBUCd1.png",
+    "en": "/xlnwUwRjB5u1E4jLjV1dEVc5lqS.png",
+    "de": "/mT6lmHuoWeoYZZYkjoZvoJROzFI.png",
+    "it": "/pnDA3ZSNhJKGquiyatI7ipTZXoJ.png",
+    "es": "/J7vIMfYlrTepIGhUX4IrniPyxU.png"
+   }
+  },
+  {
+   "id": 10195,
+   "year": "2011",
+   "title": {
+    "fr": "Thor",
+    "en": "Thor",
+    "de": "Thor",
+    "it": "Thor",
+    "es": "Thor",
+    "sv": "Thor"
+   },
+   "backdrops": [
+    "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg"
+   ],
+   "logo": {
+    "fr": "/ozHObzkMvVmzbXrlIRbqIMR3v9i.png",
+    "en": "/mhWN03HN4j9nSkomzDKZyl6xVuq.png",
+    "it": "/jKJuSs2tg3FBIF7EXO875xitWhR.png",
+    "es": "/41G1yzrJywCiTFTgmCAsQtrvLCA.png"
+   }
+  },
+  {
+   "id": 284053,
+   "year": "2017",
+   "title": {
+    "fr": "Thor : Ragnarok",
+    "en": "Thor: Ragnarok",
+    "de": "Thor: Tag der Entscheidung",
+    "it": "Thor: Ragnarok",
+    "es": "Thor: Ragnarok",
+    "sv": "Thor: Ragnarök"
+   },
+   "backdrops": [
+    "/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg"
+   ],
+   "logo": {
+    "fr": "/vr4W7JZvHORxeQ7wdvqcVXhbAz5.png",
+    "en": "/qmlvTIqxZMb4ED9WB91UuwRSGw.png",
+    "de": "/iWsZfKpZy2T4Se6GcxO9NyvtgBk.png"
+   }
+  },
+  {
+   "id": 597,
+   "year": "1997",
+   "title": {
+    "fr": "Titanic",
+    "en": "Titanic",
+    "de": "Titanic",
+    "it": "Titanic",
+    "es": "Titanic",
+    "sv": "Titanic"
+   },
+   "backdrops": [
+    "/sCzcYW9h55WcesOqA12cgEr9Exw.jpg"
+   ],
+   "logo": {
+    "fr": "/m73D0BWDcJs53TjuFwHxlWZux9i.png",
+    "en": "/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
+    "es": "/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png"
+   }
+  },
+  {
+   "id": 744,
+   "year": "1986",
+   "title": {
+    "fr": "Top Gun",
+    "en": "Top Gun",
+    "de": "Top Gun - Sie fürchten weder Tod noch Teufel",
+    "it": "Top Gun",
+    "es": "Top Gun: Ídolos del aire",
+    "sv": "Top Gun"
+   },
+   "backdrops": [
+    "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
+   ],
+   "logo": {
+    "fr": "/iUVKR05MBzbSjIMVM9kBXIayJG3.png",
+    "en": "/xNgCQCtuho9cezrE925hjMtio4G.png",
+    "es": "/wfZCqteye4nQttmHszgxkqAMSTw.png"
+   }
+  },
+  {
+   "id": 862,
+   "year": "1995",
+   "title": {
+    "fr": "Toy Story",
+    "en": "Toy Story",
+    "de": "Toy Story",
+    "it": "Toy Story - Il mondo dei giocattoli",
+    "es": "Toy Story",
+    "sv": "Toy Story"
+   },
+   "backdrops": [
+    "/8AqWECiUHnz1Crj69uB9vhiK9Le.jpg"
+   ],
+   "logo": {
+    "fr": "/fCyduKmikHt0aJnEn9FEBTAmNTn.png",
+    "en": "/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png",
+    "it": "/uKE9CXtd8BNgu9wCtEYmvd5qlMx.png"
+   }
+  }
+ ]
+}
