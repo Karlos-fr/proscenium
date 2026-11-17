@@ -1,0 +1,124 @@
+<p align="center">
+  <img src="../images/banner.png" alt="Proscenium" width="760" />
+</p>
+
+<p align="center">
+  <a href="../README.md"><img src="../images/flags/flag-gb.svg" alt="" width="18" height="12" /> English</a>
+  /
+  <a href="README.de.md"><img src="../images/flags/flag-de.svg" alt="" width="18" height="12" /> Deutsch</a>
+  /
+  <a href="README.it.md"><img src="../images/flags/flag-it.svg" alt="" width="18" height="12" /> Italiano</a>
+  /
+  <a href="README.es.md"><img src="../images/flags/flag-es.svg" alt="" width="18" height="12" /> Español</a>
+  /
+  <a href="README.sv.md"><img src="../images/flags/flag-se.svg" alt="" width="18" height="12" /> Svenska</a>
+  /
+  <a href="README.fr.md"><img src="../images/flags/flag-fr.svg" alt="" width="18" height="12" /> Français</a>
+</p>
+
+# Proscenium
+
+Proscenium ersätter startskärmen på din Android-TV med en biosalong: stora filmbilder i helskärm som
+rör sig mjukt, ett glasfält för dina appar, klockan, vädret och ett bioläge som tar över när
+fjärrkontrollen får ligga still.
+
+Det fungerar på Android TV- och Google TV-apparater och -boxar (Android 7.1 eller senare) och styrs
+helt med fjärrkontrollen.
+
+## Installation
+
+1. Ladda ner `Proscenium.apk` från sidan [Releases](https://github.com/Karlos-fr/proscenium/releases)
+   och installera den på TV:n (via ett USB-minne och en filhanterare, eller med en app som
+   ”Send files to TV”).
+2. Öppna Proscenium. Första gången kan Android be dig välja startskärm: välj Proscenium.
+3. På Google TV-apparater (Sony, TCL, Chromecast …) tar hem-knappen på fjärrkontrollen alltid dig
+   till Googles startskärm. För att den ska öppna Proscenium aktiverar du tjänsten som finns för
+   det: **Inställningar → System → Hem-knappstjänst**, som öppnar Androids tillgänglighetssida.
+
+Inställningarna öppnar du genom att markera fältet med klockan och vädret (pil uppåt, sedan OK),
+eller från menyn för en app i fältet.
+
+## Startskärmen
+
+- **Filmbakgrunder i helskärm** som byts ut med några sekunders mellanrum, med en övergång som du
+  väljer (toning, glidning …).
+- **Ken Burns-effekt**: bilden zoomar och glider långsamt, som i en dokumentär. Omfång och längd kan
+  justeras.
+- **Färger som följer bilden**: den dominerande färgen i varje bakgrund färgar glaset, ljuset och
+  ikonerna. Eller en fast färg, om du föredrar det.
+- **Läsbarhet**: en lätt mörkläggning visas bara där texten annars vore svår att läsa.
+- **Djup**: bakgrunden förskjuts lite när markeringen flyttas, och kommer först suddig, sedan
+  skarp när du återvänder till startskärmen.
+- **Klockan och datumet**, stort, med siffror som rullar. 24- eller 12-timmarsformat, justerbar
+  storlek.
+- **Ett informationsfält**: använt minne, processor och vädret för din stad med en animerad ikon
+  (roterande sol, regn, snö, åska, dimma), temperatur, vind, vindriktning och byar. Varje element
+  kan döljas.
+
+## Appfältet
+
+- **En karusell med dina appar**, med deras TV-banners. Välj vilka som ska visas och i vilken
+  ordning.
+- **Den markerade appen** växer, lutar lätt, får en reflektion och ett färgat ljus runt sig. Ljuset
+  tar färgen från appens logotyp och böljar mjukt runt hela appen.
+- **Realistiskt glas**: fältet bryter bilden som passerar bakom det, med förinställningar (Klart,
+  Subtilt, Frostat, Starkt) och effekter som stilla vatten, vätska eller regn.
+- **Genvägar till HDMI-ingångar**: en spelkonsol, en Blu-ray-spelare eller en box som är ansluten
+  till TV:n får en egen ruta i fältet, med ett namn och en ikon bland 24 konsoler (PlayStation, Xbox,
+  Nintendo, Sega …). OK går direkt till rätt ingång.
+- **Allt går att justera**: antal synliga appar, rutornas storlek och avstånd, band i full bredd
+  eller flytande fält, rullningshastighet, återgång till början efter sista appen.
+
+## Bioläget och skärmsläckaren
+
+När fjärrkontrollen får ligga still en stund går startskärmen över i **bioläge**: gränssnittet
+tonas bort, svarta fält beskär bilden till biografformat (2:1 eller Scope 2,39:1) och filmens titel
+visas, med sin officiella logotyp när det finns en, och utgivningsår. Väntetid, fält, titel och
+banner kan justeras.
+
+Proscenium kan också fungera som **Androids skärmsläckare**: välj den i Androids inställningar,
+under Skärmsläckare.
+
+## Dina bakgrunder: spellistor och paket
+
+Bilderna på startskärmen kommer antingen från **Bings dagliga foton** eller från **dina spellistor**
+med filmer.
+
+- **Bakgrundspaket**: färdiga tematiska spellistor (Disney & Pixar, Studio Ghibli,
+  Klassiker & Marvel …) som du installerar med ett klick från
+  **Inställningar → Spellistor → Bläddra bland paket**. De kräver ingen TMDB-nyckel. Titlar och logotyper
+  visas på ditt språk när de finns.
+- **Dina egna spellistor**: sök efter en film på titel, med tangentbordet eller rösten, eller
+  importera alla populära eller trendande filmer på en gång. För varje film väljer du den eller de
+  bakgrunder du gillar och logotypen som ska visas.
+- **Aktuella trender**: en spellista som uppdaterar sig själv varje dag med de filmer som är
+  populära just nu.
+- Flera spellistor kan vara aktiva samtidigt: deras bakgrunder blandas.
+
+Bilderna kommer från [The Movie Database (TMDB)](https://www.themoviedb.org). Du kan välja att bara
+visa bakgrunder utan text och i Full HD.
+
+## TMDB-nyckeln
+
+Paketen fungerar utan nyckel. För att söka efter filmer själv behöver du en gratis TMDB-API-nyckel:
+skapa ett konto på [themoviedb.org](https://www.themoviedb.org/signup) och begär sedan en nyckel i
+kontots inställningar, under API.
+
+Du behöver inte skriva in den med fjärrkontrollen: **Inställningar → Filmer (TMDB) → Ange nyckeln
+från telefonen** visar en QR-kod. Skanna den med din telefon (ansluten till samma nätverk som TV:n)
+och klistra in nyckeln på sidan som öppnas: TV:n kontrollerar den och sparar den.
+
+## Och dessutom
+
+- **Sex språk**: franska, engelska, tyska, italienska, spanska och svenska. Som standard TV:ns
+  språk.
+- **Diskreta gränssnittsljud**, med justerbar volym.
+- **Sparläge**: stänger av de mest krävande effekterna med ett enda klick, för små boxar.
+- **Säkerhetskopiering och återställning** av alla inställningar.
+
+## Tack till
+
+- Filmer, bakgrunder och logotyper: [The Movie Database (TMDB)](https://www.themoviedb.org). Den här
+  produkten använder TMDB:s API men är varken godkänd eller certifierad av TMDB. Bilderna tillhör
+  fortfarande sina respektive rättighetsinnehavare.
+- Dagens foton: Bing. Väder: [Open-Meteo](https://open-meteo.com).

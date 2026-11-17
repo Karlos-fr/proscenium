@@ -1,39 +1,122 @@
+<p align="center">
+  <img src="images/banner.png" alt="Proscenium" width="760" />
+</p>
+
+<p align="center">
+  <a href="README.md"><img src="images/flags/flag-gb.svg" alt="" width="18" height="12" /> English</a>
+  /
+  <a href="doc/README.de.md"><img src="images/flags/flag-de.svg" alt="" width="18" height="12" /> Deutsch</a>
+  /
+  <a href="doc/README.it.md"><img src="images/flags/flag-it.svg" alt="" width="18" height="12" /> Italiano</a>
+  /
+  <a href="doc/README.es.md"><img src="images/flags/flag-es.svg" alt="" width="18" height="12" /> Español</a>
+  /
+  <a href="doc/README.sv.md"><img src="images/flags/flag-se.svg" alt="" width="18" height="12" /> Svenska</a>
+  /
+  <a href="doc/README.fr.md"><img src="images/flags/flag-fr.svg" alt="" width="18" height="12" /> Français</a>
+</p>
+
 # Proscenium
 
-Écran d'accueil (launcher) pour Android TV, façon salle de cinéma : fonds de films en plein écran
-avec effet Ken Burns, barre d'applications en verre, horloge, météo, raccourcis vers les entrées HDMI,
-économiseur d'écran « mode cinéma ». Interface en français, anglais, allemand, italien, espagnol et suédois.
+Proscenium turns the home screen of your Android TV into a movie theatre: large film images
+filling the screen and moving gently, a glass app bar, the time, the weather, and a cinema mode
+that takes over when the remote is put down.
 
-## Compiler
+It runs on Android TV / Google TV televisions and boxes (Android 7.1 or later) and is driven
+entirely with the remote.
 
-Sans Gradle : `launcher/build.ps1` enchaîne aapt2, javac, d8, zipalign et apksigner
-(SDK Android dans `android-sdk/`, non publié).
+## Installation
 
-```powershell
-cd launcher
-.\build.ps1
-```
+1. Download `Proscenium.apk` from the [Releases](https://github.com/Karlos-fr/proscenium/releases)
+   page and install it on the TV (with a USB stick and a file manager, or an app such as
+   "Send files to TV").
+2. Open Proscenium. The first time, Android may ask you to choose the home screen: pick Proscenium.
+3. On Google TV sets (Sony, TCL, Chromecast…), the Home button of the remote always brings back the
+   Google home screen. To make it open Proscenium, turn on the service made for this:
+   **Settings → System → Home button service**, which opens Android's accessibility page.
 
-`python launcher/check-strings.py` vérifie que chaque texte existe dans toutes les langues.
+To open the settings, select the time and weather header (arrow up, then OK), or use the menu of
+an app in the bar.
 
-## Packs de fonds
+## The home screen
 
-Le dossier [`packs/`](packs) contient des playlists thématiques prêtes à installer depuis l'appli
-(Réglages → Playlists → Packs de fonds). Un pack ne contient **aucune image** : seulement les numéros
-TMDB des films, les chemins des fonds et logos choisis et les titres dans chaque langue. L'appli
-télécharge les images directement depuis TMDB.
+- **Full-screen film backdrops**, changing every few seconds, with the transition of your choice
+  (blur and zoom, fade, slide).
+- **Ken Burns effect**: the picture slowly zooms and drifts, like in a documentary. Strength and
+  duration can be adjusted.
+- **Colours that follow the picture**: the dominant colour of each backdrop tints the glass, the
+  light and the icons. Or a fixed colour, if you prefer.
+- **Readability**: a slight shading appears only where text would be hard to read.
+- **Depth**: the backdrop shifts a little when the selection moves, and comes in blurred then sharp
+  when you return to the home screen.
+- **The time and date**, large, with rolling digits. 24-hour or 12-hour format, adjustable size.
+- **An information header**: memory used, processor, and the weather in your town with an animated
+  icon (spinning sun, rain, snow, storm, fog), the temperature, the wind, its direction and gusts.
+  Each item can be hidden.
 
-`python packs/build_packs.py [playlists.json]` reconstruit les packs (clé TMDB dans `tmdb.key`, non publiée).
+## The app bar
 
-## Clé TMDB
+- **A carousel of your apps**, with their TV banners. Choose which ones appear and in what order.
+- **The selected app** grows, tilts slightly, gets a shine and a coloured light around it. That
+  light takes the colour of its logo and ripples gently all around.
+- **Realistic glass**: the bar refracts the picture behind it, with presets (Clear, Subtle, Frosted,
+  Strong) and calm water, liquid or rain effects.
+- **Shortcuts to HDMI inputs**: a console, a Blu-ray player or a box plugged into the TV gets its
+  own tile in the bar, with a name and an icon chosen among 24 consoles (PlayStation, Xbox,
+  Nintendo, Sega…). OK switches straight to the right input.
+- **Everything can be tuned**: number of visible apps, tile size and spacing, full-width band or
+  floating bar, scrolling speed, wrapping back to the first app after the last one.
 
-Les fonctions de recherche de films demandent une clé d'API TMDB personnelle (gratuite). Elle se saisit
-sur la TV, ou depuis le téléphone : Réglages → Films → « Saisir la clé depuis le téléphone » affiche
-un QR code vers une petite page servie par la TV sur le réseau local.
+## Cinema mode and screensaver
 
-## Crédits
+When the remote stays down for a while, the home screen switches to **cinema mode**: the interface
+fades away, black bars frame the picture in a cinema format (2:1 or Scope 2.39:1), and the film's
+title appears, with its official logo when there is one and its year. The delay, the bars, the
+title and the header can all be adjusted.
 
-- Films, fonds et logos : [The Movie Database (TMDB)](https://www.themoviedb.org).
-  Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB.
-  Les images restent la propriété de leurs ayants droit.
-- Photos du jour : Bing. Météo : [Open-Meteo](https://open-meteo.com).
+Proscenium can also be used as the **Android screensaver**: pick it in Android's settings, under
+Screen saver.
+
+## Your backdrops: playlists and packs
+
+The home screen pictures come either from **Bing's photos of the day** or from **your playlists**
+of films.
+
+- **Background packs**: ready-made themed playlists (Disney & Pixar, Studio Ghibli,
+  Classics & Marvel…), installed in one click from **Settings → Playlists → Browse packs**. They
+  need no TMDB key. Titles and logos are in your language when they exist.
+- **Your own playlists**: search for a film by its title, with the keyboard or by voice, or import
+  the popular or trending films at once. For each film, choose the backdrops you like and the logo
+  to show.
+- **Trending now**: a playlist that updates itself every day with the films of the moment.
+- Several playlists can be active at the same time: their backdrops are mixed.
+
+The pictures come from [The Movie Database (TMDB)](https://www.themoviedb.org). You can show only
+backdrops without text and in Full HD.
+
+## The TMDB key
+
+Packs work without a key. To search for films yourself, you need a TMDB API key, which is free:
+create an account on [themoviedb.org](https://www.themoviedb.org/signup), then request a key in your
+account settings, under API.
+
+No need to type it with the remote: **Settings → Films (TMDB) → Enter the key from your phone**
+shows a QR code. Scan it with your phone (on the same network as the TV) and paste the key in the
+page that opens: the TV checks it and saves it.
+
+## And also
+
+- **Six languages**: English, French, German, Italian, Spanish and Swedish. By default, the TV's
+  language.
+- **Discreet interface sounds**, with adjustable volume.
+- **Economy mode**: turns off the most demanding effects at once, for small boxes.
+- **Backup and restore** of all settings.
+
+## Credits
+
+- Films, backdrops and logos: [The Movie Database (TMDB)](https://www.themoviedb.org). This product
+  uses the TMDB API but is not endorsed or certified by TMDB. The pictures remain the property of
+  their rights holders.
+- Photos of the day: Bing. Weather: [Open-Meteo](https://open-meteo.com).
+
+To build the app or the packs yourself: [doc/BUILDING.md](doc/BUILDING.md) (in French).

@@ -1,0 +1,123 @@
+<p align="center">
+  <img src="../images/banner.png" alt="Proscenium" width="760" />
+</p>
+
+<p align="center">
+  <a href="../README.md"><img src="../images/flags/flag-gb.svg" alt="" width="18" height="12" /> English</a>
+  /
+  <a href="README.de.md"><img src="../images/flags/flag-de.svg" alt="" width="18" height="12" /> Deutsch</a>
+  /
+  <a href="README.it.md"><img src="../images/flags/flag-it.svg" alt="" width="18" height="12" /> Italiano</a>
+  /
+  <a href="README.es.md"><img src="../images/flags/flag-es.svg" alt="" width="18" height="12" /> Español</a>
+  /
+  <a href="README.sv.md"><img src="../images/flags/flag-se.svg" alt="" width="18" height="12" /> Svenska</a>
+  /
+  <a href="README.fr.md"><img src="../images/flags/flag-fr.svg" alt="" width="18" height="12" /> Français</a>
+</p>
+
+# Proscenium
+
+Proscenium remplace l'écran d'accueil de votre TV Android par une salle de cinéma : de grandes
+images de films en plein écran qui bougent doucement, une barre d'applications en verre, l'heure,
+la météo, et un mode cinéma qui prend le relais quand la télécommande reste posée.
+
+Il fonctionne sur les TV et boîtiers Android TV / Google TV (Android 7.1 ou plus récent) et se pilote
+entièrement à la télécommande.
+
+## Installation
+
+1. Téléchargez `Proscenium.apk` sur la page [Releases](https://github.com/Karlos-fr/proscenium/releases)
+   et installez-le sur la TV (par une clé USB et un gestionnaire de fichiers, ou une appli comme
+   « Send files to TV »).
+2. Ouvrez Proscenium. La première fois, Android peut vous demander de choisir l'écran d'accueil :
+   choisissez Proscenium.
+3. Sur les TV Google TV (Sony, TCL, Chromecast…), le bouton Accueil de la télécommande ramène
+   toujours l'accueil Google. Pour qu'il ouvre Proscenium, activez le service prévu pour ça :
+   **Réglages → Système → Service du bouton Accueil**, qui ouvre la page d'accessibilité d'Android.
+
+Les réglages s'ouvrent en sélectionnant le bandeau de l'heure et de la météo (flèche vers le haut,
+puis OK), ou depuis le menu d'une appli de la barre.
+
+## L'accueil
+
+- **Fonds de films en plein écran**, renouvelés toutes les quelques secondes, avec une transition au
+  choix (fondu, glissement…).
+- **Effet Ken Burns** : l'image zoome et dérive lentement, comme dans un documentaire. Ampleur et
+  durée réglables.
+- **Couleurs qui suivent l'image** : la couleur dominante de chaque fond teinte le verre, la lumière
+  et les icônes. Ou une couleur fixe, si vous préférez.
+- **Lisibilité** : un léger assombrissement n'apparaît que là où le texte serait difficile à lire.
+- **Profondeur** : le fond se décale un peu quand la sélection bouge, et arrive flou puis net quand
+  on revient sur l'accueil.
+- **L'heure et la date**, en grand, avec des chiffres qui roulent. Format 24 h ou 12 h, taille
+  réglable.
+- **Un bandeau d'informations** : mémoire utilisée, processeur, et la météo de votre ville avec une
+  icône animée (soleil qui tourne, pluie, neige, orage, brouillard), la température, le vent, sa
+  direction et ses rafales. Chaque élément peut être masqué.
+
+## La barre d'applications
+
+- **Un carrousel de vos applis**, avec leurs bannières TV. Choisissez lesquelles y figurent et dans
+  quel ordre.
+- **L'appli sélectionnée** grandit, s'incline légèrement, reçoit un reflet et une lumière colorée
+  autour d'elle. Cette lumière prend la couleur de son logo et ondule doucement tout autour.
+- **Verre réaliste** : la barre réfracte l'image qui passe derrière elle, avec des préréglages
+  (Clair, Subtil, Givré, Fort) et des effets d'eau calme, de liquide ou de pluie.
+- **Raccourcis vers les entrées HDMI** : une console, un lecteur Blu-ray ou une box branchés sur la
+  TV ont leur propre tuile dans la barre, avec un nom et une icône parmi 24 consoles (PlayStation,
+  Xbox, Nintendo, Sega…). OK passe directement sur la bonne entrée.
+- **Tout se règle** : nombre d'applis visibles, taille et espacement des tuiles, bande pleine
+  largeur ou barre flottante, vitesse de défilement, retour au début après la dernière appli.
+
+## Le mode cinéma et l'économiseur d'écran
+
+Quand la télécommande reste posée un moment, l'accueil passe en **mode cinéma** : l'interface
+s'efface, des bandes noires recadrent l'image en format cinéma (2:1 ou Scope 2,39:1), et le titre du
+film s'affiche, avec son logo officiel quand il existe et son année. Le délai, les bandes, le titre
+et le bandeau sont réglables.
+
+Proscenium peut aussi servir **d'économiseur d'écran Android** : choisissez-le dans les paramètres
+d'Android, rubrique Économiseur d'écran.
+
+## Vos fonds : playlists et packs
+
+Les images de l'accueil viennent soit des **photos Bing du jour**, soit de **vos playlists** de films.
+
+- **Packs de fonds** : des playlists thématiques toutes prêtes (Disney & Pixar, Studio Ghibli,
+  Classiques & Marvel…), à installer en un clic depuis **Réglages → Playlists → Parcourir les packs**.
+  Elles ne demandent aucune clé TMDB. Titres et logos sont dans votre langue quand ils existent.
+- **Vos propres playlists** : cherchez un film par son titre, au clavier ou à la voix, ou importez
+  d'un coup les films populaires ou en tendance. Pour chaque film, choisissez le ou les fonds qui
+  vous plaisent et le logo à afficher.
+- **Tendances du moment** : une playlist qui se tient à jour toute seule chaque jour avec les films
+  en vogue.
+- Plusieurs playlists peuvent être actives en même temps : leurs fonds se mélangent.
+
+Les images viennent de [The Movie Database (TMDB)](https://www.themoviedb.org). Vous pouvez
+n'afficher que les fonds sans texte et en Full HD.
+
+## La clé TMDB
+
+Les packs fonctionnent sans clé. Pour chercher des films vous-même, il faut une clé d'API TMDB,
+gratuite : créez un compte sur [themoviedb.org](https://www.themoviedb.org/signup), puis demandez une
+clé dans les paramètres de votre compte, rubrique API.
+
+Pas besoin de la taper à la télécommande : **Réglages → Films (TMDB) → Saisir la clé depuis le
+téléphone** affiche un QR code. Scannez-le avec votre téléphone (connecté au même réseau que la TV),
+collez la clé dans la page qui s'ouvre : la TV la vérifie et l'enregistre.
+
+## Et aussi
+
+- **Six langues** : français, anglais, allemand, italien, espagnol et suédois. Par défaut, la langue
+  de la TV.
+- **Sons d'interface** discrets, volume réglable.
+- **Mode économie** : coupe d'un coup les effets les plus gourmands, pour les petits boîtiers.
+- **Sauvegarde et restauration** de tous les réglages.
+
+## Crédits
+
+- Films, fonds et logos : [The Movie Database (TMDB)](https://www.themoviedb.org). Ce produit utilise
+  l'API TMDB mais n'est ni approuvé ni certifié par TMDB. Les images restent la propriété de leurs
+  ayants droit.
+- Photos du jour : Bing. Météo : [Open-Meteo](https://open-meteo.com).
