@@ -1,6 +1,6 @@
 {
  "id": "tarantino",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Quentin Tarantino",
   "en": "Quentin Tarantino",
@@ -38,7 +38,50 @@
     "de": "/bT7JuEfq04gLQSL9vOlY2FY7vYx.png",
     "it": "/p5nv3BwTL3S8nNp6kCtkEdz3nsV.png",
     "es": "/zKOKdpLLwVf1ab015NjgghYskEP.png"
-   }
+   },
+   "overview": {
+    "fr": "Après un hold‐up manqué, des cambrioleurs de haut vol font leurs comptes dans une confrontation violente, pour découvrir lequel d’entre eux les a trahis.",
+    "en": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+    "de": "Ein perfekt geplanter Coup endet in einem rücksichtslosen Psycho-Horrortrip, der blutige Opfer fordert. Beteiligt sind sechs elegant gekleidete Profi-Gangster, die zu einem Überfall auf ein Juweliergeschäft zusammenkommen. Alles, was die Gentlemen voneinander wissen, sind die Decknamen, die ihnen ihr Auftraggeber Joe Cabot gegeben hat. Mr. White, Mr. Orange, Mr. Pink, Mr. Blonde, Mr. Blue, Mr. Brown. Doch der todsichere Coup misslingt, die Polizei war informiert. Am geheimen Treffpunkt, einem leerstehenden Lagerhaus, wird ein Verdacht zur Gewissheit: unter ihnen ist ein Spitzel. Tödliches Misstrauen macht sich breit. Während einer der Gangster zu verbluten droht, entwickeln sich die anderen zu reißenden Bestien, die weder vor der Folter an einem gekidnappten Polizisten noch vor blutiger Gewalt untereinander zurückschrecken.",
+    "it": "Los Angeles. Una rapina a un importatore di diamanti che avrebbe potuto dare un ottimo bottino con un rischio calcolato si trasforma in una sparatoria che costringe i malviventi a una fuga disordinata. C'è però un punto di ritrovo prestabilito da Joe, il loro capo. Si tratta di un deposito abbandonato che viene raggiunto per primi da Mr. White e Mr. Orange gravemente ferito. Ognuno degli appartenenti alla banda ha finora conosciuto gli altri solo con il nome di un colore per evitare eventuali delazioni. Ma è proprio il dubbio che al loro interno si nasconda un infiltrato della polizia che comincia a tormentare i soggetti che, progressivamente, raggiungeranno il punto di raccolta.",
+    "es": "Una banda organizada formada por seis individuos es contratada para dar un golpe. Anteriormente varios de los miembros no se conocían entre sí, por lo que entre ellos usan nombres en clave. El objetivo: atracar una empresa para llevarse unos diamantes. Pero, antes de que suene la alarma, la policía ya está allí. Algunos mueren en el atraco, y el resto se reúne en el lugar convenido.",
+    "sv": "Ett gäng mer eller mindre rutinerade brottslingar sammankallas av en känd boss för att begå ett avancerat rån tillsammans, men någonting går väldigt fel."
+   },
+   "tagline": {
+    "fr": "Qui les a balancés ?",
+    "en": "Every dog has his day.",
+    "it": "Amici prima, iene dopo. Finirono per sbranarsi tra loro.",
+    "es": "A cada cerdo le llega su San Martín"
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Thriller"
+    ],
+    "en": [
+     "Crime",
+     "Thriller"
+    ],
+    "de": [
+     "Krimi",
+     "Thriller"
+    ],
+    "it": [
+     "Crime",
+     "Thriller"
+    ],
+    "es": [
+     "Crimen",
+     "Suspense"
+    ],
+    "sv": [
+     "Kriminal",
+     "Thriller"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 16057,
+   "runtime": 99
   },
   {
    "id": 680,
@@ -58,7 +101,57 @@
     "fr": "/aPh3YUmSLaEmlbDSCi4jByZV1aF.png",
     "en": "/kpuNKsIzVbK3LDVo4iOJDAY0y7d.png",
     "es": "/wfHK380gK8XNKY7Xps4X1IhDE71.png"
-   }
+   },
+   "overview": {
+    "fr": "L’odyssée sanglante et burlesque de petits malfrats dans la jungle d’Hollywood : Deux petits tueurs, un dangereux gangster marié à une camée, un boxeur roublard, des prêteurs sur gages sadiques, un caïd élégant et dévoué, un dealer bon mari et deux tourtereaux à la gâchette facile.",
+    "en": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "de": "Vincent Vega und Jules Winnfield holen für ihren Boss Marsellus Wallace eine schwarze Aktentasche aus einer Wohnung ab. Drei Jungs, die ihnen dabei im Weg stehen, lassen ihr Leben. Die Killer machen sich mit einem vierten Jungen als Geisel auf den Weg ins Hauptquartier. Doch als das Auto über eine Straßenerhöhung schaukelt, erschießt Vincent aus Versehen die Geisel. Um den blutverspritzten Wagen zu reinigen, machen die beiden einen Abstecher zu Jules's Freund Jimmie, wo auf Befehl vom Boss ein Spezialist für schwierige Aufträge zu ihnen stößt: The Wolf...",
+    "it": "Le vite di due gangster, di un pugile e della moglie di un potente boss della malavita finiscono per intrecciarsi in una paradossale storia di violenza, vendetta e redenzione.",
+    "es": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+    "sv": "Jules Winnfield och Vincent Vega är två torpeder som är på jakt efter en resväska som stulits från deras arbetsgivare, maffialedaren Marsellus Wallace. Butch Coolidge är en åldrande boxare som får betalt av Wallace för att förlora nästa match. Dessa människor har till synes inget samband, men deras liv vävs samma i en serie roliga, bisarra och omotiverade incidenter."
+   },
+   "tagline": {
+    "fr": "Vous ne connaîtrez pas les faits tant que vous n’aurez pas vu la fiction.",
+    "en": "You won’t know the facts until you’ve seen the fiction.",
+    "de": "Drei schwere Jungs und ein Flittchen, das \"Ärger\" heißt.",
+    "it": "Le ragazze come me non invitano in questo modo a chiunque!",
+    "es": "No sabrás los hechos hasta que veas la ficción."
+   },
+   "genres": {
+    "fr": [
+     "Thriller",
+     "Crime",
+     "Comédie"
+    ],
+    "en": [
+     "Thriller",
+     "Crime",
+     "Comedy"
+    ],
+    "de": [
+     "Thriller",
+     "Krimi",
+     "Komödie"
+    ],
+    "it": [
+     "Thriller",
+     "Crime",
+     "Commedia"
+    ],
+    "es": [
+     "Suspense",
+     "Crimen",
+     "Comedia"
+    ],
+    "sv": [
+     "Thriller",
+     "Kriminal",
+     "Komedi"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 31360,
+   "runtime": 155
   },
   {
    "id": 184,
@@ -77,7 +170,57 @@
    "logo": {
     "fr": "/4RBglKB0J46MCHwfktyifiIOjz2.png",
     "en": "/g5OBF5irVpLqFI4xgWA9zCnM7Am.png"
-   }
+   },
+   "overview": {
+    "fr": "Hôtesse de l’air, Jackie Brown arrondit ses fins de mois en convoyant de l’argent liquide pour le compte de Ordell Robbie, trafiquant d’armes. Quand la police et le FBI lui signifient qu’ils comptent sur elle pour faire tomber Robbie, Jackie Brown échafaude un plan audacieux.",
+    "en": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself.",
+    "de": "Mit Schwarzgeld wird Jackie Brown am Flughafen gestellt. Das FBI wittert die große Chance, durch Jackies Aussage einen Schmuggler-Ring auszuheben. Die Cops sind bereit, Jackie laufen zu lassen, wenn sie den Namen ihres Auftraggebers preisgibt. Die Entscheidung fällt ihr schwer, denn Ordell Robbie, ihr Boss und Drahtzieher der dubiosen Waffen-Schmuggel-Geschäfte, würde sie umbringen, wenn er Wind von einem Deal mit dem FBI bekäme. Bevor sie sich entscheiden kann, kommt alles ganz anders: Sie lernt den Kautionsvermittler Max Cherry kennen. Die beiden schmieden einen Plan, und plötzlich hat Jackie die Idee, wie es ihr gelingen könnte, Ordell gegen die Polizei auszuspielen …",
+    "it": "Jackie Brown arrotonda il suo esiguo stipendio da hostess contrabbandando del denaro per Ordell Robbie, un mercante d'armi tanto stralunato quanto poco affidabile. Quando Jackie viene scoperta in dogana, la polizia vuole usarla per arrivare a Ordell, ma lei ha un piano tutto diverso.",
+    "es": "Jackie Brown es una azafata de vuelo que necesita dinero y hace de correo para Robbie, un mafioso buscado por la policía. Todo parece ir bien hasta que un día es sorprendida en la aduana y acusada de tráfico de drogas y evasión de capital. Sólo podrá evitar su ingreso en prisión, si acepta una propuesta de la policía: ayudarles a llegar hasta Robbie.",
+    "sv": "Möt Jackie Brown, en 44-årig flygvärdinna som drygar ut sin inkomst med att smuggla svarta pengar från Mexico. Mannen som ligger bakom pengarna är vapensmugglaren Ordell, som dessutom är en iskall mördare. Polisen har länge haft ögonen på Ordell och försöker komma åt honom, och har nu hittat ett sätt: Jackie Brown, som de stoppar i tullen. Hon får välja mellan att avslöja Ordell (och hamna på kyrkogården) eller att sätta sig upp mot polisen (och hamna i fängelse). Men Jackie har en tredje plan - och nu börjar ett livsfarligt spel om en halv miljon av Ordells dollar... Här levererar Tarantino en sällsynt spännande film och än en gång har han trollat med rollbesättningen och fått fram några av Hollywoods största namn. Skådespelarprestationerna som är i toppklass, ett suveränt soundtrack och en plot som vrider sig snabbare än en kobra - här kommer Jackie Brown!"
+   },
+   "tagline": {
+    "fr": "Six joueurs sur la piste d’un demi‐million en cash. Il n’y a qu’une seule question… Qui joue qui ?",
+    "en": "This Christmas, Santa's got a brand new bag.",
+    "de": "Es gibt nur eine Frage … Wer spielt gegen wen?",
+    "it": "Questo Natale, Babbo Natale ha una borsa nuova di zecca.",
+    "es": "Seis jugadores tras la pista de medio millón de dólares. Pero... ¿quién juega con quién?"
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Drame",
+     "Thriller"
+    ],
+    "en": [
+     "Crime",
+     "Drama",
+     "Thriller"
+    ],
+    "de": [
+     "Krimi",
+     "Drama",
+     "Thriller"
+    ],
+    "it": [
+     "Crime",
+     "Dramma",
+     "Thriller"
+    ],
+    "es": [
+     "Crimen",
+     "Drama",
+     "Suspense"
+    ],
+    "sv": [
+     "Kriminal",
+     "Drama",
+     "Thriller"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 7246,
+   "runtime": 154
   },
   {
    "id": 24,
@@ -97,7 +240,51 @@
     "fr": "/dvdglKNKGk43p4jiA3FnTQ3oB75.png",
     "en": "/mIiJMgtGAIbQVrIElG0s7lCBs50.png",
     "es": "/qeD9IJRJM3nZy4Et9OimS5B7p1k.png"
-   }
+   },
+   "overview": {
+    "fr": "Au cours d'un mariage, un commando armé massacre l'assistance, laissant pour morte la Mariée et l'enfant qu'elle porte. Après 4 ans de coma, la Mariée se lance à la poursuite des assassins, membres du clan de Bill, au sein duquel, sous le pseudonyme de Black Mamba, elle exerça elle-même autrefois ses talents de redoutable tueuse…",
+    "en": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+    "de": "Es sollte der Aufbruch in ein neues Leben werden, doch es endete mit dem Tod: Die Killer O-Ren Ishii, Vernita Green, Budd und Elle Driver haben die Hochzeit ihrer Ex-Kollegin – im Film nur „die Braut“ genannt – in ein Massaker verwandelt. Wider Erwarten überlebt die geschändete Frau jedoch und will von nun an nichts weiter als Rache. Rache an dem Todeskommando, das sie liquidieren sollte und Rache an dem Mann, der den Auftrag dazu gegeben hatte: Gangster-Boss Bill. Ihr Weg führt die Braut bis ins ferne Okinawa, wo sie sich vom legendären Waffenschmied Hattori Hanzo ein Schwert anfertigen lässt, das fortan zu ihrem wichtigsten Begleiter wird …",
+    "it": "La Sposa è una ex-killer che faceva parte della \"Squadra Assassina Vipere Mortali\". Aggredita e quasi uccisa il giorno delle nozze per ordine del suo padrino Bill, la Sposa entra in coma. Dopo quattro anni, però, si risveglia. Addestrata dai monaci Shaolin allo Zen e alle arti del Kung Fu, diventa una macchina di morte con una sola missione: uccidere Bill.",
+    "es": "Uma Thurman es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill (David Carradine). Logra sobrevivir al ataque, aunque queda en coma. Cinco años después despierta con un trozo de metal en la cabeza y un gran deseo de venganza en su corazón.",
+    "sv": "En kvinna tillhörde en grupp yrkesmördare, tills de en dag vänder sig emot henne. Fem år senare vaknar hon upp ur en koma som hennes forna chef Bill har försatt henne i. Det är början på hennes sökande efter en blodig hämnd."
+   },
+   "tagline": {
+    "fr": "Un déchaînement de vengeance.",
+    "en": "Here comes the bride.",
+    "de": "Ein Rachefeldzug der besonderen Art",
+    "it": "Una ruggente furia di vendetta.",
+    "es": "La sangrienta historia de una venganza"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Crime"
+    ],
+    "en": [
+     "Action",
+     "Crime"
+    ],
+    "de": [
+     "Action",
+     "Krimi"
+    ],
+    "it": [
+     "Azione",
+     "Crime"
+    ],
+    "es": [
+     "Acción",
+     "Crimen"
+    ],
+    "sv": [
+     "Action",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 19747,
+   "runtime": 111
   },
   {
    "id": 393,
@@ -117,7 +304,57 @@
     "fr": "/tXRj5Rk184V0VMieZZQHVRzw8bg.png",
     "en": "/oWnoYWltTGSfTcUZrXYHwJ3Fl9j.png",
     "es": "/jun0UtokvC3Azh9UxRSmTDNfRSx.png"
-   }
+   },
+   "overview": {
+    "fr": "Après avoir éliminé ses deux anciennes collègues Vernita Green et O-Ren Ishii, la Mariée, alias Black Mamba, poursuit l'éradication du gang des Vipères Assassines. Prochaines cibles : Budd, puis Elle Driver, avant d'atteindre enfin son but ultime : tuer leur chef, Bill…",
+    "en": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+    "de": "Die blutdurstige Rache der Braut ist noch nicht gestillt: Drei Namen stehen noch auf der Liste der kalten Schönen, die am Tag ihrer Hochzeit ins Jenseits befördert werden sollte und jetzt Jagd auf die macht, die ihren Tod verlangten. Nach Vernita Green und O-Ren Ishii sind nun der heruntergekommene Budd und die durchtriebene Elle Driver an der Reihe, bevor die Braut in Mexiko schließlich ihrem einstigen Chef und Liebhaber Bill gegenübersteht – und ihrer totgeglaubten Tochter.",
+    "it": "Dopo aver mandato al creatore i prime due tra i presenti sulla sua lista nera - O-Ren Ishii e Vernita Green - la Sposa continua il suo viaggio, durante il quale è intenzionata a rintracciare e far fuori le \"future vittime\": Budd, che si è ritirato dall'attività e vive isolato in Texas; Elle, che la vuole morta per tenersi il suo Bill; e naturalmente quest'ultimo. La questione tuttavia si complica quando la vendicatrice con la tutina gialla scopre che la figlia creduta morta in realtà è ancora viva...",
+    "es": "Tras eliminar a algunos de los miembros de la banda que intentó asesinarla el día de su boda, \"Mamba Negra\" prosigue su venganza e intenta acabar con el resto de la banda, en especial con su antiguo jefe, Bill, que la dio por muerta dejándola en coma.",
+    "sv": "I Kill Bill Vol. 2 fortsätter vi att följa ”The Bride” i hennes jakt på hämnd."
+   },
+   "tagline": {
+    "fr": "La mariée est de retour pour le cut final.",
+    "en": "The bride is back for the final cut.",
+    "de": "Die Braut ist zurück ihr Werk zu vollenden.",
+    "it": "La sposa è tornata per il taglio finale.",
+    "es": "La novia vuelve para el corte final"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Crime",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Crime",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Krimi",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Crime",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Crimen",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Kriminal",
+     "Thriller"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 15693,
+   "runtime": 136
   },
   {
    "id": 1991,
@@ -138,7 +375,51 @@
     "en": "/rHrUq9oOu77cYzMmFr5qMma5qQs.png",
     "de": "/AaMuXkZsLfPPLIbjua6tbGcoSEo.png",
     "it": "/r71Hd3dGk0EEJmxndvBcHgFXT0S.png"
-   }
+   },
+   "overview": {
+    "fr": "C’est à la tombée du jour que Jungle Julia, la DJ la plus sexy d’Austin, peut enfin se détendre avec ses meilleures copines, Shanna et Arlene. Ce trio infernal, qui vit la nuit, attire les regards dans tous les bars et dancings du Texas. Mais l’attention dont ces trois jeunes femmes sont l’objet n’est pas forcément innocente. C’est ainsi que Mike, cascadeur au visage balafré et inquiétant, est sur leurs traces, tapi dans sa voiture indestructible. Tandis que Julia et ses copines sirotent leurs bières, Mike fait vrombir le moteur de son bolide menaçant…",
+    "en": "Austin's hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+    "de": "Austin, Texas: Jungle Julia und ihre beiden Freundinnen Arlene und Shanna machen mal wieder ohne Männer in ihrer Lieblingsbar einen drauf. Männer kann man unterwegs ja immer noch aufreißen. Ausgerechnet an den harmlosen Stuntman Mike gerät die Truppe. Als die Damen ihn aber trotz eines Gewinns abblitzen lassen, zeigt der vernarbte Stuntman sein wahres Gesicht: Er kümmert sich auf seine Weise um das das Damentrio. Nicht zum erstenmal und nicht zum letztenmal beginnt für den Psychopathen ein tödliches Spiel auf der Straße. Ein knappes Jahr später in Lebanon, Tennessee: Wieder gerät eine Gruppe in die Schußbahn von Mike: Kim, Zoe, Abernathy und Lee. Doch diesmal hat er sich die Falschen für sein Spielchen ausgesucht, denn diese Damen haben offenbar nicht die Absicht in die Opferrolle zu schlüpfen ...",
+    "it": "Tre ragazze Jungle Julia, Shanna e Arlene, tutte molto carine, si divertono a passare le serate tra due locali di Austin, Texas, il \"Guero's\" e il \"Texas Chili Parlor\", dove attirano gli sguardi indiscreti degli avventori. Tra i tanti camionisti e motociclisti presenti al locale c'è Stuntman Mike un killer misogino schizofrenico che si diverte a uccidere le ragazze a bordo di una truccatissima vettura. Una sera, Mike prende di mira le tre amiche e, a loro insaputa, le seduce per poi condurle verso la sua arma, posteggiata vicino il Guero's...",
+    "es": "\"Death Proof\", dirigida por Tarantino, gira en torno a un psicópata de la carretera llamado Especialista Mike, un asesino en serie que va aniquilando a sus víctimas, siempre chicas jóvenes, con su coche de especialista \"a prueba de muerte\".",
+    "sv": "För Austins coolaste DJ, Jungle Julia, innebär mörkret att hon kan koppla av med sina två närmaste vänner, Shanna och Arlene. De tre tjejerna ger sig av ut i natten och får folk att vända sig efter dem vart de än visar sig. Men all uppmärksamhet är inte av godo; i deras spår följer Stuntman Mike. Medan tjejerna kopplar av med en öl i baren väntar Mikes vapen, hans bil, runt hörnet. Han är den mest märkliga och skrämmande seriemördare man kan träffa på..."
+   },
+   "tagline": {
+    "fr": "Ces 8 femmes sont sur le point de rencontrer un homme diabolique.",
+    "en": "A crash course in revenge.",
+    "de": "Ein Crashkurs in Rache.",
+    "it": "Sarà una corsa sfrenata.",
+    "es": "Va a ser un paseo salvaje"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 5903,
+   "runtime": 114
   },
   {
    "id": 16869,
@@ -160,7 +441,58 @@
     "de": "/onWObwHSbJdUjwzpir980NcHRZe.png",
     "it": "/yHH4jFrUSs4UI548v2qddG6ODRo.png",
     "es": "/ynL1F2jvOnimVDulMvaHKHzxNw1.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans la France occupée de 1940, un groupe de soldats juifs américains, les bâtards, mène des actions punitives particulièrement sanglantes contre les nazis du Troisième Reich. Leur chemin rencontre celui de Shosanna Dreyfus, une jeune juive réfugiée à Paris exploitante d'une salle de cinéma qui entend elle aussi assouvir sa propre vengeance envers les nazis.",
+    "en": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+    "de": "Im von Deutschland besetzten Frankreich muss Shosanna ansehen wie ihre Familie durch Oberst Hans Landa brutal ermordet wird. Sie kann entkommen und flieht nach Paris. Gemeinsam mit seinen 8 Männern, einer Elitetruppe aus jüdisch-amerikanischen Soldaten, will Offizier Aldo Raine systematische Vergeltungsschläge gegen Nazis durchführen. Sie werden in Frankreich abgesetzt, um dort unterzutauchen. Von den Deutschen als ‚Die Bastarde' gefürchtet versuchen sie den Führer des III. Reichs zu töten.",
+    "it": "Nella Francia occupata dai nazisti, durante la Seconda Guerra Mondiale, Shosanna Dreyfus assiste all'esecuzione della sua famiglia su ordine del colonnello nazista Hans Landa, ma riesce a fuggire a Parigi dove assume una nuova identità, come operatrice e titolare di un cinematografo. Nel frattempo, in un'altra località europea, il tenente Aldo Raine si mette alla guida di un gruppo di soldati ebrei conosciuti dai loro nemici come I Bastardi. Insieme ai suoi uomini, Raine collabora con con l'attrice tedesca Bridget Von Hammersmark, che in realtà è un agente segreto, in una missione speciale per rovesciare il Terzo Reich. Il loro destino si incrocerà con quello della Dreyfus, che tra l'altro sta pianificando una vendetta personale.",
+    "es": "Segunda Guerra Mundial. Durante la ocupación de Francia por los alemanes, Shosanna Dreyfus presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Ella consigue huir a París, donde adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine adiestra a un grupo de soldados judíos \"Los bastardos\" para atacar objetivos concretos. Los hombres de Raine y una actriz alemana, que trabaja para los aliados, deben llevar a cabo una misión que hará caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
+    "sv": "Frankrike är ockuperat av nazisterna under andra världskriget, en grupp fascism-motståndare kända som The Basterds är speciellt utvalda för att sprida skräck genom Tredje riket med hjälp av skalpering och brutalt mördande."
+   },
+   "tagline": {
+    "fr": "Dans une France occupée, il faut savoir trancher.",
+    "en": "Once upon a time in Nazi occupied France...",
+    "de": "Es war einmal im besetzten Frankreich...",
+    "it": "Benvenuti alla delirante storia di una vendetta senza gloria",
+    "es": "La infame y salvaje historia de una desenfrenada venganza.",
+    "sv": "Det var en gång i det nazistiskt ockuperade Frankrike..."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Thriller",
+     "Guerre"
+    ],
+    "en": [
+     "Drama",
+     "Thriller",
+     "War"
+    ],
+    "de": [
+     "Drama",
+     "Thriller",
+     "Kriegsfilm"
+    ],
+    "it": [
+     "Dramma",
+     "Thriller",
+     "Guerra"
+    ],
+    "es": [
+     "Drama",
+     "Suspense",
+     "Bélica"
+    ],
+    "sv": [
+     "Drama",
+     "Thriller",
+     "Krig"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 25179,
+   "runtime": 147
   },
   {
    "id": 68718,
@@ -180,7 +512,51 @@
     "fr": "/5bTWzFG9ND6eNTMw65HJN81ZuTK.png",
     "en": "/uqFqJ9j5hQ7QLx0mmxGohTVqOb6.png",
     "es": "/sCMKyeWYXxJdFqYw0A0rypo98u7.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans le sud des États‐Unis, deux ans avant la guerre de Sécession, le Dr King Schultz, un chasseur de primes allemand, fait l’acquisition de Django, un esclave qui peut l’aider à traquer les frères Brittle, les meurtriers qu’il recherche. Schultz promet à Django de lui rendre sa liberté lorsqu’il aura capturé les Brittle – morts ou vifs. Alors que les deux hommes pistent les dangereux criminels, Django n’oublie pas que son seul but est de retrouver Broomhilda, sa femme, dont il fut séparé à cause du commerce des esclaves… Lorsque Django et Schultz arrivent dans l’immense plantation du puissant Calvin Candie, ils éveillent les soupçons de Stephen, un esclave qui sert Candie et a toute sa confiance. Le moindre de leurs mouvements est désormais épié par une dangereuse organisation de plus en plus proche… Si Django et Schultz veulent espérer s’enfuir avec Broomhilda, ils vont devoir choisir entre l’indépendance et la solidarité, entre le sacrifice et la survie…",
+    "en": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "de": "Als das Sklavenpaar Django und seine Frau Broomhilda bei einer Auktion getrennt werden, hat Django nur noch ein Ziel vor Augen: seine Frau wiederzufinden. Die Gelegenheit ergibt sich für den in Fesseln Geschlagenen schneller als erwartet, als er vom früheren Zahnarzt und jetzigen Kopfgeldjäger Dr. Schultz befreit wird, damit er ihm bei der Identifikation steckbrieflich gesuchter Verbrecher behilflich sei. Zum Dank will Dr. Schultz ihn zum Kopfgeldjäger ausbilden und ihm helfen, seine Frau ausfindig zu machen. Schließlich führt Django und Dr. Schultz die Spur nach Candyland, wo Broomhilda in den Besitz des charismatischen und überaus gefährlichen Calvin Candie übergegangen ist. Sie erschleichen sich erfolgreich das Vertrauen von Candie. Doch der Haussklave Stephen durchschaut ihr Spiel…",
+    "it": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schiava a qualche possidente negriero.",
+    "es": "Dos años antes de estallar la Guerra Civil (1861-1865), Schultz, un cazarrecompensas alemán que le sigue la pista a unos asesinos, le promete al esclavo Django dejarlo en libertad si le ayuda a atraparlos. Terminado con éxito el trabajo, Django prefiere seguir al lado del alemán y ayudarle a capturar a los delincuentes más buscados del Sur. Se convierte así en un experto cazador de recompensas, pero su único objetivo es rescatar a su esposa Broomhilda, a la que perdió por culpa del tráfico de esclavos. La búsqueda llevará a Django y a Schultz hasta Calvin Candie, el malvado propietario de la plantación \"Candyland\". La presencia de ambos en los alrededores de la propiedad, despierta las sospechas de Stephen, el esclavo de confianza de Candie.",
+    "sv": "Django är en slav vars brutala historia med sin förre ägare tar honom ansikte mot ansikte med den tyskfödde prisjägaren Dr King Schultz i den amerikanska södern, två år före inbördeskriget. Schultz är på jakt efter de mordiska Brittle-bröderna och bara Django kan ta honom till dem. Den okonventionelle Schultz förvärvar Django med löfte om att frige honom när de fått fast Brittle-bröderna – döda eller levande."
+   },
+   "tagline": {
+    "fr": "Ils ont pris sa liberté. Il va tout leur prendre.",
+    "en": "Life, liberty, and the pursuit of vengeance.",
+    "de": "Leben, Freiheit und die Verfolgung von Rache",
+    "it": "Gli hanno tolto la libertà. Lui gli toglierà ogni cosa.",
+    "es": "La D es muda. La venganza no lo será"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Western"
+    ],
+    "en": [
+     "Drama",
+     "Western"
+    ],
+    "de": [
+     "Drama",
+     "Western"
+    ],
+    "it": [
+     "Dramma",
+     "Western"
+    ],
+    "es": [
+     "Drama",
+     "Western"
+    ],
+    "sv": [
+     "Drama",
+     "Västern"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 28992,
+   "runtime": 166
   },
   {
    "id": 273248,
@@ -201,7 +577,58 @@
     "en": "/dhkWUiFU6wvwkVhwKae5FO57AP6.png",
     "de": "/8ZygdIGsXF0yRFgxfCQrVuyXAwI.png",
     "es": "/338mAFyedvIBm6UC8xslBF8phO4.png"
-   }
+   },
+   "overview": {
+    "fr": "Après la Guerre de Sécession, huit voyageurs se retrouvent coincés dans un refuge au milieu des montagnes. Alors que la tempête s'abat au-dessus du massif, ils réalisent qu'ils n'arriveront peut-être pas à rallier Red Rock comme prévu…",
+    "en": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+    "de": "Irgendwo im verschneiten Wyoming, einige Jahre nach dem Bürgerkrieg: Eine Postkutsche kämpft sich auf dem Weg zum Städtchen Red Rock durch die Landschaft. An Bord sind der Kopfgeldjäger John Ruth, seine Gefangene Daisy Domergue und zwei erst auf dem Weg zugestiegene Passagiere: der Ex-Soldat und nun ebenfalls als Kopfgeldjäger tätige Marquis Warren sowie Chris Mannix, der angibt, der neue Sheriff von Red Rock zu sein. Aufgrund eines heftigen Schneesturms sind sie jedoch dazu gezwungen, in einer Hütte Zuflucht zu suchen. Dort verstecken sich bereits der Mexikaner Bob, der undurchsichtige Oswaldo Mobray, der Cowboy Joe Gage und der in die Jahre gekommene Südstaaten-General Sanford Smithers vor dem Wetter. Schnell nehmen die Spannungen in der Gruppe von misstrauischen Raubeinen zu, nachdem man sich anfangs noch bestens unterhalten hat. Und bald wird klar, dass längst nicht jeder von ihnen die Hütte lebend verlassen wird.",
+    "it": "Alcuni anni dopo la fine della guerra civile il cacciatore di taglie John Ruth (Kurt Russell), chiamato \"Il boia\", scorta la latitante Daisy Domergue (Jennifer Jason Leigh). Nel corso del loro viaggio incontrano due sconosciuti: il Maggiore Marquis Warren (Samuel L. Jackson), un ex soldato di colore dell'Unione diventato un cacciatore di taglie e Chris Mannix (Walton Goggins) un rinnegato del Sud che afferma di essere il nuovo sceriffo della città. A causa di una tormenta di neve sono tutti costretti a rifugiarsi in un negozio chiamato \"Minnie\", dove con l'inganno, vengono attirati in un terreno molto pericoloso.",
+    "es": "Seis, ocho o doce años después de la Guerra de Secesión, una diligencia avanza a toda velocidad por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar rápidamente al pueblo de Red Rock, donde Ruth, conocido en estos lares como 'el Verdugo', entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado negro de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como una ventisca está a punto de alcanzarlos, Ruth, Domergue, Warren y Mannix se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local de Minnie, en lugar de recibirlos su dueña, se topan con cuatro rostros desconocidos.",
+    "sv": "Prisjägaren John \"The Hangman\" Ruth transporterar Daisy Domergue genom ett vintrigt Wyoming, mot Red Rock där hon ska ställas inför rätta. Längst med vägen plockar de upp två främlingar: en före detta soldat som nu blivit ökänd prisjägare, och en man som utger sig för att vara Red Rocks nya sheriff. När en snöstorm sveper in över slätterna, bestämmer sig de fyra för att ta skydd i en raststuga uppe i bergen. Väl där möts de inte av ägarna, utan av fyra okända ansikten."
+   },
+   "tagline": {
+    "fr": "Personne ne vient ici sans raison.",
+    "en": "No one comes up here without a damn good reason.",
+    "de": "Niemand kommt hierher ohne einen verdammt guten Grund",
+    "it": "Nessuno viene qui senza un'ottima ragione",
+    "es": "Nadie viene hasta aquí sin una maldita razón.",
+    "sv": "Ingen kommer hit utan en riktigt bra anledning."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Mystère",
+     "Western"
+    ],
+    "en": [
+     "Drama",
+     "Mystery",
+     "Western"
+    ],
+    "de": [
+     "Drama",
+     "Mystery",
+     "Western"
+    ],
+    "it": [
+     "Dramma",
+     "Mistero",
+     "Western"
+    ],
+    "es": [
+     "Drama",
+     "Misterio",
+     "Western"
+    ],
+    "sv": [
+     "Drama",
+     "Mystik",
+     "Västern"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 15851,
+   "runtime": 188
   },
   {
    "id": 466272,
@@ -222,7 +649,57 @@
     "en": "/qero0DT6FKsoCThCyAzxZgczdCK.png",
     "it": "/3yF3QZM9xZhyVz6pSY7OhrtZVwi.png",
     "es": "/iGI91eIha7BV5qeHI3hIqY2bcIh.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1969, Rick Dalton – star déclinante d'une série télévisée de western – et Cliff Booth – sa doublure de toujours – assistent à la métamorphose artistique d'un Hollywood qu'ils ne reconnaissent plus du tout en essayant de relancer leurs carrières.",
+    "en": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+    "de": "Es war einmal in Hollywood im Jahre 1969: Rick Dalton hat schon bessere Tage gesehen. Einst war der Schauspieler ein gefeierter Fernsehstar. Doch diese Zeiten sind längst vorbei. Inzwischen hält er sich mehr schlecht als recht mit Gastauftritten als Bösewicht in anderen TV-Produktionen über Wasser. Denn den Sprung auf die große Kinoleinwand hat er nie geschafft. Dabei ist sein Stunt-Double und Freund Cliff Booth stets an seiner Seite. Am Tiefpunkt seiner Karriere angelangt, bekommt Rick allerdings einen prominenten Nachbarn. Der Regisseur Roman Polanski ist mit seiner Frau, der Schauspielerin Sharon Tate in das Haus nebenan eingezogen. Während Tate das Leben in Amerikas Traumfabrik in vollen Zügen genießt, droht ihr Glück ein jähes Ende zu nehmen. Denn die mörderische Gruppe um Charles Manson plant eine Gräueltat, wie sie die Welt noch nicht gesehen hat …",
+    "it": "Rick Dalton, un attore televisivo, e Cliff Booth, la sua controfigura, intraprendono una personalissima odissea per affermarsi nell'industria cinematografica nella Los Angeles del 1969, segnata dagli omicidi di Charles Manson.",
+    "es": "Los Angeles, 1969. La estrella de televisión Rick Dalton, un actor en horas bajas especializado en westerns, y el doble de acción Cliff Booth, su mejor amigo, tratan de sobrevivir a una industria cinematográfica en constante cambio. Dalton es vecino de la joven y prometedora actriz y modelo Sharon Tate, que acaba de casarse con el prestigioso director polaco Roman Polanski…",
+    "sv": "Filmen utspelar sig 1969 i Los Angeles, där allt håller på att förändras. TV-stjärnan Rick Dalton och hans stuntman Cliff Booth navigerar genom en industri som de knappt känner igen längre i denna hyllning till de sista ögonblicken i Hollywoods gyllene era."
+   },
+   "tagline": {
+    "fr": "Dans cette ville, tout peut changer.",
+    "en": "In this town, it can all change… Like that.",
+    "de": "In dieser Stadt kann sich alles ändern.",
+    "it": "In questa città può cambiare tutto all'improvviso.",
+    "es": "En esta ciudad, todo puede cambiar."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame",
+     "Thriller"
+    ],
+    "en": [
+     "Comedy",
+     "Drama",
+     "Thriller"
+    ],
+    "de": [
+     "Komödie",
+     "Drama",
+     "Thriller"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma",
+     "Thriller"
+    ],
+    "es": [
+     "Comedia",
+     "Drama",
+     "Suspense"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama",
+     "Thriller"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 15582,
+   "runtime": 162
   }
  ]
 }

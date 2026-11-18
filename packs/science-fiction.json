@@ -1,6 +1,6 @@
 {
  "id": "science-fiction",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Science-fiction",
   "en": "Science Fiction",
@@ -39,7 +39,63 @@
     "it": "/k9EX8syko1EfJBLI79gx9005b1Y.png",
     "es": "/1xbe1lqDC5k32xTkkFpEd5UZ8kW.png",
     "sv": "/6VWhBN9GBKJWLiHB0MgvwF3KmV1.png"
-   }
+   },
+   "overview": {
+    "fr": "Égaré dans l'espace-temps, un engin spatial américain s'écrase en 3978 sur une planète inconnue. Les astronautes Taylor, Landon et Dodge découvrent que les hommes primitifs de cette planète mystérieuse sont placés sous le joug de singes très évolués.",
+    "en": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+    "de": "Astronaut Taylor überlebt den Raum-Zeitsprung durch das All – 2000 Jahre in die Zukunft. Eine Notlandung verschlägt ihn auf einen entfernten Planeten, der von Affen regiert wird. Auf grausame Weise missbrauchen die herrschenden Affen eine primitive Menschenrasse für Experimente und zur Unterhaltung. Schon bald wird Taylor selbst zum Gejagten, seine einzige Hoffnung auf Rettung ist ein hilfsbereiter Schimpansen-Wissenschaftler.",
+    "it": "Alcuni astronauti, risucchiati da un vortice, atterrano su un pianeta sconosciuto, dove scopriranno che le scimmie dominano gli altri esseri viventi, compresi gli umani, trattati alla stregua di schiavi.",
+    "es": "George Taylor forma parte de una tripulación de astronautas a bordo de una nave espacial -en una misión de larga duración- que se estrella en un planeta desconocido y aparentemente carente de vida inteligente. Sin embargo, pronto se da cuenta de que el lugar está gobernado por una raza de simios inteligentes que esclavizan a los seres humanos, que carecen de la facultad del habla. Cuando su líder, el doctor Zaius, descubre con horror la facultad de hablar de Taylor, decide que lo mejor es exterminarlo.",
+    "sv": "Astronauten Taylor kraschlandar på en avlägsen planet styrd av apor, där en primitiv människoras används som försöks- och husdjur. Taylor befinner sig snart på flykt och hans öde ligger helt i händerna på en vänlig vetenskapskvinna och schimpans."
+   },
+   "tagline": {
+    "fr": "Quelque part dans l'Univers, il doit y avoir mieux que l'Homme !",
+    "en": "Somewhere in the Universe, there must be something better than man!",
+    "de": "Ein Mensch...gejagt...eingesperrt...durch zivilisierte Affen zur Fortpflanzung gezwungen",
+    "it": "L'uomo... braccato... ingabbiato... da una civiltà rovescia!",
+    "es": "En algún lugar del Universo, tiene que haber algo mejor que el hombre!"
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure",
+     "Drame",
+     "Action"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure",
+     "Drama",
+     "Action"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer",
+     "Drama",
+     "Action"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura",
+     "Dramma",
+     "Azione"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura",
+     "Drama",
+     "Acción"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr",
+     "Drama",
+     "Action"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 4197,
+   "runtime": 112
   },
   {
    "id": 62,
@@ -61,7 +117,57 @@
     "it": "/mqNueabdxabWqTtYbh7RS0L9kfe.png",
     "es": "/bNXe3OI9HIpkPXfak99jG8K9X1d.png",
     "sv": "/mJxLlrK1BHOe1Fn79tCz3vn90eZ.png"
-   }
+   },
+   "overview": {
+    "fr": "Aux temps préhistoriques, une petite tribu d’hommes‐singes installée au milieu de rochers arides lutte difficilement pour la vie. Un matin, ils trouvent devant eux une mystérieuse dalle noire monolithique. L’un des singes touche la pierre et apprend alors à se servir d’un os de quadrupède pour tuer ses ennemis. Quatre millions d’années plus tard, en 2001, un savant de l’espace, le Dr Heywood Floyd, débarque sur la lune pour examiner une dalle noire semblable à celle des singes, qui était enterrée sous la surface de l’astre. Selon les premières observations, l’objet émettrait un signal mystérieux…",
+    "en": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+    "de": "Als im Jahr 2001 ein Monolith auf dem Mond entdeckt wird, wird diese Entdeckung als der Beweis für außerirdisches Leben gedeutet. Eineinhalb Jahre nach der Entdeckung des Monoliths werden 2 Astronauten, Bowman und Poole, mit dem Raumschiff Discovery zum Jupiter geschickt, um weitere Erkenntnisse zu gewinnen. Das Raumschiff ist mit dem Supercomputer HAL-9000 ausgerüstet. Bald ergeben sich erste Komplikationen mit dem Computer...",
+    "it": "Un gigantesco monolite, individuato sulla superficie lunare, trasmette dei messaggi radio in direzione del pianeta Giove. Per seguire il fascio di onde elettromagnetiche viene organizzata una spedizione che ben presto però si trova in balia del computer che governa l'astronave. La lotta avrà un solo vincitore.",
+    "es": "Mientras investigan la aparición de misteriosos monolitos en el universo, dos astronautas luchan contra la inteligencia artificial de su nave.",
+    "sv": "Mänskligheten hittar ett mystiskt, uppenbart tillverkat objekt begravt under Månens yta. Med hjälp av superdatorn H.A.L. 9000 skickas en grupp forskare på en expedition med destination Jupiter, för att få svar på frågan vem, eller vilka, som tillverkat föremålet."
+   },
+   "tagline": {
+    "fr": "Le voyage ultime…",
+    "en": "An epic drama of adventure and exploration.",
+    "de": "Der ultimative Trip.",
+    "it": "Un'epica e drammatica avventura di esplorazione del cosmo.",
+    "es": "Un drama épico de aventura y exploración."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Mystère",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Mystery",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Mystery",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Mistero",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Misterio",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Mystik",
+     "Äventyr"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 13165,
+   "runtime": 149
   },
   {
    "id": 185,
@@ -83,7 +189,51 @@
     "de": "/tRRoMFDPJRPVsVohprIpRFgV063.png",
     "it": "/rmexa5lhLTs1vd4PQoKMJtRKu96.png",
     "es": "/vmHJ1wSMpBSDSZKGjbcwCevPuSD.png"
-   }
+   },
+   "overview": {
+    "fr": "Au XXIe siècle, où règnent la violence et le sexe, Alex, jeune chef de bande, exerce avec sadisme une terreur aveugle. Après son emprisonnement, des psychanalystes l'emploient comme cobaye dans des expériences destinées à juguler la criminalité…",
+    "en": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+    "de": "Die Handlung spielt im London einer nicht allzu weit entfernten Zukunft und kreist um den jungen Alex. Der liebt Beethoven und ist Anführer der Droogs, einer Jugendgang. Die Gruppe selbst fällt mit nur durch den Akt an sich motivierten Gewalttaten und Vergewaltigungen Wehrloser auf. Nachdem die Jungs wieder mal einen Einbruch nebst Mord begangen haben, wird Alex von einem rebellierenden Gangmitglied niedergeschlagen und der Polizei überlassen. Der ehemalige Anführer kommt ins Gefängnis. Zwei Jahre später muss er als Versuchsobjekt an einer neuartigen, von der Regierung initiierten Aversionstherapie teilnehmen. Die Therapie dauert 14 Tage lang und konfrontiert Alex immer wieder mit Filmszenen stärkster Brutalität. Anschließend kommt er frei, ist nun allerdings nichts weiter als eine willenlose Hülle.",
+    "it": "Alex è un giovane senza arte né parte, figlio di proletari e dedito a furti, stupri e omicidi. Fa capo a una banda di spostati, denominati drughi. Dopo aver usato violenza alla moglie di uno scrittore finisce in carcere. Viene sottoposto ad angherie ma si fa amico un prete. Pur di essere scarcerato accetta il \"trattamento lodovico\", che consiste nell'assistere a filmati di violenza. Quando esce scopre che i genitori hanno subaffittato la sua stanza. Senza poter reagire, dovrà subire violenza da alcuni mendicanti vendicativi, dai drughi diventati poliziotti e dallo scrittore che ha perso la moglie e che ora si trova su una sedia a rotelle. Tenta il suicidio e all'ospedale riceve una visita di cortesia da parte del primo ministro.",
+    "es": "Gran Bretaña, en un futuro indeterminado. Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
+    "sv": "Stampande, knuffande, stjälande, sjungande, dansande, våldsam. Huliganen Alex har sin egen definition på att ha det roligt. Han har det på tragisk bekostnad av andra. Alex resa från en omoralisk slyngel till en hjärntvättad, ordentlig medborgare."
+   },
+   "tagline": {
+    "fr": "L'histoire d'un jeune homme qui s'intéresse principalement au viol, à l'ultra-violence… et à Beethoven.",
+    "en": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.",
+    "de": "Die Abenteuer eines jungen Mannes, dessen Hauptinteressen Vergewaltigung, Gewalttätigkeit und Beethoven sind.",
+    "it": "Le avventure di un giovane i cui principali interessi sono lo stupro, l'ultra-violenza e Beethoven.",
+    "es": "Las aventuras de un joven cuyos principales intereses son la violación, ultraviolencia y Beethoven."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Crime"
+    ],
+    "en": [
+     "Science Fiction",
+     "Crime"
+    ],
+    "de": [
+     "Science Fiction",
+     "Krimi"
+    ],
+    "it": [
+     "Fantascienza",
+     "Crime"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Crimen"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 14331,
+   "runtime": 137
   },
   {
    "id": 11,
@@ -105,7 +255,57 @@
     "de": "/fODbPT1ALJcOSFfcAyJehCkrlwQ.png",
     "it": "/n9PCMQtJzcHTwjmVjFRWOj6TBQK.png",
     "es": "/dLgwXopLDtvZ3pn7GbMbSsckKuc.png"
-   }
+   },
+   "overview": {
+    "fr": "Il y a bien longtemps, dans une galaxie très lointaine... La guerre civile fait rage entre l'Empire galactique et l'Alliance rebelle. Capturée par les troupes de choc de l'Empereur menées par le sombre et impitoyable Dark Vador, la princesse Leia Organa dissimule les plans de l’Étoile Noire, une station spatiale invulnérable, à son droïde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan Kenobi. Accompagné de son fidèle compagnon, le droïde de protocole C-3PO, R2-D2 s'échoue sur la planète Tatooine et termine sa quête chez le jeune Luke Skywalker. Rêvant de devenir pilote mais confiné aux travaux de la ferme, ce dernier se lance à la recherche de ce mystérieux Obi-Wan Kenobi, devenu ermite au cœur des montagnes désertiques de Tatooine...",
+    "en": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "de": "Seit der Vernichtung der Jedi-Ritter steht die Galaxie unter der grausamen Herrschaft des Imperiums. Nur eine kleine Gruppe von Rebellen, angeführt von der schönen Prinzessin Leia, widersetzt sich der dunklen Macht. Als es ihnen gelingt, die geheimen Baupläne für den gefährlichen Todesstern zu entwenden, gerät das Imperium in Aufruhr. Durch Zufall gelangen die Pläne ausgerechnet in die Hände des Farmerjungen Luke Skywalker, der spürt, dass er sein bisheriges Leben hinter sich lassen muss. Gemeinsam mit dem weisen Obi-Wan Kenobi, den Weltraumabenteurern Han Solo und Chewbacca sowie den Droiden R2-D2 und C-3PO nimmt er den Kampf gegen das mächtige Imperium auf. Es beginnt ein Wettlauf gegen die Zeit, denn der Kampfstern kann nur vor seiner Fertigstellung zerstört werden...",
+    "it": "In un lontano Impero Galattico è in atto una rivolta contro i suoi dispotici capi, tra i quali il più cattivo è Lord Darth Vader. Prima di cadere nelle sue mani, la principessa Leila Organa, rappresentante dei ribelli, riesce ad affidare a due robot i piani della \"Morte Nera\" - la potentissima base spaziale di Darth Vader, capace di disintegrare un intero pianeta - e un appello al vecchio generale Obi-Wan Kenobi, che abita sul pianeta Tatooine, perché accorra in aiuto dei rivoltosi. Il messaggio viene raccolto dal giovane Luke Skywalker che, rintracciato Obi Wan Kenobi, parte con lui in soccorso della principessa a bordo di un'astronave guidata dal mercenario Han Solo e dal suo secondo Chewbacca.",
+    "es": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+    "sv": "För länge sedan i en galax långt, långt borta... Prinsessan Leia tas till fånga av det ondskefulla Rymdimperiet. I ett försök att befria den sköna prinsessan slår sig den unge Luke Skywalker ihop med Han Solo. Tillsammans med de båda robotarna R2-D2 och C-3PO inleder de kampen för att befria Galaxen."
+   },
+   "tagline": {
+    "fr": "“Que la force soit avec toi.”",
+    "en": "A long time ago in a galaxy far, far away...",
+    "de": "Es war einmal in ferner Zukunft…",
+    "it": "Tanto tempo fa, in una galassia lontana lontana...",
+    "es": "Hace mucho tiempo, en una galaxia muy lejana..."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 23186,
+   "runtime": 121
   },
   {
    "id": 840,
@@ -128,7 +328,51 @@
     "it": "/28X7JZyywB3KgDOMi4tpLkEGgtt.png",
     "es": "/hnVMgIAOAsJwEmMxF7oOhZWD58U.png",
     "sv": "/4l2LP9CVXKXlajyKkmVPnt3Aess.png"
-   }
+   },
+   "overview": {
+    "fr": "Des faits étranges se produisent un peu partout dans le monde : des avions qui avaient disparu durant la Seconde Guerre mondiale sont retrouvés au Mexique en parfait état de marche, un cargo est découvert échoué au beau milieu du désert de Gobi. Dans l'Indiana, pendant qu'une coupure d'électricité paralyse la banlieue, Roy Neary, un réparateur de câbles, voit une \"soucoupe volante\" passer au-dessus de sa voiture. D'autres personnes sont également témoins de ce type de phénomène : Barry Guiler, un petit garçon de quatre ans, est réveillé par le bruit de ses jouets qui se mettent en route. Cherchant à savoir d'où proviennent ces ovnis, Roy Neary se heurte aux rigoureuses consignes de silence imposées par le gouvernement fédéral. Obsédé par ce qu'il a vu et hanté par une image de montagne qu'il essaie désespérément de reconstituer, il est abandonné par sa femme Ronnie et ses enfants. Il n'y a que Jillian, la mère de Barry, qui le comprenne.",
+    "en": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+    "de": "In der amerikanischen Provinz geht Merkwürdiges vor: Elektronische Geräte machen sich selbständig, mehrere Menschen werden unabhängig voneinander Augenzeugen unnatürlicher Himmelsphänomene, und einige von ihnen fühlen fortan die Neigung, seltsame Dinge zu tun und einen mysteriösen Tafelberg im Mittelwesten aufzusuchen. Dort stellen sich auch bald jede Menge Militär und Wissenschaftler ein, denn Großes steht bevor: Eine außerirdische Zivilisation besucht Mutter Erde, um Kontakt mit der Menschheit aufzunehmen.",
+    "it": "In una zona deserta dello Wyoming, nei pressi del famoso Picco del Diavolo (una curiosa formazione vulcanica citata in tutti i libri di geologia), il governo americano sta preparando segretamente una base di atterraggio per navi extraterrestri. Ma alcune persone dotate di percezione extrasensoriale si sentono attirate verso il Picco del Diavolo. Due di questi sensitivi, Roy, un elettrotecnico, e Jillian, una donna a cui gli extraterrestri hanno rapito il figlio, giungono all'appuntamento con l'astronave misteriosa. Il bambino rapito viene restituito e Roy sale sull'Ufo.",
+    "es": "Una noche, cerca de su casa, en Indiana, Roy Neary (Richard Dreyfuss) observa en el cielo unos misteriosos objetos voladores. Obsesionado por comprender lo que ha visto, se distancia de su esposa (Teri Garr). Neary encuentra apoyo en Jillian Guiler (Melinda Dillon), que también fue testigo de esas visiones nocturnas. Juntos buscan una respuesta a ese misterio que ha alterado sus vidas. Al mismo tiempo, un nutrido grupo de científicos internacionales, bajo la dirección de Claude Lacombe (François Truffaut), empieza a investigar las apariciones de OVNIS y otros extraños fenómenos.",
+    "sv": "En helt vanlig natt börjar plötsligt ett helt samhälle att läggas i mörker och ovanliga ljusfenomen börjar att uppträda på natthimlen. Från elverket skickas Roy Neary ut för att försöka reparera felen, men på väg till en av nätstationerna kör han vilse. Plötsligt skakas hela bilen fruktansvärt och han bländas av ett oerhört starkt sken. Roy och några andra människor är de första som kommer i närkontakt med ett UFO, ett oidentifierat föremål."
+   },
+   "tagline": {
+    "fr": "Nous ne sommes pas seuls.",
+    "en": "We are not alone.",
+    "de": "Wir sind nicht allein",
+    "it": "Noi non siamo soli.",
+    "es": "No estamos solos."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Drame"
+    ],
+    "en": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "de": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "it": [
+     "Fantascienza",
+     "Dramma"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Drama"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Drama"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 4920,
+   "runtime": 135
   },
   {
    "id": 348,
@@ -149,7 +393,52 @@
     "en": "/riI33EA1vYQ1szTtMe0NR7TwV1p.png",
     "de": "/7FQswmBcaNonbceixn2A4lMyiK4.png",
     "es": "/vVxHP9OfHBXLSVU2pePQ4T1IOPz.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2122, le Nostromo, vaisseau de commerce, fait route vers la Terre avec à son bord un équipage de sept personnes en hibernation et une cargaison de minerais. Il interrompt soudain sa course suite à la réception d’un mystérieux message provenant d’une planète inexplorée. Réveillé par l’ordinateur de bord, l’équipage se rend sur place et découvre les restes d’un gigantesque vaisseau extraterrestre dont le seul passager semble être mort dans d’étranges circonstances…",
+    "en": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+    "de": "Die Besatzung des Weltraumfrachters Nostromo - darunter der dritte Offizier Ellen Ripley - befindet sich im künstlichen Tiefschlaf. Plötzlich empfängt ihr Schiff ein SOS-Signal. Der Bordcomputer weckt daraufhin die Mannschaft, die der Hilferuf wenig später auf einen unwirtlichen Planten führt. Dabei entdeckt die Crew das Wrack eines außerirdischen Raumschiffs. Ein Crewmitglied wird dabei von einem Alien angegriffen, das sich auf seinem Gesicht festsaugt. Dem Schiffsarzt Ash gelingt zwar die Entfernung des fremden Organismus, doch das außerirdische Wesen ist damit längst nicht besiegt. In der Enge des Raumfrachters beginnt ein Kampf ums Überleben, bei der Feind nahezu unsichtbar, heimtückisch und äußerst tödlich ist...",
+    "it": "L'astronave Nostromo sbarca su un pianeta da cui proviene un SOS, ma la colonia sembra essere disabitata. I coloni sono stati in realtà sterminati da una razza aliena che ha trasformato la base in una gigantesca covata.",
+    "es": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+    "sv": "På väg hem till jorden fångar besättningen på rymdskeppet Nostromo upp en nödsignal från en avlägsen planet. När de landar för att undersöka signalen väcker de något som förvandlar deras hemresa till en mardröm."
+   },
+   "tagline": {
+    "fr": "Dans l’espace, personne ne vous entend crier.",
+    "en": "In space no one can hear you scream.",
+    "de": "Im Weltall hört dich niemand schreien.",
+    "it": "Nello spazio, nessuno può sentirti urlare.",
+    "es": "En el espacio nadie podrá oír tus gritos.",
+    "sv": "I rymden kan ingen höra dig skrika."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "de": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "it": [
+     "Horror",
+     "Fantascienza"
+    ],
+    "es": [
+     "Terror",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Skräck",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 17159,
+   "runtime": 117
   },
   {
    "id": 1891,
@@ -171,7 +460,58 @@
     "de": "/bjp6mY4D3jlYBdebedEyg9m9w3y.png",
     "it": "/ms0pZRAHJAwE9uURAoklLP4ZJFa.png",
     "es": "/9cfYSldHZmPukaatZRS4Ren3QX8.png"
-   }
+   },
+   "overview": {
+    "fr": "Malgré la destruction de l’Étoile Noire, l'Empire maintient son emprise sur la galaxie, et poursuit sans relâche sa lutte contre l'Alliance rebelle. Basés sur la planète glacée de Hoth, les rebelles essuient un assaut des troupes impériales. Parvenus à s'échapper, la princesse Leia, Han Solo, Chewbacca et C-3P0 se dirigent vers Bespin, la cité des nuages gouvernée par Lando Calrissian, ancien compagnon de Han. Suivant les instructions d'Obi-Wan Kenobi, Luke Skywalker se rend quant à lui vers le système de Dagobah, planète marécageuse où il doit recevoir l'enseignement du dernier maître Jedi, Yoda. Apprenant l'arrestation de ses compagnons par les stormtroopers de Dark Vador après la trahison de Lando, Luke décide d'interrompre son entraînement pour porter secours à ses amis et affronter le sombre seigneur Sith...",
+    "en": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+    "de": "Nach der Zerstörung des Todessterns geht der Kampf zwischen den Rebellen und dem herrschenden Imperium weiter. Die Rebellen haben sich auf den Eisplaneten Hoth zurückgezogen, doch das Imperium spürt sie auf und zerstört nach hartem Kampf die dortige Basis. Daraufhin teilen sich unsere Freunde auf: Luke gerät mit R2-D2 auf den Sumpfplaneten Dagobah, wo er von dem alten Jedi-Meister Yoda eine Ausbildung im Umgang mit der Macht erhält, während Leia, Han Solo und die anderen sich nach Bespin durchschlagen, wo in einer Wolkenstadt ein alter Freund von Han residiert. Doch dort geraten sie in eine Falle des Imperiums, und Luke muß ihnen zu Hilfe kommen und Darth Vader zu einem Duell herausfordern...",
+    "it": "Malgrado la Morte Nera sia stata distrutta, le truppe imperiali si sono impadronite nuovamente di Yavin. I ribelli si sono rifugiati sul pianeta di ghiaccio, ma sono costretti ancora alla fuga. Ian Solo (Han Solo nome originale), la principessa Leia e il droide D3BO (C-3PO), seminano gli inseguitori, mentre Luke, assieme al fido C1P8 (R2-D2) , si reca dal maestro jedi Yoda, sul pianeta Dogabahd, per ritrovare la \"Forza\". Nel tentativo di liberare Leila e gli amici, incontra poi Darth Vader, che si rivela essere suo padre. Seconda puntata (ma in realtà è la quinta) della saga di \"Guerre stellari\", con parecchie allusioni al celebre ciclo narrativo dei cavalieri bretoni: abbastanza evidente il parallelo tra Luke alla ricerca della \"forza\" e Parsifal.",
+    "es": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+    "sv": "Äventyret fortsätter när Luke Skywalker, med hopp om att besegra det onda rymdimperiet, skolar sig till Jedi med hjälp av mästare Yoda. Darth Vader fösöker tillfångata Luke. Medans hamnar Princessan Leia, Han Solo, Chewbacca och droiderna C-3PO och R2-D2 i olika hopplösa situationer med fångenskap, svek och förtvivlan."
+   },
+   "tagline": {
+    "fr": "La Guerre des Étoiles continue…",
+    "en": "The Star Wars saga continues.",
+    "de": "Der Krieg der Sterne geht weiter.",
+    "it": "Continua la saga di Guerre Stellari.",
+    "es": "La saga de La Guerra de las Galaxias continúa...",
+    "sv": "Stjärnornas krig fortsätter"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 19143,
+   "runtime": 125
   },
   {
    "id": 601,
@@ -193,7 +533,57 @@
     "de": "/jZ7JwXj3YMNG6YELeAiKHOUBQYN.png",
     "it": "/oeeYwbJat46xeWhisVDUxtkbMoD.png",
     "es": "/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
-   }
+   },
+   "overview": {
+    "fr": "Une soucoupe volante atterrit en pleine nuit près de Los Angeles. Quelques extraterrestres, envoyés sur Terre en mission d’exploration botanique, sortent de l’engin, mais un des leurs s’aventure au-delà de la clairière où se trouve la navette. Celui-ci se dirige alors vers la ville. C’est sa première découverte de la civilisation humaine. Bientôt traquée par des militaires et abandonnée par les siens, cette petite créature apeurée se nommant E.T. se réfugie dans une résidence de banlieue. Elliot, un garçon de dix ans, le découvre et lui construit un abri dans son armoire. Rapprochés par un échange télépathique, les deux êtres ne tardent pas à devenir amis. Aidé par sa sœur Gertie et son frère aîné Michael, Elliot va alors tenter de garder la présence d'E.T. secrète.",
+    "en": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+    "de": "Der junge Elliott traut seinen Augen kaum, als er in einem Schuppen einen kleinen Ausserirdischen findet. Der schrumpelige Kobold musste bei einem Erkundungsflug von seinen Kollegen auf der Erde zurückgelassen werden, weil sie in Gefahr gerieten, von Menschen entdeckt zu werden. Elliot versucht, seinen neuen Freund vor den Wissenschaftlern der Regierung zu verstecken, denn der will seine weit entfernten Verwandten anfunken. Doch E.T. wird vor Heimweh immer schwächer.",
+    "it": "Durante un sopralluogo sulla Terra per raccogliere vegetali, un gruppo di alieni viene sorpreso e uno di loro viene lasciato erroneamente al suolo per l'affrettato decollo. L'alieno, solo e smarrito, viene trovato ed ospitato da Elliott, con la complicità della sorellina Gertie e il fratello maggiore Michael. Tra i due si instaura un profondo rapporto di amicizia che li lega anche a livello emotivo. Desideroso di tornare a casa, l'alieno costruisce un rudimentale dispositivo di comunicazione per chiedere aiuto ai suoi. Gradualmente, la salute di ET peggiora, e la situazione è aggravata dall'irruzione nell'universo dei ragazzi da parte del mondo degli adulti, che vuole impossessarsi dell'alieno.",
+    "es": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+    "sv": "En vilsen liten utomjording som är tre miljoner ljusår hemifrån. En ensam tioårig pojke som vill ta med honom hem. Två liv som förändras i ett tidlöst äventyr av vänskap utan världsliga hinder."
+   },
+   "tagline": {
+    "fr": "Il a peur. Il est seul. Il est à 3 millions d’années lumière de chez lui.",
+    "en": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+    "de": "Er hat Angst. Er ist allein. Er ist 3.000.000 Lichtjahre von Zuhause entfernt.",
+    "it": "Ha paura. È completamente solo. Si trova a 3 milioni di anni luce lontano da casa.",
+    "es": "Tiene miedo. Está solo. A tres millones de años luz de su casa."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction",
+     "Familj"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 12436,
+   "runtime": 114
   },
   {
    "id": 1091,
@@ -215,7 +605,58 @@
     "de": "/zuUjPhnpEWyJWf1FaXu5GkXPP0t.png",
     "it": "/wqEvwwQCNjbxEYT0cf6pE0fcRh9.png",
     "es": "/cmriRydEcCNux47zsfd1JvD3ER1.png"
-   }
+   },
+   "overview": {
+    "fr": "Hiver 1982 au cœur de l’Antarctique. Une équipe de recherche composée de 12 hommes, découvre un corps enfoui sous la neige depuis plus de 100 000 ans. Décongelée, la créature retourne à la vie et témoigne très vite de sa capacité à parasiter puis assimiler toute forme de vie. Isolés du monde, ne sachant plus qui est contaminé et qui ne l'est pas, les hommes de l'équipe vont sombrer dans la peur et la paranoïa. Un véritable combat s’engage.",
+    "en": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "de": "Eine amerikanische Forschungsstation in der Antarktis: zwölf Mann Besetzung unterschiedlichster Couleur. Während alle in der Einsamkeit ihre Neurosen pflegen, taucht plötzlich aus der endlosen Kälte ein Schlittenhund auf, von einem Hubschrauber verfolgt. An Bord: die letzten Überlebenden der nahegelegenen norwegischen Station. Bei dem anschließenden Gefecht werden die Europäer getötet, zurück bleibt der Hund. Bei der norwegischen Station gefundene Filmaufnahmen führen zu einem außerirdischen Raumschiff, das die Europäer aus dem Eis gesprengt haben. Und wie man bald feststellen muss, hat es der Hund in sich: Ein außerirdischer Organismus, der durch Berührung übertragen wird, schleicht sich so auch in der US-Station ein. Und der hat unerfreuliche Nebenwirkungen, verformt er doch aufs Abscheulichste die Menschen, die er befallen hat. Körper verformen sich, brechen auf, Paranoia macht sich breit, niemand ist mehr sicher und keiner weiß, wie man dieses Alien stoppen kann.",
+    "it": "Gli scienziati di una base di ricerche in Alaska raccolgono un cane lupo che i loro colleghi norvegesi hanno tentato di abbattere. Lo mettono nel canile mentre due di essi si recano nella base norvegese che trovano abbandonata e piena di cadaveri. Trovano anche i resti di quello che sembra un disco volante. In breve il cane viene posseduto da una strana forza e si trasforma in belva. Il panico si diffonde nella base.",
+    "es": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+    "sv": "Vintern 1982 på en isolerad forskningsstation i Antarktis upptäcker en forskargrupp något främmande som legat begravt i isen i över 100 000 år. När det väcks till liv följer en kedja av förödande händelser som snabbt gör att gruppen tappar greppet om verkligheten – och om varandra."
+   },
+   "tagline": {
+    "fr": "L'homme est la meilleure cachette qui soit.",
+    "en": "Anytime. Anywhere. Anyone.",
+    "de": "Er war die Klapperschlange. Jetzt jagt er das Ding: Kurt Russel in John Carpenters neuestem Kino-Trip.",
+    "it": "Non fidarti di nessuno",
+    "es": "El hombre es el lugar más cálido para esconderse.",
+    "sv": "När som helst. Var som helst. Vem som helst."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Mystère",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Horror",
+     "Mystery",
+     "Science Fiction"
+    ],
+    "de": [
+     "Horror",
+     "Mystery",
+     "Science Fiction"
+    ],
+    "it": [
+     "Horror",
+     "Mistero",
+     "Fantascienza"
+    ],
+    "es": [
+     "Terror",
+     "Misterio",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Skräck",
+     "Mystik",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 8460,
+   "runtime": 109
   },
   {
    "id": 78,
@@ -235,7 +676,57 @@
     "fr": "/3Nhf4kbh3gUr2inscKYFbftxvVj.png",
     "en": "/9X5SIveaQ3zRdjfNoUbnGrKAfET.png",
     "es": "/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
-   }
+   },
+   "overview": {
+    "fr": "2019, Los Angeles. La Terre est surpeuplée et l’humanité est partie coloniser l’espace. Les nouveaux colons sont assistés de Replicants, androïdes que rien ne peut distinguer de l'être humain. Conçus comme de nouveaux esclaves, certains parmi les plus évolués s’affranchissent de leurs chaînes et s’enfuient. Rick Deckard, un ancien Blade Runner, catégorie spéciale de policiers chargés de \"retirer\" ces replicants, accepte une nouvelle mission consistant à retrouver quatre de ces individus qui viennent de regagner la Terre après avoir volé une navette spatiale.",
+    "en": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+    "de": "Man schreibt das Jahr 2019. Den Replikanten, künstlichen Menschen, ist bei Todesstrafe die Rückkehr zur Erde verboten. Doch trotzdem kehren eines Tages einige dieser Wesen zurück. Diese besondere Spezies verfügt über Kraft und Intelligenz mehrerer Menschen und ist von diesen kaum zu unterscheiden. Sie sollen unschädlich gemacht werden. Nur eine Spezialeinheit kann sie aufspüren: die Blade Runner. Eine atemberaubende Hetzjagd durch die futuristische Welt beginnt.",
+    "it": "Rick Deckard è un ex agente del dipartimento di polizia di Los Angeles, richiamato in servizio quando un gruppo di sofisticati androidi replicante Nexus 6 fugge dalle colonie Extra-Mondo e torna clandestinamente sulla Terra in cerca del loro costruttore, colpevole di averli dotati di una vita molto breve. La caccia di Deckard sarà violenta e serrata, resa più complessa dalla presenza di Rachael, un avanzato tipo sperimentale di replicante, femminile quanto e forse più di una donna autentica. I Nexus 6 saranno ritirati uno dopo l'altro fino allo scontro con l'elemento alfa del gruppo, l'angelico demone Roy Batty.",
+    "es": "A principios del siglo XXI, la Tyrell Corporation desarrolló un nuevo tipo de robot llamado Nexus, un ser virtualmente idéntico al hombre y conocido como Replicante.  Los Replicantes Nexus-6 eran superiores en fuerza y agilidad, y al menos iguales en inteligencia, a los ingenieros de genética que los crearon.  En el espacio exterior, los Replicantes fueron usados como trabajadores esclavos en la arriesgada exploración y colonización de otros planetas.  Después de la sangrienta rebelión de un equipo de combate de Nexus-6 en una colonia sideral, los Replicantes fueron declarados proscritos en la Tierra bajo pena de muerte.  Brigadas de policías especiales, con el nombre de Unidades de Blade Runners, tenían órdenes de tirar a matar al ver a cualquier Replicante invasor.  A esto no se le llamó ejecución, se le llamó retiro.",
+    "sv": "År 2019 nedstiger en grupp förrymda replikanter på jorden i jakt på sin skapare, Dr Eldon Tyrell. Replikanter – genframställda människor – har visat sig vara farliga för människan eftersom de efter en tid utvecklar sina egna känslor. För att motverka detta är de tillverkade med en fyraårig livsspärr och bannlysta från jorden. De förrymda Replikanternas mål är att få denna livsspärr upphävd men tiden rinner snabbt iväg och mot sig har de Deckard – Blade Runner – med uppdrag att eliminera dem."
+   },
+   "tagline": {
+    "fr": "L’homme en a fait son égal… maintenant c’est son problème.",
+    "en": "Man has made his match ...now it's his problem.",
+    "de": "Die Menschen schufen sich ihr Ebenbild, ohne zu ahnen, was sie damit heraufbeschwören...",
+    "it": "Anno 2019. L'uomo ha costruito il proprio simile. La più grande invenzione è diventata la più grande minaccia. La polizia impiega reparti speciali chiamati Blade Runner.",
+    "es": "El hombre ha hecho su elección, ahora es su problema."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Drame",
+     "Thriller"
+    ],
+    "en": [
+     "Science Fiction",
+     "Drama",
+     "Thriller"
+    ],
+    "de": [
+     "Science Fiction",
+     "Drama",
+     "Thriller"
+    ],
+    "it": [
+     "Fantascienza",
+     "Dramma",
+     "Thriller"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Drama",
+     "Suspense"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Drama",
+     "Thriller"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 15652,
+   "runtime": 117
   },
   {
    "id": 218,
@@ -257,7 +748,57 @@
     "de": "/p3Hst9MxQ4JdnuHO1PW064eYFbB.png",
     "it": "/fgs8tgVrUkJiArogncxxu2GbcJ0.png",
     "es": "/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
-   }
+   },
+   "overview": {
+    "fr": "À Los Angeles en 1984, un Terminator, cyborg surgi du futur, a pour mission d'exécuter Sarah Connor, une jeune femme dont l'enfant à naître doit sauver l'humanité. Kyle Reese, un résistant humain, débarque lui aussi pour combattre le robot, et aider la jeune femme…",
+    "en": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "de": "Ein Cyborg aus der Zukunft wird auf eine tödliche Mission in die heutige Gegenwart geschickt. Er soll Sarah Connor töten, eine junge Frau, die eine entscheidende Rolle für die Zukunft der Menschheit spielen wird. Sie hat nur eine Chance, Kyle Reese, ein Freiheitskämpfer, der ebenfalls aus der Zukunft kommt.",
+    "it": "Anno 2029: un computer chiamato Skynet sta lottando contro un gruppo di resistenza umana, dopo aver distrutto l'umanità nel 1997. Skynet manda nel passato uno dei suoi guerrieri, un cyborg di sembianze umane chiamato Terminator, per uccidere Sarah Connor, la madre del leader della resistenza, prima che dia alla luce suo figlio. La resistenza manda un guerriero di nome Kyle Reese nel 1984 per proteggere Sarah.",
+    "es": "Un cyborg ha sido enviado desde el futuro en una misión mortal: eliminar a Sarah Connor, una joven cuya vida tendrá una gran importancia en los próximos años. Sarah tiene sólo un protector —Kyle Reese— también enviado desde el futuro. El Terminator utiliza su inteligencia excepcional y fuerza para encontrar a Sarah, pero ¿hay alguna forma de detener al cyborg aparentemente indestructible?",
+    "sv": "År 2029 ligger planeten jorden i ruiner efter ett kärnvapenkrig. Maskinerna har tagit över makten och människorna förvisats till underjorden. Men maskinernas makt hotas av en stark och växande motståndsrörelse. En ung kvinna, Sarah Connor, styr framtiden utan att hon själv vet om det. Hon bär på det barn som ska leda kampen mot maskinernas makt."
+   },
+   "tagline": {
+    "fr": "Insensible à la douleur et à la pitié. Impossible à arrêter.",
+    "en": "Your future is in its hands.",
+    "de": "Deine Zukunft liegt in seinen Händen ...",
+    "it": "Il tuo futuro è nelle sue mani.",
+    "es": "Tu futuro esta en tus manos."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 15447,
+   "runtime": 107
   },
   {
    "id": 105,
@@ -280,7 +821,57 @@
     "it": "/n5odobvL1L56AQVStx53eIRv5Mh.png",
     "es": "/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
     "sv": "/x6UqUDCC6wbutLCCFyaHvPNcaKj.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1985, Marty, un adolescent comme les autres, mène une existence morne et ennuyeuse. Heureusement, il est épris de la jolie Jennifer et entretient une profonde amitié avec Doc, un savant fou qui prétend avoir inventé une machine à explorer le temps. Un jour, Doc invite Marty à l'essayer…",
+    "en": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "de": "Der Teenager Marty McFly wird mit der Zeitmaschine seines Freundes, dem skurrilen Wissenschaftler Dr. Emmett Brown, versehentlich ins Jahr 1955 geschleudert. Dort verhindert er zunächst unabsichtlich, dass sich seine zukünftigen Eltern kennen lernen und in einander verlieben, womit er seine eigene Zeugung gefährdet. Zu allem Überfluss verguckt sich seine Mutter auch noch in ihn. Ihm bleibt nun eine Woche Zeit, seinen tollpatschigen Vater mit seiner Mutter zu verkuppeln und gemeinsam mit Docs dreißig Jahre jüngerem alter Ego einen Plan zu entwickeln, wie sie das bevorstehende große Gewitter nutzen können, um ihn in die Gegenwart zurück zu schicken.",
+    "it": "Marty McFly è stato catapultato per errore nel 1955, grazie alla macchina del tempo ideata dal suo amico scienziato Doc. Non avendo più \"carburante\" per poter tornare nel futuro si rivolge alla versione più giovane di Doc, che nonostante l'incredulità iniziale si farà in quattro per aiutarlo. Ma nel 1955 non è solo Doc ad essere più giovane, Marty infatti si imbatte casualmente nei suoi genitori, all'epoca teenager, ma l'incontro aggiungerà altri problemi.",
+    "es": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+    "sv": "För att komma undan ett gäng terrorister hoppar Marty in i en sportbil som hans vän och uppfinnare har tillverkat. Bilen är ombyggd till en tidsmaskin och snart befinner sig Marty 30 år tillbaka i tiden där han möter sina föräldrar som unga. Men plutoniumet som krävs för att driva bilen tar slut och Marty måste uppsöka uppfinnaren som ung för att försöka ordna så att han kan återvända till 1985."
+   },
+   "tagline": {
+    "fr": "Jamais à temps à l’école, jamais à temps à la maison, un jour il se retrouve complètement hors du temps…",
+    "en": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+    "de": "Er kam nie pünktlich zur Schule. Und immer zu spät zum Essen. Doch eines Tages kam er um Jahre zu früh …",
+    "it": "Non arriva mai in tempo a scuola... Non arriva mai in tempo a cena... Ma un giorno... si trovò completamente fuori dal tempo.",
+    "es": "Nunca llegaba a tiempo a clase. No llegaba a tiempo para cenar. Hasta que un día desapareció de su tiempo."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 22787,
+   "runtime": 117
   },
   {
    "id": 679,
@@ -303,7 +894,58 @@
     "it": "/isMgyJ7ykKFOYHwXEwAF300dhnC.png",
     "es": "/b9rfPHx7qURf8uUo0CvQeTpJ8vJ.png",
     "sv": "/ltxmSb5nZl4GDN0YcbhXtG7lio8.png"
-   }
+   },
+   "overview": {
+    "fr": "Après 57 ans de dérive dans l’espace, Ellen Ripley est secourue par la corporation Weyland‐Yutani. Malgré son rapport concernant l’incident survenu sur le Nostromo, elle n’est pas prise au sérieux par les militaires quant à la présence de xénomorphes sur la planète LV‐426 où se posa son équipage… planète où plusieurs familles de colons ont été envoyées en mission de « terraformage ». Après la disparition de ces derniers, Ripley décide d’accompagner une escouade de marines dans leur mission de sauvetage… et d’affronter à nouveau la Bête.",
+    "en": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+    "de": "Nach der ersten Begegnung Ripleys mit dem Alien sind 57 Jahre vergangen. Ziellos treibt sie sich immer noch im Kälteschlaf befindlich durchs All. Zufällig wird sie entdeckt und wieder zurück zur Erde gebracht. Ihren Berichten über die Ereignisse mit dem Alien wird zunächst wenig Glauben geschenkt, doch als der Kontakt zu dem mittlerweile bevölkerten, aus dem ersten Teil bekannten Planeten abbricht, wird Ripley gebeten zusammen mit einem Trupp Space-Marines nach dem Rechten zu sehen. Sie kommen zu spät - die komplette Kolonie wurde von den Aliens überrannt und das Einsatzteam muss es mit der Übermacht aufnehmen...",
+    "it": "Ellen Ripley, l'unica sopravvissuta all'incontro mortale della Nostromo con il mostruoso alieno, torna sulla Terra dopo aver vagato nello spazio in ipersonno per 57 anni. Sebbene la sua storia venga inizialmente accolta con scetticismo, accetta di accompagnare una squadra di Marines coloniali a LV-426.",
+    "es": "Alien es un organismo perfecto, una máquina de matar cuya superioridad física sólo puede competir con su agresividad. La oficial Ripley y la tripulación de la nave «Nostromo» se habían enfrentado, en el pasado, a esa monstruosa criatura. Y sólo Ripley sobrevivió a la masacre. Después de vagar por el espacio durante varios años, Ripley fue rescatada. Durante ese tiempo, el planeta de Alien ha sido colonizado. Pero, de repente, se pierde la comunicación con la colonia y, para investigar los motivos, se envía una expedición de marines espaciales, capitaneados por Ripley. Allí les esperan miles de espeluznantes criaturas. Alien se ha reproducido y esta vez la lucha es por la supervivencia de la Humanidad.",
+    "sv": "Tillbaka på jorden möts Ripleys berättelse om Alien och besättningens grymma öde möts av skepsis. Men då kolonister på planeten LV-426 försvinner under mystiska omständigheter, utses hon till ledare för en grupp experter som skickas ut för att undersöka saken. Där börjar mardrömmen på nytt."
+   },
+   "tagline": {
+    "fr": "Cette fois c'est la guerre.",
+    "en": "This time it's war.",
+    "de": "Es gibt Orte im Universum, wo man nicht allein hingeht.",
+    "it": "Questa volta è guerra!",
+    "es": "Esta vez es la guerra.",
+    "sv": "Den här gången är det krig."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 11395,
+   "runtime": 138
   },
   {
    "id": 106,
@@ -323,7 +965,63 @@
     "en": "/wnGqljuqb2KBNJQ0GCEoUjcAnTU.png",
     "es": "/e4dOUF9wnKgRGglTsozEPOee9U4.png",
     "sv": "/cDKFVmambQvdzKKXv3EuInc99i1.png"
-   }
+   },
+   "overview": {
+    "fr": "Le Major Dutch Schaefer et son équipe sont envoyés dans la jungle sud-américaine avec pour mission de délivrer des alliés pris en otage par une bande de guérilleros. Mais pendant l'opération, Dutsch et ses hommes s'aperçoivent que les preneurs d'otages ont été... dépecés et suspendus à la plus haute cime des arbres. Très vite, le commando comprend qu'il a en face de lui un ennemi hors du commun. Un monstre invisible et indestructible venu d'une autre planète. Un extraterrestre rompu à toutes les formes d'attaques et qui ne poursuit qu'un seul but : la chasse à l'être humain. Schaefer et sa troupe sont pour lui du gibier de premier choix.",
+    "en": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+    "de": "Eine Routinemission wird zum Horrortrip. Das Spezialkommando unter Major Dutch Schaefer soll im mittelamerikanischen Dschungel Geiseln aus den Händen von Guerilleros befreien. Doch die Männer bekommen es nicht nur mit einer Handvoll Rebellen zu tun. In der grünen Hölle lauert ihnen ein Gegner auf, der nicht von dieser Welt ist. Eine Kreatur, die das Töten als reine Lust betrachtet – und Elitesoldaten als willkommene Jagdtrophäen.",
+    "it": "Un commando di soldati americani specialisti in guerriglia viene inviato nella giungla del centro america per distruggere un gruppo di guerriglieri. La missione viene rapidamente eseguita, ma sulla via del ritorno il commando diviene il bersaglio di un terrificante essere invisibile, il quale attacca gli uomini, li uccide e li squarta. In breve tempo Dutch, il comandante del gruppo rimane solo a fronteggiare quello che si rivela essere un cacciatore alieno dotato di armi e tecnologia superiori. Il coraggio, l'addestramento e un po' di fortuna consentiranno all'uomo di individuare i punti deboli del mostro.",
+    "es": "Un comando de mercenarios es contratados por la CIA para rescatar a unos pilotos apresados por las guerrillas en la selva Centroamericana. La misión resulta satisfactoria, pero durante su viaje de regreso se dan cuenta de que algo está dándoles caza uno a uno, ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos",
+    "sv": "En grupp kommandosoldater sänds ut i djungeln för att rädda några diplomater som har krashat i djungeln. Väl där finner dom diplomaterna slaktade och ger sig på ett gerilla läger i närheten. Endast för att finna att det inte är dom som har gjort det. Den ansvarige är inte mänsklig. Han går inte att se och han kommer efter dom. En efter en..."
+   },
+   "tagline": {
+    "fr": "Il est le chasseur, Schwarzenegger est sa proie !",
+    "en": "Soon the hunt will begin.",
+    "de": "Es tötet aus Lust – es jagt aus Passion. Aber dieses Mal jagt es das falsche Opfer.",
+    "it": "La guerra era la sua professione .... questa volta non è guerra ma qualcosa di peggio!",
+    "es": "Nunca ha habido nada igual en nuestro planeta. Llegó por la emoción de la caza... pero escogió la víctima equivocada."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Action",
+     "Aventure",
+     "Thriller"
+    ],
+    "en": [
+     "Science Fiction",
+     "Action",
+     "Adventure",
+     "Thriller"
+    ],
+    "de": [
+     "Science Fiction",
+     "Action",
+     "Abenteuer",
+     "Thriller"
+    ],
+    "it": [
+     "Fantascienza",
+     "Azione",
+     "Avventura",
+     "Thriller"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Acción",
+     "Aventura",
+     "Suspense"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Action",
+     "Äventyr",
+     "Thriller"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 9693,
+   "runtime": 103
   },
   {
    "id": 280,
@@ -345,7 +1043,57 @@
     "de": "/mT6lmHuoWeoYZZYkjoZvoJROzFI.png",
     "it": "/pnDA3ZSNhJKGquiyatI7ipTZXoJ.png",
     "es": "/J7vIMfYlrTepIGhUX4IrniPyxU.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2029, après leur échec pour éliminer Sarah Connor, les robots de Skynet programment un nouveau Terminator, le T‐1000, pour retourner dans le passé et éliminer son fils John Connor, futur leader de la résistance humaine. Ce dernier programme un autre cyborg, le T‐800, et l’envoie également en 1995, pour le protéger. Une seule question déterminera le sort de l’humanité : laquelle des deux machines trouvera John la première ?",
+    "en": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+    "de": "Zehn Jahre nach der Terrorherrschaft des ersten Terminators kehrt ein neuer Killer-Cyborg auf die Erde zurück. Der Auftrag des T-1000 lautet: John Connor muss sterben. Der zwölfjährige John ist der einzige, der eines fernen Tages die Menschheit vor der Übernahme der Weltherrschaft durch die Maschinen retten könnte. Doch die Rebellen aus der Zukunft sind wachsam. Zum Schutz für John entsenden sie einen umprogrammierten Terminator der alten Generation, den T-800, auf die Erde.",
+    "it": "Dieci anni dopo i fatti stravolgenti per Sarah Connor, un altro, più evoluto Terminator viene inviato sulle sue tracce. Stavolta l'obiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno conquistando il mondo. Anche i ribelli del futuro cercheranno di provvedere alla protezione del ragazzo.",
+    "es": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+    "sv": "Efter händelserna i första Terminator har Sarah Connor blivit intagen på mentalsjukhus och hennes son John Connor har placerats i fosterhem. Från framtiden skickas två cyborger, en T-1000 med uppdraget att döda John, och en omprogrammerad Serie T-800 Model 101 för att skydda honom. Samtidigt som de försvarar sig måste de också hitta den man som är skyldig till att Skynet förklarar krig mot mänskligheten."
+   },
+   "tagline": {
+    "fr": "Même fabrication, même modèle, nouvelle mission.",
+    "en": "It's nothing personal.",
+    "de": "Ich will niemandem zu nahe treten.",
+    "it": "Non è niente di personale.",
+    "es": "No es nada personal."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 15206,
+   "runtime": 137
   },
   {
    "id": 329,
@@ -365,7 +1113,51 @@
     "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
     "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
     "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
-   }
+   },
+   "overview": {
+    "fr": "Généticien de génie, le professeur John Hammond a recréé de nombreuses espèces de dinosaures à partir d'une goutte de sang prélevée sur un moustique fossilisé. Démiurge naïf et généreux, dépassé par ses propres ambitions, il projette d’ouvrir un gigantesque et terrifiant parc d'attractions. Mais la pureté de son rêve se heurte à la cupidité des hommes et, plus grave, à la violence latente, indomptable de la Nature.",
+    "en": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "de": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
+    "it": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano liberi dando la caccia agli umani...",
+    "es": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+    "sv": "En rik entreprenör skapar i hemlighet en nöjespark med levande dinosaurier från förhistoriskt DNA. Före öppningsdagen bjuder han ner ett team av experter och sina två ivriga barnbarn för att uppleva parken och bidra till att lugna oroliga investerare. Men det visar sig att parken är allt annat än roande."
+   },
+   "tagline": {
+    "fr": "Il a fallu 65 millions d'années pour que cette aventure devienne possible.",
+    "en": "An adventure 65 million years in the making.",
+    "de": "Ein Abenteuer, das 65 Millionen Jahre lang geplant war.",
+    "it": "Un'avventura iniziata 65 milioni di anni fa.",
+    "es": "Una aventura de 65 millones de años."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 18632,
+   "runtime": 127
   },
   {
    "id": 63,
@@ -388,7 +1180,58 @@
     "it": "/27Y4W0MoEnZByvtBMZ8RLMXfPmU.png",
     "es": "/inoIB8ScY82zpZmaKProMbUfinP.png",
     "sv": "/oI1t4dxpOj3CV72w6d7KrzvqMvL.png"
-   }
+   },
+   "overview": {
+    "fr": "Nous sommes en l’an 2035. Les quelques milliers d’habitants qui restent sur notre planète sont contraints de vivre sous terre. La surface du globe est devenue inhabitable à la suite d’un virus ayant décimé 99 % de la population. Les survivants mettent tous leurs espoirs dans un voyage à travers le temps pour découvrir les causes de la catastrophe et la prévenir. C’est James Cole, hanté depuis des années par une image incompréhensible, qui est désigné pour cette mission.",
+    "en": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+    "de": "Das Jahr 2035: Die Erdoberfläche ist entvölkert, seit eine Virenepidemie die Menschheit 1996 fast gänzlich vernichtet hat. Die wenigen Überlebenden existieren in einem Unterwelt-System. Mit der Hoffnung auf ein besseres Leben schickt man den Sträfling Cole als Zeitboten ins Jahr der Katastrophe zurück, um den Ursprung der Apokalypse herauszufinden. Versehentlich gerät er zunächst ins Jahr 1990 und in eine Irrenanstalt. Dort warnt ihn der verwirrte Jeffrey vor den \"12 Monkeys\". Haben sie mit den Viren zu tun? Endlich im Jahr 1996, spürt Cole mit der Psychiaterin Kathryn diese Vereinigung auf und macht eine verblüffende Entdeckung...",
+    "it": "L'Esercito delle 12 scimmie è un piccolo gioiellino fantascientifico del 1995 che si focalizza sulla disperazione di un singolo uomo, condannato a essere il prescelto per trovare un rimedio alla situazione disastrosa dell'umanità, in un futuro ormai abitato da una razza umana rassegnata. Nel 2035 gli esseri umani vivono nel sottosuolo, terrorizzati dall'ambiente esterno, portatore di un virus mortale che li ha decimati, rendendo il pianeta Terra un luogo dove i prigionieri sono diventati loro stessi. Anche se solo in modo approssimativo, gli scienziati di quel terribile futuro hanno reso possibile il viaggio nel tempo, unica possibilità per poter mettere le mani sul virus e crearne una cura.",
+    "es": "En el año 2035, un virus mortal ha arrasado la humanidad y los supervivientes viven bajo tierra. Un convicto llamado James Cole se ofrece como voluntario para viajar al pasado y averiguar el origen de la plaga. Su misión es encontrar al 'Ejército de los Doce Monos', una organización terrorista que se cree que liberó el virus. Sin embargo, su viaje se complica por los errores temporales, las visiones recurrentes y la duda sobre su propia cordura. Con la ayuda de una psiquiatra llamada Kathryn Railly y un loco llamado Jeffrey Goines, Cole intenta salvar el futuro antes de que sea demasiado tarde.",
+    "sv": "Året är 2035. Ett virus har spritt sig på jorden och nästintill utrotat dess befolkning. De som fortfarande lever bor i underjorden. En grupp forskare beslutar att fången James Cole ska skickas tillbaka till 1996 för att spåra virusets utbrott och den grupp som misstänks ligga bakom det hela, \"De 12 apornas armé\"."
+   },
+   "tagline": {
+    "fr": "L’avenir appartient à l’histoire.",
+    "en": "The future is history.",
+    "de": "Die Zukunft ist Geschichte",
+    "it": "Il futuro è storia.",
+    "es": "El futuro ya es historia.",
+    "sv": "Framtiden är historia"
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Thriller",
+     "Mystère"
+    ],
+    "en": [
+     "Science Fiction",
+     "Thriller",
+     "Mystery"
+    ],
+    "de": [
+     "Science Fiction",
+     "Thriller",
+     "Mystery"
+    ],
+    "it": [
+     "Fantascienza",
+     "Thriller",
+     "Mistero"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Suspense",
+     "Misterio"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Thriller",
+     "Mystik"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 9566,
+   "runtime": 130
   },
   {
    "id": 18,
@@ -411,7 +1254,57 @@
     "it": "/kXWkXffqxIK2ODEeNKm4Nf9YkdM.png",
     "es": "/xmSfmWcRZ4saSya42cuyL25ZM7j.png",
     "sv": "/u1bPoiDo22tcxGrUL66OBgEqYVC.png"
-   }
+   },
+   "overview": {
+    "fr": "New York, XXIIIe siècle. Une boule de feu fonce sur la Terre. Pour l'arrêter il faut retrouver le Cinquième Élément, l'être suprême, qui, associé aux quatre éléments vitaux - l'air, l'eau, le feu et la terre - peut seul repousser Le Mal. Cornélius reçoit l'aide de Korben, taxi et ancien agent secret, et de Leeloo, extraterrestre qui a pris la forme d'une jeune femme aux cheveux oranges.",
+    "en": "In 2263, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+    "de": "Im 23. Jahrhundert bewegt sich das Böse in Form eines nahezu unzerstörbaren Kometen auf die Erde zu. Wird er nicht aufgehalten, wird er die Welt vernichten. Doch die Mondoshawan, ein uraltes, friedliebendes Volk, besitzen eine Waffe, das sogenannte fünfte Element, mit der der Komet vernichtet werden kann. Auf ihrem Weg zur Erde werden sie jedoch von bösen Mächten vernichtet, die den Untergang der Menschheit herbeiführen wollen. Wissenschaftlern aber gelingt es, das fast zerstörte fünfte Element wieder herzustellen. Durch eine Reihe von Zufällen wird schließlich der Taxifahrer Korben Dallas in die Geschichte hineingezogen: In seinen Händen liegt plötzlich die Zukunft der Menschheit.",
+    "it": "Una congiunzione provoca l'apertura di un varco attraverso cui una forza penetra nel nostro universo. Gli antichi egizi lo sapevano, ed anzi erano i custodi dell'arma capace di arrestarla, basata sulla fusione dei quattro elementi primari: terra, acqua, fuoco e aria, e di un quinto elemento. Ma agli inizi del ventesimo secolo scendono sulla Terra i Mondoshawan, esseri superiori e benefici che portano via l'arma, promettendo di restituirla. Il momento arriva nel 2259, quando il passaggio si riapre e l'universo è di nuovo minacciato. I Mondoshawan rispediscono sulla Terra l'arma con il quinto elemento, l'amore, incarnato in Leeloo,  ma l'astronave viene intercettata e distrutta dai Mangalore. Fortunatamente dal relitto vengono estratti resti sufficienti a clonare la ragazza, ma la nuova Leeloo non ricorda nulla di sè nè del compito che l'attende. Fuggendo si imbatte nel tassista Korben Dallas, che l'aiuterà a recuperare gli altri quattro elementi e a salvare il mondo.",
+    "es": "Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.",
+    "sv": "Taxichauffören Korben Dallas lever i det 23:e århundradets New York. En vanlig dag får han en mycket ovanlig passagerare och blir indragen i jakten på det femte elementet som skall rädda jorden från dess undergång. Den mystiska, kvinnliga huvudpersonen Leeloo visar sig snart stå i centrum för den vilda jakten, där den grymme Zorg och hans brutala undersåtar kämpar mot världens härskare med munken Cornelius i spetsen."
+   },
+   "tagline": {
+    "fr": "Il n'y a pas d'avenir sans cela.",
+    "en": "There is no future without it.",
+    "de": "Das Fünfte ist Leben.",
+    "it": "Non c'è futuro senza di esso.",
+    "es": "No hay futuro sin él."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Action",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Action",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Action",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Azione",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Acción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Action",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 12375,
+   "runtime": 127
   },
   {
    "id": 782,
@@ -431,7 +1324,51 @@
     "fr": "/kZlUf4nsbfXnzxW8DPMMvBWZbic.png",
     "en": "/i6Z7aCNqTwZz9x3KDf0vLcjb99Q.png",
     "it": "/ggni5E062WhpS9nm8DgQU0DDJcY.png"
-   }
+   },
+   "overview": {
+    "fr": "Vincent Freeman est l'un des derniers êtres \"naturels\" nés dans un monde conçu génétiquement: il ne possède donc pas l'ADN prérequis pour lui garantir le succès. Prêt à tout pour accomplir son rêve d'explorer l'espace, il emprunte l'identité d'un athlète biologiquement supérieur. Évitant d'être démasqué en utilisant les marqueurs génétiques de ce dernier, Vincent devient rapidement l'étoile montante de GATTACA, attirant l'attention d'une collègue mystérieuse. Mais quand un directeur de vol est sauvagement assassiné, un indice laissé sur la scène du crime menace de contrecarrer les plans de Vincent.",
+    "en": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+    "de": "Die Erde in nicht allzuferner Zukunft: Genetische Defekte können inzwischen schon bei der Geburt festgestellt werden, ebenso wie die voraussichtliche Lebenszeit des Neugeborenen. Wer genetisch nicht einwandfrei ist, wird zum Menschen zweiter Klasse ohne Chance auf sozialen Aufstieg, da sich die Mühe nicht lohnt. Vincent Freeman ist einer dieser Unglücklichen, der nur einen Traum hat: einmal für die Gattaca Corp. eine Arbeitsstelle im Weltraum antreten zu können. Um die Vorschriften zu umgehen, nimmt er die Identität eines begabten jungen Mannes an, den ein Unfall aller Chancen beraubt hat. Mit dessen Hilfe erträgt er chirurgische Eingriffe, um die Täuschung perfekt zu machen, immer in Angst, ein verlorenes Haar, eine Hautschuppe oder ein plötzlicher Urintest könnte die Wahrheit ans Licht bringen. Als er seinem Ziel immer näher kommt, verliebt er sich in seine Kollegin Irene.",
+    "it": "Nel prossimo futuro l'ingegneria genetica prenderà il sopravvento, distinguendo gli esseri umani in \"validi\", concepiti in provetta col DNA modificato, e \"non validi\", concepiti tradizionalmente. Così, Vincent Freeman, un non valido è costretto a falsificare la sua identità anagrafica per poter diventare un cosmonauta.",
+    "es": "En un futuro cercano, en La Tierra la perfección genética impera. Los seres inferiores, como Vincent Freeman, cuyo ADN es fruto de una relación natural y no de laboratorio, están condenados al fracaso. Pero Vincent quiere triunfar, y conseguirá esconder su verdadera condición para conseguir su objetivo más ansiado: ser piloto espacial.",
+    "sv": "I framtiden kommer våra avkommor att produceras i laboratorier som garanterar A-barn. Vincent är inte ett sådant. Och eftersom han vill bli astronaut byter han identitet med en av de priviligierade och nästlar sig in på rymdföretaget Gattaca."
+   },
+   "tagline": {
+    "fr": "Un seul critère de sélection, la perfection génétique.",
+    "en": "There is no gene for the human spirit.",
+    "de": "Es gibt kein Gen für den menschlichen Geist.",
+    "it": "Come puoi nasconderti se stai fuggendo da te stesso?",
+    "es": "No hay un gen para el espíritu humano."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Drame"
+    ],
+    "en": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "de": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "it": [
+     "Fantascienza",
+     "Dramma"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Drama"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Drama"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 7285,
+   "runtime": 107
   },
   {
    "id": 603,
@@ -453,7 +1390,52 @@
     "de": "/vI6oPPFZjfr4jOu21NHyoZmfsn2.png",
     "it": "/7tg7ZTv0AbO5afJaUZguvqK5O4g.png",
     "es": "/kA8phmxG7h4BIN061fiutckq9Ho.png"
-   }
+   },
+   "overview": {
+    "fr": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est‐ce que la Matrice ? Nul ne le sait, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents…",
+    "en": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "de": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe – der gesuchte Terrorist Morpheus – weiht ihn in ein entsetzliches Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrheit werden die Menschen längst von einer unheimlichen virtuellen Macht beherrscht – der „Matrix“, deren Agenten Neo bereits im Visier haben …",
+    "it": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e della bella Trinity, può tentare di scoprire la verità, ma non sarà un'impresa facile.",
+    "es": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+    "sv": "Thomas Anderson lever ett dubbelliv. På dagarna är han en vanlig programmerare och på nätterna en hacker känd som Neo. Hans liv förändras för alltid när han kontaktas av Morpheus, en legendarisk hacker som av myndigheterna stämplas som terrorist. Mötet drar Neo in i polisens sökarljus och tvingar honom in i en existentiell kamp om människans frihet."
+   },
+   "tagline": {
+    "fr": "Croire à l'incroyable.",
+    "en": "Believe the unbelievable.",
+    "de": "Glaube das Unglaubliche.",
+    "it": "Credete all'incredibile.",
+    "es": "Bienvenido al mundo real.",
+    "sv": "Tro det ofattbara."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 29287,
+   "runtime": 136
   },
   {
    "id": 1954,
@@ -474,7 +1456,52 @@
     "en": "/4PcyOuSCiuuQumo0a2C6fLFIC2m.png",
     "de": "/odxHiI8cqQpffM822K3cC5aTGcP.png",
     "es": "/bAHFjf4YJ4M7DNttmUMC0Kqwe3E.png"
-   }
+   },
+   "overview": {
+    "fr": "Une théorie prétend que si l'on pouvait retourner dans le passé et changer quelques détails de notre vie, tout ce qui en découle serait modifié. On appelle cela « l'effet papillon ». Evan Treborn a cette faculté. Fasciné, il va d'abord mettre ce don au service de ceux dont les vies ont été brisées dans leur enfance. Il peut enfin repartir dans le passé et sauver la seule jeune fille qu'il ait jamais aimée. Mais Evan va découvrir que ce pouvoir est aussi puissant qu'incontrôlable. Il va s'apercevoir que s'il change la moindre chose, il change tout. En intervenant sur le passé, il modifie le présent et se voit de plus en plus souvent obligé de réparer les effets indésirables de ses corrections…",
+    "en": "A young man struggles to access sublimated childhood memories. He finds a technique that allows him to travel back into the past, to occupy his childhood body and change history. However, he soon finds that every change he makes has unexpected consequences.",
+    "de": "Evan Treborn hatte keine besonders angenehme Kindheit. Sein Vater war halb verrückt, Schläge, der Missbrauch seiner Freundin und Morddrohungen waren an der Tagesordnung. Hilfe fand er nur bei einigen wenigen Freunden und in seinen Tagebüchern, denen er sich seit seinem 7.Lebensjahr anvertraute. Jetzt, erwachsen, entdeckt er, dass er in der Zeit zurückreisen kann. Bestrebt, die finstere Vergangenheit zu ändern, als seine Freundin stirbt, bemüht er sich um temporäre Ausbesserung der eigenen Vergangenheit. Doch jede Veränderung ist wie der Schlag eines Schmetterlingsflügels, der am Ende der Welt einen Orkan auslöst: die neue Zukunft ist immer noch schrecklicher, als die Realität, die er selbst kannte. Also versucht es Evan immer wieder …",
+    "it": "Evan soffre di amnesie fin da bambino. Mentre rilegge alcuni avvenimenti traumatici nei suoi diari, viene catapultato indietro nel passato, che presto scopre di poter influenzare. Cambiare anche il minimo dettaglio, però, sconvolge tutto il suo vissuto, e il destino di Evan e dei suoi amici, al risveglio, è completamente cambiato.",
+    "es": "Evan Treborn, un joven que se está esforzando por superar unos dolorosos recuerdos de su infancia, descubre una técnica que le permite viajar atrás en el tiempo y ocupar su cuerpo de niño para poder cambiar el curso de su dolorosa historia. Sin embargo también descubre que cualquier mínimo cambio en el pasado altera enormemente su futuro.",
+    "sv": "En ung man kämpar med att komma över jobbiga minnen från sin barndom. Han upptäcker en teknik som gör det möjligt att resa i tiden och han börjar ändra sin historia för att bli av med sina obehagliga barndomsminnen. Vad han inte räknat med är att varje förändring i det förflutna också förändrar hans framtid."
+   },
+   "tagline": {
+    "fr": "Changer une chose... Change tout.",
+    "en": "Change one thing. Change everything.",
+    "de": "Das Ende ist erst der Anfang.",
+    "it": "Ci sono cose che non devono essere cambiate.",
+    "es": "Pequeños cambios, grandes consecuencias.",
+    "sv": "Ändra en sak. Ändra allt."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Thriller"
+    ],
+    "en": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "de": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "it": [
+     "Fantascienza",
+     "Thriller"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Suspense"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Thriller"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 8710,
+   "runtime": 113
   },
   {
    "id": 38,
@@ -496,7 +1523,58 @@
     "de": "/tYrUgPTyX6XvuZ88ojfjtjAtnPb.png",
     "it": "/wjjtybxQRFTn47EkhGMP0c38xYU.png",
     "es": "/lnCHPBafPTztZ3OFt3axPNqGjhE.png"
-   }
+   },
+   "overview": {
+    "fr": "Joel et Clementine ne voient plus que les mauvais côtés de leur tumultueuse histoire d’amour, au point que celle‐ci fait effacer de sa mémoire toute trace de cette relation. Effondré, Joël contacte l’inventeur du procédé Lacuna, le Dr. Mierzwiak, pour qu’il extirpe également de sa mémoire tout ce qui le rattachait à Clémentine. Deux techniciens, Stan et Patrick, s’installent à son domicile et se mettent à l’œuvre, en présence de la secrétaire, Mary. Les souvenirs commencent à défiler dans la tête de Joël, des plus récents aux plus anciens, et s’envolent un à un, à jamais. Mais en remontant le fil du temps, Joël redécouvre ce qu’il aimait depuis toujours en Clémentine – l’inaltérable magie d’un amour dont rien au monde ne devrait le priver. Luttant de toutes ses forces pour préserver ce trésor, il engage alors une bataille de la dernière chance contre Lacuna…",
+    "en": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+    "de": "Joel Barish und Clementine Kruczynski sind ein äußerst gegensätzliches Paar. Er ist zurückhaltend und geordnet, sie ist das krasse Gegenteil. Doch trotzdem (oder gerade deshalb?) funktionierte diese Liaison über zwei Jahre lang mit kleineren Hochs und Tiefs wunderbar. Doch dann, eines Tages, trennt sich Clementine nach einem Streit plötzlich von Joel. Er verkraftet die Trennung nicht und beschließt kurzerhand, Clementine bei der Arbeit aufzusuchen, um sie um eine letzte Chance für die gemeinsame Zukunft zu bitten. Doch Clementine verhält sich bei Joels Besuch äußerst merkwürdig. Zunächst benimmt sie sich so, als würde sie ihn überhaupt nicht kennen und dann muss er noch beobachten, wie sie mit dem einige Jahre jüngeren Patrick innige Küsse austauscht...",
+    "it": "Joel e Clementine sono una coppia molto innamorata. Stanca però della sua relazione ormai in fase di declino e mediante un esperimento scientifico, la ragazza decide di farsi asportare dalla mente la parte relativa alla storia con Joel. Il giovane, una volta venuto a conoscenza di questo fatto, sceglie di fare altrettanto ma, durante il procedimento, cambia idea.",
+    "es": "Una mujer usa los servicios de una empresa para borrar de su memoria todo recuerdo de su ex pareja. Ofendido, el hombre intenta hacer lo mismo que ella, pero el proceso no sucede según lo esperado y el protagonista debe atravesar la gigantesca marea de recuerdos de su propio cerebro para recomponer las cosas.",
+    "sv": "Joel upptäcker att hans före detta flickvän Clementine har raderat alla sina minnen av deras tumultartade förhållande genom att undergå en experimentell behandling. Desperat beslutar sig Joel för att undergå samma behandling och glömma bort Clementine. Detta visar sig emellertid inte vara så enkelt."
+   },
+   "tagline": {
+    "fr": "Vous pouvez effacer quelqu'un de votre vie. L'effacer de votre cœur est une autre histoire.",
+    "en": "You can erase someone from your mind. Getting them out of your heart is another story.",
+    "de": "Du kannst jemanden aus deinem Gedächtnis löschen, ihn aus deinem Herzen zu verbannen, ist eine andere Geschichte.",
+    "it": "È possibile cancellare una persona dalla propria mente. Eliminarla dal cuore è un'altra storia.",
+    "es": "Ya me olvide de lo que sentía por ti.",
+    "sv": "Du kan radera någon ur ditt minne. Att få bort dem från ditt hjärta är en annan historia."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Drame",
+     "Romance"
+    ],
+    "en": [
+     "Science Fiction",
+     "Drama",
+     "Romance"
+    ],
+    "de": [
+     "Science Fiction",
+     "Drama",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Fantascienza",
+     "Dramma",
+     "Romance"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Drama",
+     "Romance"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Drama",
+     "Romantik"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 17005,
+   "runtime": 108
   },
   {
    "id": 9693,
@@ -517,7 +1595,58 @@
     "en": "/m7FJIzFFU7cwuGeHg3qgY6Y6bFt.png",
     "it": "/nRZwnDwzF9uzv3Wy4p72sk0Hksu.png",
     "es": "/xDCVx7xZpkYaPnZIWVhSHyqcRqK.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans une société futuriste où les êtres humains ne parviennent plus à se reproduire, l’annonce de la mort de la plus jeune personne, âgée de 18 ans, met la population en émoi. Au même moment, une femme tombe enceinte - un fait qui ne s'est pas produit depuis une vingtaine d'années - et devient par la même occasion la personne la plus enviée et la plus recherchée de la Terre. Un homme est chargé de sa protection…",
+    "en": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+    "de": "Im Jahre 2027 hat die Menschheit die Zeugungskraft verloren und steuert in einem letzten anarchistischen Aufbäumen dem eigenen Aussterben entgegen. Mittendrin: Theo, einst idealistischer Kämpfer für eine bessere Welt, jetzt resignierter, angepasster Regierungsagent in einem mitleidslosen Wettlauf um die Macht auf den kriminellen Straßen. Sein neuer Auftrag ist anders als die anderen: Er soll die junge Kee beschützen. Auf Kee hat es die ganze Welt abgesehen. Denn Kee ist schwanger.",
+    "it": "Anno 2027. In un futuro non troppo distante, in cui il mondo non può più procreare, l'Inghilterra rimane unica zona franca, per non confrontarsi con le guerriglie urbane. Theo, rapito da Julian, una donna attivista amata in passato, ha una grande responsabilità. Dovrà condurre salva una giovane donna fino a un santuario sul mare, e dare la possibilità al mondo di evitare l'estinzione.",
+    "es": "Año 2027: el ser humano está al borde de la extinción: los hombres han perdido la capacidad de procrear y se ignora por qué razon todas las mujeres del planeta se han vuelto estériles. Al mismo tiempo, el mundo se estremece cuando muere un muchacho de 18 años, la persona más joven de la Tierra. Se vive, pues, una situación de caos galopante. En tales circunstancias, Theo (Clive Owen), un desilusionado ex-activista radical de Londres convertido en burócrata, es contratado por Julian (Julianne Moore) para que proteja a una mujer que puede tener el secreto de la salvación de la humanidad, la persona más valiosa de la Tierra...",
+    "sv": "Året är 2027 och världen har förvandlats till en kaotisk plats där kvinnor inte längre kan bli gravida. En före detta aktivist bestämmer sig för att hjälpa en kvinnlig flykting att ta sig till en tillflyktsort vid havet. Det blir dock svårare än han först trott när det visar sig att kvinnan bär på något mycket värdefullt."
+   },
+   "tagline": {
+    "fr": "L’avenir appartient au passé.",
+    "en": "The year 2027: the last days of the human race. No child has been born for 18 years. He must protect our only hope.",
+    "de": "Die Zukunft ist eine Sache der Vergangenheit.",
+    "it": "Anno 2027: gli ultimi giorni del genere umano. Nessun bambino è nato negli ultimi 18 anni. Un uomo deve proteggere la nostra unica speranza.",
+    "es": "Sin niños, sin futuro, sin esperanza.",
+    "sv": "År 2027: mänsklighetens sista dagar. Inget barn har fötts på 18 år. Han måste skydda vårt sista hopp."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Thriller",
+     "Action"
+    ],
+    "en": [
+     "Science Fiction",
+     "Thriller",
+     "Action"
+    ],
+    "de": [
+     "Science Fiction",
+     "Thriller",
+     "Action"
+    ],
+    "it": [
+     "Fantascienza",
+     "Thriller",
+     "Azione"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Suspense",
+     "Acción"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Thriller",
+     "Action"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 8305,
+   "runtime": 109
   },
   {
    "id": 17654,
@@ -538,7 +1667,45 @@
     "en": "/gneH6YMq0WKVBLBXO8rzf1YBerp.png",
     "de": "/9LR4xcdn6kvd1GjyITfKDn7GRF.png",
     "es": "/ul4dyOwCHe7YwfyIgjYIILpQghn.png"
-   }
+   },
+   "overview": {
+    "fr": "Il y a vingt-huit ans, des extraterrestres entrèrent en contact avec la Terre... Ces visiteurs d'au-delà des étoiles étaient des réfugiés et furent installés dans le District 9, en Afrique du Sud, pendant que les nations du monde se querellaient pour savoir quoi en faire... Depuis, la gestion de la situation a été transférée au MNU (Multi-National United), une société privée qui n'a pas grand-chose à faire du sort de ces créatures, mais qui fera d'énormes bénéfices si elle arrive à faire fonctionner leur extraordinaire armement. Jusqu'à présent, toutes les tentatives ont échoué: pour que les armes marchent, il faut de l'ADN extraterrestre. La tension entre extraterrestres et humains atteint son maximum lorsque le MNU commence à évacuer les non-humains du District 9 vers un nouveau camp.",
+    "en": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+    "de": "1982 tauchte ein Raumschiff über Johannesburg auf, an Bord außerirdische Flüchtlinge. Zwanzig Jahre später ist die ursprüngliche Gastfreundschaft der Menschen geschwunden. Aus dem Flüchtlingslager ist ein elendes Ghetto geworden, in dem die ungeliebten Besucher interniert sind: District 9. Das Privatunternehmen Multi-National United (MNU) erhält den Auftrag, sich um die Angelegenheit zu kümmern, verfolgt dabei aber ganz eigene Interessen. Als der MNU-Agent Wikus van de Merwe sich mit einem seltsamen Virus infiziert, wird er zur Zielscheibe und findet ausgerechnet im District 9 neue Freunde, die ihn unterstützen.",
+    "it": "Negli anni '80 sono arrivati gli alieni. Stavolta però non sono atterrati a Manhattan o in qualche sperduto paesino campagnolo degli Stati Uniti ma si sono fermati con un'astronave gigante sopra Johannesburg senza muoversi più. C'è stato bisogno che un convoglio terrestre andasse a vedere cosa conteneva quella nave apparentemente immobile per scoprire milioni di alieni denutriti, sporchi e in condizioni pessime. Da quel momento per 20 anni i visitatori sono stati stipati in una baraccopoli di Johannesburg creata per l'occasione: il distretto 9. Un luogo dove le creature da un altro pianeta sono trattate come animali, dove regnano caos e anarchia e dal quale ogni tanto scappano facendo incursioni in città che non portano altro che risentimento e xenofobia nella popolazione locale. Ora è arrivato il momento di spostarli da qualche altra parte, ma loro è a casa che vogliono tornare.",
+    "es": "Tras la llegada de una enorme nave espacial extraterrestre a Johannesburgo (Sudáfrica), a los alienígenas recién llegados a la Tierra se les obligó a vivir en condiciones penosas como \"refugiados\", en una especie de campo de concentración construido en las afueras la ciudad. Todo empezó unos veinte años atrás, cuando los extraterrestres tomaron el primer contacto con nuestro planeta. Los humanos esperaban un ataque hostil, o un gran avance tecnológico de la raza alienígena. Pero nada de ello sucedió. Los propios extraterrestres eran refugiados de su propio mundo. Sin saber bien que hacer, se confinó a los alienígenas en un campo de refugiados, el \"Distrito 9\", hasta que las naciones del mundo decidieran qué hacer ante la nueva y extraña situación. Pero el tiempo pasó...",
+    "sv": "Det har gått över 20 år sedan utomjordingar anlände till jorden. Mänskligheten förberedde sig då på ett fientligt möte med överlägsen teknologi. Men ingenting skedde. Istället blev utomjordingarna kvar som flyktingar på jorden. Varelserna placerades i provisoriska hem i Sydafrikas District 9, allt medan jordens nationer debatterade deras fortsatta öde."
+   },
+   "tagline": {
+    "fr": "Ils ne sont pas les bienvenus.",
+    "en": "You are not welcome here.",
+    "de": "Ihr seid hier nicht willkommen.",
+    "it": "Voi qui non siete graditi.",
+    "es": "No eres bienvenido aquí."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction"
+    ],
+    "en": [
+     "Science Fiction"
+    ],
+    "de": [
+     "Science Fiction"
+    ],
+    "it": [
+     "Fantascienza"
+    ],
+    "es": [
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 10838,
+   "runtime": 112
   },
   {
    "id": 19995,
@@ -559,7 +1726,58 @@
     "en": "/eYBa9fpSvZEYOl88ulP5fnRoCIi.png",
     "de": "/38NKS7T0WE1PBw2TcKolsy9TK3R.png",
     "it": "/rEnkqfjqRgEFVvwEtzdKwZDpgSI.png"
-   }
+   },
+   "overview": {
+    "fr": "Un marine paraplégique, envoyé sur la lune Pandora pour une mission unique, est tiraillé entre suivre ses ordres et protéger le monde qu'il considère dorénavant comme le sien.",
+    "en": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "de": "Ex-Marine Jake Sully nimmt auf dem Planeten Pandora an einem Experiment unter der Leitung der Wissenschaftlerin Dr. Grace Augustine teil. Als er sich im genetisch manipulierten Körper der Ureinwohner in die schöne Neytiri verliebt, gerät er zwischen die Fronten eines skrupellosen Konzerns und dem naturverbundenen Volk der Na'vi. Jake muss sich entscheiden, auf welcher Seite er steht - in einem ungleichen Kampf, in dem es um das Schicksal einer einzigartigen Welt geht ...",
+    "it": "Jake Sully è un marine costretto su una sedia a rotelle che accetta di trasferirsi sul pianeta Pandora in sostituzione del fratello morto, la cui missione era quella di esplorare il pianeta. Essendo l'atmosfera del pianeta tossica per gli umani sono stati creati degli esseri simili ai nativi Na'vi che possono essere 'guidati' dagli umani. Pandora è un enorme giacimento di un minerale prezioso per la Terra dove le fonti di energia sono azzerate. Gli indigeni Na'vi non hanno intenzione di essere colonizzati. Il compito iniziale dell'avatar di Jake sarà quello di conoscerne usi e costumi e di farsi accettare all'interno delle comunità indigene. Jake conosce così Neytiri, una guerriera Na'vi figlia del capo tribù. Da lei impara a divenire un guerriero molto diverso dal marine che è stato e se ne innamora ricambiato.",
+    "es": "Año 2154. Jake Sully, un exmarine en silla de ruedas, es enviado al planeta Pandora, donde se ha creado el programa Avatar, gracias al cual los seres humanos pueden controlar de forma remota un cuerpo biológico con apariencia y genética de la especie nativa. Pronto se encontrará con la encrucijada entre seguir las órdenes de sus superiores o defender al mundo que le ha acogido y siente como suyo.",
+    "sv": "Den desillusionerade marinsoldaten Jake Sully skickas till planeten Pandora för att med alla medel övertyga urbefolkningen att låta människan exploatera deras natur för att utvinna en ny energikälla. Allteftersom Jake lär känna planeten och folket blir han mer och mer osäker på sitt uppdrag och när kampen ställs på sin spets måste han välja sida."
+   },
+   "tagline": {
+    "fr": "Entrez dans le monde de Pandora.",
+    "en": "Enter the world of Pandora.",
+    "de": "Betritt die Welt von Pandora",
+    "it": "Entra nel mondo di Pandora.",
+    "es": "Entra al mundo de avatar.",
+    "sv": "Upptäck en ny värld."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Action",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Action",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Action",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Azione",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Acción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Action",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 35048,
+   "runtime": 178
   },
   {
    "id": 27205,
@@ -579,7 +1797,58 @@
     "fr": "/dK9XgpUTF7UtT0lHXOKLlgmrKdu.png",
     "en": "/eS5TjZsO30LTfZISyBbPiXshAKd.png",
     "es": "/rHWUWJXC83KfqiSSAogV1YYTZHf.png"
-   }
+   },
+   "overview": {
+    "fr": "Dom Cobb est un voleur expérimenté, le meilleur dans l'art dangereux de l'extraction, voler les secrets les plus intimes enfouis au plus profond du subconscient durant une phase de rêve, lorsque l'esprit est le plus vulnérable. Les capacités de Cobb ont fait des envieux dans le monde tourmenté de l'espionnage industriel alors qu'il devient fugitif en perdant tout ce qu'il a un jour aimé. Une chance de se racheter lui est alors offerte. Une ultime mission grâce à laquelle il pourrait retrouver sa vie passée mais uniquement s'il parvient à accomplir l'impossible inception.",
+    "en": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "de": "Beim Versuch in das Unterbewusstsein des Industriellen Saito einzudringen, stoßen Cobb und seine Mitstreiter auf unerwartete Schwierigkeiten. Saito hatte Verteidigungsstrategien gegen den Gedankendiebstahl trainiert und baut nun einen Abwehrriegel auf, doch erst der Verrat eines Kollegen lässt den Versuch scheitern, dem Schlafenden Geheimnisse zu entlocken. Da seine Auftraggeber unbedingten Erfolg gefordert hatten, muss Cobb, der auf Grund einer drohenden Verurteilung nicht mehr in die USA zurück kann, fliehen, doch Saito kommt ihm zuvor. Allerdings nicht um ihn zu bestrafen, sondern um ihm einen Deal vorzuschlagen.",
+    "it": "Dom Cobb possiede una qualifica speciale: è in grado di inserirsi nei sogni altrui per prelevare i segreti nascosti nel più profondo del subconscio. Viene contattato da Saito, un potentissimo industriale di origine giapponese, il quale gli chiede di tentare l'operazione opposta. Non deve prelevare pensieri celati ma inserire un'idea che si radichi nella mente di una persona. Costui è Robert Fischer Jr. il quale, alla morte dell'anziano e dittatoriale genitore, dovrà convincersi che l'unica cosa che può fare è distruggere l'impero ereditato. Saito avrà allora campo libero. In cambio offrirà a Cobb la possibilità di rientrare negli Stati Uniti dove è ricercato per omicidio. Cobb accetta e si fa affiancare da un team di cui entra a far parte la giovane Ariane, architetto abilissimo nella costruzione di spazi virtuali.",
+    "es": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+    "sv": "Cobb, en skicklig tjuv inom industrispionage, den absolut bästa i konsten att extrahera: att stjäla värdefulla hemligheter från djupt inne i det undermedvetna under drömstadiet när hjärnan är som mest känslig, får en chans till upprättelse när han får ett omöjligt uppdrag i något som aldrig tidigare har gjorts."
+   },
+   "tagline": {
+    "fr": "Votre esprit abrite la scène du crime.",
+    "en": "Your mind is the scene of the crime.",
+    "de": "Dein Verstand ist der Ort des Verbrechens.",
+    "it": "La tua mente è la scena del crimine",
+    "es": "Tu mente es la escena del crimen.",
+    "sv": "Ditt undermedvetna är brottsplatsen."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction",
+     "Crime"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction",
+     "Crime"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction",
+     "Krimi"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza",
+     "Crime"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción",
+     "Crimen"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 40764,
+   "runtime": 148
   },
   {
    "id": 152601,
@@ -600,7 +1869,56 @@
     "en": "/vTEK9z9glcdLRJXnFcoaN1XcVIV.png",
     "it": "/cnnmFi1YjCW0ywEd9NsYUxZjYoO.png",
     "es": "/8OIzsxAap3MKpJM1ykw9TTSx5ej.png"
-   }
+   },
+   "overview": {
+    "fr": "Los Angeles, dans un futur proche. Theodore Twombly, un homme sensible au caractère complexe, est inconsolable suite à une rupture difficile. Il fait alors l'acquisition d'un programme informatique ultramoderne, capable de s'adapter à la personnalité de chaque utilisateur. En lançant le système, il fait la connaissance de « Samantha », une voix féminine intelligente, intuitive et étonnamment drôle. Les besoins et les désirs de Samantha grandissent et évoluent, tout comme ceux de Theodore, et peu à peu, ils tombent amoureux…",
+    "en": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+    "de": "In was verliebt man sich bei seinem Gegenüber zuerst? Die Augen, das Gesicht, die Hände, die Stimme? Im Falle von Theodore Twombly ist es die Stimme. Ihm bleibt auch nichts anderes als die Stimme, denn Samantha ist körperlos. Sie ist die Stimme von Theodores neuem Betriebssystem, das über eine künstliche Intelligenz verfügt – und anscheinend auch über Emotionen. Bis vor kurzem noch trudelte Theodore, professioneller Verfasser einfühlsamer Briefe für Kunden, denen die passenden Worte fehlen, recht haltlos durchs Leben, nachdem seine langjährige Beziehung mit Catherine in die Brüche gegangen ist. Doch zu seiner Verwunderung entwickelt Theodore zur Computerstimme Samantha Gefühle, die schnell über eine bloße Schwärmerei hinausgehen. Von seiner Umwelt kritisch beäugt muss sich Theodore die Frage gefallen lassen: Ist solch eine Liebe möglich?",
+    "it": "Los Angeles, in un futuro non troppo lontano. Theodore, un uomo solitario dal cuore spezzato che si guadagna da vivere scrivendo lettere “personali” per gli altri, acquista un sistema informatico di nuova generazione progettato per soddisfare tutte le esigenze dell’utente. Il nome della voce del sistema operativo è Samantha, che si dimostra sensibile, profonda e divertente. Il rapporto di Theodore e Samantha crescerà e l’amicizia si trasformerà in amore ma…",
+    "es": "En un futuro cercano, Theodore, un hombre solitario a punto de divorciarse que trabaja en una empresa como escritor de cartas para terceras personas, compra un día un nuevo sistema operativo basado en el modelo de Inteligencia Artificial, diseñado para satisfacer todas las necesidades del usuario. Para su sorpresa, se crea una relación romántica entre él y Samantha, la voz femenina de ese sistema operativo.",
+    "sv": "I en nära framtid i Los Angeles lever Theodore som är en komplex, själfull man som tjänar sitt uppehälle genom att skriva gripande, personliga brev åt andra människor. Med hjärtat krossat efter att ha avslutat ett långt förhållande blir han fascinerad av ett nytt, avancerat operativsystem som sägs vara både intelligent och ha ett eget medvetande"
+   },
+   "tagline": {
+    "fr": "Une histoire d'amour avec une IA.",
+    "en": "A Spike Jonze love story.",
+    "de": "Einfühlsame Lovestory um einen zutiefst einsamen Mann",
+    "it": "Innamorarsi è una pazzia."
+   },
+   "genres": {
+    "fr": [
+     "Romance",
+     "Science-Fiction",
+     "Drame"
+    ],
+    "en": [
+     "Romance",
+     "Science Fiction",
+     "Drama"
+    ],
+    "de": [
+     "Liebesfilm",
+     "Science Fiction",
+     "Drama"
+    ],
+    "it": [
+     "Romance",
+     "Fantascienza",
+     "Dramma"
+    ],
+    "es": [
+     "Romance",
+     "Ciencia ficción",
+     "Drama"
+    ],
+    "sv": [
+     "Romantik",
+     "Science Fiction",
+     "Drama"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 15851,
+   "runtime": 126
   },
   {
    "id": 137113,
@@ -620,7 +1938,51 @@
     "fr": "/cRrCUBBDB2oLgS5aO2JsYnpK7aj.png",
     "en": "/vneUSXt4O70P3I2kBrKi5BE09AV.png",
     "es": "/oRaB6T5HHLA5vR6g0Oi7IBIPCXO.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans un futur proche, des hordes d’extraterrestres ont livré une bataille acharnée contre la Terre et semblent désormais invincibles : aucune armée au monde n’a réussi à les vaincre. Le commandant William Cage, qui n’a jamais combattu de sa vie, est envoyé, sans la moindre explication, dans ce qui ressemble à une mission‐suicide. Il meurt en l’espace de quelques minutes et se retrouve projeté dans une boucle temporelle, condamné à revivre le même combat et à mourir de nouveau indéfiniment…",
+    "en": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+    "de": "In naher Zukunft beginnt eine insektenartige Alienrasse – die sogenannten Mimics, mit einer Invasion der Erde. Mit ihrer überlegenen Technologie zerstören die Mimics unerbittlich Städte und ganze Länder, das menschliche Militär ist so gut wie machtlos. Doch noch ist nicht alle Hoffnung verloren, denn die militärischen Kräfte der ganzen Welt haben sich verbündet, um in einer letzten Offensive gegen das übermächtige Alienheer in die Schlacht zu ziehen. In diesem gigantischen Selbstmordkommando findet sich auch der degradierte Lt. Col. Bill Cage wieder. Er stirbt während der Schlacht, aber unglaublicherweise erwacht er daraufhin wieder am Morgen desselben Tages.",
+    "it": "La storia di “Edge of Tomorrow” si svolge in un futuro prossimo in cui una razza aliena ha colpito la Terra con un implacabile assalto che nessuno esercito al mondo riesce a respingere. Il tenente William Cage è un ufficiale che non ha mai partecipato neppure a un giorno di combattimento quando viene inviato senza tanti complimenti a compiere una missione suicida. Ucciso in pochi minuti, incredibilmente Cage si risveglia ed è costretto a combattere e a morire ancora e ancora, in un continuo loop temporale. Ma a ogni scontro Cage diventa sempre più abile nell’affrontare il nemico, insieme alla combattente delle Forze Speciali Rita Vrataski. Mentre Cage e Rita continuano la lotta contro gli alieni, la ripetizione di ogni battaglia li fa avvicinare sempre più alla soluzione per annientare il nemico.",
+    "es": "En un futuro no muy lejano, invade la Tierra una raza de extraterrestres invencibles. Al comandante William Cage, un oficial que nunca ha entrado en combate, le encargan una misión casi suicida y resulta muerto. Entra entonces en un bucle temporal, en el que se ve obligado a luchar y morir una y otra vez. Pero las múltiples batallas que libra lo hacen cada vez más hábil y eficaz en su lucha contra los alienígenas. Su compañera de combate es Rita Vrataski, una guerrera de las Fuerzas Especiales. Adaptación del manga de Hiroshi Sakurazaka.",
+    "sv": "I en nära framtid har Jorden invaderats och mänskligheten är utsatt för ständiga attacker som inte någon armé i världen kan stå emot. Major William Cage är en officer i USAs armé, som aldrig tidigare varit ute i strid och som plötsligt befinner sig mitt i en pågående eldstrid. Cage blir dödad inom ett par minuter men befinner sig oförklarligt i en tidsloop och genomlever samma brutala krig om och om igen, han strider och dör bara för att vakna, strida och dö igen. Men för varje gång lyckas Cage tillsammans med Special Forces-soldaten Rita Vrataski ta sig ett steg närmare att besegra fienden."
+   },
+   "tagline": {
+    "fr": "Vivre. Mourir. Recommencer.",
+    "en": "Live. Die. Repeat.",
+    "de": "Lebe. Stirb. Immer wieder.",
+    "it": "Vivi. Muori. Ripeti.",
+    "es": "Vive, muere, repite."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 15767,
+   "runtime": 113
   },
   {
    "id": 157336,
@@ -640,7 +2002,58 @@
     "fr": "/e81YnyUwNs9YO8ljpPMMjrzHsgM.png",
     "en": "/4Hu4w5p0mwL2Wvyk3gqu2JRDGHl.png",
     "es": "/xBmWKbXWEgRn69x7qma4uiPgE1N.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans un futur proche, face à une Terre exsangue, un groupe d’explorateurs utilise un vaisseau interstellaire pour franchir un trou de ver permettant de parcourir des distances jusque‐là infranchissables. Leur but : trouver un nouveau foyer pour l’humanité.",
+    "en": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "de": "Was Wissenschaftler, Politiker und Aktivisten seit Jahrzehnten prophezeien, ist eingetreten: Die Menschheit steht kurz davor, an einer globalen Nahrungsknappheit zugrunde zu gehen. Die einzige Hoffnung der Weltbevölkerung besteht in einem geheimen Projekt der US-Regierung, das von dem findigen Wissenschaftler Professor Brand geleitet wird. Der Plan sieht vor, eine Expedition in ein anderes Sternensystem zu starten, wo bewohnbare Planeten, Rohstoffe und vor allem Leben vermutet werden. Der Ingenieur und ehemalige NASA-Pilot Cooper und Brands Tochter Amelia führen die Besatzung an, die sich auf eine Reise ins Ungewisse begibt: Wurmlöcher sind so gut wie unerforscht und niemand kann mit Sicherheit sagen, was die Crew auf der anderen Seite erwartet. Ebenso ist unsicher, ob und wann Cooper und Brand wieder auf die Erde zurückkehren. Coopers Kinder, Tochter Murph und Sohn Tom, müssen mit Schwiegervater Donald zurückbleiben und auf seine Wiederkehr hoffen...",
+    "it": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo è quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
+    "es": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+    "sv": "Vår tid på jorden närmar sig sitt slut, och ett team av upptäcksresenärer tar sig an historiens viktigaste uppdrag."
+   },
+   "tagline": {
+    "fr": "L’Homme est né sur Terre, rien ne l’oblige à y mourir.",
+    "en": "Mankind was born on Earth. It was never meant to die here.",
+    "de": "Die Menschheit wurde auf der Erde geboren. Es war nie gedacht, dass sie hier stirbt.",
+    "it": "La fine del mondo non sarà la nostra fine.",
+    "es": "La humanidad nació en la Tierra. Nunca estuvo destinada a morir aquí.",
+    "sv": "Jordens undergång innebär inte slutet för oss."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Drame",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Drama",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Drama",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Dramma",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Drama",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Drama",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 41938,
+   "runtime": 169
   },
   {
    "id": 264660,
@@ -660,7 +2073,51 @@
     "fr": "/cWzJWqNc1E3MMZXfCS6qrzS6cTJ.png",
     "en": "/vpT3JzVdQoLbf6rreK7TwYVh3GY.png",
     "es": "/82ylrY3CHjZWq673KyfT0zWDzhY.png"
-   }
+   },
+   "overview": {
+    "fr": "Caleb, 24 ans, est programmeur de l'une des plus importantes entreprise d'informatique au monde. Lorsqu'il gagne un concours pour passer une semaine dans un lieu retiré en montagne appartenant à Nathan, le PDG solitaire de son entreprise, il découvre qu'il va en fait devoir participer à une étrange et fascinante expérience dans laquelle il devra interagir avec la première intelligence artificielle au monde qui prend la forme d'un superbe robot féminin.",
+    "en": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+    "de": "Der 26-jährige Caleb arbeitet als Web-Programmierer in einem großen Internetkonzern. Als er ein firmeninternes Gewinnspiel mit Bravour meistert, besteht Calebs Preis darin, seinen obersten Vorgesetzten, den öffentlichkeitsscheuen Konzernchef Nathan, auf dessen abgelegenem Grundstück in den Bergen besuchen zu dürfen. Doch Caleb ist nicht der schönen Aussicht wegen in das Refugium eingeladen worden. Schnell wird ihm klar, dass seine Anwesenheit Teil eines faszinierenden Experiments ist. In seinem Domizil beherbergt Nathan die weltweit erste künstliche Intelligenz: den weiblichen Roboter Ava, mit dem Caleb kommunizieren und eine Verbindung aufbauen soll. Schon bald geraten er, Nathan und Ava in ein gefährliches Dreieck aus Liebe, Eifersucht und Misstrauen …",
+    "it": "Caleb, un programmatore ventiquattrenne impiegato presso la più grande società informatica del mondo, si aggiudica la possibilità di trascorrere una settimana nel rifugio privato di montagna che appartiene a Nathan, il solitario CEO della società. Ma quando Caleb raggiunge la località remota, scopre che dovrà partecipare ad uno strano ed affascinante esperimento in cui occorrerà interagire con la prima vera intelligenza artificiale al mondo, dalle fattezze di una bellissima ragazza robot.",
+    "es": "Nathan, un programador multimillonario con fama de ermitaño, selecciona a Caleb, un joven empleado de su empresa, para que pase una semana con él en un lugar remoto en las montañas con el objetivo de realizar un test en el que está involucrada su última creación: Ava, un robot-mujer en el que la inteligencia artificial lo es todo.",
+    "sv": "I en avskild tillflyktsort i bergen pågår ett ovanligt experiment, en begåvad IT-miljardär har bjudit in en ung man att testa en artificiell intelligens hos en kvinnlig robot. Men experimentet förvandlas till en mörk, psykologisk kamp - ett triangeldrama där lojaliteten splittras mellan människa och maskin."
+   },
+   "tagline": {
+    "fr": "Rien n'est plus humain que la volonté de survivre",
+    "en": "There is nothing more human than the will to survive.",
+    "de": "Es gibt nichts menschlicheres als den Willen zu überleben.",
+    "it": "Non c'è niente di più umano della voglia di sopravvivere",
+    "es": "No existe nada más humano que la voluntad de sobrevivir."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "de": [
+     "Drama",
+     "Science Fiction"
+    ],
+    "it": [
+     "Dramma",
+     "Fantascienza"
+    ],
+    "es": [
+     "Drama",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Drama",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 14814,
+   "runtime": 108
   },
   {
    "id": 76341,
@@ -680,7 +2137,57 @@
     "fr": "/dtf5ivoyuvZWB43D1DSISv6oiJE.png",
     "en": "/uiXCDDtRTsB18nIes9IEyZglP3m.png",
     "es": "/4YdkDF2Topc44pVKdClyeXZEqBg.png"
-   }
+   },
+   "overview": {
+    "fr": "Hanté par un lourd passé, Mad Max estime que le meilleur moyen de survivre est de rester seul. Cependant, il se retrouve embarqué par une bande qui parcourt le désert à bord d’un véhicule militaire piloté par l’Impératrice Furiosa. Ils fuient la Citadelle où sévit le terrible Immortan Joe qui s’est fait voler un objet irremplaçable. Enragé, ce Seigneur de guerre envoie ses hommes pour traquer les rebelles impitoyablement…",
+    "en": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "de": "Bei seinen Reisen durch die postapokalyptische Ödnis der Zukunft wird Max von den Schergen des Warlords Immortan Joe gefangen genommen und als lebende Blutkonserve für den schwerkranken Krieger Nux verwendet. Als Imperator Furiosa, eine wichtige Handlangerin Joes, den Herrscher hintergeht, indem sie seine fünf Frauen befreit und während einer Handelsmission mit ihnen an Bord ihres Kriegslasters flieht, ruft der Warlord sein Heer zur Verfolgung auf. Zu den Kriegern gehört auch Nux, der Max zur Blutversorgung an seinen Wagen schnallt. Doch während des ersten Gefechts zwischen Joes Leuten und Furiosa kann sich Max befreien und bildet von da eine Zweckgemeinschaft mit Furiosa und den Frauen, während sie weiter unerbittlich von den Truppen Joes gejagt werden …",
+    "it": "Ossessionato dal suo turbolento passato, Mad Max crede che il modo migliore per sopravvivere sia muoversi da solo, ma si ritrova coinvolto con un gruppo in fuga attraverso la Terre Desolata su un blindato da combattimento, guidato dall’imperatrice Furiosa. Il gruppo è sfuggito alla tirannide di Immortan Joe, cui è stato sottratto qualcosa di insostituibile. Furibondo, l’uomo ha sguinzagliato tutti i suoi uomini sulle tracce dei ribelli e così ha inizio una guerra spietata.",
+    "es": "Perseguido por su turbulento pasado, Mad Max cree que la mejor forma de sobrevivir es ir solo por el mundo. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig conducido por una Emperatriz de élite: Furiosa. Escapan de una Ciudadela tiranizada por Immortan Joe, a quien han arrebatado algo irreemplazable. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a los rebeldes en una 'guerra de la carretera' de altas revoluciones.",
+    "sv": "En apokalyptisk historia som utspelar sig i de mest avlägsna delarna av vår planet, i ett ökenlandskap där mänskligheten är nedbruten, och de allra flesta är galna och kämpar för livets nödvändigheter."
+   },
+   "tagline": {
+    "fr": "Seuls les fous survivent.",
+    "en": "The future belongs to the mad.",
+    "de": "Was für ein schöner Tag. Nur der Wahnsinn überlebt.",
+    "it": "Il futuro appartiene ai folli",
+    "es": "El mundo se vuelve loco."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 24972,
+   "runtime": 121
   },
   {
    "id": 286217,
@@ -702,7 +2209,58 @@
     "de": "/kUbuRgAccrjv0F8B1mScMoy8ZQ8.png",
     "it": "/jd0bnuNKmFJrs5ZJlgtOqpwAeJG.png",
     "es": "/6Kma7LQt59u3x5rKkGTAQP26Y0z.png"
-   }
+   },
+   "overview": {
+    "fr": "Au cours d’une mission spatiale habitée sur Mars, et à la suite d’un violent orage, l’astronaute Mark Watney est laissé pour mort et abandonné sur place par son équipage. Mais Watney a survécu et se retrouve seul sur cette planète hostile. Avec de maigres provisions, il ne doit compter que sur son ingéniosité, son bon sens et son intelligence pour survivre et trouver un moyen d’alerter la Terre qu’il est encore vivant. À des millions de kilomètres de là, la NASA et une équipe de scientifiques internationaux travaillent sans relâche pour ramener « le Martien » sur terre, pendant que, en parallèle, ses coéquipiers tentent secrètement d’organiser une audacieuse voire impossible mission de sauvetage.",
+    "en": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+    "de": "Die NASA treibt mit der „Ares III“-Mission die Erforschung des Mars voran. Die Astronauten Mark Watney, Commander Lewis, Rick Martinez, Chris Beck, Alex Vogel und Beth Johanssen sind auf dem roten Planeten gelandet, inklusive eines Fahrzeugs und eines Habitats, in dem die Forscher leben und Nahrung herstellen können. Doch ein Sandsturm droht die mitgebrachte Technik samt ihrer Einwohner hinwegzufegen, so dass Commander Lewis den Befehl zum sofortigen Aufbruch gibt. Weil ihn seine Crew für tot hält, bleibt der Botaniker Mark Watney auf dem unwirtlichen fremden Planeten zurück. Mit beschädigter Ausrüstung versucht er, die wenigen ihm zur Verfügung stehenden Mittel so einfallsreich wie möglich zu nutzen. Und tatsächlich gelingt es Watney, der Erde zu signalisieren, dass er noch lebt. Die NASA unter Direktor Sanders beginnt, die Rettung des „Marsianers“ zu planen. Parallel dazu startet Watneys Crew eine eigene, riskante Mission, ihn heimzuholen …",
+    "it": "Durante una missione su Marte, l’astronauta Mark Watney (Matt Damon) viene considerato morto dopo una forte tempesta e per questo abbandonato dal suo equipaggio. Ma Watney è sopravvissuto e ora si ritrova solo sul pianeta ostile. Con scarse provviste, Watney deve attingere al suo ingegno, alla sua arguzia e al suo spirito di sopravvivenza per trovare un modo per segnalare alla Terra che è vivo. A milioni di chilometri di distanza, la NASA e un team di scienziati internazionali lavorano instancabilmente per cercare di portare “il marziano” a casa, mentre i suoi compagni cercano di tracciare un’audace, se non impossibile, missione di salvataggio.",
+    "es": "Un explorador espacial queda atrapado en Marte, luego de ser abandonado por los miembros de su tripulación, quienes pensaron que había muerto a consecuencia de una tormenta. Casi sin recursos y con solo su ingenio, intentará sobrevivir mientras la NASA, por un lado, y los miembros de su tripulación, por su propia cuenta, intentan rescatarlo.",
+    "sv": "Efter att hans besättning lämnat honom kvar på Mars, övertygade om att han är död, måste en astronaut använda all sin uppfinningsrikedom för att överleva – och hitta ett sätt att signalera till jorden att han lever i väntan på en möjlig räddning."
+   },
+   "tagline": {
+    "fr": "Les secours sont à 225 millions de kilomètres.",
+    "en": "Bring him home.",
+    "de": "Hilfe ist nur 140 Millionen Meilen entfernt",
+    "it": "La salvezza è a soli 225 milioni di km di distanza",
+    "es": "La ayuda está a sólo 225 millones de kilómetros.",
+    "sv": "För honom hem."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Drame",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Drama",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Drama",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Dramma",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Drama",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Drama",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 22145,
+   "runtime": 141
   },
   {
    "id": 329865,
@@ -723,7 +2281,58 @@
     "en": "/rcPtxYkZ2mXmKdD0NKLzjsHxL3V.png",
     "de": "/wlDZ8re34VOog1jVLLt8wfipQW3.png",
     "es": "/loT4liMF2lVP9E695LGQDeLqQzP.png"
-   }
+   },
+   "overview": {
+    "fr": "Lorsque de mystérieux vaisseaux venus du fond de l’espace surgissent un peu partout sur Terre, une équipe d’experts est rassemblée sous la direction de la linguiste Louise Banks afin de tenter de comprendre leurs intentions.  Face à l’énigme que constituent leur présence et leurs messages mystérieux, les réactions dans le monde sont extrêmes et l’humanité se retrouve bientôt au bord d’une guerre absolue. Louise Banks et son équipe n’ont que très peu de temps pour trouver des réponses. Pour les obtenir, la jeune femme va prendre un risque qui pourrait non seulement lui coûter la vie, mais détruire le genre humain…",
+    "en": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "de": "Zwölf Alien-Raumschiffe landen auf der Erde in unterschiedlichen Regionen. Die Menschen versuchen mit den Außerirdischen zu kommunizieren, aber niemand versteht die walartigen Laute, die von den Aliens abgesondert werden. Im Auftrag der US-Regierung stellt Colonel Weber darum ein Team um die Linguistin Louise Banks und den Physiker Ian Donnelly zusammen, das eine Kommunikation mit den fremden Wesen herstellen soll, um deren Absichten in Erfahrung zu bringen. In Montana, wo eines der Schiffe über dem Boden schwebt, machen sich die beiden an die Arbeit – er, der rationale Naturwissenschaftler mit klarer Ansicht zu den Dingen, sie mit ihrem Sprachverständnis und ihrer ansteckenden Entdeckungsfreude. Doch bald beginnt ein Rennen gegen die Zeit, bei dem es um nicht weniger als den Fortbestand der Menschheit geht …",
+    "it": "Quando un misterioso oggetto proveniente dallo spazio atterra sul nostro pianeta, per le susseguenti investigazioni viene formata una squadra di élite, capitanata dall’esperta linguista Louise Banks. Mentre l’umanità vacilla sull’orlo di una Guerra globale, Banks e il suo gruppo affronta una corsa contro il tempo in cerca di risposte – e per trovarle, farà una scelta che metterà a repentaglio la sua vita e, forse, anche quella del resto della razza umana.",
+    "es": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+    "sv": "En lingvistiker rekryteras av militären efter att utomjordingar har landat runt om i världen. Syftet är att försöka ta reda på om de har fientliga avsikter eller inte."
+   },
+   "tagline": {
+    "fr": "Pourquoi sont-ils ici ?",
+    "en": "Why are they here?",
+    "de": "Warum sind sie hier?",
+    "it": "Perché sono venuti qui?",
+    "es": "¿Por qué están aquí?",
+    "sv": "Varför är de här?"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Science-Fiction",
+     "Mystère"
+    ],
+    "en": [
+     "Drama",
+     "Science Fiction",
+     "Mystery"
+    ],
+    "de": [
+     "Drama",
+     "Science Fiction",
+     "Mystery"
+    ],
+    "it": [
+     "Dramma",
+     "Fantascienza",
+     "Mistero"
+    ],
+    "es": [
+     "Drama",
+     "Ciencia ficción",
+     "Misterio"
+    ],
+    "sv": [
+     "Drama",
+     "Science Fiction",
+     "Mystik"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 20200,
+   "runtime": 117
   },
   {
    "id": 335984,
@@ -743,7 +2352,52 @@
     "fr": "/zHEjlHHWLK2GZX0Di1F7eKleovY.png",
     "en": "/gUoDt6GggEFXVzdyDTyF8ggrEm8.png",
     "es": "/ojKJKVgQ1S4ycPILfTLN5S79Fc1.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2049, la société est fragilisée par les nombreuses tensions entre les humains et leurs esclaves créés par bioingénierie. L’officier K est un Blade Runner : il fait partie d’une force d’intervention d’élite chargée de trouver et d’éliminer ceux qui n’obéissent pas aux ordres des humains. Lorsqu’il découvre un secret enfoui depuis longtemps et capable de changer le monde, les plus hautes instances décident que c’est à son tour d’être traqué et éliminé. Son seul espoir est de retrouver Rick Deckard, un ancien Blade Runner qui a disparu depuis des décennies…",
+    "en": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+    "de": "Im Jahr 2023 wird die Herstellung von Replikanten – künstlichen Menschen, die zum Einsatz in den Weltall-Kolonien gezüchtet werden – nach mehreren schwerwiegenden Vorfällen verboten. Als der brillante Industrielle Niander Wallace ein neues, verbessertes Modell, den „Nexus 9“, vorstellt, wird die Produktion 2036 jedoch wieder erlaubt. Um ältere und somit nicht zugelassene Replikanten-Modelle, die sich auf der Erde verstecken, aufzuspüren und zu eliminieren, ist weiterhin die sogenannte „Blade Runner“-Einheit des LAPD im Einsatz, zu der auch K gehört. Bei seiner Arbeit stößt K auf ein düsteres, gut gehütetes Geheimnis von enormer Sprengkraft, das ihn auf die Spur eines ehemaligen Blade Runners bringt: Rick Deckard, der vor 30 Jahren aus Los Angeles verschwand ...",
+    "it": "Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che è rimasto della società. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni.",
+    "es": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+    "sv": "Trettio år har gått sedan sist. En ny blade runner – Los Angeles-polisen K – avslöjar en sedan länge begravd hemlighet med potential att rasera det lilla som nu återstår av samhället. K:s avslöjande leder honom ut på en jakt efter Rick Deckard, en tidigare blade runner som varit försvunnen i tre decennier."
+   },
+   "tagline": {
+    "fr": "La clé de l’avenir est enfin découverte.",
+    "en": "The key to the future is finally unearthed.",
+    "de": "Der Schlüssel zur Zukunft wird endlich gefunden.",
+    "it": "Chi sono io?",
+    "es": "La clave del futuro finalmente se desenterra.",
+    "sv": "Nyckeln till framtiden har äntligen grävts fram."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Drame"
+    ],
+    "en": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "de": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "it": [
+     "Fantascienza",
+     "Dramma"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Drama"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Drama"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 16042,
+   "runtime": 164
   },
   {
    "id": 333339,
@@ -764,7 +2418,57 @@
     "en": "/sKLqXYCvWdbMM91CVMXEVZqYE6Z.png",
     "it": "/dNCnC9weMY4GUFj28TN9C0I22D.png",
     "es": "/wdiisVU4A6qMsncRI64awp9TrwK.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2045, le monde est au bord du chaos. Les êtres humains se réfugient dans l'OASIS, univers virtuel mis au point par le brillant et excentrique James Halliday. Avant de disparaître, celui-ci a décidé de léguer son immense fortune à quiconque découvrira l'œuf de Pâques numérique qu'il a pris soin de dissimuler dans l'OASIS. L'appât du gain provoque une compétition planétaire. Mais lorsqu'un jeune garçon, Wade Watts, qui n'a pourtant pas le profil d'un héros, décide de participer à la chasse au trésor, il est plongé dans un monde parallèle à la fois mystérieux et inquiétant…",
+    "en": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+    "de": "Im Jahr 2045 steht die ökologisch ausgebeutete Welt am Rande des endgültigen Zusammenbruchs. Doch die Menschen finden Erlösung in dem gigantischen virtuellen Universum Oasis, das der geniale James Halliday entwickelt hat. Als Halliday stirbt, hinterlässt er sein ungeheures Vermögen der ersten Person, die jenes Easter Egg findet, das er in der Oasis versteckt hat. So beginnt ein Wettstreit, der die gesamte Welt in Atem hält. Der junge Wade Watts findet wider Erwarten erste Hinweise, und schon gerät er in eine halsbrecherische, realitätsverändernde Schatzjagd durch ein ebenso fantastisches wie geheimnisvolles Universum voller Entdeckungen und Gefahren ...",
+    "it": "Nel 2045, anno in cui il mondo sta per collassare sull’orlo del caos, le persone hanno trovato la salvezza nell’OASIS, un enorme universo di realtà virtuale creato dal brillante ed eccentrico James Halliday. A seguito della morte di Halliday, la sua immensa fortuna andrà in dote a colui che per primo troverà un Easter egg nascosto da qualche parte all’interno dell’OASIS, dando il via ad una gara che coinvolgerà il mondo intero. Quando un improbabile giovane eroe di nome Wade Watts deciderà di prendere parte alla gara, verrà coinvolto in una vertiginosa caccia al tesoro in questo fantastico universo fatto di misteri, scoperte sensazionali e pericoli.",
+    "es": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
+    "sv": "Året är 2045 och världen befinner sig på randen till kaotisk kollaps. Människor har sökt trygghet i en virtuell verklighet - universumet OASIS som har skapats av den briljante och excentriske James Halliday. När Halliday dör, testamenterar han sin enorma förmögenhet till den som hittar den digitala ledtråd han gömt någonstans i det gigantiska OASIS. Det blir en tävling som engagerar en hel värld. När den unga hjälten Wade Watts bestämmer sig för att delta i tävlingen kastas han in i en fartfylld och svindlande skattjakt genom ett fantastiskt universum fyllt av mysterier och faror."
+   },
+   "tagline": {
+    "fr": "Une aventure trop grande pour le monde réel.",
+    "en": "A better reality awaits.",
+    "de": "Kämpfe für eine bessere Realität",
+    "it": "Fuggi dalla realtà",
+    "es": "Una aventura demasiado grande para el mundo real."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 17615,
+   "runtime": 140
   },
   {
    "id": 438631,
@@ -785,7 +2489,52 @@
     "en": "/hlnyMaUxeFJTb3QL1hKpHwhWowC.png",
     "it": "/6rJJKCfcGIwiZAg7NegVocYvKK0.png",
     "es": "/df7iykrBvhHcDE38CNXOb8WcSuP.png"
-   }
+   },
+   "overview": {
+    "fr": "L'histoire de Paul Atreides, jeune homme aussi doué que brillant, voué à connaître un destin hors du commun qui le dépasse totalement. Car, s'il veut préserver l'avenir de sa famille et de son peuple, il devra se rendre sur Dune, la planète la plus dangereuse de l'Univers. Mais aussi la seule à même de fournir la ressource la plus précieuse capable de décupler la puissance de l'Humanité. Tandis que des forces maléfiques se disputent le contrôle de cette planète, seuls ceux qui parviennent à dominer leur peur pourront survivre…",
+    "en": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+    "de": "„Dune“ erzählt die packende Geschichte des brillanten jungen Helden Paul Atreides, dem das Schicksal eine Rolle vorherbestimmt hat, von der er niemals geträumt hätte. Um die Zukunft seiner Familie und seines gesamten Volkes zu sichern, muss Paul auf den gefährlichsten Planeten des Universums reisen. Nur auf dieser Welt existiert ein wertvoller Rohstoff, der es der Menschheit ermöglichen könnte, ihr vollständiges geistiges Potenzial auszuschöpfen. Doch finstere Mächte wollen die Kontrolle über die kostbare Substanz an sich reißen. Es entbrennt ein erbitterter Kampf, den nur diejenigen überleben werden, die ihre eigenen Ängste besiegen.",
+    "it": "Paul Atreides, un brillante e dotato giovane nato per un grande destino oltre la sua comprensione, deve viaggiare sul pianeta più pericoloso dell'universo per garantire il futuro della sua famiglia e del suo popolo. Mentre forze malevole esplodono in conflitti per la riserva esclusiva del pianeta della risorsa più preziosa esistente, \"la spezia\", una merce capace di sbloccare il massimo potenziale dell'umanità, soltanto chi riesce a superare la propria paura sopravvivrà.",
+    "es": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+    "sv": "Paul Atreides är en briljant och talangfull ung man född med ett storslaget öde som måste resa till den farligaste planeten i universum för att säkra sin familjs och sitt folks framtid. När illasinnade krafter kastas in i en konflikt om tillgången till planetens mest värdefulla råvara - ett ämne med förmågan att låsa upp mänsklighetens fulla potential - kommer bara de som övervinner sina rädslor att överleva."
+   },
+   "tagline": {
+    "fr": "Au-delà de la peur, le destin attend.",
+    "en": "It begins.",
+    "de": "Jenseits der Angst erwartet uns das Schicksal",
+    "it": "L'inizio di un viaggio straordinario",
+    "es": "Más allá del miedo, el destino espera.",
+    "sv": "Allt börjar nu."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 15991,
+   "runtime": 156
   },
   {
    "id": 545611,
@@ -805,7 +2554,58 @@
     "fr": "/o4lTWpVE5MgvNJNKsjfnCvm3h5Z.png",
     "en": "/6rpxXCCaVtj5u4dWANfdRoVgDQV.png",
     "es": "/z1g5lrzhZapdk3Z9ItJOrdqxWGb.png"
-   }
+   },
+   "overview": {
+    "fr": "Evelyn Wang est à bout : elle ne comprend plus sa famille, son travail et croule sous les impôts… Soudain, elle se retrouve plongée dans le multivers, des mondes parallèles où elle explore toutes les vies qu’elle aurait pu mener. Face à des forces obscures, elle seule peut sauver le monde mais aussi préserver la chose la plus précieuse : sa famille.",
+    "en": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+    "de": "Eine alternde chinesische Einwanderin wird in ein verrücktes Abenteuer hineingezogen, in dem nur sie das retten kann, was ihr wichtig ist, indem sie sich mit den Leben verbindet, die sie in anderen Universen hätte führen können.",
+    "it": "Evelyn Wang (Michelle Yeoh) gestisce una piccola lavanderia a gettoni, ha una figlia adolescente che non capisce più, un padre rintronato e un matrimonio alla frutta.  Un controllo fiscale di routine diventa inaspettatamente la porta attraverso cui Evelyn viene trascinata in una avvincente e coloratissima avventura nel multiverso più innovativo e divertente mai visto al cinema. Chiamata a salvare il destino degli universi, dovrà attingere a tutto il suo coraggio per sconfiggere un nemico all’apparenza inarrestabile e riportare l’armonia nella sua famiglia.  Con la sorprendente Stephanie Hsu (Shang-Chi), il film segna il ritorno alle scene dopo 40 anni del mitico Ke Huy Quan, interprete degli amatissimi Data (I Goonies) e Short Round (Indiana Jones e il tempio maledetto).",
+    "es": "Cuando una ruptura interdimensional altera la realidad, Evelyn, una inmigrante china en Estados Unidos, se ve envuelta en una aventura salvaje en la que sólo ella puede salvar el mundo. Perdida en los mundos infinitos del multiverso, esta heroína inesperada debe canalizar sus nuevos poderes para luchar contra los extraños y desconcertantes peligros del multiverso mientras el destino del mundo pende de un hilo.",
+    "sv": "En utmattad kinesisk-amerikansk kvinna sveps med i ett galet äventyr där hon är den enda som kan rädda världen genom att utforska andra världar och genom de liv som hon hade kunnat leva."
+   },
+   "tagline": {
+    "fr": "L'univers est tellement plus grand que vous ne le pensez.",
+    "en": "The universe is so much bigger than you realize.",
+    "de": "Das Universum ist so viel größer, als du denkst.",
+    "it": "L'universo è molto più grande di quanto pensi.",
+    "es": "El universo es mucho más grande de lo que crees.",
+    "sv": "Universum är så mycket större än du inser."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 8677,
+   "runtime": 140
   },
   {
    "id": 766507,
@@ -824,7 +2624,58 @@
    "logo": {
     "en": "/sPHlSlFQ0ykVqXQclTADMYreg43.png",
     "es": "/bY4AIRuVi87Or6mXTuJAxBLVKUN.png"
-   }
+   },
+   "overview": {
+    "fr": "Lorsque le danger menace son camp, la féroce et très habile guerrière Comanche Naru se met en route pour protéger son peuple. Mais la proie qu'elle traque s'avère être un prédateur extraterrestre très évolué doté d'un arsenal techniquement avancé.",
+    "en": "When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.",
+    "de": "Auf den Great Plains im Jahr 1719 macht sich Naru, eine angehende Comanche-Jägerin, auf den Weg, um ihr Volk zu beschützen, als eine unbekannte Gefahr auf sie zukommt. Doch die Beute, die sie verfolgt, entpuppt sich als hochentwickeltes außerirdisches Raubtier mit einem technisch hochentwickelten Waffenarsenal.",
+    "it": "Nei territori Comanche del 1719, la giovane Naru cerca di dimostrarsi una cacciatrice al pari dei giovani maschi della comunità, guidati da suo fratello Taabe. Ha la sua occasione quando si unisce a una spedizione di caccia. Strada facendo, incontra le tracce di un altro predatore del quale credono sia un orso. Invece, questo predatore è determinato a cercare sfide di caccia degne di sé, avvantaggiato da una sorta di invisibilità. La sua superiorità sembra insuperabile persino per i più esperti cacciatori.",
+    "es": "Ambientada hace 300 años en la Nación Comanche. Naru es una joven guerrera, feroz y altamente hábil, que se crió a la sombra de algunos de los cazadores más legendarios que deambulan por las Grandes Llanuras. Cuando el peligro amenaza su campamento, se dispone a proteger a su gente. La presa a la que acecha y, en última instancia, se enfrenta, resulta ser un depredador alienígena evolucionado con un arsenal técnicamente avanzado, lo que deriva en un enfrentamiento cruel y aterrador entre los dos adversarios.",
+    "sv": "Ursprungsberättelsen om en svunnen tid när ett rovdjur besökte Comanche-folket för 300 år sedan. Naru, en ung kvinnlig jägare, ställs öga mot öga med ett av de första högutvecklade rovdjuren att landa på jorden."
+   },
+   "tagline": {
+    "fr": "Ils chassent pour vivre. Il vit pour chasser.",
+    "en": "They hunt to live. It lives to hunt.",
+    "de": "Sie jagen, um zu leben. Es lebt, um zu jagen!",
+    "it": "Lui sa cacciare. Io so sopravvivere.",
+    "es": "Ellos cazan para vivir, él vive para cazar.",
+    "sv": "De jagar för att leva. Den lever för att jaga."
+   },
+   "genres": {
+    "fr": [
+     "Thriller",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Thriller",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Thriller",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Thriller",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Suspense",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Thriller",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 8136,
+   "runtime": 100
   },
   {
    "id": 693134,
@@ -845,7 +2696,52 @@
     "en": "/eYvF1LhPKuoBxOAmWjFTAK7EPWl.png",
     "it": "/6FliKORjKubakqXp3STAVSH2CXe.png",
     "es": "/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png"
-   }
+   },
+   "overview": {
+    "fr": "Le voyage mythique de Paul Atreides qui s'allie à Chani et aux Fremen dans sa quête de vengeance envers les conspirateurs qui ont anéanti sa famille. Devant choisir entre l'amour de sa vie et le destin de l'univers, il fera tout pour éviter un terrible futur que lui seul peut prédire.",
+    "en": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "de": "Paul Atreides begibt sich mithilfe von Chani und den Fremen auf einen Rachefeldzug gegen die Verschwörer, die seine Familie vernichtet haben. Der junge Paul steht vor der Wahl zwischen der Liebe seines Lebens und dem Schicksal des gesamten Universums. Mit allen Mitteln aber muss er versuchen, eine schreckliche Zukunft zu verhindern – eine Zukunft, die niemand außer ihm vorhersehen kann.",
+    "it": "Paul Atreides si unisce a Chani e ai Fremen mentre è sul sentiero di guerra per vendicarsi dei cospiratori che hanno annientato la sua famiglia. Di fronte a una scelta tra l'amore della sua vita e il destino dell'universo conosciuto, Paul si sforza di prevenire un terribile futuro che solo lui può prevedere.",
+    "es": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+    "sv": "Paul Atreides förenar sig med Chani och fremenfolket samtidigt som han är ute efter hämnd på konspiratörerna som förgjorde hans familj. När han ställs inför valet mellan sitt livs kärlek och universums öde, måste han kämpa för att förhindra en fruktansvärd framtid som bara han kan se."
+   },
+   "tagline": {
+    "fr": "Longue vie à la Rébellion !",
+    "en": "Long live the fighters.",
+    "de": "Lang leben die Kämpfer",
+    "it": "Lunga vita ai combattenti",
+    "es": "Larga vida a los guerreros.",
+    "sv": "Länge leve kämparna."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 9000,
+   "runtime": 166
   },
   {
    "id": 687163,
@@ -867,7 +2763,52 @@
     "de": "/xLd7B9uO3c4jcb7DE57iq3EVxWS.png",
     "it": "/ajCZd7l6TPOtYqut81zdc2lO8oX.png",
     "es": "/knpfBHokNXzwLNZtxeGbkI8oyF5.png"
-   }
+   },
+   "overview": {
+    "fr": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+    "en": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+    "de": "Als Ryland Grace erwacht, muss er feststellen, dass er ganz allein ist. Er ist anscheinend der einzige Überlebende einer Raumfahrtmission, Millionen Kilometer von zu Hause entfernt, auf einem Flug ins Tau-Ceti-Sternsystem. Aber was erwartet ihn dort? Und warum sind alle anderen Besatzungsmitglieder tot? Nach und nach dämmert es Grace, dass von seinem Überleben nicht nur die Mission, sondern die Zukunft der gesamten Erdbevölkerung abhängt.",
+    "it": "L’insegnante di scienze Ryland Grace si sveglia su un’astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato lì. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l’enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovrà fare affidamento sulle sue conoscenze scientifiche e sulle sue capacità di pensare fuori dagli schemi per salvare dall’estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli farà capire che non è solo in questa impresa.",
+    "es": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+    "sv": "NO-läraren Ryland Grace vaknar upp ensam på ett rymdskepp, ljusår från jorden. I takt med att minnet kommer tillbaka inser han vidden av sitt uppdrag: han måste stoppa en mystisk substans som hotar att släcka solen och därmed rädda mänskligheten från undergång."
+   },
+   "tagline": {
+    "fr": "Croyez en la dernière chance.",
+    "en": "Believe in the Hail Mary.",
+    "de": "Zwei Welten. Eine unmögliche Mission.",
+    "it": "Credi nell'impossibile.",
+    "es": "Dos mundos una misión imposible.",
+    "sv": "Tro på Ave Maria."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 8.6,
+   "votes": 8934,
+   "runtime": 157
   }
  ]
 }

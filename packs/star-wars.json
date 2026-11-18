@@ -1,6 +1,6 @@
 {
  "id": "star-wars",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Star Wars",
   "en": "Star Wars",
@@ -38,7 +38,57 @@
     "de": "/fODbPT1ALJcOSFfcAyJehCkrlwQ.png",
     "it": "/n9PCMQtJzcHTwjmVjFRWOj6TBQK.png",
     "es": "/dLgwXopLDtvZ3pn7GbMbSsckKuc.png"
-   }
+   },
+   "overview": {
+    "fr": "Il y a bien longtemps, dans une galaxie très lointaine... La guerre civile fait rage entre l'Empire galactique et l'Alliance rebelle. Capturée par les troupes de choc de l'Empereur menées par le sombre et impitoyable Dark Vador, la princesse Leia Organa dissimule les plans de l’Étoile Noire, une station spatiale invulnérable, à son droïde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan Kenobi. Accompagné de son fidèle compagnon, le droïde de protocole C-3PO, R2-D2 s'échoue sur la planète Tatooine et termine sa quête chez le jeune Luke Skywalker. Rêvant de devenir pilote mais confiné aux travaux de la ferme, ce dernier se lance à la recherche de ce mystérieux Obi-Wan Kenobi, devenu ermite au cœur des montagnes désertiques de Tatooine...",
+    "en": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "de": "Seit der Vernichtung der Jedi-Ritter steht die Galaxie unter der grausamen Herrschaft des Imperiums. Nur eine kleine Gruppe von Rebellen, angeführt von der schönen Prinzessin Leia, widersetzt sich der dunklen Macht. Als es ihnen gelingt, die geheimen Baupläne für den gefährlichen Todesstern zu entwenden, gerät das Imperium in Aufruhr. Durch Zufall gelangen die Pläne ausgerechnet in die Hände des Farmerjungen Luke Skywalker, der spürt, dass er sein bisheriges Leben hinter sich lassen muss. Gemeinsam mit dem weisen Obi-Wan Kenobi, den Weltraumabenteurern Han Solo und Chewbacca sowie den Droiden R2-D2 und C-3PO nimmt er den Kampf gegen das mächtige Imperium auf. Es beginnt ein Wettlauf gegen die Zeit, denn der Kampfstern kann nur vor seiner Fertigstellung zerstört werden...",
+    "it": "In un lontano Impero Galattico è in atto una rivolta contro i suoi dispotici capi, tra i quali il più cattivo è Lord Darth Vader. Prima di cadere nelle sue mani, la principessa Leila Organa, rappresentante dei ribelli, riesce ad affidare a due robot i piani della \"Morte Nera\" - la potentissima base spaziale di Darth Vader, capace di disintegrare un intero pianeta - e un appello al vecchio generale Obi-Wan Kenobi, che abita sul pianeta Tatooine, perché accorra in aiuto dei rivoltosi. Il messaggio viene raccolto dal giovane Luke Skywalker che, rintracciato Obi Wan Kenobi, parte con lui in soccorso della principessa a bordo di un'astronave guidata dal mercenario Han Solo e dal suo secondo Chewbacca.",
+    "es": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+    "sv": "För länge sedan i en galax långt, långt borta... Prinsessan Leia tas till fånga av det ondskefulla Rymdimperiet. I ett försök att befria den sköna prinsessan slår sig den unge Luke Skywalker ihop med Han Solo. Tillsammans med de båda robotarna R2-D2 och C-3PO inleder de kampen för att befria Galaxen."
+   },
+   "tagline": {
+    "fr": "“Que la force soit avec toi.”",
+    "en": "A long time ago in a galaxy far, far away...",
+    "de": "Es war einmal in ferner Zukunft…",
+    "it": "Tanto tempo fa, in una galassia lontana lontana...",
+    "es": "Hace mucho tiempo, en una galaxia muy lejana..."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 23186,
+   "runtime": 121
   },
   {
    "id": 1891,
@@ -60,7 +110,58 @@
     "de": "/bjp6mY4D3jlYBdebedEyg9m9w3y.png",
     "it": "/ms0pZRAHJAwE9uURAoklLP4ZJFa.png",
     "es": "/9cfYSldHZmPukaatZRS4Ren3QX8.png"
-   }
+   },
+   "overview": {
+    "fr": "Malgré la destruction de l’Étoile Noire, l'Empire maintient son emprise sur la galaxie, et poursuit sans relâche sa lutte contre l'Alliance rebelle. Basés sur la planète glacée de Hoth, les rebelles essuient un assaut des troupes impériales. Parvenus à s'échapper, la princesse Leia, Han Solo, Chewbacca et C-3P0 se dirigent vers Bespin, la cité des nuages gouvernée par Lando Calrissian, ancien compagnon de Han. Suivant les instructions d'Obi-Wan Kenobi, Luke Skywalker se rend quant à lui vers le système de Dagobah, planète marécageuse où il doit recevoir l'enseignement du dernier maître Jedi, Yoda. Apprenant l'arrestation de ses compagnons par les stormtroopers de Dark Vador après la trahison de Lando, Luke décide d'interrompre son entraînement pour porter secours à ses amis et affronter le sombre seigneur Sith...",
+    "en": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+    "de": "Nach der Zerstörung des Todessterns geht der Kampf zwischen den Rebellen und dem herrschenden Imperium weiter. Die Rebellen haben sich auf den Eisplaneten Hoth zurückgezogen, doch das Imperium spürt sie auf und zerstört nach hartem Kampf die dortige Basis. Daraufhin teilen sich unsere Freunde auf: Luke gerät mit R2-D2 auf den Sumpfplaneten Dagobah, wo er von dem alten Jedi-Meister Yoda eine Ausbildung im Umgang mit der Macht erhält, während Leia, Han Solo und die anderen sich nach Bespin durchschlagen, wo in einer Wolkenstadt ein alter Freund von Han residiert. Doch dort geraten sie in eine Falle des Imperiums, und Luke muß ihnen zu Hilfe kommen und Darth Vader zu einem Duell herausfordern...",
+    "it": "Malgrado la Morte Nera sia stata distrutta, le truppe imperiali si sono impadronite nuovamente di Yavin. I ribelli si sono rifugiati sul pianeta di ghiaccio, ma sono costretti ancora alla fuga. Ian Solo (Han Solo nome originale), la principessa Leia e il droide D3BO (C-3PO), seminano gli inseguitori, mentre Luke, assieme al fido C1P8 (R2-D2) , si reca dal maestro jedi Yoda, sul pianeta Dogabahd, per ritrovare la \"Forza\". Nel tentativo di liberare Leila e gli amici, incontra poi Darth Vader, che si rivela essere suo padre. Seconda puntata (ma in realtà è la quinta) della saga di \"Guerre stellari\", con parecchie allusioni al celebre ciclo narrativo dei cavalieri bretoni: abbastanza evidente il parallelo tra Luke alla ricerca della \"forza\" e Parsifal.",
+    "es": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+    "sv": "Äventyret fortsätter när Luke Skywalker, med hopp om att besegra det onda rymdimperiet, skolar sig till Jedi med hjälp av mästare Yoda. Darth Vader fösöker tillfångata Luke. Medans hamnar Princessan Leia, Han Solo, Chewbacca och droiderna C-3PO och R2-D2 i olika hopplösa situationer med fångenskap, svek och förtvivlan."
+   },
+   "tagline": {
+    "fr": "La Guerre des Étoiles continue…",
+    "en": "The Star Wars saga continues.",
+    "de": "Der Krieg der Sterne geht weiter.",
+    "it": "Continua la saga di Guerre Stellari.",
+    "es": "La saga de La Guerra de las Galaxias continúa...",
+    "sv": "Stjärnornas krig fortsätter"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 19143,
+   "runtime": 125
   },
   {
    "id": 1892,
@@ -82,7 +183,57 @@
     "de": "/p401Gv0Voko2VsHk7XxZEIwPTEN.png",
     "it": "/1s613zRcu9ANXVKaUSn83AZpMyB.png",
     "es": "/bOB6lRH8Y0j1Z1g3bDqbGHKBobS.png"
-   }
+   },
+   "overview": {
+    "fr": "L'Empire galactique est plus puissant que jamais : la construction de la nouvelle arme, l’Étoile de la Mort, menace l'univers tout entier... Arrêté après la trahison de Lando Calrissian, Han Solo est remis à l'ignoble contrebandier Jabba Le Hutt par le chasseur de primes Boba Fett. Après l'échec d'une première tentative d'évasion menée par la princesse Leia, également arrêtée par Jabba, Luke Skywalker et Lando parviennent à libérer leurs amis. Han, Leia, Chewbacca, C-3PO et Luke, devenu un Jedi, s'envolent dès lors pour une mission d'extrême importance sur la lune forestière d'Endor, afin de détruire le générateur du bouclier de l’Étoile de la Mort et permettre une attaque des pilotes de l'Alliance rebelle. Conscient d'être un danger pour ses compagnons, Luke préfère se rendre aux mains de Dark Vador, son père et ancien Jedi passé du côté obscur de la Force.",
+    "en": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+    "de": "Wesen aus allen Ecken der Galaxis treffen die Vorbereitungen für die entscheidende Schlacht gegen die Streitkräfte des Imperiums. Ziel der Aktion ist die totale Zerstörung des zweiten Todessterns, dessen unvorstellbare Feuerkraft ganze Planeten vernichten kann. Inzwischen ist Han Solo immer noch in der Wüstenfestung des mächtigsten und skrupellosesten Verbechers des Universums, Jabba the Hutt, gefangen. Luke Skywalker gelingt es schließlich zusammen mit seinen Gefährten Prinzessin Leia, Chewbacca und Lando Calrissian, sowie den beiden Robotern C3PO und R2D2 mit Han zu fliehen. Aber Luke steht die schwerste Prüfung noch bevor: Während auf dem Waldmond Endor und beim Todesstern die alles entscheidende Schlacht entbrennt, muß er sich seinem Erzfeind Darth Vader zu einem Zweikampf auf Leben und Tod stellen...",
+    "it": "Mentre gli Imperiali sono impegnati nella costruzione di una nuova e indistruttibile Morte Nera, Luke Skywalker diventato finalmente un cavaliere jedi, la principessa Leila, Chewbacca e i due droidi D3BO (C-3PO nome originale) e C1P8 (R2-D2 nome originale) cercano di liberare Ian Solo (Han Solo nome originale), che è prigioniero del criminale intergalattico Jabba.Per poi affronta il crudele alfiere del male Lord Vader (Darth Vader nome originale), scoprendo che gli è padre e che la principessa Leia è sua sorella, ma l'insurrezione non ha successo e Luke viene catturato dell'imperatore, che cerca di portare il giovane dalla sua parte. Terzo (o meglio sesto) e ultimo episodio della saga ideata da George Lucas.",
+    "es": "Luke Skywalker y la princesa Leia deben viajar a Tatooine para liberar a Han Solo. Para conseguirlo, deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el gángster más temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para convertir a Luke al lado oscuro, pero el joven Skywalker, por su parte, está decidido a reavivar el espíritu del Jedi en su padre. La guerra civil galáctica culmina en un último enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidirá el destino de la galaxia.",
+    "sv": "I tredje delen av berättelsen om Stjärnornas krig samlas galaxens goda krafter för att slå tillbaka mot Rymdimperiet. Han Solo och prinsessan Leia sitter i fångenskap hos Jabba The Hutt. Luke måste slutföra sin träning för att kunna bli en riktig jedi-riddare, sedan väntar Lukes öde."
+   },
+   "tagline": {
+    "fr": "Retour dans une galaxie… loin, très loin.",
+    "en": "Return to a galaxy far far away.",
+    "de": "Rückkehr zu einer weit, weit entfernten Galaxis.",
+    "it": "La caduta dell'Impero.",
+    "es": "El Imperio cae..."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 17571,
+   "runtime": 132
   },
   {
    "id": 1893,
@@ -104,7 +255,58 @@
     "de": "/s2OPnklfUDQExrhgMAHDrx27JOY.png",
     "it": "/leivDqFnLgAkw5Cqh9mjPtsR4DE.png",
     "es": "/b3W3Yqm7FGiNC1TFtkiJ3i6BJF4.png"
-   }
+   },
+   "overview": {
+    "fr": "Il y a bien longtemps, dans une galaxie très lointaine... La République connaît de nombreux tourments : la corruption fait vaciller ses bases, le Sénat s'embourbe dans des discussions politiques sans fin et de nombreux pouvoirs dissidents commencent à émerger, annonçant la chute d'un système autrefois paisible. Puissante et intouchable, la Fédération du Commerce impose par la force la taxation des routes commerciales. Refusant de céder, la pacifique planète Naboo, dirigée par la jeune Reine Amidala, subit un blocus militaire de la Fédération. Dépêchés par le Sénat pour régler cette affaire, les chevaliers Jedi Qui-Gon Jinn et Obi-Wan Kenobi découvrent qu'une véritable offensive de la Fédération est imminente. Libérant la Reine et ses proches, ils quittent la planète mais doivent se poser sur Tatooine pour réparer leur vaisseau...",
+    "en": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "de": "Nachdem der friedliche Planet Naboo von der Handelsföderation angegriffen wurde, müssen die Jedi-Ritter Qui-Gon Jinn und Obi-Wan Kenobi gemeinsam mit Königin Amidala auf dem Wüstenplaneten Tatooine notlanden. Dort bekommen sie Hilfe von Anakin Skywalker, einem Sklavenjungen, in dem die Macht ungewöhnlich stark ist. Als es Königin Amidala nicht gelingt, den Senat gegen die Handelsföderation zu mobilisieren, kehrt sie mit den Jedi-Rittern und Anakin nach Naboo zurück, um den Kampf allein fortzusetzen. Eine gewaltige Schlacht beginnt!",
+    "it": "Il regno pacifico di Naboo denuncia l'imminente invasione da parte della Lega dei Commercianti, ma la Repubblica, paralizzata dalla corruzione dilagante e dalla burocrazia del Senato, sceglie di non intervenire. Solo i Cavalieri Jedi Qui-gon Jin e Obi-wan Kenobi si recano a Naboo per proteggere la regina Amidala, in pericolo di vita, e condurla in salvo sul pianeta Tatooine. Qui i Jedi faranno la conoscenza di un bambino fuori dall'ordinario, Anakin Skywalker: Qui-Gon è convinto che si tratti del Prescelto, destinato un giorno a riportare equilibrio nella Forza.",
+    "es": "La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala, como parte de un plan ideado por Sith Darth Sidious, que manteniéndose en el anonimato dirige a los neimoidianos, que están al mando de la Federación. Amidala es convencida por los Jedis Qui-Gon Jinn y su aprendiz, o padawan, Obi-Wan Kenobi a viajar hasta Coruscant, capital de la República y sede del Consejo Jedi para intentar mediar esta amenaza. Pero esquivando el bloqueo, la nave real resulta dañada, obligando a la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...",
+    "sv": "Episod I utspelar sig trettio år före händelserna i Episod IV från 1977. Här introduceras den unge Anakin Skywalker, en pojke som besitter speciella krafter och som är ovetande om att den resa han nu påbörjar, kommer att förvandla honom till den onde Darth Vader. Obi-Wan Kenobi, den vise gamle Jedi-riddaren från den första filmen, är en målmedveten lärling och Palpatine, känd som den onde Kejsaren, är en ambitiös senator i den galaktiska republiken. Det är en tid när Jedi-riddarna är fredens väktare i en stormig galax och den unga drottningen slåss för att rädda sitt folk. I de mörka skuggorna lurar en ond kraft, som väntar på rätt ögonblick för att skrida till sitt förödande"
+   },
+   "tagline": {
+    "fr": "Toute saga a un commencement.",
+    "en": "Every saga has a beginning.",
+    "de": "Jede Saga hat einen Anfang.",
+    "it": "Ogni generazione ha una leggenda. Ogni viaggio ha un primo passo. Ogni saga ha un inizio.",
+    "es": "Cada generación tiene una leyenda. Cada viaje tiene un primer paso. Cada saga tiene un comienzo",
+    "sv": "Varje äventyr har en början"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 16443,
+   "runtime": 136
   },
   {
    "id": 1894,
@@ -126,7 +328,57 @@
     "de": "/jn9pLsVWJqYUPJ9JA79Bb079kZU.png",
     "it": "/nruYRYOj7nvaciHkIziCcL3IVIj.png",
     "es": "/75YJJCWdVN8x8yrna4MSG6uLaKl.png"
-   }
+   },
+   "overview": {
+    "fr": "Depuis le blocus de la planète Naboo par la Fédération du commerce, la République, gouvernée par le Chancelier Palpatine, connaît une véritable crise. Un groupe de dissidents, mené par le sombre Jedi comte Dooku, manifeste son mécontentement envers le fonctionnement du régime. Le Sénat et la population intergalactique se montrent pour leur part inquiets face à l'émergence d'une telle menace.Certains sénateurs demandent à ce que la République soit dotée d'une solide armée pour empêcher que la situation ne se détériore davantage. Parallèlement, Padmé Amidala, devenue sénatrice, est menacée par les séparatistes et échappe de justesse à un attentat. Le Padawan Anakin Skywalker est chargé de sa protection. Son maître, Obi-Wan Kenobi, part enquêter sur cette tentative de meurtre et découvre la constitution d'une mystérieuse armée de clones...",
+    "en": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars.",
+    "de": "Der junge Jedi-Schüler Anakin Skywalker beginnt sich allmählich zu einem grossen und ernstzunehmenden Jediritter zu entwickeln, der unter der Führung von Obi Wan-Kenobi steht. Jedoch hat er auch seine Problemzonen - diese bestehen aus der eigenen Arroganz, seiner nicht wissentlich vorhandenen grenzenlosen Macht, und der ihm verbotenen Liebe zu Königin Amidala. Auf diese werden kurz vor wichtigen Entscheidungen im Senat der Republik mehrere Attentate verübt, die jedoch vereitelt werden können. Daraufhin teilen sich Anakin und Obi-Wan auf: während Anakin auf Amidala aufpaßt, verfolgt Kenobi den Attentäter Jango Fett. Er kommt einer erschaffenen Klon-Armee auf die Spur, die mittels mysteriösem Auftrag geschaffen wurde und findet in dem ehemaligen Jedi Count Dooku einen neuen Gegner für die Hüter der Macht...",
+    "it": "La Repubblica governata dal cancelliere Palpatine è entrata in crisi a causa del blocco in atto sul pianeta Naboo da parte della Federazione; un gruppo di dissidenti comandato dal Jedi conte Dooku manifesta il malcontento per ciò che sta accadendo. Alcuni membri del Senato chiedono che la Repubblica venga dotata di un esercito in grado di fronteggiare la situazione. Nel frattempo Amidala - diventata Senatrice e minacciata dai separatisti - è sfuggita a un attentato: la sua protezione viene affidata a Anakin Skywalker. Nel tentativo di scoprire gli ideatori del complotto, Obi-Wan Kenobi viene a conoscenza dell'esistenza di un misterioso esercito di cloni...",
+    "es": "Corren tenebrosos tiempos para la República. Ésta continúa envuelta en luchas y sumida en el caos. Un movimiento separatista, formado por centenares de planetas y poderosas alianzas y y lideradas por el misterioso conde Dooku, abre nuevas amenazas para la galaxia, a la que ni siquiera los Jedi parecen poder poner freno. Estas maniobras, planeadas hace mucho por una poderosa fuerza, conducen al estallido de las guerras clones y al principio del fin de la República. Para allanar el camino, los separatistas intentan asesinar a la senadora Padme Amidala. Para evitar futuros atentados, su seguridad es encomendada a dos caballeros Jedi...",
+    "sv": "Sedan vi mötte unge Anakin senast har tio år gått. Galaxen har genomgått stora förändringar - liksom hjältarna. Anakin är nu en fullfjädrad lärjunge till Jedi-mästaren Obi-Wan Kenobi. Tillsammans ska de beskydda Padmé Amidala som hotats till livet. Något som leder till starka relationer och till beslut som påverkar hela republikens öde."
+   },
+   "tagline": {
+    "fr": "La saga continue.",
+    "en": "A Jedi shall not know anger. Nor hatred. Nor love.",
+    "de": "Ein Jedi soll weder Zorn, noch Hass, noch Liebe kennen.",
+    "it": "Un Jedi non dovrebbe conoscere la rabbia. Né odio. Né amore.",
+    "es": "Un Jedi no debe conocer la ira. Ni el odio. Ni el amor"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 14906,
+   "runtime": 135
   },
   {
    "id": 1895,
@@ -148,7 +400,57 @@
     "de": "/vBcHZEcE3qhAFXIPvURB9Y1XBHd.png",
     "it": "/2sKXDi4NDTchIIY3iIzmTMiFBSR.png",
     "es": "/4FseIXgsvT63DPC9k4QdzF6MM6t.png"
-   }
+   },
+   "overview": {
+    "fr": "La Guerre des Clones fait rage. Une franche hostilité oppose désormais le Chancelier Palpatine au Conseil Jedi. Anakin Skywalker, jeune Chevalier Jedi pris entre deux feux, hésite sur la conduite à tenir. Séduit par la promesse d'un pouvoir sans précédent, tenté par le côté obscur de la Force, il prête allégeance au maléfique Darth Sidious et devient Dark Vador. Les Seigneurs Sith s'unissent alors pour préparer leur revanche, qui commence par l'extermination des Jedi. Seuls rescapés du massacre, Yoda et Obi-Wan se lancent à la poursuite des Sith. La traque se conclut par un spectaculaire combat au sabre entre Anakin et Obi-Wan, qui décidera du sort de la galaxie…",
+    "en": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.",
+    "de": "Nach drei Jahren nähern sich die Klonkriege endlich dem Ende. Um die Separatisten endgültig zu besiegen, soll Obi-Wan Kenobi ihren Anführer General Grevious und Count Dooku ihrer gerechten Strafe zuführen. Zur Beunruhigung der schwangeren Padme nutzt daheim der endgültig vom Bösen korrumpierte Kanzler Palpatine die Gelegenheit, um den jungen Anakin Skywalker mit Versprechungen von unbegrenzter Macht auf die dunkle Seite zu ziehen. Ratlos und hin- und hergerissen wem er dienen soll, erliegt er geblendet von deren Machtverheißungen, den Versuchungen der dunklen Seite, schwört dem bösen Darth Sidious die Treue und nimmt die Identität von Darth Vader an. Die Sith-Lords beginnen zusammen einen Rachefeldzug, der in der Ermordung der Jedi seinen Anfang nimmt...",
+    "it": "Tre anni dopo l'inizio della Guerra dei Cloni il lungo ed estenuante conflitto sta per giungere ad una conclusione. Obi-Wan Kenobi e Anakin Skywalker stanno per avere rivelazioni sconvolgenti. Il pianeta Coruscant è sotto attacco e per mano del Generale Grievous, il loro compito è di assicurare il Generale alla giustizia, ma il Cancelliere Palpatine sta trasformando la Repubblica in un regime tirannico, nonostante l'opposizione dell'Ordine degli Jedi e di pochi senatori ancora non corrotti. Anakin, divenuto sempre più vicino al Cancelliere, nel frattempo soffre di moleste visioni a proposito della Senatrice Padme Amidala, sposata in segreto. Sin dall'inizio della Guerra dei Cloni si è andato avvicinando sempre più al Lato Oscuro della Forza, incoraggiato da Palpatine, e presto lo scontro diverrà inevitabile. Obi-Wan Kenobi non avrà altra scelta che confrontarsi col suo antico apprendista in una battaglia mentre si affaccia un nuovo conflitto che determinerà il destino della Galassia.",
+    "es": "Último capítulo de la saga de Star Wars, en el que Anakin Skywalker definitivamente se pasa al lado oscuro. En el Episodio III aparecerá el General Grievous, un ser implacable mitad-alien mitad-robot, el líder del ejército separatista Droid. Los Sith son los amos del lado oscuro de la Fuerza y los enemigos de los Jedi. Ellos fueron prácticamente exterminados por los Jedi hace mil años, pero la orden del mal sobrevivió en la clandestinidad.",
+    "sv": "Äntligen får alla frågor svar. Detta är filmen som länkar samman Stjärnornas krig som kom ut på biograferna redan 1977 med 2002 års Star Wars: Episod II - Klonerna anfaller och frågor som hur Luke Skywalker hamnade hos sina fosterföräldrar, varför Yoda flydde och kanske den största frågan av dem alla, hur Anakin Skywalker blir Darth Vader får äntligen svar."
+   },
+   "tagline": {
+    "fr": "La saga est complète.",
+    "en": "Every story has a hero. Every hero has a destiny. Every saga has an end.",
+    "de": "Die Saga ist vollendet.",
+    "it": "La saga è completa.",
+    "es": "La saga está completa"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 15524,
+   "runtime": 139
   },
   {
    "id": 12180,
@@ -168,7 +470,61 @@
     "fr": "/9HJZv6T8UhERWArKqdpjbHUCR07.png",
     "en": "/9M3okCNPKGZYaEzl9N5sv7azqjA.png",
     "es": "/aaiQ14XfMtxKO8bxfB3ptOBSDyp.png"
-   }
+   },
+   "overview": {
+    "fr": "La galaxie est en proie à la Guerre des Clones, un conflit à grande échelle qui oppose les maléfiques Séparatistes et leurs immenses armées d'androïdes à la République. Les Chevaliers Jedi, protecteurs de la République, luttent pour maintenir l'ordre et restaurer la paix tandis que de nouvelles planètes succombent chaque jour aux puissances du mal. Pour prendre l'avantage, le Chevalier Jedi Anakin Skywalker et sa jeune Padawan, Ahsoka Tano, sont chargés d'une mission capitale qui va les confronter au redoutable \"parrain\" de Tatooine, Jabba le Hutt. D'autres épreuves et de nouveaux dangers attendent nos héros sur Tatooine, car le Comte Dooku ne tarde pas à se lancer à leur poursuite avec ses sinistres agents - dont la cruelle Asajj Ventress, prête à tout pour faire échouer Anakin et Ahsoka. Pendant ce temps, sur le front, Obi-Wan Kenobi et Maître Yoda s'efforcent vaillamment de préparer l'armée des clones à résister aux forces des Ténèbres...",
+    "en": "As the Clone Wars sweep through the galaxy, Anakin Skywalker and his new Padawan learner Ahsoka Tano plunge into a dangerous mission to rescue the kidnapped son of crime lord Jabba the Hutt.",
+    "de": "Zwischen den Separatisten und der galaktischen Republik entflammen die Klonkriege. Als Jabba the Hutts Sohn von einer unbekannten Gruppe Abtrünniger entführt wird, sollen die Jedi-Ritter Anakin Skywalker und Obi-Wan Kenobi ihr Versteck suchen und herausfinden, wer die Hintermänner sind. Yoda stellt Anakin den aufstrebenden Schüler Ahsoka Tano zur Seite. Asajj Ventress, Count Dooku und die Sith wollen indes einen neuen Krieg anzetteln.",
+    "it": "Tanto tempo fa in una galassia lontana la Repubblica Galattica, sostenuta e difesa dai prodi Cavalieri Jedi, combatteva contro i Separatisti e il loro esercito di droidi. Ristabilire la pace e resistere al lato oscuro della forza sono i principi e la missione che ispirano Obi-Wan Kenobi, saggio maestro Jedi, e Anakin Skywalker, suo brillante e impulsivo allievo. Impegnati a recuperare il figlio di Jabba the Hutt, rapito dalla sicaria del malvagio conte Dooku, Obi-Wan e Anakin incroceranno il destino e la spada laser della giovane Ahsoka Tano.",
+    "es": "Mientras las Guerras Clon barren la galaxia, Anakin Skywalker y su nueva aprendiz Padawan, Ahsoka Tano, se aventuran en una arriesgada misión para rescatar al hijo secuestrado de Jabba el Hutt, el señor del Crimen. El renegado Conde Dooku y su letal y cruel vasalla Asajj Ventress harán todo lo posible por hacerles fracasar, haciendo que la misión de Anakin Skywalker tenga graves consecuencias.Mientras, en la línea de batalla, Obi-Wan Kenobi y el maestro Yoda lideran el masivo ejército clon en un valiente esfuerzo por derrotar al ejército droide y resistir a las fuerzas del lado oscuro.",
+    "sv": "Detta är en helt ny berättelse i Star Wars-sagan, som tar sin början där Episod II slutade. I stridslinjen till den intergalaktiska kampen mellan gott och ont, kommer Star Wars-fans att få återse välkända figuer som Anakin Skywalker, Obi-Wan Kenobi och Padmé Amidala men även nya hjältar som Anakins Padawanelev, Ahsoka.Ondskefulla skurkar, ledda av Palpatine, greve Dooku och general Grievous är beredda att ta över makten i galaxen. Allt står på spel och Star Wars-universumets framtid ligger i de modiga Jedi-riddarnas händer."
+   },
+   "tagline": {
+    "en": "A galaxy divided!",
+    "de": "Eine gespaltene Galaxie !",
+    "it": "Quest'anno preparatevi a vedere Star Wars come non lo avete mai visto"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Action",
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Animation",
+     "Action",
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Animation",
+     "Action",
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Animazione",
+     "Azione",
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Animación",
+     "Acción",
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Animerat",
+     "Action",
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 6.2,
+   "votes": 2319,
+   "runtime": 98
   },
   {
    "id": 140607,
@@ -190,7 +546,57 @@
     "de": "/eYviQfy3IvjRIldoBXz0BbhO3VM.png",
     "it": "/4yvGEzl7Ji5eIdrjNQ5B5ZJXxVS.png",
     "es": "/1ub5OjVoJ93fwI3Gs83632Wh1XI.png"
-   }
+   },
+   "overview": {
+    "fr": "Il y a bien longtemps, dans une galaxie lointaine… Luke Skywalker est porté disparu. Le pilote Poe est en mission secrète sur une planète pour le retrouver. Au moment où la diabolique armée \"Premier Ordre\" apparaît en détruisant tout sur son passage, il arrive à cacher la position géographique de l'ancien maître Jedi dans son droïde BB-8. Capturé par les larbins du machiavélique Kylo Ren, Poe est libéré par le soldat ennemi Finn qui est en pleine crise existentielle. Pendant ce temps, BB-8 est recueillie par Rey, une pilleuse d'épaves qui sera bientôt plongée dans une quête qui la dépasse.",
+    "en": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+    "de": "Über 30 Jahre sind vergangen, seitdem die Rebellen den zweiten Todesstern über Endor zerstört und damit die entscheidende Schlacht gegen die finsteren Mächte des Imperiums gewonnen haben. Doch aus der Asche des Bösen ist die Erste Ordnung empor gestiegen und hat die Herrschaft wieder an sich gerissen. Während Supreme Leader Snoke die Zügel im Hintergrund in den Händen hält, schickt er den Lichtschwert schwingenden Kylo Ren ins Feld, um die neue Weltordnung auch in den verstecktesten Winkeln der Galaxis zu verbreiten. Von großer Politik aber weiß Rey auf dem Wüstenplaneten Jakku zunächst nicht viel. Die junge Frau verbringt ihre Tage damit, die karge Landschaft nach Schrott abzusuchen, den sie danach verkauft. Sie ist allein, wartet auf ihre Familie – bis sie die Bekanntschaft von Finn macht, einem ehemaligen Sturmtruppler, den die Untaten der Ersten Ordnung abgeschreckt haben.",
+    "it": "Sono trascorsi circa trent'anni dalla caduta dell'Impero. L'indipendente e solitaria Riley (Daisy Ridley), il soldato pentito Finn (John Boyega) e il pilota di caccia Poe (Oscar Isaac), danno inizio a una nuova grande avventura contro i cattivi dediti al Lato Oscuro della Forza, tra cui il minaccioso Kylo Ren (Adam Driver). Lungo la strada incontreranno nuovi amici, nemici e volti noti, come quello di Ian Solo (Harrison Ford) e della principessa Leila (Carrie Fisher), divenuta un generale.",
+    "es": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte, la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
+    "sv": "Kylo Ren och det ondskefulla The First Order reser sig ur askan efter Imperiet. Samtidigt är Luke Skywalker försvunnen, när han behövs som mest. Det blir upp till skrotsamlaren Rey och Stormtrooper-desertören Finn att tillsammans med Han Solo och Chewbacca ge sig ut på en desperat jakt efter galaxens enda hopp om fred."
+   },
+   "tagline": {
+    "fr": "Chaque génération a son histoire.",
+    "en": "Every generation has a story.",
+    "de": "Jede Generation hat eine Geschichte.",
+    "it": "Ogni generazione ha una storia.",
+    "es": "La Fuerza te está llamando. Sólo déjala entrar."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 21147,
+   "runtime": 136
   },
   {
    "id": 330459,
@@ -210,7 +616,57 @@
     "en": "/dOTDLwFfew3CDPv8tmlHIcOtCqi.png",
     "it": "/hRnYNoYSiXmGQ22sFI68kupALk2.png",
     "es": "/dDGw5Dfqgn128az8o0cdXtAcwbG.png"
-   }
+   },
+   "overview": {
+    "fr": "Situé entre les épisodes III et IV de la saga Star Wars, le film nous entraîne aux côtés d’individus ordinaires qui, pour rester fidèles à leurs valeurs, vont tenter l’impossible au péril de leur vie. Ils n’avaient pas prévu de devenir des héros, mais dans une époque de plus en plus sombre, ils vont devoir dérober les plans de l’Étoile de la Mort, l’arme de destruction ultime de l’Empire.",
+    "en": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+    "de": "Die mehrfach verurteilte Jyn Erso passt gut ins Anforderungsprofil für die Rebellion gegen das galaktische Imperium. Sie ist hart, kompromisslos und steht außerhalb der Gesellschaft. Aber es gibt noch einen weiteren, ganz speziellen Grund für ihre Anheuerung. Ihr Vater wurde vor Jahren von dem imperialen Karrieristen Krennic dazu gezwungen, für den Imperator eine neue Superwaffe zu entwickeln: den Todesstern. Dabei hat er heimlich eine Schwachstelle eingebaut und diese mit einem Hilferuf an die Rebellenallianz geschickt. Um diese Schwäche ausnutzen zu können, bedarf es allerdings der genauen Baupläne der Waffe. Zusammen mit dem Spion Cassian Andor und einer Schar unerschrockener Kämpfer bricht Jyn daraufhin zu dem Planeten Scarif auf, um die dort lagernden Baupläne des Todessterns zu erbeuten. Ein Himmelfahrtskommando, zumal der Rat der Rebellen aufgrund der vagen Informationen jegliche Unterstützung verweigert.",
+    "it": "Rogue One: A Star Wars Story è il primo capitolo di una nuova avventurosa serie cinematografica che esplora i personaggi e gli eventi che ruotano intorno alla saga di Guerre Stellari. Il film racconta la storia di un improbabile gruppo di eroi che intraprendono, in un periodo di conflitto, una missione per sottrarre i piani della più potente arma di distruzione di massa mai ideata dall'impero, la Morte Nera. Questo evento, fondamentale per la storia di Star Wars, spingerà delle persone ordinarie a unirsi per realizzare imprese straordinarie, diventando parte di qualcosa di più grande. Rogue One è ambientato prima degli eventi narrati in Star Wars Episodio IV: Una Nuova Speranza e si discosta dai film della saga, mantenendo comunque una certa familiarità con l'universo di Star Wars. Si inoltrerà in nuovi territori, esplorando il conflitto galattico da una diversa prospettiva militare mantenendo l'atmosfera dei film di Star Wars che i fan conoscono bene.",
+    "es": "El Imperio Galáctico ha terminado de construir el arma más poderosa de todas, la Estrella de la muerte, pero un grupo de rebeldes decide realizar una misión de muy alto riesgo: robar los planos de dicha estación antes de que entre en operaciones, mientras se enfrentan también al poderoso Lord Sith conocido como Darth Vader, discípulo del despiadado Emperador Palpatine.",
+    "sv": "I en tid fylld av konflikter slår sig en grupp osannolika hjältar sig samman för att genomföra ett livsfarligt uppdrag: att stjäla ritningarna till Dödsstjärnan, Imperiets ultimata förstörelsevapen. Det här är en av de viktigaste händelserna i Star Wars historia och för samman vanliga människor, vilka valt att utföra extraordinära handlingar, och genom detta bli del i något som är större än de själva."
+   },
+   "tagline": {
+    "fr": "Une rébellion fondée sur l'espoir.",
+    "en": "Empires are built on fear. Rebellions are built on hope.",
+    "de": "Rebellion entsteht aus Hoffnung.",
+    "it": "Una ribellione costruita sulla speranza",
+    "es": "Una rebelión construida sobre la esperanza."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 16986,
+   "runtime": 134
   },
   {
    "id": 181808,
@@ -232,7 +688,57 @@
     "de": "/bdHlDaPOooxPmLqYccu9xPRhUom.png",
     "it": "/ut3RuBkpw3nmvMK3I5m17TzT0Zd.png",
     "es": "/sKU6BRiZsbBOG68VosP2VKhIKlt.png"
-   }
+   },
+   "overview": {
+    "fr": "Le Premier Ordre étend ses tentacules aux confins de l’univers, poussant la Résistance dans ses retranchements. Il est impossible de se sauver à la vitesse de la lumière avec cet ennemi continuellement aux trousses. Cela n’empêche pas Finn et ses camarades de tenter d’identifier une brèche chez leur adversaire. Pendant ce temps, Rey se trouve toujours sur la planète Ahch‐To pour convaincre Luke Skywalker de lui enseigner les rudiments de la Force.",
+    "en": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+    "de": "Die planetenvernichtende Starkiller-Basis der Ersten Ordnung ist zwar zerstört, die Neue Republik nach der vorherigen Zerstörung von fünf Welten aber massiv geschwächt. Sie steht am Abgrund und wird nur noch von Generalin Leias Widerstand verteidigt, für den auch Pilot Poe Dameron und der desertierte Ex-Sturmtruppler Finn kämpfen. Rey, mit den Erfahrungen ihres ersten großen Abenteuers in den Knochen, geht unterdessen bei Luke Skywalker auf dem Inselplaneten Ahch-To in die Lehre. Luke ist der letzte Jedi, der letzte Vertreter des Ordens, auf dem die Hoffnung ruht, dass Frieden in der Galaxis einkehrt. Doch die Erste Ordnung wirft ihren Schatten auch auf Luke und Rey: Der verlorene, ehemalige Schützling des alten Meisters, Kylo Ren, hat die finstere Mission noch längst nicht beendet, die ihm der sinistere Strippenzieher Snoke auftrug ...",
+    "it": "Mentre il Primo Ordine si prepara a stroncare quel che resta della Resistenza, Rey consegna a Luke Skywalker la spada laser che fu sua, invitandolo a interrompere il suo esilio per salvare il mondo libero. Ma Luke non ne vuole sapere e il Lato Oscuro tesse la sua trama letale attorno agli ultimi ribelli.",
+    "es": "La malvada Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
+    "sv": "Efter att ha funnit Luke Skywalker försöker Rey övertala honom att ansluta sig till rebellstyrkorna, men Luke har tappat tron på jediriddarnas roll i kampen efter att ha misslyckats med Ben Solo. Samtidigt leder Leia rebellstyrkorna i kraftigt underläge, och deras chanser blir inte bättre när det visar sig att Första orden har utvecklat en teknologi som kan spåra deras skepp i ljushastighet."
+   },
+   "tagline": {
+    "fr": "Laisser le passé mourir.",
+    "en": "Let the past die.",
+    "de": "Lass die Vergangenheit sterben.",
+    "it": "L'oscurità cresce... e cosí la luce",
+    "es": "Deja morir el pasado."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.7,
+   "votes": 16890,
+   "runtime": 152
   },
   {
    "id": 348350,
@@ -252,7 +758,57 @@
     "en": "/2c7QT4VXeJDmHPa0pb0CHCAIcAq.png",
     "it": "/zFGJF6AFa4Y3wnwrcSfZCPifgkT.png",
     "es": "/7b7HiLVYF6oZz0FLtGH97WBB4CM.png"
-   }
+   },
+   "overview": {
+    "fr": "Embarquez à bord du Faucon Millenium et partez à l’aventure en compagnie du plus célèbre vaurien de la galaxie. Au cours de périlleuses aventures dans les bas-fonds d’un monde criminel, Han Solo va faire la connaissance de son imposant futur copilote Chewbacca et croiser la route du charmant escroc Lando Calrissian… Ce voyage initiatique révèlera la personnalité d’un des héros les plus marquants de la saga Star Wars.",
+    "en": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+    "de": "Im Mittelpunkt steht der junge Schmuggler Han Solo dessen erstes großes Abenteuer gezeigt wird. Solo ist von der Flugakademie geworfen worden, weil er seinen eigenen Kopf hat – eine Eigenschaft, die er auch anschließend nicht verliert. Sein Mentor, der zwielichtige Gangster Tobias Beckett, schickt ihn auf eine wichtige Mission. Begleitet wird Solo unter anderem von seinem neuen, treuen Freund Chewbacca, von Qi’Ra die ihn kennt wie kein anderer – und von Lando Calrissian.",
+    "it": "Attraverso una serie di rischiose bravate vissute nel pericoloso sottobosco criminale galattico, Han Solo incontrerà Chewbacca, il suo futuro copilota, e Lando Calrissian, noto giocatore d'azzardo, in un viaggio che definirà il corso di uno dei più improbabili eroi della saga Star Wars.",
+    "es": "Precuela de la saga Star Wars, en la que se conocerán los primeros pasos que dio el personaje de Han Solo, desde joven hasta convertirse en el antihéroe que vimos en \"Una nueva esperanza\", antes de que se encontrase con Luke y Obi-Wan en la cantina de Mos Eisley.",
+    "sv": "Stig ombord på the Millenium Falcon och res med till en galax långt, långt borta. Genom en serie händelser i den mörka och kriminella undre världen möter Han Solo sin blivande andrepilot Chewbacca och träffar också på den ökände storspelaren Lando Calrissian."
+   },
+   "tagline": {
+    "fr": "Ne lui dites jamais quelles sont les cotes.",
+    "en": "Never tell him the odds.",
+    "de": "Der Beginn der größten Freundschaft der Galaxis!",
+    "it": "Non ditegli mai le probabilità.",
+    "es": "No le hables de probabilidades."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 6.5,
+   "votes": 9658,
+   "runtime": 135
   },
   {
    "id": 181812,
@@ -274,7 +830,57 @@
     "de": "/cYgX31VQPnAVYt6d68ZxBSF8Ce4.png",
     "it": "/2a0vEekTIo05Jn8Kyb5LHPG00F9.png",
     "es": "/eC99nNEGwR3DpqiKs20DyXeDL2H.png"
-   }
+   },
+   "overview": {
+    "fr": "Environ un an après la mort de Luke Skywalker, la Résistance tente de survivre face au Premier Ordre, désormais mené par un nouveau Suprême Leader, Kylo Ren. Une rumeur agite cependant toute la galaxie : l'Empereur Palpatine serait de retour. Tandis que Rey s'entraîne sous la houlette de la générale Leia Organa, Kylo Ren cherche à défier Palpatine, qu'il considère comme une menace à son pouvoir.",
+    "en": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+    "de": "Etwa ein Jahr, nachdem der letzte Rest des Widerstands durch Luke Skywalkers Opfertat aus dem Griff der Ersten Ordnung entkommen konnte, kämpfen die völlig unterlegenen Rebellen aus dem Hinterhalt gegen Kylo Ren und dessen Truppen. Zum ersten Mal gehen dabei die neuen Helden Rey, Finn und der Super-Pilot Poe gemeinsam auf eine lange Mission ...",
+    "it": "La resistenza è ridotta a poche unità, il primo ordine dilaga sotto il comando del leader supremo Kylo Ren, ma un messaggio ha turbato la galassia. L'imperatore Palpatine giura vendetta! Ren si mette così alla ricerca dell'origine della trasmissione e arriva a confrontarsi con Palpatine, che gli offre una spaventosa flotta se saprà eliminare la ragazza Jedi, Rey. Questa combatte e si addestra seguendo gli insegnamenti del generale Organa, mentre Finn, Poe e Chewbacca ricevono messaggi da una spia nel Primo Ordine.",
+    "es": "Los restos de la Resistencia se enfrentan una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevará a la saga de los Skywalker a un final definitivo.",
+    "sv": "Det sista kapitlet av den episka Skywalker-sagan som spänner över generationer. Rey, Poe, Finn och Kylo Ren fortsätter kampen."
+   },
+   "tagline": {
+    "fr": "Toute saga a une fin.",
+    "en": "The saga concludes.",
+    "de": "Jede Generation hat eine Legende.",
+    "it": "La saga volge al termine. La storia vivrà per sempre.",
+    "es": "La saga llega a su fin."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.2,
+   "votes": 11340,
+   "runtime": 142
   },
   {
    "id": 1228710,
@@ -294,7 +900,58 @@
     "fr": "/oEtm1nmkNGoGon4lDObfXZPuFWf.png",
     "en": "/xSj9QrjsR8fZnSuEt6e7QZvrqSy.png",
     "es": "/eKidr499bFyOOB5Z3dQcsXzaCnE.png"
-   }
+   },
+   "overview": {
+    "fr": "L'Empire maléfique est tombé et les seigneurs de guerre impériaux restent dispersés dans toute la galaxie. Alors que la nouvelle République naissante travaille pour protéger tout ce que la rébellion s'est battue, ils ont fait appel à Din Djarin et à son jeune apprenti Grogu.",
+    "en": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "de": "Das böse Imperium ist gefallen, doch imperiale Kriegsherren sind weiterhin über die Galaxis verstreut. Die junge Neue Republik arbeitet daran, alles zu schützen, wofür die Rebellion gekämpft hat, und hat sich dazu die Hilfe des legendären mandalorianischen Kopfgeldjägers Din Djarin und seines jungen Lehrlings Grogu gesichert.",
+    "it": "L’Impero è caduto e gli imperiali signori della guerra sono ancora sparsi per la galassia. Mentre la nascente Nuova Repubblica cerca di proteggere tutto ciò per cui l’Alleanza Ribelle ha combattuto, ha arruolato il leggendario cacciatore di taglie mandaloriano Din Djarin e del suo giovane apprendista Grogu.",
+    "es": "El Imperio ha caído y los señores de la guerra imperiales siguen dispersos por toda la galaxia. Mientras la incipiente Nueva República trabaja para proteger todo por lo que luchó la Rebelión, ha reclutado la ayuda del legendario cazarrecompensas mandaloriano Din Djarin y su joven aprendiz Grogu.",
+    "sv": "Det onda Imperiet har fallit, men kejserliga krigsherrar är fortfarande utspridda över galaxen. Den nyfödda Nya Republiken arbetar för att skydda allt Rebellalliansen kämpade för och har tagit hjälp av den legendariska mandaloriska prisjägaren Din Djarin och hans lärling Grogu."
+   },
+   "tagline": {
+    "fr": "Telle est la voie.",
+    "en": "If you're searching for new adventure, \"this is the way.\"",
+    "de": "Die Alten beschützen die Jungen, dann beschützen die Jungen die Alten.",
+    "it": "Se sei in cerca di una nuova avventura, \"Questa è la via\"",
+    "es": "Si buscas una nueva aventura, \"este es el camino\".",
+    "sv": "Om du söker nya äventyr – detta är vägen."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 2005,
+   "runtime": 132
   }
  ]
 }

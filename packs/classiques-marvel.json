@@ -1,6 +1,6 @@
 {
  "id": "classiques-marvel",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Classiques & Marvel",
   "en": "Classics & Marvel",
@@ -39,7 +39,58 @@
     "it": "/isMgyJ7ykKFOYHwXEwAF300dhnC.png",
     "es": "/b9rfPHx7qURf8uUo0CvQeTpJ8vJ.png",
     "sv": "/ltxmSb5nZl4GDN0YcbhXtG7lio8.png"
-   }
+   },
+   "overview": {
+    "fr": "Après 57 ans de dérive dans l’espace, Ellen Ripley est secourue par la corporation Weyland‐Yutani. Malgré son rapport concernant l’incident survenu sur le Nostromo, elle n’est pas prise au sérieux par les militaires quant à la présence de xénomorphes sur la planète LV‐426 où se posa son équipage… planète où plusieurs familles de colons ont été envoyées en mission de « terraformage ». Après la disparition de ces derniers, Ripley décide d’accompagner une escouade de marines dans leur mission de sauvetage… et d’affronter à nouveau la Bête.",
+    "en": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+    "de": "Nach der ersten Begegnung Ripleys mit dem Alien sind 57 Jahre vergangen. Ziellos treibt sie sich immer noch im Kälteschlaf befindlich durchs All. Zufällig wird sie entdeckt und wieder zurück zur Erde gebracht. Ihren Berichten über die Ereignisse mit dem Alien wird zunächst wenig Glauben geschenkt, doch als der Kontakt zu dem mittlerweile bevölkerten, aus dem ersten Teil bekannten Planeten abbricht, wird Ripley gebeten zusammen mit einem Trupp Space-Marines nach dem Rechten zu sehen. Sie kommen zu spät - die komplette Kolonie wurde von den Aliens überrannt und das Einsatzteam muss es mit der Übermacht aufnehmen...",
+    "it": "Ellen Ripley, l'unica sopravvissuta all'incontro mortale della Nostromo con il mostruoso alieno, torna sulla Terra dopo aver vagato nello spazio in ipersonno per 57 anni. Sebbene la sua storia venga inizialmente accolta con scetticismo, accetta di accompagnare una squadra di Marines coloniali a LV-426.",
+    "es": "Alien es un organismo perfecto, una máquina de matar cuya superioridad física sólo puede competir con su agresividad. La oficial Ripley y la tripulación de la nave «Nostromo» se habían enfrentado, en el pasado, a esa monstruosa criatura. Y sólo Ripley sobrevivió a la masacre. Después de vagar por el espacio durante varios años, Ripley fue rescatada. Durante ese tiempo, el planeta de Alien ha sido colonizado. Pero, de repente, se pierde la comunicación con la colonia y, para investigar los motivos, se envía una expedición de marines espaciales, capitaneados por Ripley. Allí les esperan miles de espeluznantes criaturas. Alien se ha reproducido y esta vez la lucha es por la supervivencia de la Humanidad.",
+    "sv": "Tillbaka på jorden möts Ripleys berättelse om Alien och besättningens grymma öde möts av skepsis. Men då kolonister på planeten LV-426 försvinner under mystiska omständigheter, utses hon till ledare för en grupp experter som skickas ut för att undersöka saken. Där börjar mardrömmen på nytt."
+   },
+   "tagline": {
+    "fr": "Cette fois c'est la guerre.",
+    "en": "This time it's war.",
+    "de": "Es gibt Orte im Universum, wo man nicht allein hingeht.",
+    "it": "Questa volta è guerra!",
+    "es": "Esta vez es la guerra.",
+    "sv": "Den här gången är det krig."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 11395,
+   "runtime": 138
   },
   {
    "id": 24428,
@@ -59,7 +110,57 @@
     "fr": "/57dQq6y92XciIy4zXqi6uUo1nZf.png",
     "en": "/2VLCNzMOGayRGdiSGyaOD0MzA3Y.png",
     "es": "/41K6Pj56MITowyjsUyENSCtAIJY.png"
-   }
+   },
+   "overview": {
+    "fr": "Lorsque la sécurité et l’équilibre de la planète sont menacés par un ennemi d’un genre nouveau, Nick Fury, le directeur du SHIELD, l’agence internationale du maintien de la paix, réunit une équipe pour empêcher le monde de basculer dans le chaos. Partout sur Terre, le recrutement des nouveaux héros dont le monde a besoin commence…",
+    "en": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "de": "Nick Fury ist der Anführer der Organisation S.H.I.E.L.D., einer internationalen Friedensorganisation. Die Behörde ist ein Who's Who der Marvel Superhelden, mit Iron Man, Thor, Captain America, Hawkeye, dem Unglaublichen Hulk und Black Widow. Als die weltweite Sicherheit von Thors sinistrem Halbbruder Loki und seiner Schar bedroht wird, werden Nick Fury und sein Team all ihre Kräfte brauchen, um die Welt vor einer Katastrophe zu bewahren ...",
+    "it": "I supereroi più famosi si riuniscono in una squadra di personaggi Marvel leggendari come Iron Man, l'incredibile Hulk, Thor, Captain America, Occhio di Falco e Vedova Nera. Quando la comparsa di un nemico inatteso minaccia la tranquillità e la sicurezza del mondo, Nick Fury, direttore dell'agenzia internazionale per il mantenimento della pace conosciuta come S.H.I.E.L.D., si trova ad aver bisogno di una squadra che salvi il pianeta dall'orlo del disastro. Inizia così, da un capo all'altro della terra, un audace lavoro di reclutamento. Dopo aver riunito la squadra, Nick Fury e il suo fidato assistente, l'Agente Coulson, dovranno convincere i supereroi a convivere e lavorare insieme, utilizzando i loro incredibili poteri contro il pericoloso Loki che è riuscito ad accedere al Tesseract e ai suoi poteri illimitati.",
+    "es": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+    "sv": "En brokig skara individer med superkrafter samlas ihop av den hemliga organisationen S.H.I.E.L.D. för att skydda planeten mot invaderande styrkor från yttre rymden. Tillsammans bildar de motvilliga superhjältarna gruppen The Avengers."
+   },
+   "tagline": {
+    "fr": "L'union fait la force.",
+    "en": "Some assembly required.",
+    "de": "Ein Zusammenschluss ist erforderlich.",
+    "it": "L'unione fa la forza.",
+    "es": "Los héroes más poderosos de la tierra juntos."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Action",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Action",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Action",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Azione",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Acción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Action",
+     "Äventyr"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 40401,
+   "runtime": 143
   },
   {
    "id": 299534,
@@ -79,7 +180,58 @@
     "fr": "/g9ceyt6lxZwHgzdhgqrzy3WmZBB.png",
     "en": "/gvGe333uy5FynrYAtGuQwlzzxku.png",
     "es": "/buRixJDsTvxTHuY6xXK8p9wZoYU.png"
-   }
+   },
+   "overview": {
+    "fr": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvérisé « la moitié de toute forme de vie dans l'Univers », Captain America, Thor, Bruce Banner, Natasha Romanoff, War Machine, Tony Stark, Nébula et Rocket, vont essayer de trouver une solution pour ramener leurs coéquipiers disparus et vaincre Thanos en se faisant aider par Ronin alias Clint Barton, Captain Marvel et Ant-Man.",
+    "en": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "de": "Thanos hat also tatsächlich Wort gehalten, seinen Plan in die Tat umgesetzt und die Hälfte allen Lebens im Universum ausgelöscht. Die Avengers? Machtlos. Iron Man und Nebula sitzen auf dem Planeten Titan fest, während auf der Erde absolutes Chaos herrscht. Doch dann finden Captain America und die anderen überlebenden Helden auf der Erde heraus, dass Nick Fury vor den verheerenden Ereignissen gerade noch ein Notsignal absetzen konnte, um Verstärkung auf den Plan zu rufen. Die Superhelden-Gemeinschaft bekommt mit Captain Marvel kurzerhand tatkräftige Unterstützung im Kampf gegen ihren vermeintlich übermächtigen Widersacher. Und dann ist da auch noch Ant-Man, der wie aus dem Nichts auftaucht und sich der Truppe erneut anschließt, um die ganze Sache womöglich doch noch zu einem guten Ende zu bringen …",
+    "it": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo è stata dimezzata e tra i caduti c'è stato anche Nick Fury. Ma prima di morire questi è riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos però non si può risolvere con la semplice superforza e i colpi di energia...",
+    "es": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+    "sv": "En resa som började för tio år sedan har lett till denna final. Medan The Avengers återhämtar sig efter en stor förlust så försöker dom komma på en plan om hur dom ska kunna besegra Thanos en gång för alla och kanske kunna återställa allt till rätta…"
+   },
+   "tagline": {
+    "fr": "Rien ne peut vous préparer pour la fin.",
+    "en": "Avenge the fallen.",
+    "de": "Die Zeit für das letzte Spiel ist gekommen und es müssen Opfer gebracht werden...",
+    "it": "Una parte del viaggio è la fine.",
+    "es": "Nada puede prepararte para el final.",
+    "sv": "Hämna de fallna."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction",
+     "Action"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 29412,
+   "runtime": 181
   },
   {
    "id": 299536,
@@ -99,7 +251,58 @@
     "fr": "/uEYht3G0rTUR4jIXo4ojbkdLk7K.png",
     "en": "/iiFFPJduveJnb6D2TYKL4AFJIFn.png",
     "es": "/6SH4ANv9KvArYxdJ2TDvSJCvGhG.png"
-   }
+   },
+   "overview": {
+    "fr": "Les Avengers et leurs alliés devront être prêts à tout sacrifier pour neutraliser le redoutable Thanos avant que son attaque éclair ne conduise à la destruction complète de l’univers.",
+    "en": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+    "de": "Der mächtige Titan Thanos  hat es sich zur Aufgabe gemacht das halbe Universum auszulöschen. Um diesen perfiden Plan Realität werden zu lassen, benötigt er allerdings zuerst alle sechs Infinity-Steine, die ihm in Verbindung mit einem speziell gefertigten Handschuh, gottgleiche Kräfte verleihen. Da sich unglücklicherweise auch auf der Erde zwei dieser Steine befinden, betraut er seine treu ergebene Black Order mit deren Beschaffung. Sowohl die Avengers, als auch die Guardians of the Galaxy und Thor erfahren jedoch von Thanos' Plänen und stellen sich dem Schurken entgegen. Doch mit einen derart mächtigen Gegner hatte es bisher keiner von ihnen zu tun...",
+    "it": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. È questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
+    "es": "El todopoderoso Thanos ha despertado con la promesa de arrasar con todo a su paso, portando el Guantelete del Infinito, que le confiere un poder incalculable. Los únicos capaces de pararle los pies son los Vengadores y el resto de superhéroes de la galaxia, que deberán estar dispuestos a sacrificarlo todo por un bien mayor. Capitán América e Ironman deberán limar sus diferencias, Black Panther apoyará con sus tropas desde Wakanda, Thor y los Guardianes de la Galaxia e incluso Spider-Man se unirán antes de que los planes de devastación y ruina pongan fin al universo. ¿Serán capaces de frenar el avance del titán del caos?",
+    "sv": "The Avengers och deras allierade superhjältar riskerar allt i ett försök att besegra den mäktige Thanos innan hans förödande attacker har förstört hela universum. Den största konfrontationen genom tiderna väntar."
+   },
+   "tagline": {
+    "fr": "Où serez-vous, quand tout sera fini ?",
+    "en": "An entire universe. Once and for all.",
+    "de": "Die Superhelden müssen bereit sein, alles zu opfern...",
+    "it": "Un intero universo. Una volta per tutte.",
+    "es": "Un universo entero. De una vez por todas.",
+    "sv": "Ett helt universum. En gång för alla."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 33429,
+   "runtime": 149
   },
   {
    "id": 99861,
@@ -119,7 +322,57 @@
     "fr": "/pVy1M8S8dXKkEQKWofvj4pyBokL.png",
     "en": "/20LDr1XcZV7e9vIDZadm8iRsDcx.png",
     "es": "/of8hrpd4rumHl8J2GWO2LmWeS3T.png"
-   }
+   },
+   "overview": {
+    "fr": "Alors que Tony Stark tente de relancer un programme de maintien de la paix jusque-là suspendu, les choses tournent mal et les super-héros Iron Man, Captain America, Thor, Hulk, Black Widow et Hawkeye vont devoir à nouveau unir leurs forces pour combattre le plus puissant de leurs adversaires : le terrible Ultron, un être technologique terrifiant qui s’est juré d’éradiquer l’espèce humaine. Afin d’empêcher celui-ci d’accomplir ses sombres desseins, des alliances inattendues se scellent, les entraînant dans une incroyable aventure et une haletante course contre le temps…",
+    "en": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+    "de": "Milliardär, Lebemann und Genie Tony Stark aka Iron Man will ein inaktives Friedensprogramm in Gang bringen, doch dabei geht etwas schief. So taucht der niederträchtige Roboter-Bösewicht Ultron auf und verfolgt Pläne zur Ausrottung der Menschheit. Nun ist es an den Helden, sich wieder zu sammeln und das schreckliche Schicksal der Welt abzuwenden. Zusammen mit Iron Man treten Thor, Captain America, Hulk, Black Widow und Hawkeye dem fiesen Ultron entgegen und bekommen dabei Unterstützung von den ehemaligen S.H.I.E.L.D.-Agenten Nick Fury und Maria Hill. Außerdem kreuzen die geheimnisvollen und mit besonderen Fähigkeiten ausgestatteten Newcomer Wanda und Pietro Maximoff den Weg der Helden, wie auch ein alter Bekannter in neuer Gestalt: Vision. Die Rächer müssen ihre Kräfte vereinen, unsichere Allianzen schmieden und auf unerwartete Aktionen reagieren, um die Bewohner der Erde einmal mehr vor dem drohenden Untergang zu bewahren.",
+    "it": "Quando Tony Stark riprende un programma di mantenimento della pace in disuso, qualcosa va storto e la squadra degli eroi più potenti della Terra composta da Iron Man, Captain America, Thor, l’Incredibile Hulk, Vedova Nera e Occhio di Falco, sarà messa a dura prova per salvare il mondo da un destino inesorabile. Toccherà agli Avengers far fronte al malvagio Ultron e impedirgli di portare a compimento i suoi terribili piani. Nuove e scomode alleanze ed eventi imprevisti daranno vita a una straordinaria ed epica avventura",
+    "es": "Cuando Tony Stark intenta reactivar un programa caído en desuso cuyo objetivo es mantener la paz, las cosas empiezan a torcerse y los héroes más poderosos de la Tierra, incluyendo a Iron Man, Capitán América, Thor, El Increíble Hulk, Viuda Negra y Ojo de Halcón, tendrán que afrontar la prueba definitiva cuando el destino del planeta se ponga en juego. Cuando el villano Ultron emerge, le corresponderá a Los Vengadores detener sus terribles planes, que junto a incómodas alianzas llevarán a una inesperada acción que allanará el camino para una épica y única aventura.",
+    "sv": "När Tony Stark försöker starta ett fredsbevarande program går det snett. Jordens framtid är hotad och Iron Man, Captain America, Thor, Hulk, Black Widow samt Hawkeye sätts alla nu på prov. När den onde Ultron träder fram är det upp till medlemmarna i Avengers att stoppa honom från att sätta sina planer till verket, vilket leder till ett episkt, unikt och världsomspännande äventyr."
+   },
+   "tagline": {
+    "fr": "Une nouvelle ère est venue.",
+    "en": "A new age has come.",
+    "de": "Ein neues Zeitalter beginnt",
+    "it": "Una nuova era è giunta.",
+    "es": "Una nueva era comienza."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 25369,
+   "runtime": 141
   },
   {
    "id": 284054,
@@ -139,7 +392,58 @@
     "fr": "/uR8Rm64Lva6iqg6vAfZfEbaA6Vs.png",
     "en": "/2T3WO0ZgiICLRfirgA0L1fVEhwx.png",
     "es": "/ziiBAvzCgF19C6lYZV6mfNzI6B9.png"
-   }
+   },
+   "overview": {
+    "fr": "Après les événements qui se sont déroulés dans « Captain America : Civil War », T’Challa revient chez lui prendre sa place sur le trône du Wakanda, une nation africaine technologiquement très avancée. Mais lorsqu’un vieil ennemi resurgit, le courage de T’Challa est mis à rude épreuve, aussi bien en tant que souverain qu’en tant que Black Panther. Il se retrouve entraîné dans un conflit qui menace non seulement le destin du Wakanda, mais celui du monde entier…",
+    "en": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+    "de": "Aufgrund von Bodenschätzen außerirdischen Ursprungs ist das afrikanische Königreich Wakanda unermesslich reich. Nur hier kommt das Vibrationen jeder Art und Stärke absorbierende Mineral Vibranium vor. Den Bewohnern von Wakanda ist sehr daran gelegen, vor den Augen Fremder verborgen zu bleiben.  Reichtum weckt Begehrlichkeiten, und es braucht einen starken Führer, ihn zu verteidigen: Den Black Panther! Die Verantwortung des Black Panther wird vom König Wakandas an den jeweiligen Nachfolger weitergegeben. Und so nimmt T’Challa die Bürde und die Würde des ihm vorbestimmten Schicksals von seinem Vater T’Chaka nach dessen tragischen Tod entgegen.",
+    "it": "Il Wakanda, nazione dell'Africa centro-Orientale, si nasconde agli occhi del mondo. In apparenza Paese povero di risorse e speranze, nei fatti il più tecnologicamente avanzato del mondo, grazie alla presenza del vibranio, minerale alieno dalle inimmaginabili potenzialità. Quando T'challa sale sul trono, divenendo così la nuova Pantera Nera che protegge il proprio popolo, intende preservare la tradizione, ma un ritorno inatteso a Wakanda lo obbligherà a rivedere i propri piani.  Dopo il discusso caso di Wonder Woman a casa DC, è la volta di Black Panther, trasposizione su grande schermo delle avventure del più famoso e iconico supereroe di pelle nera.",
+    "es": "Después de los acontecimientos de \"Capitán América: Civil War\", T'Challa vuelve a casa, la nación aislada y muy avanzada tecnológicamente de Wakanda, para ser proclamado Rey. Pero la reaparición de un viejo enemigo pone a prueba el temple de T'Challa como Rey y Black Panther ya que se ve arrastrado a un conflicto que pone en peligro todo el destino de Wakanda y del mundo.",
+    "sv": "Efter händelserna i \"Captain America: Civil War\" återvänder T’Challa till sitt hemland, det isolerade, högteknologiska afrikanska landet Wakanda, för att bli dess kung. Men när en gammal fiende dyker upp måste T’Challa, både som kung och Black Panther visa sin styrka. Han dras in i en konflikt som hotar inte bara Wakandas öde, utan hela världen."
+   },
+   "tagline": {
+    "fr": "Longue vie au roi.",
+    "en": "Long live the king.",
+    "de": "Lang lebe der König",
+    "it": "Lunga vita al re.",
+    "es": "Larga vida al rey.",
+    "sv": "Länge leve kungen."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 24262,
+   "runtime": 134
   },
   {
    "id": 271110,
@@ -160,7 +464,57 @@
     "en": "/w1ZLhVffmmKDGoB8Oi0MdlQTw6m.png",
     "de": "/oftt8VTBGATYu4CftwxUyLdo5J8.png",
     "es": "/1R8GF0PmmIVQyTQu7Czn03VHoUw.png"
-   }
+   },
+   "overview": {
+    "fr": "Steve Rogers est désormais à la tête des Avengers, dont la mission est de protéger l’humanité. À la suite d’une de leurs interventions qui a causé d’importants dégâts collatéraux, le gouvernement décide de mettre en place un organisme de commandement et de supervision. Cette nouvelle donne provoque une scission au sein de l’équipe : Steve Rogers reste attaché à sa liberté de s’engager sans ingérence gouvernementale, tandis que d’autres se rangent derrière Tony Stark, qui contre toute attente, décide de se soumettre au gouvernement…",
+    "en": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "de": "Als bei einem Einsatz der Avengers in Lagos zwar der Diebstahl eines biologischen Kampfstoffes verhindert wird, dabei aber mehrere Zivilisten sterben, beschließen die Vereinten Nationen ein neues Gesetz, das die Avengers unter ihre Aufsicht bringen soll. Während Tony Stark alias Iron Man für eine Kontrolle der Superhelden votiert, stimmt Steve Rogers alias Captain America für ihre Unabhängigkeit. Auch die Teammitglieder sind uneinig und verteilen sich auf die beiden Wortführer. Als ein Bombenattentat auf jene UN-Versammlung verübt wird und man als vermeintlichen Schuldigen Steves alten Freund Bucky Barnes, nun als Winter Soldier bekannt, ausmacht, verschärft sich die Lage. Nachdem Steve Anweisungen missachtet und versucht Bucky auf eigene Faust zu stellen, damit dieser bei seiner Verhaftung nicht getötet wird, kommt es zu immer offeneren Animositäten zwischen den Superhelden ...",
+    "it": "Steve Rogers e gli Avengers sono costretti ad affrontare i danni collaterali causati dalla loro lotta per proteggere il mondo. Dopo che la città di Laos, in Nigeria, viene colpita dall'ennesimo incidente internazionale che vede coinvolti gli Avengers, le pressioni politiche chiedono a gran voce un sistema di responsabilità e un consiglio d’amministrazione che decida quando richiedere l’intervento del team. Questa nuova dinamica divide gli Avengers che, al tempo stesso, tentano di proteggere il mondo da un nuovo e malvagio avversario.",
+    "es": "Steve Rogers lidera un nuevo equipo de Vengadores en su esfuerzo por proteger a la humanidad. Tras otro incidente internacional relacionado con los Vengadores que ocasiona daños colaterales, la presión política fuerza a crear un sistema de registro y un cuerpo gubernamental para determinar cuándo se requiere los servicios del equipo. El nuevo status quo divide a los Vengadores mientras intentan salvar al mundo de un nuevo y perverso villano.",
+    "sv": "Steve Rogers leder det nya teamet med Avengers i deras fortsatta arbete för att skydda mänskligheten. Men när Avengers är inblandade i en stor internationell händelse, som resulterar i att oskyldiga drabbas av stora skador, ökar kravet på att ett nytt system ska installeras. Ett system som innebär att en styrelse ska avgöra när man bör anlita Avengers tjänster. Detta beslut splittrar Avengers samtidigt som teamet försöker försvara världen mot en ny och ondskefull kraft."
+   },
+   "tagline": {
+    "fr": "La division entraîne la chute",
+    "en": "United we stand. Divided we fall.",
+    "de": "Entzweit gehen wir zugrunde.",
+    "it": "Tu da che parte stai?",
+    "es": "Unidos resistimos. Divididos caemos."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 24877,
+   "runtime": 148
   },
   {
    "id": 1771,
@@ -181,7 +535,57 @@
     "en": "/1GPeoEcMOUvkgwRXY76s9zE57I9.png",
     "it": "/j9L6O6jQcPUWKulGGfu3AxpwB7V.png",
     "es": "/bPz8Dv3aUlgQH6CJz9rVH063Mfm.png"
-   }
+   },
+   "overview": {
+    "fr": "1941, la Seconde Guerre Mondiale fait rage. Après avoir tenté vainement de s'engager dans l'armée pour se battre aux côtés des Alliés, Steve Rogers, frêle et timide, se porte volontaire pour participer à un programme expérimental qui va le transformer en un Super Soldat connu sous le nom de Captain America. Sous le commandement du colonel Chester Phillips, il s'apprête à affronter HYDRA, l'organisation scientifique secrète des nazis dirigée par le redoutable Crâne Rouge, aux côtés de Bucky Barnes et Peggy Carter...",
+    "en": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+    "de": "1942 – die USA ziehen in den Kampf gegen Hitler-Deutschland. Steve Rogers wird auf Grund seines Gesundheitszustands als ungeeignet eingestuft. Mit Hilfe des Project: Rebirth soll er trotzdem in den Kampf gegen Nazis ziehen. Der kränkliche Steve wird in eine Art Super-Soldaten namens Captain America transformiert. Hilfe bekommt der neue Superheld dabei von seinem Freund Bucky Barnes. Gemeinsam kämpfen sie gegen Red Skul, Hitlers Geheimwaffe im Krieg gegen den Rest der Welt.",
+    "it": "Il giovane Steve Rogers farebbe di tutto per arruolarsi: scioccato da ciò che i nazisti stanno facendo in Europa, non sopporta di starsene con le mani in mano. La sua costituzione fragile, l'asma, l'altezza tutt'altro che idonea, però, fanno sì che venga rispedito al mittente ad ogni tentativo. Finché un giorno, un uomo di stato, il dottor Abraham Erskine, s'interessa a lui e gli propone di sottoporsi alla sperimentazione di un siero che ne farà il primo super soldato dell'esercito a stelle e strisce. Rogers, dunque, subisce una straordinaria trasformazione, ma sarà solo dopo un passaggio per le fila dello show-business (e cioè solo dopo aver indossato una calzamaglia) a divenire davvero Captain America.",
+    "es": "Nacido durante la Gran Depresión, Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el general Chester Phillips le ofrece la oportunidad de tomar parte en un experimento especial: la Operación Renacimiento. Tras meses de preparación y entrenamiento recibe su primera misión como Capitán América. Armado con un escudo indestructible y su inteligencia para la batalla, el Capitán América emprende la guerra contra el mal, como centinela de la libertad y como líder de los Vengadores.",
+    "sv": "Efter att ha blivit bedömd som olämplig för militärtjänst, anmäler sig Steve Rogers till ett topphemligt forskningsprojekt som förvandlar honom till supersoldaten Captain America. Därmed inleder han kampen mot den onda organisationen Hydra."
+   },
+   "tagline": {
+    "fr": "Certains naissent héros, d'autres le deviennent.",
+    "en": "The one who never gives up awakens.",
+    "de": "Wenn aus Patrioten Helden werden...",
+    "it": "Alcuni nascono eroi, altri lo diventano.",
+    "es": "Cuando los patriotas se convierten en héroes."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 23536,
+   "runtime": 124
   },
   {
    "id": 100402,
@@ -202,7 +606,57 @@
     "en": "/7taEKhcDUfQyUV5F0vPAnzs0bYm.png",
     "de": "/uaU1s1ejbrwnuUlxzpbVvVrtXWz.png",
     "es": "/j3qfatOtBaETO8nme8dLvefD2mx.png"
-   }
+   },
+   "overview": {
+    "fr": "Après les événements cataclysmiques de New York de The Avengers, Steve Rogers aka Captain America vit tranquillement à Washington, D.C. et essaye de s'adapter au monde moderne. Mais quand un collègue du S.H.I.E.L.D. est attaqué, Steve se retrouve impliqué dans un réseau d'intrigues qui met le monde en danger. S'associant à Black Widow, Captain America lutte pour dénoncer une conspiration grandissante, tout en repoussant des tueurs professionnels envoyés pour le faire taire. Quand l'étendue du plan maléfique est révélée, Captain America et Black Widow sollicitent l'aide d'un nouvel allié, le Faucon. Cependant, ils se retrouvent bientôt face à un inattendu et redoutable ennemi - le Soldat de l'Hiver.",
+    "en": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
+    "de": "Nach den Geschehnissen mit den Avengers in New York zieht sich Steve Rogers nach Washington zurück. Dort hat er nach wie vor Probleme, sich an das moderne Leben zu gewöhnen. Doch er wird wieder in den Einsatz berufen, als ein S.H.I.E.L.D.-Agent Ziel eines Angriffs wird. Dies ist nur der Beginn eines größeren Plans, der die ganze Welt in Gefahr bringen könnte. Steve kehrt als Captain America zurück und versucht mit Hilfe von Agentin Romanoff, auch bekannt als Black Widow, die Verschwörung aufzuklären. Die Beiden erhalten zusätzliche Unterstützung vom Falken. Die Mission birgt einige Gefahren und die beiden werden oftmals Ziel von Attentaten. Doch die größte Gefahr ist der Gegner selbst: der Winter Soldier.",
+    "it": "Ambientatosi nei nostri giorni Steve Rogers continua a servire gli Stati Uniti attraverso lo S.H.I.E.L.D., nonostante non sia contento della poca trasparenza e delle scarse informazioni che riceve su quel che fa. Quando anche Nick Fury comincia a scoprire che ci sono dati ed elementi che sono preclusi anche a lui è evidente che tutta la struttura serve un doppio fine. Se non bastassero le intuizioni arrivano diversi attacchi (a Fury in primis) a scoprire le carte e mostrare chi sia la talpa dentro l'organizzazione. Fuggito assieme a Vedova Nera e un reduce che forse può dare una mano, Capitan America comincia a scoprire che forse Hydra non è morto del tutto con la seconda guerra mondiale.",
+    "es": "Capitán América, Viuda Negra y un nuevo aliado, Falcon, se enfrentan a un enemigo inesperado mientras intentan sacar a la luz una conspiración que pone en riesgo al mundo.",
+    "sv": "Steve Rogers, alias Captain America, lever ett lugnt liv i staden Washington och försöker anpassa sig till den moderna världen. När yrkesmördare försöker döda honom får han hjälp av Black Widow och så småningom Falcon. De inser att de står mot en ny fiende som kallas Winter Soldier."
+   },
+   "tagline": {
+    "fr": "Nous avons confiance en nos héros.",
+    "en": "In heroes we trust.",
+    "de": "Wir glauben an unseren Helden",
+    "it": "Noi crediamo nei nostri eroi",
+    "es": "El precio de la libertad es alto."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 20752,
+   "runtime": 136
   },
   {
    "id": 284052,
@@ -223,7 +677,57 @@
     "en": "/oGTJ88hszp8GuTpppGmYceJB7RP.png",
     "it": "/n2OUPKHh3mU4f9ENiaRiZMPwA7Z.png",
     "es": "/5wS1ffWgEdA2NcbjZypunACUPDG.png"
-   }
+   },
+   "overview": {
+    "fr": "Le neurochirurgien Stephen Strange, en quête de guérison, trouve des pouvoirs magiques dans un endroit mystérieux, connu sous le nom de Kamar-Taj, la ligne de front d'un combat contre des forces obscures invisibles, essayant de détruire notre réalité.",
+    "en": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+    "de": "Doctor Stephen Strange ist ein arroganter, aber auch unglaublich talentierter Neurochirurg. Nach einem schweren Autounfall kann er seiner Tätigkeit trotz mehrerer Operationen und Therapien nicht mehr nachgehen. In seiner Verzweiflung wendet er sich schließlich von der Schulmedizin ab und reist nach Tibet, wo er bei der Einsiedlerin The Ancient One und ihrer Glaubensgemeinschaft lernt, sein verletztes Ego hinten anzustellen und in die Geheimnisse einer verborgenen mystischen Welt voller alternativer Dimensionen eingeführt wird. So entwickelt sich Doctor Strange nach und nach zu einem der mächtigsten Magier der Welt. Doch schon bald muss er seine neu gewonnenen mystischen Kräfte nutzen, um die Welt vor einer Bedrohung aus einer anderen Dimension zu beschützen.",
+    "it": "Stephen Strange è un neurochirurgo dal talento straordinario e dall'ego smisurato. Incapace di accontentarsi di salvare delle singole vite, ambisce a qualcosa che vada oltre e che rivoluzioni la medicina conosciuta. Dopo un grave incidente d'auto perde l'uso delle terminazioni nervose delle mani e quindi la possibilità di intraprendere il proprio lavoro. Strange non accetta la sua nuova condizione e si spinge fino in Nepal in cerca di una cura misteriosa. A Katmandu scoprirà dei segreti che vanno ben oltre quelli spiegabili con la sola scienza.",
+    "es": "La vida del famoso neurocirujano Stephen Strange cambia radicalmente cuando un accidente le impide el uso de sus manos y se ve forzado a buscar una cura en un misterioso enclave. Inmediatamente aprende que no solo es un sanatorio... es también el frente de batalla contra oscuras fuerzas, y debe elegir entre volver a su antigua vida o defender al mundo como el más poderoso hechicero del momento. Algunas secuencias o formas con luces parpadeantes pueden afectar a los espectadores fotosensibles.",
+    "sv": "Stephen Strange är en framgångsrik men arrogant neurokirurg som efter en bilolycka har förlorat kontrollen över sina händer. Utan medicinsk möjlighet att återställa dem beger han sig till Katmandu, Nepal för att söka upp Den forne, en mystisk magiker som inte bara kan lära honom att läka sina händer, utan också övernaturliga krafter som kan användas till att beskydda världen mot ondska."
+   },
+   "tagline": {
+    "fr": "Ouvrez votre esprit, changez de dimension.",
+    "en": "The impossibilities are endless.",
+    "de": "Öffne deinen Geist. Ändere deine Realität.",
+    "it": "Non c'è limite all'impossibile",
+    "es": "Las imposibilidades son infinitas."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Fantasy",
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Fantasy",
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Fantasy",
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Fantasía",
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Fantasy",
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 24223,
+   "runtime": 115
   },
   {
    "id": 601,
@@ -245,7 +749,57 @@
     "de": "/jZ7JwXj3YMNG6YELeAiKHOUBQYN.png",
     "it": "/oeeYwbJat46xeWhisVDUxtkbMoD.png",
     "es": "/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
-   }
+   },
+   "overview": {
+    "fr": "Une soucoupe volante atterrit en pleine nuit près de Los Angeles. Quelques extraterrestres, envoyés sur Terre en mission d’exploration botanique, sortent de l’engin, mais un des leurs s’aventure au-delà de la clairière où se trouve la navette. Celui-ci se dirige alors vers la ville. C’est sa première découverte de la civilisation humaine. Bientôt traquée par des militaires et abandonnée par les siens, cette petite créature apeurée se nommant E.T. se réfugie dans une résidence de banlieue. Elliot, un garçon de dix ans, le découvre et lui construit un abri dans son armoire. Rapprochés par un échange télépathique, les deux êtres ne tardent pas à devenir amis. Aidé par sa sœur Gertie et son frère aîné Michael, Elliot va alors tenter de garder la présence d'E.T. secrète.",
+    "en": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+    "de": "Der junge Elliott traut seinen Augen kaum, als er in einem Schuppen einen kleinen Ausserirdischen findet. Der schrumpelige Kobold musste bei einem Erkundungsflug von seinen Kollegen auf der Erde zurückgelassen werden, weil sie in Gefahr gerieten, von Menschen entdeckt zu werden. Elliot versucht, seinen neuen Freund vor den Wissenschaftlern der Regierung zu verstecken, denn der will seine weit entfernten Verwandten anfunken. Doch E.T. wird vor Heimweh immer schwächer.",
+    "it": "Durante un sopralluogo sulla Terra per raccogliere vegetali, un gruppo di alieni viene sorpreso e uno di loro viene lasciato erroneamente al suolo per l'affrettato decollo. L'alieno, solo e smarrito, viene trovato ed ospitato da Elliott, con la complicità della sorellina Gertie e il fratello maggiore Michael. Tra i due si instaura un profondo rapporto di amicizia che li lega anche a livello emotivo. Desideroso di tornare a casa, l'alieno costruisce un rudimentale dispositivo di comunicazione per chiedere aiuto ai suoi. Gradualmente, la salute di ET peggiora, e la situazione è aggravata dall'irruzione nell'universo dei ragazzi da parte del mondo degli adulti, che vuole impossessarsi dell'alieno.",
+    "es": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+    "sv": "En vilsen liten utomjording som är tre miljoner ljusår hemifrån. En ensam tioårig pojke som vill ta med honom hem. Två liv som förändras i ett tidlöst äventyr av vänskap utan världsliga hinder."
+   },
+   "tagline": {
+    "fr": "Il a peur. Il est seul. Il est à 3 millions d’années lumière de chez lui.",
+    "en": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+    "de": "Er hat Angst. Er ist allein. Er ist 3.000.000 Lichtjahre von Zuhause entfernt.",
+    "it": "Ha paura. È completamente solo. Si trova a 3 milioni di anni luce lontano da casa.",
+    "es": "Tiene miedo. Está solo. A tres millones de años luz de su casa."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction",
+     "Familj"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 12436,
+   "runtime": 114
   },
   {
    "id": 927,
@@ -266,7 +820,57 @@
     "en": "/pC4yMTDailjuGZO6JOqG5Ot0G63.png",
     "de": "/x2tcB2nKX71qQZhL8Weychu6dlj.png",
     "es": "/fbFJ5SVajGly1kCLdSjOUCM1wAA.png"
-   }
+   },
+   "overview": {
+    "fr": "Rand Peltzer offre à son fils Billy un étrange animal : un mogwai. Son ancien propriétaire l'a bien mis en garde : il ne faut pas l'exposer à la lumière , lui éviter tout contact avec l'eau , et surtout, surtout, ne jamais le nourrir après minuit… Sinon…",
+    "en": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+    "de": "Warnung: halte sie von Wasser fern – halte sie von Licht fern – aber das Wichtigste überhaupt: egal, wie sehr sie betteln: in keinem Fall dürfen sie nach Mitternacht gefüttert werden – niemals! Drei mysteriöse Warnungen, bevor Billy Pelzer sein neues kuscheliges Haustier in die Arme schließen kann. Doch er hätte besser auf die Warnungen gehört, denn aus dem possierlichen Weihnachtsgeschenk wird ein Albtraum für eine ganze Stadt. Ein kleines, drolliges Tier vermehrt sich in Sekundenschnelle und es entstehen grauenvolle und doch hochintelligente Monster.",
+    "it": "Un inventore trova uno strano animaletto in un negozio di cianfrusaglie e decide che sarebbe un perfetto regalo di Natale per il figlio. Viene avvisato della necessità di seguire delle piccole regole: mai bagnarlo e mai dargli da mangiare dopo mezzanotte. Il figlio trasgredisce le regole inavvertitamente, dando vita ad un numero elevatissimo di piccoli mostri che mettono a soqquadro tutta la città.",
+    "es": "Rand es un viajante que un día regala a su hijo Billy una tierna y extraña criatura, un mogwai. El inocente regalo, sin embargo, será el origen de toda una ola de gamberradas y fechorías en un pequeño pueblo de Estados Unidos. Todo empieza cuando son infringidas, una tras otra, las tres reglas básicas que deben seguirse para cuidar a un mogwai: no darle de comer después de medianoche, no mojarlo y evitar que le dé la luz del Sol.",
+    "sv": "Låt den aldrig bli blöt. Håll den borta från starkt ljus. Och hur mycket den än gråter, hur mycket den än ber… ge den aldrig mat efter midnatt, med dessa instruktioner så får Billy Peltzer ett nytt kramigt djur i sin ägo. Billy kommer att få mycket mer än han räknade med."
+   },
+   "tagline": {
+    "fr": "Mignons. Malins. Méchants. Intelligents. Dangereux.",
+    "en": "Cute. Clever. Mischievous. Intelligent. Dangerous.",
+    "de": "Niedlich. Schlau. Boshaft. Intelligent. Gefährlich.",
+    "it": "Carini, astuti, curiosi, intelligenti, pericolosi.",
+    "es": "Graciosos. Listos. Malvados. Inteligentes. Peligrosos."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Horreur",
+     "Comédie"
+    ],
+    "en": [
+     "Fantasy",
+     "Horror",
+     "Comedy"
+    ],
+    "de": [
+     "Fantasy",
+     "Horror",
+     "Komödie"
+    ],
+    "it": [
+     "Fantasy",
+     "Horror",
+     "Commedia"
+    ],
+    "es": [
+     "Fantasía",
+     "Terror",
+     "Comedia"
+    ],
+    "sv": [
+     "Fantasy",
+     "Skräck",
+     "Komedi"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 7279,
+   "runtime": 107
   },
   {
    "id": 879,
@@ -287,7 +891,63 @@
     "en": "/hDOd76RiUwHuGe5GDTrYImhDYg6.png",
     "it": "/8DzHy40KFoVW8drml9yZdo2doS6.png",
     "es": "/vDVwX9GknQM1aXKQLZzbiyLTJiZ.png"
-   }
+   },
+   "overview": {
+    "fr": "Le temps a passé et Peter Pan a vieilli et oublié le Pays imaginaire. Il a épousé Moira, la petite-fille de Wendy, avec qui il a eu deux enfants, et est devenu Peter Banning, un avocat d'affaires obsédé par son travail. Mais le capitaine Crochet, qu'il croyait mort, fait enlever ses enfants...",
+    "en": "The boy who wasn't supposed to grow up—Peter Pan—does just that, becoming a soulless corporate lawyer whose workaholism could cost him his wife and kids. During his trip to see Granny Wendy in London, the vengeful Capt. Hook kidnaps Peter's kids and forces Peter to return to Neverland.",
+    "de": "Peter Pan hat Nimmerland den Rücken gekehrt. Schon vor Jahren ist der Junge, der niemals erwachsen werden wollte, in die „normale“ Welt zurückgekehrt. Peter Banning ist mittlerweile ein seriöser und leicht reizbarer Anwalt. An seine Kindheit als verwegener Held kann er sich kein bisschen mehr erinnern. Sein alter Erzfeind Captain Hook jedoch hat nichts vergessen. Noch immer sinnt er auf Rache, seit er im Kampf gegen Peter eine Hand an ein gefräßiges Krokodil verloren hat. Hook entführt die beiden Kinder von Peter in die verborgene Welt. Fee Glöckchen gelingt es, Peter zurück nach Nimmerland zu führen. Zunächst ist er völlig überfordert mit der Situation. Doch mit Hilfe der „verlorenen Jungs“ gewinnt er schließlich seine kindliche Fantasie zurück. Gemeinsam stellen sie sich dem entscheidenden Kampf gegen den schurkischen Piratenkapitän.",
+    "it": "Peter Pan è cresciuto è sposato con la nipote di Wendy e ha dimenticato tutto del suo passato. Ma quando Capitan Uncino rapisce i suoi bambini e li porta sull'Isola che non c'è, Peter non ha altra scelta che seguirli e, grazie all'aiuto di Campanellino, cercare di riconquistare la propria memoria e i propri figli.",
+    "es": "Peter Pan es un prestigioso abogado y tiene una encantadora familia, pero ha perdido el contacto con algo maravilloso: su infancia. Sin embargo, cuando sus hijos son secuestrados por su antiguo enemigo, el Capitán Garfio, y llevados al País de Nunca Jamás, también él tendrá que viajar a ese reino encantado, donde, con la ayuda de Campanilla, podrá recuperar no sólo a sus hijos, sino también al niño que un día fue.",
+    "sv": "Den framgångsrike och skrupellöse advokaten Peter Banning har glömt något viktigt på vägen genom karriären: att han en gång var Peter Pan och kunde konsten att flyga. När hans gamle fiende kapten Krok för bort hans barn måste han återigen ta upp striden med den gamle piraten..."
+   },
+   "tagline": {
+    "fr": "Et si Peter Pan avait grandi ?",
+    "en": "To live would be an awfully big adventure.",
+    "de": "Was wäre, wenn Peter Pan erwachsen würde?",
+    "it": "E se Peter Pan fosse cresciuto?",
+    "es": "¿Y si Peter Pan creció?"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 5967,
+   "runtime": 136
   },
   {
    "id": 602,
@@ -307,7 +967,57 @@
     "fr": "/ndeJ8VDjt24pT1rkp5k9e11EZiZ.png",
     "en": "/mwoCHwBuWrEd9RLPrktHV33esnT.png",
     "es": "/6sJFDKxnsaKfSHgXuP1Uk9qvlRO.png"
-   }
+   },
+   "overview": {
+    "fr": "Une immense soucoupe volante envahit le ciel terrestre, libérant un nombre infini de plus petites soucoupes qui prennent position au-dessus des plus grandes villes du monde. Un informaticien new-yorkais décrypte les signaux émanant des étranges voyageurs. Ils ne sont pas du tout amicaux et ces extraterrestres se préparent à attaquer la Terre.",
+    "en": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+    "de": "Eine gewaltige außerirdische Armee bedroht die Existenz der Erde. Die Invasion beginnt mit dem Auftauchen gigantischer Raumschiffe, die sich über den wichtigsten Zentren der Welt positionieren. Die bedrohliche Faszination schlägt schnell in unvorstellbare Panik um, als die Raumschiffe angreifen und bedingungslos zerstören. Nun liegt das Schicksal der Menschheit in den Händen der wenigen Überlebenden, die sich für den alles entscheidenden Kampf gegen die Invasoren bereit machen…",
+    "it": "Mancano pochi giorni al Giorno dell'Indipendenza, quando il cielo su Washington è oscurato da una gigantesca astronave extraterrestre. Il governo degli Stati Uniti e l'opinione pubblica si interrogano sulle intenzioni dei visitatori dividendosi tra un fronte ostile ed un'ala pacifista. Contemporaneamente, nell'etere viene captato un misterioso segnale: è, come scopre David Levison, un conto alla rovescia che annuncia un'aggressione senza precedenti contro la Terra.",
+    "es": "En víspera del 4 de julio, unas gigantescas naves espaciales aparecen en el cielo. El estupor inicial se convierte en terror al ver cómo éstas atacan al planeta lanzando rayos destructivos en las mayores ciudades de todo el mundo. Ahora la única esperanza para la salvación de la tierra está en la voluntad de algunos supervivientes, que se unen planeando el último ataque masivo contra los alienígenas, antes de que sea demasiado tarde para la humanidad.",
+    "sv": "Enorma rymdskepp uppenbarar sig i luften. Skeppen sänder ner massförstörande laserstrålar över alla världens stora städer. Nu är det upp till en liten skara av beslutsamma överlevare att förena en sista attack mot inkräktarna – för att rädda mänskligheten."
+   },
+   "tagline": {
+    "fr": "Nous ne sommes plus seuls dans l'Univers...",
+    "en": "The question of whether or not we are alone in the universe has been answered.",
+    "de": "Jetzt wissen wir, dass wir nicht allein sind.",
+    "it": "La domanda se siamo soli o no nell'universo ha avuto una risposta.",
+    "es": "La tierra tiene un buen aspecto, podría ser la última vez."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.9,
+   "votes": 10921,
+   "runtime": 145
   },
   {
    "id": 89,
@@ -330,7 +1040,52 @@
     "it": "/rJr0XT6QGZphozXqCLmryfGq8R6.png",
     "es": "/zSlO3CnCdLq7vZUmRDrk9WRk9Z.png",
     "sv": "/lvQZxs5Srj8UXMKTT4vziJrQMHs.png"
-   }
+   },
+   "overview": {
+    "fr": "Indiana Jones se lance cette fois‐ci à la recherche du Saint Graal, accompagné de l'éminent et très maladroit Dr Henry Jones, son père. Malheureusement, ils ne sont pas les seuls lancés sur la trace du trésor, les nazis le convoitent également.",
+    "en": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+    "de": "Wir schreiben das Jahr 1938: Doktor Jones wird vom Mäzen eines Museums beauftragt, den Heiligen Gral und somit die wichtigste Reliquie der Christenheit zu finden. Jones' Einwand, es würde der falsche Jones gefragt werden, denn der eigentliche Experte sei sein Vater Henry, fördert nur die Erkenntnis zu Tage, dass Jones senior bereits die Spur aufgenommen hatte, mittlerweile aber verschwunden ist. Nun ist des Doktors Jagdinstinkt geweckt. Besorgt um das Wohlergehen des Vaters und mit dem Museumskurator Marcus Brody im Gepäck tritt Jones eine Reise in die alte Welt an, um das zustande zu bringen, was die mittelalterlichen Kreuzzüge nicht geschafft hatten: den Kelch zu finden, der beim letzten Abendmahl gereicht worden war und das Blut Jesu am Kreuz aufgefangen hatte. Erwartungsgemäß ist aber nicht nur der Doktor auf der Suche - auch die Schergen Hitlers wollen sich die Sagen umwobenen Kräfte des Kelches sichern, verheißt er doch das ewige Leben…",
+    "it": "Nel 1938, Indiana Jones, celebre archeologo, apprende che suo padre, Henry, anch'egli archeologo, è stato rapito perchè prossimo, con i suoi studi, ad individuare il luogo dove è custodito il Santo Graal, il calice in cui, secondo la leggenda, Gesù Cristo bevve nell'Ultima Cena.",
+    "es": "En 1938, dos años después de encontrar el Arca de la Alianza, Indiana Jones es convencido por un millonario para que lo ayude a encontrar el Santo Grial antes de que caiga en manos del ejército nazi. Sin embargo, el verdadero motivo para involucrarse es encontrar a su padre, el doctor Henry Jones, con quien ha mantenido una fría relación desde su juventud y que ha desaparecido mientras seguía la pista del tesoro bíblico.",
+    "sv": "Indys nazistfiender har återvänt och kidnappat hans far, professor Henry Jones för att han ska hjälpa dem i sökandet efter den heliga graalen. Indy följer spåren från USA till Venedig och vidare till öknarna i det heliga landet för att rädda honom och graalen."
+   },
+   "tagline": {
+    "fr": "Il est de retour. Et, cette fois‐ci, avec son père.",
+    "en": "Have the adventure of your life keeping up with the Joneses.",
+    "de": "Der Mann mit dem Hut ist zurück. Und dieses Mal bringt er seinen Vater mit.",
+    "it": "Questa volta si porta papà.",
+    "es": "El hombre del sombrero está de vuelta, y esta vez con su padre.",
+    "sv": "Mannen med hatten är tillbaka. Denna gång har han med sig sin far."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 11550,
+   "runtime": 127
   },
   {
    "id": 87,
@@ -353,7 +1108,52 @@
     "it": "/fm6WMKkZK4zTIxRj3cm2ncc6voN.png",
     "es": "/rUqugZkR5R55Z0mVcb3uu3IOYbY.png",
     "sv": "/oRH9NxOqh7In3tEcVooDyNVs0pp.png"
-   }
+   },
+   "overview": {
+    "fr": "L'archéologue Indiana Jones est obligé de fuir un cabaret de Shanghai après une négociation houleuse. En compagnie de la chanteuse Willie Scott et du petit Demi-Lune, il se retrouve sur un glacier himalayen, dans un village dont une secte a dérobé le diamant magique et enlevé les enfants afin de les sacrifier.",
+    "en": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+    "de": "Indiana Jones kehrt zurück! Nachdem er bei der Erringung eines Diamanten in einem Nachtclub in Shanghai beinahe vergiftet, erdolcht und erschossen wurde, flieht er mit einer halbhysterischen Clubsängerin und seinem jungen asiatischen Freund Short Round mit einem Flugzeug. Doch über Indien wird auch hier ein Mordversuch gegen sie ausgeführt und alle drei müssen abspringen. Sie gelangen in ein Dorf, aus dem heilige Steine und sämtliche Kinder entführt wurden. Die Spur führt zu einem Fürstenpalast im Dschungel, wo sie einem machtgierigen Jungfürsten auf die Spur kommen, der die Kinder in den Minen arbeiten läßt. Doch hinter ihm steht ein noch machtvollerer Sektenführer...",
+    "it": "Nel 1935 l'archeologo Indiana Jones recupera per un potente di Shangai un prezioso cimelio. Ma le cose non vanno per il meglio e Indiana è costretto a fuggire su di un piccolo aereo insieme ad una cantante di cabaret e ad un ragazzino cinese che gli fa da guida. Abbandonato dai piloti, l'aereo precipita sulle montagne tibetane ai confini con l'India.",
+    "es": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
+    "sv": "Indy undkommer med nöd och näppe ett våldsamt slagsmål på en nattklubb i Shanghai, bara för att kraschlanda i Indiens regnskog där ondskans makter härjar. Barnen från en avlägsen by har kidnappats och används som slavar i en ointaglig gruva, och Indy måste rädda dem utan att själv möta samma fruktansvärda öde hos den onda Kali-sekten. Tillsammans med sin följeslagare Short Round och den motsträviga nattklubbssångerskan Willie Scott överlistar Indy de blodtörstiga skurkarna, och det går undan i svängarna när de jagas i en gruvvagn i den halsbrytande berg- och dalbanescenen."
+   },
+   "tagline": {
+    "fr": "Depuis « Les Aventuriers de l’arche perdue », l’aventure a un nom : Indiana Jones.",
+    "en": "If adventure has a name... it must be Indiana Jones.",
+    "de": "Das Abenteuer hat viele Gesichter. Indiana Jones zeigt sie alle.",
+    "it": "Se l'avventura ha un nome, deve essere Indiana Jones.",
+    "es": "Si la aventura tiene un nombre, ese nombre es Indiana Jones",
+    "sv": "Äventyret fortsätter"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 10538,
+   "runtime": 118
   },
   {
    "id": 1726,
@@ -374,7 +1174,58 @@
     "en": "/f1EpI3C6wd1iv7dCxNi3vU5DAX7.png",
     "de": "/jN5riS6FwndKvaRLxlYgbELxIw0.png",
     "it": "/c2Fmag8objUUTPIbd60WWRm9HRp.png"
-   }
+   },
+   "overview": {
+    "fr": "Tony Stark, inventeur de génie, vendeur d'armes et playboy milliardaire, est kidnappé. Forcé par ses ravisseurs de fabriquer une arme redoutable, il construit en secret une armure high-tech révolutionnaire qu'il utilise pour s'échapper. Comprenant la puissance de cette armure, il décide de l'améliorer et de l'utiliser pour faire régner la justice et protéger les innocents.",
+    "en": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "de": "Der Großindustrielle und Erfinder Tony Stark weiß zu leben: Als Milliardär liegen ihm die Frauen zu Füßen, er feiert Partys im Privatjet und verspielt Riesensummen im Casino, während seine Rüstungsfirma unter Obadiah Stane Rekordumsätze erzielt. Bei einem Waffentestlauf in Afghanistan wird er jedoch Opfer eines Bombenanschlags. Stark überlebt schwer verletzt und wird von einer Gruppe Aufständischer unter Führung des Warlords Raza dazu gezwungen, eine Superwaffe zu entwickeln. Es gelingt ihm jedoch, heimlich eine eiserne Schutzrüstung zu bauen, die ihn dank neuster Technologie zu Superkräften befähigt. Nach einer spektakulären Flucht zurück in die USA muss sich der Iron Man allerdings einem ersten übermächtigen Gegner stellen.",
+    "it": "Dopo aver subito un grave incidente, il ricco e tormentato scienziato Tony Stark inventa una speciale tuta di ferro che gli garantisce la sopravvivenza e gli conferisce straordinari poteri. L'uomo decide ben presto di utilizzare l'armatura per combattere il male e proteggere il prossimo.",
+    "es": "El multimillonario fabricante de armas Tony Stark debe enfrentarse a su turbio pasado después de sufrir un accidente con una de sus armas. Equipado con una armadura de última generación tecnológica, se convierte en 'El hombre de hierro' para combatir el mal a escala global.",
+    "sv": "När den rike och supersmarta industrimannen Tony Stark tas till fånga av fienden konstruerar han en högteknologisk skyddsdräkt för att kunna fly. Nu är hans uppdrag att rädda världen som den unika hjälte han är skapad – inte född till – att vara."
+   },
+   "tagline": {
+    "fr": "Ce n'est pas l'armure qui fait le héros, mais l'homme qui est à l'intérieur.",
+    "en": "Heroes aren't born. They're built.",
+    "de": "Superhelden werden nicht geboren, sie werden gemacht!",
+    "it": "Gli eroi non nascono, vengono costruiti.",
+    "es": "Los heroes no nacen, se construyen.",
+    "sv": "Hjältar föds inte, de byggs."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 29209,
+   "runtime": 126
   },
   {
    "id": 329,
@@ -394,7 +1245,51 @@
     "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
     "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
     "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
-   }
+   },
+   "overview": {
+    "fr": "Généticien de génie, le professeur John Hammond a recréé de nombreuses espèces de dinosaures à partir d'une goutte de sang prélevée sur un moustique fossilisé. Démiurge naïf et généreux, dépassé par ses propres ambitions, il projette d’ouvrir un gigantesque et terrifiant parc d'attractions. Mais la pureté de son rêve se heurte à la cupidité des hommes et, plus grave, à la violence latente, indomptable de la Nature.",
+    "en": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "de": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
+    "it": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano liberi dando la caccia agli umani...",
+    "es": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+    "sv": "En rik entreprenör skapar i hemlighet en nöjespark med levande dinosaurier från förhistoriskt DNA. Före öppningsdagen bjuder han ner ett team av experter och sina två ivriga barnbarn för att uppleva parken och bidra till att lugna oroliga investerare. Men det visar sig att parken är allt annat än roande."
+   },
+   "tagline": {
+    "fr": "Il a fallu 65 millions d'années pour que cette aventure devienne possible.",
+    "en": "An adventure 65 million years in the making.",
+    "de": "Ein Abenteuer, das 65 Millionen Jahre lang geplant war.",
+    "it": "Un'avventura iniziata 65 milioni di anni fa.",
+    "es": "Una aventura de 65 millones de años."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 18632,
+   "runtime": 127
   },
   {
    "id": 11,
@@ -416,7 +1311,57 @@
     "de": "/fODbPT1ALJcOSFfcAyJehCkrlwQ.png",
     "it": "/n9PCMQtJzcHTwjmVjFRWOj6TBQK.png",
     "es": "/dLgwXopLDtvZ3pn7GbMbSsckKuc.png"
-   }
+   },
+   "overview": {
+    "fr": "Il y a bien longtemps, dans une galaxie très lointaine... La guerre civile fait rage entre l'Empire galactique et l'Alliance rebelle. Capturée par les troupes de choc de l'Empereur menées par le sombre et impitoyable Dark Vador, la princesse Leia Organa dissimule les plans de l’Étoile Noire, une station spatiale invulnérable, à son droïde R2-D2 avec pour mission de les remettre au Jedi Obi-Wan Kenobi. Accompagné de son fidèle compagnon, le droïde de protocole C-3PO, R2-D2 s'échoue sur la planète Tatooine et termine sa quête chez le jeune Luke Skywalker. Rêvant de devenir pilote mais confiné aux travaux de la ferme, ce dernier se lance à la recherche de ce mystérieux Obi-Wan Kenobi, devenu ermite au cœur des montagnes désertiques de Tatooine...",
+    "en": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "de": "Seit der Vernichtung der Jedi-Ritter steht die Galaxie unter der grausamen Herrschaft des Imperiums. Nur eine kleine Gruppe von Rebellen, angeführt von der schönen Prinzessin Leia, widersetzt sich der dunklen Macht. Als es ihnen gelingt, die geheimen Baupläne für den gefährlichen Todesstern zu entwenden, gerät das Imperium in Aufruhr. Durch Zufall gelangen die Pläne ausgerechnet in die Hände des Farmerjungen Luke Skywalker, der spürt, dass er sein bisheriges Leben hinter sich lassen muss. Gemeinsam mit dem weisen Obi-Wan Kenobi, den Weltraumabenteurern Han Solo und Chewbacca sowie den Droiden R2-D2 und C-3PO nimmt er den Kampf gegen das mächtige Imperium auf. Es beginnt ein Wettlauf gegen die Zeit, denn der Kampfstern kann nur vor seiner Fertigstellung zerstört werden...",
+    "it": "In un lontano Impero Galattico è in atto una rivolta contro i suoi dispotici capi, tra i quali il più cattivo è Lord Darth Vader. Prima di cadere nelle sue mani, la principessa Leila Organa, rappresentante dei ribelli, riesce ad affidare a due robot i piani della \"Morte Nera\" - la potentissima base spaziale di Darth Vader, capace di disintegrare un intero pianeta - e un appello al vecchio generale Obi-Wan Kenobi, che abita sul pianeta Tatooine, perché accorra in aiuto dei rivoltosi. Il messaggio viene raccolto dal giovane Luke Skywalker che, rintracciato Obi Wan Kenobi, parte con lui in soccorso della principessa a bordo di un'astronave guidata dal mercenario Han Solo e dal suo secondo Chewbacca.",
+    "es": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+    "sv": "För länge sedan i en galax långt, långt borta... Prinsessan Leia tas till fånga av det ondskefulla Rymdimperiet. I ett försök att befria den sköna prinsessan slår sig den unge Luke Skywalker ihop med Han Solo. Tillsammans med de båda robotarna R2-D2 och C-3PO inleder de kampen för att befria Galaxen."
+   },
+   "tagline": {
+    "fr": "“Que la force soit avec toi.”",
+    "en": "A long time ago in a galaxy far, far away...",
+    "de": "Es war einmal in ferner Zukunft…",
+    "it": "Tanto tempo fa, in una galassia lontana lontana...",
+    "es": "Hace mucho tiempo, en una galaxia muy lejana..."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 23186,
+   "runtime": 121
   },
   {
    "id": 330,
@@ -438,7 +1383,57 @@
     "de": "/7cEZvIZkYAZdQJzza5BKamQkCZy.png",
     "it": "/knelNX3dFI5dLh1IbLkck1gC27a.png",
     "es": "/5QMKyZYsiph25a1iJybP7ANgsGX.png"
-   }
+   },
+   "overview": {
+    "fr": "Quatre ans après le terrible fiasco de son Jurassic Park, le milliardaire John Hammond rappelle le Dr Ian Malcolm pour l'informer de son nouveau projet. Sur une île déserte, voisine du parc, vivent en liberté des centaines de dinosaures de toutes tailles et de toutes espèces. Ce sont des descendants des animaux clonés en laboratoire. D'abord réticent, Ian se décide à rejoindre le docteur quand il apprend que sa fiancée fait partie de l'expédition scientifique. Il ignore qu'une autre expédition qui n'a pas les mêmes buts est également en route.",
+    "en": "Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.",
+    "de": "Vier Jahre nach dem Desaster im Jurassic Park: Auf einer nahegelegenen Insel haben die Dinosaurier unbemerkt überlebt und können sich frei bewegen. Doch jetzt droht eine noch viel größere Gefahr - der Plan, die Dinosaurier einzufangen und auf das Festland zu bringen. John Hammond, der die Kontrolle über seine Gesellschaft \"InGen\" verloren hat, sieht die Chance, seine Fehler aus der Vergangenheit wiedergutzumachen und sendet eine Expedition, geleitet von Ian Malcolm, zur Insel, bevor der beauftragte Jagd-Trupp dort ankommt. Die zwei Gruppen stehen sich in extremer Gefahr gegenüber und müssen sich in einem Wettlauf gegen die Zeit zusammenschließen, um zu überleben...",
+    "it": "John Hammond rivela a Ian Malcom l'esistenza, in Costa Rica, di un'isola, chiamata \"sito B\", in cui i dinosauri creati in laboratorio sono stati allevati in totale libertà. Il vecchio miliardario ha perso il controllo della sua società, gestita adesso dal nipote Peter, affarista incompetente e privo di scrupoli. Chiede perciò a Malcom di unirsi a un corpo di spedizione scientifico sull'isola, per documentare la vita dei dinosauri e fare in modo che l'avidità del nipote non provochi un'ulteriore strage. Ma sull'isola, insieme agli scienziati, arriva anche un gruppo di cacciatori guidati da Peter...",
+    "es": "Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada zona B: el lugar que servía como laboratorio genético. Después de que John Hammond llevara a la empresa a la bancarrota, su sobrino Peter ha tomado las riendas y está dispuesto a levantar la compañía explotando la peligrosa zona.",
+    "sv": "Fyra år efter katastrofen reser forskare till ön där dinosaurierna blev uppfödda innan de skeppades till Jurassic Park. Efter katastrofen blev de lämnade alldeles ensamma och forskarna vill nu se vad som hänt när de fick utvecklas naturligt utan inblandning från människan. Det är ingen syn de ville få se."
+   },
+   "tagline": {
+    "fr": "Quelque chose a survécu.",
+    "en": "Something has survived.",
+    "de": "Etwas hat überlebt",
+    "it": "Qualcosa è sopravvissuto.",
+    "es": "Algo ha sobrevivido."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 9623,
+   "runtime": 130
   },
   {
    "id": 1892,
@@ -460,7 +1455,57 @@
     "de": "/p401Gv0Voko2VsHk7XxZEIwPTEN.png",
     "it": "/1s613zRcu9ANXVKaUSn83AZpMyB.png",
     "es": "/bOB6lRH8Y0j1Z1g3bDqbGHKBobS.png"
-   }
+   },
+   "overview": {
+    "fr": "L'Empire galactique est plus puissant que jamais : la construction de la nouvelle arme, l’Étoile de la Mort, menace l'univers tout entier... Arrêté après la trahison de Lando Calrissian, Han Solo est remis à l'ignoble contrebandier Jabba Le Hutt par le chasseur de primes Boba Fett. Après l'échec d'une première tentative d'évasion menée par la princesse Leia, également arrêtée par Jabba, Luke Skywalker et Lando parviennent à libérer leurs amis. Han, Leia, Chewbacca, C-3PO et Luke, devenu un Jedi, s'envolent dès lors pour une mission d'extrême importance sur la lune forestière d'Endor, afin de détruire le générateur du bouclier de l’Étoile de la Mort et permettre une attaque des pilotes de l'Alliance rebelle. Conscient d'être un danger pour ses compagnons, Luke préfère se rendre aux mains de Dark Vador, son père et ancien Jedi passé du côté obscur de la Force.",
+    "en": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+    "de": "Wesen aus allen Ecken der Galaxis treffen die Vorbereitungen für die entscheidende Schlacht gegen die Streitkräfte des Imperiums. Ziel der Aktion ist die totale Zerstörung des zweiten Todessterns, dessen unvorstellbare Feuerkraft ganze Planeten vernichten kann. Inzwischen ist Han Solo immer noch in der Wüstenfestung des mächtigsten und skrupellosesten Verbechers des Universums, Jabba the Hutt, gefangen. Luke Skywalker gelingt es schließlich zusammen mit seinen Gefährten Prinzessin Leia, Chewbacca und Lando Calrissian, sowie den beiden Robotern C3PO und R2D2 mit Han zu fliehen. Aber Luke steht die schwerste Prüfung noch bevor: Während auf dem Waldmond Endor und beim Todesstern die alles entscheidende Schlacht entbrennt, muß er sich seinem Erzfeind Darth Vader zu einem Zweikampf auf Leben und Tod stellen...",
+    "it": "Mentre gli Imperiali sono impegnati nella costruzione di una nuova e indistruttibile Morte Nera, Luke Skywalker diventato finalmente un cavaliere jedi, la principessa Leila, Chewbacca e i due droidi D3BO (C-3PO nome originale) e C1P8 (R2-D2 nome originale) cercano di liberare Ian Solo (Han Solo nome originale), che è prigioniero del criminale intergalattico Jabba.Per poi affronta il crudele alfiere del male Lord Vader (Darth Vader nome originale), scoprendo che gli è padre e che la principessa Leia è sua sorella, ma l'insurrezione non ha successo e Luke viene catturato dell'imperatore, che cerca di portare il giovane dalla sua parte. Terzo (o meglio sesto) e ultimo episodio della saga ideata da George Lucas.",
+    "es": "Luke Skywalker y la princesa Leia deben viajar a Tatooine para liberar a Han Solo. Para conseguirlo, deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el gángster más temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para convertir a Luke al lado oscuro, pero el joven Skywalker, por su parte, está decidido a reavivar el espíritu del Jedi en su padre. La guerra civil galáctica culmina en un último enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidirá el destino de la galaxia.",
+    "sv": "I tredje delen av berättelsen om Stjärnornas krig samlas galaxens goda krafter för att slå tillbaka mot Rymdimperiet. Han Solo och prinsessan Leia sitter i fångenskap hos Jabba The Hutt. Luke måste slutföra sin träning för att kunna bli en riktig jedi-riddare, sedan väntar Lukes öde."
+   },
+   "tagline": {
+    "fr": "Retour dans une galaxie… loin, très loin.",
+    "en": "Return to a galaxy far far away.",
+    "de": "Rückkehr zu einer weit, weit entfernten Galaxis.",
+    "it": "La caduta dell'Impero.",
+    "es": "El Imperio cae..."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 17571,
+   "runtime": 132
   },
   {
    "id": 8587,
@@ -483,7 +1528,58 @@
     "it": "/7vbtq1yG9Or9J4x2Ls7ejlrszb6.png",
     "es": "/oIjNoucWBbtwk4TcJfsP0kffur0.png",
     "sv": "/476j8du5ibBZGeHJzXFZjsc3nCo.png"
-   }
+   },
+   "overview": {
+    "fr": "Disney présente l'histoire de Simba, un fougueux lionceau qui « voudrait déjà être roi ». Éloigné par son sombre et ambitieux oncle Scar, Simba profite de la vie avec ses drôles de compagnons Timon et Pumbaa, oubliant son rang et ses responsabilités. Mais son destin l'appelle à rentrer auprès des siens et à reprendre sa place dans le Grand Cercle de la Vie.",
+    "en": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "de": "Unter der Obhut seines Vaters Mufasa wächst der Löwenjunge Simba unbeschwert heran und soll eines Tages dessen Platz als König einnehmen. Aber bis dahin ist es ein langer Weg, der Simbas ganzen Mut erfordert. Stets begleitet von seinen witzigen Freunden Timon und Pumbaa und deren urgemütlicher Lebensphilosophie „Hakuna Matata“, muss Simba sich seiner größten Herausforderung stellen: dem Kampf mit dem hinterhältigen Scar um die Herrschaft über das „geweihte Land“ …",
+    "it": "Convinto di essere responsabile della morte del padre re Mufasa, il piccolo leoncino Simba si allontana dalla sua terra. Accolto e allevato dal suricato Timon e dal facocero Pumbaa, Simba cresce cercando di dimenticare il passato. È ritrovato da Nala, sua vecchia compagna di giochi, e Rafiki, babbuino sciamano, che lo convincono a tornare per scacciare l'usurpatore Scar.",
+    "es": "La sabana africana es el escenario en el que tienen lugar las aventuras de Simba, un pequeño león que es el heredero del trono. Sin embargo, se ve forzado a exiliarse al ser injustamente acusado de la muerte de su padre. Durante su destierro, hará buenas amistades y, finalmente, regresará para recuperar lo que legítimamente le corresponde.",
+    "sv": "Simba är Lejonskungens son och tanken är att han en dag själv ska bli kung. Men vägen dit är lång. Först måste han växa upp och lära sig att ta ansvaret som följer med kungatiteln. Sedan måste han klara alla faror som lurar på en blivande kung. Scar, Simbas farbror, smider nämligen planer tillsammans med hyenorna på att ta över hela lejonriket."
+   },
+   "tagline": {
+    "fr": "C’est l’histoire de la vie…",
+    "en": "The greatest adventure of all is finding our place in the Circle of Life.",
+    "de": "Hakuna Matata",
+    "it": "L'avventura più grande è trovare il tuo posto nel cerchio della vita.",
+    "es": "El ciclo de la vida.",
+    "sv": "Det största äventyret av alla är att hitta vår plats i en värld full av liv."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Drame"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Drama"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Drama"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Dramma"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Drama"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Drama"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 20427,
+   "runtime": 89
   },
   {
    "id": 85,
@@ -506,7 +1602,51 @@
     "it": "/jIwN17u4X89hE7yYqa5yKYdwR1l.png",
     "es": "/ql6eKGJhaovo0QnJLnwtebddSGq.png",
     "sv": "/gbx2Dy5pSuFtSAccTHYh50p52L6.png"
-   }
+   },
+   "overview": {
+    "fr": "L'Arche d'Alliance contenant les tables de la Loi brisées par Moïse, voici 3.000 ans, est l'objet de la convoitise des nazis. L'archéologue aventurier Indiana Jones se lance à sa recherche, poursuivi par son ennemi Belloq.",
+    "en": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+    "de": "Der Archäologe Dr. Henry Jones wird von Regierungsagenten auf die Bundeslade angesetzt, das Behältnis, in dem Moses Gesetzestafeln aufbewahrt wurden. Laut Geheiminformationen suchen auch die Nazis nach der Lade, da sie den Besitzer unbesiegbar machen soll. Jones, genannt Indiana Jones, reist daraufhin nach Nepal, wo er einen alten Kollegen aufspüren will, jedoch nur dessen Tochter findet, die sich ihm anschließt. Ein altes Schmuckstück führt sie nach Ägypten, wo die Nazis mit Belloqs Hilfe bereits Ausgrabungen vornehmen. So kommt es zum Wettlauf um die Auffindung der Quelle der Seelen…",
+    "it": "Dopo essere stato derubato di un prezioso idolo, Indiana Jones ritorna all'università da insegnante. Qui i servizi segreti gli offriranno il compito di trovare l'arca dell'alleanza e cercare così di non farla cadere nelle mani dei tedeschi. Giunto nel Nepal, incontrerà Marion, una sua vecchia conoscenza, con la quale giungerà dall'amico Sallah, trovando ospitalità e svolgendo da lì la definitiva ricerca dell'arca.",
+    "es": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+    "sv": "Den handlingskraftige arkeologen ger sig tillsammans med sin självständiga och något svårhanterliga ex-flickvän Marion Ravenwood iväg för att finna den sägenomspunna heliga arken före nazisterna. Den halsbrytande kapplöpningen går genom Sydamerikas djungler, Kairos myllrande gator och en topphemlig ubåtsbas, och Indy tvingas utstå gift, fällor, ormar och förrädare för att nå målet. Arkens krafter släpps slutligen lösa, och Indy kämpar för att ligga steget före nazisterna."
+   },
+   "tagline": {
+    "fr": "Indiana Jones - le nouveau héros des créateurs des DENTS DE LA MER et de la GUERRE DES ETOILES.",
+    "en": "The return of the great adventure.",
+    "de": "Die Rückkehr des großen Abenteuerfilms",
+    "it": "Il ritorno della grande avventura.",
+    "es": "El retorno de la gran aventura."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 14237,
+   "runtime": 115
   },
   {
    "id": 118340,
@@ -527,7 +1667,58 @@
     "en": "/tikZxXefORICSFaRxEJ01YEfOu1.png",
     "it": "/n72mdjuHlK41YpjvkKdKq1EHvJQ.png",
     "es": "/yNdPfPqsFgPgPiU35NrRzuLFVM.png"
-   }
+   },
+   "overview": {
+    "fr": "Peter Quill est un aventurier traqué par tous les chasseurs de primes pour avoir volé un mystérieux globe convoité par le puissant Ronan, dont les agissements menacent l’univers tout entier. Lorsqu’il découvre le véritable pouvoir de ce globe et la menace qui pèse sur la galaxie, il conclut une alliance fragile avec quatre aliens disparates : Rocket, un raton laveur fin tireur, Groot, un humanoïde semblable à un arbre, l’énigmatique et mortelle Gamora, et Drax le Destructeur, qui ne rêve que de vengeance. En les ralliant à sa cause, il les convainc de livrer un ultime combat aussi désespéré soit‐il pour sauver ce qui peut encore l’être…",
+    "en": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+    "de": "Nachdem der Abenteurer Peter Quill eine geheimnisvolle Kugel gestohlen hat, wird er das Opfer einer unerbittlichen Kopfgeldjagd mit Ronan the Accuser. Die Ziele des mächtigen Bösewichts bedrohen die Sicherheit des Universums. Um dem hartnäckigen Ronan und seinen Schergen zu entgehen, ist Quill gezwungen, einen nicht gerade einfach einzuhaltenden Waffenstillstand mit einem Quartett von ungleichen Außenseitern einzugehen - dazu gehört der waffenliebende Waschbär Rocket, der Baummensch Groot, die tödliche und rätselhafte Gamora und der rachsüchtige Drax the Destroyer. Als Peter dann die wahre Macht der Kugel und dessen Bedrohung für den Kosmos bewusst wird, muss er sein Bestes geben, um die bunt zusammengewürfelten Rivalen für einen letzten, verzweifelten Widerstand zu vereinen und eine Helden-Truppe aus ihnen machen - denn das Schicksal der Galaxie steht auf dem Spiel.",
+    "it": "L'audace esploratore Peter Quill è inseguito dai cacciatori di taglie per aver rubato una misteriosa sfera ambita da Ronan, un essere malvagio la cui sfrenata ambizione minaccia l'intero universo. Per sfuggire all’ostinato Ronan, Quill è costretto a una scomoda alleanza con quattro improbabili personaggi: Rocket, un procione armato; Groot, un umanoide dalle sembianze di un albero; la letale ed enigmatica Gamora e il vendicativo Drax il Distruttore. Ma quando Quill scopre il vero potere della sfera e la minaccia che costituisce per il cosmo, farà di tutto per guidare questa squadra improvvisata in un'ultima, disperata battaglia per salvare il destino della galassia.",
+    "es": "El temerario aventurero Peter Quill es objeto de un implacable cazarrecompensas después de robar una misteriosa esfera codiciada por Ronan, un poderoso villano cuya ambición amenaza todo el universo. Para poder escapar del incansable Ronan, Quill se ve obligado a pactar una complicada tregua con un cuarteto de disparatados inadaptados: Rocket, un mapache armado con un rifle, Groot, un humanoide con forma de árbol, la letal y enigmática Gamora y el vengativo Drax the Destroyer. Pero cuando Quill descubre el verdadero poder de la esfera, deberá hacer todo lo posible para derrotar a sus extravagantes rivales en un intento desesperado de salvar el destino de la galaxia.",
+    "sv": "Efter att ha stulit ett mystisk klot långt ute i rymden har Peter Quill från jorden blivit måltavla för den mäktiga Ronan. På rymmen från lagen och Ronan samlar Quill på sig ett gäng av olikartade karaktärer för att hålla det värdefulla klotet borta från ondskefulla händer."
+   },
+   "tagline": {
+    "fr": "Tous les héros commencent quelque part.",
+    "en": "You're Welcome.",
+    "de": "Ist hier noch was zu retten?",
+    "it": "Tutti gli eroi iniziano da qualche parte.",
+    "es": "Cuando las cosas se pongan mal, darán lo peor.",
+    "sv": "När det blir dåligt gör de sitt värsta."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 30674,
+   "runtime": 121
   },
   {
    "id": 447365,
@@ -548,7 +1739,58 @@
     "en": "/A532V9h9obWT6dLsAZizJlawIaY.png",
     "it": "/cdFFWhWs8ZEMz25jHgSCd5ZcXDx.png",
     "es": "/Noi3XhX7UKaEPwyIJQKjlzG9Jc.png"
-   }
+   },
+   "overview": {
+    "fr": "Peter Quill, encore sous le choc d'une terrible perte, doit rallier son équipe et se lancer dans une mission risquée et palpitante pour défendre l'univers et protéger Rocket. Pendant ce temps, une nouvelle force imprévisible menace de faire tomber les Gardiens pour de bon.",
+    "en": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+    "de": "Peter Quill, der immer noch unter dem Verlust von Gamora leidet, muss sein Team um sich versammeln, um das Universum zu verteidigen und gleichzeitig einen der Seinen zu schützen. Eine Mission, die, wenn sie nicht erfolgreich abgeschlossen wird, möglicherweise zum Ende der Guardians, wie wir sie kennen, führen könnte.",
+    "it": "Peter Quill, ancora provato dalla perdita di Gamora, deve riunire la sua squadra per difendere l'universo e proteggere uno di loro. Una missione che, se non sarà portata a termine con successo, potrebbe portare alla fine dei Guardiani così come li conosciamo.",
+    "es": "La querida banda de los Guardianes se instala en Knowhere. Pero sus vidas no tardan en verse alteradas por los ecos del turbulento pasado de Rocket. Peter Quill, aún conmocionado por la pérdida de Gamora, debe reunir a su equipo en una peligrosa misión para salvar la vida de Rocket, una misión que, si no se completa con éxito, podría muy posiblemente conducir al final de los Guardianes tal y como los conocemos.",
+    "sv": "Peter Quill, som fortfarande sörjer efter en stor förlust, måste samla sitt team för att försvara universum och samtidigt skydda en av de egna. Ett uppdrag som, om det inte lyckas, kan innebära slutet för Guardians."
+   },
+   "tagline": {
+    "fr": "On la refait, moins crispés.",
+    "en": "Once more with feeling.",
+    "de": "Es ist Zeit, richtig aufzudrehen!",
+    "it": "Ancora una volta con sentimento.",
+    "es": "Van a darlo todo.",
+    "sv": "Ännu en gång med känsla."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 9127,
+   "runtime": 150
   },
   {
    "id": 9340,
@@ -571,7 +1813,57 @@
     "it": "/hCbYfrxmBHg2ScoYjCeqsNcx6j7.png",
     "es": "/xtpE3IYtl1gz5l8at7SvdVuPHDE.png",
     "sv": "/9Q7QFfZ7ppbdCaUfIzmCrl5sd6A.png"
-   }
+   },
+   "overview": {
+    "fr": "Lorsqu'un groupe de promoteurs décide de racheter le quartier des Goonies (les crétins) pour le démolir et construire un parcours de golf, ces derniers décident de se faire une dernière virée ensemble. Ils suivent une vieille carte au trésor qui les mène dans une série de cavernes souterraines construites au XVIIe siècle par un pirate légendaire nommé Willy-le-Borgne. Les Fratelli, famille de criminels recherchée par la police, sont aussi à la recherche du trésor.",
+    "en": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
+    "de": "Die Goonies, eine Kinderbande, finden auf dem Dachboden eine mysteriöse Schatzkarte eines berüchtigten Piraten. Um zu verhindern, dass die Häuser ihrer Eltern wegen eines Country Clubs abgerissen werden, beschließen sie auf die Suche nach dem Piratenschatz zu gehen – und damit beginnt ein Abenteuer, das ihre kühnsten Träume übertrifft: Nicht nur, dass Falltüren, hinabstürzende Felsen und andere haarsträubende Fallen ihren Weg durch das unterirdische Labyrinth Säumen, sie werden auch noch von einer gefährlichen Gangsterfamilie verfolgt, die es ebenfalls auf das Gold abgesehen hat.",
+    "it": "Il giovane adolescente Mikey Walsh e i suoi amici partono in una missione per trovare il tesoro del pirata Willie \"Occhio Solo\", nella speranza di salvare le loro case dalla demolizione.",
+    "es": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar 'Los Goonies', decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
+    "sv": "\"Här händer det aldrig något\", säger Mikey, ledaren för Dödsskallegänget. Han vet inte att han och hans sex kompisar snart kommer få mer än nog av spänning och mystik. Allt börjar när de hittar Enögde Willies skattkarta. De känner genast igen några viktiga landmärken och anar var skatten finns."
+   },
+   "tagline": {
+    "fr": "Prêtez serment et rejoignez l'aventure.",
+    "en": "They call themselves \"The Goonies.\" The secret caves. The old lighthouse. The lost map. The treacherous traps. The hidden adventure. And Sloth… Join the adventure.",
+    "de": "Mach dich auf ein Abenteuer gefasst.",
+    "it": "Unitevi all'avventura.",
+    "es": "Las cuevas secretas. El viejo faro. El mapa perdido. Las trampas traidoras. El tesoro oculto. ¡Y Sloth!"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 6512,
+   "runtime": 115
   },
   {
    "id": 1891,
@@ -593,7 +1885,58 @@
     "de": "/bjp6mY4D3jlYBdebedEyg9m9w3y.png",
     "it": "/ms0pZRAHJAwE9uURAoklLP4ZJFa.png",
     "es": "/9cfYSldHZmPukaatZRS4Ren3QX8.png"
-   }
+   },
+   "overview": {
+    "fr": "Malgré la destruction de l’Étoile Noire, l'Empire maintient son emprise sur la galaxie, et poursuit sans relâche sa lutte contre l'Alliance rebelle. Basés sur la planète glacée de Hoth, les rebelles essuient un assaut des troupes impériales. Parvenus à s'échapper, la princesse Leia, Han Solo, Chewbacca et C-3P0 se dirigent vers Bespin, la cité des nuages gouvernée par Lando Calrissian, ancien compagnon de Han. Suivant les instructions d'Obi-Wan Kenobi, Luke Skywalker se rend quant à lui vers le système de Dagobah, planète marécageuse où il doit recevoir l'enseignement du dernier maître Jedi, Yoda. Apprenant l'arrestation de ses compagnons par les stormtroopers de Dark Vador après la trahison de Lando, Luke décide d'interrompre son entraînement pour porter secours à ses amis et affronter le sombre seigneur Sith...",
+    "en": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+    "de": "Nach der Zerstörung des Todessterns geht der Kampf zwischen den Rebellen und dem herrschenden Imperium weiter. Die Rebellen haben sich auf den Eisplaneten Hoth zurückgezogen, doch das Imperium spürt sie auf und zerstört nach hartem Kampf die dortige Basis. Daraufhin teilen sich unsere Freunde auf: Luke gerät mit R2-D2 auf den Sumpfplaneten Dagobah, wo er von dem alten Jedi-Meister Yoda eine Ausbildung im Umgang mit der Macht erhält, während Leia, Han Solo und die anderen sich nach Bespin durchschlagen, wo in einer Wolkenstadt ein alter Freund von Han residiert. Doch dort geraten sie in eine Falle des Imperiums, und Luke muß ihnen zu Hilfe kommen und Darth Vader zu einem Duell herausfordern...",
+    "it": "Malgrado la Morte Nera sia stata distrutta, le truppe imperiali si sono impadronite nuovamente di Yavin. I ribelli si sono rifugiati sul pianeta di ghiaccio, ma sono costretti ancora alla fuga. Ian Solo (Han Solo nome originale), la principessa Leia e il droide D3BO (C-3PO), seminano gli inseguitori, mentre Luke, assieme al fido C1P8 (R2-D2) , si reca dal maestro jedi Yoda, sul pianeta Dogabahd, per ritrovare la \"Forza\". Nel tentativo di liberare Leila e gli amici, incontra poi Darth Vader, che si rivela essere suo padre. Seconda puntata (ma in realtà è la quinta) della saga di \"Guerre stellari\", con parecchie allusioni al celebre ciclo narrativo dei cavalieri bretoni: abbastanza evidente il parallelo tra Luke alla ricerca della \"forza\" e Parsifal.",
+    "es": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+    "sv": "Äventyret fortsätter när Luke Skywalker, med hopp om att besegra det onda rymdimperiet, skolar sig till Jedi med hjälp av mästare Yoda. Darth Vader fösöker tillfångata Luke. Medans hamnar Princessan Leia, Han Solo, Chewbacca och droiderna C-3PO och R2-D2 i olika hopplösa situationer med fångenskap, svek och förtvivlan."
+   },
+   "tagline": {
+    "fr": "La Guerre des Étoiles continue…",
+    "en": "The Star Wars saga continues.",
+    "de": "Der Krieg der Sterne geht weiter.",
+    "it": "Continua la saga di Guerre Stellari.",
+    "es": "La saga de La Guerra de las Galaxias continúa...",
+    "sv": "Stjärnornas krig fortsätter"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 19143,
+   "runtime": 125
   },
   {
    "id": 603,
@@ -615,7 +1958,52 @@
     "de": "/vI6oPPFZjfr4jOu21NHyoZmfsn2.png",
     "it": "/7tg7ZTv0AbO5afJaUZguvqK5O4g.png",
     "es": "/kA8phmxG7h4BIN061fiutckq9Ho.png"
-   }
+   },
+   "overview": {
+    "fr": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est‐ce que la Matrice ? Nul ne le sait, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents…",
+    "en": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "de": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe – der gesuchte Terrorist Morpheus – weiht ihn in ein entsetzliches Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrheit werden die Menschen längst von einer unheimlichen virtuellen Macht beherrscht – der „Matrix“, deren Agenten Neo bereits im Visier haben …",
+    "it": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e della bella Trinity, può tentare di scoprire la verità, ma non sarà un'impresa facile.",
+    "es": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+    "sv": "Thomas Anderson lever ett dubbelliv. På dagarna är han en vanlig programmerare och på nätterna en hacker känd som Neo. Hans liv förändras för alltid när han kontaktas av Morpheus, en legendarisk hacker som av myndigheterna stämplas som terrorist. Mötet drar Neo in i polisens sökarljus och tvingar honom in i en existentiell kamp om människans frihet."
+   },
+   "tagline": {
+    "fr": "Croire à l'incroyable.",
+    "en": "Believe the unbelievable.",
+    "de": "Glaube das Unglaubliche.",
+    "it": "Credete all'incredibile.",
+    "es": "Bienvenido al mundo real.",
+    "sv": "Tro det ofattbara."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 29287,
+   "runtime": 136
   },
   {
    "id": 607,
@@ -634,7 +2022,63 @@
    "logo": {
     "en": "/mTevhilEOa7dqILrE9YQnNhkIQ7.png",
     "es": "/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
-   }
+   },
+   "overview": {
+    "fr": "Chargés de protéger la Terre de toute infraction extraterrestre et de réguler l’immigration intergalactique sur notre planète, les Men in black ou MIB opèrent dans le plus grand secret. Vêtus de costumes sombres et équipés des toutes dernières technologies, ils passent inaperçus aux yeux des humains dont ils effacent régulièrement la mémoire récente : la présence d’aliens sur notre sol doit rester secrète. Récemment séparé de son vieux partenaire, retourné à la vie civile sans aucun souvenir de sa vie d’homme en noir, K, le plus expérimenté des agents du MIB décide de former J, un jeune policier. Ensemble, ils vont afronter une nouvelle menace : Edgar le cafard…",
+    "en": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+    "de": "Nur die Men In Black kennen das bestgehütete Geheimnis der Welt: auf der Erde wimmelt es von Aliens! Außerirdische der unterschiedlichsten Art haben sich, als Menschen getarnt, auf dem Planeten breitgemacht. Einige werden geduldet, andere aufgespürt, gejagt, vertrieben. Und diesen Job erledigen die beiden zähesten unter den Alienjägern, die Agenten Mr. K und Mr. J. Doch dann landet ein intergalaktisches Riesenmonster auf der Erde - sein Ziel: die totale Vernichtung der Welt. Trotz optimaler High-Tech-Bewaffnung haben die beiden Super-Agenten jetzt einen lebensgefährlichen Auftrag. Als sie die Fährte des außerirdischen Eindringlings aufgenommen haben, scheint es fast zu spät zu sein - eine globale Katastrophe bahnt sich an...",
+    "it": "Dal 1963 gli extraterrestri sono tra noi: sbarcano clandestinamente, assumono sembianze umane e i più s'integrano pacificamente. Nessuno lo sa, tranne il governo degli USA che ha costituito una sezione speciale per il controllo dell'immigrazione. Ne fanno parte il bianco K (T.L. Jones) e il nero J (W. Smith) che danno la caccia a un ET malvagio, uno scarafaggione alto tre metri infilatosi nel corpo di un contadino-camionista.",
+    "es": "Los hombres de negro son agentes especiales cuya misión consiste en controlar a los alienígenas, aquí deberán hacer frente al extraterrestre Edgar el Insecto para que no se apropie de la galaxia de otra especie.",
+    "sv": "Vi får följa agenterna Kay och Jay - medlemmar av en topphemlig organisation som övervakar utomjordliga aktiviteter på jorden. De hamnar mitt i en livsfarlig uppgörelse med en intergalaktisk terrorist som har anlänt till jorden för att lönnmörda två ambassadörer från motstridiga galaxer. Kay och Jays uppdrag blir att stoppa inkräktaren och rädda jorden från förintelse. Helt enkelt en vanlig dag på jobbet för Men in Black."
+   },
+   "tagline": {
+    "fr": "Ils protègent la Terre contre la racaille de l'Univers",
+    "en": "Protecting the Earth from the scum of the universe.",
+    "de": "Sie schützen die Erde vor dem Abschaum des Universums.",
+    "it": "Proteggono la terra dalla feccia dell'universo",
+    "es": "Protegiendo la tierra de la escoria del universo."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 15451,
+   "runtime": 98
   },
   {
    "id": 562,
@@ -656,7 +2100,52 @@
     "de": "/rnz9gQWE1OnwyuQjEGJ0Jdi828W.png",
     "it": "/waBN3K8WbresEsXsmef1o4qlhSM.png",
     "es": "/w8DyM4j0cGVfSvrDqf3AtgEkdqr.png"
-   }
+   },
+   "overview": {
+    "fr": "John McClane, un policier de New York, tente de sauver sa femme Holly Gennaro et un groupe d'autres personnes prises en otage par le terroriste allemand Hans Gruber lors d'une fête de Noël au Nakatomi Plaza de Los Angeles.",
+    "en": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+    "de": "Eigentlich möchte der New Yorker Polizist John McClane dieses Weihnachten nur seine Noch-Ehefrau Holly, welche in Los Angeles in einer großen, erfolgreichen Firma Karriere gemacht hat, besuchen und das Fest mit den beiden gemeinsamen Kinder verbringen. Als die Feierlichkeiten im Nakatomi Plaza beginnen sollen, stürmt eine Gruppe von Terroristen das Hochhaus und nur John McClane schafft es ihnen zu entwischen. Lediglich bewaffnet mit ein paar Zigaretten und einem Walkie-Talkie, wodurch er den Funk der Geiselnehmer mithören kann, und mit Waffen, welche die Terroristen gelegentlich so rumliegen lassen, muss John nun nicht nur sein eigenes Leben retten, sondern möglichst auch das aller anderen Beteiligten. Und so beschließt er, die äußerst brutale Truppe auszumerzen und sich einen Terroristen nach dem anderen vorzuknöpfen. Während draußen dann schon die Polizei und das FBI stümperhaft versucht, das Gebäude zu stürmen, kämpft McClane ohne Schuhe gegen die 12 Aggressoren...",
+    "it": "Durante la tradizionale festa di natale, un gruppo di terroristi prende in ostaggio i dipendenti di una multinazionale giapponese all'interno di un modernissimo grattacielo. John McClane, poliziotto, però sfugge ai terroristi e grazie all'aiuto dei nascondigli naturali del grattacielo conduce una battaglia solitaria per portare in salvo gli ostaggi, tra i quali si trova anche la moglie.",
+    "es": "John McClane, un duro policía neoyorquino, acude a Los Angeles para pasar unos días de vacaciones con sus hijos y su esposa Holly. En el transcurso de la fiesta navideña que la empresa de Holly da en el moderno edificio Nakatoni, éste es asaltado por un supuesto grupo terrorista liderado por un megalómano llamado Hans Gruber.",
+    "sv": "Högt över Los Angeles har en grupp terrorister intagit en byggnad, tagit gisslan och förklarat krig. Men en man har lyckats undgå att bli upptäckt...en polisman som inte är i tjänst. Han är ensam...trött...och det sista hoppet för alla. New York-detektiven John McClane har just anlänt till Los Angeles för att fira jul med sin frånskilda fru. Medan McClane väntar på att hans frus kontorsfest ska sluta, tar terroristerna kontrollen över byggnaden. Medan terroristernas ledare, Hans Gruber och hans brutale bödel samlar ihop gisslan, lyckas McClane att smita undan. Med bara en tjänstepistol och sin list, startar McClane ett enmans krig mot terroristerna."
+   },
+   "tagline": {
+    "fr": "40 étages en otage !",
+    "en": "40 stories of sheer adventure!",
+    "de": "Er ist für alle die letzte Chance.",
+    "it": "40 piani di pura avventura!",
+    "es": "40 pisos, 12 terroristas y 1 solo policía.",
+    "sv": "40 våningar högexplosiv action!"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 12883,
+   "runtime": 131
   },
   {
    "id": 105,
@@ -679,7 +2168,57 @@
     "it": "/n5odobvL1L56AQVStx53eIRv5Mh.png",
     "es": "/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
     "sv": "/x6UqUDCC6wbutLCCFyaHvPNcaKj.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1985, Marty, un adolescent comme les autres, mène une existence morne et ennuyeuse. Heureusement, il est épris de la jolie Jennifer et entretient une profonde amitié avec Doc, un savant fou qui prétend avoir inventé une machine à explorer le temps. Un jour, Doc invite Marty à l'essayer…",
+    "en": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "de": "Der Teenager Marty McFly wird mit der Zeitmaschine seines Freundes, dem skurrilen Wissenschaftler Dr. Emmett Brown, versehentlich ins Jahr 1955 geschleudert. Dort verhindert er zunächst unabsichtlich, dass sich seine zukünftigen Eltern kennen lernen und in einander verlieben, womit er seine eigene Zeugung gefährdet. Zu allem Überfluss verguckt sich seine Mutter auch noch in ihn. Ihm bleibt nun eine Woche Zeit, seinen tollpatschigen Vater mit seiner Mutter zu verkuppeln und gemeinsam mit Docs dreißig Jahre jüngerem alter Ego einen Plan zu entwickeln, wie sie das bevorstehende große Gewitter nutzen können, um ihn in die Gegenwart zurück zu schicken.",
+    "it": "Marty McFly è stato catapultato per errore nel 1955, grazie alla macchina del tempo ideata dal suo amico scienziato Doc. Non avendo più \"carburante\" per poter tornare nel futuro si rivolge alla versione più giovane di Doc, che nonostante l'incredulità iniziale si farà in quattro per aiutarlo. Ma nel 1955 non è solo Doc ad essere più giovane, Marty infatti si imbatte casualmente nei suoi genitori, all'epoca teenager, ma l'incontro aggiungerà altri problemi.",
+    "es": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+    "sv": "För att komma undan ett gäng terrorister hoppar Marty in i en sportbil som hans vän och uppfinnare har tillverkat. Bilen är ombyggd till en tidsmaskin och snart befinner sig Marty 30 år tillbaka i tiden där han möter sina föräldrar som unga. Men plutoniumet som krävs för att driva bilen tar slut och Marty måste uppsöka uppfinnaren som ung för att försöka ordna så att han kan återvända till 1985."
+   },
+   "tagline": {
+    "fr": "Jamais à temps à l’école, jamais à temps à la maison, un jour il se retrouve complètement hors du temps…",
+    "en": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+    "de": "Er kam nie pünktlich zur Schule. Und immer zu spät zum Essen. Doch eines Tages kam er um Jahre zu früh …",
+    "it": "Non arriva mai in tempo a scuola... Non arriva mai in tempo a cena... Ma un giorno... si trovò completamente fuori dal tempo.",
+    "es": "Nunca llegaba a tiempo a clase. No llegaba a tiempo para cenar. Hasta que un día desapareció de su tiempo."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 22787,
+   "runtime": 117
   },
   {
    "id": 165,
@@ -702,7 +2241,57 @@
     "it": "/bO4fQjzoayBDqYGAxonf8RBpKKh.png",
     "es": "/hJOIF2KVRgdTonfyLkCdyq6buo5.png",
     "sv": "/37co8tfzQaCv7cBJvnvPqkZO9ug.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1985, Marty McFly a retrouvé sa famille et sa petite amie après un voyage mouvementé dans le passé. Surgit alors Doc Brown, au volant de sa machine à explorer le temps. Il lui enjoint de le suivre dans le futur, en l'an 2015, pour secourir son fils tombé sous la coupe du sinistre Biff Tannen.",
+    "en": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+    "de": "Nachdem Doc Brown am Ende des ersten Teiles Marty mit in die Zukunft genommen hat, sieht er nun selbst, was aus ihm werden wird - ein abgehalfterter Angestellter, der am Ende der Karriereleiter steht.Marty und Doc Brown versuchen, der Zukunft einen kleinen Schubser in die richtige Richtung zu geben. Doch Biff gibt seiner eigenen Zukunft durch einen Fehler Martys eine neue Wendung - und dieser Fehler muß nun ausgebügelt werden...",
+    "it": "Il film comincia dove terminava il primo capitolo, ovvero con Marty e Jennifer che partono insieme allo scienziato Doc, inventore della macchina del tempo, per il 2015 allo scopo di evitare che il futuro dei loro figli possa essere in pericolo. Ma la situazione precipita e ad essere in pericolo non è più il futuro, ma il passato. Marty dovrà tornare nuovamente nel 1955 e...",
+    "es": "Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más modernizada), e insta a que le acompañen él y su novia a viajar al futuro para solucionar un problema con la ley que tendrá uno de sus futuros hijos. En la tremenda vorágine futurista, con todo lo que ello conlleva, del Hill Valley de 2015, la presencia de tales viajeros temporales causará un efecto mayor que el que iban a arreglar. Un almanaque deportivo y la posesión del secreto de la existencia de la máquina del tiempo por parte del siempre villano Biff Tannen, serán los ingredientes que conjugarán una causa-efecto en el pasado, en el presente y en el propio futuro, que hará que Marty y Doc se tengan que emplear a fondo para poner fin a la catástrofe a la que les lleva el destino.",
+    "sv": "Doc, Marty och Jennifer åker till år 2015 med sin tidsmaskin DeLorean för att rätta till några problem i framtiden. Men Biff Tannen stjäl DeLorean och åker tillbaka i tiden och ger en bok med 50 års sportresultat till sitt yngre jag. Nu måste Marty åka tillbaka i tiden för att stoppa den yngre Biff från att utnyttja boken..."
+   },
+   "tagline": {
+    "fr": "Le retour n'était que le début.",
+    "en": "Getting back was only the beginning.",
+    "de": "Und jetzt wird durchgestartet …",
+    "it": "Strade? Dove stiamo andando non c'è bisogno di strade!",
+    "es": "El regreso fue sólo el principio."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 14535,
+   "runtime": 109
   },
   {
    "id": 196,
@@ -725,7 +2314,57 @@
     "it": "/yArZzQAxPC7aZi5sfEsiTGRjRoc.png",
     "es": "/R7CCAaWeyYu15jtXHAjEDejGY1.png",
     "sv": "/4LfM0XfewM9JnMl7X1Xbu0ETnss.png"
-   }
+   },
+   "overview": {
+    "fr": "Ce troisième épisode propulse Marty sur une toute nouvelle mission… en l'an 1885, en plein Far West ! Il n'a que cinq jours pour sauver son ami Doc des griffes du terrible Buford \"Molosse\" Tannen et ainsi lui éviter la mort. Cependant, bon nombre d'embûches vont empêcher nos deux voyageurs de rentrer rapidement vers le futur : ils devront faire face à une panne de la DeLorean, leur très célèbre machine à remonter le temps, affronter une bande de hors-la-loi et croiser sur leur route une maîtresse d'école dont le charme ne laissera pas insensible ce bon vieux Doc…",
+    "en": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "de": "Als Dr. Emmett Brown im Jahre 1955 bei einem Landeversuch mit dem DeLorean vom Blitz getroffen wird, katapultiert ihn die Zeitmaschine in das Jahr 1885. Sofort schreibt er Marty McFly einen Brief, in dem er seinen Freund darüber unterrichtet, dass es ihm gut gehe und er seinen Lebensabend gern in dieser Epoche verbringen würde. Dank des zuverlässigen Postsystems erreicht der Brief Marty 70 Jahre später, direkt nachdem dieser mit ansehen musste, wie die Zeitmaschine im bewölkten Nachthimmel von Hill Valley verschwand. Kurz darauf findet Marty allerdings heraus, dass der schrullige Wissenschaftler eine Woche nach seiner Ankunft im Wilden Westen erschossen wird. Um dies zu vereiteln, begibt er sich kurzerhand selbst auf die Reise in das Jahr 1885.",
+    "it": "Per questa terza, conclusiva, puntata della trilogia, Marty McFly è costretto a tornare indietro nel tempo fino al 1885 per salvare Doc, che vi era stato catapultato al termine del secondo capitolo. Questa volta tornare nel futuro sarà ancora più difficile.",
+    "es": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
+    "sv": "Doc Brown och hans skyddsling Marty McFly befinner sig i Vilda västern år 1885. Doc bestämmer sig för att stanna kvar. Men när Marty återvänder till 1955 ser han Docs gravsten och han far tillbaka för att rädda Doc."
+   },
+   "tagline": {
+    "fr": "Ils ont gardé le plus beau voyage pour la fin… Mais cette fois, ils sont peut‐être allés trop loin.",
+    "en": "They've saved the best trip for last... But this time they may have gone too far.",
+    "de": "Die beste Reise machen sie zuletzt … aber vielleicht sind sie dieses Mal doch zu weit gegangen.",
+    "it": "L'ultimo viaggio è il più stupefacente! Ma forse sono andati troppo lontano...",
+    "es": "Han guardado el mejor viaje para el final... Pero esta vez pueden haber ido demasiado lejos."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 12023,
+   "runtime": 119
   },
   {
    "id": 620,
@@ -748,7 +2387,51 @@
     "it": "/zgSi2oybhVaoE7qBPIOoQa7lZjM.png",
     "es": "/kJADnzciFbQXNT3CWUUSxa4ywcq.png",
     "sv": "/rq0ZUSMBIxUkjk7qMwpyv1jGCMf.png"
-   }
+   },
+   "overview": {
+    "fr": "La soudaine recrudescence de phénomènes paranormaux inquiète les habitants de New York. Des revenants sèment la pagaille dans les rues de la ville ! Peter, Raymond et Egon, trois jeunes chercheurs en parapsychologie, décident de monter leur propre entreprise : SOS Fantômes. Les ectoplasmes n'ont qu'à bien se tenir car nos trois joyeux lurons se feront un plaisir de les capturer à l'aide de leur équipement électronique dernier cri.",
+    "en": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+    "de": "So ein Pech. Da haben die Parapsychologie-Professoren Peter Venkman, Ray Stantz und Egon Spengler endlich den Beweis für paranormale Aktivitäten in Form einer waschechten Geistererscheinung vor den Augen, da werden sie auch schon vom Campus der Uni geworfen. Zu unwichtig und kostenintensiv seien ihre Forschungen. Frisch in der Arbeitslosigkeit angekommen, aber mit dem Wissen um die Existenz übernatürlicher Phänomene und Geisterwesen angereichert beschließen sie aus der Not eine zukunftsweisende Idee umzusetzen: Sie gründen ein Geisterjäger-Unternehmen! Mit selbst entworfenem Equipment und mit einem alten Feuerwehrgebäude als Hauptquartier stellen sie sich den lästigen Bedrohungen aus der Zwischenwelt. Und auch wenn die braven Bürger von New York der ganzen Sache etwas skeptisch gegenüberstehen, werd sie bald merken, wie nötig ihre Stadt diese geisterjagenden Jungs hat ...",
+    "it": "Peter Venkman, Raymond Stantz ed Egon Spengler sono tre ricercatori esperti di fenomeni paranormali espulsi dall'Università. Non resta loro che mettersi in proprio e fondare un'impresa specializzata come 'acchiappafantasmi'. La prima cliente è Dana Barrett che nel proprio appartamento di West Central Park è stata oggetto di visite terrificanti di cui non sa darsi una spiegazione. È solo l'inizio di un'avventura che porterà i ghostbusters a dover cercare di salvare la città da una minaccia che proviene dall'antichità.",
+    "es": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicología que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigación. Entonces deciden formar la empresa Cazafantasmas, dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana será el presagio de la llegada de un peligroso y poderoso demonio.",
+    "sv": "De tre märkliga forskarna dr Venkman, dr Stantz och dr Spengler blir en dag plötsligt utan jobb när universitetet bestämmer sig för att skära ner på den parapsykologiska avdelningen där de studerar övernaturliga fenomen. De bestämmer sig då för att starta eget och bildar firman Ghostbusters som hjälper folk att fånga in spöken, gengångare, poltergeists och andra underliga varelser. En dag upptäcker de att den vackra Dana  Barrets kylskåp är dörren till den  andliga världen och det är dags för den stora uppgörelsen."
+   },
+   "tagline": {
+    "fr": "Ils sont là pour sauver le monde.",
+    "en": "They're here to save the world.",
+    "de": "Sie sind gekommen um die Welt zu retten",
+    "it": "Sono arrivati per salvare il mondo",
+    "es": "No temen a ningún fantasma."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Fantastique"
+    ],
+    "en": [
+     "Comedy",
+     "Fantasy"
+    ],
+    "de": [
+     "Komödie",
+     "Fantasy"
+    ],
+    "it": [
+     "Commedia",
+     "Fantasy"
+    ],
+    "es": [
+     "Comedia",
+     "Fantasía"
+    ],
+    "sv": [
+     "Komedi",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 10165,
+   "runtime": 105
   },
   {
    "id": 315635,
@@ -769,7 +2452,58 @@
     "en": "/dBuI6v9X484QeG3fb4oH8RJ7021.png",
     "it": "/pc8X5EvS0skMDDJ70l5F0iM8fmu.png",
     "es": "/z1NmlOHGhFOt4cQJpyl9AHUtUsx.png"
-   }
+   },
+   "overview": {
+    "fr": "Après ses spectaculaires débuts dans Captain America : Civil War, le jeune Peter Parker découvre peu à peu sa nouvelle identité, celle de Spider-Man, le super-héros lanceur de toile. Galvanisé par son expérience avec les Avengers, Peter rentre chez lui auprès de sa tante May, sous l’œil attentif de son nouveau mentor, Tony Stark. Il s’efforce de reprendre sa vie d’avant, mais au fond de lui, Peter rêve de se prouver qu’il est plus que le sympathique super héros du quartier. L’apparition d’un nouvel ennemi, le Vautour, va mettre en danger tout ce qui compte pour lui...",
+    "en": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+    "de": "Nach seinem Aufeinandertreffen mit den Avengers ist Peter Parker alias Spider-Man wieder zurück in New York, wo er bei seiner Tante May wohnt. Seitdem er mit bzw. gegen die anderen Helden kämpfte, fragt er sich, ob er mit seinen herausragenden Fähigkeiten nicht mehr machen sollte, als nur die freundliche Spinne aus der Nachbarschaft zu sein, die den einen oder anderen Einbruch verhindert und Taschendiebe stoppt. Doch daneben muss der von seinem neuen Mentor Tony Stark geförderte Jugendliche auch noch den Alltag auf die Reihe bekommen, den Alltag als Teenager an einer Highschool, wo er sich in Liz verguckt hat. Blöd, dass ausgerechnet in dieser Situation ein Bösewicht für Unruhe sorgt, der technisch bestens ausgestattet ist und von Rachedurst getrieben: der Vogelmann Vulture.",
+    "it": "Peter Parker non riesce a scrollarsi di dosso quanto sia stata incredibile la sua esperienza con gli Avengers in Captain America: Civil War, l'aver conosciuto Tony Stark e avere mantenuto con lui un rapporto speciale, tanto da avere un contatto diretto attraverso il suo assistente Happy Hogan e da aver ricevuto in dono un super-costume. Peter è così innamorato dell'idea di diventare un Avenger da lasciar scivolare in secondo piano anche la ragazza che gli fa battere il cuore, la bella Liz, per andare dietro ai criminali e mostrarsi pronto per la posizione in squadra.",
+    "es": "Peter Parker comienza a experimentar su recién descubierta identidad como el superhéroe Spider-Man. Después de la experiencia vivida con los Vengadores, Peter regresa a casa, donde vive con su tía. Bajo la atenta mirada de su mentor Tony Stark, Peter intenta mantener una vida normal como cualquier joven de su edad, pero interrumpe en su rutina diaria el nuevo villano Vulture y, con él, lo más importante de la vida de Peter comenzará a verse amenazado.",
+    "sv": "Fortfarande exalterad över sin upplevelse med the Avengers återvänder Peter hem till sin moster May, under sin mentor Tony Starks uppsikt. Han försöker återuppta sina dagliga rutiner, men kan inte riktigt släppa tanken på att få uträtta nya hjältedåd. När superskurken Vulture dyker upp får han chansen - samtidigt som allt han håller kärt plötsligt befinner sig i stor fara."
+   },
+   "tagline": {
+    "fr": "Les devoirs peuvent attendre. La ville non.",
+    "en": "Homework can wait. The city can't.",
+    "de": "Hausaufgaben können warten. Die Stadt kann es nicht.",
+    "it": "I compiti possono aspettare. La città no.",
+    "es": "Los deberes pueden esperar. La ciudad no.",
+    "sv": "Läxorna kan vänta. Staden kan inte."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 24268,
+   "runtime": 134
   },
   {
    "id": 634649,
@@ -790,7 +2524,58 @@
     "en": "/9xjIoK8eGVvMdiqwUQbEBUeh9Ej.png",
     "it": "/fgPVQgBvuRRr7MCgIKwy4VGUXZa.png",
     "es": "/yu1IfNUAb0VBCt39tJsBAjZ9HlU.png"
-   }
+   },
+   "overview": {
+    "fr": "Après les événements liés à l'affrontement avec Mysterio, l'identité secrète de Spider-Man a été révélée. Il est poursuivi par le gouvernement américain, qui l'accuse du meurtre de Mysterio, et traqué par les médias. Cet événement a également des conséquences terribles sur la vie de sa petite-amie M.J. et de son meilleur ami Ned. Désemparé, Peter Parker demande alors de l'aide au docteur Strange. Ce dernier lance un sort pour que tout le monde oublie que Peter est Spider-Man. Mais les choses ne se passent pas comme prévu, et cette action altère la stabilité de l'espace-temps. Cela ouvre le « multivers », un concept terrifiant dont ils ne savent quasiment rien...",
+    "en": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "de": "Peter Parker ist demaskiert und kann sein normales Leben nicht mehr von den hohen Einsätzen als Superheld trennen. Als er Doctor Strange um Hilfe bittet, wird die Lage noch gefährlicher und er muss entdecken, was es wirklich bedeutet, Spider-Man zu sein.",
+    "it": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identità. Peter chiede aiuto a Stephen Strange affinché usi la magia per far scordare a tutti la sua identità. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man.",
+    "es": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+    "sv": "Filmen utspelas efter händelserna i Avengers Endgame. Spider-Man:s identitet har avslöjats och han ber Doctor Strange om hjälp. Farliga fiender från andra världar tvingar Spider-Man att möta sitt verkliga jag."
+   },
+   "tagline": {
+    "fr": "Le multivers libéré !",
+    "en": "Enter the Multiverse.",
+    "de": "Das entfesselte Multiversum!",
+    "it": "Il Multiverso scatenato.",
+    "es": "El multiverso desatado.",
+    "sv": "Multiversumet har släppts lös."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 23584,
+   "runtime": 148
   },
   {
    "id": 1893,
@@ -812,7 +2597,58 @@
     "de": "/s2OPnklfUDQExrhgMAHDrx27JOY.png",
     "it": "/leivDqFnLgAkw5Cqh9mjPtsR4DE.png",
     "es": "/b3W3Yqm7FGiNC1TFtkiJ3i6BJF4.png"
-   }
+   },
+   "overview": {
+    "fr": "Il y a bien longtemps, dans une galaxie très lointaine... La République connaît de nombreux tourments : la corruption fait vaciller ses bases, le Sénat s'embourbe dans des discussions politiques sans fin et de nombreux pouvoirs dissidents commencent à émerger, annonçant la chute d'un système autrefois paisible. Puissante et intouchable, la Fédération du Commerce impose par la force la taxation des routes commerciales. Refusant de céder, la pacifique planète Naboo, dirigée par la jeune Reine Amidala, subit un blocus militaire de la Fédération. Dépêchés par le Sénat pour régler cette affaire, les chevaliers Jedi Qui-Gon Jinn et Obi-Wan Kenobi découvrent qu'une véritable offensive de la Fédération est imminente. Libérant la Reine et ses proches, ils quittent la planète mais doivent se poser sur Tatooine pour réparer leur vaisseau...",
+    "en": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "de": "Nachdem der friedliche Planet Naboo von der Handelsföderation angegriffen wurde, müssen die Jedi-Ritter Qui-Gon Jinn und Obi-Wan Kenobi gemeinsam mit Königin Amidala auf dem Wüstenplaneten Tatooine notlanden. Dort bekommen sie Hilfe von Anakin Skywalker, einem Sklavenjungen, in dem die Macht ungewöhnlich stark ist. Als es Königin Amidala nicht gelingt, den Senat gegen die Handelsföderation zu mobilisieren, kehrt sie mit den Jedi-Rittern und Anakin nach Naboo zurück, um den Kampf allein fortzusetzen. Eine gewaltige Schlacht beginnt!",
+    "it": "Il regno pacifico di Naboo denuncia l'imminente invasione da parte della Lega dei Commercianti, ma la Repubblica, paralizzata dalla corruzione dilagante e dalla burocrazia del Senato, sceglie di non intervenire. Solo i Cavalieri Jedi Qui-gon Jin e Obi-wan Kenobi si recano a Naboo per proteggere la regina Amidala, in pericolo di vita, e condurla in salvo sul pianeta Tatooine. Qui i Jedi faranno la conoscenza di un bambino fuori dall'ordinario, Anakin Skywalker: Qui-Gon è convinto che si tratti del Prescelto, destinato un giorno a riportare equilibrio nella Forza.",
+    "es": "La Federación de Comercio ha bloqueado el pequeño planeta de Naboo, gobernado por la joven Reina Amidala, como parte de un plan ideado por Sith Darth Sidious, que manteniéndose en el anonimato dirige a los neimoidianos, que están al mando de la Federación. Amidala es convencida por los Jedis Qui-Gon Jinn y su aprendiz, o padawan, Obi-Wan Kenobi a viajar hasta Coruscant, capital de la República y sede del Consejo Jedi para intentar mediar esta amenaza. Pero esquivando el bloqueo, la nave real resulta dañada, obligando a la tripulación a aterrizar en el desértico y remoto planeta de Tatooine...",
+    "sv": "Episod I utspelar sig trettio år före händelserna i Episod IV från 1977. Här introduceras den unge Anakin Skywalker, en pojke som besitter speciella krafter och som är ovetande om att den resa han nu påbörjar, kommer att förvandla honom till den onde Darth Vader. Obi-Wan Kenobi, den vise gamle Jedi-riddaren från den första filmen, är en målmedveten lärling och Palpatine, känd som den onde Kejsaren, är en ambitiös senator i den galaktiska republiken. Det är en tid när Jedi-riddarna är fredens väktare i en stormig galax och den unga drottningen slåss för att rädda sitt folk. I de mörka skuggorna lurar en ond kraft, som väntar på rätt ögonblick för att skrida till sitt förödande"
+   },
+   "tagline": {
+    "fr": "Toute saga a un commencement.",
+    "en": "Every saga has a beginning.",
+    "de": "Jede Saga hat einen Anfang.",
+    "it": "Ogni generazione ha una leggenda. Ogni viaggio ha un primo passo. Ogni saga ha un inizio.",
+    "es": "Cada generación tiene una leyenda. Cada viaje tiene un primer paso. Cada saga tiene un comienzo",
+    "sv": "Varje äventyr har en början"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 16443,
+   "runtime": 136
   },
   {
    "id": 280,
@@ -834,7 +2670,57 @@
     "de": "/mT6lmHuoWeoYZZYkjoZvoJROzFI.png",
     "it": "/pnDA3ZSNhJKGquiyatI7ipTZXoJ.png",
     "es": "/J7vIMfYlrTepIGhUX4IrniPyxU.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2029, après leur échec pour éliminer Sarah Connor, les robots de Skynet programment un nouveau Terminator, le T‐1000, pour retourner dans le passé et éliminer son fils John Connor, futur leader de la résistance humaine. Ce dernier programme un autre cyborg, le T‐800, et l’envoie également en 1995, pour le protéger. Une seule question déterminera le sort de l’humanité : laquelle des deux machines trouvera John la première ?",
+    "en": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+    "de": "Zehn Jahre nach der Terrorherrschaft des ersten Terminators kehrt ein neuer Killer-Cyborg auf die Erde zurück. Der Auftrag des T-1000 lautet: John Connor muss sterben. Der zwölfjährige John ist der einzige, der eines fernen Tages die Menschheit vor der Übernahme der Weltherrschaft durch die Maschinen retten könnte. Doch die Rebellen aus der Zukunft sind wachsam. Zum Schutz für John entsenden sie einen umprogrammierten Terminator der alten Generation, den T-800, auf die Erde.",
+    "it": "Dieci anni dopo i fatti stravolgenti per Sarah Connor, un altro, più evoluto Terminator viene inviato sulle sue tracce. Stavolta l'obiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno conquistando il mondo. Anche i ribelli del futuro cercheranno di provvedere alla protezione del ragazzo.",
+    "es": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+    "sv": "Efter händelserna i första Terminator har Sarah Connor blivit intagen på mentalsjukhus och hennes son John Connor har placerats i fosterhem. Från framtiden skickas två cyborger, en T-1000 med uppdraget att döda John, och en omprogrammerad Serie T-800 Model 101 för att skydda honom. Samtidigt som de försvarar sig måste de också hitta den man som är skyldig till att Skynet förklarar krig mot mänskligheten."
+   },
+   "tagline": {
+    "fr": "Même fabrication, même modèle, nouvelle mission.",
+    "en": "It's nothing personal.",
+    "de": "Ich will niemandem zu nahe treten.",
+    "it": "Non è niente di personale.",
+    "es": "No es nada personal."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 15206,
+   "runtime": 137
   },
   {
    "id": 10195,
@@ -855,7 +2741,57 @@
     "en": "/mhWN03HN4j9nSkomzDKZyl6xVuq.png",
     "it": "/jKJuSs2tg3FBIF7EXO875xitWhR.png",
     "es": "/41G1yzrJywCiTFTgmCAsQtrvLCA.png"
-   }
+   },
+   "overview": {
+    "fr": "Thor, le héros du nouveau film issu de l'univers Marvel, est un guerrier tout-puissant et arrogant dont les actes téméraires font renaître de nos jours un conflit ancestral. À cause de cela, il est banni du Royaume mythique d’Asgard et est condamné à vivre parmi les humains. Mais lorsque les forces du Mal d’Asgard s’apprêtent à envahir la Terre, Thor découvre enfin ce que signifie \"être un héros\".",
+    "en": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+    "de": "Der mächtige Thor ist ein überragender Krieger im Königreich Asgard, dessen Überheblichkeit und Arroganz seine größte Schwäche ist. Wegen seiner Gedankenlosigkeit wird ein lange vergessen geglaubter Krieg neu entfacht. Die Strafe folgt umgehend: Unter den Menschen soll Thor auf der Erde Demut lernen, was dem Krieger zunächst nicht leicht fällt. Doch dann ist er zur Stelle, als es die Menschheit mit einem übermächtigen Gegner zu tun bekommt, der Unterstützung aus Asgard zu erhalten scheint.",
+    "it": "Figlio primogenito del potente Odino, Thor è destinato a salire al trono di Asgard ma la sua foga e il desiderio di affermarsi in battaglia lo spingono ad un'azione avventata che, non fosse per l'intervento salvifico del padre, rischia di mettere a repentaglio la pace e la sicurezza del suo regno. Affranto per la delusione procuratagli dall'inadeguatezza del figlio Odino decide di scagliarlo sulla Terra, privato dei suoi poteri e impossibilitato ad usare Mjolnir, il suo micidiale maglio. Almeno fino a che non sarà in grado di usarlo con giudizio. Caduto nel nostro mondo il dio nordico si imbatte, nel vero senso della parola, in un gruppo di ricercatori che indagano i curiosi eventi atmosferici che hanno luogo nel New Mexico e in particolare in un'astrofisica dal sorriso facile. Intanto nel regno di Asgard il fratello Loki approfitta di un malessere del padre per salire al trono.",
+    "es": "Thor es un arrogante y codicioso guerrero cuya imprudencia desata una antigua guerra. Por ese motivo, su padre Odín lo castiga desterrándolo a la Tierra para que viva entre los hombres y descubra así el verdadero sentido de la humildad. Cuando el villano más peligroso de su mundo envía a la Tierra a las fuerzas más oscuras de Asgard, Thor se dará cuenta de lo que realmente hace falta para ser un verdadero héroe.",
+    "sv": "Det finns många hjältar i världen … men  bara en gud. När den arrogante krigaren Thor förvisas till jorden från Asgård måste han kämpa hårt för att återfå sina förlorade krafter. När han jagas av en invasionsstyrka som kommit för att förinta honom måste den fallne åskguden ge sig in i striden och lära sig vad som krävs för att bli en äkta hjälte."
+   },
+   "tagline": {
+    "fr": "Le courage est immortel.",
+    "en": "Courage is immortal.",
+    "de": "Mut ist unsterblich",
+    "it": "Il mondo ha molti eroi,ma solo uno è un dio",
+    "es": "El valor es inmortal."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Action"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 23087,
+   "runtime": 115
   },
   {
    "id": 284053,
@@ -875,7 +2811,63 @@
     "fr": "/vr4W7JZvHORxeQ7wdvqcVXhbAz5.png",
     "en": "/qmlvTIqxZMb4ED9WB91UuwRSGw.png",
     "de": "/iWsZfKpZy2T4Se6GcxO9NyvtgBk.png"
-   }
+   },
+   "overview": {
+    "fr": "Thor est emprisonné de l’autre côté de l’univers sans son puissant marteau et se retrouve engagé dans une course contre le temps pour rejoindre Asgard et arrêter Ragnarok – la destruction de son monde natal et la fin de la civilisation Asgardienne – des mains d’une toute nouvelle menace, l’impitoyable Hela. Mais d’abord, il doit survivre à une compétition meurtrière de gladiateurs qui l’oppose à son ancien allié et compagnon Avenger – l’Incroyable Hulk !",
+    "en": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+    "de": "Donnergott Thor wird auf der anderen Seite des Universums gefangengenommen. Ohne seinen nützlichen Hammer Mjölnir scheint eine Flucht nahezu ausgeschlossen. Dabei läuft ihm allmählich die Zeit davon. Denn die ebenso mächtige wie erbarmungslose Hela, die nach jahrtausendlanger Gefangenschaft aus ihrem Gefängnis freigekommen ist, macht sich daran, die Macht auf Thors Heimatwelt Asgard zu übernehmen. Um das zu verhindern, setzt Thor alles daran, nach Hause zurückzukehren. Zwischen ihm und seiner Freiheit stehen jedoch tödliche Gladiatorenkämpfe auf dem Planeten Sakaar, die Mülldeponie des Universums. Bei einem dieser Duelle trifft Thor auf den Ex-Avenger und seinen früheren Mitstreiter Hulk den beliebtesten und erfolgreichsten Kämpfer auf Sakaar…",
+    "it": "Thor è imprigionato dall’altro lato dell’universo senza il suo potente martello e deve lottare contro il tempo per tornare ad Asgard e fermare il Ragnarok — la distruzione del suo mondo e la fine della civiltà asgardiana — per mano di una nuova e onnipotente minaccia, la spietata Hela. Ma prima dovrà sopravvivere a un letale scontro fra gladiatori che lo metterà contro il suo vecchio alleato e compagno nel team degli Avengers: l’Incredibile Hulk.",
+    "es": "Thor está preso al otro lado del universo sin su poderoso martillo y se enfrenta a una carrera contra el tiempo. Su objetivo es volver a Asgard y parar el Ragnarok porque significaría la destrucción de su planeta natal y el fin de la civilización Asgardiana a manos de una todopoderosa y nueva amenaza, la implacable Hela. Pero, primero deberá sobrevivir a una competición letal de gladiadores que lo enfrentará a su aliado y compañero en los Vengadores, ¡el Increíble Hulk!",
+    "sv": "Thor hålls fängslad på andra sidan universum utan sin mäktiga hammare. Han för en kamp mot tiden för att ta sig tillbaka till Asgård för att stopp Ragnarök - förstörelsen av hans hemvärld och slutet för hela den Asgårdska civilisationen, nu i händerna på den hänsynslösa Hela."
+   },
+   "tagline": {
+    "fr": "Pas de marteau ? Pas de problème !",
+    "en": "No hammer. No problem.",
+    "de": "Hammer weg, Haare weg, alles weg - manchmal kommt selbst für einen Superhelden alles anders als gedacht.",
+    "it": "Nessun martello. Nessun problema.",
+    "es": "Sin martillo. No hay problema."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 22783,
+   "runtime": 131
   },
   {
    "id": 597,
@@ -895,7 +2887,52 @@
     "fr": "/m73D0BWDcJs53TjuFwHxlWZux9i.png",
     "en": "/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
     "es": "/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png"
-   }
+   },
+   "overview": {
+    "fr": "Southampton, 10 avril 1912. Le paquebot le plus grand et le plus moderne du monde, réputé pour son insubmersibilité, le « Titanic », appareille pour son premier voyage. Quatre jours plus tard, il heurte un iceberg. À son bord, un artiste pauvre et une grande bourgeoise tombent amoureux.",
+    "en": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "de": "Atlantischer Ozean, 1912: Auf der Jungfernfahrt der Titanic trifft der mittellose Maler Jack Dawson auf die schöne, aber unglückliche Erste-Klasse-Passagierin Rose DeWitt Bukater. Rose reist gemeinsam mit ihrer Mutter und ihrem versnobten Verlobten Cal, den sie aus finanziellen Gründen heiraten soll, aber nicht liebt. Als Jack beobachtet, wie Rose über die Reling klettert, um sich ins Meer zu stürzen, und ihren sicheren Tod abwenden kann, beginnt für beide eine Liebesgeschichte über Klassengrenzen hinweg. Gemeinsam mit Jack entdeckt Rose das ausgelassene Leben der einfachen Passagiere unter Deck der Titanic und das wahre Wesen der Liebe. Währenddessen steuert die als unsinkbar geltende Titanic geradewegs auf einen Eisberg zu.",
+    "it": "Rose ha diciassette anni, una madre egoista, un fidanzato facoltoso e una vita pianificata. Imbarcata sul Titanic e insoddisfatta della propria subalternità al futuro sposo incontra Jack, romantico disegnatore della terza classe che ha vinto a poker un biglietto per l'America. Contro le convenzioni e il destino, che chiederà il conto in una notte senza luna, Rose e Jack si innamorano, spiegando il loro spirito come i motori del più grande transatlantico del mondo. Lanciato nella sua prima traversata oceanica il Titanic è colpito al cuore da un iceberg, 'affondando' millecinquecento persone e il futuro dei due giovani amanti. Ottantaquattro anni dopo l'ultracentenaria Rose, scampata al naufragio e sopravvissuta a Jack, racconterà a un gruppo di scienziati la meraviglia di un amore interclassista e la stupidità di un mondo diviso in classi. Un mondo che il Titanic inabisserà in un oceano nero il 15 aprile del 1912.",
+    "es": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
+    "sv": "Den 10 april 1912 stävar Titanic ut från hamnen i Southampton på sin jungfruresa. I första klass, med lyxrestauranger, swimmingpool och promenadstråk, bor 17-åriga Rose i en skyddad värld, styrd av stränga moralregler och familjens förväntningar. I sällskapet finns också hennes förmögne fästman, ansedd som ett utmärkt parti för en societetsflicka. I tredje klass, långt under däck, ligger Jack på sin brits och drömmer om det stora äventyret. De kommer från skilda världar men deras hemliga passion är gränslös."
+   },
+   "tagline": {
+    "fr": "Rien sur cette terre ne saurait les séparer.",
+    "en": "Nothing on earth could come between them.",
+    "de": "Nichts auf dieser Welt konnte sie trennen.",
+    "it": "Nulla al mondo poteva dividerli.",
+    "es": "Nada en el mundo podría separarlos.",
+    "sv": "Inget på jorden kunde skilja dem åt."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Romance"
+    ],
+    "en": [
+     "Drama",
+     "Romance"
+    ],
+    "de": [
+     "Drama",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Dramma",
+     "Romance"
+    ],
+    "es": [
+     "Drama",
+     "Romance"
+    ],
+    "sv": [
+     "Drama",
+     "Romantik"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 28097,
+   "runtime": 195
   },
   {
    "id": 744,
@@ -915,7 +2952,57 @@
     "fr": "/iUVKR05MBzbSjIMVM9kBXIayJG3.png",
     "en": "/xNgCQCtuho9cezrE925hjMtio4G.png",
     "es": "/wfZCqteye4nQttmHszgxkqAMSTw.png"
-   }
+   },
+   "overview": {
+    "fr": "Jeune as du pilotage et tête brûlée d'une école réservée à l'élite de l'Aéronavale américaine, la fameuse « Top Gun », Pete Mitchell, dit Maverick, tombe sous le charme d'une instructrice alors qu'il est en compétition pour le titre du meilleur pilote…",
+    "en": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+    "de": "Der junge Lieutenant Pete „Maverick“ Mitchell ist ein Kampfpilot bei der United States Navy. Bei einer heiklen Mission müssen Maverick und sein Waffensystemoffizier Nick „Goose“ Bradshaw die Befehle ihres Kommandanten „Stinger“ missachten, um einem Kameraden zu helfen, der eine Panikattacke bekommen hat. Dadurch werden Maverick und Goose von Stinger widerwillig für die Ausbildung bei der United States Navy Fighter Weapons School, genannt „Top Gun“, vorgeschlagen. Dort liefert sich Maverick gleich eine Rivalität mit dem Flugschüler Tom „Iceman“ Kazanski. Außerdem bekommt er durch seine rücksichtslose Flugweise Probleme. Er gewinnt zwar regelmäßig Flugkämpfe, z.B. gegen Ausbilder Leutnant Commander Rick „Jester“ Heatherly, bricht dabei jedoch Einsatzregeln und handelt nicht gerade teamfähig.",
+    "it": "L'irruente Pete \"Maverick\" Mitchell (Tom Cruise) e Nick \"Goose\" Bradshaw (Anthony Edwards) sono rispettivamente pilota e navigatore di jet da combattimento, nonché cadetti della prestigiosa \"Top Gun\", scuola d'élite dell'aeronautica militare americana. Fra acrobazie aeree e spacconate si avvicenda la storia d'amore tra Maverick e l'insegnante di volo Charlie (Kelly McGillis). Il difficile carattere di Maverick lo porterà a fare i conti con una dura realtà, portandolo a perdere la fiducia nelle proprie doti da pilota e che lo metterà a dura prova durante una delicata e pericolosa missione aerea contro dei MiG sovietici.",
+    "es": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+    "sv": "På The Top Gun Naval Fighter School tränar de bästa piloterna sina färdigheter i strid. När den nya stjärnan Maverick dyker upp med sin kaxiga och vårdslösa stil, hamnar han i kollissionskurs med de övriga piloterna. Speciellt med den coola och behärskade Iceman."
+   },
+   "tagline": {
+    "fr": "Là-haut avec les meilleurs, parmi les meilleurs.",
+    "en": "Up there with the best of the best.",
+    "de": "Sie fürchten weder Tod noch Teufel",
+    "it": "Lassù con il meglio del meglio.",
+    "es": "Allá en lo más alto. Con lo mejor de lo mejor."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Drame",
+     "Romance"
+    ],
+    "en": [
+     "Action",
+     "Drama",
+     "Romance"
+    ],
+    "de": [
+     "Action",
+     "Drama",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Azione",
+     "Dramma",
+     "Romance"
+    ],
+    "es": [
+     "Acción",
+     "Drama",
+     "Romance"
+    ],
+    "sv": [
+     "Action",
+     "Drama",
+     "Romantik"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 10111,
+   "runtime": 110
   },
   {
    "id": 862,
@@ -935,7 +3022,60 @@
     "fr": "/fCyduKmikHt0aJnEn9FEBTAmNTn.png",
     "en": "/eX8LcW1zdjxvWNB5ZsZuhPO7NtP.png",
     "it": "/uKE9CXtd8BNgu9wCtEYmvd5qlMx.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans un monde où les jouets vivent leur vie quand les humains ne sont pas présents, Toy Story emmène les spectateurs dans un voyage fantastique vu principalement par les yeux de deux rivaux : Woody, un cow-boy, et Buzz l'Éclair, un ranger de l’espace. Ce duo va devoir apprendre à mettre ses différences de côté et s'allier, lorsqu’il sera séparé de son propriétaire Andy.",
+    "en": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "de": "Als Andys Lieblingspuppe hat Woody im Kinderzimmer das Sagen. Kaum ist der Junge nicht da, erwacht die Cowboy-Figur zum Leben, und mit ihm auch all das andere Spielzeug um ihn herum. Aufgeregt debattiert man über Andys bevorstehenden Geburtstag. Es wird befürchtet, daß ihr Besitzer ein neues Geschenk bevorzugen wird. Und tatsächlich: Der Neuankömmling Buzz Lightyear, ein stolzer Space Ranger, avanciert zu Andys Favoriten. Diese Herabstufung will Woody nicht hinnehmen.",
+    "it": "Guidati da Woody, i giocattoli di Andy vivono felici nella sua stanza fino al compleanno di Andy che porta Buzz Lightyear sulla scena. Temendo di perdere il suo posto nel cuore di Andy, Woody trama contro Buzz. Ma quando le circostanze separano Buzz e Woody dal loro proprietario, la coppia alla fine impara a mettere da parte le loro differenze.",
+    "es": "Los juguetes de Andy, un niño de seis años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito de Andy, trata de tranquilizarlos hasta que aparece Buzz Lightyear, un héroe espacial dotado de todo tipo de avances tecnológicos. Woody es relegado a un segundo plano, pero su constante rivalidad se transformará en una gran amistad cuando ambos se pierden en la ciudad sin saber cómo volver a casa.",
+    "sv": "Trädockan Woody har alltid varit pojken Andys favoritleksak och ledare för de andra leksakerna. Allting förändras den dag då Andy fyller år och får en ny, supercool Buzz Lightyear-docka i present. Woody ser avundsjukt på medan Buzz blir både Andys och de andra leksakernas nya favorit. Men när Woody och Buzz av misstag hamnar hos den elake grannpojken Sid, måste de tidigare rivalerna hjälpas åt för att kunna fly. Men kommer de att lyckas innan Sid ska påbörja sina läskiga leksaksexperiment?"
+   },
+   "tagline": {
+    "fr": "Vers l’infini et au‐delà !",
+    "en": "Hang on for the comedy that goes to infinity and beyond!"
+   },
+   "genres": {
+    "fr": [
+     "Familial",
+     "Comédie",
+     "Animation",
+     "Aventure"
+    ],
+    "en": [
+     "Family",
+     "Comedy",
+     "Animation",
+     "Adventure"
+    ],
+    "de": [
+     "Familie",
+     "Komödie",
+     "Animation",
+     "Abenteuer"
+    ],
+    "it": [
+     "Famiglia",
+     "Commedia",
+     "Animazione",
+     "Avventura"
+    ],
+    "es": [
+     "Familia",
+     "Comedia",
+     "Animación",
+     "Aventura"
+    ],
+    "sv": [
+     "Familj",
+     "Komedi",
+     "Animerat",
+     "Äventyr"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 20844,
+   "runtime": 81
   }
  ]
 }

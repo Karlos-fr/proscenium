@@ -1,6 +1,6 @@
 {
  "id": "animation",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Animation",
   "en": "Animation",
@@ -39,7 +39,62 @@
     "it": "/qJiGHrjQhCLZXT1nGtVjXc1CtRH.png",
     "es": "/f8gfYJDZDDgJ54Kq9IhttjPgx08.png",
     "sv": "/zuqICkNZJG7PfTD21vZ57Hjg8Zh.png"
-   }
+   },
+   "overview": {
+    "fr": "Ramsès, né de sang royal, et de Moïse, est un orphelin au passé secret. Elevés comme deux frères, ils partagent une jeunesse dorée, pleine de fougue et de défis. Mais le destin va les séparer brutalement. L'un deviendra pharaon, régnant sur l'empire le plus puissant du monde, et l'autre, sera l'élu chargé de libérer son peuple. Leur confrontation changera à jamais leur vie et l'histoire de l'humanité.",
+    "en": "The strong bond between two Royal Egyptian brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+    "de": "Die Emanzipationsgeschichte des biblischen Helden Moses, der vom fremdbestimmten Zögling des Pharaos zum selbstsicheren Befreier des Volkes Israel reift: Als Neugeborener an den Gestaden des Nils ausgesetzt, um so den Häschern des Herodes zu entkommen, wird der kleine Moses von einer ägyptischen Prinzessin gefunden und großgezogen. Nach seiner Flucht in die Wüste und der Hochzeit mit der Nomadenschönheit Zippora erhält er schließlich den göttlichen Auftrag, die geknechteten Juden ins Gelobte Land zu führen.",
+    "it": "Un giovane nobile egiziano, Mosè, scopre di essere nato da una famiglia ebrea, e accetta il suo destino di diventare liberatore del suo popolo.",
+    "es": "En el antiguo Egipto, hace miles de años, el faraón Seti ordena la muerte de todos los recién nacidos judíos. Una madre, desesperada, coloca a su hijo en una cesta y la deposita en el Nilo. Las aguas la conducen río abajo hasta la orilla donde la hallará la reina. El niño era Moisés y fue educado como hermano de Ramsés, el heredero del trono. Sin embargo, cuando, años después, se descubra el origen hebreo de Moisés, los hermanos se distanciarán.",
+    "sv": "Den fantastiska berättelsen om två bröder, den ene född av kungligt blod, den andre föräldralös. De växer upp som bästa vänner med starka vänskapsband och varmhjärtad rivalitet. Men sanningen gör dem snart oense, eftersom den ene blir härskare över jordens mäktigaste rike, och den andre utses till sitt folks ledare. Deras slutliga konfrontation kommer för evigt att förändra deras liv - och världen."
+   },
+   "tagline": {
+    "fr": "Depuis la nuit des temps, le pouvoir ne s'est jamais partagé.",
+    "en": "The power is real. The story is forever. The time is now.",
+    "it": "Dalla notte dei tempi il potere non è mai stato condiviso",
+    "es": "El poder es real. La historia es para siempre. El momento es ahora."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Animation",
+     "Drame",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Animation",
+     "Drama",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Animation",
+     "Drama",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Animazione",
+     "Dramma",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Animación",
+     "Drama",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Animerat",
+     "Drama",
+     "Familj"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 4492,
+   "runtime": 100
   },
   {
    "id": 10501,
@@ -62,7 +117,69 @@
     "it": "/IewkCrdcOCpp4ZEy1ZDQXhkScZ.png",
     "es": "/xPYcdlAeDBY5pKDxMa74iaDwtGl.png",
     "sv": "/nqYRdaaifupJLIX8TdA2T79qMV2.png"
-   }
+   },
+   "overview": {
+    "fr": "1519. Les Espagnols ne rêvent que d'une chose : atteindre l'Eldorado, légendaire contrée aux mille richesses située quelque part en Amérique du Sud. Tulio et Miguel, deux sympathiques fripouilles, décident de tenter l'aventure et traversent l'océan à bord d'une frêle embarcation. Après avoir chaviré, les deux amis atteignent une ile inconnue. Ils découvrent très vite qu'ils ont atteint l'Eldorado. La population locale les prend pour des dieux et les honore comme tels. Mais la fortune et le pouvoir ne vont-ils pas avoir raison de l'amitié qui les lie ?",
+    "en": "Stowing away after a failed con, a pair of swindlers end up on El Dorado, the fabled \"city of gold\", where they quickly get in over their heads when they are mistaken as gods by the inhabitants.",
+    "de": "Tulio und Miguel, zwei glücklose spanische Gauner, sind mal wieder auf der Flucht. Mit im Gepäck haben sie eine Schatzkarte, die sie direkt nach El Dorado führen soll. Deshalb schmuggeln sich die beiden Freunde mit ihrem cleveren Pferd Altivo auf Captain Cortez' Schiff und gelangen so in die Neue Welt. Dort schlagen sie sich durch den Dschungel und stoßen dabei tatsächlich auf die sagenhafte Goldstadt, wo sie kurzerhand zu Göttern erklärt werden. Was sie nicht ahnen: Hohepriester Tzekel-Kan missbraucht die zwei für einen finsteren Plan...",
+    "it": "Appena arrivati ad El Dorado, la leggendaria Città dell'Oro, Tulio e Miguel vengono scambiati per degli dei e ricoperti di ricchezze come non avrebbero mai sognato. Ma quando amicizia, lealtà e avidità si scontreranno, i nostri improbabili eroi dovranno prendere la decisione della loro vita: scappare con l'oro o affrontare inattesi pericoli nel tentativo di salvare il popolo di El Dorado!",
+    "es": "Siglo XVI. Dos jóvenes estafadores ganan en un juego de dados un mapa a El Dorado pero son descubiertos y perseguidos por los guardias. Logran escapar pero terminan por meterse en el barco del mismisimo Hernán Cortés. Escapan en un bote del barco y llegan a tierra arrastrados por el mar. Allí deciden emprender la búsqueda de la ciudad de oro al reconocer indicios que aparecían en el mapa, pero su aventura no terminará como ellos lo esperan.",
+    "sv": "Dom två lurendrejarna Tulio och Miguel, lyckas lura till sig en karta över vägen till Eldorado, den mytomspunna staden som sägs vara gjord av guld. För två skojare som Tulio och Miguel, som befinner sig lite på fel sida om lagen, låter det mycket intressant. Men resan blir svår, och när de kommer fram blir det inte riktigt som de har tänkt sig..."
+   },
+   "tagline": {
+    "fr": "Ils étaient venus pour l'or, ils sont restés pour l'aventure.",
+    "en": "They came for the gold. They stayed for the adventure.",
+    "de": "Sie kamen für das Gold - Sie blieben für das Abenteuer",
+    "it": "Cercavano l'oro ma trovarono l'avventura",
+    "es": "Vinieron por el oro. Se quedaron por la aventura."
+   },
+   "genres": {
+    "fr": [
+     "Familial",
+     "Aventure",
+     "Animation",
+     "Comédie",
+     "Fantastique"
+    ],
+    "en": [
+     "Family",
+     "Adventure",
+     "Animation",
+     "Comedy",
+     "Fantasy"
+    ],
+    "de": [
+     "Familie",
+     "Abenteuer",
+     "Animation",
+     "Komödie",
+     "Fantasy"
+    ],
+    "it": [
+     "Famiglia",
+     "Avventura",
+     "Animazione",
+     "Commedia",
+     "Fantasy"
+    ],
+    "es": [
+     "Familia",
+     "Aventura",
+     "Animación",
+     "Comedia",
+     "Fantasía"
+    ],
+    "sv": [
+     "Familj",
+     "Äventyr",
+     "Animerat",
+     "Komedi",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 4278,
+   "runtime": 86
   },
   {
    "id": 7443,
@@ -84,7 +201,58 @@
     "de": "/y6KG7Gu3WctpZMWbqVvXcReKlFb.png",
     "it": "/3B950ZutfuPAk5RiUp6jjS3XeEv.png",
     "es": "/3EK52fuwy5Jofuy8q7kDI23WShE.png"
-   }
+   },
+   "overview": {
+    "fr": "À la ferme des Tweedy, les poules qui ne pondent pas pour le breakfast savent qu’elles risquent de finir au menu du dîner. Il leur faut prendre leurs pattes à leur cou au plus vite.",
+    "en": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop–even if they can’t fly! It’s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly…but, with teamwork, determination and a little bit o’ cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
+    "de": "Auf Mr. und Mrs. Tweedys düsterer Geflügelfarm herrscht das hühnerverachtende Motto: Wer nichts zum Frühstück beiträgt, endet als Abendessen! Kein Wunder, dass die rebellische Jung-Henne Ginger dieser Hühnerhölle schnellstmöglich entkommen will. Zusammen mit ihren Leidensgenossinnen, der Rekord-Eierlegerin Bunty, der etwas unterbelichteten Babs, dem holländischen Technik-Genie Mac und dem greisen Hahn Fowler, plant sie die Flucht. Doch bisher wurde jeder Ausbruchversuch von der bösartigen Mrs. Tweedy, ihrem tumben Mann oder den gemeingefährlichen Hofhunden vereitelt. Erst als der amerikanische Zirkus-Gockel Rocky unvermittelt im wahrsten Sinne des Wortes auf dem Hühnerhof landet, reift in Ginger ein genialer Plan: Die Geflügel-Gemeinschaft muss einfach davonfliegen, und Flughahn Rocky soll den anderen das Fliegen beibringen!",
+    "it": "Rocky, Gaia, Tantona, Baba e Cedrone sono cinque simpatiche galline molto preoccupate per la loro sorte nell'allevamento di pollame di Mrs.Tweedy. Per salvare le \"penne\" escogitano un piano per fuggire.",
+    "es": "La señora Tweedy es la dueña de una granja en la que la mayoría de las aves se han resignado a llevar una vida corta e infeliz: viven mientras ponen huevos y, cuando dejan de hacerlo, acaban en la mesa como comida de los domingos. Pero las cosas empiezan a cambiar con la llegada de Rocky, un gallo norteamericano, que mantiene un romance con Ginger, una gallina muy combativa que ha organizado innumerables intentos de fuga para alcanzar una vida mejor.",
+    "sv": "Medan kycklingarna på den elaka fru Tweedys bondgård drömmer om ett bättre liv, ruvar den smarta hönan Ginger på planer att flyga sin kos från hönsgården – för gott! Det enda problemet är att kycklingar inte kan flyga… eller kan de? De har ingen flax med sina flyktförsök förrän Rocky, en genomamerikansk tupp med smort munläder, kraschlandar i hönsgården. Man kan knappast tala om fjäderfä med luft under vingarna när Rocky försöker lära Ginger och hennes fina fjäderbeklädda vänner att flyga… men med teamwork, envishet och lite tur, planerar den oförfärade flocken ett sista djärvt försök i en spektakulär flykt till friheten!"
+   },
+   "tagline": {
+    "fr": "La nouvelle coq’luche !",
+    "en": "There's nothing more determined than poultry with a plan.",
+    "de": "Lust auf Geflügel?",
+    "it": "Non c'è niente di più risoluto di una gallina con un piano",
+    "es": "¡Aquí se va a montar un buen pollo!",
+    "sv": "Ingenting är mer målmedvetet än fjäderfän med en plan."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 6.9,
+   "votes": 5606,
+   "runtime": 86
   },
   {
    "id": 808,
@@ -105,7 +273,69 @@
     "de": "/rwNqxCz8323hEKx0Q9uTgPNCVhR.png",
     "it": "/6KfJHuQC6pp5FhjoYPZ0zx1amgD.png",
     "es": "/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
-   }
+   },
+   "overview": {
+    "fr": "Shrek, un ogre verdâtre, cynique et malicieux, a élu domicile dans un marécage qu’il croit être un havre de paix. Un matin, alors qu’il sort faire sa toilette, il découvre de petites créatures agaçantes qui errent dans son marais. Shrek se rend alors au château du seigneur Lord Farquaad, qui aurait soi‐disant expulsé ces êtres de son royaume. Ce dernier souhaite épouser la princesse Fiona, mais celle‐ci est retenue prisonnière par un abominable dragon. Il lui faut un chevalier assez brave pour secourir la belle. Shrek accepte d’accomplir cette mission. En échange, le seigneur devra débarrasser son marécage de ces créatures envahissantes. Or, la princesse Fiona cache un secret terrifiant qui va entraîner Shrek et son compagnon l’âne dans une palpitante et périlleuse aventure.",
+    "en": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "de": "Als der böse Lord Farquaad alle Fabelwesen gefangen nimmt, kommt bloß einer in Frage, der das Reich vom bösen Tyrannen befreien kann ‒ der Shrek! Ein grüner und schelmischer Sumpfbewohner. Auf der Suche nach dem Abenteuer begegnen er und sein gesprächiger Freund Esel feuerspeienden Drachen und dem dunklen Geheimnis einer schönen Prinzessin.",
+    "it": "Shrek, un orco dal cuore d'oro, insieme al suo \"destriero\" Ciuchino cerca di tornare in possesso della sua palude, ora occupata dai personaggi delle fiabe, i quali sono stati imprigionati dal perfido Lord Farquaad, tiranno della terra di Duloc. L'orco e l'inseparabile asinello devono inoltre darsi da fare per liberare una principessa sottoposta a un sortilegio e tenuta prigioniera in un castello sorvegliato da un drago.",
+    "es": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
+    "sv": "Shrek handlar om sagomonstret Shrek som bor i ett träsk där han bara vill leva i lugn och ro. Han skrämmer lätt bort alla inkräktare och älskar att bada i leran. Men en dag invaderas hans hus och trädgård av en samling ytterst påfrestande sagofigurer. Plötsligt ligger det en stor, stygg varg i hans säng. Tre hemlösa grisar och tre blinda möss vill också bo i huset."
+   },
+   "tagline": {
+    "fr": "Le conte que votre grand-mère n'a jamais osé vous raconter.",
+    "en": "The greatest fairy tale never told.",
+    "de": "Das schönste Märchen, das je erzählt wurde.",
+    "it": "La più bella favola mai raccontata",
+    "es": "El mayor cuento de hadas jamas contado."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Fantastique",
+     "Aventure",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Fantasy",
+     "Adventure",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Fantasy",
+     "Abenteuer",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Fantasy",
+     "Avventura",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Fantasía",
+     "Aventura",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Fantasy",
+     "Äventyr",
+     "Familj"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 19608,
+   "runtime": 90
   },
   {
    "id": 425,
@@ -126,7 +356,62 @@
     "en": "/o2dJGLPODV3jz9rWsX1hERFAh7X.png",
     "it": "/4i3qYsFaTFcq0NVm2B6G5fDUc0L.png",
     "es": "/dvXYwZTtngcjdps0NKjggntW1Ak.png"
-   }
+   },
+   "overview": {
+    "fr": "Vingt mille ans avant notre ère, lorsque Scrat, un rongeur obstiné, fend la banquise et déclenche un nouvel Âge de Glace, une vaste cohorte de mammifères s’assemble et commence à émigrer vers le sud. Manny, un mammouth solitaire qui n’en fait qu’à sa tête, choisit d’aller vers le nord et se voit bientôt rejoint par Sid, un petit paresseux volubile en quête de protecteur. Ce dernier l’oblige bientôt à recueillir un bébé humain, Roshan, que sa mère leur a confié avant de mourir, et à ramener celui‐ci à son père, chasseur nomade parti vers le nord. Sur leur chemin, les deux compères devront protéger Roshan de Diego, un tigre aux dents de sabre chargé par son chef Soto de capturer le bébé.",
+    "en": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+    "de": "Achtung Eiszeit! Rutschen Sie mit Scrat, dem urigen Eichhörnchen-Mix, in die Welt vor 20.000 Jahren und erleben Sie das eis-coolste Abenteuer, der Filmgeschichte. Während Scrat besessen versucht seine geliebte Nuss zu vergraben haben Sid (das nervige Faultier), Manni (das muffige Zottel-Mammut) und Diego (der verschlagene Säbelzahntiger) ein ganz anderes Problem. Das schräge Trio stolpert zufällig über ein Menschenbaby, dass sie nun zu seiner Familie zurückbringen wollen. Ohne zu ahnen, was sie sich mit dem süßen Bündel aufgehalst haben, stürzen sich die drei in ein halsbrecherisches Abenteuer, bei dem es gilt Vulkanausbrüche, wilde Rutschpartien und noch ganz andere Gefahren zu meistern...",
+    "it": "All'inizio dell' Era Glaciale, tre creature assolutamente mal assortite si ritrovarono coinvolte per caso in una straordinaria avventura. Sid, un bradipo chiacchierone, Manny, un mammouth triste e malinconico, e Diego, un tigre dai denti a sciabola, si riuniscono anche se contro voglia per per aiutare un bambino a tornare da suo padre.",
+    "es": "Hace muchos, muchos años, tantos como 20.000, una pequeña ardirata de nombre Scrat quería esconder una bellota en el hielo. Pero lo que hace es provocar una semicatástrofe que provoca que todos los animales migren hacia el sur, hacia tierras más cálidas. Bueno, lo que se dice todos, todos, no. Porque hay uno que lleva la contraria: se trata del mamut Manfred, un auténtico lobo solitario vagabundo y soberbio que va hacia el norte sólo porque los demás están yendo hacia el sur.",
+    "sv": "Vid istidens början möts tre omaka varelser. Sid, en snabbpratande och korkad sengångare, Manfred, en vresig och ullig mammut och Diego, en lömsk sabeltandad tiger. De tre bildar motvilligt ett team för att återlämna en baby till sin pappa."
+   },
+   "tagline": {
+    "fr": "Les héros givrés.",
+    "en": "Sub-zero heroes.",
+    "de": "Die Eiszeit kommt.",
+    "es": "Ellos llegaron. Ellos descongelaron. Ellos conquistaron"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Familial",
+     "Aventure"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Family",
+     "Adventure"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Familie",
+     "Abenteuer"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Famiglia",
+     "Avventura"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Familia",
+     "Aventura"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Familj",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 14835,
+   "runtime": 82
   },
   {
    "id": 9023,
@@ -149,7 +434,68 @@
     "it": "/jzbTlOevmu4LreFaW0L8dAS9Hgd.png",
     "es": "/9Kg5DkaU516cCYJ7jetbAV38lCx.png",
     "sv": "/j5jkKYPipEbIzVnBtwKrL98Gt3a.png"
-   }
+   },
+   "overview": {
+    "fr": "L'étalon sauvage Spirit naît dans les plaines vierges de l'Ouest américain, aux premières années de la Conquête. Son enfance est tout entière placée sous le signe du jeu et de l'aventure. Spirit découvre avec émerveillement l'immensité, les ressources infinies, la beauté majestueuse de sa terre natale. Jeune adulte, il devient le chef de sa bande.Un soir, Spirit rencontre l'Homme. Pris au lasso, livré à un colonel sadique, il refuse de se faire dompter...",
+    "en": "Against impossible odds, Spirit, a young mustang, sets out across the majestic wilderness to regain his freedom and save his homeland. Along the way, he forms a friendship with a young Lakota brave, outwits a squadron of soldiers, and ultimately, finds love.",
+    "de": "Begleiten Sie den wilden jungen Mustang Spirit auf seinem spektakulären, actiongeladenen Abenteuer. Er will das Unmögliche möglich machen - seine Heimat retten und die Freiheit wiedererlangen. Auf seiner mutigen und aufregenden Reise nach Hause, die ihn durch die imposante Wildnis des amerikanischen Westens führt, freundet sich Spirit mit einem jungen Lakota-Krieger an, trickst eine ganze Schwadron Soldaten aus, die ihn gnadenlos verfolgen, und verliebt sich in die wunderschöne Scheckenstute Rain.",
+    "it": "Spirit è la storia di un mustang, un cavallo selvaggio, e del suo viaggio nel vecchio west, del suo primo e poco felice incontro con l'uomo, della sua capacità di non essere domato e restare selvaggio, nonostante il rapporto di rispetto creato con il pellerossa Little Creek.",
+    "es": "Sigue las aventuras de un corcel mustang salvaje e ingobernable que recorre la indómita frontera norteamericana. Cuando encuentra a un hombre por primera vez, un joven de la tribu de los Lakota llamado Little Creek, Spirit se niega a dejarse domar por él pero sí se hace amigo suyo. El valiente corcel también encuentra el amor con una hermosa yegua llamada Rain. Spirit se conviertirá en uno de los grandes héroes anónimos del Viejo Oeste.",
+    "sv": "Äventyret om en vild och bångstyrig hingst och om hans upplevelser i ett ungt och otämjt Amerika. Hans första möte med människan blir brutalt men han vägrar låta sig tyglas. När han möter den unge Lakotaindianen Little Creek uppstår en märklig vänskap, likaså med Little Creeks häst Rain, ett sto med flygande hårman och stora uppfordrande ögon."
+   },
+   "tagline": {
+    "fr": "Un chef. Un héros. Une légende.",
+    "en": "Some legends can never be tamed.",
+    "it": "Capo. Eroe. Leggenda.",
+    "es": "Líder. Héroe. Leyenda."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Animation",
+     "Drame",
+     "Familial",
+     "Western"
+    ],
+    "en": [
+     "Adventure",
+     "Animation",
+     "Drama",
+     "Family",
+     "Western"
+    ],
+    "de": [
+     "Abenteuer",
+     "Animation",
+     "Drama",
+     "Familie",
+     "Western"
+    ],
+    "it": [
+     "Avventura",
+     "Animazione",
+     "Dramma",
+     "Famiglia",
+     "Western"
+    ],
+    "es": [
+     "Aventura",
+     "Animación",
+     "Drama",
+     "Familia",
+     "Western"
+    ],
+    "sv": [
+     "Äventyr",
+     "Animerat",
+     "Drama",
+     "Familj",
+     "Västern"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 5089,
+   "runtime": 85
   },
   {
    "id": 809,
@@ -169,7 +515,67 @@
     "en": "/3xIgLhQhqQOeRXbYIOi4rYkFulH.png",
     "de": "/oQcLdRFpUtnlCRKL9oJ9cXoQMQt.png",
     "it": "/wwpQ0J8cAQGV3rBWgBEDdpBum6Q.png"
-   }
+   },
+   "overview": {
+    "fr": "Devenus de jeunes mariés, Shrek et Fiona rentrent de leur heureuse lune de miel. Ils sont invités par les parents de Fiona à venir dîner dans leur royaume, à Fort Fort Lointain. Mais ils ne se doutent pas que leur fille est devenue une ravissante ogresse … Ce mariage met par ailleurs en péril l’avenir et les projets les plus secrets du Roi …",
+    "en": "Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of ever-faithful Donkey, Shrek takes on the potion-brewing Fairy Godmother, pompous Prince Charming, and infamous ogre-killer Puss In Boots.",
+    "de": "Die frisch verheirateten Shrek und Prinzessin Fiona werden in Fionas Königreich \"Weit weit weg\" eingeladen, um die Hochzeit von Fionas Eltern segnen zu lassen - was Shrek für keine gute Idee hält, und er hat Recht damit: Die Eltern sind von der Verwandlung ihrer Tochter in eine Ogerin entsetzt, eine Gute Fee möchte ihren Sohn Prinz Charming mit Fiona verkuppeln und ein Killerkater wird damit beauftragt, Shrek beiseite zu schaffen.",
+    "it": "Di ritorno dalle nozze Shrek e Fiona vengono invitati a corte dai genitori di lei, re Harold e la regina Lilian. Che non sanno che i due sono orchi verdi. Per riparare al misfatto i sovrani, che avevano fatto altri progetti circa le nozze della figlia, chiamano in causa la Fatina Madrina, il Gatto con gli Stivali e il bellissimo Principe Azzurro.",
+    "es": "Cuando Shrek y la princesa Fiona regresan de su luna de miel, los padres de ella los invitan a visitar el reino de Muy Muy Lejano para celebrar la boda. Para Shrek, al que nunca abandona su fiel amigo Asno, esto constituye un gran problema. Los padres de Fiona, por su parte, no esperaban que su yerno tuviera un aspecto semejante y, mucho menos, que su hija hubiera cambiado tanto. Todo esto trastoca los planes del rey respecto al futuro del reino. Pero entonces entran en escena la maquiavélica Hada Madrina, su arrogante hijo el Príncipe Encantador y un minino muy especial: el Gato con Botas, experto cazador de ogros.",
+    "sv": "Att \"leva lyckliga i alla sina dagar\" ser ut att vara långt långt borta för Shrek och Fiona när ett besök hos svärföräldrarna urartar till ett skruvat äventyr. Med hjälp av sin trogne springare Åsnan, tar sig Shrek an den brygdkokande Goda fén, den högdragne Drömprinsen och den berömde träsktrolls-dödaren Mästerkatten i stövlar - en vildkatt som innerst inne bara är en snäll liten kattunge?"
+   },
+   "tagline": {
+    "fr": "Il était une autre fois…",
+    "en": "What happens after happily ever after?",
+    "es": "Érase otra vez ..."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Familial",
+     "Fantastique",
+     "Romance"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Family",
+     "Fantasy",
+     "Romance"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Familie",
+     "Fantasy",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Famiglia",
+     "Fantasy",
+     "Romance"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Familia",
+     "Fantasía",
+     "Romance"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Familj",
+     "Fantasy",
+     "Romantik"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 13989,
+   "runtime": 92
   },
   {
    "id": 3933,
@@ -191,7 +597,57 @@
     "de": "/sTWfqL1CsLjGf8CvR1OB2yfu1si.png",
     "it": "/o9j5SanKXznegoVNUNG13lHVSdf.png",
     "es": "/ziA8XAfgm07oHkwuMxA71tyP4yl.png"
-   }
+   },
+   "overview": {
+    "fr": "Victor découvre le monde de l'au-delà après avoir épousé, sans le vouloir, le cadavre d'une mystérieuse mariée. Durant ce temps, sa promise, Victoria l'attend désespérément dans le monde des vivants.",
+    "en": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+    "de": "Im viktorianischen Zeitalter des 19. Jahrhunderts steht der schüchterne Victor Van Dort kurz vor der Vermählung mit der reichen und anmutigen Victoria Everglot. Als er jedoch durch Zufall eine geheimnisvolle Leichenbraut zum Leben erweckt und diese sich prompt in ihn verliebt, steht Victor vor einer schweren Wahl. Entweder ein Leben in der grauen und tristen Welt der Lebenden oder ein Dasein voller Spaß und Frohsinn im unerwartet bunten Totenreich. Hin- und hergerissen zwischen der Liebe zu Victoria und seiner Treue zur modrigen Leichenbraut Emily, muss Victor letztendlich eine Entscheidung treffen...",
+    "it": "Victor sta per prendere in moglie la sua fidanzata Victoria quando, durante il tragitto verso il luogo del matrimonio, si ferma in un bosco per riposare. Dal terreno spunta fuori qualcosa a forma di dito e, per scherzo, Victor ci infila l'anello pronunciando i voti nuziali. Il dito si anima e il cadavere sepolto di una ragazza uccisa torna in vita dichiarando di essere ora ufficialmente sposata con Victor.",
+    "es": "Ambientada en un pueblecito europeo en el siglo XIX, esta película de animación fotograma a fotograma cuenta la historia de Victor, un joven que es llevado de repente al infierno, donde se casa con una misteriosa Novia Cadáver, mientras que su verdadera novia, Victoria espera en el mundo de los vivos. A pesar de que la tierra de los muertos resulta ser más colorista que su estricta educación victoriana, Victor aprende que no hay nada en este mundo, ni en el siguiente, que pueda separarle de su único y verdadero amor.",
+    "sv": "I en by på 1800-talet råkar den unge Victor hamna i dödsriket genom att av misstag fria till ett mystiskt lik i en bröllopsklänning. Ovan jord väntar hans sanna kärlek, den förkrossade och övergivna Victoria på att han ska återvända till henne. Även om livet i dödsriket visar sig vara betydligt mer färgstarkt än vad Victor är van vid, inser han snart att ingenting kan få honom att övere sin älskade."
+   },
+   "tagline": {
+    "fr": "Un malentendu fatal",
+    "en": "There's been a grave misunderstanding.",
+    "de": "Kann ein Herz noch brechen, wenn es aufgehört hat zu schlagen?",
+    "it": "C'è stato un lugubre equivoco.",
+    "es": "Un malentendido de muerte."
+   },
+   "genres": {
+    "fr": [
+     "Romance",
+     "Fantastique",
+     "Animation"
+    ],
+    "en": [
+     "Romance",
+     "Fantasy",
+     "Animation"
+    ],
+    "de": [
+     "Liebesfilm",
+     "Fantasy",
+     "Animation"
+    ],
+    "it": [
+     "Romance",
+     "Fantasy",
+     "Animazione"
+    ],
+    "es": [
+     "Romance",
+     "Fantasía",
+     "Animación"
+    ],
+    "sv": [
+     "Romantik",
+     "Fantasy",
+     "Animerat"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 10680,
+   "runtime": 77
   },
   {
    "id": 533,
@@ -212,7 +668,60 @@
     "en": "/xaW0oUbSzoOC4YlO0mVVMbL4GYM.png",
     "de": "/sEUU2nvdLOABqzkuHj8H3uCHFDM.png",
     "es": "/tkbW9I7AqmSnruB3OQTLwmWAJfL.png"
-   }
+   },
+   "overview": {
+    "fr": "Une \"fièvre végétarienne\" intense règne dans la petite ville de Wallace et Gromit, et l'ingénieux duo a mis à profit cet engouement en inventant un produit anti-nuisibles humain et écolo, qui épargne la vie des lapins. L'astuce consiste simplement à capturer, à la main, un maximum de ces rongeurs et à les mettre en cage. A quelques jours du Grand Concours Annuel de Légumes, les affaires de Wallace et Gromit n'ont jamais été aussi florissantes, et tout irait pour le mieux dans le meilleur des mondes, si un lapin-garou géant ne venait soudain s'attaquer aux sacro-saints potagers de la ville. Pour faire face à ce péril inédit, l'organisatrice du concours, Lady Tottington, se tourne vers nos deux \"spécialistes\" et leur demande d'appréhender le monstre.",
+    "en": "Cheese-loving eccentric Wallace and his cunning canine pal Gromit run a business ridding the town of garden pests. Using only humane methods, which turns their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest.",
+    "de": "Jetzt ist das skurrile Duo endlich zurück. Wallace – zerstreuter Erfinder und Käsefreund, der für ein Stück seiner Lieblingssorte Wensleydale alles um sich vergisst, und sein vierbeiniger Freund Gromit, der ständig dafür sorgen muss, dass nichts außer Kontrolle gerät, jagen ein furchtbares Ungeheuer. Nacht für Nacht verschwinden die schönsten Gewächse aus den Gemüsebeeten der Stadt. Das ist umso schlimmer, weil die prächtigsten Gartenfrüchte doch beim jährlichen Gemüsewettbewerb prämiert werden sollen. Die Jagd auf das diebische Monster beginnt …",
+    "it": "Sono tutti pollici verdi nel quartiere di Wallace e Gromit, e i due intraprendenti amici fanno ottimi affari con il loro sistema \"Anti-pest\" che non fa vittime. Con l'avvicinarsi dell'attesissima competizione per piante giganti, Wallace e Gromit si renderanno conto che il sistema ha i suoi aspetti negativi...",
+    "es": "Se acerca el Concurso Anual de Verduras Gigantes y se desata una “vegetalmanía” en el pueblo de Wallace y Gromit. Los dos amigos, se están haciendo de oro con su invento, el sistema “Anti-Pesto”, una forma humanitaria de controlar a los conejos que intentan invadir los preciados huertos. De pronto, todo se viene abajo cuando una enorme, misteriosa y voraz “bestia” empieza a aterrorizar al vecindario, atacando los huertos de noche. La organizadora del Concurso, Lady Tottington, absolutamente desesperada, encarga a Anti-Pesto que capturen a la terrible criatura y salven el concurso. Pero Victor Quartermaine, el engreído pretendiente de Lady Tottington, está al acecho, decidido a matar a la bestia de un tiro para convertirse en héroe local y conseguir casarse con la rica heredera. El concurso está en juego, y Lady Tottington no tiene más remedio que dejar que Victor vaya detrás de la voraz criatura, pero las verdaderas intenciones del cazador pueden tener graves consecuencias.",
+    "sv": "När stadens prisbelönta grönsaker börjar försvinna i rask takt, måste Wallace och Gromit använda all sin fantasi och uppfinningsrikedom för att stoppa ett mystiskt, jättelikt och lurvigt monster!"
+   },
+   "tagline": {
+    "fr": "Il court, il court, le lapin...",
+    "en": "Something wicked this way hops."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Animation",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Animation",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Animation",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Animazione",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Animación",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Animerat",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 3245,
+   "runtime": 86
   },
   {
    "id": 9502,
@@ -232,7 +741,63 @@
     "fr": "/qxSIApnsfBlefUsSgWzvr1Aiywp.png",
     "en": "/gkpcd4k3IrkqIAqRBNLLjBHGYyr.png",
     "es": "/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
-   }
+   },
+   "overview": {
+    "fr": "Passionné, costaud et quelque peu maladroit, Po est sans conteste le plus grand fan de kung‐fu. Serveur dans le restaurant de nouilles de son père, son habileté reste encore à prouver. Élu pour accomplir une ancienne prophétie, Po rejoint le monde du kung‐fu afin d'apprendre les arts martiaux auprès de ses idoles, les légendaires Cinq Cyclones : Tigresse, Grue, Mante, Vipère et Singe, sous les ordres de leur professeur et entraîneur, Maître Shifu. Mais Taï Lung, le léopard des neiges fourbe et animé d'un désir de vengeance, approche à grands pas, et c'est Po qui sera chargé de défendre la vallée face à cette menace grandissante.",
+    "en": "Chosen by prophecy but doubted by all, Po is an unlikely choice for the mystical title of the Dragon Warrior—a clumsy panda thrust into the world of kung fu as a deadly enemy threatens the Valley of Peace. Under reluctant guidance by Master Shifu and the Furious Five, Po must embrace who he is to unlock the power that no scroll can teach.",
+    "de": "Der kleine Pandabär Po macht in China eine Ausbildung zum Nudelsuppen-Meister. Doch in Wirklichkeit möchte er viel lieber ein berühmter und starker Kung-Fu Kämpfer werden, obwohl sein pummeliges Äußeres und seine Naschsucht vehement dagegen sprechen. Doch Po hat Glück: Eine Prophezeiung sieht vor, dass ein kleiner Bär gegen den gefürchteten Schneeleoparden Tai Lung antreten muss, um das Tal des Friedens zu retten. Es liegt nun an Master Shifu und den fünf Kung-Fu Meistern Tigerin, Kranich, Gottesanbeterin, Viper und Affe den pfundigen Bären zum starken Krieger zu machen.",
+    "it": "Po è un giovane panda il cui padre (un'oca cignoode) gestisce un piccolo ristorante la cui specialità sono i noodles cucinati secondo una ricetta segreta. Po fa il cameriere ma intanto sogna di poter essere un eroe del kung fu. Finché un giorno, in seguito a una predizione che lo vedrebbe come l'eletto Guerriero Dragone, viene associato alla scuola del Maestro Shifu. Ha così modo di incontrare i suoi idoli. Sono i Cinque cicloni: Tigre, Gru, Mantide, Vipera e Scimmia i quali non sono particolarmente felici di vederlo nelle vicinanze. Le speranze di farne un vero guerriero si affievoliscono progressivamente e il giorno in cui Tai Lung, il vendicativo e fortissimo leopardo delle nevi, si libera dalla prigionia e parte alla ricerca di Shifu e del Guerriero le cose sembrano mettersi male. I Cinque sono pronti a sacrificarsi ma Po riserverà loro delle sorprese.",
+    "es": "El protagonista es un oso panda llamado Po, el más vago de todas las criaturas del Valle de la Paz. Con poderosos enemigos acercándose, la esperanza es depositada en una antigua profecía que dice que un héroe se alzará para salvarles. Voces originales de Jack Black, Angelina Jolie, Dustin Hoffman, Lucy Liu & Jackie Chan.",
+    "sv": "Pandan Po är en nudelslurpande drömmare som måste lära sig att acceptera sitt sanna jag - med fel och brister - för att kunna bli en legendarisk drakkrigare."
+   },
+   "tagline": {
+    "fr": "Il n'est pas un gros panda gras… C'est LE gros panda gras !",
+    "en": "Prepare for awesomeness.",
+    "it": "Per rendere qualcosa speciale, devi solo che credere che è speciale.",
+    "es": "Prepárate para algo espectacular.",
+    "sv": "Förbered dig på fantastiskhet."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Animation",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Action",
+     "Animation",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Action",
+     "Animation",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Azione",
+     "Animazione",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Acción",
+     "Animación",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Action",
+     "Animerat",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 13207,
+   "runtime": 92
   },
   {
    "id": 14836,
@@ -253,7 +818,64 @@
     "en": "/9Aqk9kpuUfHAyPrALsTmcht5W6s.png",
     "it": "/iPFIo2iNaSm2sm1b31rsAph0GqB.png",
     "es": "/quxALlwYhgQjDO05nusMqUO99J9.png"
-   }
+   },
+   "overview": {
+    "fr": "Coraline Jones est une fillette intrépide et douée d’une curiosité sans limites. Ses parents, qui ont tout juste emménagé avec elle dans une étrange maison, n’ont guère de temps à lui consacrer. Pour tromper son ennui, Coraline décide donc de jouer les exploratrices. Ouvrant une porte condamnée, elle pénètre dans un appartement identique au sien… mais où tout est différent. Dans cet Autre Monde, chaque chose lui paraît plus belle, plus colorée et plus attrayante. Son Autre Mère est pleinement disponible, son Autre Père prend la peine de lui mitonner des plats exquis, et même le Chat, si hautain dans la Vraie vie, daigne s’entretenir avec elle. Coraline est bien tentée d’élire domicile dans ce Monde merveilleux, qui répond à toutes ses attentes. Mais le rêve va très vite tourner au cauchemar. Prisonnière de l’Autre Mère, Coraline va devoir déployer des trésors de bravoure, d’imagination et de ténacité pour rentrer chez elle et sauver sa Vraie famille…",
+    "en": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+    "de": "Die elfjährige Coraline zieht mit ihren Eltern in eine neue Wohnung in einer viktorianischen Villa in Oregon mit seltsamer Nachbarschaft. Dort wohnen etwa ein russischer Akrobat und sein Mäusezirkus sowie zwei ehemalige Erotikdarstellerinnen. Eines Tages entdeckt Coraline eine Geheimtür und gelangt in eine fantastischen Parallelwelt, in der sich ihre anderen Eltern liebevoll um sie kümmern. Anstelle der Augen haben sie schwarze Knöpfe. Der Traum wandelt sich zum Albtraum, als ihre andere Mutter ihr ebenfalls Knopfaugen verpassen will.",
+    "it": "Coraline ha undici anni e si è da poco trasferita con la sua famiglia in una nuova casa. Tutto è ancora da esplorare, ma i suoi genitori sono troppo occupati con il lavoro per dedicarsi a lei. La spediscono a giocare in giardino, le preparano al volo la cena quando è ora, la invitano a cavarsela da sola. È così che Coraline scopre una porticina che dà su un tunnel polveroso che porta ad un altro appartamento, in tutto simile al suo, dove vivono un'altra mamma e un altro papà, che altro non fanno che occuparsi di lei. Tutto è spettacolare e desiderabile, dall'altra parte del tunnel, se non fosse che le persone hanno strani bottoni cuciti al posto degli occhi.",
+    "es": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+    "sv": "Den uttråkade Coraline Jones hittar en hemlig dörr och upptäcker en ny, bättre version av sitt liv på andra sidan. Men hennes till synes perfekta värld visar sig vara det motsatta, och de alternativa föräldrarna - med hennes Andra mamma i spetsen - försöker fånga henne för all framtid. Nu måste Coraline använda både sin påhittighet, sin beslutsamhet och sitt mod för att lyckas ta sig hem och rädda sin familj."
+   },
+   "tagline": {
+    "fr": "Fais attention à ce que tu souhaites.",
+    "en": "Be careful what you wish for.",
+    "de": "Pass auf, was du dir wünschst.",
+    "it": "Fai attenzione a quello che desideri",
+    "es": "Cuidado con lo que deseas. Se puede cumplir.",
+    "sv": "Var försiktig med vad du önskar dig."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Fantastique",
+     "Horreur"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Fantasy",
+     "Horror"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Fantasy",
+     "Horror"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Fantasy",
+     "Horror"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Fantasía",
+     "Terror"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Fantasy",
+     "Skräck"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 9782,
+   "runtime": 101
   },
   {
    "id": 10191,
@@ -276,7 +898,63 @@
     "it": "/p1dNASbuCazeRyVCfKqgW4PNjV2.png",
     "es": "/kApyKGMzbhUybpdBZf2GUZJC4my.png",
     "sv": "/bJfqSgpCxSNwzOSaBd7DcV1gMHy.png"
-   }
+   },
+   "overview": {
+    "fr": "L’histoire d’Harold, jeune Viking peu à son aise dans sa tribu où combattre les dragons est le sport national. Sa vie va être bouleversée par sa rencontre avec un dragon qui va peu à peu amener Harold et les siens à voir le monde d’un point de vue totalement différent.",
+    "en": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+    "de": "Drachenzähmen leicht gemacht entführt seine Zuschauer auf eine faszinierende Wikinger-Insel, wo der Kampf gegen raffinierte Drachen zum Alltag gehört: Auf der kleinen Insel Berk, hoch oben im Norden, wird nicht lange gefackelt. Mordsstarke Wikinger müssen ihre Heimat vor wilden Drachen beschützen, die ihnen das Leben zur Hölle machen. Auch der schmächtige Teenager Hicks, Beiname „der Hüne“, ist Feuer und Flamme für die Drachenjagd – nur leider hat er im Umgang mit Waffen zwei linke Hände. Da sein Vater niemand Geringeres ist als Haudrauf „der Stoische“, Oberhaupt des Wikingerstammes und ein berühmter Drachenjäger, soll Hicks auf der Drachenschule nun auch die raue Kampfkunst der Wikinger erlernen. Doch ehe Hicks – der übrigens ein pfiffiger und begeisterter Tüftler ist – den gefürchteten Unterricht antreten kann, wird sein Dorf von einer wilden Drachen-Armada angegriffen.",
+    "it": "Hiccup è un giovane vichingo che vive in un villaggio sperduto nel nulla, in una landa fredda, inospitale, con poco da mangiare e soprattutto infestata dai draghi. Tuttavia i vichinghi invece che spostarsi preferiscono combattere, non a caso sono tutti grandi e grossi. Tutti tranne Hiccup, figlio del capo del villaggio, che è secco e inadatto al combattimento. Il ragazzo ha però una spiccata passione per la costruzione di macchinari con cui tenta di uccidere draghi e una conseguente inclinazione per la creazione di problemi...",
+    "es": "Ambientada en el mítico mundo de los rudos vikingos y los dragones salvajes, y basada en el libro infantil de Cressida Cowell, esta comedia de acción narra la historia de Hipo, un vikingo adolescente que no encaja exactamente en la antiquísima reputación de su tribu como cazadores de dragones. El mundo de Hipo se trastoca al encontrar a un dragón que le desafía a él y a sus compañeros vikingos, a ver el mundo desde un punto de vista totalmente diferente.",
+    "sv": "Hicke är en ung viking som trotsar traditionen när han blir vän med en av sina värsta fiender – en vildsint drake som han kallar Tandlöse. Tillsammans tvingas detta omaka par att kämpa mot alla odds för att rädda sina världar."
+   },
+   "tagline": {
+    "fr": "Une aventure changera deux mondes.",
+    "en": "What started as fire and fury will become friendship.",
+    "de": "Ein Abenteuer wird zwei Welten verändern",
+    "it": "Una avventura cambierà due mondi",
+    "es": "Una aventura cambiará dos mundos."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Aventure",
+     "Animation",
+     "Familial"
+    ],
+    "en": [
+     "Fantasy",
+     "Adventure",
+     "Animation",
+     "Family"
+    ],
+    "de": [
+     "Fantasy",
+     "Abenteuer",
+     "Animation",
+     "Familie"
+    ],
+    "it": [
+     "Fantasy",
+     "Avventura",
+     "Animazione",
+     "Famiglia"
+    ],
+    "es": [
+     "Fantasía",
+     "Aventura",
+     "Animación",
+     "Familia"
+    ],
+    "sv": [
+     "Fantasy",
+     "Äventyr",
+     "Animerat",
+     "Familj"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 14936,
+   "runtime": 98
   },
   {
    "id": 20352,
@@ -299,7 +977,69 @@
     "it": "/4JuPEVt3q7tMH9OF76m44zRDwqc.png",
     "es": "/cYAsvh3Ju1nEUH799ePguv7ltq.png",
     "sv": "/yPtnhbKZo276wvzhQ1cT0gtTYFV.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans un charmant quartier résidentiel délimité par des clôtures de bois blanc et orné de rosiers fleurissants se dresse une bâtisse noire entourée d’une pelouse en friche. Cette façade sinistre cache un secret : Gru, un méchant vilain, entouré d’une myriade de sous‐fifres et armé jusqu’aux dents, qui, à l’insu du voisinage, complote le plus gros casse de tous les temps : voler la lune (Oui, la lune !)… Gru affectionne toutes sortes de sales joujoux. Il possède une multitude de véhicules de combat aérien et terrestre et un arsenal de rayons immobilisants et rétrécissants avec lesquels il anéantit tous ceux qui osent lui barrer la route… jusqu’au jour où il tombe nez à nez avec trois petites orphelines qui voient en lui quelqu’un de tout à fait différent : un papa. Le plus grand vilain de tous les temps se retrouve confronté à sa plus dure épreuve : trois fillettes prénommées Margo, Édith et Agnès.",
+    "en": "Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as pawns in his scheme. But the unexpected bond they form forces him to question the criminal life he's always known.",
+    "de": "Der verschrobene Gru führt ein zurückgezogenes Leben – unscheinbar lebt er in einer kleinen Nachbarschaft irgendeines Vorortes. Aber was seine Nachbarn nicht wissen: Er plant das größte Verbrechen der Menschheitsgeschichte und will den Mond klauen. Auf dem Vormarsch mit technisch raffinierten Waffen und von der Polizei nicht zu stoppen, findet er aber dann doch – vielleicht – seine Bezwinger. Drei Waisenmädchen entdecken in ihm einen potentiellen Vater. Ist es nun mit seinem Verbrecherleben vorbei … oder stiehlt er doch noch den Mond?",
+    "it": "In un delizioso quartiere fuori città, tra rose e staccionate bianche, abita in una casa nera, su un prato desolato, il malvagio e oscuro super criminale Gru, intento a progettare, con l'aiuto di un piccolo esercito di schiavi, i Minion, il più grande colpo della storia del mondo: rubare la Luna! Armato di un arsenale di razzi che restringono o congelano le cose e di veicoli in grado di combattere via terra e via aria, Gru travolge e conquista tutto ciò che trova sulla sua strada. Ma tutto questo cambia il giorno in cui s'imbatte nella forte determinazione delle sue vicine, tre adorabili ragazzine orfane - Margo, Edith e Agnes - che gli daranno filo da torcere e che vedranno in lui qualcosa che nessun altro aveva mai visto prima: un potenziale papà!",
+    "es": "En una alegre urbanización con cuidados jardines rodeados por verjas de madera pintadas de blanco y llenos de rosales, sobresale una casa negra con el césped amarillento. Los vecinos ignoran que debajo de la vivienda hay un enorme escondite secreto. Allí está Gru, rodeado por un pequeño ejército de lacayos, planeando el mayor robo de toda la historia. ¡Va a hacerse con la luna!",
+    "sv": "Mitt i en idyllisk villaförort med välskötta trädgårdar och vita staket står ett hus som skiljer sig från mängden – en svart villa med en livlös gräsmatta. Här har Gru sitt hemliga gömställe, där han tillsammans med sina små gula Minioner planerar att TA ÖVER VÄRLDEN! Beväpnad med en arsenal av krympstrålar, fryspistoler och stridsklara farkoster för både land och luftrum är Gru van vid att besegra allt som kommer i hans väg. Men när tre små föräldralösa flickor dyker upp, och är fast beslutna att göra honom till deras pappa, är plötsligt hans rykte som SUPERSKURK i stor fara!"
+   },
+   "tagline": {
+    "fr": "Qui a peur du grand méchant Gru ?",
+    "en": "Superbad. Superdad.",
+    "de": "Ein Dieb wird lieb.",
+    "it": "Supercattivo. Superpapà",
+    "es": "Ser bueno está muy sobrevalorado."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Crime",
+     "Science-Fiction",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Crime",
+     "Science Fiction",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Krimi",
+     "Science Fiction",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Crime",
+     "Fantascienza",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Crimen",
+     "Ciencia ficción",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Kriminal",
+     "Science Fiction",
+     "Familj"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 16584,
+   "runtime": 95
   },
   {
    "id": 81188,
@@ -322,7 +1062,68 @@
     "it": "/bISn97Q5sY81uJp03UKn5PhnSvP.png",
     "es": "/7MzYKrGYTuglmtOCKhooNf7zNyx.png",
     "sv": "/5bBiIyFfOJyrzb8sxSfMpharAZG.png"
-   }
+   },
+   "overview": {
+    "fr": "Il existe dans le monde, dissimulés aux yeux des humains, quatre êtres surnaturels dotés de grands pouvoirs qui protègent l’innocence et l’imaginaire des enfants : le Père Noël, le Lapin de Pâques, la Fée des dents et le Marchand de sable. Lorsqu’ils découvrent que Pitch, un esprit maléfique, œuvre pour répandre ruine et destruction sur le monde, ils réalisent que même en unissant leurs forces, ils ne seront pas de taille. Aussi tentent‐ils de rallier à leur cause Jack Frost, un jeune garçon insouciant et solitaire qui maîtrise le givre et le froid. Ce combat va permettre à Jack de comprendre quelle est sa place dans l’ordre de l’univers…",
+    "en": "Generation after generation, immortal Guardians have protected the world's children from darkness and despair. But when the malicious boogeyman Pitch Black schemes to overthrow the Guardians by obliterating children’s innocent beliefs in them, the Guardians must join forces for the first time to protect the hopes and imagination of children all over the earth.",
+    "de": "Seit langer Zeit bewahren die Hüter des Lichts, Weihnachtsmann North, Osterhase Bunny, die Zahnfee und der Sandmann Glaube, Hoffnung und Träume aller Kinder. Dann beginnt ihr Gegenspieler, der bösartige Pitch einen wohldurchdachten Feldzug, pflanzt Alpträume in Kinderköpfe und gewinnt daraus unheimliche Macht. In größter Not wenden sich die Hüter an den spaßorientierten Einzelgänger Jack Frost, der noch gar nicht ahnt, mit was für magischen Kräften er dem Siegeszug von Pitchs finsteren Weltherrschaftsplänen Einhalt gebieten könnte.",
+    "it": "Babbo Natale, la Fatina dei denti, il Coniglio di Pasqua e Sandman proteggono i bambini di tutto il mondo, offrendo loro non solo i doni materiali ma anche la capacità di meravigliarsi, di fantasticare, di sperare, di sognare. Li ha scelti tanto tempo fa l'Uomo nella Luna, il saggio osservatore delle vicende terrestri. Accade, però, che ora l'Uomo Nero (Pitch, da \"pitch black\", buio pesto) sia deciso a scalzarli, seminando la paura nelle menti dei bambini e trasformando i loro sogni d'oro in incubi neri come la pece. Per tentare di fermarlo, l'Uomo nella Luna ha indicato alle quattro leggende l'aiuto di un quinto \"guardiano\": lo scanzonato e dispettoso Jack Frost. Tuttavia Jack non si crede all'altezza del compito: i bambini nemmeno lo vedono, non hanno mai creduto in lui. Per capire davvero chi può diventare, allora, Jack deve prima capire chi è stato e risalire ai suoi ricordi d'infanzia, quando era ancora un bambino normale.",
+    "es": "Una aventura épica y mágica que cuenta la historia de Santa Claus, el Conejo de Pascua, el Hada de los Dientes y Jack Escarcha; personajes legendarios con desconocidas habilidades extraordinarias. Cuando un espíritu maligno, conocido como Sombra, decide inundar de miedo los corazones de los niños, los Guardianes inmortales unen sus fuerzas para proteger los deseos, las creencias y la imaginación de los niños.",
+    "sv": "DreamWorks senaste animerade äventyr är en rolig och magisk berättelse om fem legendariska hjältar - Jack Frost, påskharen, tomten, tandfen och sandmannen - tillsammans för första gången! När den ondsinte Beck hotar att ta över världen är det upp till våra älskade hjältar att agera beskyddare för alla barns hopp och drömmar."
+   },
+   "tagline": {
+    "fr": "Découvrez un monde de légende…",
+    "en": "You better believe.",
+    "de": "Wenn die Dunkelheit kommt, werden die Hüter sich erheben.",
+    "es": "Es mejor creer"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Animation",
+     "Familial",
+     "Fantastique"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Animation",
+     "Family",
+     "Fantasy"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Animation",
+     "Familie",
+     "Fantasy"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Animazione",
+     "Famiglia",
+     "Fantasy"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Animación",
+     "Familia",
+     "Fantasía"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Animerat",
+     "Familj",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 7378,
+   "runtime": 97
   },
   {
    "id": 137106,
@@ -343,7 +1144,69 @@
     "en": "/2kTDt0uOb4xQzvw1h8ZRufoXNCX.png",
     "es": "/qZfk4HtK7hHuEzRTEPGKfHtrO5N.png",
     "sv": "/6xNhf3lRsGBUcxw0d3l3kFhnS19.png"
-   }
+   },
+   "overview": {
+    "fr": "Emmet travaille en tant qu'ouvrier sur un chantier. Un jour, il fait une chute qui le conduit dans un sas pour un monde parallèle. Depuis quelque temps, Lord Business sème la terreur dans cet univers où l'on croise des créatures étranges, de Zeus à Batman en passant par Wonderwoman. Selon une prophétie, un être venu d'ailleurs et doté de pouvoirs surhumains est censé venir sauver la population. Tout le monde pense qu'Emmet est cet élu, capable de mettre le tyran hors d'état de nuire. Sauf qu'Emmet n'a rien d'un héros. Il se retrouve dans l'embarras lorsqu'il s'agit de passer à l'action. Mais il peut compter sur l'aide de la jolie Tag-Cool ...",
+    "en": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+    "de": "Der gutmütige Emmet wird eines Tages von der abenteuerlustigen Wyldstyle entführt. Sie glaubt, in dem Normalo den von einer Prophezeiung angekündigten Meisterbauer gefunden zu haben. Unter der Führung des alten Mystikers Vitruvius soll Emmet gemeinsam mit Batman und Wyldstyle den skrupellosen Bösewicht Lord Business aufhalten. Der möchte mit Hilfe zahlloser finsterer Schergen das Universum zusammenkleben - und somit die LEGO-Welt zerstören. Obwohl Emmet darauf beharrt, dass er nicht der Auserwählte ist, glaubt insbesondere Wyldstyle an seine außergewöhnlichen Fähigkeiten. Ebenfalls mit von der heldenhaften Partie sind Pirat Eisenbart, Weltraumfahrer Benny und das liebreizende Einhorn Kitty.",
+    "it": "Emmet Brickowski è un cittadino felice di una ridente metropoli fatta di Lego di cui rispetta tutte le regole: segue la musica trasmessa dalla TV, è gentile con gli altri e si reca diligentemente al lavoro di costruzioni, esattamente come gli viene detto di fare dalle \"istruzioni\". Un giorno incontra una ragazza e, per errore, cade in una voragine nella quale entra in contatto con un pezzo speciale, oggetto del desiderio di una setta di ribelli di cui Emmet non conosceva l'esistenza. La sua vita viene così trasformata in quella di un avventuriero e, nonostante non ne abbia le qualità, l'aver ritrovato il pezzo speciale lo rende \"il prescelto\". Scopre così che il sindaco della sua città è in realtà un dittatore di diversi mondi (fantasy, west, spazio) dotato di un piano per cambiare l'universo come lo conoscono.",
+    "es": "Película basada en los clásicos juguetes LEGO. Emmet, el protagonista de la película, trabaja como constructor en la ciudad Lego, pero sus conocimientos de construcción no van más allá de colocar las fichas atendiendo pormenorizadamente las instrucciones de edificación. Sin embargo, sin saber cómo ni por qué, Emmet es confundido con un 'MasterBuilder' e introducido como cabecilla de una misión que tiene por objetivo evitar que un malvado acabe con la ciudad de bloques. Por suerte, los habitantes de tan atípico lugar no están solos. Los mismísimos Superman y Batman han tomado la forma de muñecos Lego para tomar parte de esta gran aventura.",
+    "sv": "Emmet är en högst vanlig minifigur som alltid följt alla regler. Hans liv förändras totalt när han plötsligt anses vara en ytterst extraordinär mästerbyggare som är utvald att rädda världen. Han slår följe med ett gäng främlingar och tillsammans ger de sig av på en episk och galen resa för att stoppa en ondskefull tyrann. Något som Emmet är hopplöst oförberedd på."
+   },
+   "tagline": {
+    "fr": "Leur destin est entre ses petites mains jaunes.",
+    "en": "The story of a nobody who saved everybody.",
+    "de": "Die Geschichte eines Niemands, der alle rettet.",
+    "it": "Il futuro del mondo è nelle sue piccole mani!",
+    "es": "La historia de alguien normal que llegó a ser especial."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Aventure",
+     "Comédie",
+     "Fantastique"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Adventure",
+     "Comedy",
+     "Fantasy"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Abenteuer",
+     "Komödie",
+     "Fantasy"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Avventura",
+     "Commedia",
+     "Fantasy"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Aventura",
+     "Comedia",
+     "Fantasía"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Äventyr",
+     "Komedi",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 8865,
+   "runtime": 100
   },
   {
    "id": 82702,
@@ -366,7 +1229,69 @@
     "it": "/8zBWtFh3saBMk3MUJjRat2MtlNQ.png",
     "es": "/9yFM0X9eZjN3Ughx80IhtEyT9Bu.png",
     "sv": "/GItCi9uXh5tqAxj3UlCencDPCr.png"
-   }
+   },
+   "overview": {
+    "fr": "Tandis qu’Astrid, Rustik et le reste de la bande se défient durant des courses sportives de dragons devenues populaires sur l’île, notre duo désormais inséparable parcourt les cieux, à la découverte de territoires inconnus et de nouveaux mondes. Au cours de l’une de leurs aventures, ils découvrent une grotte secrète qui abrite des centaines de dragons sauvages, dont le mystérieux Dragon Rider. Les deux amis se retrouvent alors au centre d’une lutte visant à maintenir la paix. Harold et Krokmou vont se battre pour défendre leurs valeurs et préserver le destin des hommes et des dragons.",
+    "en": "Five years after uniting the dragons and Vikings of Berk, Hiccup and Toothless soar beyond their homeland, charting the vast unknown. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons—and a mysterious dragon rider with a startling connection to Hiccup. And as the ruthless conqueror Drago Bludvist rises to seize control of both dragons and people alike, Hiccup must step into his role as a true leader and, alongside his friends and Toothless, protect Berk from a devastating war.",
+    "de": "Nachdem die Wikinger der Insel Berk lange Zeit Jagd auf die Drachen gemacht haben, hat sich einiges geändert: Menschen und Drachen haben sich angefreundet und das Drachenreiten ist ein beliebter Sport geworden. Nur Hicks, der den Wandel in Gang gebracht hat, erkundet mit seinem Drachen Ohnezahn lieber die Gegend. Eines Tages entdecken beide eine geheimnisvolle Eishöhle mit vielen neuen Drachenarten. Bald liegt es an ihnen, einen neuen Krieg zwischen Drachen und Menschen zu verhindern.",
+    "it": "Nel villaggio di Berk ormai i draghi vivono in totale armonia con gli esseri umani, li aiutano e sono integrati perfettamente in tutte le funzioni del villaggio che è ora diventato prospero grazie a questa amicizia. Nelle sue esplorazioni Hiccup però si imbatte in un gruppo di cacciatori di draghi, scoprendo che esiste un rinnegato che sta radunando un esercito di bestie al suo servizio. Informato della cosa, il villaggio decide di dichiarargli guerra ma Hiccup è determinato a parlargli per convincere anche lui della bontà dei draghi. Nel farlo si imbatterà in un mondo e persone che credeva perdute e che si uniranno a lui nel grande ed inevitabile scontro finale.",
+    "es": "Han pasado cinco años desde que Hipo empezó a entrenar a su dragón, rompiendo la tradición vikinga de cazarlos. Astrid y el resto de la pandilla han conseguido difundir en la isla un nuevo deporte: las carreras de dragones. Mientras realizan una carrera, atraviesan los cielos llegando a territorios inhóspitos, donde nadie antes ha estado. Durante un viaje descubren una cueva cubierta de hielo que resulta ser el refugio de cientos de dragones salvajes, a los que cuida un misterioso guardián. Hipo y los suyos se unen al guardián para proteger a los dragones de las fuerzas malignas que quieren acabar con ellos.",
+    "sv": "Hicke och Tandlöse är tillbaka i den andra spännande delen i trilogin om Draktränaren. De två är nu oskiljaktiga, och medan de andra i gänget utmanar varandra i den nya sporten draklopp, ger de sig ut på flygturer för att upptäcka nya världar istället. Under ett av sina äventyr hittar de en hemlig isgrotta där det bor hundratals vilda drakar och en mystisk drakryttare. De två vännerna befinner sig plötsligt mitt i en strid för att bevara freden. De inser att bara tillsammans är de starka nog att förändra framtiden för både människor och drakar."
+   },
+   "tagline": {
+    "fr": "Prenez votre envol !",
+    "en": "Training is over. The adventure begins.",
+    "de": "Das Training ist vorbei.",
+    "it": "Questa estate vola nell'avventura",
+    "es": "El entrenamiento ha terminado. La aventura comienza."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Action",
+     "Aventure",
+     "Animation",
+     "Familial"
+    ],
+    "en": [
+     "Fantasy",
+     "Action",
+     "Adventure",
+     "Animation",
+     "Family"
+    ],
+    "de": [
+     "Fantasy",
+     "Action",
+     "Abenteuer",
+     "Animation",
+     "Familie"
+    ],
+    "it": [
+     "Fantasy",
+     "Azione",
+     "Avventura",
+     "Animazione",
+     "Famiglia"
+    ],
+    "es": [
+     "Fantasía",
+     "Acción",
+     "Aventura",
+     "Animación",
+     "Familia"
+    ],
+    "sv": [
+     "Fantasy",
+     "Action",
+     "Äventyr",
+     "Animerat",
+     "Familj"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 10814,
+   "runtime": 103
   },
   {
    "id": 110416,
@@ -388,7 +1313,56 @@
     "de": "/jOCpuBoBviBYJfQBi3Xl6Om2Mg1.png",
     "it": "/xOHLsWU2TXmAuhuzsVv02lrUkZp.png",
     "es": "/exoFRUx9Ow3612CFpFaLxVfnBnW.png"
-   }
+   },
+   "overview": {
+    "fr": "Ben et Maïna vivent avec leur père tout en haut d'un phare sur une petite île. Pour les protéger des dangers de la mer, leur grand-mère les emmène vivre à la ville. Ben découvre alors que sa petite soeur est une selkie, une fée de la mer dont le chant peut délivrer les êtres magiques du sort que leur a jeté la Sorcière aux hiboux. Au cours d'un fantastique voyage, Ben et Maïna vont devoir affronter peurs et dangers,  et combattre la sorcière pour aider les êtres magiques à retrouver leur pouvoir.",
+    "en": "The story of the last Seal Child’s journey home. After their mother’s disappearance, Ben and Saoirse are sent to live with Granny in the city. When they resolve to return to their home by the sea, their journey becomes a race against time as they are drawn into a world Ben knows only from his mother’s folktales. But this is no bedtime story; these fairy folk have been in our world far too long. It soon becomes clear to Ben that Saoirse is the key to their survival.",
+    "de": "„Die Melodie des Meeres“ erzählt die Geschichte des zehnjährigen irischen Jungen Ben, der herausfindet, dass seine stumme Schwester Saoirse, die er für den vermeintlichen Tod seiner Mutter verantwortlich macht, eine Selkie ist, die Feenwesen von der keltischen Göttin Macha befreien muss.",
+    "it": "Saoirse è una bambina particolare, a 6 anni ancora non riesce a parlare e prova una strana e fortissima attrazione per il mare. Vive nella casa sul faro con il papà e il fratello maggiore Ben, spesso imbronciato e antipatico con la sorellina che ritiene responsabile della scomparsa dell'amata madre. La casa sul faro nasconde tanti segreti e oggetti magici, e quando Saoirse scopre due di questi, una conchiglia regalata dalla mamma a Ben per sentire il suono del mare e un vecchio mantello della madre, innesca un magnifico viaggio negli abissi marini tra foche e personaggi fantastici. Scopriamo così che Saoirse è una delle \"selkies\", creature magiche che vivono a metà tra terra e mare e che con il proprio canto possono risvegliare le vittime della strega Macha, private di emozioni e trasformate in pietra. Saoirse è la prescelta e con questo suo compito inizia un immaginifico cammino in cui Ben metterà in gioco la propria vita per salvare quella della sorellina.",
+    "es": "Ben y Saoirse son dos hermanos que viven en un faro de una isla junto a su padre que, para protegerlos de los peligros del mar, los envía con su abuela a la ciudad. Allí Ben descubre que su hermana pequeña es una Selkie, un hada del mar, una niña-foca que cantando puede liberar a los Seres Mágicos del sortilegio que les hizo la Bruja de los Búhos. Juntos emprenderán un viaje fantástico.",
+    "sv": "Här är berättelsen om Ben och hans lillasyster Saoirse och deras fantastiska resa fylld av myter och magi för att hitta tillbaka till sitt hem i havet. Saoirse är en selkie, en varelse som både är säl och människa. Hon har tappat sin röst och som den sista levande av sin art måste hon sjunga havets sång för att rädda sitt folk från att gå under för alltid."
+   },
+   "tagline": {
+    "fr": "Un véritable petit bijou de poésie.",
+    "en": "Let the song of the sea sway your heart...",
+    "de": "Lass die Melodie des Meeres dein Herz wiegen …",
+    "es": "Deja que el canto del mar mueva tu corazón..."
+   },
+   "genres": {
+    "fr": [
+     "Familial",
+     "Animation",
+     "Fantastique"
+    ],
+    "en": [
+     "Family",
+     "Animation",
+     "Fantasy"
+    ],
+    "de": [
+     "Familie",
+     "Animation",
+     "Fantasy"
+    ],
+    "it": [
+     "Famiglia",
+     "Animazione",
+     "Fantasy"
+    ],
+    "es": [
+     "Familia",
+     "Animación",
+     "Fantasía"
+    ],
+    "sv": [
+     "Familj",
+     "Animerat",
+     "Fantasy"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 1657,
+   "runtime": 94
   },
   {
    "id": 313297,
@@ -410,7 +1384,56 @@
     "it": "/Ac9X0xmCz98kRlSitZpzt7j6WkP.png",
     "es": "/frdebhj3FvHxvz2qeSUD4uevok7.png",
     "sv": "/fV8xyHurs134467MIZfa9VTjKg4.png"
-   }
+   },
+   "overview": {
+    "fr": "Sur les rives escarpées d’un Japon fantasmagorique, un jeune garçon nommé Kubo vit dans une grotte, en haut d’une falaise. S’il a l’air d’un vagabond dépenaillé, il est pourtant aussi attentionné qu’intelligent et vit une existence modeste de conteur de rue. Jour après jour, il régale des histoires les plus folles, les habitants de ce petit village de pêcheurs, en les illustrant de personnages en origami qui prennent littéralement vie au son de son Shamisen (un instrument musical magique). Hosato, Hashi et Kameyo, sont ses spectateurs les plus fidèles. Le soir, le jeune garçon rejoint sa mère qui semble sombrer dans une mystérieuse transe entre le lever et le coucher du soleil.",
+    "en": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+    "de": "Kubo ist als Sohn eines legendären Samurai Kriegers und einer Göttin mit magischen Kräften gesegnet. Doch er muss noch lernen, diese auch zu beherrschen. Bei dem Versuch, das Rätsel um seinen gefallenen Vater zu entwirren, beschwört er versehentlich den mächtigen Moon King, der voller Zorn auf die Erde hinabstürmt, um Rache zu üben. Plötzlich ist das gesamte Dorf in Gefahr und Kubo steht vor einer großen Herausforderung: Er muss Herr seiner Zauberkräfte werden und in die Rolle des Helden hineinwachsen, für die er geboren wurde.",
+    "it": "Kubo vive una vita normale e tranquilla in un piccolo villaggio costiero fino a quando uno spirito del passato sconvolge la sua esistenza riaccendendo una secolare faida. Ciò fa sì che ogni sorta di spiriti e di mostri dia la caccia a Kubo, che per sopravvivere deve individuare una magica armatura indossata una volta dal defunto padre, leggendario guerriero samurai.",
+    "es": "Kubo es un joven desaliñado y bondadoso que se gana la vida humildemente y cuida de su madre en una apacible aldea costera. Tiene una tranquila existencia hasta que un espíritu del pasado vuelve para llevar a cabo una vieja venganza. De repente, rodeado por dioses y monstruos, Kubo verá que su supervivencia pasa por encontrar la armadura mágica de su caído padre, el más grande samurai que el mundo ha conocido. Llenándose de coraje, Kubo se embarca en una emocionante odisea enfrentándose a su historia familiar, navegando entre los elementos y luchando valientemente por la Tierra y las estrellas.",
+    "sv": "Kubo trollbinder invånarna i sin hemby med sin fantastiska förmåga att skapa magiska berättelser med hjälp av origami. När han råkar framkalla en ond ande som är ute efter hämnd, tvingas Kubo ge sig iväg för att försöka lösa mysteriet kring sin döde samurajpappa och hans mystiska vapen, samtidigt som han upptäcker sina egna magiska krafter."
+   },
+   "tagline": {
+    "fr": "Une aventure épique. Trois héros inattendus.",
+    "en": "If you must blink, do it now!",
+    "de": "Unerschrocken. Mutig. Heldenhaft.",
+    "es": "Sé atrevido. Sé valiente. Sé especial."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Aventure",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Adventure",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Abenteuer",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Avventura",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Aventura",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Äventyr",
+     "Familj"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 4003,
+   "runtime": 103
   },
   {
    "id": 324849,
@@ -430,7 +1453,63 @@
     "fr": "/f0NtG8RM3gtulmZxXA6eO0WR0kD.png",
     "en": "/l1ly31zDxwiLMWWTcjyOyV93dRe.png",
     "es": "/gv8OgZN7nkuuYlvYkxP20qzmoH5.png"
-   }
+   },
+   "overview": {
+    "fr": "Il en rêvait depuis La Grande Aventure LEGO : Batman est enfin le héros de son propre film ! Mais la situation a bien changé à Gotham – et s'il veut sauver la ville des griffes du Joker, il lui faudra arrêter de jouer au justicier masqué et découvrir le travail d'équipe ! Peut-être pourra-t-il alors se décoincer un peu…",
+    "en": "A cooler-than-ever Batman must face the usual villains as the Joker plots a takeover of Gotham City. But when Bruce Wayne accidentally adopts a teenage orphan who wishes to become his sidekick, he’s forced to give up his lone-vigilante ways and learn to work with others.",
+    "de": "LEGO-Batman erlebt nach seinem ersten Leinwand-Auftritt in „The LEGO Movie“ nun ein Solo-Abenteuer, in dem es um die Frage geht: Kann Batman glücklich sein? Wir erfahren, dass Batman einst als Bruce Wayne ein Kind adoptierte – aus Versehen auf einer Wohltätigkeitsveranstaltung. Doch der Sohnemann, Dick Grayson alias Robin, nagt dem Heldenpapa mächtig an den Nerven: Im Gegensatz zu Batman ist er nämlich die ganze Zeit super-positiv drauf – und er will im Batmobil vorne sitzen, was natürlich gar nicht geht. Zumal Batman ohnehin schon genug Stress mit dem Joker hat. Der will dem Dunklen Ritter unbedingt beweisen, dass er der größte Bösewicht aller Zeiten ist.",
+    "it": "Durante una missione volta a impedire a Joker di distruggere Gotham City, Batman ferisce i sentimenti del suo arcinemico dicendogli che non è importante nella sua vita quanto Superman. Il giorno seguente, Batman partecipa al gala invernale della città per celebrare il pensionamento del commissario Gordon. Durante l'evento Barbara Gordon prende il posto del padre in qualità di commissario di polizia di Gotham e annuncia il suo piano per rinforzare il corpo di polizia cittadino in modo che non abbia più bisogno di Batman, cosa che fa infuriare il giustiziere. Joker e tutti i criminali di Gotham fanno irruzione alla festa solo per arrendersi a Batman. A causa di questo Batman realizza che presto non ci sarà più bisogno di lui. In seguito il maggiordomo Alfred rivela a Bruce che questi ha adottato l'orfano Dick Grayson e lo convince a prenderlo sotto la sua ala come Robin.",
+    "es": "Spin-off de \"La LEGO Película\", protagonizado por Batman. En esta ocasión, el irreverente Batman, que también tiene algo de artista frustrado, intentará salvar la ciudad de Gotham de un peligroso villano, el Joker. Pero no podrá hacerlo solo, y tendrá que aprender a trabajar con sus demás aliados.",
+    "sv": "Det är stora förändringar på gång i Gotham och om han vill rädda staden från att bli övertagen av Jokern måste han nog sluta med den ensamma-hjälten-grejen och lära sig att samarbeta. Och kanske, men bara kanske, kan han lära sig att slappna av lite ibland…"
+   },
+   "tagline": {
+    "fr": "Sois toujours toi-même. Sauf si tu peux être Batman.",
+    "en": "Always be yourself... unless you can be Batman.",
+    "de": "Sei immer du selbst. Außer du kannst Batman sein.",
+    "it": "Per costruire un eroe serve lavoro di squadra.",
+    "es": "Sé tú mismo. Salvo que puedas ser Batman."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Action",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Action",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Action",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Azione",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Acción",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Action",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 5670,
+   "runtime": 105
   },
   {
    "id": 364689,
@@ -450,7 +1529,62 @@
     "en": "/kpEm1tQm49inMh757sjvx0LVX6t.png",
     "es": "/wHhnBsVmMck5ESFB6XxOeNWEOn1.png",
     "sv": "/gT145X1tDqqxhQufSAZBKxPaqMQ.png"
-   }
+   },
+   "overview": {
+    "fr": "Ferdinand est un taureau géant au grand cœur. Victime de son imposante apparence, il se retrouve capturé et arraché à son village d'origine. Déterminé à retrouver sa famille, il se lance alors dans une incroyable aventure, accompagné d'une équipe déjantée !",
+    "en": "Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow. But one day five men come to choose the \"biggest, fastest, roughest bull\" for the bullfights in Madrid— and Ferdinand is mistakenly chosen.",
+    "de": "Bulle Ferdinand ist ein gemütlicher Typ und hat keine Lust, gegen blöde Matadoren in die Arena zu steigen. Viel lieber verbringt er Zeit mit seiner quirligen Ziegenfreundin Elvira und seiner jungen menschlichen Freundin Nina, die stets von ihrem Hund Paco begleitet wird. Oder Ferdinand schnuppert an Blumen und schlendert gemächlich über seine Weide. So führt der Stier ein glückliches Leben auf einem Bauernhof irgendwo in Spanien. Doch dann wird der sanftmütige Ferdinand von einer Biene gestochen, was ihn für einen Moment aus der Fassung bringt und dafür sorgt, dass ihn alle für ein gefährliches Tier halten. Kurzerhand wird er nach Madrid verfrachtet, wo er am Stierkampf teilnehmen soll. Wie kommt er aus dieser Nummer bloß wieder raus? Nun, zum Beispiel mit seinen Freunden!",
+    "it": "Ferdinand è un toro gigantesco ma dal buon cuore. Dopo essere stato scambiato per un animale pericoloso, viene catturato e separato dai suoi cari. Determinato a ritornare dalla sua famiglia, Ferdinand metterà insieme una squadra di disadattati che l'aiuterà a vivere la più grande avventura della sua vita.",
+    "es": "Ferdinand es un novillo muy tranquilo que prefiere sentarse bajo un árbol a oler las flores que saltar, resoplar y embestirse con otros toros. A medida que va creciendo y haciéndose fuerte, su temperamento no cambia y sigue siendo un toro manso. Un día, unos hombres vienen buscando al toro más grande, rápido y bravo... y Ferdinand es elegido equivocadamente para las corridas de toros de Madrid.",
+    "sv": "Den klassiska berättelsen om den stora tjuren med ett ännu större hjärta, som hellre luktar på blommor än stångas med de andra tjurarna. När Ferdinand en dag misstas för att vara farlig blir han bortförd för att delta vid tjurfäktningar. Fast besluten att återvända till sin familj samlar han ett udda gäng för ett fantastiskt äventyr som visar att man aldrig ska döma en tjur efter hans horn."
+   },
+   "tagline": {
+    "fr": "Destiné à se battre. Né pour aimer.",
+    "en": "Built to fight. Born to love.",
+    "it": "Toro scatenato, divertimento assicurato.",
+    "es": "Bravo por fuera, tierno por dentro."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Aventure",
+     "Comédie"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Adventure",
+     "Comedy"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Abenteuer",
+     "Komödie"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Avventura",
+     "Commedia"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Aventura",
+     "Comedia"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Äventyr",
+     "Komedi"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 3208,
+   "runtime": 108
   },
   {
    "id": 324857,
@@ -472,7 +1606,62 @@
     "de": "/8UtU22xcx9BXee95xh9p2GfQ7QS.png",
     "it": "/1hsYJDlnlvMhEWkK3mAQTYQ9Mws.png",
     "es": "/wBc4RJcRvvt8fMW27V346Kb7Wm9.png"
-   }
+   },
+   "overview": {
+    "fr": "Spider-Man : New Generation suit les aventures de Miles Morales, un adolescent afro-américain et portoricain qui vit à Brooklyn et s’efforce de s’intégrer dans son nouveau collège à Manhattan. Mais la vie de Miles se complique quand il se fait mordre par une araignée radioactive et se découvre des super-pouvoirs : il est désormais capable d’empoisonner ses adversaires, de se camoufler, de coller littéralement aux murs et aux plafonds ; son ouïe est démultipliée... Dans le même temps, le plus redoutable cerveau criminel de la ville, le Caïd, a mis au point un accélérateur de particules nucléaires capable d’ouvrir un portail sur d’autres univers. Son invention va provoquer l’arrivée de plusieurs autres versions de Spider-Man dans le monde de Miles, dont un Peter Parker plus âgé, Spider-Gwen, Spider-Man Noir, Spider-Cochon et Peni Parker, venue d’un dessin animé japonais.",
+    "en": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+    "de": "Miles Morales wurde von einer genetisch veränderten Spinne gebissen. Das macht ihn schnell zum neuen Spider-Man mit den bekannten Fähigkeiten. Aber Miles ist ein Teenager ohne Ahnung von der verantwortungsvollen Nutzung seiner eigenen Kräfte. Doch Hilfe naht, denn durch eine scheinbar zufällig auftretende Verkettung mehrerer Paralleluniversen trifft Miles auf Spider-Man aka Peter Parker und dieser unterweist ihn in den neuen Superkräften und überträgt ihm Verantwortung. Während beide einen Reifeprozess durchmachen, der eine als Schüler, der andere als Lehrer, treffen immer mehr Superhelden mit ähnlichen Kräften ein - ihre bösen Gegenspieler aber auch ...",
+    "it": "Miles Morales è un ragazzo afro-ispanico di New York che è appena entrato in una scuola relativamente esclusiva, dove però si sente fuori luogo. Qui infatti non conosce nessuno e suo padre, un poliziotto che detesta Spider-Man, non lo aiuta mettendolo in imbarazzo. Miles si rifugia dallo zio, che asseconda invece la sua passione da street artist, ma durante una escursione nei sotterranei di New York Miles viene morso da un ragno radioattivo. Il giorno dopo, sconvolto da sorprendenti poteri che somigliano a quelli di Spider-Man, torna a cercare il ragno e finisce per assistere a uno scontro tra l'eroe e vari villain, durante il quale un esperimento per aprire un varco dimensionale ha effetti imprevisti. Presto Miles scoprirà che non c'è un solo Uomo Ragno!",
+    "es": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk construye el 'Super Colisionador' trae a una versión alternativa de Peter Parker que tratará de enseñar a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  cuatro versiones alternativas buscan regresar a su universo antes de que toda la realidad se colapse.",
+    "sv": "Miles Morales är en 13-åring från Broooklyn och en Spider-Man olik alla andra vi någonsin sett tidigare. Han är en klipsk tonåring som gillar att hänga med sina vänner och vara som barn i den åldern är mest. Men vad hans vänner inte vet är att Miles också lär sig att omfamna ett helt nytt och oväntat liv som den helt nye Spider-Man! Med hjälp av några överraskande nya vänner lär Miles sig att hitta hjälten inom sig."
+   },
+   "tagline": {
+    "fr": "Découvrez un univers où ils sont plus d'un à porter le masque",
+    "en": "Enter a universe where more than one wears the mask.",
+    "it": "Piú di uno indossa la maschera",
+    "es": "Entra en un universo donde más de uno lleva la máscara."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Animation",
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Animation",
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Animazione",
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Animación",
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Animerat",
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 18271,
+   "runtime": 118
   },
   {
    "id": 166428,
@@ -495,7 +1684,56 @@
     "it": "/wFEDKCVl7N3L4tpuDdGceN1D7cc.png",
     "es": "/dnCCeM9t7cShxrbNmmSIw1S8LwR.png",
     "sv": "/b36xEXUNiPSMKZ5eTxzPBept9Wc.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans ce nouveau chapitre, Harold et Krokmou vont enfin découvrir leurs véritables destinées : être le chef de Berk au côté d’Astrid et, en tant que dragon, être le leader de son espèce. Alors qu’ils réalisent leurs rêves de vivre en paix entre Vikings et dragons, une sombre menace planant sur le village et l’apparition d’une femelle Fury Nocturne vont mettre à mal leurs liens d’amitié comme jamais auparavant.",
+    "en": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+    "de": "Hicks hat als Häuptling von Berk seinen langgehegten Traum wahrgemacht und eine Welt geschaffen, in der Drachen und Menschen friedlich zusammenleben können. Auch Hicks bester Freund, der Nachtschatten Ohnezahn, fühlt sich in dieser Welt wohl – bis er eines Tages einem ungezähmten und eigensinnigen Drachenweibchen begegnet, das ihm völlig den Kopf verdreht. Das Weibchen sieht aus wie Ohnezahn, nur dass es weiß ist und somit wohl ein Tagschatten sein muss. Während der Flirt der beiden Drachen die Freundschaft von Hicks und Ohnezahn gehörig auf die Probe stellt, bahnt sich ein noch viel schwerwiegenderes Problem an: Der fiese Drachenjäger Grimmel bedroht das Dorf und seine tierischen und menschlichen Bewohner. Nun müssen sich die Drachenreiter und ihre geflügelten Freunde nach einem neuen Ort umsehen, an dem sie leben können – und sie beginnen mit der gefahrvollen Suche nach der sagenumwobenen „verborgenen Welt“, in der sie alle Frieden finden könnten.",
+    "it": "Hiccup ha preso il posto del padre Stoyck come leader di Berk, nonostante del leader debba ancora trovare la stoffa, mentre Sdentato è il nuovo Alfa, il drago da cui tutti gli altri draghi si lasciano guidare. Uomini e draghi convivono, dunque, felicemente e scomodamente, ma l'utopia ha i giorni contati: Grimmel il Grifagno, assetato killer di Furie Buie, è sulle tracce di Sdentato e ha stretto un patto con i nemici di Hiccup promettendo loro di riportare in gabbia ogni drago in libertà. Non resta che partire, lasciare la propria terra, alla ricerca di quel mondo nascosto di cui vaneggiava Stoyck, per scoprire se si tratti davvero del paradiso dei draghi o soltanto di una leggenda da marinai.",
+    "es": "Lo que comenzó como la inesperada amistad entre un joven vikingo y un temible dragón, Furia Nocturna,  se ha convertido en una épica trilogía que ha recorrido sus vidas. En esta nueva entrega, Hipo y Desdentao descubrirán finalmente su verdadero destino: para uno, gobernar Isla Mema junto a Astrid; para el otro, ser el líder de su especie. Pero, por el camino, deberán poner a prueba los lazos que los unen, plantando cara a la mayor amenaza que jamás haya afrontado... y a la aparición de una Furia Nocturna hembra.",
+    "sv": "Det som började som en osannolik vänskap mellan en tonårig viking och en fantastisk Nattfasa-drake har vuxit till en episk trilogi som spänner över hela deras liv. I nästa kapitel kommer Hicke och Tandlöse äntligen att upptäcka sina sanna öden; Hicke som byn Berks ledare, tillsammans med Astrid, och Tandlöse som drakledare för alla Nattfasor. Deras vänskap prövas hårdare än någonsin tidigare, när de möter både det mörkaste hot de någonsin bekämpat och en kvinnlig Nattfasa."
+   },
+   "tagline": {
+    "fr": "Une amitié légendaire.",
+    "en": "Fly on your own. Find your way home.",
+    "de": "Fliegen Sie alleine. Finden Sie Ihren Weg nach Hause.",
+    "es": "Una amistad eterna."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Aventure"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Adventure"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Abenteuer"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Avventura"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Aventura"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 7378,
+   "runtime": 105
   },
   {
    "id": 431580,
@@ -518,7 +1756,69 @@
     "it": "/4mbAk5SDbiAeVwV0TGid7gO6uYd.png",
     "es": "/7pwQeaKRDaA3zr58a4eKpv9mI4s.png",
     "sv": "/4VVKJoZEV0UuucZTLqZDnSGwPUZ.png"
-   }
+   },
+   "overview": {
+    "fr": "Tout commence sur le toit d’un immeuble à Shanghai, avec l’improbable rencontre d’une jeune adolescente, l’intrépide Yi avec un jeune Yeti. La jeune fille et ses amis Jin et Peng vont tenter de ramener chez lui celui qu’ils appellent désormais Everest, leur nouvel et étrange ami, afin qu’il puisse retrouver sa famille sur le toit du monde…",
+    "en": "A group of misfits encounter a young Yeti named Everest, and they set off to reunite the magical creature with his family on the mountain of his namesake.",
+    "de": "Ein kleiner Yeti ist einem Versuchslabor in Shanghai entkommen und sucht Zuflucht auf den Dächern der Millionenstadt. Dort begegnet er ausgerechnet dem neugierigen Teenager-Mädchen Yi und ihren Freunden Jin und Peng. Schnell wird klar, dass das Trio den kleinen Yeti, den sie kurzerhand auf den Namen \"Everest\" taufen, nur vor dem finsteren Laborleiter Burnish und der Zoologin Dr. Zara retten können, wenn sie ihn zurück in seine Heimat bringen. Gemeinsam begeben sich die Freunde auf eine faszinierende Reise durch sagenhafte Landschaften, wunderliche Ereignisse und magische Momente, um Everest am höchsten Punkt der Erde wieder mit seiner Familie zu vereinen.",
+    "it": "Quando l'adolescente Yi incontra un giovane Yeti sul tetto del suo palazzo a Shanghai, che insieme ai suoi amici birichini Jin e Peng soprannominano \"Everest”, decidono di intraprendere una ricerca epica con l’obiettivo di ricongiungere la creatura magica con la sua famiglia nel punto più alto della Terra. Ma i tre amici dovranno stare un passo avanti a Burnish, un uomo facoltoso intenzionato a catturare uno Yeti, e dalla dottoressa Zara, una zoologa, per aiutare Everest a tornare a casa.",
+    "es": "Yi es una adolescente más en la enorme ciudad de Shanghai. Un día, se encuentra a un joven yeti en la azotea de su edificio. La supuestamente “abominable” criatura, que se ha escapado del laboratorio donde estaba encerrado, está siendo buscada por toda la ciudad. Junto con sus ingeniosos amigos Jin y Peng, Yi decide ayudarle a huir, le bautizan como “Everest” y los cuatro se embarcan en una épica aventura para reunir a la mítica criatura con su familia en el pico más alto del mundo.",
+    "sv": "När tonåringen Yi stöter på en ung yeti på taket av sin lägenhetsbyggnad i Shanghai, ger hon och hennes busiga vänner Jin och Peng honom namnet Everest och påbörjar en episk resa för att återförena den magiska varelsen med sin familj på jordens högsta punkt. Men för att kunna hjälpa Everest att ta sig hem måste de hela tiden ligga steget före Burnish, en rik man som vill fånga en yeti, och zoologen Zara."
+   },
+   "tagline": {
+    "fr": "Trouver sa place peut être une aventure extraordinaire.",
+    "en": "Find your way home.",
+    "de": "Finde deinen Weg nach Hause.",
+    "it": "Ritrova la strada di casa",
+    "es": "Encuentra tu camino a casa"
+   },
+   "genres": {
+    "fr": [
+     "Familial",
+     "Animation",
+     "Aventure",
+     "Comédie",
+     "Fantastique"
+    ],
+    "en": [
+     "Family",
+     "Animation",
+     "Adventure",
+     "Comedy",
+     "Fantasy"
+    ],
+    "de": [
+     "Familie",
+     "Animation",
+     "Abenteuer",
+     "Komödie",
+     "Fantasy"
+    ],
+    "it": [
+     "Famiglia",
+     "Animazione",
+     "Avventura",
+     "Commedia",
+     "Fantasy"
+    ],
+    "es": [
+     "Familia",
+     "Animación",
+     "Aventura",
+     "Comedia",
+     "Fantasía"
+    ],
+    "sv": [
+     "Familj",
+     "Animerat",
+     "Äventyr",
+     "Komedi",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 2268,
+   "runtime": 98
   },
   {
    "id": 431693,
@@ -540,7 +1840,68 @@
     "de": "/7LUaci7JDzu0tvUaufdkefmXtc1.png",
     "it": "/aastTtnXnQiwjnCkWgkXblUmsLy.png",
     "es": "/5lPZVzxJijhRGvOPUE9elpS9Zw0.png"
-   }
+   },
+   "overview": {
+    "fr": "Le super espion Lance Sterling et le scientifique Walter Beckett ont des personnalités radicalement opposées. Lance est relax, cool et il a du style. Walter est… tout l'inverse. Certes, il n'est pas très à l'aise en société mais son intelligence et son génie créatif lui permettent d'imaginer les gadgets impressionnants que Lance utilise sur le terrain. Alors qu'une mission tourne mal, Walter et Lance vont devoir unir leurs forces. Si ce duo excentrique ne parvient pas à s'entraider, le monde est en danger !",
+    "en": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is… not. But what Walter lacks in social skills he makes up for in smarts and invention, creating the awesome gadgets Lance uses on his epic missions. But when events take an unexpected turn, Walter and Lance suddenly have to rely on each other in a whole new way.",
+    "de": "Superspion Lance Sterling und Wissenschaftler Walter Beckett müssen sich zusammenraufen, um die Welt zu retten, als sich Lance versehentlich und unwiderruflich in das mutigste, wildeste und prächtigste Wesen auf der Erde verwandelt... eine Taube!",
+    "it": "La super spia Lance Sterling e lo scienziato Walter Beckett sono quasi agli antipodi. Tanto il primo è disinvolto e affascinante, tanto il secondo è intelligente e arguto, doti che gli permettono di mettere a punto gli strepitosi gadget che il primo usa nelle sue epiche missioni. Quando gli eventi prendono una svolta inaspettata, i due devono fare affidamento l'uno sull'altro in maniera del tutto inedita per loro.",
+    "es": "Puede decirse que el superespía Lance Sterling y el científico Walter Beckett no tienen nada que ver entre sí: Lance es relajado, educado y caballeroso. Walter lo opuesto. Lo que le falta a Walter de habilidades sociales lo compensa con una dosis extra de ingenio e inventiva, con los que crea fascinantes artilugios que Lance usa en sus épicas misiones. Pero cuando los acontecimientos sorprenden con un giro inesperado, Walter y Lance tendrán que confiar el uno en el otro… Y todo el mundo estará en peligro.",
+    "sv": "Superspionen Lance Sterling och vetenskapsmannen Walter Beckett är varandras raka motsatser. Lance är charmig och smidig. Walter är… det inte. Men vad Walter saknar i sociala färdigheter väger han upp med smarta uppfinningar som Lance använder under sina episka uppdrag. En oväntat vändning gör dock att Walter och Lance tvingas förlita sig på varandra på ett helt nytt sätt. Om det udda paret inte kan lära sig att samarbeta är hela världen i fara."
+   },
+   "tagline": {
+    "fr": "De super espion à super pigeon.",
+    "en": "Super spy. Super fly.",
+    "de": "Wenn dieses seltsame Pärchen nicht lernt als Team zu arbeiten, ist die gesamte Welt in Gefahr...",
+    "it": "La missione da prendere al volo."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Action",
+     "Aventure",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Action",
+     "Adventure",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Action",
+     "Abenteuer",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Azione",
+     "Avventura",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Acción",
+     "Aventura",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Action",
+     "Äventyr",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 3085,
+   "runtime": 102
   },
   {
    "id": 441130,
@@ -561,7 +1922,63 @@
     "en": "/7t3DeQf1boeuog3dqqVULQSJJ8C.png",
     "it": "/AsAyFJBf3MmbafleX1TPk6fHFe6.png",
     "es": "/1XjM98TpYMaSTIx74ufyVSokHAL.png"
-   }
+   },
+   "overview": {
+    "fr": "Apprentie chasseuse, Robyn se rend en Irlande avec son père pour exterminer la dernière meute de loups. Pourtant, sa vie va changer lorsqu’elle se lie d’amitié avec une jeune fille intrépide dont on dit que la tribu se change en loups la nuit tombée.",
+    "en": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
+    "de": "Die junge Robyn reist mit ihrem Vater nach Irland, um dort das letzte Wolfsrudel zu vertreiben. Als sie die freigeistige Mebh kennenlernt, deren geheimnisvoller Stamm sich Erzählungen zufolge nachts in Wölfe verwandelt, ändert sich alles.",
+    "it": "Un’apprendista cacciatrice si reca in Irlanda con suo padre per eliminare gli ultimi, temuti, esemplari di lupo. Ma tutto cambia quando fa amicizia con un’altra giovane, uno spirito libero di una misteriosa tribù che di notte, si dice, si trasforma in lupo.",
+    "es": "La joven Robyn viaja a Irlanda con su padre para participar en una cacería de lobos. Todo se complica cuando conoce a Mebh, una niña misteriosa que vive en el bosque y de la que dicen que por las noches, junto a su tribu nómada, se transforma en lobo.",
+    "sv": "En ung jägare och hennes far beger sig till Irland för att hjälpa till att slå ut den sista vargflocken. Men allt förändras när hon träffar en flicka från en mystisk folkstam som enligt myten förvandlas till vargar på natten."
+   },
+   "tagline": {
+    "fr": "Sois féroce. Sois sauvage. Sois libre !",
+    "en": "Be fierce. Be wild. Be free.",
+    "it": "Intrepide. Selvagge. Libere.",
+    "es": "Espíritu de lobo",
+    "sv": "Var stark. Var vild. Var fri."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Aventure",
+     "Fantastique"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Adventure",
+     "Fantasy"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Abenteuer",
+     "Fantasy"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Avventura",
+     "Fantasy"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Aventura",
+     "Fantasía"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Äventyr",
+     "Fantasy"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 1493,
+   "runtime": 103
   },
   {
    "id": 529203,
@@ -584,7 +2001,70 @@
     "it": "/akyZB6Cp80o2m5BgrzOkTlXq0Ok.png",
     "es": "/qqXQfpe27jYM8h7SmvLk3qWvcJ7.png",
     "sv": "/k4pLfi52ElN9N9XRDIamjJ5ibQa.png"
-   }
+   },
+   "overview": {
+    "fr": "Les Croods ont survécu à leur part de dangers et de catastrophes mais ils vont maintenant devoir relever leur plus grand défi : rencontrer une autre famille. Les Croods ont besoin d’un nouvel endroit où habiter. La famille préhistorique part alors en quête d’un endroit plus sûr. Quand ils découvrent un paradis idyllique entouré de murs, ils pensent que tous leurs problèmes sont résolus… Mais une famille y vit déjà : les Bettermans. Avec leur cabane dans les arbres, leurs inventions étonnantes et leurs hectares irrigués de produits frais, Les Bettermans sont bien au‐dessus des Croods sur l’échelle de l’évolution. Ils accueillent les Croods avec joie, mais les tensions ne tardent pas à s’intensifier entre la famille des grottes et la famille moderne. Mais une nouvelle menace va propulser les deux familles dans une aventure épique hors des murs, ce qui les obligera à accepter leurs différences et à se servir des forces des uns et des autres.",
+    "en": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+    "de": "Nachdem sie ihre Höhle verlassen haben, treffen die Croods auf ihre größte Bedrohung seit ihrem Weggang: eine andere Familie, die Bessermanns, die behaupten, besser zu sein und sich weiterzuentwickeln. Aber nachdem Eep und die einzige Tochter der Bessermanns ausreißen, müssen die beiden Familien ihre Differenzen beiseite legen, um sie zu retten.",
+    "it": "Dopo essere sopravvissuti a disastri e pericoli di ogni genere, in questo nuovo film la famiglia Croods si trova di fronte a una nuova sfida, la più grande che abbia mai affrontato: un’altra famiglia. Quando, infatti, i Croods trovano un nuovo posto da chiamare casa, il luogo è già abitato da un’altra famiglia che, con la sua casa sull’albero, i prodotti freschi e le invenzioni sorprendenti sembra essere più evoluta della loro.  Le tensioni tra le due famiglie diventano presto sempre più intense, ma una nuova minaccia permetterà loro di superare le diversità e di creare insieme un nuovo futuro, dandosi forza l’un l’altro.",
+    "es": "Después de salir de su cueva, los Croods se encuentran con su mayor amenaza desde que se fueron: otra familia llamada Betterman, quienes afirman y demuestran ser mejores y evolucionados. Grug empieza a sospechar de los padres de Betterman, Phil y Hope, ya que planean en secreto separar a su hija Eep con su amado novio Guy para asegurarse de que su hija Dawn tenga un compañero amoroso e inteligente que la proteja.",
+    "sv": "Croodarna har överlevt mängder av faror och katastrofer, från livsfarliga förhistoriska odjur till att se sin dotter bli vanvettigt förälskad i en ny pojkvän. Men nu står de inför något som verkligen kommer att skaka om deras flock ordentligt och få dem att omvärdera allt de hittills trott om världen: en annan familj."
+   },
+   "tagline": {
+    "fr": "Un jour de survie comme un autre.",
+    "en": "The future ain't what it used to be.",
+    "de": "Höhle war gestern",
+    "it": "Il futuro non è più quello di una volta",
+    "es": "El futuro no es lo que solía ser.",
+    "sv": "Framtiden är inte vad den brukade vara"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Aventure",
+     "Fantastique",
+     "Comédie"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Adventure",
+     "Fantasy",
+     "Comedy"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Abenteuer",
+     "Fantasy",
+     "Komödie"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Avventura",
+     "Fantasy",
+     "Commedia"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Aventura",
+     "Fantasía",
+     "Comedia"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Äventyr",
+     "Fantasy",
+     "Komedi"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 4281,
+   "runtime": 96
   },
   {
    "id": 550205,
@@ -606,7 +2086,73 @@
     "de": "/oC1Lwk6qgsD7NJb95WeMcEaTdkx.png",
     "it": "/w8TmMZN9RAWJyj5ZChWGlx4F0bb.png",
     "sv": "/vYgKzfPG7WyDBzWBJVZLCSpQy3.png"
-   }
+   },
+   "overview": {
+    "fr": "Din, un étudiant ambitieux mais sans le sou, et Long, un dragon cynique mais tout-puissant capable d'exaucer des vœux, se lancent dans une aventure délirante à travers le Shanghai d'aujourd'hui à la recherche de Lina, une amie d'enfance que Din n'a pas revue depuis longtemps. Leur périple les conduira à se poser certaines questions existentielles, car si l'on peut obtenir tout ce que l'on souhaite, il faut alors déterminer ce qui compte réellement.",
+    "en": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+    "de": "Din stammt aus einer Arbeiterfamilie und studiert am College. Für die Erfüllung seiner zahlreichen Träume hat er weder Zeit noch Geld, bis er eines Tages auf Long trifft, einen ebenso mächtigen wie zynischen Drachen, der Wünsche erfüllen kann. Für Din scheint die Begegnung ein wahrer Glücksfall zu sein: Er möchte die Fähigkeiten von Long dafür einsetzen, seine Jugendfreundin Li Na zu suchen, die seit langer Zeit verschollen ist. Gemeinsam begeben sie sich auf eine abenteuerliche Suche, die für den Jungen zu einer unvergesslichen Erfahrung werden soll. In den belebten Straßen von Shanghai müssen Din und Long nicht nur spannende Abenteuer bestehen, sondern auch einige der größten Rätsel des Lebens lösen – etwa die Frage, was im Leben wirklich zählt...",
+    "it": "Il giovane Din è determinato a voler ristabilire i contatti con la sua migliore amica d'infanzia quando un drago che esaudisce i desideri gli offre possibilità magiche.",
+    "es": "Din es un adolescente que ansía volver a ver a su mejor amiga de la infancia. Un dragón que concede deseos le mostrará la magia de las posibilidades.",
+    "sv": "Din är en viljestark tonåring som vill återförenas med sin bästa vän från barndomen. Då träffar han en magisk önskedrake som visar honom livets möjligheter."
+   },
+   "tagline": {
+    "fr": "Un génie, trois vœux, une aventure extraordinaire.",
+    "en": "Three magical wishes. One life changing adventure.",
+    "es": "Un genio, tres deseos y una aventura mágica."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Comédie",
+     "Fantastique",
+     "Romance",
+     "Aventure"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Comedy",
+     "Fantasy",
+     "Romance",
+     "Adventure"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Komödie",
+     "Fantasy",
+     "Liebesfilm",
+     "Abenteuer"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Commedia",
+     "Fantasy",
+     "Romance",
+     "Avventura"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Comedia",
+     "Fantasía",
+     "Romance",
+     "Aventura"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Komedi",
+     "Fantasy",
+     "Romantik",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 1586,
+   "runtime": 99
   },
   {
    "id": 501929,
@@ -628,7 +2174,56 @@
     "de": "/uvieDa6HoaGgjgRtZNd7twOLRo0.png",
     "es": "/actGFu0UUNvD55nW1fLZRD2d4ny.png",
     "sv": "/D5bqD40enZrqH1NYUHDEvP1fvB.png"
-   }
+   },
+   "overview": {
+    "fr": "Katie Mitchell et sa famille, accompagnés de leur chien adoré, partent en road-trip dans la nature avant que la jeune fille ne commence son année scolaire dans l'école de ses rêves. Le projet prend rapidement une autre tournure lorsque tous les appareils électroniques du monde entier se rebellent et décident de prendre le contrôle. Avec l'aide de deux robots dysfonctionnels, la famille Mitchell unit ses forces afin de sauver la planète.",
+    "en": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+    "de": "Es gibt tolle Neuigkeiten für Katie Mitchell, denn die angehende Studentin wurde an der Filmschule angenommen. Ihre Eltern, stornieren kurzerhand ihren geplanten Flug, um sie selbst zur Uni zu bringen. Doch was als chaotischer Familientrip mit Bruder Aaron und Familien-Mops Monchi beginnt, gipfelt schon bald in einem unerbittlichen Kampf gegen eine Armee von Robotern.",
+    "it": "Un'apocalisse robotica ha interrotto il viaggio dei Mitchell attraverso il paese. Ora tocca alla famiglia più stramba del mondo salvare il genere umano.",
+    "es": "Cuando Katie es aceptada en la escuela de cine de sus sueños, su familia entera decide acompañarla. Su viaje es interrumpido por una revolución tecnológica.",
+    "sv": "Kate Mitchell är lite av en kreativ ensamvarg. När hon blir antagen till skolan hon alltid drömt om vill hon direkt flyga dit. Men hennes pappa, Rick, får en bättre idé. Han vill samla hela familjen en sista gång och tillsammans skjutsa Katie till skolan. Hennes sprudlande mamma Linda, deras knubbiga hund Monchi och hennes spralliga lillebror Aaron ska också följa med."
+   },
+   "tagline": {
+    "fr": "Le sort du monde dépendra d'une seule famille.",
+    "en": "Saving the world can be a trip.",
+    "de": "Die Rettung der Welt kann ein Trip sein.",
+    "it": "Salvare il mondo può essere un viaggio."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Aventure",
+     "Comédie"
+    ],
+    "en": [
+     "Animation",
+     "Adventure",
+     "Comedy"
+    ],
+    "de": [
+     "Animation",
+     "Abenteuer",
+     "Komödie"
+    ],
+    "it": [
+     "Animazione",
+     "Avventura",
+     "Commedia"
+    ],
+    "es": [
+     "Animación",
+     "Aventura",
+     "Comedia"
+    ],
+    "sv": [
+     "Animerat",
+     "Äventyr",
+     "Komedi"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 3587,
+   "runtime": 110
   },
   {
    "id": 438695,
@@ -649,7 +2244,64 @@
     "en": "/mJOSpa211NCNxBKKn7UzZDJsSBP.png",
     "de": "/jb9gJYVtWrWI6cCvGMGjUN5IgR4.png",
     "es": "/woGQe4Hd3XQMrevHr1rYM1TmdDL.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans le nouveau théâtre Moon, la troupe interprète sa version musicale d'Alice au pays des merveilles. Buster Moon tient à avoir l'avis de Suki Lane. Elle est celle qui décide quels talents peuvent auditionner devant Jimmy Crystal, grand producteur de spectacles à Redshore City. Pour elle, le niveau n'est pas suffisant et l'insistance de Buster Moon n'y fait rien.Remotivé par Nana Noodleman, le koala rassemble ses artistes et part infiltrer les auditions.",
+    "en": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+    "de": "Buster und seine neue Besetzung haben sich jetzt vorgenommen, eine neue Show im Crystal Tower Theater im glamourösen Redshore City zu debütieren. Aber ohne Verbindungen müssen er und seine Sänger sich in die Büros von Crystal Entertainment schleichen, die vom skrupellosen Wolfsmogul Jimmy Crystal betrieben werden, wo die Gang die lächerliche Idee entwickelt, die Löwenrock-Legende Clay Calloway in ihrer Show zu besetzen.",
+    "it": "Buster e il suo cast hanno trasformato il New Moon Theater in un successo locale, ma Buster ha messo gli occhi su un premio più grande: Debuttare con un nuovo spettacolo al Crystal Tower Theater nell’affascinante Redshore City. Ma senza conoscenze, Buster e i suoi devono intrufolarsi negli uffici di fama mondiale Crystal Entertainment, gestiti da un lupo magnate e spietato di nome Jimmy Crystal. In un disperato tentativo di ottenere l’attenzione di Mr. Crystal, Gunter lancia spontaneamente un’idea che Buster accetta con facilità, promettendo che nel loro nuovo spettacolo ci sarà la leggenda del leone rock Clay Calloway. Il problema è che Buster non ha mai incontrato Clay, artista che si è allontanato dal mondo più di dieci anni fa e dopo la perdita di sua moglie. Mentre Gunter aiuta Buster a sognare un capolavoro teatrale, e la pressione (e le minacce sinistre) di Mr. Crystal Mount, Buster intraprende una ricerca per trovare Clay e convincerlo a tornare sul palco.",
+    "es": "Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espectáculo.",
+    "sv": "Buster har gjort New Moon Theatre till en lokal hit, men han har ett större mål i sikte: att sätta upp en ny show på Crystal Tower Theatre i glamorösa Redshore City. Utan de rätta kontakterna måste Buster och hans artister ändå på något sätt ta sig in på världsberömda Crystal Entertainment, som drivs av den hänsynslöse mogulvargen Jimmy Crystal. I ett desperat försök att få Crystals uppmärksamhet presenterar de en vansinnig idé och lovar att lejonrocklegenden Clay Calloway kommer att vara med i deras nya show. Problemet är bara att Clay drog sig tillbaka från världen för mer än ett decennium sedan och inte har setts till sedan dess. I ett desperat försök att rädda showen ger sig Buster och hans vänner ut på jakt efter Clay för att försöka övertala honom att återvända till scenen."
+   },
+   "tagline": {
+    "fr": "Jusqu'où vos rêves vous mèneront-ils ?",
+    "en": "Where will your dreams take you?",
+    "de": "Wohin werden dich deine Träume führen?",
+    "it": "È il tuo momento",
+    "es": "¿Adónde te llevarán tus sueños?",
+    "sv": "Vart kommer dina drömmar att ta dig?"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Familial",
+     "Musique"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Family",
+     "Music"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Familie",
+     "Musik"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Famiglia",
+     "Musica"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Familia",
+     "Música"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Familj",
+     "Music"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 4978,
+   "runtime": 110
   },
   {
    "id": 629542,
@@ -672,7 +2324,76 @@
     "it": "/mCpx6sOFjKq9dp5sVKkfGEWFdI.png",
     "es": "/4DcFM0WmiSPJpzxlMgQc96Y9Vlu.png",
     "sv": "/7FO6qh7eCdOb0AoslK1bDHnv6oB.png"
-   }
+   },
+   "overview": {
+    "fr": "Après toute une vie de braquages légendaires, les criminels notoires M. Loup, M. Serpent, M. Piranha, M. Requin et Mme Tarantule sont enfin capturés. Pour éviter une peine de prison, les animaux hors-la-loi doivent réussir leur plus grande arnaque : devenir des citoyens modèles. Sous la tutelle de leur mentor, le professeur Marmelade, la bande entreprend de faire croire au monde qu'elle est en train de devenir honnête.",
+    "en": "When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+    "de": "Mastermind Mr. Wolf, Safeknacker Mr. Snake, Mr. Shark, der Meister der Verwandlung, Mr. Piranha, der Mann fürs Grobe, und die geniale Hackerin Ms. Tarantula sind die „Gangster Gang“, die meistgesuchten Verbrecher von allen. Als die fünf Bösewichte nach einem spektakulären Raub gefasst werden, geloben sie inständig Besserung, um dem Gefängnis zu entgehen, und merken bald, dass Gutes tun gar nicht so schlecht ist. Doch dann bedroht ein neuer Schurke die Stadt…",
+    "it": "I Troppo Cattivi - l'affascinante borseggiatore Mr. Wolf, Mr. Snake lo scassinatore che le ha viste tutte, il gelido maestro del travestimento Mr. Shark, il \"muscoloso\" Mr. Piranha e l'hacker esperta dalla lingua tagliente Ms. Tarantula alias \"Web\", sono amici come nessun altro. Dopo anni di innumerevoli rapine, la banda viene catturata. Mr. Wolf decide allora di fare un patto (che non ha intenzione di mantenere) per salvarli tutti dalla prigione: i Troppo Cattivi diventeranno buoni. Sotto la guida del loro mentore, il professor Marmalade, i Troppo Cattivi fingeranno davanti al mondo di essersi trasformati in buoni. Lungo la strada, però, Mr. Wolf inizia a capire che fare del bene per davvero può dargli ciò che ha sempre segretamente desiderato: l'accettazione. Così quando in città arriva un nuovo cattivo, Mr Wolf riuscirà a convincere gli altri membri della banda a diventare realmente buoni?",
+    "es": "Cinco villanos notorios: el Sr. Lobo, Sr. Serpiente, Sr. Piraña, Sr. Tiburón y Srta. Tarántula, que han pasado toda una vida juntos realizando grandes atracos.",
+    "sv": "Aldrig tidigare har fem vänner varit så ökända som Tuffa gänget - den elegante ficktjuven herr Varg, den erfarne kassaskåpssprängaren herr Orm, den coole maskeringsmästaren herr Haj, den temperamentsfulle tuffingen herr Piraya och den skärpta superhackaren fröken Tarantel. Men när gänget, efter otaliga kupper och åratal av att ha varit världens mest efterlysta skurkar, slutligen fångas, ingår herr Varg ett avtal (som han inte har för avsikt att hålla) för att rädda dem alla från fängelse: Tuffa gänget ska bli goda medborgare. Under ledning av sin mentor, det arroganta men bedårande marsvinet professor Marmelad, försöker Tuffa gänget lura världen att tro att de har förvandlats. Men under resans gång börjar herr Varg att misstänka att om han gjorde gott på riktigt så skulle det kunna ge honom det som han alltid i hemlighet har längtat efter: att bli accepterad. Så när en ny skurk hotar staden, kan herr Varg övertala resten av gänget att bli ... Snälla gänget?"
+   },
+   "tagline": {
+    "fr": "C'est si cool d'être méchant.",
+    "en": "Good is no fun at all.",
+    "de": "Böse und verdammt gut darin",
+    "it": "È così noioso essere buoni",
+    "es": "Ser bueno no es tan divertido",
+    "sv": "Tuffingar har roligare"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Animation",
+     "Comédie",
+     "Crime",
+     "Familial"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Animation",
+     "Comedy",
+     "Crime",
+     "Family"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Animation",
+     "Komödie",
+     "Krimi",
+     "Familie"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Animazione",
+     "Commedia",
+     "Crime",
+     "Famiglia"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Animación",
+     "Comedia",
+     "Crimen",
+     "Familia"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Animerat",
+     "Komedi",
+     "Kriminal",
+     "Familj"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 2751,
+   "runtime": 100
   },
   {
    "id": 438148,
@@ -695,7 +2416,70 @@
     "it": "/jKWsA6dNTGLSYkPy67528u1aTkr.png",
     "es": "/tG9O2cPqB7WobSdw8ZDVnBDmzAt.png",
     "sv": "/pHBcsZaHzT07f4zJg0B3iwKUFST.png"
-   }
+   },
+   "overview": {
+    "fr": "Alors que les années 70 battent leur plein, Gru qui grandit en banlieue au milieu des jeans à pattes d’éléphants et des chevelures en fleur, met sur pied un plan machiavélique à souhait pour réussir à intégrer un groupe célèbre de super méchants, connu sous le nom de Vicious 6, dont il est le plus grand fan. Il est secondé dans sa tâche par les Minions, ses petits compagnons aussi turbulents que fidèles. Avec l’aide de Kevin, Stuart, Bob et Otto – un nouveau Minion arborant un magnifique appareil dentaire et un besoin désespéré de plaire – ils vont déployer ensemble des trésors d’ingéniosité afin de construire leur premier repaire, expérimenter leurs premières armes, et lancer leur première mission. Gru passe l’audition pour intégrer l’équipe. Le moins qu’on puisse dire c’est que l’entrevue tourne mal, et soudain court quand Gru leur démontre sa supériorité et se retrouve soudain leur ennemi juré.",
+    "en": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+    "de": "In den 70er-Jahren, lange bevor er zu einem Meister des Bösen aufsteigt, ist Gru einfach ein zwölfjähriger Vorstadtjunge, der in seinem Keller von der Weltherrschaft träumt. Als die berüchtigte Schurkenbande \"Die fiesen 6\" ihren Anführer rauswirft, bewirbt Gru sich um dessen Nachfolge, endet alsbald jedoch als Todfeind der Bande. Während Gru fliehen muss, lernen die Minions Kampfsport, um ihn zu retten, und Gru findet heraus, dass selbst Schurken manchmal ein bisschen Hilfe von ihren Freunden gebrauchen können.",
+    "it": "Siamo negli anni 70 e il non-ancora-famigerato Gru, al momento dodicenne di belle speranze, vive e cresce nella sua casetta di periferia. Ammiratore de \"I malefici sei\", una squadra di supercattivi, Gru decide che il suo obiettivo di vita è diventare abbastanza cattivo per poter essere anche lui parte del gruppo. L'occasione sembra presentarsi quando il supergruppo caccia il proprio leader, rendendo vacante il suo posto: Gru si presenta alla porta dei Malefici sei e si propone, venendo però respinto. Innervosito e deluso, il nostro (anti)eroe decide di ribellarsi alla decisione rubando ai suoi ormai ex miti, che a questo punto lo prendono definitivamente di mira e decidono di inseguirlo per dargli una lezione che gli basti una volta per tutte. In fuga, Gru viene aiutato inaspettatamente proprio dall'ex capo dei Malefici sei, che decide di prenderlo con sé e fargli da mentore: l’aspirante supercattivo scopre così che persino le persone malvage, a volte, hanno bisogno di un amico.",
+    "es": "En la década de 1970, Gru crece siendo un gran admirador de \"Los salvajes seis\", un supergrupo de villanos. Para demostrarles que puede ser malvado, diseña un plan con la esperanza de formar parte de la banda.",
+    "sv": "I mitten av 1970-talet växer Gru upp i en förort, mitt i en uppsjö av fjädrar i håret och utsvängda jeans. Gru är ett stort fan av en grupp superskurkar känd som Grymlingarna och kläcker en plan för att bli tillräckligt ond för att gå med i gruppen. Lyckligtvis får han viss kaosartad hjälp av sina lojala följare, minionerna. Kevin, Stuart, Bob och Otto - en ny minion med tandställning och ett desperat behov av att behaga - använder sina talanger när de tillsammans med Gru bygger sitt första hemliga gömställe, experimenterar med sina första vapen och försöker lyckas med sina första uppdrag. När Grymlingarna gör sig av med sin ledare, legendariske fightern Wild Knuckles, blir Gru intervjuad för att bli deras nyaste medlem."
+   },
+   "tagline": {
+    "fr": "L'ascension d'un super-vilain.",
+    "en": "A villain will rise.",
+    "de": "Ein Schurke steigt auf",
+    "it": "Tieniti forte",
+    "es": "Ha nacido un villano.",
+    "sv": "En skurks väg till toppen"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Crime",
+     "Science-Fiction",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Crime",
+     "Science Fiction",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Krimi",
+     "Science Fiction",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Crime",
+     "Fantascienza",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Crimen",
+     "Ciencia ficción",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Kriminal",
+     "Science Fiction",
+     "Familj"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 4276,
+   "runtime": 87
   },
   {
    "id": 315162,
@@ -718,7 +2502,70 @@
     "it": "/ppctbuTQUzDUgORXrvReYPw0noT.png",
     "es": "/6d8TgK0yVhky2Q09ZVj3Yzoe9AA.png",
     "sv": "/2ZI6Gsd3kNADj7Vyb4xtuFwnzS.png"
-   }
+   },
+   "overview": {
+    "fr": "Le Chat Potté découvre que sa passion pour l'aventure et son mépris du danger ont fini par lui coûter cher : il a épuisé huit de ses neuf vies, et en a perdu le compte au passage. Afin de retomber sur ses pattes notre héros velu se lance littéralement dans la quête de sa vie. Il s'embarque dans une aventure épique aux confins de la Forêt Sombre afin de dénicher la mythique Étoile à vœu, seule susceptible de lui rendre ses vies perdues. Mais quand il ne vous en reste qu’une, il faut savoir faire profil bas, se montrer prudent et demander de l’aide. C’est ainsi qu’il se tourne vers son ancienne partenaire et meilleure ennemie de toujours : l’ensorcelante Kitty Pattes De Velours. Le Chat Potté et la belle Kitty vont être aidés dans leur quête, à leur corps bien défendant, par Perro, un corniaud errant et galeux à la langue bien pendue et d’une inaltérable bonne humeur.",
+    "en": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+    "de": "Auch ein Kater kann ein unangenehmes Erwachen haben. Nach unzähligen riskanten Reisen und achtlosen Abenteuern muss der gestiefelte Kater entsetzt feststellen, dass seine Leidenschaft für Gefahren letztlich ihren Preis hatte – in seiner Abenteuerlust hat er bereits acht seiner neun Leben verbraucht. Um für die dringend nötige neue Vitalität zu sorgen, begibt sich der charmante Schnurrhaargauner auf den langen Weg in den Schwarzen Wald, um dort den mythischen Wunschstern zu finden.",
+    "it": "Il Gatto con gli Stivali scopre che la sua passione per l'avventura è stata pagata a caro prezzo: ben otto delle sue nove vite sono andate bruciate.  Dovrà così intraprendere una nuova epica avventura alla ricerca del mitico Ultimo Desiderio, che gli permetterà di recuperare le sue nove vite.",
+    "es": "El gato con botas descubre que ha agotado ocho de sus nueve vidas por lo que inicia una nueva para hallar la Estrella de los Deseos y así recuperar sus vidas.",
+    "sv": "Mästerkatten upptäcker att hans passion för äventyr har tagit ut sin rätt: han har bränt genom åtta av sina nio liv. Puss ger sig ut på en episk resa för att hitta den mytiska Sista önskan för att kunna återställa sina nio liv."
+   },
+   "tagline": {
+    "fr": "La légende ne meurt jamais.",
+    "en": "Say hola to his little friends.",
+    "de": "Sag hallo zu seinen kleinen Freunden.",
+    "it": "Dite hola ai suoi compagni d'avventura",
+    "es": "Vive cada aventura como si fuera la última.",
+    "sv": "Säg hola till hans små vänner"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Aventure",
+     "Fantastique",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Adventure",
+     "Fantasy",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Abenteuer",
+     "Fantasy",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Avventura",
+     "Fantasy",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Aventura",
+     "Fantasía",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Äventyr",
+     "Fantasy",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 9397,
+   "runtime": 103
   },
   {
    "id": 502356,
@@ -741,7 +2588,67 @@
     "it": "/n9YkJJabwWKMLwtDPhdaHSr7qyj.png",
     "es": "/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png",
     "sv": "/8SlJ5vlEXwh3K7SUYR6Xgvl8e1b.png"
-   }
+   },
+   "overview": {
+    "fr": "Alors qu’ils tentent de réparer une canalisation souterraine, Mario et son frère Luigi, tous deux plombiers, se retrouvent plongés dans un nouvel univers féerique à travers un mystérieux conduit. Mais lorsque les deux frères sont séparés, Mario s’engage dans une aventure trépidante pour retrouver Luigi. Dans sa quête, il peut compter sur l’aide du champignon Toad, habitant du Royaume Champignon, et les conseils avisés, en matière de techniques de combat, de la Princesse Peach, guerrière déterminée à la tête du Royaume. C’est ainsi que Mario réussit à mobiliser ses propres forces pour aller au bout de sa mission.",
+    "en": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+    "de": "Bei unterirdischen Reparaturarbeiten werden die Klempner Mario und Luigi durch eine geheimnisvolle Röhre in eine magische neue Welt gesaugt. Als die Brüder dort getrennt werden, begibt Mario sich auf eine gigantische Reise, um Luigi zu finden. Mit der Unterstützung des Pilzkönigreichbewohners Toad und dank eines Trainings von Princess Peach, der willensstarken Herrscherin des Pilzkönigreiches, entdeckt Mario dabei ungeahnte Kräfte in sich.",
+    "it": "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
+    "es": "Mientras trabajan en una avería subterránea, los fontaneros de Brooklyn, Mario y su hermano Luigi, viajan por una misteriosa tubería hasta un nuevo mundo mágico. Pero, cuando los hermanos se separan, Mario deberá emprender una épica misión para encontrar a Luigi. Con la ayuda del champiñón local Toad y unas cuantas nociones de combate de la guerrera líder del Reino Champiñón, la princesa Peach, Mario descubre todo el poder que alberga en su interior.",
+    "sv": "När rörmokarna  Mario & Luigi jobbar under jord med att laga en stor vattenledning, transporteras de två ner genom ett mystiskt rör och hamnar i en magisk ny värld. Men bröderna blir separerade, och Mario ger sig ut på ett episkt äventyr för att försöka hitta Luigi."
+   },
+   "tagline": {
+    "fr": "Les héros ne portent pas tous des capes. Certains portent des salopettes.",
+    "en": "Not all heroes wear capes. Some wear overalls.",
+    "es": "No todos los héroes usan capas. Algunos usan overoles."
+   },
+   "genres": {
+    "fr": [
+     "Familial",
+     "Comédie",
+     "Aventure",
+     "Fantastique",
+     "Animation"
+    ],
+    "en": [
+     "Family",
+     "Comedy",
+     "Adventure",
+     "Fantasy",
+     "Animation"
+    ],
+    "de": [
+     "Familie",
+     "Komödie",
+     "Abenteuer",
+     "Fantasy",
+     "Animation"
+    ],
+    "it": [
+     "Famiglia",
+     "Commedia",
+     "Avventura",
+     "Fantasy",
+     "Animazione"
+    ],
+    "es": [
+     "Familia",
+     "Comedia",
+     "Aventura",
+     "Fantasía",
+     "Animación"
+    ],
+    "sv": [
+     "Familj",
+     "Komedi",
+     "Äventyr",
+     "Fantasy",
+     "Animerat"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 11337,
+   "runtime": 93
   },
   {
    "id": 569094,
@@ -762,7 +2669,64 @@
     "en": "/cmE0j3mQQe6xrzLryxGF9rF2KC8.png",
     "de": "/mqd3Qquzm1BJFARfSVYRUKRPaqF.png",
     "es": "/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
-   }
+   },
+   "overview": {
+    "fr": "Après avoir retrouvé Gwen Stacy, Spider-Man, le sympathique héros originaire de Brooklyn, est catapulté à travers le Multivers, où il rencontre une équipe de Spider-Héros chargée d'en protéger l'existence. Mais lorsque les héros s'opposent sur la façon de gérer une nouvelle menace, Miles se retrouve confronté à eux et doit redéfinir ce que signifie être un héros afin de sauver les personnes qu'il aime le plus.",
+    "en": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "de": "Brooklyns freundliche Spinne aus der Nachbarschaft ist zurück! Nachdem sich Miles Morales aka Spider-Man gerade erst an seine Rolle gewöhnt hat, wird er bereits in sein nächstes Abenteuer und quer durch das neu entdeckte Multiversum geschleudert. Um dessen Existenz zu schützen, muss sich Spider-Man zusammen mit Gwen Stacy und einem neuen Spider-Team einem Bösewicht stellen, der mächtiger ist als alles, was ihnen bisher begegnet ist. Nur mit vereinten Kräften ist es ihnen vielleicht möglich, die Welt zu retten. Doch welche ist die richtige Vorgehensweise, um der Bedrohung zu begegnen? Als die vielen Helden der Spider-People über diese Frage aneinander geraten, muss Miles seine eigene Rolle als Held neu definieren, um die Menschen zu retten, die er liebt.",
+    "it": "Dopo essersi riunito con Gwen Stacy, l'amichevole Spider-Man di Brooklyn Miles Morales viene catapultato nelle pieghe del multiverso, dove incontra la squadra di Spider-Eroi incaricata di proteggerne l'esistenza. Ma quando i protettori del multiverso si dimostrano intransigenti sul modo migliore per affrontare una nuova e temibile minaccia, Miles si ritrova solo contro gli altri Spider-Eroi a difendere il suo punto di vista. Tutto, pur di salvare la persona che ama di più al mondo.",
+    "es": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
+    "sv": "Miles Morales katapulterar över multiversum, där han möter ett team av spindelmänniskor som har till uppgift att skydda dess existens. När hjältarna krockar om hur de ska hantera ett nytt hot måste Miles omdefiniera vad det innebär att vara en hjälte."
+   },
+   "tagline": {
+    "fr": "Pendant ce temps-là dans un autre autre univers...",
+    "en": "It's how you wear the mask that matters.",
+    "de": "Es kommt darauf an, wie du die Maske trägst.",
+    "it": "È come indossi la maschera che conta.",
+    "es": "Es cómo usas la máscara lo que importa.",
+    "sv": "Det är hur du bär masken som spelar roll."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Action",
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Animation",
+     "Action",
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Animation",
+     "Action",
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Animazione",
+     "Azione",
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Animación",
+     "Acción",
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Animerat",
+     "Action",
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 9565,
+   "runtime": 140
   },
   {
    "id": 940551,
@@ -785,7 +2749,62 @@
     "it": "/iaAbJKNYo0mIPGpLNnoQ5cy8W1x.png",
     "es": "/kKPan5JIDecYT9BbcGhyTlCtR6w.png",
     "sv": "/6FCJmhgnNsB2UH3RrJcTcViYvQa.png"
-   }
+   },
+   "overview": {
+    "fr": "La routine règne chez les Colvert. Si papa Mack préfère garder les siens bien à l’abri dans leur étang de la Nouvelle-Angleterre, maman Pam veut changer les choses et faire découvrir le monde à leurs deux enfants, Dax l’ado et Gwen la cadette. Après qu’une famille de canards migrateurs s’est enflammée pour des récits parlant d’endroits très lointains, Pam persuade Mack d’embarquer la famille dans un long périple, depuis la ville de New York jusque sous les tropiques, en Jamaïque. Tandis que les Colvert s’envolent vers le Sud pour l’hiver, leurs projets bien rodés tombent rapidement à l’eau. Une expérience qui les pousse alors à étendre leurs horizons, à s’ouvrir à de nouveaux amis et à aller au-delà de leurs espoirs les plus fous, tout en apprenant davantage sur chacun et sur soi-même",
+    "en": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
+    "de": "Eine Entenfamilie versucht, ihren überfürsorglichen Vater Mack davon zu überzeugen, den Urlaub ihres Lebens zu machen, der sie von Neuengland über New York City bis hin zu den Bahamas führt. Denn für Mutter Pam kann es nicht so weitergehen, ständig der gleiche Teich und keine Abwechslung in ihrem Alltag. Und auch Teenie-Sohn Dax und seine kleine Schwester wollen etwas von der Welt sehen. Aber wie vom Vater befürchtet, besteht die Reise nicht nur aus gemütlichem Fliegen und viel Sonne. Die kleine Familie stößt auf dem Weg auch auf einige Hindernisse wie Unwetter und ihnen unbekannte Vogelarten. Trotz dieser Widrigkeiten entdeckten die Enten ihren Mut und ihren Entdeckergeist und erfahren so, dass die größten Abenteuer im Leben auch immer einen Schritt aus der eigenen Komfortzone bedeuten.",
+    "it": "Una famiglia di anatre convince l'iperprotettivo padre ad andare tutti insieme in vacanza, deviando verso le Bahamas durante la loro migrazione dal New England a New York.",
+    "es": "La familia Mallard se ha quedado 'estancada'. Mientras papá Mack se siente realizado cuidando de su familia en su estanque de Nueva Inglaterra, mamá Pam se muere de ganas de vivir la vida y hacer descubrir a sus hijos –el adolescente Dax y la patita Gwen– el mundo en toda su amplitud. Después de que una familia de patos migratorios llegue a su estanque con maravillosas historias de lugares lejanos, Pam consigue convencer a Mack de que deben viajar a la tropical Jamaica pasando por Nueva York. Los Mallard emprenden el viaje hacia el sur para pasar el invierno, pero nada sale como estaba previsto. La experiencia les ayudará a descubrir horizontes desconocidos, a hacer nuevos amigos, a vivir experiencias que jamás imaginaron, y de paso, a conocerse mejor.",
+    "sv": "Familjen Gräsand är fast i gamla hjulspår. Medan pappa Mack nöjer sig med att hålla sin familj trygg, paddlandes runt för evigt i deras New England-damm, längtar mamma Pam efter att skaka om saker och ting och få visa barnen - tonårssonen Dax och lillasyster Gwen - hela vida världen. Efter att en migrerande ankfamilj mellanlandat i dammen med spännande berättelser om avlägsna platser, övertalar Pam Mack om att de ska ge sig ut på en familjeresa, via New York, till tropiska Jamaica."
+   },
+   "tagline": {
+    "fr": "Canards bizarres bienvenus...",
+    "en": "Odd ducks welcome.",
+    "de": "Schräge Vögel unter sich",
+    "it": "Benvenute anatre!"
+   },
+   "genres": {
+    "fr": [
+     "Familial",
+     "Comédie",
+     "Aventure",
+     "Animation"
+    ],
+    "en": [
+     "Family",
+     "Comedy",
+     "Adventure",
+     "Animation"
+    ],
+    "de": [
+     "Familie",
+     "Komödie",
+     "Abenteuer",
+     "Animation"
+    ],
+    "it": [
+     "Famiglia",
+     "Commedia",
+     "Avventura",
+     "Animazione"
+    ],
+    "es": [
+     "Familia",
+     "Comedia",
+     "Aventura",
+     "Animación"
+    ],
+    "sv": [
+     "Familj",
+     "Komedi",
+     "Äventyr",
+     "Animerat"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 2361,
+   "runtime": 83
   },
   {
    "id": 1184918,
@@ -808,7 +2827,64 @@
     "it": "/5oMFO6sC6SMcOI7f1UjHppcgTtM.png",
     "es": "/cBgbMZxdmcImD4Al8sq0pffOQ4T.png",
     "sv": "/sIC1as86fiZtlQ3qRKGl52iPB9z.png"
-   }
+   },
+   "overview": {
+    "fr": "L’incroyable épopée d'un robot -- l'unité ROZZUM 7134 alias « Roz » -- qui après avoir fait naufrage sur une île déserte doit apprendre à s'adapter à un environnement hostile en nouant petit à petit des relations avec les animaux de l'île. Il finit par adopter le petit d’une oie, un oison, qui s'est retrouvé orphelin.",
+    "en": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "de": "Rozzum 7134 – kurz „Roz“ – ist kein gewöhnlicher Roboter. Sie wurde eigentlich als Unterstützung für eine futuristische urbane Welt entwickelt, doch nun hat sie Schiffbruch erlitten und ist auf einer einsamen Insel gestrandet. Mit Mühe baut sie Beziehungen zu den zunächst argwöhnischen Tieren auf und lernt, sich an die ungewohnte, raue Umgebung anzupassen. Das große Abenteuer beginnt, als sie durch einen Zufall zur Beschützerin eines hilflosen, verwaisten Gänsekükens wird und die wahre Bedeutung des Lebens entdeckt.",
+    "it": "L'epica avventura segue il viaggio di un robot - l'unità ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovrà imparare ad adattarsi all’ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell’isola e adottando un'ochetta orfana.",
+    "es": "Esta aventura épica cuenta la historia de una robot, Rozzum 7-1-3-4, \"Roz\" para abreviar, que naufraga en una isla inhabitada y debe aprender a adaptarse a los entornos rigurosos construyendo relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de una cría de ganso huérfana.",
+    "sv": "Efter ett skeppsbrott blir en intelligent robot vid namn Roz strandsatt på en obebodd ö. För att överleva den svåra miljön måste Roz ansluta sig till öns djur och ta hand om en föräldralös gåsunge."
+   },
+   "tagline": {
+    "fr": "Une incroyable épopée au cœur de la nature.",
+    "en": "Discover your true nature.",
+    "de": "Entdecke deine wahre Natur.",
+    "it": "Scopri la tua vera natura.",
+    "es": "Descubre tu verdadera naturaleza.",
+    "sv": "Upptäck din sanna natur."
+   },
+   "genres": {
+    "fr": [
+     "Familial",
+     "Animation",
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Family",
+     "Animation",
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Familie",
+     "Animation",
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Famiglia",
+     "Animazione",
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Familia",
+     "Animación",
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Familj",
+     "Animerat",
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 6860,
+   "runtime": 102
   },
   {
    "id": 803796,
@@ -829,7 +2905,63 @@
     "en": "/mzHotrzOHHvGN4B8fyVQ55h7Z25.png",
     "es": "/9cM22kiLT7GthfbYj88mEBeKjqK.png",
     "sv": "/4c7epqJqJJoOu50Hy6RYVZsP1BF.png"
-   }
+   },
+   "overview": {
+    "fr": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
+    "en": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+    "de": "Wenn die K-Pop-Superstars Rumi, Mira und Zoey nicht gerade vor ausverkauften Stadien auftreten, setzen sie ihre geheimen Kräfte gegen übernatürliche Bedrohungen ein.",
+    "it": "Quando non fanno il tutto esaurito negli stadi, le superstar del K-pop Rumi, Mira e Zoey usano i loro poteri segreti per proteggere i fan da minacce soprannaturali.",
+    "es": "Cuando no están llenando estadios, las superestrellas del K-pop Rumi, Mira y Zoey usan sus poderes secretos para proteger a sus fans de una amenaza sobrenatural.",
+    "sv": "När K-popstjärnorna Rumi, Mira och Zoey inte uppträder inför fullsatta arenor använder de sina hemliga krafter för att skydda sina fans mot övernaturliga hot."
+   },
+   "tagline": {
+    "fr": "Elles enflamment la scène le jour… et chassent les démons la nuit.",
+    "en": "They sing. They dance. They battle demons.",
+    "it": "Cantano. Ballano. Combattono i demoni.",
+    "es": "Cantan. Bailan. Luchan contra demonios.",
+    "sv": "De sjunger. De dansar. De bekämpar demoner."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Musique",
+     "Comédie",
+     "Animation"
+    ],
+    "en": [
+     "Fantasy",
+     "Music",
+     "Comedy",
+     "Animation"
+    ],
+    "de": [
+     "Fantasy",
+     "Musik",
+     "Komödie",
+     "Animation"
+    ],
+    "it": [
+     "Fantasy",
+     "Musica",
+     "Commedia",
+     "Animazione"
+    ],
+    "es": [
+     "Fantasía",
+     "Música",
+     "Comedia",
+     "Animación"
+    ],
+    "sv": [
+     "Fantasy",
+     "Music",
+     "Komedi",
+     "Animerat"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 3373,
+   "runtime": 96
   },
   {
    "id": 1297842,
@@ -852,7 +2984,58 @@
     "it": "/A9s1xAknnqhTvAUtr0d7gPyUN2p.png",
     "es": "/zQbdlH52zvg4ONxOrMQ3S32EDGe.png",
     "sv": "/nYdOujsQZV4Wjng88zqCSHz3kpy.png"
-   }
+   },
+   "overview": {
+    "fr": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
+    "en": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+    "de": "Im Mittelpunkt der Geschichte steht Will, ein kleiner Ziegenbock mit großen Träumen. Er bekommt die einmalige Chance, einem Profiteam beizutreten und Roarball zu spielen – ein kontaktintensiver Hochleistungssport, bei dem die schnellsten und furchterregendsten Tiere der Welt dominieren. Wills neue Teammitglieder sind daher nicht gerade begeistert, nun eine schmächtige Ziege in ihrer Mannschaft zu haben, doch Will ist wild entschlossen, den Sport zu revolutionieren und ein für alle Mal zu beweisen, dass auch Kleine ganz groß rauskommen können.",
+    "it": "Will, una piccola capra con grandi sogni, all’improvviso ha l’occasione di entrare nella lega professionistica di “pallaruggente”, uno sport ad alto tasso di adrenalina, dominato dagli animali più veloci e feroci del pianeta. I suoi nuovi compagni non sono esattamente entusiasti all’idea di avere una capretta in squadra, ma Will è deciso a cambiare le regole del gioco e dimostrare, una volta per tutte, che anche i “piccoli” sanno lasciare il segno.",
+    "es": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
+    "sv": "Will är en liten get med stora drömmar som får en möjlighet att gå med i proffsligan och spela roarball, en fartfylld sport där världens snabbaste och tuffaste djur spelar. Wills nya lagkamrater är inte imponerade över att ha en get i laget, men Will är fast besluten att förändra sporten och bevisa en gång för alla att \"små kan också lira\"."
+   },
+   "tagline": {
+    "fr": "On n’est jamais trop petit pour rêver grand.",
+    "en": "You're never too small to dream big.",
+    "de": "Du bist nie zu klein, um groß zu träumen.",
+    "it": "Non si è mai troppo piccoli per sognare in grande",
+    "es": "Nunca eres demasiado pequeño para soñar en grande.",
+    "sv": "Du är aldrig för liten att drömma stort."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 1167,
+   "runtime": 100
   },
   {
    "id": 1226863,
@@ -875,7 +3058,69 @@
     "it": "/j27xyyMsSTeAABYg5xM1BYX7kAz.png",
     "es": "/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
     "sv": "/dvWydJyVravnrNGMIphG1P88ILt.png"
-   }
+   },
+   "overview": {
+    "fr": "Mario et Luigi gèrent les tracas du royaume Champignon, se lient d'amitié avec Yoshi, tentent de réhabiliter mini-Bowser et se préparent pour l'anniversaire de Peach. Mais quand un appel à l'aide arrive de l'autre bout de la galaxie, l'équipe part découvrir des mondes nouveaux, des menaces inattendues et des personnages emblématiques, comme Rosalina et Bowser Jr.",
+    "en": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+    "de": "Die Brüder Mario und Luigi sowie Prinzessin Peach und Toad erleben ein neues Abenteuer. Geleitet von mysteriösen Sternkatapulten, reisen sie durch die Galaxie. Dabei landen sie auf verschiedenen Planeten, wo sie es mit einem neuen Gegner zu tun bekommen, aber auch auf neue Freunde treffen.",
+    "it": "Mario e Luigi, i gemelli idraulici, applicano il loro motto \"Let's-a-go\" per risolvere i problemi di ogni giorno nella loro nuova casa del Regno dei Funghi. Mentre sono impegnati ad aiutare la Principessa Peach e a riportare sulla retta via Bowser, rimpicciolito e imprigionato, incontrano un nuovo compagno: Yoshi. La festa di compleanno della Principessa Peach dà luogo a un'avventura galattica, che vede i due fratelli lanciarsi nello spazio per fermare i loschi piani di Bowser Jr. e salvare la principessa Rosalinda.",
+    "es": "Secuela de 'Super Mario Bros: La película', basada en la saga 'Mario Galaxy'. Los hermanos Mario y Luigi y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia.",
+    "sv": "Efter att ha hindrat Bowsers planer på att gifta sig med prinsessan Peach står Mario och Luigi nu inför ett nytt hot i form av Bowser Jr., som är fast besluten att befria sin far från fångenskapen och återupprätta familjens arv. Tillsammans med både nya och gamla vänner reser bröderna bland stjärnorna för att stoppa den unge arvtagarens fälttåg."
+   },
+   "tagline": {
+    "fr": "La galaxie vous attend.",
+    "en": "The galaxy awaits.",
+    "it": "La galassia ti attende.",
+    "es": "La galaxia aguarda.",
+    "sv": "Galaxen väntar."
+   },
+   "genres": {
+    "fr": [
+     "Familial",
+     "Comédie",
+     "Aventure",
+     "Fantastique",
+     "Animation"
+    ],
+    "en": [
+     "Family",
+     "Comedy",
+     "Adventure",
+     "Fantasy",
+     "Animation"
+    ],
+    "de": [
+     "Familie",
+     "Komödie",
+     "Abenteuer",
+     "Fantasy",
+     "Animation"
+    ],
+    "it": [
+     "Famiglia",
+     "Commedia",
+     "Avventura",
+     "Fantasy",
+     "Animazione"
+    ],
+    "es": [
+     "Familia",
+     "Comedia",
+     "Aventura",
+     "Fantasía",
+     "Animación"
+    ],
+    "sv": [
+     "Familj",
+     "Komedi",
+     "Äventyr",
+     "Fantasy",
+     "Animerat"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 3991,
+   "runtime": 99
   },
   {
    "id": 1204680,
@@ -896,7 +3141,62 @@
     "en": "/3m1raTve2RWZ0jfnUwHSnRtjVK3.png",
     "es": "/gjfY4S1CTJuPe3BE8i3flhfQDYY.png",
     "sv": "/o42jmqq5lqjCoZV0iVnhbqUkTmy.png"
-   }
+   },
+   "overview": {
+    "fr": "L'avocat Kevin Avery est engagé par Vil Coyote, un personnage des Looney Tunes qui veut attaquer en justice le conglomérat ACME. D'après lui, l'entreprise fabriquerait des produits défectueux. Kevin va découvrir que son ancien patron, Buddy Crane, est désormais le représentant légal de ladite société...",
+    "en": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "de": "Nach all den Jahren vergeblicher Liebesmüh hat Willi Kojote es satt, dass bisher jedes einzelne Produkt der ACME Corporation eine erfolgreiche Jagd auf den Road Runner vereitelt hat. Kojote beschließt deshalb, das Unternehmen für seine mangelhafte Ware in die Verantwortung zu nehmen, und engagiert den ebenso glück- wie mittellosen Anwalt Kevin Avery, um gegen ACME vor Gericht zu ziehen. Als der herausfindet, dass die Rechtsabteilung des Konzerns von Buddy Crane geleitet wird, dem selbstgefälligen Chef seiner ehemaligen Kanzlei, gibt er alles, um den Prozess zu gewinnen.",
+    "it": "Dopo che ogni prodotto realizzato dalla Acme Corporation gli si è ritorto contro nella sua infinita ricerca di catturare Beep Beep, Willy il Coyote assume Kevin Avery, uno squattrinato avvocato umano da cartelloni pubblicitari, per rappresentarlo nella sua causa legale contro la compagnia. Una crescente amicizia tra Willy e il giovane legale motiva la loro determinazione a vincere la causa in tribunale, che li mette contro Buddy Crane, l'intimidatorio capo dell'ex studio legale di Kevin, che ora rappresenta Acme.",
+    "es": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+    "sv": "Efter årtionden av att ha blivit sprängd i luften av Acmes explosiva produkter slår Gråben äntligen tillbaka och tar hjälp av en osäker advokat för att få den upprättelse som han alltid har förtjänat. Dessutom finns där Hjulben - och dynamit."
+   },
+   "tagline": {
+    "en": "The movie ACME doesn't want you to see.",
+    "it": "Lui non si arrende. Mai.",
+    "es": "La película que ACME no quiere que veas.",
+    "sv": "Han jagar rättvisa."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Aventure",
+     "Familial",
+     "Animation"
+    ],
+    "en": [
+     "Comedy",
+     "Adventure",
+     "Family",
+     "Animation"
+    ],
+    "de": [
+     "Komödie",
+     "Abenteuer",
+     "Familie",
+     "Animation"
+    ],
+    "it": [
+     "Commedia",
+     "Avventura",
+     "Famiglia",
+     "Animazione"
+    ],
+    "es": [
+     "Comedia",
+     "Aventura",
+     "Familia",
+     "Animación"
+    ],
+    "sv": [
+     "Komedi",
+     "Äventyr",
+     "Familj",
+     "Animerat"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 1505,
+   "runtime": 101
   }
  ]
 }

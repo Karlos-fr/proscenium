@@ -1,6 +1,6 @@
 {
  "id": "ghibli",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Studio Ghibli",
   "en": "Studio Ghibli",
@@ -39,7 +39,56 @@
     "it": "/g9NKcz2f7T7OCTT1qLysrd7RoPE.png",
     "es": "/eIIaWAMVMynx5IYF6FotUs0jPIM.png",
     "sv": "/9hRei3vl26dKMDplHNlYg9O1LuM.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans un monde où la nature est hostile à l’Homme, Nausicaä – princesse de la Vallée du Vent – se bat pour protéger son village. Mais la guerre des hommes frappe à leur porte. Les vestiges d’une humanité industrielle menacent l’équilibre entre les rescapés humains du grand cataclysme et les insectes, protecteurs de la forêt toxique.",
+    "en": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+    "de": "Ein verheerender Krieg hat die Erde in ein wüstes Ödland verwandelt, auf dem sich ein Pilzwald ausbreitet, dessen Sporen für den Menschen hochgiftig sind. Eine der wenigen noch existierenden Zivilisationen lebt im Tal der Winde, dessen natürliche Aufwinde verhindern, dass giftige Pilzsporen dorthin gelangen. Nausicaä ist die Prinzessin dieses Volkes und sie besitzt die seltene Gabe, die Gefühle und Gedanken der Tiere zu verstehen sowie mit der fremdartigen Flora und Fauna zu kommunizieren. Als ein anderes Volk das Tal erobern will, ist Nausicaä die letzte Hoffnung: Im Bestreben, eine friedliche Koexistenz zu erreichen, kämpft Nausicaä verzweifelt mit allen ihr zur Verfügung stehenden Mitteln und wird so zur Botschafterin einer uralten Prophezeiung.",
+    "it": "È trascorso un millennio da quando una serie di guerre, culminata nelle esplosioni termonucleari dei Sette Giorni del Fuoco, ha alterato l'ecosistema mondiale. Il Mare della Rovina si è espanso drammaticamente, occupando i regni degli uomini e invadendo la Terra con i suoi insetti giganti e le sue spore velenose. Solo pochi territori sono rimasti indenni, ma i loro abitanti continuano incessantemente a combattere tra loro. In un regno neutrale e pacifico, la Valle del Vento, vive la principessa Nausicaa, dotata di un potere extrasensoriale che le permette di comunicare con gli animali e con i temibili insetti Ohm. Nausicaa è convinta che la soluzione non sia attaccare gli insetti, bensì comprendere il segreto alla base del Mare della Rovina.",
+    "es": "En un futuro lejano, en un mundo post-apocalíptico, la Tierra está cubierta por unos bosques llenos de hongos venenosos e insectos gigantescos. Los humanos han quedado reducidos a unos pocos pueblos aislados que intentan sobrevivir a la plaga mientras luchan entre ellos. En medio de todo esto la princesa Nausicaä, del Valle del Viento, quien ama a los insectos, buscará comprender el origen del problema y conseguir la paz entre los hombres, y sobre todo entre éstos y el bosque.",
+    "sv": "För tusen år sedan förintade de \"Sju dagarna av eld\" hela civilisationen. Nu lever människor i små, rivaliserande grupper, skilda åt av den förruttnande djungeln som är resultatet av år av försummelse av jorden vi alla lever på. I detta döende landskap samlas en mängd jätteinsekter till synes enbart för att kriga, liksom människorna krigar i djungelns utkant. I det fridsamma Vindarnas dal lever prinsessan Nausicaä. Hon har förmågan att tala med jätteinsekterna och, sina stridskunskaper till trots, drivs hon av kampen om en fredlig planet."
+   },
+   "tagline": {
+    "fr": "L’amour d’une jeune fille a fait des miracles…",
+    "en": "Flee, fly, foe, fun! Here's an adventure for everyone.",
+    "de": "Die Liebe eines jungen Mädchens vollbringt Wunder …",
+    "it": "Nausicaa: ecco il futuro del mondo"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Animation",
+     "Fantastique"
+    ],
+    "en": [
+     "Adventure",
+     "Animation",
+     "Fantasy"
+    ],
+    "de": [
+     "Abenteuer",
+     "Animation",
+     "Fantasy"
+    ],
+    "it": [
+     "Avventura",
+     "Animazione",
+     "Fantasy"
+    ],
+    "es": [
+     "Aventura",
+     "Animación",
+     "Fantasía"
+    ],
+    "sv": [
+     "Äventyr",
+     "Animerat",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 4279,
+   "runtime": 117
   },
   {
    "id": 10515,
@@ -62,7 +111,68 @@
     "it": "/yf3p81uqx7Cu5kTl6S1YiP7A67m.png",
     "es": "/4hBmBoks4AiHGvOMGGfmK0f9FYL.png",
     "sv": "/apmtZ5vcjaFEh1nPSbWvnFhX0xn.png"
-   }
+   },
+   "overview": {
+    "fr": "Sheeta, seule héritière des secrets de Laputa, la cité volante, attire l’avidité des pirates et de l’armée. Poursuivie, elle est sauvée par Pazu, un jeune pilote d’avion travaillant dans une cité minière.",
+    "en": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+    "de": "Unvorstellbarer Reichtum und eine geheimnisvolle Technologie, mit der sich die Welt beherrschen lässt. All dies soll man finden können auf Laputa, dem sagenumwobenen Schloss im Himmel. Sheeta, ein Mädchen, besitzt einen magischen Kristall, der ihr den Weg nach Laputa weist. Kein Wunder, dass ihr schon bald andere auf den Fersen sind: eine Bande von Himmelspiraten, die Armee sowie der Regierungsagent Musca. Glücklicherweise trifft Sheeta in dem Jungen Pazu nicht nur einen Begleiter, sondern findet durch das gemeinsame Abenteuer auch einen Freund.",
+    "it": "Per sfuggire ai pirati dell'aria la giovane Sheeta cade da un aereo, ma si salva levitando nell'aria e atterrando dolcemente tra le braccia di Pazu, un giovane minatore che decide di prendersi cura di lei. Mentre si susseguono i tentativi di catturare Sheeta e la misteriosa pietra che la ragazza porta al collo, cresce la consapevolezza che Sheeta nasconda dei segreti che vanno ben oltre quel che l'apparenza sembri indicare, legati a una misteriosa città nel cielo, Laputa, di cui si favoleggia l'esistenza.",
+    "es": "La huérfana Sheeta ha heredado un misterioso cristal que la une al mítico reino de las nubes de Laputa. Con la ayuda del  ingenioso Pazu y una graciosa banda de piratas del cielo, dirige su camino hacia las ruinas de la que fué, una gran civilización. Sheeta y Pazu deben ser más listos que el malvado Muska, quien planea usar la tecnología de Laputa para dominar el mundo.",
+    "sv": "Den unga flickan Sheeta jagas av både pirater och armén som är ute efter det mystiska halsband som har funnits i hennes familjs ägo i generationer. Hon möter gruvarbetarpojken Pazu som hjälper henne komma undan förföljarna. Stenen i halsbandet leder dem mot det mytomspunna Laputa, en flygande ö som döljer otroliga krafter och rikedom."
+   },
+   "tagline": {
+    "fr": "Qui est vraiment Sheeta ?",
+    "en": "One day, a girl came down from the sky…",
+    "de": "Schatzsuche in luftigen Höhen.",
+    "es": "Un día, una niña bajó del cielo ..."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Animation",
+     "Action",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Animation",
+     "Action",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Animation",
+     "Action",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Animazione",
+     "Azione",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Animación",
+     "Acción",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Animerat",
+     "Action",
+     "Familj"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 4894,
+   "runtime": 119
   },
   {
    "id": 12477,
@@ -85,7 +195,56 @@
     "it": "/5QYlhipUgWeK3VUrTBww813ueWO.png",
     "es": "/keWw2kCmTVa2dvQIcGwyO2RvlK.png",
     "sv": "/gbGdsHNNJnKtgdLuCV42t7wMRrX.png"
-   }
+   },
+   "overview": {
+    "fr": "Japon, été 1945. Après le bombardement de Kobé, Seita, un adolescent de quatorze ans et sa petite sœur de quatre ans, Setsuko, orphelins, vont s’installer chez leur tante à quelques dizaines de kilomètres de chez eux. Celle‐ci leur fait comprendre qu’ils sont une gêne pour la famille et doivent mériter leur riz quotidien. Seita décide de partir avec sa petite sœur. Ils se réfugient dans un bunker désaffecté en pleine campagne et vivent des jours heureux illuminés par la présence de milliers de lucioles. Mais bientôt la nourriture commence cruellement à manquer.",
+    "en": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+    "de": "Japan, 1945. Das Land steht kurz vor der Kapitulation. Täglich werfen amerikanische Flieger Bomben vom Himmel und setzen ganze Landstriche in Brand. Im Inferno eines solchen Angriffs verlieren der vierzehnjährige Seita und die vierjährige Setsuko ihre Mutter. Ohne den Vater, der bei der Marine ist und von dem sie seit Langem nichts mehr gehört haben, sind die Kinder plötzlich auf sich alleine gestellt. Ihrer Tante, bei der sie zunächst unterkommen, sind die zusätzlichen hungrigen Mäuler in der herrschenden Hungersnot alles andere als willkommen. So ziehen die Geschwister in einen verlassenen Bunker und versuchen dort, auf eigene Faust zu überleben. Allem Leid zum Trotz setzt Seita alles daran, seiner kleinen Schwester eine möglichst unbeschwerte Kindheit zu bieten und tatsächlich verbringen die zwei einige glückliche Wochen. Doch die furchtbare Realität des unerbittlichen Krieges holt die beiden bald ein …",
+    "it": "Giappone, 21 settembre 1945. Alla stazione di Kobe, il quattordicenne Seita muore di inedia. Il suo spirito ripercorre i tragici eventi degli ultimi quattro mesi: i bombardamenti americani, il cadavere della madre sfigurato dalle ustioni, il padre a difendere la gloria dell'impero nella sua bianca uniforme da ufficiale di marina. E poi l'orgoglio, la fuga, i furti, la fame. Questa notte spaventosa è rischiarata dai flebili bagliori delle lucciole. Ma all'alba non ne rimarrà più nessuna.",
+    "es": "Verano de 1945. La aviación estadounidense somete las ciudades japonesas a continuos ataques aéreos. En uno de ellos, una incursión con bombas incendiarias convierte la ciudad de Kōbe en un infierno humeante, para los dos protagonistas (Seita, de 14 años, y su hermanita Setsuko, de 5). El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, tras un bombardeo, ellos se retrasan y no consiguen llegar al búnker donde ella los espera.",
+    "sv": "I slutet av Andra världskriget brandbombar USA japanska kåkstäder av trä. Två föräldralösa barn - fjortonårige Seita och hans fyra år yngre syster Setsuko - kämpar för att överleva på den japanska landsbygden. För Seita och hans syster är de oförstående och orättvisa landsmännen en större plåga än de ständigt återkommande bombräderna."
+   },
+   "tagline": {
+    "fr": "À quatre et quatorze ans, ils ont décidé de vivre.",
+    "en": "Why do fireflies have to die so soon?",
+    "de": "Warum müssen Glühwürmchen so früh sterben?",
+    "es": "¿Por qué las luciérnagas mueren tan pronto?"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame",
+     "Guerre"
+    ],
+    "en": [
+     "Animation",
+     "Drama",
+     "War"
+    ],
+    "de": [
+     "Animation",
+     "Drama",
+     "Kriegsfilm"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma",
+     "Guerra"
+    ],
+    "es": [
+     "Animación",
+     "Drama",
+     "Bélica"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama",
+     "Krig"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 6966,
+   "runtime": 88
   },
   {
    "id": 8392,
@@ -108,7 +267,57 @@
     "it": "/mtNqIWXUBq2PFBMnF5ANxhqPttM.png",
     "es": "/9EZz40J9JOWJnWK1cGG7uCNEW8s.png",
     "sv": "/yV6pEwqmXPSiHuO3oQnyWW9FgjZ.png"
-   }
+   },
+   "overview": {
+    "fr": "Mei, 4 ans, et Satsuki, 10 ans, s’installent à la campagne avec leur père pour se rapprocher de l’hôpital où séjourne leur mère. Elles découvrent la nature tout autour de la maison et, surtout, l’existence d’animaux étranges et merveilleux, les Totoros, avec qui elles deviennent très amies. Un jour, alors que Satsuki et Mei attendent le retour de leur mère, elles apprennent que sa sortie de l’hôpital a été repoussée. Mei décide alors d’aller lui rendre visite seule. Satsuki et les gens du village la recherchent en vain. Désespérée, Satsuki va finalement demander de l’aide à son voisin Totoro.",
+    "en": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+    "de": "Die 8-jährige Satsuki und ihre kleine Schwester Mei ziehen mit ihrem Vater, einem Universitätsprofessor, auf das Land. Sie wollen in der Nähe ihrer Mutter sein, die sich in einem nahe gelegenen Krankenhaus von einer schweren Krankheit erholt. Ihr neues Zuhause ist ein altes Bauernhaus, das einige Zeit unbewohnt war. Beim Spielen auf dem Hof entdeckt die kleine Mei eines Tages ein winziges Wesen mit einem Sack, das Eicheln sammelt. Sie folgt ihm in den Wald und klettert durch das Gestrüpp. Plötzlich fällt sie in ein Loch im Stamm eines riesigen Baumes. Am Ende des Loches trifft sie auf den fest schlafenden Totoro, eine riesige fellige Kreatur, die fast so groß ist wie ein kleines Haus. Die Kinder freunden sich schnell mit dem magischen Wesen an und erleben gemeinsam mit ihm viele tolle Abenteuer.",
+    "it": "Le sorelline Satsuki e Mei si trasferiscono insieme al padre in una nuova casa in campagna. Per le due bambine inizia un viaggio alla scoperta di un nuovo mondo, abitato da creature fantastiche: dai nerini del buio, spiritelli della fuliggine, a buffi esseri di pelo di varie dimensioni, tra cui Totoro, lo spirito buono della foresta! Insieme a lui, Satsuki e la piccola Mei vivranno una magica e straordinaria avventura all’insegna dell’amicizia!",
+    "es": "Dos chicas jóvenes, Mei y Satsuki, se mudan a una nueva casa cerca del hospital en el que se encuentra su madre. En el patio junto a la casa, existe un gran árbol que es el hogar de tres Totoros, dioses de la selva. Poco después, reciben noticias desde el hospital de que su madre no puede venir a casa como había prometido, por lo que Mei (la más joven) se escapa para ir a visitarla. Satsuki tiene que recurrir a un Totoro para ayudar a encontrarla.",
+    "sv": "Systrarna Satsuki och Mei har flyttat till landet med sin pappa eftersom deras mamma ligger på ett sjukhus i närheten. När Mei utforskar det nya hemmet upptäcker hon att de delar huset med några märkliga varelser och ännu konstigare grannar. Bland annat en stor lurvig varelse som hon kallar Totoro. Deras möte är början, inte bara på en fantastisk vänskap, utan också på ett av filmhistoriens charmigaste familjeäventyr."
+   },
+   "tagline": {
+    "fr": "C'est l'esprit de la forêt de votre quartier!",
+    "en": "He's your friendly neighbourhood forest spirit!",
+    "de": "Er ist dein freundlicher Waldgeist aus der Nachbarschaft!",
+    "it": "È il tuo amichevole spirito della foresta di quartiere!",
+    "es": "Estas extrañas criaturas aún existen en Japón. Probablemente..."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Animation",
+     "Familial"
+    ],
+    "en": [
+     "Fantasy",
+     "Animation",
+     "Family"
+    ],
+    "de": [
+     "Fantasy",
+     "Animation",
+     "Familie"
+    ],
+    "it": [
+     "Fantasy",
+     "Animazione",
+     "Famiglia"
+    ],
+    "es": [
+     "Fantasía",
+     "Animación",
+     "Familia"
+    ],
+    "sv": [
+     "Fantasy",
+     "Animerat",
+     "Familj"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 9258,
+   "runtime": 87
   },
   {
    "id": 16859,
@@ -131,7 +340,57 @@
     "it": "/yTUATnvhpwaOxVVcZu5v9Y4bmjj.png",
     "es": "/3tYCowHiKjjDiX9ccAeJeOApyjY.png",
     "sv": "/gDS9AsIicAIaVjFtZyODAa9vf1O.png"
-   }
+   },
+   "overview": {
+    "fr": "À l'âge de 13 ans, une future sorcière doit partir faire son apprentissage dans une ville inconnue durant un an. Une expérience que va vivre la jeune et espiègle Kiki aux côtés de Osono, une gentille boulangère qui lui propose un emploi de livreuse.",
+    "en": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+    "de": "Die kleine Hexe Kiki verlässt gemäß der uralten Hexentradition ihre Familie und Freunde, um in einer fremden Stadt ihre Hexenkräfte zu vervollkommnen. Zusammen mit ihrem schwarzen Kater Jiji findet sie durch einen glücklichen Zufall bei einer Bäckerfamilie Unterkunft und entwickelt den Wunsch, selbst einen Betrieb zu eröffnen: Einen Lieferservice, den sie mit ihrer Flugfähigkeit betreiben will. Nach kleineren Startschwierigkeiten bekommt Kiki einige Aufträge und ihr Lieferservice entwickelt sich bald zu einem florierenden Unternehmen. Allerdings machen Kiki die Einsamkeit in der Großstadt und die Tatsache, dass sie anders ist als andere Kinder, zunehmend Probleme. Ihr kleiner Lieferservice und ihre neu gewonnenen Freunde helfen ihr jedoch, auch die schwierigsten Lebenssituationen zu meistern.",
+    "it": "Nella parabola della streghetta dagli umili abiti rivive il consueto viaggio iniziatico di Miyazaki, spesso condotto tra i cieli (in precedenza ne Il castello nel cielo, mentre Porco rosso innalzerà ai massimi livelli il feeling eroico con l'aria) e spesso con una ragazzina come protagonista. Kiki raggiunge la fatidica età di passaggio, quella dei quattordici anni, per abbandonare la dimora natia e scoprire la vecchia Europa, ancora una volta coacervo ideale di stilemi miyazakiani. Modellata su Stoccolma e Lisbona, la città in cui Kiki approda a cavallo della sua scopa volante è il luogo dello smarrimento e dell'emancipazione, in cui l'eroina è da un lato costretta ben presto a una necessaria e dura introspezione, ma può anche sentirsi accettata nonostante la sua diversità; il luogo in cui, attraverso il duro lavoro, conquistare la propria matura autonomia.",
+    "es": "Nicky no es una niña como otra cualquiera porque es aprendiz de bruja. Con solo 13 años y por tradición del oficio que está aprendiendo, la niña tiene que abandonar la casa de sus padres y buscar algún sitio donde sean necesarios sus servicios de bruja. Para emprender el viaje, Nicky se acompaña de su amigo Jiji y también de su gato; juntos, y sobre una escoba voladora, los amigos se instalan en un pueblecito que da al mar, donde la niña empezará a conocerse verdaderamente a sí misma.",
+    "sv": "När fullmånen står som högst och den unga häxan Kiki fyller 13 år är det traditionsenligt dags för häxpraktik. För att bli en fullfjädrad häxa måste hon tillbringa ett år i en främmande stad och tillsammans med sin bästa vän, den kvicktänkte katten Jiji slår hon sig ned i en stor stad vid havet. Kiki har ännu inte funnit sin speciella häxförmåga men bestämmer sig för att starta en budfirma – för flyga kan hon! Men att anpassa sig till en ny omgivning är inte alltid det lättaste och för att utvecklas som häxa räcker det inte med att kunna flyga…"
+   },
+   "tagline": {
+    "fr": "J'avais le blues, mais ça va mieux maintenant.",
+    "en": "I was feeling blue, but I'm better now.",
+    "de": "Ich war betrübt, aber jetzt geht es mir besser.",
+    "it": "Ero scoraggiata, ma ora va meglio",
+    "es": "Me sentía triste, pero ahora estoy mejor."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Fantastique"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Fantasy"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Fantasy"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Fantasy"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Fantasía"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 4844,
+   "runtime": 103
   },
   {
    "id": 15080,
@@ -153,7 +412,49 @@
     "de": "/5Y7cMlTx0PkCLRdcVNv9vwMpgtO.png",
     "it": "/mCVQ3skzaXH7DHUErFly8dUCabE.png",
     "sv": "/6cUqQPjUuF1LFSImGE8EYhtsvm8.png"
-   }
+   },
+   "overview": {
+    "fr": "Taeko, une jeune citadine de 27 ans, part en vacances à la campagne dans la famille de son beau-frère. Laissant derrière elle ses préoccupations professionnelles, elle se laisse submerger par ses souvenirs d'enfance, des anecdotes survenues en 1966 alors qu'elle n'avait que onze ans !",
+    "en": "In lyrical switches between the present and the past, Taeko contemplates the arc of her life, and wonders if she has been true to the dreams of her childhood self.",
+    "de": "Die 27-jährige Taeko ist im Jahr 1982 eine Büroangestellte in Tokio. Obwohl ihre Familie sie zum Heiraten drängt, ist sie alleinstehend. Taeko, die schon seit ihrer Geburt in Tokio lebt, möchte die Großstadt für ein paar Tage verlassen und wegfahren, um sich ein wenig Urlaub zu gönnen. Ihre Schwester Nanako schlägt vor, dass sie die Familie ihres Ehemannes besuchen könnte, da dieser ursprünglich einer Bauernfamilie vom Land, der Präfektur Yamagata im Norden Japans, entstammt. Auf der Fahrt dorthin erlangt sie Erinnerungen an ihre Kindheit in der fünften Klasse der Grundschule wieder. Sie erinnert sich unter anderem an ihre erste Liebe.",
+    "it": "Taeko Okajima è una giovane donna di 27 anni, impiegata presso una grande azienda di Tokyo. Non è sposata né ha fidanzati, con molto rammarico della madre, che tenta senza successo di combinare un matrimonio per lei. Decide di prendersi una breve vacanza e seguire l'istinto di tornare nei luoghi che avrebbe voluto visitare nella sua infanzia per lavorare, durante le ferie, nell'azienda agricola dei genitori del cognato che produce la cartamina, un colorante per cibi che ricorda lo zafferano, attraverso la raccolta dei fiori di cartamo. Durante il viaggio e il soggiorno il suo pensiero andrà a vecchi amori, ad emozioni antiche, o semplicemente a ricordi della sua infanzia che cadranno lentamente, ma inesorabilmente, su di lei, scavandola, colpendola e cambiandola",
+    "es": "Taeko Okajima es una joven de que pide permiso de vacaciones para poder regresar a casa a Yamagata, el pueblo de su cuñada, y donde de niña vivió los momentos mas felices de toda su vida. En el transcurso de su viaje a la granja de sus familiares y a su posterior residencia, Taeko ira recordando su pasado en el colegio, mientras vive intensamente su presente, sin saber bien qué hacer con su vida y si acceder a las presiones de la familia para casarse con el granjero Toshio con el que le une un poderoso afecto.",
+    "sv": "27-åriga Taeko som har levt hela sitt liv i staden bestämmer sig för att besöka sina släktingar på landet. Under resan minns hon sin barndom och när hon träffar lantbrukaren Toshio så börjar hon undra om verkligen levt upp till de förväntningar och drömmar hon hade som barn."
+   },
+   "tagline": {
+    "fr": "Je pars en voyage avec moi",
+    "en": "I'm going on a trip with me.",
+    "es": "Viajando con mi otro yo."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame"
+    ],
+    "en": [
+     "Animation",
+     "Drama"
+    ],
+    "de": [
+     "Animation",
+     "Drama"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma"
+    ],
+    "es": [
+     "Animación",
+     "Drama"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 1316,
+   "runtime": 120
   },
   {
    "id": 11621,
@@ -173,7 +474,56 @@
     "fr": "/fPQ6RHRWTRDMaeuxiJ1SDkh3xud.png",
     "en": "/gP1jW16RoHCWrjtAyCaAxaqvg94.png",
     "es": "/z2AQ7TYfmQjz8ZT4KATqAP4cZWm.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans l'entre-deux-guerres quelque part en Italie, le pilote Marco, aventurier solitaire, vit dans le repaire qu'il a établi sur une île déserte de l'Adriatique. À bord de son splendide hydravion rouge, il vient en aide aux personnes en difficulté.",
+    "en": "In Italy in the 1930s, sky pirates in biplanes terrorize wealthy cruise ships as they sail the Adriatic Sea. The only pilot brave enough to stop the scourge is the mysterious Porco Rosso, a former World War I flying ace who was somehow turned into a pig during the war. As he prepares to battle the pirate crew's American ace, Porco Rosso enlists the help of spunky girl mechanic Fio Piccolo and his longtime friend Madame Gina.",
+    "de": "Porco Rosso, ein Mensch mit Schweinegesicht, ist ein Fliegerass. Statt für die italienische Luftwaffe zu fliegen, verdient der coole, einsame Macho sein Geld lieber als Kopfgeldjäger und jagt Luftpiraten ihre Beute ab, denn \"Ich bin lieber ein Schwein als ein Faschist\". Für ein Duell mit einem amerikanischen Flieger muss er sein rotes Flugzeug generalüberholen lassen - ausgerechnet unter der Leitung einer vorwitzigen 17-Jährigen, die natürlich auch noch mitfliegen will. Die Luftpiraten richten das große Duell aus.",
+    "it": "In quella che Miyazaki Hayao definisce “l’epoca degli idrovolanti”, Marco Pagot è un ex-pilota che si è misteriosamente ritrovato nelle mutate sembianze di un maiale antropomorfo. Con il nome di battaglia di Porco Rosso, vola alla ventura sui cieli dell’Adriatico a bordo del suo idrovolante vermiglio, sfuggendo al giogo fascista e sbarcando il lunario come cacciatore di taglie. Ma l’arrivo del pilota americano Curtis, assoldato dai Pirati del Cielo, lo costringerà a nuove battaglie per salvare il proprio onore e quello di una radiosa fanciulla, per la riconquista di un perduto amore e della fiducia nell’umanità.",
+    "es": "Periodo de entreguerras. Porco es un cerdo aviador que fustra todos los actos de piratería perpetrados por los piratas aéreos del Adriático. Éstos, decididos a acabar con el valiente y hábil Porco, se unen para contratar a un aventurero americano que le elimine de los aires donde las mafias operan",
+    "sv": "Mästerpiloten Porco Rosso har genom en förbannelse förvandlats till en gris. När han utmanas av den hetlevrade amerikanen Curtis måste han, med hjälp av den unge Fio, få sitt något slitna plan tillbaka i dugligt skick. Samtidigt försöker Porco Rosso vinna tillbaka sin älskades hjärta."
+   },
+   "tagline": {
+    "fr": "Un pilote de légende !",
+    "en": "Can a pig really fly?",
+    "it": "Un maiale che è riuscito a volare.",
+    "es": "Un cerdo tiene que volar"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Aventure",
+     "Fantastique"
+    ],
+    "en": [
+     "Animation",
+     "Adventure",
+     "Fantasy"
+    ],
+    "de": [
+     "Animation",
+     "Abenteuer",
+     "Fantasy"
+    ],
+    "it": [
+     "Animazione",
+     "Avventura",
+     "Fantasy"
+    ],
+    "es": [
+     "Animación",
+     "Aventura",
+     "Fantasía"
+    ],
+    "sv": [
+     "Animerat",
+     "Äventyr",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 3900,
+   "runtime": 94
   },
   {
    "id": 21057,
@@ -195,7 +545,59 @@
     "de": "/59gCrI3rGoiNMXvhvaUYLt8PZ1v.png",
     "it": "/tvGIf7q00VkvYKz8lDC6UzU0C5A.png",
     "sv": "/bKVtcNQgrrj8BkNGrHmbbrBeLae.png"
-   }
+   },
+   "overview": {
+    "fr": "Taku, un étudiant, se souvient de l'arrivée de Rikako deux ans auparavant, et de l'été fatidique qui a mis à l'épreuve son amitié avec Yutaka.",
+    "en": "At Kichijōji Station, Tokyo, Taku Morisaki glimpses a familiar woman on the platform opposite boarding a train. Later, her photo falls from a shelf as he exits his apartment before flying to Kōchi Prefecture. Picking it up, he looks at it briefly before leaving. As the aeroplane takes off, he narrates the events that brought her into his life...",
+    "de": "Die beiden Schüler Taku und Yutaka sind beste Freunde und gemeinsam drücken sie auch die Schulbank in der kleinen Stadt Kochi. Eines Tages kommt ein attraktives Mädchen namens Rikako aus der Großstadt nach Kochi, um dort die Highschool weiter zu besuchen. Bereits nach kurzer Zeit ist sie die Klassenbeste, allerdings wird sie wegen ihrer arroganten Art von den übrigen Mädchen ausgeschlossen. Yutaka findet dennoch Gefallen an ihr und verliebt sich in sie. Als jedoch das Gerücht umgeht, dass Taku und Rikako ein Paar sind, wird die Freundschaft der Beiden auf eine harte Probe gestellt. Flüstern des Meeres - Ocean Waves gibt einen kleinen Einblick in das Alltagsleben von japanischen Jugendlichen und zeigt mit viel Gefühl den manchmal mühsamen Weg des Erwachsenwerdens",
+    "it": "\"Si sente il mare\" inizia con l'arrivo di Rikako Muto una giovane ragazza di Tokyo nella cittadina di Kochi (situata nell'isola Shikoku), trasferitasi insieme alla madre dopo la sua separazione con il marito. Sebbene taciturna e introversa la ragazza si dimostra molto intelligente, eccellente nello studio e nello sport e diventa il sogno di molti ragazzi tra cui il migliore amico del protagonista, Yutaka Matsuno. Taku Morisaku che si è trasferito a Tokyo per frequentare l'università, conoscendo i sentimenti dell'amico Yutaka, cerca di comprendere il motivo per il quale quella ragazza gli abbia stregato il cuore, in quanto a prima vista sembra tutto fuorché interessante. E così, tra una situazione e l'altra Rikako si avvicina a entrambi. Da qui ne scaturiranno varie vicissitudini che porteranno Rikako a provare a tornare a vivere con il padre, col risultato di ottenere la consapevolezza che la sua vecchia vita le è ormai estranea.",
+    "es": "Una chica de Tokio acaba de ser trasladada a una de las escuelas superiores de la ciudad de Kochi. Es guapa, buena en los deportes y en los estudios, pero de algún modo no consigue adaptarse a la vida social de la escuela. A ese mismo colegio pertenecen Taku Morisaki y Yukata Matsuno, dos grandes amigos, el primero de los cuales empieza a interesarse visiblemente por la recién llegada Muto.",
+    "sv": "På en tågstation i Tokyo får Taku Morisaki en skymt av en bekant kvinna som stiger på ett tåg på den motsatta perrongen. När han senare är på väg ut ur sin lägenhet för att flyga till Kōchi prefektur faller ett foto på samma kvinna från en hylla.  Han plockar upp bilden och tittar hastigt på den. Medan planet lyfter berättar han hur hon kom in i hans liv…"
+   },
+   "tagline": {
+    "en": "Kochi, summer, age 17—the prologue to my story and Rikako’s."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame",
+     "Romance",
+     "Téléfilm"
+    ],
+    "en": [
+     "Animation",
+     "Drama",
+     "Romance",
+     "TV Movie"
+    ],
+    "de": [
+     "Animation",
+     "Drama",
+     "Liebesfilm",
+     "TV-Film"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma",
+     "Romance",
+     "televisione film"
+    ],
+    "es": [
+     "Animación",
+     "Drama",
+     "Romance",
+     "Película de TV"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama",
+     "Romantik",
+     "TV-film"
+    ]
+   },
+   "rating": 6.4,
+   "votes": 1032,
+   "runtime": 72
   },
   {
    "id": 15283,
@@ -215,7 +617,54 @@
     "fr": "/5qmT5tEKYGNOS3TGDWlOC1HtXHY.png",
     "en": "/vcb5vD06bqJQR0NtJ7ava0fqEd5.png",
     "sv": "/3bMWqR0uCELl9tzdXFCdU0MyWnH.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans les années 1960, le Japon connaît une forte croissance et les logements font défaut. De vastes programmes de construction sont lancés, destinés à transformer les campagnes en villes nouvelles, en particulier la haute vallée de la Tama, à l'ouest de Tokyo. Dans les bois à la périphérie de Tokyo vivent les tanuki. Ce sont à la fois des animaux réels et des animaux mythiques assimilés aux kitsune. La destruction quotidienne de leur espace vital inquiète les tanuki. Ils décident de s'unir et d'enrayer la progression nuisible des travaux en se transformant en divers objets pour garder leur campagne dans laquelle ils vivent…",
+    "en": "The Raccoons of the Tama Hills are being forced from their homes by the rapid development of houses and shopping malls. As it becomes harder to find food and shelter, they decide to band together and fight back. The Raccoons practice and perfect the ancient art of transformation until they are even able to appear as humans in hilarious circumstances.",
+    "de": "In den Wäldern unweit von Tokio leben seit Jahrhunderten die waschbärartigen Tanuki. Mit zunehmender Ausbreitung der Großstadt wird ihr Lebensraum immer knapper, weshalb sie sich auf ihre Fähigkeit besinnen, jede nur erdenkliche Gestalt anzunehmen. Als Menschen, Geister und Objekte wie Bulldozer versuchen sie, die Bauarbeiten zu sabotieren und die echten Menschen zu vertreiben. Doch ihr Kampf ist aussichtslos, und so müssen sich die Tanuki für ihr Überleben andere Lösungen einfallen lassen.",
+    "it": "Pom poko è la favola dello scontro tra la moderna urbanizzazione e la natura. Un gruppo di Tanuki abitanti delle colline Tama è costretto ad abbandonare le case a causa del rapido sviluppo e della costruzione di nuovi edifici e centri commerciali. Visto che diventa sempre più difficile trovare cibo e rifugio, decidono di lottare tutti insieme per preservare il loro habitat. I Tanuki hanno perfezionato l'antica arte della trasformazione fino a potersi muovere come gli esseri umani su due gambe. Usano così questi poteri per limitare l'avanzamento dell'urbanizzazione. Ma sarà sufficiente?",
+    "es": "Ante la inminente destrucción de un frondoso bosque cercano a una ciudad, cuyos dirigentes quieren construir en su lugar una urbanización, los mapaches que viven en el bosque intentarán sabotear la operación para así conservar sus hogares.",
+    "sv": "Tanukis, fredliga mårdhundsliknande varelser som lever i skogarna i utkanten av Tokyo, har alltid levt i harmoni med naturen. Men nu riskerar de att utrotas eftersom människorna vill skövla deras skog och bygga bostäder på platsen.  Men Tanukierna kämpar emot, på sitt eget magiska sätt! De kan förvandla sig till prylar, spöken och till och med människor - men efterhand lär sig människorna deras taktik och slår tillbaka.  Tanukierna blir tvungna att söka hjälp hos rävarna i granskogen..."
+   },
+   "tagline": {
+    "en": "A fantastic tale of survival.",
+    "es": "Una fantástica historia de supervivencia"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Animation",
+     "Fantastique"
+    ],
+    "en": [
+     "Adventure",
+     "Animation",
+     "Fantasy"
+    ],
+    "de": [
+     "Abenteuer",
+     "Animation",
+     "Fantasy"
+    ],
+    "it": [
+     "Avventura",
+     "Animazione",
+     "Fantasy"
+    ],
+    "es": [
+     "Aventura",
+     "Animación",
+     "Fantasía"
+    ],
+    "sv": [
+     "Äventyr",
+     "Animerat",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 1267,
+   "runtime": 119
   },
   {
    "id": 37797,
@@ -238,7 +687,54 @@
     "it": "/aNMFhwNdDaiJEfrzjWZZABJk7HV.png",
     "es": "/8gm9b0OKGnDLXGGABifXosBrzd.png",
     "sv": "/lnKCWYaXV5Ecex1u2KgPgWsSWqS.png"
-   }
+   },
+   "overview": {
+    "fr": "Shizuku est une jeune collégienne de quatorze ans comme toutes les autres, mais elle est passionnée de littérature et elle écrit des chansons. C’est l’été à Tokyo, et elle a décidé de lire, pendant les vacances, une vingtaine de livres. Elle découvre qu’à chacun des romans qu’elle a choisis, le nom de Seiji Amasawa apparaît sur la liste des personnes les ayant empruntés. Shizuku rencontre enfin ce Seiji.",
+    "en": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: \"Seiji Amasawa.\"",
+    "de": "Die 14-jährige Shizuku ist ein echter Bücherwurm und leiht sich in der städtischen Bibliothek ein Buch nach dem anderen aus. Da fällt dem verträumten Mädchen auf, dass ein gewisser Seiji Amasawa alle von ihr ausgewählten Bücher schon vor ihr gelesen hat. Sie beginnt, sich ein Traumbild von dem Jungen auszumalen, der die gleichen Geschichten wie sie schätzt. Eines Tages verfolgt Shizuku eine mit der U-Bahn umherfahrende Katze und gelangt so zu einem kleinen Antiquitätenladen, dessen Ausstellungsstücke sie faszinieren. Hier trifft sie auf einen Mitschüler, der sie schon öfters aufgezogen hat. Dieser Junge, der Enkel des Ladenbesitzers, heißt zufällig auch noch Seiji. Schon bald findet sich Shizuku in einem Gefühlschaos wieder und sieht sich zudem mit der Frage konfrontiert, was für eine Zukunft sie eigentlich anstrebt …",
+    "it": "La storia inizia durante le vacanze estive del 1994 a Tokyo e narra di Shizuku, comune studentessa delle medie con una normale famiglia: padre, madre e sorella universitaria. Shizuku è appassionata di romanzi e spesso si reca alla biblioteca di quartiere per prendere in prestito numerosi volumi. Un giorno, nel noleggiarne alcuni, si accorge che nella tessera dei noleggi stranamente ricorre sempre un cognome prima del suo: Amasawa, e con la fantasia di un'aspirante scrittrice comincia a fantasticare su chi sia questo ragazzo che pare abbia i suoi stessi gusti.",
+    "es": "Una joven estudiante amante de los libros descubre que todos los libros que ha elegido en la biblioteca han sido previamente elegidos por una misma persona. Cuando descubre quién es conoce a Seiji, un joven que está aprendiendo el arte de fabricar violines.",
+    "sv": "Tsukishima Shizoku är vad de flesta nog skulle kalla både bokmal och plugghäst. Hon spenderar sin fritid till att läsa bok efter bok. En dag upptäcker hon att alla de böcker hon lånar har samtliga blivit lånade av en och samma person före henne. Smått nyfiken på vem denna person är, börjar hon göra efterfrågningar. Det leder henne till jämnårige Seiji. Seiji är precis som Shizoku en bokmal, men till skillnad från Shizoku så kämpar han för att fullfölja sina drömmar."
+   },
+   "tagline": {
+    "en": "I found someone I like.",
+    "es": "Encontré a alguien que me gusta"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Drama",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Drama",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Drama",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama",
+     "Familj"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 2408,
+   "runtime": 111
   },
   {
    "id": 128,
@@ -261,7 +757,58 @@
     "it": "/7okES0WMDcGDbcXdWTlgFZ5Gpxm.png",
     "es": "/slZ0Iwg0uUaMII7nMwXajmJ2hUs.png",
     "sv": "/83DmR0I00xyQjxcDiID6sKtjkgu.png"
-   }
+   },
+   "overview": {
+    "fr": "Parti en quête d'un remède, un prince affecté par un mal fatal se retrouve dans une contrée où se livre une bataille entre une ville minière et les animaux de la forêt.",
+    "en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "de": "Japan im frühen Mittelalter. Der junge Krieger Ashitaka tötet in Notwehr einen dämonischen Eber und wird darauf mit einem Fluch belegt. Auf der Suche nach Heilung durchstreift Ashitaka das Land und stößt schließlich nahe einer befestigten Hüttensiedlung, die sich tief in das einst idyllische Land um einen Heiligen Berg frisst, auf die von Wölfen großgezogene Kriegerin San, genannt Mononoke. Obwohl San einen Krieg für die Natur wider ihre Zerstörer führt, verliebt sie sich in Ashitaka.",
+    "it": "In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
+    "es": "Tras sufrir el ataque de un monstruoso jabalí maldito, el joven Ashitaka emprende el camino en busca de la cura que detenga la infección. Mientras, los humanos están acabando con los bosques y los dioses convertidos en temibles bestias hacen todo lo posible por protegerlo encabezados por Mononoke, una princesa guerrera. Ashikata deberá escoger bando y decidir si ayudar a los hombres o las deidades intentando detener la maldición de su herida que se extiende por su cuerpo sin cuartel.",
+    "sv": "Den unge krigaren Ashikita räddar sin by från en djurgud i vildsvinsskepnad som drabbats av en förbannelse. Under striden skadas han och drar på sig samma förbannelse som drabbat djurguden. För att lyfta förbannelsen är han tvungen att bege sig till en helig skog och söka Hjortgudens hjälp. Väl där dras han in i en konflikt mellan människorna på ett järnbruk vid skogen och de djurgudar som lever där."
+   },
+   "tagline": {
+    "fr": "Les hommes sont bien plus dangereux que les dieux de la forêt.",
+    "en": "The fate of the world rests on the courage of one warrior.",
+    "de": "Das Schicksal der Welt hängt von dem Mut eines einzigen Kriegers ab.",
+    "it": "Il destino del mondo é affidato a un solo eroe.",
+    "es": "El destino del mundo depende del coraje de un guerrero.",
+    "sv": "Världens öde vilar på en enda krigares mod."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Animation"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Animation"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Animation"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Animazione"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Animación"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Animerat"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 9475,
+   "runtime": 134
   },
   {
    "id": 16198,
@@ -283,7 +830,57 @@
     "de": "/A4fkWEF98lnsF5VSuamP1nblE4R.png",
     "it": "/nf3slCMwJmvBCggq7REoxaZjT0F.png",
     "sv": "/1FnlFGp119IvQ3StcQircZB3f72.png"
-   }
+   },
+   "overview": {
+    "fr": "Nonoko Yamada, une petite fille espiègle au franc parler, nous présente chaque membre de sa famille peu ordinaire : son père, Takashi Yamada, homme d'affaires un peu bougon ; sa mère, Matsuko, au naturel spontané, un peu fainéante, vite démoralisée par les tâches ménagères et autres travaux domestiques. Quant à Naboru, son grand frère, il déteste étudier. Et enfin Shige, sa grand-mère, une septuagénaire bien bavarde qui ne rate pas une occasion de donner son avis sur tout et de s'amuser des querelles du couple.",
+    "en": "The Yamadas are a typical middle class Japanese family in urban Tokyo and this film shows us a variety of episodes of their lives. With tales that range from the humorous to the heartbreaking, we see this family cope with life's little conflicts, problems, and joys in their own way.",
+    "de": "Bei den Yamadas handelt es sich um eine ganz normale japanische Familie, was für den im Büro gestressten Vater bedeutet, dass er sich schon mal mit einer Banane als Abendessen abfinden muss, wenn er nach einem schweren Tag erschöpft nach Hause kommt. Andererseits erweist er sich als durchaus zögerlich, wenn es gilt, eine lärmende Motorradgang in die Schranken zu verweisen - was schließlich Großmutter Shige vorbehalten bleibt. Kein Wunder also, dass sich der heranwachsende Noboru andere Eltern wünscht und seine kleine Schwester Nononoko die Neigung hat, im Einkaufszentrum verloren zu gehen.",
+    "it": "Gli Yamada sono la tipica famiglia giapponese che vive a Tokyo. Il capofamiglia Takashi lavora in fabbrica, la moglie Matsuko è casalinga, il figlio maggiore Noboru è uno studente; poi ci sono la piccola Nonoko e la nonna Shige, che vive con loro e li aiuta nei lavori domestici. Tra piccoli drammi e momenti comici, tra realismo e fantasia, la vita della famiglia procede, verso un futuro da accogliere sempre con ironia.",
+    "es": "Basada en el famoso manga de Hisachi Ishii, esta película cuenta pequeñas e imaginativas historias de la vida diaria de una típica familia de clase media de Tokyo. Los Yamada son Takashi y Matsuko (el padre y la madre), Shige (la suegra), Noboru (el hijo), Nonoko (la hija) y Pochi (el perro de la familia).",
+    "sv": "Familjen Yamada, en typisk medelklassfamilj i Tokyo, är nästan som vilken annan familj som helst. I dessa episoder får vi se dem hantera konflikter, problem och glädjeämnen på deras eget speciella sätt!"
+   },
+   "tagline": {
+    "en": "The ups and downs of life.",
+    "it": "La sicurezza della famiglia è il desiderio del mondo.",
+    "es": "La seguridad de la familia es el deseo del mundo."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Comédie",
+     "Familial",
+     "Drame"
+    ],
+    "en": [
+     "Animation",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Commedia",
+     "Famiglia",
+     "Dramma"
+    ],
+    "es": [
+     "Animación",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 642,
+   "runtime": 104
   },
   {
    "id": 129,
@@ -305,7 +902,57 @@
     "de": "/19W6EvFjzKP8WaRZOGSNl3URrCq.png",
     "it": "/3qc3Dq7OODSqdaKl5d6j07Qs6PX.png",
     "es": "/2S73KeDuLJXOddfOrF4BKHjQBJd.png"
-   }
+   },
+   "overview": {
+    "fr": "Chihiro, 10 ans, a tout d’une petite fille capricieuse. Elle s’apprête à emménager avec ses parents dans une nouvelle demeure. Sur la route, la petite famille se retrouve face à un immense bâtiment rouge au centre duquel s’ouvre un long tunnel. De l’autre côté du passage se dresse une ville fantôme. Les parents découvrent dans un restaurant désert de nombreux mets succulents et ne tardent pas à se jeter dessus. Ils se retrouvent alors transformés en cochons. Prise de panique, Chihiro s’enfuit et se dématérialise progressivement. L’énigmatique Haku se charge de lui expliquer le fonctionnement de l’univers dans lequel elle vient de pénétrer. Pour sauver ses parents, la fillette va devoir faire face à la terrible sorcière Yubaba, qui arbore les traits d’une harpie méphistophélique.",
+    "en": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "de": "Als die kleine Chihiro mit ihren Eltern während eines Ausflugs einen dunklen Tunnel durchquert, ahnt sie noch nicht, was sie auf der anderen Seite erwarten wird. Denn dort liegt eine für Menschen normalerweise unsichtbare Stadt der Geister. Zu allem Übel muss Chihiro dann auch noch feststellen, dass sich ihre Eltern in Schweine verwandelt haben und sie selbst plötzlich unsichtbar zu werden scheint...",
+    "it": "La piccola Chihiro non sopporta l'idea di traslocare e di perdere i propri amici, ma non può far niente per impedirlo. Proprio quando la famiglia è in viaggio verso la nuova casa, il padre imbocca una strada sterrata che termina davanti a un tunnel misterioso. I genitori sceglieranno di attraversarlo nonostante le rimostranze di Chihiro, per giungere a un parco dei divertimenti abbandonato, almeno apparentemente.",
+    "es": "Durante el traslado de su familia a los suburbios, una niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+    "sv": "När Chihiro och hennes familj flyttar till en ny stad hamnar de av misstag i en annan, magisk värld - bebodd av urgamla gudar och magiska varelser som styrs av en demonisk härskarinna, Yubaba. Chihiro får en vän i den gåtfulla Haku, som hjälper henne att överleva i denna nya och konstiga värld."
+   },
+   "tagline": {
+    "fr": "Un tunnel qui emmènera cette petite fille vers un monde mystérieux.",
+    "en": "Prepare to be spirited away.",
+    "it": "Il tunnel porta Chihiro in una città misteriosa...",
+    "es": "El túnel llevó a Chihiro a una ciudad misteriosa...",
+    "sv": "Bortom tunneln låg en mystisk stad."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Familial",
+     "Fantastique"
+    ],
+    "en": [
+     "Animation",
+     "Family",
+     "Fantasy"
+    ],
+    "de": [
+     "Animation",
+     "Familie",
+     "Fantasy"
+    ],
+    "it": [
+     "Animazione",
+     "Famiglia",
+     "Fantasy"
+    ],
+    "es": [
+     "Animación",
+     "Familia",
+     "Fantasía"
+    ],
+    "sv": [
+     "Animerat",
+     "Familj",
+     "Fantasy"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 19239,
+   "runtime": 126
   },
   {
    "id": 15370,
@@ -327,7 +974,69 @@
     "de": "/fbCITHdduOrzzLHFJlV1Sya77py.png",
     "it": "/m4zzFssC7zWmcowGogRL2FViaeA.png",
     "sv": "/21xlnOwYGPh3EPwboXNJSdKDSoH.png"
-   }
+   },
+   "overview": {
+    "fr": "Haru est une jeune lycéenne de 17 ans pleine de doutes qui ne trouve pas sa place au milieu des autres. Sa vie bascule le jour où, sur le chemin du retour du lycée avec sa meilleure amie Hiromi, elle sauve la vie d'un chat qui manque d'être écrasé par un camion. Mais il ne s'agit pas de n'importe quel chat, car celui-ci parle et se présente comme Loon, le prince du Royaume des chats...",
+    "en": "Young Haru rescues a cat from being run over, but soon learns it's no ordinary feline; it happens to be the Prince of the Cats.",
+    "de": "Die naive, etwas ungeschickte 17-jährige Haru rettet auf ihrem Schulweg eine Katze vor einem nahenden Lastwagen. Zu ihrer Verwunderung stellt die Katze sich darauf auf ihre Hinterbeine und spricht ihrer Retterin ihren Dank aus, bevor sie verschwindet. In der darauffolgenden Nacht erhält Haru zudem hohen Besuch. Der Katzenkönig höchstpersönlich ist mit seinem Gefolge gekommen, um der verblüfften Schülerin zu verkünden, dass ihr auf Grund der Rettung seines Sohnes Prinz Lune die große Ehre zuteil werde, eben jenen Thronfolger zu ehelichen. Am nächsten Morgen tut das Mädchen noch alles als sonderbaren Traum ab, doch schnell muss sie einsehen, dass sie wohl schon bald als Katzenbraut vor den Altar geführt werden wird.",
+    "it": "Haru è una ragazza molto sbadata, lenta, la cui vita scolastica scorre senza alcun scotimento e che quindi la lascia sempre relativamente insoddisfatta. Non ha un ragazzo, ha pochi amici, a casa fa poco e nulla, ma è dotata di un altruismo fuori del comune. La sua vita cambia quando salva un gatto da una morte certa (acciaccato da un TIR) e questo lo ringrazia garbatamente proferendogli parole di elogio. inutile dire che la ragazza rimanga basita, ma ancor più basita rimane la sera quando riceve una ambasciata dal re dei gatti in persona che la invita al suo regno a vsisitarlo per ringraziarla di aver salvato il suo unico figlio nonchè erede al trono. Il giorno seguente dopo aver subito delle situazioni a dir poco particolari, viene eletta dai lacché del re come promessa sposa e trascinata nel regno.",
+    "es": "Esta es la historia de Haru, una joven cuya suerte cambiará un día al volver del instituto, cuando salvará a un gato de ser atropellado por un camión. Pero no es un gato común, es Lune, el Príncipe del Reino de los Gatos. En recompensa por su acción, Haru será invitada a pasar un tiempo en el Reino de los Gatos, aunque no es lo que ella esperaba....",
+    "sv": "Haru är en blyg, lite klumpig, flicka som räddar livet på en kattprins. Som belöning får hon tillträde till Katternas rike där hon motviligt börjar förvandlas till katt samtidigt som hon ska giftas bort med prinsen. Nu är det upp till hennes nyfunna vänner Toto, Baronen och Muta att hjälpa henne fly innan förvandlingen är helt klar."
+   },
+   "tagline": {
+    "fr": "Rêvez.",
+    "en": "It's not so bad being a cat, now is it?",
+    "de": "Reise in eine andere Welt.",
+    "it": "Non è poi così male essere un gatto adesso, vero?",
+    "es": "No es tan malo ser un gato, ¿verdad?"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Animation",
+     "Drame",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Animation",
+     "Drama",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Animation",
+     "Drama",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Animazione",
+     "Dramma",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Animación",
+     "Drama",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Animerat",
+     "Drama",
+     "Familj"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 2569,
+   "runtime": 75
   },
   {
    "id": 4935,
@@ -350,7 +1059,56 @@
     "it": "/cOcqGC1mgPoRYvaUxPMACEKOKjz.png",
     "es": "/t1RgdiMy3vvwYTWrpqWPHOKeoEJ.png",
     "sv": "/mBqNi5HVNfwV8QgdUpPJX1i5eQa.png"
-   }
+   },
+   "overview": {
+    "fr": "La jeune Sophie, âgée de 18 ans, travaille sans relâche dans la boutique de chapelier que tenait son père avant de mourir. Lors de l’une de ses rares sorties en ville, elle fait la connaissance de Hauru le Magicien. Celui‐ci est extrêmement séduisant, mais n’a pas beaucoup de caractère… Se méprenant sur leur relation, une sorcière jette un épouvantable sort sur Sophie et la transforme en vieille femme de 90 ans. Accablée, Sophie s’enfuit et erre dans les terres désolées. Par hasard, elle pénètre dans le Château Ambulant de Hauru et, cachant sa véritable identité, s’y fait engager comme femme de ménage. Cette « vieille dame » aussi mystérieuse que dynamique va bientôt redonner une nouvelle vie à l’ancienne demeure. Plus énergique que jamais, Sophie accomplit des miracles. Quel fabuleux destin l’attend  ? Et si son histoire avec Hauru n’en était qu’à son véritable commencement  ?",
+    "en": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+    "de": "Die junge Hutmacherin Sophie lebt in einer Kleinstadt im Lande Ingary, einer Welt voller Magie und Fabelwesen, die aber auch schon erste Flugzeuge und Dampfmaschinen kennt. Eines Tages lernt Sophie durch Zufall den jungen Magier Hauro kennen und verliebt sich in ihn - doch eine eifersüchtige Hexe verwandelt sie in eine alte Frau. Sophie verlässt ihre Heimatstadt, um nach einem Mittel gegen den Fluch zu suchen, und gelangt schließlich zu Hauros wandelndem Schloss. Hier findet sie eine Anstellung als Putzfrau und gewinnt durch ihre freundliche und zuvorkommende Art schnell die Herzen der übrigen Bewohner. Nur Hauro bleibt ihr gegenüber kalt und abweisend. Als der König von Hauro verlangt, für ihn in den Krieg zu ziehen, begreift Sophie allmählich, welche geheimnisvolle Verbindung zwischen dem Magier und Calcifer besteht, dem Dämon, dessen Kraft das wandelnde Schloss antreibt - und dass nur die alles verwandelnde Kraft der Liebe sie, Hauro und die übrigen Bewohner erlösen kann.",
+    "it": "Sophie ha diciotto anni e ogni giorno lavora instancabilmente nel negozio di cappelli del suo defunto padre. Un giorno, durante una rara escursione in città, per caso incontra il Mago Howl. Howl è ardito e bello, ma come tutti i maghi un po' smidollato. La Strega della Spazzatura, equivocando la natura del loro rapporto, getta una maledizione su Sophie, trasformandola in una novantenne rugosa. Sophie va via di casa e girovaga in una distesa desolata dove per caso entra nel castello mobile di Howl. Nascondendo la sua identita', diventa la donna delle pulizie. La vecchia petulante Sophie rimette a posto la casa, con molto piů brio di quanto ne avesse in origine. Cosa farà Sophie e cosa capiterà tra lei e Howl?",
+    "es": "Sophie, una joven sobre la que pesa una horrible maldición que le confiere el aspecto de una anciana, decide pedir ayuda al mago Howl, que vive en un castillo ambulante, pero tal vez sea Howl quien necesite la ayuda de Sophie.",
+    "sv": "Tonåringen Sofie jobbar i sin avlidne pappas hattaffär i en tråkig stad, men tillvaron blir betydligt intressantare när hon plötsligt förvandlas till en gammal dam."
+   },
+   "tagline": {
+    "fr": "Ils y vivaient tous les deux.",
+    "en": "A magician, a witch, a castle that has life. A fantastic journey into the world of imagination.",
+    "it": "I due vivevano lì.",
+    "es": "Los dos vivieron allí"
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Animation",
+     "Aventure"
+    ],
+    "en": [
+     "Fantasy",
+     "Animation",
+     "Adventure"
+    ],
+    "de": [
+     "Fantasy",
+     "Animation",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantasy",
+     "Animazione",
+     "Avventura"
+    ],
+    "es": [
+     "Fantasía",
+     "Animación",
+     "Aventura"
+    ],
+    "sv": [
+     "Fantasy",
+     "Animerat",
+     "Äventyr"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 11679,
+   "runtime": 120
   },
   {
    "id": 37933,
@@ -373,7 +1131,57 @@
     "it": "/pIzIPdsiA7SFaM9PXKFS7qHQo33.png",
     "es": "/szGseX4x8GAFAigqMWlP5WQytPt.png",
     "sv": "/jlYj2gHypcSfCvy8AlogvV7ztvi.png"
-   }
+   },
+   "overview": {
+    "fr": "Les aventures du jeune Arren, prince du royaume d'Enlad, qui va s'allier aux forces du grand magicien Epervier, pour rétablir l'équilibre du monde rompu par une sorcière maléfique. Dans le combat qui s'annonce, Arren et Epervier croiseront la route de Therru, une mystérieuse jeune fille. Ensemble, ils dépasseront leurs peurs et uniront leurs destins pour mener le plus fascinant des voyages.",
+    "en": "As crops dwindle and dragons reappear, mankind stands on the verge of total chaos. Lord Archmage Sparrowhawk, a powerful wizard, and Arren, a troubled young prince, search for the force behind this mysterious imbalance that threatens to destroy the land of Earthsea.",
+    "de": "Ged ist der größte Zauberer Erdsees und fest dazu entschlossen, das Rätsel der Bedrohung zu der Welt zu lösen und Erdsee so vor Schrecklichem zu bewahren. Gemeinsam mit Arren, dem Prinz von Enlad, begibt er sich auf eine Abenteuerliche Reise und findet heraus, dass der Zauberer Cob die Tür zwischen den Welten der Lebenden und der Toten geöffnet hat. Wird es Ged und Arren gelingen, die dunklen Mächte zu besiegen und das Gleichgewicht der Welt wieder herzustellen?",
+    "it": "Quando i draghi che controllano il confine estremo di Terramare si spingono minacciosamente fino alle terre abitate, fino ad allora, solo da uomini, è segno che l’equilibrio del mondo sta crollando. Per Ged, un giovane mago, comincia così il lungo viaggio alla ricerca della misteriosa e terribile forza che sta minacciando la terra…",
+    "es": "Arren tenía una vida tranquila como príncipe de Enlad, pero ahora que se encuentra en el exilio es constantemente perseguido por una misteriosa sombra que conoce sus debilidades. Cuando se da cuenta de que el equilibrio del mundo se ha roto por culpa de una bruja, pide la ayuda de Gavilán, el mago más poderoso de las islas de Terramar. Juntos emprenderán un viaje fascinante en el que unirán su destino al de una joven maltratada por el pasado. La batalla contra las fuerzas del mal les espera.",
+    "sv": "Ett skepp har fastnat i stormen. Kaptenen beordrar en väderbiten magiker att lugna havet, men magikerna har glömt havets riktiga namn och stormen fortsätter att rasa. Plötsligt uppenbarar sig två drakar bland vågorna och besättningen ser till sin fasa hur de slukar varandra. Att drakarna från väst uppenbarar sig på den östra sidan är ett dåligt omen, något otänkbart är på väg att hända. Balansen i världen är på väg att kollapsa."
+   },
+   "tagline": {
+    "fr": "Autrefois, l'Homme et le Dragon ne faisaient qu'un. L'homme a choisi la terre et la mer, le dragon a choisi le vent et le feu.",
+    "en": "Once Man and Dragon were one. Man chose Land and Sea, Dragon chose Wind and Fire.",
+    "de": "Einmal waren Menschen und Drachen eins, der Mensch entschied sich für Land und Meer, Drachen wählt Wind und Feuer.",
+    "it": "Una volta l'uomo e il drago erano una cosa sola. L'uomo ha scelto la terra e il mare, il drago ha scelto il vento e il fuoco.",
+    "es": "Una vez el hombre y el dragón fueron uno. El hombre eligió tierra y mar, el dragón eligió viento y fuego."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Fantastique",
+     "Aventure"
+    ],
+    "en": [
+     "Animation",
+     "Fantasy",
+     "Adventure"
+    ],
+    "de": [
+     "Animation",
+     "Fantasy",
+     "Abenteuer"
+    ],
+    "it": [
+     "Animazione",
+     "Fantasy",
+     "Avventura"
+    ],
+    "es": [
+     "Animación",
+     "Fantasía",
+     "Aventura"
+    ],
+    "sv": [
+     "Animerat",
+     "Fantasy",
+     "Äventyr"
+    ]
+   },
+   "rating": 6.5,
+   "votes": 1563,
+   "runtime": 116
   },
   {
    "id": 12429,
@@ -395,7 +1203,56 @@
     "it": "/lWBWhA6SMxlqkmcMjIp7rima5L4.png",
     "es": "/lWOG1L2w2FeUwuDJX5xmUupZO2m.png",
     "sv": "/H5oP8RyjFYoKO3Hg70WBP0E2gd.png"
-   }
+   },
+   "overview": {
+    "fr": "La trame suit une petite princesse poisson rouge appelée Ponyo qui veut désespérément devenir humaine. En cherchant ce faire, elle devient amie d'un garçon de cinq ans, Sôsuke.",
+    "en": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.",
+    "de": "Brunhilde ist ein Fischmädchen, das nicht nur zaubern kann - es ist auch verdammt neugierig. Eines Tages gelingt es ihr, mithilfe einer Qualle an die Wasseroberfläche zu kommen. Doch dort verfängt sie sich in einem Marmeladenglas, aus dem ihr der aufgeweckte Junge Sosuke heraushilft. Der Fünfjährige ist von dem Fischgeschöpf, das er als Goldfisch bezeichnet, sofort angetan, tauft es auf den Namen Ponyo und nimmt es in einem mit Wasser gefüllten Eimer mit zur Grundschule. Menschenjunge und Fischmädchen freunden sich an, doch dann wird Ponyo von ihrem erzürnten Vater ins Meer zurückgeholt. Sie möchte aber unbedingt bei ihrem geliebten Freund Sosuke an der Oberfläche bleiben und selbst ein Menschenkind werden. Also setzt sie ihre magischen Kräfte ein, um zu Sosuke und seiner resoluten Mutter Lisa zurückzukehren, und missachtet dabei die gefährlichen Konsequenzen...",
+    "it": "Dal mare emerge una pesciolina rossa a bordo di una medusa. Rimasta intrappolata in un barattolo di vetro, viene soccorsa e liberata da Sosuke, un bimbo di cinque anni che vive in cima alla scogliera. La gratitudine della pesciolina, che Sosuke battezzerà col nome di Ponyo, si trasforma in tenera amicizia. L'idillio viene però interrotto da Fujimoto, padre di Ponyo e padrone-stregone dei fondali marini. Un tempo umano, Fujimoto ha lasciato la terra per l'acqua prendendo in moglie la Madre del Mare. Decisa a tentare la fuga e a scegliere per sé un destino umano, Ponyo rovescia accidentalmente l'elisir magico del padre, trasformandosi in una bambina e alterando la quiete del mare. Le onde furiose e i pesci giganti la condurranno fino alla casa di Sosuke, dove sarà accolta e amata. Perché il mare si ritiri e restituisca a Ponyo la sua libertà e a Sosuke la sua mamma e il suo villaggio, il bambino dovrà affrontare una prova e riportare l'equilibrio tra il genere umano e la natura.",
+    "es": "La historia se centra en Sosuke, un niño de 5 años, y su relación con una princesa pez que ansía convertirse en un ser humano. Libre adaptación de \"La sirenita\" que obtuvo muy buena acogida de la crítica en el Festival de Venecia 2008.",
+    "sv": "Fiskflickan Ponyo längtar till världen ovanför vattenytan. Efter att ha träffat människopojken Sosuke blir hennes längtan allt större. Ponyo gör allt för att få vara med sin Sosuke. Vad hon inte räknat med är att hon samtidigt skapar obalans i världen. Havet gör uppror, och på dess vågor springer hon till sin älskade Sosuke. Men ska Ponyo kunna fortsätta att leva sitt liv som människoflicka och ska havet dra sig tillbaka och balansen i naturen återställas igen?"
+   },
+   "tagline": {
+    "fr": "Bienvenue dans un monde où tout est possible.",
+    "en": "Welcome to a world where anything is possible.",
+    "it": "Benvenuto in un mondo dove tutto è possibile.",
+    "es": "Bienvenidos a un mundo donde todo es posible"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Fantastique",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Fantasy",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Fantasy",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Fantasy",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Fantasía",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Fantasy",
+     "Familj"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 5075,
+   "runtime": 101
   },
   {
    "id": 51739,
@@ -418,7 +1275,57 @@
     "it": "/m7Cb8gR4P8VQKRKPk3KvMUIUWLX.png",
     "es": "/llGFLnbpbuQr2DuqyBM5MadLMXA.png",
     "sv": "/9bZKR4Qaj74vjMjX1KXYxvQnpje.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans la banlieue de Tokyo, sous le plancher d’une vieille maison perdue au cœur d’un immense jardin, la minuscule Arrietty vit en secret avec sa famille. Ce sont des Chapardeurs. Arrietty connaît les règles : on n’emprunte que ce dont on a besoin, en tellement petite quantité que les habitants de la maison ne s’en aperçoivent pas. Plus important encore, on se méfie du chat, des rats, et interdiction absolue d’être vus par les humains sous peine d’être obligés de déménager et de perdre cet univers miniature fascinant fait d’objets détournés. Arrietty sait tout cela. Pourtant, lorsqu’un jeune garçon, Sho, arrive à la maison pour se reposer avant une grave opération, elle sent que tout sera différent. Entre la jeune fille et celui qu’elle voit comme un géant, commence une aventure et une amitié que personne ne pourra oublier…",
+    "en": "14-year-old Arrietty and the rest of the Clock family live in peaceful anonymity as they make their own home from items \"borrowed\" from the house's human inhabitants. However, life changes for the Clocks when a human boy discovers Arrietty.",
+    "de": "Däumeline bzw. Borgerin Arrietty lebt mit Vater und Mutter versteckt unter der Veranda des Familienhauses des zwölfjährigen Menschenjungen Sho. Ist das Leben der Winzlinge aufgrund von Katzen- und Krähenattacken ohnehin nicht leicht, ist Arriettys Familie nach dem ersten Blickkontakt zwischen ihr und Sho zudem zum Umzug gezwungen, wie es ein altes Borgergesetz vorschreibt. Doch Sho sucht nach einem anderen Weg, auch wenn seine heimtückische Großtante Jagd auf die Borgergemeinschaft macht.",
+    "it": "Sotto il pavimento di una grande casa nella campagna di Tokyo, vive la quattordicenne Arrietty con la madre e il padre. Sono una famiglia di “rubacchiotti”, alti dieci centimetri, che prendono in prestito dagli umani tutto ciò che serve loro per sopravvivere ma in piccolissime quantità, in modo che nessuno se ne accorga e possa scoprire la loro esistenza. Arrietty, però, in una delle sue incursioni nel giardino della casa viene vista da Sho, un ragazzino umano di 12 anni che soggiorna lì, presso la zia, in attesa di una rischiosa operazione al cuore. Nonostante la cosa scateni il terrore nei genitori, che si preparano immediatamente a traslocare, Arrietty capisce di potersi fidare di Sho e tra i due nasce una breve ma importante amicizia.",
+    "es": "Una joven diminuta llamada Arrietty, que se hace amiga de un niño mucho más grande que ella, tendrá que proteger a su familia de todos los gigantes.",
+    "sv": "14-åriga Arrietty är en lånare, ett småfolk som har sin boning under människors hus. De lever på att låna sådant de behöver för sitt uppehälle, men bara sådant som människorna inte saknar. Det viktigaste för en lånare är att aldrig bli sedd av en människa, för i så fall måste de genast flytta. Men när Arrietty träffar pojken Sho förstår hon att alla människor inte är det hot som lånarna tror."
+   },
+   "tagline": {
+    "fr": "Un petit monde caché… Une première découverte… Une rencontre inattendue…",
+    "en": "Discover a secret world within our own.",
+    "de": "Lass dich nicht von Menschen sehen, das ist das Gesetz der Borger.",
+    "it": "Non essere visti dagli esseri umani. Questa è stata la legge degli abitanti sotto al pavimento.",
+    "es": "No ser visto por humanos. Esa ha sido la ley de los niños del subsuelo."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Animation",
+     "Familial"
+    ],
+    "en": [
+     "Fantasy",
+     "Animation",
+     "Family"
+    ],
+    "de": [
+     "Fantasy",
+     "Animation",
+     "Familie"
+    ],
+    "it": [
+     "Fantasy",
+     "Animazione",
+     "Famiglia"
+    ],
+    "es": [
+     "Fantasía",
+     "Animación",
+     "Familia"
+    ],
+    "sv": [
+     "Fantasy",
+     "Animerat",
+     "Familj"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 3347,
+   "runtime": 95
   },
   {
    "id": 83389,
@@ -441,7 +1348,48 @@
     "it": "/1vEbekdKKfnB4uogTO7fxRT7G9m.png",
     "es": "/iHlsg8Lb0d4DEtz2oMm8twlLWN.png",
     "sv": "/1kRK07DPV4KDGiJurvAVYdtoahE.png"
-   }
+   },
+   "overview": {
+    "fr": "Umi est une jeune lycéenne qui vit dans une vieille bâtisse perchée au sommet d’une colline surplombant le port de Yokohama. Chaque matin, depuis que son père a disparu en mer, elle hisse face à la baie deux pavillons, comme un message lancé à l’horizon. Au lycée, quelqu’un a même écrit un article sur cet émouvant signal dans le journal du campus. C’est peut‐être l’intrépide Shun, le séduisant jeune homme qu’Umi n’a pas manqué de remarquer. Attirés l’un par l’autre, les deux jeunes gens vont partager de plus en plus d’activités, de la sauvegarde du vieux foyer jusqu’à la rédaction du journal. Pourtant, leur relation va prendre un tour inattendu avec la découverte d’un secret qui entoure leur naissance et semble les lier…",
+    "en": "Yokohama, 1963. Japan is picking itself up from the devastation of World War II and preparing to host the 1964 Olympics—and the mood is one of both optimism and conflict as the young generation struggles to throw off the shackles of a troubled past. Against this backdrop of hope and change, a friendship begins to blossom between high school students Umi and Shun—but a buried secret from their past emerges to cast a shadow on the future and pull them apart.",
+    "de": "Als eines Tages in der Schülerzeitung ein Artikel über Umis allmorgendliches Ritual erscheint, sucht sie die Redaktion der Zeitung auf und lernt den Herausgeber Shun kennen, der sie auf Anhieb fasziniert. Die beiden vaterlosen Jugendlichen freunden sich an und verbringen viel Zeit miteinander. Gemeinsam mit anderen Jugendlichen setzen sie sich für den Erhalt eines baufälligen Clubhauses ein, das abgerissen werden soll, um Platz für die bevorstehenden Olympischen Spiele in Tokio zu machen. Während dessen verlieben sich Umi und Shun ineinander. Doch bald müssen sie feststellen, dass es Geheimnisse über Shuns Herkunft gibt, die ihre Beziehung gefährden könnten. Nun müssen Shun und Umi eine lang zurückliegende Liebesgeschichte ihrer Eltern aufklären, und gleichzeitig muss der Besitzer des Clubhauses überzeugt werden, dass es Wertvolleres gibt, als lukrativen Baugrund…",
+    "it": "Ambientato a Yokohama nel 1963, La collina dei papaveri è una storia d’amore i cui personaggi sono studenti delle scuole superiori chiamati ad essere la “prima generazione” di un “Nuovo Giappone”. Dal momento che il Paese comincia ad uscire dalla devastazione causata dalla Seconda Guerra Mondiale, la nuova generazione lotta per costruire un futuro migliore, cercando però di non perdere i legami col passato che li ha resi ciò che sono oggi.",
+    "es": "Umi Matsuzaki es una chica de instituto que cuida a sus dos hermanos y, en ausencia de su madre, administra un albergue de estilo occidental, el Coquelicot Manor, cercano al mar. La chica compagina tranquilamente sus responsabilidades con su vida escolar junto a Shun Kazama, miembro del club de periodismo, y Shiro Mizunuma, presidente del consejo de estudiantes.",
+    "sv": "En grupp studenter i Yokohama kämpar för att rädda skolans klubbhus från att rivas under förberedelserna till OS i Tokyo 1964. Medan de arbetar börjar Umi och Shun attraheras av varandra."
+   },
+   "tagline": {
+    "fr": "Entre amour et amitié, ils devront choisir",
+    "es": "Una Película de Goro Miyazaki"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame"
+    ],
+    "en": [
+     "Animation",
+     "Drama"
+    ],
+    "de": [
+     "Animation",
+     "Drama"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma"
+    ],
+    "es": [
+     "Animación",
+     "Drama"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 2028,
+   "runtime": 91
   },
   {
    "id": 149870,
@@ -464,7 +1412,62 @@
     "it": "/4bFKw2Le9ap1KhzwIwF3DRIlRFl.png",
     "es": "/kUxrqrZ9rxJfRH9X63XP1aK8F2h.png",
     "sv": "/94ItnaWVaxz4P9RXG6nmlGIkSNf.png"
-   }
+   },
+   "overview": {
+    "fr": "Inspiré par le fameux concepteur d'avions Giovanni Caproni, Jiro rêve de voler et de dessiner de magnifiques avions. Mais sa mauvaise vue l'empêche de devenir pilote, et il se fait engager dans le département aéronautique d'une importante entreprise d'ingénierie en 1927. Son génie l'impose rapidement comme l'un des plus grands ingénieurs du monde. Le Vent se lève raconte une grande partie de sa vie et dépeint les événements historiques clés qui ont profondément influencé le cours de son existence, dont le séisme de Kanto en 1923, la Grande Dépression, l'épidémie de tuberculose et l'entrée en guerre du Japon. Jiro connaîtra l'amour avec Nahoko et l'amitié avec son collègue Honjo. Inventeur extraordinaire, il fera entrer l'aviation dans une ère nouvelle.",
+    "en": "A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, whose storied career includes the creation of the A-6M World War II fighter plane.",
+    "de": "Jiro Horikoshi sehnt sich schon als kleiner Junge nach luftigen Höhen. Der sensible Träumer möchte am liebsten in selbst entworfenen Flugzeugen durch den Himmel gleiten, wie sein großes Vorbild, der italienische Ingenieur Caproni. Seine Kurzsichtigkeit hindert Jiro aber an einer Karriere als Pilot. Stattdessen steigt er 1927 bei einem großen japanischen Ingenieursbüro ein und revolutioniert mit seinen innovativen Ideen und Designs den Flugzeugbau weltweit. Während einer Zugfahrt begegnet er der hübschen Nahoko, mit der er sich Jahre später nach einem zufälligen Wiedersehen verlobt. Während Jiro über die Jahre als Chefentwickler für mehrere Unternehmen Kriegsflugzeuge baut, hat Nahoko mit gesundheitlichen Problemen zu kämpfen…",
+    "it": "Jiro sogna di volare e progettare aeroplani ispirandosi al famoso ingegnere aeronautico italiano Gianni Caproni. Miope fin dalla giovane età e pertanto impossibilitato a  diventare pilota, nel 1927 entra a lavorare in  una delle principali  società  giapponesi  di  ingegneria  aeronautica, e progetta il famoso aereo da combattimento Mitsubishi A6M Zero usato dal suo paese durante l'attacco a Pearl Harbor nella Seconda guerra mondiale. Sono  anni  importanti quelli  per  Jiro, perché  ha  modo  di  mostrare  l’innato  talento  che  lo  farà  diventare  uno  dei  progettatori  aeronautici  più affermati  al mondo  ma soprattutto perché inizia  a frequentare la dolce Nahoko, il suo più grande amore, oltre al cielo…",
+    "es": "Jiro sueña con volar y diseñar hermosos aviones, inspirados por el famoso diseñador aeronáutico italiano Caproni. Corto de vista desde niño y por ello incapaz de volar, Jiro se une a la división aeronáutica de una compañía de ingeniería en 1927. Su genio pronto es reconocido y se convierte en uno de los más prestigiosos diseñadores aeronáuticos. La película relata su biografía y recrea sucesos históricos que marcaron su vida, como el terremoto de Kanto de 1923, la Gran Depresión, la epidemia de tuberculosis y la entrada de Japón en la guerra.",
+    "sv": "Jiro drömmer om att flyga och designa flygplan. Men hans närsynthet gör det omöjligt för honom att bli pilot. När han anställs på stort japanskt ingenjörsbolag inleds en fascinerande resa mot att bli en av världens främsta och mest respekterade flygplanskonstruktörer."
+   },
+   "tagline": {
+    "fr": "Les avions sont des rêves merveilleux",
+    "en": "We must live.",
+    "it": "Bisogna tentare di vivere",
+    "es": "Nosotros debemos vivir."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame",
+     "Histoire",
+     "Romance"
+    ],
+    "en": [
+     "Animation",
+     "Drama",
+     "History",
+     "Romance"
+    ],
+    "de": [
+     "Animation",
+     "Drama",
+     "Historie",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma",
+     "Storia",
+     "Romance"
+    ],
+    "es": [
+     "Animación",
+     "Drama",
+     "Historia",
+     "Romance"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama",
+     "Historisk",
+     "Romantik"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 3550,
+   "runtime": 127
   },
   {
    "id": 149871,
@@ -487,7 +1490,56 @@
     "it": "/320wDhOypURHbA0GzFZepS5bquJ.png",
     "es": "/v7TVBHp3kpnLhH07mdbQN13Eom1.png",
     "sv": "/hOCkK4F3YKzM9vPOxuogR54F2Y8.png"
-   }
+   },
+   "overview": {
+    "fr": "Adapté d’un conte populaire japonais \"Le coupeur de bambou\", un des textes fondateurs de la littérature japonaise, Kaguya, \"la princesse lumineuse\", est découverte dans la tige d'un bambou par des paysans. Elle devient très vite une magnifique jeune femme que les plus grands princes convoitent : ceux-ci vont devoir relever d’impossibles défis dans l’espoir d’obtenir sa main.",
+    "en": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthrals all who encounter her. But, ultimately, she must confront her fate.",
+    "de": "Ein armer Bambussammler findet eines Tages in einem leuchtenden Bambushalm ein winziges Mädchen, nicht größer als ein Däumling, das er mit nach Hause nimmt. Gemeinsam mit seiner Frau zieht er das schnell wachsende Kind auf, das sie Takenoko nennen. Takenoko erfreut sich ihres einfachen Lebens und freundet sich mit anderen Kindern, vor allem mit Sutemaru an. Als ihr Ziehvater in anderen Bambusstauden Gold findet, zieht er mit Takenoko und seiner Frau in die Stadt. Ihre Tochter, die nun Kaguya genannt wird, soll wie eine Adelige aufwachsen. Sie wird zu einer jungen Frau, deren Schönheit kaum zu verheimlichen ist. Fünf junge Prinzen halten bald um ihre Hand an, doch Kaguya verlangt von ihren Verehrern fast unmöglich zu erfüllende Aufgaben …",
+    "it": "Un vecchio uomo vende bambù per sopravvivere. Un giorno, nelle canne di bambù, trova una piccola principessa, grande quanto un dito, di nome Kaguya. Quando Kaguya cresce, cinque uomini provenienti da altrettante prestigiose famiglie manifestano il desiderio di sposarla. Kaguya chiedere loro di trovare per lei cinque memorabili regali ma nessuno è in grado di portarle ciò che desidera veramente.",
+    "es": "Basada en un cuento popular japonés anónimo del siglo IX, 'El cortador de bambú', la historia comienza cuando una pareja de ancianos campesinos encuentran a una niña diminuta dentro de una planta de bambú y deciden adoptarla como si fuera su hija. Convertida rápidamente en una hermosa mujer, es pretendida por muchos hombres, incluido el emperador, pero ella los rechaza a todos porque asegura venir de la Luna y debe volver allí...",
+    "sv": "En skogshuggare hittar oväntat en liten flicka inuti en bambustam. Hon växer snabbt till en liten dam och charmar alla hon möter. Även kejsaren får upp ögonen och bestämmer sig för att göra henne till sin. Men Kaguya bär på en hemlighet."
+   },
+   "tagline": {
+    "fr": "Le crime d'une princesse et sa punition",
+    "de": "Das Verbrechen und die Strafe einer Prinzessin.",
+    "it": "Delitto e castigo di una principessa.",
+    "es": "El crimen de una princesa y su castigo"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame",
+     "Fantastique"
+    ],
+    "en": [
+     "Animation",
+     "Drama",
+     "Fantasy"
+    ],
+    "de": [
+     "Animation",
+     "Drama",
+     "Fantasy"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma",
+     "Fantasy"
+    ],
+    "es": [
+     "Animación",
+     "Drama",
+     "Fantasía"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama",
+     "Fantasy"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 2082,
+   "runtime": 137
   },
   {
    "id": 242828,
@@ -508,7 +1560,55 @@
     "de": "/nb4fOWSKeBbhMuxzrGdDhMBDC4b.png",
     "it": "/yZ8Ajx6fNBv3EfMLZXvB55FB3DU.png",
     "sv": "/cX0AnrsrT1cKsOtx48DPAYy1tEj.png"
-   }
+   },
+   "overview": {
+    "fr": "Anna, jeune fille solitaire, vit en ville avec ses parents adoptifs. Un été, elle est envoyée dans un petit village au nord d’Hokkaïdo. Dans une vieille demeure inhabitée, au cœur des marais, elle va se lier d’amitié avec l’étrange Marnie…",
+    "en": "Upon being sent to live with relatives in the countryside due to an illness, an emotionally distant adolescent girl becomes obsessed with an abandoned mansion and infatuated with a girl who lives there - a girl who may or may not be real.",
+    "de": "Die 12-jährige Anna ist asthmakrank und fühlt sich als Außenseiterin. Früher war sie ein lebhaftes Kind, doch dann wurde sie ruhig und zog sich zurück … Um sich zu erholen, wird Anna von ihrer Pflegemutter Yoriko den Sommer über zu Verwandten aufs Land geschickt. Beim Erkunden der neuen Umgebung entdeckt Anna ein altes verlassenes Haus, das sie zu kennen scheint, und trifft dort die junge Marnie. Das mysteriöse blonde Mädchen wird Annas erste richtige Freundin und sie hat seit langem wieder Spaß am Leben. Als Marnie eines Tages jedoch spurlos verschwindet und die Familie Lindsay in das leer stehende Haus einzieht, freundet sich Anna mit Sayaka, der Tochter der Familie, an. Sayaka findet Marnies Tagesbuch und Anna muss feststellen, dass Marnie nicht die war, die sie vorgab zu sein. Welches Geheimnis umgab Marnie?",
+    "it": "Anna, una ragazzina timida e solitaria di 12 anni, vive in città con i genitori adottivi. Un’estate viene mandata dalla sua famiglia in una tranquilla cittadina vicina al mare ad Hokkaido. Lì Anna trascorre le giornate fantasticando tra le dune di sabbia fino a quando, in una vecchia casa disabitata, incontra Marnie, una bambina misteriosa con cui stringe subito una forte amicizia…",
+    "es": "Anna es una chica solitaria, sin amigos, que vive con sus padres adoptivos. Un día es enviada con el señor y la señora Pegg. Allí, donde se extienden las dunas de arena, conoce a una chica llamada Marnie, quien pronto se convertirá en su mejor amiga. Habiendo aprendido muchas cosas sobre la amistad, Anna se dará cuenta de que Marnie no es quien parece...",
+    "sv": "Anna ska tillbringa sommaren på Hokkaido. Tanken är att den fuktiga luften ska lindra hennes astma. Hon fördriver tiden med att dagdrömma, övertygad om att hon står utanför den osynliga cirkeln som de flesta människor tillhör. Då träffar hon Marnie, en flicka som inte dömer utan låter henne vara precis som hon är. De två blir snabbt vänner, men det är något med Marnie som är annorlunda. Något som får Anna att börja undra vem hennes nyfunne vän egentligen är."
+   },
+   "tagline": {
+    "fr": "Promettez que nous resterons un secret, pour toujours.",
+    "en": "Promise we'll remain a secret, forever.",
+    "es": "Prométeme que permaneceremos en secreto, para siempre."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Drama",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Drama",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Drama",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama",
+     "Familj"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 2051,
+   "runtime": 104
   },
   {
    "id": 337703,
@@ -528,7 +1628,59 @@
     "fr": "/bh2QHvyymIU7b7FEUPWRK6pkHBf.png",
     "en": "/iAWXA8SIQalIWYIWhWiRFzdOCIx.png",
     "de": "/8fiV7aHyJgFc1ZnCGJrYNWy2vF3.png"
-   }
+   },
+   "overview": {
+    "fr": "À travers l’histoire d’un naufragé sur une île déserte tropicale peuplée de tortues, de crabes et d’oiseaux, La Tortue rouge raconte les grandes étapes de la vie d’un être humain.",
+    "en": "The dialogue-less film follows the major life stages of a castaway on a deserted tropical island populated by turtles, crabs and birds.",
+    "de": "Ein Schiffbrüchiger strandet auf einer einsamen Insel. Zum Überleben gibt es dort genug, Gefahren lauern jedoch überall. Er baut sich ein Floss, um von der Insel fortzukommen, wird jedoch jedes Mal von einer roten Schildkröte, die sein Holzgefährt zerstört, daran gehindert. Als die Schildkröte eines Tages an Land kommt, versucht der Mann, sie zu überwältigen, so dass seine Flucht endlich gelingen möge. Doch das Tier entpuppt sich als eine magische Kreatur...",
+    "it": "Un uomo abbandonato su un'isola deserta cerca disperatamente di fuggire. Un giorno, però, incontra una strana tartaruga che cambierà per sempre il resto della sua vita.",
+    "es": "Historia muda sobre un náufrago en una isla tropical desierta poblada de tortugas, cangrejos y aves. Cuenta las grandes etapas de la vida de un ser humano. Debut en el largometraje del animador Michaël Dudok de Wit (ganador del Oscar por su cortometraje \"Father and Daughter\"). Coproducción de varias productoras francesas y el Studio Ghibli.",
+    "sv": "Filmen följer en skeppsbruten man på en öde tropisk ö befolkad av sköldpaddor, krabbor och fåglar."
+   },
+   "tagline": {
+    "es": "Nominada al Oscar en 2017"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Drame",
+     "Fantastique",
+     "Familial"
+    ],
+    "en": [
+     "Animation",
+     "Drama",
+     "Fantasy",
+     "Family"
+    ],
+    "de": [
+     "Animation",
+     "Drama",
+     "Fantasy",
+     "Familie"
+    ],
+    "it": [
+     "Animazione",
+     "Dramma",
+     "Fantasy",
+     "Famiglia"
+    ],
+    "es": [
+     "Animación",
+     "Drama",
+     "Fantasía",
+     "Familia"
+    ],
+    "sv": [
+     "Animerat",
+     "Drama",
+     "Fantasy",
+     "Familj"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 1426,
+   "runtime": 81
   },
   {
    "id": 683127,
@@ -550,7 +1702,66 @@
     "it": "/i4fGBZclbwHXqnbL8uTtnDKhS6w.png",
     "es": "/viNAA9JJDtMDiSNVdL4BZ7tUlEs.png",
     "sv": "/lG95Wll4ZqMRinyY4BmznI5nRTf.png"
-   }
+   },
+   "overview": {
+    "fr": "Aya a grandi dans un orphelinat douillet depuis qu’elle est bébé et ne sait pas que sa mère avait des pouvoirs magiques. Aimée et choyée, la fillette de 10 ans n’a jamais voulu quitter son cocon et son cher ami Custard. Espiègle, rusée, elle mène son petit monde par le bout du nez ! Lorsqu’un couple étrange vient l’adopter, Aya se rebelle et suit sa nouvelle famille à reculons… Mais que peuvent bien cacher ce mystérieux Mandrake et cette inquiétante Bella Yaga ? Au rythme des enchantements, une aventure extraordinaire attend l’adorable effrontée… car ses prétendus parents ne sont autres que des sorciers !",
+    "en": "A headstrong orphan discovers a world of spells and potions while living with a selfish witch.",
+    "de": "Nicht jedes Waisenkind würde gerne im St. Morwald Kinderheim leben, doch Aya (im Roman Earwig) genießt es sehr. Sie bekommt alles, was immer sie will, wann immer sie es will – und das seitdem sie als Baby auf die Türschwelle des Waisenhauses gesetzt wurde.  Aber all das ändert sich an dem Tag, an dem Bella Yaga und Mandrake nach St. Morwald kommen und Aya adoptieren wollen. Sie nehmen Aya mit in ein geheimnisvolles Haus voller mysteriöser Räume, Zaubertränke und Zauberbücher. Die meisten Kinder würden voller Angst aus einem solchen Haus fliehen … aber nicht Aya. Mit viel Cleverness und der Hilfe einer sprechenden Katze beschließt sie, der Hexe zu zeigen, wer der Boss ist.",
+    "it": "Earwig è una ragazzina che stranamente adora l’orfanotrofio in cui vive, il St. Morwald; ella è la leader indiscussa di questo istituto da quando fu abbandonata, ancora in fasce, davanti all’ingresso dell’edificio. Tutti ubbidiscono al suo volere. Però il suo mondo si stravolge quando viene adottata da una coppia che, pur comportandosi normalmente (o almeno ci prova), risulta comunque alquanto inquietante. I due coniugi, Bella Yaga e Mandrake, all’interno della loro abitazione celano libri di magia, pozioni misteriose e stanze segrete… la nuova madre di Earwig è semplicemente una strega! Ma niente paura, perché la piccola Earwig, coadiuvata dal gatto parlante Thomas, saprà farsi rispettare anche da delle streghe",
+    "es": "Earwig tiene diez años, vive en el orfanato San Morwald y no quiere marcharse de allí. Para ahuyentar a posibles padres adoptivos, utiliza sus poderes mágicos. Sin embargo, un día aparecerán Bella Yaga y Mandrágora, dos extraños y espeluznantes personajes que conseguirán adoptarla. La joven Earwig descubrirá que Bella Yaga es una poderosa bruja y se convertirá en su aprendiz.",
+    "sv": "Aya växer upp på ett barnhem utan att ha en aning om att hennes mamma hade magiska krafter. Trots att hon av någon anledning alltid får precis som hon vill bland barn och vuxna på hemmet. Men hennes liv tar en ny vändning när en mystisk familj bjuder in henne i sitt hem."
+   },
+   "tagline": {
+    "en": "Enter a world of magic and music",
+    "es": "Adentrate en un mundo de magia y música."
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Fantastique",
+     "Familial",
+     "Musique",
+     "Comédie"
+    ],
+    "en": [
+     "Animation",
+     "Fantasy",
+     "Family",
+     "Music",
+     "Comedy"
+    ],
+    "de": [
+     "Animation",
+     "Fantasy",
+     "Familie",
+     "Musik",
+     "Komödie"
+    ],
+    "it": [
+     "Animazione",
+     "Fantasy",
+     "Famiglia",
+     "Musica",
+     "Commedia"
+    ],
+    "es": [
+     "Animación",
+     "Fantasía",
+     "Familia",
+     "Música",
+     "Comedia"
+    ],
+    "sv": [
+     "Animerat",
+     "Fantasy",
+     "Familj",
+     "Music",
+     "Komedi"
+    ]
+   },
+   "rating": 5.9,
+   "votes": 322,
+   "runtime": 82
   },
   {
    "id": 508883,
@@ -573,7 +1784,54 @@
     "it": "/bCoRox1j2nBFGJPUKXBxVrshfbs.png",
     "es": "/l4xu0SUpWdl7wSInSMYL0gzbvXu.png",
     "sv": "/kdGOpU1R4B7oxbPaSJlBuK5VGeU.png"
-   }
+   },
+   "overview": {
+    "fr": "Après la disparition de sa mère dans un incendie, Mahito, un jeune garçon de 11 ans, doit quitter Tokyo pour partir vivre à la campagne dans le village où elle a grandi. Il s’installe avec son père dans un vieux manoir situé sur un immense domaine où il rencontre un héron cendré qui devient petit à petit son guide et l’aide au fil de ses découvertes et questionnements à comprendre le monde qui l'entoure et percer les mystères de la vie.",
+    "en": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+    "de": "Nachdem seine Mutter bei einem Luftangriff im Zweiten Weltkrieg umgekommen ist, muss der elfjährige Mahito Tokio verlassen. Er zieht zu seinem Vater und dessen neuer Frau in ein altes Herrenhaus. Isoliert von der Welt beginnt Mahito, die verzauberten Landschaften, die sein neues Zuhause umgeben, zu erforschen und begegnet einem mysteriösen Graureiher, der hartnäckig an seiner Seite bleibt.",
+    "it": "Spinto dal desiderio di rivedere sua madre, Mahito, un ragazzo di 12 anni, si avventura in un regno abitato dai vivi e dai morti. un luogo fantastico dove la morte finisce e la vita trova un nuovo inizio. Una storia sul mistero della vita e la creazione, in omaggio all’amicizia, direttamente dalla mente del maestro Hayao Miyazaki.",
+    "es": "La película muestra el crecimiento psicológico de un adolescente a través de interacciones con sus amigos y su tío. Está basada en el libro de 1937 del mismo nombre escrito por Genzaburo Yoshino.",
+    "sv": "Tokyo i slutet av andra världskriget. Elvaårige Mahito har förlorat sin mor i en brand och har svårt att acceptera att hans far har gift om sig med mammans yngre syster, Nahuto. På gården där de bor finns ett avsides torn. När Nahuto plötsligt försvinner, letar Mahito i tornet och hamnar i en annan värld - ett mystiskt rike där de levande och döda går sida vid sida."
+   },
+   "tagline": {
+    "fr": "Là où la mort prend fin, la vie trouve un nouveau commencement.",
+    "en": "How do you live?"
+   },
+   "genres": {
+    "fr": [
+     "Animation",
+     "Fantastique",
+     "Drame"
+    ],
+    "en": [
+     "Animation",
+     "Fantasy",
+     "Drama"
+    ],
+    "de": [
+     "Animation",
+     "Fantasy",
+     "Drama"
+    ],
+    "it": [
+     "Animazione",
+     "Fantasy",
+     "Dramma"
+    ],
+    "es": [
+     "Animación",
+     "Fantasía",
+     "Drama"
+    ],
+    "sv": [
+     "Animerat",
+     "Fantasy",
+     "Drama"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 2909,
+   "runtime": 124
   }
  ]
 }

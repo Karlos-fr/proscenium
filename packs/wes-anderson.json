@@ -1,6 +1,6 @@
 {
  "id": "wes-anderson",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Wes Anderson",
   "en": "Wes Anderson",
@@ -34,7 +34,55 @@
    ],
    "logo": {
     "en": "/9cEuRPcucNstfehSEcncTArX2sF.png"
-   }
+   },
+   "overview": {
+    "fr": "Anthony, Dignan et Bob sont trois jeunes adultes décidés à devenir des cambrioleurs. Ils ne sont pas faits pour ça, mais peut-on interdire aux gens de suivre leur rêve ?",
+    "en": "Upon his release from a mental hospital following a nervous breakdown, the directionless Anthony joins his friend Dignan, who seems far less sane than the former. Dignan has hatched a harebrained scheme for an as-yet-unspecified crime spree that somehow involves his former boss, the (supposedly) legendary Mr. Henry.",
+    "de": "Der Film handelt von den drei Möchtegern-Kriminellen Anthony, Dignan und Bob. Zu Beginn des Films wird Anthony, der Patient in einer psychiatrischen Klinik ist, von seinem Schulfreund Dignan besucht. Obwohl es Anthony jederzeit freisteht, die Klinik zu verlassen, in die er sich freiwillig hatte einweisen lassen, organisiert Dignan eine dramatische Flucht.  Im Gegensatz zum eher nachdenklichen Anthony ist Dignan voller Tatendrang; er präsentiert Anthony ausgearbeitete Tagespläne zur Ausgestaltung seines neuen Lebens und drückt immer wieder seine Begeisterung für die Tatkraft und Lebensweisheit eines gewissen Mr. Henry aus, mit dem er Anthony unbedingt bekanntmachen will. Dignans \"Self Improvement\"-Pläne haben das Ziel, die Beiden im organisierten Verbrechen zu etablieren.",
+    "it": "Uscito da un istituto psichiatrico, Dignan si unisce a uno sbandato di testa fine e a un ricco pappamolla per fare una rapina, seguita da un colpo grosso, organizzato da un ciarliero truffatore, che non riesce altrettanto bene. 1° film di W. Anderson, scritto con O. Wilson, pimpante protagonista in coppia col fratello Luke. Andrew W., un terzo fratello, fa la parte di un amico poco raccomandabile. È una commedia spiritosa in cadenze di balletto ladresco che ha almeno due meriti: il colorito disegno dei personaggi e una efficace descrizione d'ambiente. Nasce da un corto omonimo (1994).",
+    "es": "Dignan (Owen Wilson) y su compañero Anthony (Luke Wilson), recién salidos del manicomio donde ingresaron voluntariamente, deciden seguir por la senda del delito. Con la ayuda de su amigo Bob, que debe ayudarles a escapar, puesto que es el único que sabe conducir, intentarán cometer algunos atracos para llamar la atención de un jefe mafioso (James Caan).",
+    "sv": "Tre unga män, Anthony, Bob och Dignan bestämmer sig för att ägna sina liv åt brott. De förväntar sig ett liv i lyx, men problemet är att de är så fruktansvärt dumma och att de helt enkelt saknar talang för all brottslig verksamhet."
+   },
+   "tagline": {
+    "en": "They're not really criminals, but everyone's got to have a dream.",
+    "it": "Non sono veri criminali, ma anche loro hanno un sogno da realizzare!",
+    "es": "No son realmente criminales, pero todos deben tener un sueño."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Crime",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Crime",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Krimi",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Crime",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Crimen",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Kriminal",
+     "Drama"
+    ]
+   },
+   "rating": 6.7,
+   "votes": 1257,
+   "runtime": 95
   },
   {
    "id": 11545,
@@ -52,7 +100,49 @@
    ],
    "logo": {
     "en": "/qJN68kGAW0YOtTpMPR4gRDxrZDT.png"
-   }
+   },
+   "overview": {
+    "fr": "Les mésaventures de Max Fischer, élève de la Rushmore Academy. Personnage hors normes, génie fougueux et brouillon, Max ne peut fournir qu'un minimum d'efforts à ses études et s'est résigné à devenir l'un des pires cancres de son établissement. En dépit de ses échecs scolaires et des admonestations répétées de son directeur, Rushmore n'en reste pas moins à ses yeux un paradis et un sanctuaire idéal pour exercer en toute liberté son inlassable créativité.",
+    "en": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+    "de": "Der 15-jährige Max Fischer ist der engagierteste Schüler der Eliteschule Rushmore. Er leitet unter anderem die Theatergruppe, den Debattier-, und den Bienenzüchterclub, ist Präsident diverser Vereine und Herausgeber der Schülerzeitung. Außerdem ist Max einer der schlechtesten Schüler Rushmores. Max' Welt gerät aus den Fugen, als er sich in die junge Lehrerin Miss Cross verliebt. Er setzt alle Hebel in Bewegung, um Miss Cross zu beeindrucken. Die Situation droht zu eskalieren, als in der Person von Mr. Blume, Max' Freund und Mentor, ein unerwarteter Rivale auftaucht und plötzlich eine brisante Dreiecksbeziehung entsteht.",
+    "it": "Max Fischer è un quindicenne che ha trovato la sua unica ragione di vita: frequentare la Rushmore Academy. Nerd occhialuto ma non secchione, con molteplici attività extra-curricolari all'attivo (tra cui l'allestimento di maestosi spettacoli teatrali), Max fa amicizia con il laconico e svogliato \"uomo d'affari\" Herman Blume e insieme a lui si scopre innamorato della dolce maestrina vedova miss Cross.",
+    "es": "Max Fisher (Jason Schwartzman), un estudiante de Rushmore, una de las escuelas más prestigiosas del país, es el editor del periódico escolar y el capitán y presidente de numerosos clubs y sociedades; pero también es un pésimo estudiante; por eso, no deja de pensar que algún día lo expulsarán del colegio. Max se enamora de la elegante profesora Miss Cross (Olivia Williams), pero su cortejo fracasa cuando se entera de que el señor Blume (Bill Murray), el padre de dos compañeros de clase, también intenta conquistar el amor de la profesora.",
+    "sv": "Max Fischer är en rebellisk tonåring med mycket talang på den förnäma privatskolan Rushmore Academy. Trots att han är redaktör för skoltidningen och ordförande i åtskilliga klubbar och föreningar, är han en av skolans besvärligaste elever. Max blir snart vän med den deprimerade och förmögne fabriksägaren Herman Blume och blir dessutom förälskad i en lärarinna."
+   },
+   "tagline": {
+    "fr": "Plus qu'un film, une révolution !",
+    "en": "Love. Expulsion. Revolution.",
+    "es": "Amor. Expulsión. Revolución."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 2858,
+   "runtime": 93
   },
   {
    "id": 9428,
@@ -73,7 +163,50 @@
     "en": "/9sKehxiVROAo2LamHYdI2VOsin.png",
     "it": "/qfYOmOnh0RyGfiNCyL48LVYzZwH.png",
     "es": "/8A0i6Q67NWNUkzyzON4JmMK0Y7n.png"
-   }
+   },
+   "overview": {
+    "fr": "Chez les Tenenbaum, les enfants ont toujours été des génies. Tout jeunes, Chas était déjà un maître de la finance, Margot une dramaturge exceptionnelle et Richie un joueur de tennis hors pair. Mais un jour, Etheline, leur mère, demande le divorce. Elle ne supporte plus le caractère égoïste de Royal Tenenbaum, son mari. Cette crise familiale a une influence négative sur le développement personnel de leur progéniture. Vingt ans plus tard, Royal écume les palaces, Etheline s'adonne à l'archéologie, Chas tente d'élever ses deux fils après la mort de son épouse, Richie est un champion déchu et Margot s'est marié avec un psy. Le père Tenenbaum annonce bientôt à ses enfants qu'il ne lui reste plus longtemps à vivre. Il souhaite se réconcilier avec eux et les invite dans la maison familiale en prétextant une grave maladie.",
+    "en": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+    "de": "Die Familie Tenenbaum ist alles andere als normal: Sohn Chas ist ein Finanzgenie, Tochter Margot eine gefeierte Autorin und sohn Richie ein Tennis-Champion. Eigentlich wären die Tenenbaums eine echte Vorzeigefamilie - hätte nicht Vater Royal Tenenbaum seine Frau Etheline samt Kindern vor 22 Jahren verlassen und damit den Niedergang der Familie heraufbeschworen. Als Royal nach zwei Jahrzehnten das Geld ausgeht, kehrt er unter Vortäuschung einer lebensgefährlichen Krankheit nach Hause zurück. Sein Ziel: die Zusammenführung der Familie. Sein Problem: aus seinen Kindern sind neurotische Exzentriker geworden, für die Familie ein Fremdwort ist...",
+    "it": "Tenenbaum e sua moglie Etheline hanno tre figli, Chas, Margot e Richie, e sono separati. Chas lavora nel settore immobiliare, Margot fa la commediografa e Richie è un campione di tennis. I successi dei giovani Tenenbaum sono stati cancellati da vent'anni di tradimenti e fallimenti sempre imputati alle colpe del padre. Una inattesa riunione di famiglia farà chiarezza sulle zone d'ombra nella vita di ciascuno.",
+    "es": "Royal Tenenbaum y su mujer Etheline, después de tener tres hijos, Chas, Richie y Margot, se han separado. Chas, que trabaja en el sector inmobiliario, parecía tener un don innato para las finanzas internacionales. Margot fue dramaturga y obtuvo una beca Braverman de 50.000 dólares cuando aún estaba en el instituto. Richie fue campeón junior de tenis y ganó los campeonatos de Estados Unidos tres años consecutivos. Pero todos los brillantes recuerdos de los jóvenes Tenenbaums quedan repentinamente borrados por dos décadas de traiciones, fracasos y decepciones de las que consideran que su padre es el principal responsable.",
+    "sv": "Den frånskilde och ständigt frånvarande familjefadern Royal Tenenbaum har blivit svårt sjuk och vill träffa sin familj en sista gång. Problemet är att hans familj inte vill träffa honom. Han har genom åren stulit barnens pengar, bedragit sin fru, levt på kredit och varit ett svin i största allmänhet. Men genom sin svåra sjukdom hoppas Royal på försoning och ett sista farväl. Gärna i deras gamla familjevilla. Frågan är bara hur sjuk han egentligen är, för inte har väl det faktum att han just blivit vräkt från sitt hotellrum något med saken att göra?"
+   },
+   "tagline": {
+    "fr": "Ils n'ont rien en commun… sauf leur nom !",
+    "en": "Family isn't a word... it's a sentence.",
+    "it": "In ogni famiglia c'è una pecora nera. In questa lo sono tutti.",
+    "es": "Familia no es una palabra, es una sentencia."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 5299,
+   "runtime": 110
   },
   {
    "id": 421,
@@ -93,7 +226,55 @@
     "fr": "/kSv6snzxhJl2H8Acwla2nN7gIKJ.png",
     "en": "/az1v2V9NHAd97UDQyXdb7T9gloW.png",
     "de": "/7iKKagRdw3EGD1vtOFLax10BRbM.png"
-   }
+   },
+   "overview": {
+    "fr": "Steve Z., le chef de l'équipe océanographique « Team Zissou », sait que l'expédition qu'il conduit est sans doute la dernière, et son plus cher désir est de graver son nom dans l'Histoire. Parmi les membres de son équipe figurent Ned Plimpton, qui est peut-être ou peut-être pas son fils, Jane Winslett-Richardson, une journaliste enceinte dépêchée par le magazine Oceanographic Explorer, et sa femme Eleanor sa femme que l'on prétend être « le cerveau de la Team Zissou ». Tandis qu'ils affrontent tous les dangers, depuis une mutinerie jusqu'à une attaque de pirates en passant par un « requin jaguar » plus ou moins imaginaire, Zissou est bien forcé d'admettre que tout ne peut pas être planifié comme il l'aimerait…",
+    "en": "Renowned oceanographer Steve Zissou has sworn vengeance upon the rare shark that devoured a member of his crew. In addition to his regular team, he is joined on his boat by Ned, a man who believes Zissou to be his father, and Jane, a journalist pregnant by a married man. They travel the sea, all too often running into pirates and, perhaps more traumatically, various figures from Zissou's past, including his estranged wife, Eleanor.",
+    "de": "Keiner kennt die Tiefen der sieben Meere besser als Dokumentarfilmer Steve Zissou, der mit seinem \"Team Zissou\" das Leben unter Wasser im U-Boot erforscht. Aber Steve hat schon bessere Zeiten erlebt und setzt nun alles auf eine Karte, um sich mit einer aufsehenerregenden und womöglich letzten Expedition einen Platz in der Geschichte zu sichern. Bei seiner letzten Expedition kam Steves Partner Esteban du Plantier ums Leben, weil ihn ein bis dahin unbekannter Jaguarhai angegriffen hat. Diesem seltsamen Geschöpf will Steve nun an den Kragen. Zu seinen Expeditionsteilnehmern gehören der verschrobene Deutsche Klaus Daimler, der Sicherheitsexperte Pelé dos Santos, Anne-Marie Sakowitz, Steves angeblicher Sohn Ned Plimpton und die schwangere Journalistin Jane Winslett-Richardson. Schon kurz nach der Abfahrt häufen sich die Probleme und Steves langjähriger Widersacher Alistair Hennessey macht die Aufgabe auch nicht leichter.",
+    "it": "Chi ha amato I Tenenbaum, impazzirà per Acquatici Lunatici. Anderson ripropone lo stesso umorismo demenzial-intellettuale, la stessa moda colorata anni settanta (qui i costumi sono della genovese Milena Canonero), lo stesso folle gruppo (ieri una famiglia, oggi una troupe) alle prese con avventure incredibili. Fra gli attori ricompaiono Bill Murray e Owen Wilson.",
+    "es": "Tras preparar un plan para vengar la muerte de su colega a manos de un mítico tiburón blanco, el oceanógrafo Steve Zissou (Bill Murray) recluta a una tripulación que incluye a su esposa (Anjelica Huston), a una periodista (Cate Blanchett) y a un joven que podría ser su hijo (Owen Wilson).",
+    "sv": "Oseanografen Steve Zissou jagar den mytomspunna haj som dödade hans partner Esteban. I besättningen återfinns bland andra hans fru, en journalist och en ung man som kan vara hans son."
+   },
+   "tagline": {
+    "fr": "Plus vous descendez, plus la vie devient étrange.",
+    "en": "The deeper you go, the weirder life gets.",
+    "it": "Più vai in profondità, più la vita diventa strana."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Drame"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Drama"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Drama"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Dramma"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Drama"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Drama"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 3333,
+   "runtime": 119
   },
   {
    "id": 4538,
@@ -112,7 +293,55 @@
    "logo": {
     "fr": "/3aG41BmiQJxcHoOygt0HjLRKqi9.png",
     "en": "/gHEnRHurs4cz1F9hz04hwr3OLOj.png"
-   }
+   },
+   "overview": {
+    "fr": "Trois frères qui ne se sont pas parlé depuis la mort de leur père décident de faire ensemble un grand voyage en train à travers l'Inde afin de renouer les liens d'autrefois. Pourtant, la \"quête spirituelle\" de Francis, Peter et Jack va vite dérailler, et ils se retrouvent seuls, perdus au milieu du désert avec onze valises, une imprimante, une machine à plastifier et beaucoup de comptes à régler avec la vie... Dans ce pays magique dont ils ignorent tout, c'est alors un autre voyage qui commence, riche en imprévus, une odyssée qu'aucun d'eux ne pouvait imaginer, une véritable aventure d'amitié et de fraternité...",
+    "en": "Three American brothers who have not spoken to each other in a year set off on a train voyage across India with a plan to find themselves and bond with each other -- to become brothers again like they used to be. Their \"spiritual quest\", however, veers rapidly off-course (due to events involving over-the-counter pain killers, Indian cough syrup, and pepper spray).",
+    "de": "Nachdem sich die ungleichen Brüder Francis, Peter und Jack bereits seit langem auseinander gelebt haben, soll sie das Erlebnis einer gemeinsamen Zugreise durch Indien wieder vereinen. Bei ihrem spirituellen Trip durch Indien kommen sie allerdings ziemlich schnell vom Kurs ab - unvorsehbare Ereignisse rund um Giftschlangen, rezeptfreie Schmerzmittel, indischen Hustensaft und Pfefferspray stören die meditative Ruhe. Zuletzt finden sich die Brüder völlig allein mit ihren elf Koffern, einem Drucker und einem Laminiergerät mitten in der Wüste wieder. Und dies ist der Beginn einer völlig neuen Reise ...",
+    "it": "Tre fratelli che non si parlano da un anno pianificano un viaggio in treno in India, con lo scopo di ritrovare se stessi e il legame reciproco che avevano un tempo.Circa un anno dopo la morte del loro padre e dopo che, apparentemente, hanno deciso di non comunicare più tra loro, Francis, il maggiore, riunisce i diversi fratelli dopo un incidente motociclistico quasi mortale, che lo ha lasciato avvolto da una maschera di bende. Sostenendo che i suoi fratelli sono stati la prima cosa a cui ha pensato quando è tornato cosciente dopo l'incidente, Francis ha organizzato un itinerario accurato e pianificato rigidamente, a bordo di un treno speciale, il Darjeeling Limited, ideato appositamente per provocare nei fratelli una rinascita spirituale che li unisse o che almeno li avvicinasse.",
+    "es": "Tres hermanos americanos que llevaban un año sin hablarse, deciden hacer un viaje en tren por la India, con la intención de encontrarse a ellos mismos y conectar con los demás. En resumen, para volver a ser hermanos, como solían serlo. Pero, por varias razones, su aventura espiritual se tuerce rápidamente.",
+    "sv": "Tre bröder med dåliga relationer åker tillsammans tåg genom Indien för att finna sig själva och försöka bli vänner med varandra. Det går inte så bra, och de blir avkastade av tåget mitt på landsbygden."
+   },
+   "tagline": {
+    "en": "I want us to be brothers again, like we used to be.",
+    "it": "Voglio che torniamo ad essere fratelli, come lo eravamo una volta.",
+    "sv": "Jag vill att vi ska bli bröder igen, som vi brukade vara."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Drame",
+     "Comédie"
+    ],
+    "en": [
+     "Adventure",
+     "Drama",
+     "Comedy"
+    ],
+    "de": [
+     "Abenteuer",
+     "Drama",
+     "Komödie"
+    ],
+    "it": [
+     "Avventura",
+     "Dramma",
+     "Commedia"
+    ],
+    "es": [
+     "Aventura",
+     "Drama",
+     "Comedia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Drama",
+     "Komedi"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 4164,
+   "runtime": 91
   },
   {
    "id": 10315,
@@ -133,7 +362,62 @@
     "de": "/6pge7H6NxBY42onkY48kyoCezsW.png",
     "es": "/8DqsLbYeD98VRsRNqercXCoT2qJ.png",
     "sv": "/6c2dqP1lwOiz6SVokiMn8Y9EiGq.png"
-   }
+   },
+   "overview": {
+    "fr": "Mr. Fox est le plus rusé des voleurs de poules. À la naissance de son fils, son épouse lui demande d'arrêter ce métier trop dangereux. Il devient alors journaliste mais s'ennuie terriblement. 12 ans plus tard, lorsque la famille Fox déménage au pied d'un arbre surplombant les fermes de trois éleveurs aussi prospères que méchants, la tentation devient trop forte et Mr. Fox reprend ses anciennes activités. Il va alors entraîner tous les animaux de la forêt dans une guerre acharnée contre les fermiers…",
+    "en": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+    "de": "Mr. und Mrs. Fox führen mit ihrem Sohn Ash und ihrem Neffen Kristofferson ein idyllisches Familienleben. Doch Mr. Fox bringt durch seine alte Leidenschaft der Hühnerjagd nicht nur seine geliebte Familie, sondern die gesamte Tiergemeinschaft in Gefahr. Die drei bösen Bauern Boggis, Bunce und Bean jagen den gewieften Fuchs und wollen ihn, koste es was es wolle, aus dem Weg räumen. Doch Mr. Fox heckt mal wieder einen genialen, einen fantastischen Plan aus, die tölpelhaften Bauern zu überlisten.",
+    "it": "Il signor e la Signora Fox vivono pacifici col figlioletto Ash e il nipotino Kristofferson, loro ospite, dentro un grande albero in cima alla collina che fronteggia gli stabilimenti dei più cattivi contadini della zona: Boggis, Bunce e Bean. Ma la natura selvatica del signor Fox gli impedisce di trovare soddisfazione come giornalista e lo spinge a cercare di far fessi i tre uomini e a saccheggiare i loro depositi. La vendetta è veloce e spietata e mette a repentaglio non solo la sua amata famiglia ma tutti gli animali del sottosuolo. Mr Fox dovrà elaborare dunque un nuovo e geniale piano per trarre tutti d'impaccio.",
+    "es": "Un astuto zorro llamado Fox (voz original de George Clooney) parece llevar una vida idílica con su esposa (Meryl Streep) y con su hijo Ash (Jason Schwartzman). Pero, por las noches, el señor Fox se dedica a robar gallinas, patos y pavos en las granjas vecinas. Los granjeros deciden acabar con la situación cazando a Mr. Fox. Basada en el famoso libro para niños de Roald Dahl.",
+    "sv": "Den hyllade regissören Wes Andersson är tillbaka. Denna gång med en stilren filmatisering av Roald Dahls älskade historia om den ädle, charmige och fantastiske räven som använder sin slughet för att överlista de tre elaka bröderna Boggis, Bunce och Bean."
+   },
+   "tagline": {
+    "fr": "Sa vie est fantastique. Sa femme est fantastique. Ses voisins… pas si fantastiques.",
+    "en": "Dig the life fantastic.",
+    "it": "La sua vita è fantastica... sua moglie è fantastica... i suoi vicini, beh, non molto",
+    "es": "Su vida es fantástica ... su esposa es fantástica ... sus vecinos, no tan fantásticos."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Animation",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Animation",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Animation",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Animazione",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Animación",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Animerat",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 6460,
+   "runtime": 87
   },
   {
    "id": 83666,
@@ -152,7 +436,56 @@
    "logo": {
     "fr": "/jgfR2uhn2uGAI6ddsCGAVp4Xk4y.png",
     "en": "/rMROETV7jYPi01iSUAkE3HPFGX2.png"
-   }
+   },
+   "overview": {
+    "fr": "Sur une île au large de la Nouvelle-Angleterre, au cœur de l’été 1965, Suzy et Sam, douze ans, tombent amoureux, concluent un pacte secret et s’enfuient ensemble. Alors que chacun se mobilise pour les retrouver, une violente tempête s’approche des côtes et va bouleverser davantage encore la vie de la communauté.",
+    "en": "Set on an island off the coast of New England in the summer of 1965, Moonrise Kingdom tells the story of two twelve-year-olds who fall in love, make a secret pact, and run away together into the wilderness. As various authorities try to hunt them down, a violent storm is brewing off-shore – and the peaceful island community is turned upside down in more ways than anyone can handle.",
+    "de": "Moonrise Kingdom spielt auf Rhode Island in den 60er Jahren und erzählt von der erblühenden Liebe zwischen Sam und Suzy. Auf den ersten Blick erkennen die Beiden, dass sie für einander bestimmt sind. Ihre Umgebung sieht dies allerdings anders. Als die Zwei daraufhin von zu Hause weglaufen bzw. die Mitgliedschaft in den Pfadfindern aufkündigen, setzt dies eine irrwitzige Suchaktion des Dorfsheriffs, der lokalen Pfadfindergruppe, angeführt vom Pfadfinderleiter, und der besorgten Eltern Suzys in Gang. Da sich herausstellt, dass Sam eine Waise ist, wird das Sozialamt tätig. Vor der Kulisse eines hereinbrechenden Unwetters spitzt sich die Lage dramatisch zu…",
+    "it": "Estate 1965. Su un'isola del New England vive la dodicenne Suzy, preadolescente incompresa dai genitori. Sulla stessa isola si trova in campeggio scout il coetaneo Sam, orfano affidato a una famiglia che lo considera troppo 'difficile' per continuare ad occuparsene. I due si sono conosciuti casualmente, si sono innamorati e hanno deciso di fuggire insieme seguendo un antico sentiero tracciato dai nativi nei boschi. Gli adulti, ivi compreso lo sceriffo Sharp, si mettono alla loro ricerca anche perché è in arrivo una devastante tempesta.",
+    "es": "Años 60. La huida de dos jóvenes amantes de su pueblo natal lleva a sus familiares y amigos a salir en su búsqueda. Así, quedarán de manifiesto viejos rencores y ocultas relaciones románticas entre algunos de los personajes que participan en la búsqueda.",
+    "sv": "Wes Andersons Moonrise Kingdom utspelar sig under ett scoutläger sommarlovet 1965. Två unga turturduvor har träffats ett år tidigare och ingått en hemlig pakt: den här sommaren ska de ska rymma och bosätta sig i vildmarken. I rollerna syns Bruce Willis som den lokala sheriffen, Edward Norton som scoutledare, Frances McDormand och Bill Murray som den unga flickans föräldrar liksom Tilda Swinton och Jason Schwartzman. Det brådmogna unga paret spelas av Jared Gilman och Kara Hayward."
+   },
+   "tagline": {
+    "en": "A story of young love, wild adventures, and a very neat escape.",
+    "de": "Eine quälende und überraschende Geschichte von Kindern und Erwachsenen in den stürmischen Tagen des Sommers 1965.",
+    "es": "Una historia tormentosa y sorprendente de niños y adultos.",
+    "sv": "En fin och överraskande berättelse om barn och vuxna under några stormiga dagar under sommaren 1965."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame",
+     "Romance"
+    ],
+    "en": [
+     "Comedy",
+     "Drama",
+     "Romance"
+    ],
+    "de": [
+     "Komödie",
+     "Drama",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma",
+     "Romance"
+    ],
+    "es": [
+     "Comedia",
+     "Drama",
+     "Romance"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama",
+     "Romantik"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 6576,
+   "runtime": 94
   },
   {
    "id": 120467,
@@ -173,7 +506,50 @@
     "en": "/9vBhDzMH8u43ekW2x45cAn2HNlZ.png",
     "de": "/9IUtAloQ867fzMDcb87pdP4RkgO.png",
     "es": "/hG8PaN0YDbEsIgtBCn35F2UcnLv.png"
-   }
+   },
+   "overview": {
+    "fr": "Pendant l’entre‐deux guerres, le légendaire concierge d’un grand hôtel et son jeune protégé se retrouvent impliqués dans une histoire mêlant le vol d’un tableau de la Renaissance, la bataille pour une énorme fortune familiale, et le lent puis soudain bouleversement qui transforme l’Europe en cette première moitié de XXème siècle.",
+    "en": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+    "de": "Gustave H. ist der legendäre Concierge eines Luxushotels in Europa. In den 20er Jahren des 20. Jahrhunderts baut er eine enge Freundschaft zu einem jungen Hotelangestellten namens Zero Moustafa auf, der mit der Zeit sein engster Vertrauter und Protégé wird. In der Zwischenzeit geht ein atemberaubender Kunstdiebstahl vonstatten, bei dem ein unschätzbar wertvolles Gemälde aus der Renaissance entwendet wird, Leute werden des Mordes an Madame D. beschuldigt und Gustave H. ist in den Kampf um ein Familienerbe verwickelt, während in Europa langsam die ersten Anzeichen eines drohenden Krieges nicht mehr zu übersehen sind. Außerdem machen noch das Konkurrenzhotel des Grand Budapest – das Excelsior's Palace – und dessen Manager M. Ivan Probleme …",
+    "it": "Una ragazza depone una chiave di una stanza d'hotel ai piedi del busto dedicato a uno scrittore scomparso. Lo stesso scrittore racconta delle origini del suo romanzo. Un uomo oramai anziano e stanco racconta in un albergo semi deserto ad un giovane scrittore la storia di Gustave H., il leggendario concierge del Grand Budapest Hotel, e del suo giovane protetto Zero, alle prese con il furto e il recupero di un dipinto rinascimentale inestimabile e la battaglia per un enorme patrimonio di famiglia.",
+    "es": "El Sr. Gustave H., un legendario conserje de un famoso hotel europeo de entreguerras, entabla amistad con Zero Moustafa, un joven empleado al que convierte en su protegido. La historia trata sobre el robo y la recuperación de una pintura renacentista de valor incalculable y sobre la batalla que enfrenta a los miembros de una familia por una inmensa fortuna. Como telón de fondo, los levantamientos que transformaron Europa durante la primera mitad del siglo XX.",
+    "sv": "M. Gustave är en omtalad concierge på ett välkänt hotell i Europa under mellankrigsåren. Zero Moustafa är hisspojken som blir M. Gustaves närmaste vän. Deras fantastiska äventyr innehåller en stöld och ett återbringande av en ovärderlig renässansmålning, en otäck familjefejd över en enorm förmögenhet samt en ljuvligt sockersöt kärlekshistoria. Samtidigt genomgår hela den europeiska kontinenten en dramatisk förändring och så även The Grand Budapest Hotel."
+   },
+   "tagline": {
+    "fr": "Une affaire de meurtre pour le concierge.",
+    "en": "A murder case of Madam D. with enormous wealth and the most outrageous events surrounding her sudden death!",
+    "de": "Ein perfekter Urlaub, ohne das Haus zu verlassen.",
+    "sv": "En historia om enorm rikedom och de mest upprörande händelserna kring  en kvinnas plötsliga död!"
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 16767,
+   "runtime": 100
   },
   {
    "id": 399174,
@@ -195,7 +571,56 @@
     "de": "/ek6Bl3cUZBw5kBHbzecE6slFlrJ.png",
     "it": "/iSxUcqNthwiQE138xj2XmJNFL3.png",
     "es": "/pwPDW01AapXvVa5sI0xKAto1OeD.png"
-   }
+   },
+   "overview": {
+    "fr": "Lorsqu’une épidémie de grippe canine envahit la ville japonaise de Megasaki et menace de contaminer les hommes, le maire ordonne la mise en quarantaine de tous les chiens. L’île poubelle devient : l’Île aux Chiens. Un jeune garçon de 12 ans, Atari, se rend sur place à la recherche de son chien perdu, Spots. C’est alors qu’il fait la découverte,  à l’aide d’une meute de cinq chiens, d’une conspiration qui menace la ville.",
+    "en": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
+    "de": "Der Ausbruch einer Hundegrippe veranlasst den Bürgermeister von Magasaki City, alle Hunde auf die abgelegene Insel Trash Island zu verbannen. Bald darauf landet der 12-jährige Junge Atari auf der Insel und die Verstoßenen machen sich mit ihm auf die Reise, um sein geliebtes Haustier wiederzufinden.",
+    "it": "Atari Kobayashi è una guardia di dodici anni che vive a Megasaki City, città giapponese di cui è sindaco Kobayashi. Quando, con un decreto esecutivo, tutti i cani domestici vengono esiliati in un'enorme isola adibita ai rifiuti, Atari si allontana da solo alla ricerca del suo cane Spot. Con l'aiuto di nuovi amici, inizierà un epico viaggio che deciderà il destino e il futuro dell'intera Prefettura.",
+    "es": "Un Japón distópico, dentro de 20 años. La saturación canina ha alcanzado proporciones de epidemia en Megasaki. Un brote de gripe canina se propaga, por eso, el Mayor Kabayashi dicta una orden de emergencia decretando la cuarentena. Isla Basura es el lugar donde se evacua a todos los perros. Allí, un grupo de aterradores perros alfa, encabezados por Chief, han perdido toda esperanza de volver con sus dueños. Hasta que un día aparece Atari, un niño de 12 años, sobrino del malvado Mayor, que llega hasta la isla pilotando un avión. Su objetivo es buscar a su perro Spots. Esté donde esté, el niño y la manada perruna lo encontrarán.",
+    "sv": "12-årige Atari Kobayashi arbetar för den korrupte borgmästaren i staden. När alla hundar i Megasaki City en dag blir beordrade att skickas iväg från staden till en stor soptipp, så tar Atari saken i egna händer och beger sig i sitt miniatyrflygplan till Trash Island i hopp om att hitta sin vakthund Spots. Med hjälp av sina nyvunna byrackor till vänner, påbörjas ett episkt äventyr som kommer att avgöra framtiden för hela prefekturen."
+   },
+   "tagline": {
+    "fr": "Bienvenue sur l'île aux chiens.",
+    "en": "Loyalty has a scent. And it smells like rebellion.",
+    "it": "Benvenuti sull'Isola dei Cani.",
+    "es": "Bienvenidos a la isla de los perros"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Animation"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Animation"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Animation"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Animazione"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Animación"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Animerat"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 5667,
+   "runtime": 101
   },
   {
    "id": 542178,
@@ -214,7 +639,49 @@
    "logo": {
     "en": "/lYWwJG50e78A6WZutr1bicu7Zp7.png",
     "es": "/eWqEeFracHAbQN2NFP9oyFhLcP1.png"
-   }
+   },
+   "overview": {
+    "fr": "Le journal américain The Evening Sun de Liberty dans le Kansas possède une antenne nommée The French Dispatch à Ennui-sur-Blasé, une ville française fictive évoquant Paris dans les années 1950-60. Arthur Howitzer Jr., le rédacteur en chef du French Dispatch, meurt subitement d'une crise cardiaque. Selon les souhaits exprimés dans son testament, la publication du journal est immédiatement suspendue après un dernier numéro d'adieu, dans lequel trois articles des éditions précédentes du journal sont republiés, ainsi qu'une nécrologie : Les trois articles traitent de Moses Rosenthaler, un détenu psychopathe qui se révèle être un grand artiste peintre, des évènements de Mai 68 et enfin d'une enquête gastronomique qui vire au polar.",
+    "en": "The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.",
+    "de": "Die Mitarbeiter einer europäischen Zeitung beschließen, eine Jubiläumsausgabe herauszugeben, in der die drei besten Storys des letzten Jahrzehnts herausgehoben werden: Die Story über einen zu lebenslanger Haft verurteilten Künstler, eine über Studentenunruhen und über eine von einem Koch aufgeklärte Entführung.",
+    "it": "The French Dispatch è l’edizione europea dell’Evening Sun di Liberty, Kansas – un resoconto settimanale dei fatti a livello di politica globale, arti (alte o popolari), moda, cucina, enologia, e storie di varia umanità da luoghi distanti. Quando il direttore muore, lo staff editoriale decide di pubblicare un’ultima edizione memoriale evidenziando le tre storie migliori pubblicate nei dieci anni di vita del magazine. Le storie sono incentrate su un artista condannato all’ergastolo per un doppio omicidio, le rivolte studentesche e un rapimento risolto da uno chef.",
+    "es": "Una carta de amor al mundo del periodismo, ambientada en el contexto de la redacción de un periódico americano en el París del siglo XX, con tres historias interconectadas entre sí.",
+    "sv": "En samling historier väcks till liv från den sista utgåvan av en amerikansk tidskrift som publicerades i en fiktiv fransk stad under 1900-talet."
+   },
+   "tagline": {
+    "fr": "Le dernier article qui vous fascinera est maintenant révélé !",
+    "en": "Bringing the world to Kansas, one eccentric story at a time.",
+    "es": "Del Liberty, Kansas Evening Sun"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Comédie"
+    ],
+    "en": [
+     "Drama",
+     "Comedy"
+    ],
+    "de": [
+     "Drama",
+     "Komödie"
+    ],
+    "it": [
+     "Dramma",
+     "Commedia"
+    ],
+    "es": [
+     "Drama",
+     "Comedia"
+    ],
+    "sv": [
+     "Drama",
+     "Komedi"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 3165,
+   "runtime": 108
   },
   {
    "id": 747188,
@@ -233,7 +700,48 @@
    "logo": {
     "en": "/ssvYRmIAtGh2UjMsyv3kaIWI4No.png",
     "de": "/abvMoSpqs2ep3Lj2zjeZYaUne25.png"
-   }
+   },
+   "overview": {
+    "fr": "1955, Asteroid City est une ville minuscule, en plein désert, dans le sud-ouest des États-Unis. Le site est surtout célèbre pour son gigantesque cratère de météorite et son observatoire astronomique à proximité. Ce week-end, les militaires et les astronomes accueillent cinq enfants surdoués, distingués pour leurs créations scientifiques, afin qu’ils présentent leurs inventions. À quelques kilomètres de là, par-delà les collines, on aperçoit des champignons atomiques provoqués par des essais nucléaires.",
+    "en": "In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention is spectacularly disrupted by world-changing events.",
+    "de": "Als vor tausenden von Jahren ein Asteroid auf der Erde einschlug, hinterließ dieser einen tiefen Krater und jede Menge extraterrestrisches Geröll. Dort, im Amerika der 1950er-Jahre, reisen Schüler mit ihren Eltern quer durch das Land in die abgelegene Wüstenstadt Asteroid City, wo der Junior-Stargazer-Kongress stattfindet. Neben den Familien folgen auch Astronomen, Lehrer und das Militär dem Ruf dieses Großevents. Doch statt des eigentlich geplanten wissenschaftlichen Wettbewerbs kommt es zu unerwarteten weltverändernden Ereignissen, die Chaos und Verwirrung stiften – wie das halt so ist, wenn plötzlich ein Alien auftaucht. Das Militär fackelt nicht lange und erklärt Asteroid City kurzerhand zur Sperrzone.",
+    "it": "1955. In una cittadina statunitense isolata nel deserto si tiene l'annuale Junior Stargazer, convention di astronomia che accoglie studenti e genitori di tutto il paese, riuniti per partecipare a competizioni scolastiche, ma anche per godersi una vacanza educativa e del meritato riposo.",
+    "es": "En 1955, colegiales y padres de todo el país se reúnen para un concurso escolar dedicado a la observación de fenómenos astronómicos (Junior Stargazer Convention) que se lleva a cabo en una ciudad ficticia del desierto estadounidense llamada Asteroid City. La convención se verá espectacularmente interrumpida por eventos que cambian el mundo.",
+    "sv": "I en fiktiv amerikansk ökenstad cirka 1955 blir agendan för en Junior Stargazer/Space Cadet-konferens (anordnad för att sammanföra studenter och föräldrar från hela landet för gemenskap och vetenskaplig tävlan) spektakulärt avbruten av världsomvälvande händelser."
+   },
+   "tagline": {
+    "fr": "L'étrange et belle ville \"Asteroid City\" a changé maintenant",
+    "en": "\"You can't wake up if you don't fall asleep\""
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama"
+    ]
+   },
+   "rating": 6.4,
+   "votes": 2717,
+   "runtime": 105
   },
   {
    "id": 1137350,
@@ -255,7 +763,57 @@
     "de": "/m38AiDjtipykewB1JLKTa0TJaxj.png",
     "it": "/qzZXrnl0MFHcAlyOvdbsxueTNQm.png",
     "es": "/xfmmXlnSsVk0b4umaSpG7Tfnlxk.png"
-   }
+   },
+   "overview": {
+    "fr": "Le riche homme d'affaires Zsa-zsa Korda désigne sa fille unique, une religieuse, comme seule héritière de son patrimoine. Alors que les Korda se lancent dans une nouvelle entreprise, ils deviennent rapidement la cible de magnats intrigants, de terroristes étrangers et d'assassins déterminés.",
+    "en": "Wealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists, and determined assassins.",
+    "de": "Düstere Spionagegeschichte über eine angespannte Vater-Tochter-Beziehung in einem Familienunternehmen. Die Wendungen drehen sich um Verrat und moralisch graue Entscheidungen.",
+    "it": "Sopravvissuto ad un incidente aereo per la sesta volta in tutta la sua vita, il magnate internazionale Zsa-zsa Korda tenta di ricucire i rapporti con sua figlia Liesl, nel frattempo diventata suora, che non vede da troppo tempo.",
+    "es": "El magnate Zsa-zsa Korda es un rico empresario europeo que se ve envuelto en una trama de espionaje junto a su hija Liesl, una monja con la que mantiene una relación difícil y a la quiere dejar el negocio familiar.",
+    "sv": "Berättelsen om en familj och ett familjeföretag."
+   },
+   "tagline": {
+    "fr": "Si quelque chose te gêne : aplatis-le.",
+    "en": "If something gets in your way: flatten it.",
+    "de": "Kommt dir etwas in die Quere: Leg es um.",
+    "it": "Se qualcosa ti ostacola: travolgilo",
+    "es": "Si algo se interpone en tu camino: aplástalo."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Aventure",
+     "Thriller"
+    ],
+    "en": [
+     "Comedy",
+     "Adventure",
+     "Thriller"
+    ],
+    "de": [
+     "Komödie",
+     "Abenteuer",
+     "Thriller"
+    ],
+    "it": [
+     "Commedia",
+     "Avventura",
+     "Thriller"
+    ],
+    "es": [
+     "Comedia",
+     "Aventura",
+     "Suspense"
+    ],
+    "sv": [
+     "Komedi",
+     "Äventyr",
+     "Thriller"
+    ]
+   },
+   "rating": 6.5,
+   "votes": 1117,
+   "runtime": 102
   }
  ]
 }

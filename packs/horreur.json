@@ -1,6 +1,6 @@
 {
  "id": "horreur",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Horreur",
   "en": "Horror",
@@ -36,7 +36,56 @@
     "fr": "/gtsnLQQD0l6R8Ai1sojaxokoZrJ.png",
     "en": "/3TLppfrmhnuldfXozpCmUIK6iXV.png",
     "es": "/tbDsTlf1M37hAMPvfJwiDMP0tbl.png"
-   }
+   },
+   "overview": {
+    "fr": "Marion Crane en a assez de ne pouvoir mener sa vie comme elle l'entend. Son travail ne la passionne plus, son amant ne peut l'épouser car il doit verser une énorme pension alimentaire le laissant sans le sou… Mais un beau jour, son patron lui demande de déposer 40 000 dollars à la banque. La tentation est trop grande, et Marion s'enfuit avec l'argent. Très vite la panique commence à se faire sentir. Partagée entre l'angoisse de se faire prendre et l'excitation de mener une nouvelle vie, Marion roule vers une destination qu'elle n'atteindra jamais. La pluie est battante, la jeune femme s'arrête près d'un motel, tenu par un sympathique gérant nommé Norman Bates, mais qui doit supporter le caractère possessif de sa mère. Après un copieux repas avec Norman, Marion prend toutes ses précautions afin de dissimuler l'argent. Pour se délasser de cette journée, elle prend une douche…",
+    "en": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+    "de": "Die Sekretärin Marion Crane unterschlägt 40.000 Dollar und macht auf ihrer Flucht in einem abgelegenen Motel Station, das der eigentümliche Norman Bates leitet, der mit seiner Mutter im Haus neben dem Motel lebt. Als Marion sich frisch machen will, wird sie während des Duschens erstochen. Nachdem ein Privatdetektiv, der ihre Spur gefunden hatte, ebenfalls verschwindet, begeben sich Marions Freund Sam und ihre Schwester Lila auf die Suche. Im Bates Motel machen sie eine grausige Entdeckung.",
+    "it": "Marion Crane, impiegata in una società immobiliare, scappa con 40.000$ rubati dalle casse della ditta. Durante la fuga verso casa del fidanzato però, decide di fermarsi nel Motel gestito dal giovane Norman Bates e dalla madre, che però vive rintanata nella casa attigua al Motel stesso.  Il capolavoro di Alfred Hitchcock.",
+    "es": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
+    "sv": "För att ha råd att kunna gifta sig, flyr kontoristen Marion Crane i tillfällig sinnesförvirring från Phoenix i sin bil efter att ha stulit 40 000 dollar som hennes arbetsgivare uppdragit åt henne att sätta in på banken. Beslutet leder henne till att svänga förbi ett ödsligt motell, som sköts av en viss Norman Bates och hans mor. Till det yttre verkar han vara en rar och väldigt blyg man. Men Norman Bates bär på en mörk hemlighet..."
+   },
+   "tagline": {
+    "fr": "Une nouvelle et tout à fait différente expérience à l'écran !",
+    "en": "A new and altogether different screen excitement!!!",
+    "it": "Il migliore amico di un ragazzo è sua madre.",
+    "es": "El maestro del suspense mueve sus cámaras hacia la negrura helada de lo inexplorado!"
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller",
+     "Mystère"
+    ],
+    "en": [
+     "Horror",
+     "Thriller",
+     "Mystery"
+    ],
+    "de": [
+     "Horror",
+     "Thriller",
+     "Mystery"
+    ],
+    "it": [
+     "Horror",
+     "Thriller",
+     "Mistero"
+    ],
+    "es": [
+     "Terror",
+     "Suspense",
+     "Misterio"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller",
+     "Mystik"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 11454,
+   "runtime": 109
   },
   {
    "id": 805,
@@ -55,7 +104,56 @@
    "logo": {
     "en": "/sAeSmbOHEQwQZBU3bReCspLHlDv.png",
     "es": "/zl7VYJZPEigM3ZWJ5vu3Lf5TWoz.png"
-   }
+   },
+   "overview": {
+    "fr": "Malgré les conseils de leur vieil ami Hutch, Guy Woodhouse et sa jeune femme, enceinte, s’installent dans un immeuble new-yorkais vétuste, considéré par leur ami comme une demeure maléfique. Aussitôt, leurs voisins, Minnie et Roman Castevet, vieux couple d’Europe centrale, imposent leur amitié et leurs services. Si Guy accepte facilement ce voisinage, Rosemary s’en inquiète…",
+    "en": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+    "de": "Nach ihrer Hochzeit beziehen der erfolglose, aber ehrgeizige Schauspieler Guy Woodhouse und seine Frau Rosemarie ein altes Haus am New Yorker Central Park West. Nach kurzer Zeit besucht Guy immer häufiger die Nachbarn, das ältere Ehepaar Minnie und Roman Castevet. Rosemarie kommen die beiden eher etwas merkwürdig vor. Nachdem Guy durch die unerklärliche Erblindung eines Konkurrenten überraschend die Hauptrolle in einem Broadway-Stück erhält, schlägt er Rosemarie vor, ein Kind zu haben.In der geplanten Liebesnacht ist Rosemary benommen - vielleicht vom Alkohol, möglicherweise aber auch von der Mousse au chocolat, die Minnie zubereitet hat. In einem furchtbaren Alptraum sieht sie sich von Guy, den Castevets und deren Freunden umringt, während sie selbst vom Teufel vergewaltigt wird. Tatsächlich findet sie am nächsten Morgen zahlreiche Kratzspuren auf ihrem Körper …",
+    "it": "Rosemary e Guy Woodhouse, una giovane coppia di New York, si trasferiscono in un nuovo appartamento di un palazzo che gode di una cattiva reputazione. I due fanno subito amicizia con i vicini, Roman e Minnie Castevet, una vecchia coppia molto gentile e premurosa nei loro confronti. Da subito però iniziano ad accadere strani incidenti nel palazzo.",
+    "es": "Una joven pareja, Rosemary y Guy, se muda a un infame edificio de apartamentos de Nueva York, conocido por aterradoras leyendas y misteriosos sucesos, con el propósito de formar una familia.",
+    "sv": "Den nygifta och oskuldsfulla Rosemary flyttar med sin make in i ett äldre hyreshus i New York - ett hus som tidigare använts av djävulsdyrkare. När Rosemary blir gravid börjar grannarna bli obehagligt påträngande i sina omsorger och hennes make verkar märkligt familjär med främlingarna."
+   },
+   "tagline": {
+    "fr": "Ce n'est pas ce que vous croyez…",
+    "en": "Pray for Rosemary's Baby.",
+    "de": "Der Schein betrügt …",
+    "it": "Non è quello che ti aspettavi"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Horreur",
+     "Thriller"
+    ],
+    "en": [
+     "Drama",
+     "Horror",
+     "Thriller"
+    ],
+    "de": [
+     "Drama",
+     "Horror",
+     "Thriller"
+    ],
+    "it": [
+     "Dramma",
+     "Horror",
+     "Thriller"
+    ],
+    "es": [
+     "Drama",
+     "Terror",
+     "Suspense"
+    ],
+    "sv": [
+     "Drama",
+     "Skräck",
+     "Thriller"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 4589,
+   "runtime": 138
   },
   {
    "id": 9552,
@@ -78,7 +176,46 @@
     "it": "/ufVtldGVHM02L2WLUEohIOsnTnH.png",
     "es": "/9peD0W7QLQPojo9A4adgLnbVSEM.png",
     "sv": "/8879Vpdwl0TkBoAoThGWVKSeiVx.png"
-   }
+   },
+   "overview": {
+    "fr": "Regan, une adolescente, présente depuis quelque temps d’étranges symptômes. Après avoir épuisé les solutions médicales, la mère de Regan consulte un prêtre-psychiatre qui est rapidement convaincu que Regan est possédée et que seul un exorcisme pourra la \"guérir\".",
+    "en": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+    "de": "Regan MacNeill, zwölfjährige Tochter der berühmten Filmschauspielerin Chris MacNeill, leidet seit kurzem unter hysterischen, von heftigen Krämpfen begleiteten Wutausbrüchen. Als die versammelte, hochdotierte Ärzteschar Hilflosigkeit demonstriert und die Anfälle eskalieren, sucht Mutter MacNeill die Hilfe katholischer Geistlicher. Zwei herbeieilende Jesuitenpater diagnostizieren teuflische Besessenheit und verschreiben dem Teenager einen klassischen Exorzismus. Der alte Kampf zwischen Gut und Böse entbricht.",
+    "it": "In un quartiere tranquillo, in una casa dotata di tutti i moderni comfort, una ragazzina modello cade ammalata. La madre non può aiutarla. I medici non riescono ad elaborare una diagnosi. Temendo che le crisi di cui soffre la figlia non riguardino solo la sfera fisica, ma anche quella spirituale, la donna si rivolge a un sacerdote. L'uomo però dubita della presenza del diavolo in quella casa, in quel corpo e la debolezza delle sue convinzioni non farà altro che rendere più forte il maligno.",
+    "es": "Regan es una niña de doce años víctima de fenómenos paranormales como la levitación o la manifestación de una fuerza sobrehumana. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que el mal no es físico sino espiritual, es decir, que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote decide practicar un exorcismo.",
+    "sv": "I ett lugnt stadsområde drabbas en ung flicka av en skrämmande, mystisk åkomma. Hennes mor, en berömd filmstjärna, står maktlös när varken läkare eller psykiatriker kan förklara vad som händer. Till slut återstår bara ett desperat val: att vända sig till kyrkan."
+   },
+   "tagline": {
+    "fr": "Quelque chose au-delà de la compréhension arrive à une petite fille dans cette rue.",
+    "en": "Something almost beyond comprehension is happening to a girl on this street, in this house…And a man has been sent for as a last resort. This man is The Exorcist.",
+    "de": "Irgendwo zwischen Wissenschaft und Aberglaube, gibt es eine andere Welt. Die Welt der Finsternis.",
+    "it": "« Giornata ideale per un esorcismo »",
+    "es": "La película mas terrorífica de todos los tiempos.",
+    "sv": "Någonstans mellan vetenskap och vidskepelse finns en annan värld. Mörkrets värld."
+   },
+   "genres": {
+    "fr": [
+     "Horreur"
+    ],
+    "en": [
+     "Horror"
+    ],
+    "de": [
+     "Horror"
+    ],
+    "it": [
+     "Horror"
+    ],
+    "es": [
+     "Terror"
+    ],
+    "sv": [
+     "Skräck"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 9048,
+   "runtime": 122
   },
   {
    "id": 30497,
@@ -99,7 +236,45 @@
     "en": "/dPUyeb14tl7QBOhP5z4eHnwN38w.png",
     "de": "/hxkJhLXFy0kxehI9ZerO4e0ch9h.png",
     "es": "/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png"
-   }
+   },
+   "overview": {
+    "fr": "Au fin fond du Texas, des habitants font une découverte macabre : leur cimetière vient d'être profané et les cadavres exposés sous forme de trophées. Pendant ce temps, cinq amis traversent la région à bord d'un minibus. Ils croisent en chemin la route d'un auto-stoppeur et décident de le prendre à bord. Mais lorsque les jeunes gens s'aperçoivent que l'individu a un comportement inquiétant et menaçant, ils finissent par s'en débarrasser. Bientôt à court d'essence, le groupe décide d'aller visiter une vieille maison abandonnée, appartenant aux grands-parents de deux d'entre eux. Chacun leur tour, les cinq amis vont être attirés par la maison voisine. La rencontre avec ses étranges habitants va leur être fatale…",
+    "en": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+    "de": "Eine Gruppe junger Leute unternimmt einen Ausflug in die texanische Prärie, während der Wetterbericht von atmosphärischen Störungen kündet, welche nicht ohne Folgen auf die menschliche Psyche bleiben sollen. Als die Kids an einer scheinbar verlassenen Villa rasten, werden sie nacheinander von Mitgliedern einer in der Gegend ansässigen Metzgerfamilie attackiert, entführt oder ermordet. Lediglich einer der fünf Reisenden gelingt in letzter Sekunde die Flucht.",
+    "it": "Mentre è in corso una serie di misteriose razzie nei cimiteri della zona, Sally (Marilyn Burns), assieme al fratello paraplegico Franklin (Paul A. Partain) e a un gruppo di amici, parte per una vacanza in camper alla vecchia casa abbandonata del nonno. Prima di arrivarci, i ragazzi danno un passaggio a uno strano autostoppista con cui hanno un alterco prima di sbatterlo fuori. Dopo aver dato un’occhiata alla casa, i ragazzi si separano e due di loro, Pam (Teri McMinn) e Kirk (William Vail), si imbattono in un’altra casa apparentemente abbandonata che vogliono visitare. Ma Kirk viene ucciso e Pam viene trascinata dentro la casa e impalata in un gancio da macellaio da un essere gigantesco con una maschera di cuoio in faccia (Gunnar Hansen). E gli altri dovranno cercare di salvarsi lottando contro una famiglia di cannibali.",
+    "es": "Cinco adolescentes visitan la tumba, supuestamente profanada, del abuelo de uno de ellos. Cuando llegan al lugar, donde hay un siniestro matadero, toman una deliciosa carne en una gasolinera. A partir de ese momento, los jóvenes vivirán la peor pesadilla de toda su vida.",
+    "sv": "Sally, hennes bror Franklin och tre vänner gasar genom Texas i en grön minibuss för att besöka sin morfars grav, efter att ha hört oroväckande nyheter om gravplundrare. Ett obehagligt möte med en liftare blir bara början på en riktig mardröm ute på den knappt befolkade landsbygden."
+   },
+   "tagline": {
+    "fr": "Auriez-vous survécu ?",
+    "en": "Who will survive and what will be left of them?",
+    "de": "Wer wird überleben und was wird von ihnen übrig bleiben?",
+    "it": "Chi sopravviverà e cosa rimarrà di loro?",
+    "es": "EL crimen más salvaje de la historia de América."
+   },
+   "genres": {
+    "fr": [
+     "Horreur"
+    ],
+    "en": [
+     "Horror"
+    ],
+    "de": [
+     "Horror"
+    ],
+    "it": [
+     "Horror"
+    ],
+    "es": [
+     "Terror"
+    ],
+    "sv": [
+     "Skräck"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 4087,
+   "runtime": 84
   },
   {
    "id": 578,
@@ -122,7 +297,57 @@
     "it": "/cUDi5HNKapaVHK0HPd9PGfIupGF.png",
     "es": "/4Cnu0SvBTJmJvUHBXBmA6jYNOkU.png",
     "sv": "/2Zqoydhsdvxz0J91NIbx3H4iJds.png"
-   }
+   },
+   "overview": {
+    "fr": "À quelques jours du début de la saison estivale, les habitants de la petite station balnéaire d'Amity sont mis en émoi par la découverte sur le littoral du corps atrocement mutilé d'une jeune vacancière. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a été victime d'un requin. Il décide alors d'interdire l'accès aux plages mais se heurte à l'hostilité du maire uniquement intéressé par l'afflux des touristes. Pendant ce temps, le requin continue à semer la terreur le long des côtes et à dévorer les baigneurs…",
+    "en": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+    "de": "Ein weißer Hai terrorisiert eine Badeinsel an der amerikanischen Atlantikküste. Besonnene Einheimische unter Führung von Polizeichef Brody wollen alle Strände schließen und zur großen Jagd blasen, während die Schar der Kaufleute und Gastwirte angesichts der einträglichen Badesaison lieber zur Tagesordnung übergeht und sich damit auch durchsetzt. Als der Hai erneut zuschlägt, bildet Brody mit dem erfahrenen Haifänger Quint und dem Ozeanologen Hooper ein Jagd-Team und rückt dem Gegner auf See zu Leibe.",
+    "it": "Ad Amity, cittadina balneare del New England, si sparge il terrore per gli attacchi di un terribile squalo bianco. Un poliziotto, un ittiologo e un cacciatore di squali si mettono in mare per dargli la caccia.",
+    "es": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
+    "sv": "Polischef Brody allierar sig med en ung havsforskare och den färgstarke hajfiskaren Quint i en jakt på liv och död för att förgöra den tre ton tunga vithaj som sprider skräck och fasa i den lilla badorten."
+   },
+   "tagline": {
+    "fr": "Elle fut la première…",
+    "en": "The terrifying motion picture from the terrifying No. 1 best seller.",
+    "it": "Non andare in acqua.",
+    "es": "No entres en el agua.",
+    "sv": "Gillar du fisk? Han gillar dig också..."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller",
+     "Aventure"
+    ],
+    "en": [
+     "Horror",
+     "Thriller",
+     "Adventure"
+    ],
+    "de": [
+     "Horror",
+     "Thriller",
+     "Abenteuer"
+    ],
+    "it": [
+     "Horror",
+     "Thriller",
+     "Avventura"
+    ],
+    "es": [
+     "Terror",
+     "Suspense",
+     "Aventura"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 12042,
+   "runtime": 125
   },
   {
    "id": 11906,
@@ -141,7 +366,49 @@
    "logo": {
     "en": "/4lDTTpBrL7Ux1x4BdKPYu2XtDGR.png",
     "it": "/m1dqwyl6kgOfKH659PjvU6Yb59d.png"
-   }
+   },
+   "overview": {
+    "fr": "Suzy, une jeune américaine, arrive à Fribourg afin de suivre des cours dans une académie de danse prestigieuse. L’atmosphère générale dans l’école surprend la jeune fille, c’est une atmosphère étrange et inquiétante. Puis cela tourne au cauchemar lorsque surviennent des accidents terribles : un jeune élève est assassiné, un pianiste aveugle est égorgé par son propre chien… Suzy est par ailleurs souvent prise de malaises. Elle apprend que l’académie était autrefois la demeure d’une terrible sorcière surnommée la Mère des Soupirs. Et si l’école était encore sous son emprise ?",
+    "en": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+    "de": "Die junge Ballett-Elevin Suzy kommt aus den USA nach Freiburg, um dort an einer angesehenen Schule Tanz zu studieren. Als sie dort ankommt, beobachtet sie noch ein junges Mädchen, das aus der Schule flieht, um dann aber später in der eigenen Wohnung auf mysteriöse Art und Weise ermordet zu werden. Doch auch Suzy kommt die Schule zunehmend merkwürdig vor. Die Lehrerinnen führen ein hartes Regiment, nachts hört man seltsame Geräusche und etwas schleicht nachts durch den provisorischen Schlafsaal. Langsam aber sicher forscht Suzy den merkwürdigen Vorgängen nach und findet heraus, dass das Haus an sich eine unheimliche Geschichte hat und eine dunkle Macht beherbergt.",
+    "it": "Susy va a Friburgo per iscriversi a un'accademia di danza, ma un paio di compagne vengono massacrate in maniera orripilante. Sull'edificio che ospita la scuola, una vecchia costruzione isolata e immersa in un bosco, grava un'antica maledizione e la direttrice sembra essere in comunicazione con l'aldilà. O meglio, con una strega dura a morire...",
+    "es": "Una joven (Jessica Harper) ingresa en una exclusiva academia de baile la misma noche en que asesinan a una de las alumnas. La subdirectora del centro es la amable Madame Blank, que brinda a la nueva alumna las comodidades y facilidades necesarias para su aprendizaje. Pero, poco a poco, una atmósfera malsana se va apoderando del lugar, y la estancia de la joven se va convirtiendo en una verdadera pesadilla.",
+    "sv": "Ovetande om vad som komma skall anländer Suzy Bannion till prestigefulla balettskolan Tanz Dance. Det är sent på kvällen, mitt i ett åskoväder, och hon möts av att en skräckslagen student flyr skolan. När terminen väl kommit igång dröjer det inte länge innan Suzy inser att något är fel, och hennes tid på akademien blir till en övernaturlig mardröm kantad med en rad mystiska mord..."
+   },
+   "tagline": {
+    "fr": "Jamais l'horreur n'a été aussi sublime.",
+    "en": "Do You Know Anything About Witches?",
+    "de": "Ein unheimlich starker Schocker"
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Mystère"
+    ],
+    "en": [
+     "Horror",
+     "Mystery"
+    ],
+    "de": [
+     "Horror",
+     "Mystery"
+    ],
+    "it": [
+     "Horror",
+     "Mistero"
+    ],
+    "es": [
+     "Terror",
+     "Misterio"
+    ],
+    "sv": [
+     "Skräck",
+     "Mystik"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 3324,
+   "runtime": 97
   },
   {
    "id": 948,
@@ -162,7 +429,51 @@
     "en": "/8diaqIjnZbpQupgtsv9Dun1HmLq.png",
     "de": "/znwu9bK5pokDGSniEXqW6KxkQqF.png",
     "sv": "/s7ZzKFIlIBLp80jntkE39pqCIXY.png"
-   }
+   },
+   "overview": {
+    "fr": "Il y a 15 ans, dans une petite ville des États-Unis, le soir d’Halloween, au cours de laquelle les enfants ont l’habitude de se déguiser, un petit garçon, Michael, épie sa sœur et son ami qui flirtent. Michael les suit et, armé d’un couteau de cuisine, assassine la jeune fille. Quinze ans plus tard, un psychiatre, le docteur Loomis qui étudie le cas du jeune meurtrier apprend que le criminel s’est échappé : il est revenu sur les lieux de son crime pour continuer son œuvre…",
+    "en": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+    "de": "1963, Halloween-Nacht im Kaff Haddonfield: Die Teenagerin Judith Myers wird in ihrem Elternhaus von ihrem sechsjährigen Bruder brutal erstochen - Michael Myers hat das erste Mal zugeschlagen! Der Junge kommt daraufhin in das Smith’s Grove Warren County Sanatorium in die Obhut von Psychiater Sam Loomis. Schon bald ist dieser davon überzeugt, dass sich in der Gestalt des Kindes das absolut Böse verbirgt. 15 Jahre danach, am Vorabend von Halloween, gelingt Michael die Flucht aus der Heilanstalt. Der maskierte Killer macht sich auf den Weg nach Haddonfield, wo sich arglose Teenager wie Laurie Strode auf ein bisschen Horrorspaß freuen...",
+    "it": "Micheal, a soli 6 anni ammazza la sorella e viene internato ma dopo 15 anni fugge per recarsi al suo paese. E' il 31 Ottobre, e secondo l'antica tradizione americana è la notte in cui si esorcizzano le streghe, grazie a questa concomitanza Micheal può mietere altre vittime.",
+    "es": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
+    "sv": "Den 31 oktober 1963 tar den sexåriga Michael Myers på sig en mask och mördar med kniv sin 17-åriga syster. Han hamnar på mentalsjukhus och rymmer 15 år senare på väg till en ny anstalt, och beger sig hem till Haddonfield, där han på nytt börjar mörda."
+   },
+   "tagline": {
+    "fr": "Cette nuit là, « il » est revenu…",
+    "en": "The night he came home!",
+    "de": "Die Nacht, in der er nach Hause kam...",
+    "it": "La notte che Lui tornò a casa.",
+    "es": "Un Film de John Carpenter"
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 6541,
+   "runtime": 92
   },
   {
    "id": 348,
@@ -183,7 +494,52 @@
     "en": "/riI33EA1vYQ1szTtMe0NR7TwV1p.png",
     "de": "/7FQswmBcaNonbceixn2A4lMyiK4.png",
     "es": "/vVxHP9OfHBXLSVU2pePQ4T1IOPz.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2122, le Nostromo, vaisseau de commerce, fait route vers la Terre avec à son bord un équipage de sept personnes en hibernation et une cargaison de minerais. Il interrompt soudain sa course suite à la réception d’un mystérieux message provenant d’une planète inexplorée. Réveillé par l’ordinateur de bord, l’équipage se rend sur place et découvre les restes d’un gigantesque vaisseau extraterrestre dont le seul passager semble être mort dans d’étranges circonstances…",
+    "en": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+    "de": "Die Besatzung des Weltraumfrachters Nostromo - darunter der dritte Offizier Ellen Ripley - befindet sich im künstlichen Tiefschlaf. Plötzlich empfängt ihr Schiff ein SOS-Signal. Der Bordcomputer weckt daraufhin die Mannschaft, die der Hilferuf wenig später auf einen unwirtlichen Planten führt. Dabei entdeckt die Crew das Wrack eines außerirdischen Raumschiffs. Ein Crewmitglied wird dabei von einem Alien angegriffen, das sich auf seinem Gesicht festsaugt. Dem Schiffsarzt Ash gelingt zwar die Entfernung des fremden Organismus, doch das außerirdische Wesen ist damit längst nicht besiegt. In der Enge des Raumfrachters beginnt ein Kampf ums Überleben, bei der Feind nahezu unsichtbar, heimtückisch und äußerst tödlich ist...",
+    "it": "L'astronave Nostromo sbarca su un pianeta da cui proviene un SOS, ma la colonia sembra essere disabitata. I coloni sono stati in realtà sterminati da una razza aliena che ha trasformato la base in una gigantesca covata.",
+    "es": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+    "sv": "På väg hem till jorden fångar besättningen på rymdskeppet Nostromo upp en nödsignal från en avlägsen planet. När de landar för att undersöka signalen väcker de något som förvandlar deras hemresa till en mardröm."
+   },
+   "tagline": {
+    "fr": "Dans l’espace, personne ne vous entend crier.",
+    "en": "In space no one can hear you scream.",
+    "de": "Im Weltall hört dich niemand schreien.",
+    "it": "Nello spazio, nessuno può sentirti urlare.",
+    "es": "En el espacio nadie podrá oír tus gritos.",
+    "sv": "I rymden kan ingen höra dig skrika."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "de": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "it": [
+     "Horror",
+     "Fantascienza"
+    ],
+    "es": [
+     "Terror",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Skräck",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 17159,
+   "runtime": 117
   },
   {
    "id": 694,
@@ -205,7 +561,51 @@
     "de": "/5CXbyXWzAdtmF0Jg5fAfsZL1cx0.png",
     "it": "/i3YxZV9zc869yNT6bp0sFVrVrTS.png",
     "es": "/x5je6H1AI7IkRF6fkhgGWiRAtEA.png"
-   }
+   },
+   "overview": {
+    "fr": "Jack Torrance, gardien d’un hôtel fermé l’hiver, sa femme et son fils Danny s’apprêtent à vivre de longs mois de solitude. Danny, qui possède un don de médium, le «Shining», est effrayé à l’idée d’habiter ce lieu, théâtre marqué par de terribles événements passés…",
+    "en": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "de": "Der ehemalige Lehrer und Schriftsteller Jack Torrance übernimmt die Stelle des Hausverwalters in einem mit einem Mythos behafteten Berghotel in Colorado. Während der Wintermonate soll Jack das alleinstehende Gebäude im Auge behalten. Der Familienvater sieht darin die perfekte Gelegenheit, in Ruhe seinen Roman zu beenden. Auch seine Frau Wendy freut sich auf die Zeit im abgeschiedenen Hotel. Nur der sechsjährige Sohn Danny hat bei der ganzen Sache so seine Bedenken. Es dauert nicht lange bis die dunklen Vorahnungen und blutigen Visionen, die dem Jungen schon kurz nach dem Einzug das erste mal begegnen, zur Realität werden: Vater Jack beginnt immer mehr, den Verstand zu verlieren. Mit einer Axt bewaffnet, beginnt der wahnsinnig Gewordene die Jagd auf seine Familie.",
+    "it": "L'aspirante scrittore Jack Torrance si trasferisce tra i monti per trovare il giusto isolamento che gli permetterà di completare il suo romanzo. L'uomo accetta quindi l'incarico di custode invernale di un enorme albergo tra le montagne, dove lo seguono la moglie e il figlioletto Danny, il quale possiede poteri paranormali che gli permettono di vedere nel passato e nel futuro.",
+    "es": "Jack Torrance se traslada, junto a su mujer y a su hijo, al impresionante hotel Overlook, en Colorado, para encargarse del mantenimiento del mismo durante la temporada invernal, en la que permanece cerrado y aislado por la nieve. Su idea es escribir su novela al tiempo que cuida de las instalaciones durante esos largos y solitarios meses de invierno, pero desde su llegada al hotel, Jack comienza a padecer inquietantes transtornos de personalidad, al mismo tiempo que en el lugar comienzan a suceder diversos fenómenos paranormales.",
+    "sv": "Jack Torrance är en nykter alkoholist som tar jobb som vaktmästare på det isolerade hotellet Overlook under vintersäsongen. Med sig på resan har han sin fru och sin lilla son. Jack hoppas på att få lugn och ro när han skriver sin nya bok. Men vad han inte vet är att hotellet har en ond och mörk hemlighet. Och något hemskt väntar på dem i rum 237…"
+   },
+   "tagline": {
+    "fr": "Un tiens vaut mieux que deux tu l’auras.",
+    "en": "A masterpiece of modern horror.",
+    "de": "Ein Meisterwerk des modernen Horrors.",
+    "it": "L'onda di terrore che ha spazzato l'America è qui.",
+    "es": "Solo trabajo y nada de juego hacen de Jack un chico aburrido.."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 19705,
+   "runtime": 120
   },
   {
    "id": 1091,
@@ -227,7 +627,58 @@
     "de": "/zuUjPhnpEWyJWf1FaXu5GkXPP0t.png",
     "it": "/wqEvwwQCNjbxEYT0cf6pE0fcRh9.png",
     "es": "/cmriRydEcCNux47zsfd1JvD3ER1.png"
-   }
+   },
+   "overview": {
+    "fr": "Hiver 1982 au cœur de l’Antarctique. Une équipe de recherche composée de 12 hommes, découvre un corps enfoui sous la neige depuis plus de 100 000 ans. Décongelée, la créature retourne à la vie et témoigne très vite de sa capacité à parasiter puis assimiler toute forme de vie. Isolés du monde, ne sachant plus qui est contaminé et qui ne l'est pas, les hommes de l'équipe vont sombrer dans la peur et la paranoïa. Un véritable combat s’engage.",
+    "en": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "de": "Eine amerikanische Forschungsstation in der Antarktis: zwölf Mann Besetzung unterschiedlichster Couleur. Während alle in der Einsamkeit ihre Neurosen pflegen, taucht plötzlich aus der endlosen Kälte ein Schlittenhund auf, von einem Hubschrauber verfolgt. An Bord: die letzten Überlebenden der nahegelegenen norwegischen Station. Bei dem anschließenden Gefecht werden die Europäer getötet, zurück bleibt der Hund. Bei der norwegischen Station gefundene Filmaufnahmen führen zu einem außerirdischen Raumschiff, das die Europäer aus dem Eis gesprengt haben. Und wie man bald feststellen muss, hat es der Hund in sich: Ein außerirdischer Organismus, der durch Berührung übertragen wird, schleicht sich so auch in der US-Station ein. Und der hat unerfreuliche Nebenwirkungen, verformt er doch aufs Abscheulichste die Menschen, die er befallen hat. Körper verformen sich, brechen auf, Paranoia macht sich breit, niemand ist mehr sicher und keiner weiß, wie man dieses Alien stoppen kann.",
+    "it": "Gli scienziati di una base di ricerche in Alaska raccolgono un cane lupo che i loro colleghi norvegesi hanno tentato di abbattere. Lo mettono nel canile mentre due di essi si recano nella base norvegese che trovano abbandonata e piena di cadaveri. Trovano anche i resti di quello che sembra un disco volante. In breve il cane viene posseduto da una strana forza e si trasforma in belva. Il panico si diffonde nella base.",
+    "es": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente...",
+    "sv": "Vintern 1982 på en isolerad forskningsstation i Antarktis upptäcker en forskargrupp något främmande som legat begravt i isen i över 100 000 år. När det väcks till liv följer en kedja av förödande händelser som snabbt gör att gruppen tappar greppet om verkligheten – och om varandra."
+   },
+   "tagline": {
+    "fr": "L'homme est la meilleure cachette qui soit.",
+    "en": "Anytime. Anywhere. Anyone.",
+    "de": "Er war die Klapperschlange. Jetzt jagt er das Ding: Kurt Russel in John Carpenters neuestem Kino-Trip.",
+    "it": "Non fidarti di nessuno",
+    "es": "El hombre es el lugar más cálido para esconderse.",
+    "sv": "När som helst. Var som helst. Vem som helst."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Mystère",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Horror",
+     "Mystery",
+     "Science Fiction"
+    ],
+    "de": [
+     "Horror",
+     "Mystery",
+     "Science Fiction"
+    ],
+    "it": [
+     "Horror",
+     "Mistero",
+     "Fantascienza"
+    ],
+    "es": [
+     "Terror",
+     "Misterio",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Skräck",
+     "Mystik",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 8460,
+   "runtime": 109
   },
   {
    "id": 764,
@@ -249,7 +700,45 @@
     "de": "/rIi5M2arU6oZTAs17YUl4OS8qFM.png",
     "it": "/fs6rzHpq6ojI54iVTZ7zfql6ZSQ.png",
     "es": "/yiOhKNWtnEHY8mX5VKm72wGeAyW.png"
-   }
+   },
+   "overview": {
+    "fr": "Cinq jeunes vacanciers s’installent dans une baraque au cœur d’une sinistre forêt. En descendant dans une cave lugubre, les deux garçons de la bande découvrent un vieux magnétophone qui une fois remis en marche, émet une incantation magique. Laquelle réveille les forces du mal, déclenchant ainsi une horreur sans nom…",
+    "en": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+    "de": "Fünf junge Leute unternehmen einen Wochenendausflug in eine verlassene Waldhütte im südlichen Hinterland der USA. In der verfallenen Behausung angekommen, entdecken sie das Tonbandgerät ihres Vormieters, der offenbar einen uralten Dämonenkult erforschte. Und das sehr erfolgreich, denn die vom Tonband gesprochenen Beschwörungsformeln zeigen sofortige Wirkung. Die Freunde sehen sich über die komplette folgende Nacht mit kollektiver, reihum gehender Besessenheit konfrontiert, die den jeweiligen Träger des Anfalls augenblicklich zur völlig unberechenbaren und außergewöhnlich strapazierfähigen Mordmaschine umfunktioniert. Nur einer von fünf Ausflüglern erblickt das Licht des nächsten Morgens.",
+    "it": "Un gruppo di amici va in una sperduta casupola nei boschi del Tennessee per trascorrere un’amena vacanza, ma inavvertitamente scatena un’orda di demoni leggendo un antico libro trovato abbandonato. Le avvisaglie che qualcosa non va si manifestano quando una delle ragazze, Cheryl, avventuratasi fuori nella notte, viene violentata da una pianta. Le cose peggiorano in modo esponenziale e uno dei ragazzi, Ash, cerca di prendere in mano la situazione.",
+    "es": "Cinco chicos van a pasar el fin de semana a una cabaña perdida en un espeso bosque en las montañas de Tennessee. Una vez instalados, y cuando se encuentran cenando, la trampilla que da acceso al sótano se abre de golpe. Extrañados, deciden bajar a investigar. Allí encuentran un magnetófono, un extraño cuchillo ritual y un libro antiquísimo.",
+    "sv": "Fem vänner åker till en avlägsen stuga där de ska vistas i några dagar. Efter en liten rundtur i huset hittar de en bok och en bandspelare. Boken är de Dödas Bok, och i bandspelaren sitter ett band med en översättning av en bit från boken. Ramsan har magiska krafter och väcker upp de onda krafter som finns i skogen... Då en av vännerna försvunnit i skogen och sedan kommit tillbaka får de andra bevittna en förändring: Flickan förvandlas till en zombie och vill döda de andra... Och utanför väntar de onda krafterna."
+   },
+   "tagline": {
+    "fr": "L’expérience ultime de la terreur",
+    "en": "The ultimate experience in gruelling terror.",
+    "de": "Das ultimative Erlebnis des Grauens",
+    "it": "Sembra una casa normale, da fuori...",
+    "es": "Terror en estado puro."
+   },
+   "genres": {
+    "fr": [
+     "Horreur"
+    ],
+    "en": [
+     "Horror"
+    ],
+    "de": [
+     "Horror"
+    ],
+    "it": [
+     "Horror"
+    ],
+    "es": [
+     "Terror"
+    ],
+    "sv": [
+     "Skräck"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 4828,
+   "runtime": 74
   },
   {
    "id": 377,
@@ -270,7 +759,45 @@
     "en": "/5imuR4m3p8BOHgzhuGKDb5vXdvN.png",
     "de": "/l7cuxIgkULtZfTZKVzub1nZUlnr.png",
     "es": "/36ISV2Gj1JwwJwy6REviGiAVEKT.png"
-   }
+   },
+   "overview": {
+    "fr": "Avec son gant aux griffes aiguisées, un assassin défiguré du nom de Freddy Krueger rôde dans la nuit, et transforme les pires cauchemars de ses victimes en réalité. Pour rester en vie, il faut rester éveillé…",
+    "en": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world...",
+    "de": "Praktisch über Nacht hält der blanke Horror Einzug in das Leben der jungen Nancy Thompson. Eines Nachts wird der hübsche Vorstadt-Teenager von einem erschreckend realen Alptraum heimgesucht: Ein narbengesichtiger Fremder mit Rasiermessern statt Fingern jagt sie durch den Heizungskeller, um sie zu massakrieren. Schreiend und schweißgebadet wacht Nancy auf und muss feststellen, dass ihr Nachthemd zerschlitzt ist! Ihre Eltern zeigen wenig Verständnis für die Schlafparanoia der Heranwachsenden, doch...",
+    "it": "Marge ha appena barricato le finestre della sua ridente villetta a schiera al 1428 di Elm Street e, accendendosi una sigaretta, invita la figlia Nancy a scendere in cantina. Le racconta la storia di Fred Krueger, un maniaco omicida che anni prima aveva assassinato una ventina di bambini: per colpa di alcuni problemi burocratici, l’assassino era però stato lasciato in libertà. Così alcuni genitori, compresa Marge, si erano fatti giustizia da soli, bruciando vivo Krueger. Ma il mostro rivive nel mondo degli incubi e tormenta i teenager di Springwood.",
+    "es": "Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser, que resulta ser un asesino al que los padres de estos jóvenes quemaron vivo hace varios años tras descubrir que había asesinado a varios niños.",
+    "sv": "Nancy lider av en fruktansvärd mardröm. Märkligt nog drömmer hennes skolkamrater exakt samma dröm. En efter en blir de därefter slaktade av mardrömmens blodtörstiga fiende. När Nancy förklarar sin teori om dödsfallen för polisen, avfärdas hon. Hon måste nu själv möta mördaren i mardrömmens mörka rike. TERROR PÅ ELM STREET är den kultförklarade första filmen om Freddy Kreuger och Elm Street. Filmen är regisserad av skräckmästaren Wes Craven (Scream, Scream 2, Scream 3) och i filmen medverkar bl a en ung Johnny Depp."
+   },
+   "tagline": {
+    "fr": "Si Nancy ne se réveille pas en criant, elle ne se réveillera pas du tout !",
+    "en": "If Nancy doesn't wake up screaming, she won't wake up at all.",
+    "de": "Wenn Traum und Wirklichkeit die Rollen tauschen, kann Schlaf tödlich sein.",
+    "it": "Se Nancy non si sveglia urlando, non si sveglierà più affatto!",
+    "es": "Un grito que te despierta, podría ser el tuyo propio..."
+   },
+   "genres": {
+    "fr": [
+     "Horreur"
+    ],
+    "en": [
+     "Horror"
+    ],
+    "de": [
+     "Horror"
+    ],
+    "it": [
+     "Horror"
+    ],
+    "es": [
+     "Terror"
+    ],
+    "sv": [
+     "Skräck"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 6080,
+   "runtime": 91
   },
   {
    "id": 9426,
@@ -292,7 +819,51 @@
     "de": "/fvrKja0hb2j23qFBxRRrUONqqke.png",
     "it": "/iHZVK6edrQKHiEUhNrrEHIvDuFz.png",
     "es": "/vpEfYGLEY7re9hY3n2Zq6Xj3QlM.png"
-   }
+   },
+   "overview": {
+    "fr": "Brillant mais solitaire, le jeune biologiste Seth Brundle fait la connaissance de la journaliste Veronica Quaife, qui devient la confidente de ses recherches sur un procédé de téléportation révolutionnaire. Persuadé que son invention est enfin au point, il décide de l'expérimenter sur lui-même, sans remarquer qu'une mouche s'est glissée dans la cabine avec lui.",
+    "en": "When brilliant, eccentric scientist Seth Brundle makes a huge technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+    "de": "Die geniale Erfindung des Wissenschaftlers Seth Brundle  könnte das Transportwesen grundlegend verändern. Materie wird in ihre Bestandteile zerlegt, an jeden beliebigen Ort \"gebeamt\" und wieder zusammengesetzt. Der erste Selbstversuch hat jedoch katastrophale Nebenwirkungen. Bei der Teleportation verirrt sich eine Stubenfliege in seinen Apparat, worauf Körperatome von Mensch und Insekt sich miteinander vermischen. Unaufhaltsam beginnt Seth Brundle, sich in ein 180 Pfund schweres Insekt zu verwandeln. Doch damit beginnt erst der Albtraum.",
+    "it": "Lo scienziato Seth Brundle inventa una macchina in grado di teletrasportare la materia e decide di sperimentarla in prima persona, non accorgendosi però, che nella cabina di teletrasporto è entrata anche una mosca. Il teletrasporto funziona alla perfezione, ma qualcosa in Seth sta cambiando.",
+    "es": "Seth Brundle, un excéntrico y solitario científico que crea uno de los inventos más revolucionarios de la historia: la cabina de teletransportación. En un intento por ponerla a prueba a la vez que ignora todo atisbo de prudencia, decide usarse a sí mismo como cobaya en la primera teletransportación aplicada a un humano, con la mala suerte de que una mosca se introduce junto con él en el artefacto. A partir de allí comenzará para Brundle una gradual pero definitiva transformación, una inquietante metamorfosis que le consumirá poco a poco, poniéndole en peligro a él y a los que le rodean.",
+    "sv": "Seth Brundle är en vetenskapsman som uppfunnit en teleportör som kan förflytta materia från en plats till en annan. Journalisten Veronica får följa honom under hans spännande arbete. Efter flera lyckade försök prövar Seth försöket på sig själv – och lyckas. Men allt eftersom tiden går börjar Seth agera annorlunda och förändras. Han upptäcker sig först ha både atletiska och akrobatiska oanade förmågor, men även mörkare sidor. Sakta men säkert blir han aggressivare och successivt börjar han tappa kontrollen över sig själv. Experimentet hade gått fel ändå. Seth inser nu att han kommer att förvandlas till någonting annat. Någonting bortom det mänskliga…"
+   },
+   "tagline": {
+    "fr": "Ayez peur. Très peur.",
+    "en": "Be afraid. Be very afraid.",
+    "de": "Der erste Alptraum einer neuen Generation.",
+    "it": "Abbiate paura. Molta paura.",
+    "es": "Ten miedo, mucho miedo."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "de": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "it": [
+     "Horror",
+     "Fantascienza"
+    ],
+    "es": [
+     "Terror",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Skräck",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 5267,
+   "runtime": 96
   },
   {
    "id": 6114,
@@ -312,7 +883,50 @@
     "en": "/AkB5Ll0QwZjL7QRb61ExOZLlzr1.png",
     "it": "/5D0tVg1z2uXyBEP71PhCokPIs6P.png",
     "es": "/heVlNo8BTfyHj5VMIBXcMqgEEtW.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1492, le prince Vlad Dracul, revenant de combattre les armées turques, trouve sa fiancée suicidée. Fou de douleur, il défie Dieu, et devient le comte Dracula, vampire de son état. Quatre cents ans plus tard, désireux de quitter la Transylvanie pour s’établir en Angleterre, il fait appel à Jonathan Harker, clerc de notaire et fiancé de la jolie Mina Murray. La jeune fille est le sosie d’Elisabeta, l’amour ancestral du comte…",
+    "en": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
+    "de": "In den Wirren des Krieges mit den Türken verliert der rumänische Prinz Vlad Dracula seine Geliebte und verschwört sich mit den Mächten des Bösen. 400 Jahre später entdeckt der Untote beim Besuch seines Maklers Jonathan Harker ein Bild von dessen Verlobter Mina, das dem seiner Geliebten gleicht. Dracula setzt über nach London, um diese Lucy für sich zu gewinnen. Obwohl ihm die Vampirjäger unter der Führung von Professor Van Helsing auf den Fersen sind, ver- und entführt der Graf die Schöne.",
+    "it": "Anno 1462, Costantinopoli era caduta. I musulmani turchi dilagavano in Europa, minacciando tutto il mondo cristiano. Dalla Transilvania si levò a difesa della chiesa un cavaliere rumeno del sacro ordine del Dragone, conosciuto come Draculia. Quando ritornò a casa, scoprì che Elisabeta, principessa romena nonché sua moglie, era morta suicida quando ricevette, dai turchi sconfitti, la falsa notizia della morte dell'amato marito. Alle parole del prete, che sentenziò la dannazione di Elisabeta in quanto suicida, rinnegò Dio e la chiesa, che aveva difeso, e diventò un vampiro.",
+    "es": "Antes de convertirse en vampiro, el conde Drácula era el príncipe Vlad, quien tras conocer la muerte de su prometida, vendió su alma al diablo. Cuatro siglos después, en Londres, encuentra a Mina, reencarnación de su amor perdido.",
+    "sv": "Greve Dracula har begett sig från Transylvanien till London för att söka upp en ung skönhet, som är en kopia av den unga kvinna han förlorade för fyrahundra år sedan. Draculas mål är att förena sig med sin älskade för evigt. I evigheters evighet..."
+   },
+   "tagline": {
+    "fr": "L’amour est éternel.",
+    "en": "Love never dies.",
+    "it": "L'amore non muore mai",
+    "es": "El amor nunca muere."
+   },
+   "genres": {
+    "fr": [
+     "Romance",
+     "Horreur"
+    ],
+    "en": [
+     "Romance",
+     "Horror"
+    ],
+    "de": [
+     "Liebesfilm",
+     "Horror"
+    ],
+    "it": [
+     "Romance",
+     "Horror"
+    ],
+    "es": [
+     "Romance",
+     "Terror"
+    ],
+    "sv": [
+     "Romantik",
+     "Skräck"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 6058,
+   "runtime": 128
   },
   {
    "id": 628,
@@ -334,7 +948,57 @@
     "de": "/iiXX0UWGwQkyNmCTSN7J0XG8T5v.png",
     "it": "/elDds4y0RfKyHXgojvblfqtACSI.png",
     "es": "/eNrADMZ7YNceGBgOgx4w6GCQj0b.png"
-   }
+   },
+   "overview": {
+    "fr": "San Francisco dans les années 90. Un jeune journaliste, Malloy, s'entretient dans une chambre avec un homme élégant, à l'allure aristocratique et au visage blafard, Louis, qui lui fait de bien étranges confidences. Malloy, subjugué par la séduction de son interlocuteur lui demande, à l'aube, de le faire pénétrer dans son monde, celui des vampires.",
+    "en": "A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.",
+    "de": "Der Vampir Louis erzählt in der Jetztzeit dem Journalisten Malloy die Geschichte seiner Existenz: Als Plantagenbesitzer wird er, nachdem er im Anschluß an den Tod seiner Frau jeden Lebensmut verloren hat, im Jahre 1791 von dem Vampir Lestat auf eigenen Wunsch gebissen und selbst zu einem Vampir gemacht. Doch Louis fängt schon bald an, seine Existenz zu hassen und will schon bald keine Menschen mehr töten. Damit Louis wie in einer Familie leben kann, macht Lestat auch ein kleines Mädchen zu einem Vampir. Doch Konflikte sind vorprogrammiert, während die Zeit vergeht und Louis und Lestat werden zu Feinden.",
+    "it": "Il giornalista Mallory riesce finalmente ad ottenere un'intervista con Louis De Point Du Lac, diventato vampiro nel 1791 per opera di Lestat. Dal racconto del vampiro Louis emergono sofferenze e desideri indicibili. Dal 1791 ai giorni nostri, il viaggio di Louis si svolge in compagnia del satanico Lestat, il vampiro che lo condannò ad un'esistenza nelle tenebre, e della piccola Claudia, trascinata nello stesso vortice...",
+    "es": "En \"Entrevista con el Vampiro\" somos testigos de cómo el vampiro llamado Louis revela a un periodista su condición sobrenatural y su extensa \"vida\" a través de los últimos dos siglos. Una historia que comienza en la vieja Nueva Orleans del siglo dieciocho, cuando franceses y españoles habitaban las costas del Mississipi. Lestat, un vampiro pomposo y arrogante, acento francés, arrebata la vida humana de Louis de Pointe du Lac, joven criollo y terrateniente signado por desgracias familiares, para otorgarle el don oscuro: lo convierte en uno de los de su clase. A partir de ese momento los une no sólo su condición vampírica sino un afecto-odio que los llevará al principio por caminos similares y luego a la más trágica separación. Conforme pasan las décadas, estos personajes inmortales crean a una niña vampira de nombre Claudia, la cual influirá indefectiblemente en su separación.",
+    "sv": "De odöda finns ibland oss och de är mer livfulla än någonsin när Tom Cruise, Brad Pitt och en talangfull skara av unga stjärnor drabbar samman i den här filmatiseringen av Anne Rices bästsäljande bok. Tom Cruise spelar den överlägsna, ondskefulle och karismatiske vampyren Lestat. Brad Pitt spelar Louis, som lurats till odödlighet av Lestat, men som sedan ställs inför det svåra dilemmat när han inser att han måste döda för att överleva."
+   },
+   "tagline": {
+    "fr": "Qui boira mon sang aura la vie éternelle.",
+    "en": "Drink from me and live forever.",
+    "de": "In meinen Adern fließt ewiges Leben",
+    "it": "Bevi da me e vivrai per sempre.",
+    "es": "Bebe de mí y vivirás por siempre."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Drame",
+     "Fantastique"
+    ],
+    "en": [
+     "Horror",
+     "Drama",
+     "Fantasy"
+    ],
+    "de": [
+     "Horror",
+     "Drama",
+     "Fantasy"
+    ],
+    "it": [
+     "Horror",
+     "Dramma",
+     "Fantasy"
+    ],
+    "es": [
+     "Terror",
+     "Drama",
+     "Fantasía"
+    ],
+    "sv": [
+     "Skräck",
+     "Drama",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 6728,
+   "runtime": 123
   },
   {
    "id": 755,
@@ -355,7 +1019,57 @@
     "en": "/zm8mX7BkxxEtjNieuG6JrNfRjTh.png",
     "it": "/7q9wETPNAnAWXTtyyAumM8sHUNp.png",
     "es": "/qYtu6DXUDeKBCjZt02UUC35F61Q.png"
-   }
+   },
+   "overview": {
+    "fr": "Deux criminels prennent une famille en otage près de la frontière mexicaine, après une cavale particulièrement sanglante durant laquelle ils ont tué un policier et kidnappé l’employée d’une banque. Leur fuite vers le Mexique les conduit finalement dans un bar en plein désert, où un contact leur a donné rendez-vous. Le « Titty Twister », un repaire de motards ouvert toute la nuit, va s'avérer être une antre cauchemardesque…",
+    "en": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+    "de": "Richard Gecko ist ein Psychopath, sein Bruder Seth ein eiskalter Verbrecher. Richard befreit Seth aus dem Gefängnis, sie rauben eine Bank aus und hinterlassen eine Spur aus Blut und Verwüstung. Auf ihrer Flucht entführen sie schließlich einen ehemaligen Baptisten-Prediger, der sein Amt nach dem Tod seiner Frau aufgegeben hat und nun mit seinen beiden Kindern von Ort zu Ort zieht. Richard verspricht ihm, ihn und seine Kinder freizulassen, wenn dieser sie nach Mexiko schmuggelt. Und eigentlich möchte Richard dieses Versprechen sogar einhalten, gäbe es da nicht das Titty Twister, eine Bar auf der anderen Seite der Grenze, in der sich Richard eigentlich nur mit mexikanischen Gangstern treffen will, um mit ihnen ein Geschäft zu machen. Leider wird das Titty Twister von einer Horde blutrünstiger Vampire geleitet, die ihre Gäste, inklusive Gangster und Prediger, einschließen, um sich an ihnen zu laben",
+    "it": "Dopo una sanguinosa rapina in una banca del Texas, i fratelli Seth e Richard prendono in ostaggio un predicatore disilluso che viaggia in camper con due figli e sconfinano nel Messico, dove approdano al “Titty Twister”, un locale frequentato da spogliarelliste, motociclisti e strani personaggi.",
+    "es": "Los hermanos Gecko, Seth y Richard, dos peligrosos criminales, se dirigen a la frontera de México escapando de la policia. En su huida utilizarán la caravana de la familia Fuller, tomando al pastor Jacob y a sus dos hijos como rehenes. Los cinco viajeros,llegan hasta el Titty Twister, un siniestro local donde espera el contacto de los hemanos Gecko.",
+    "sv": "Bröderna Seth och Richard Gecko står på listan för Amerikas mest eftersökta brottslingar efter en rad väpnade bankrån. De är på väg till Mexiko där de har blivit lovade fristad av en kontakt, Carlos. Ett besök i en spritbutik slutar med att de dödar ägaren. Senare tar de en kvinnlig gisslan och tar in på ett motell. Medan Seth är ute för att proviantera våldtar och dödar Richard kvinnan. Seth blir rasande.På motellet finns också prästen Jacob Fuller med sina två barn, Kate och Scott. Bröderna tar trion som gisslan. Alla fem lyckas ta sig över gränsen till Mexiko i Jacobs husbil och hamnar nu intet ont anande på den avtalade mötesplatsen The Titty Twister Bar, ett ställe för chaufförer. Senare på kvällen uppträder en vacker kvinna som plötsligt förvandlas till en vampyr och dödar Richard. Det visar att flera av bargästerna är vampyrer och en långdragen blodig kamp äger rum. Seth och Kate blir de enda överlevande och möter Carlos."
+   },
+   "tagline": {
+    "fr": "Il n’y a plus de limites.",
+    "en": "One night is all that stands between them and freedom. But it's going to be one hell of a night.",
+    "de": "Von der Dämmerung bis zum Morgengrauen ...",
+    "it": "Solo una notte li separa dalla libertà. Ma sarà una notte d'inferno.",
+    "es": "Una noche es lo único que les separa de la libertad... Pero será una noche infernal"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Horreur",
+     "Crime"
+    ],
+    "en": [
+     "Action",
+     "Horror",
+     "Crime"
+    ],
+    "de": [
+     "Action",
+     "Horror",
+     "Krimi"
+    ],
+    "it": [
+     "Azione",
+     "Horror",
+     "Crime"
+    ],
+    "es": [
+     "Acción",
+     "Terror",
+     "Crimen"
+    ],
+    "sv": [
+     "Action",
+     "Skräck",
+     "Kriminal"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 6821,
+   "runtime": 109
   },
   {
    "id": 4232,
@@ -375,7 +1089,58 @@
     "en": "/xj4tbUx6p1EFoWdrkZkAGMktgT6.png",
     "it": "/39g4wMUC8UkqHjxcz4wpY5YnqrA.png",
     "es": "/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
-   }
+   },
+   "overview": {
+    "fr": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne. Au bout du fil, un serial killer la malmène, et la force à jouer à un jeu terrible : si elle répond mal à ses questions portant sur les films d'horreur, celui-ci tuera son copain… Sidney Prescott sait qu'elle est l'une des victimes potentielles du tueur de Woodsboro. Celle-ci ne sait plus à qui faire confiance. Entre Billy, son petit ami, sa meilleure amie Tatum et son frère Dewey, ses copains de classe Stuart et Randy, la journaliste arriviste Gale Weathers et son caméraman Kenny qui traînent tout le temps dans les parages et son père toujours absent, qui se cache derrière le masque du tueur ?",
+    "en": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "de": "Ein Killer geht um in einer kleinen amerikanischen Provinzgemeinde. Die Schülerin Casey, die einfach nur daheim vor dem Fernseher sitzt, wird sein erstes Opfer. Ihre Eltern finden sie aufgehängt im Garten, massakriert von einem Unbekannten. Die unheimliche Anschlagsserie setzt sich fort. Die junge Sidney, die auf dieselbe Schule wie Casey geht, wird ebenfalls bedroht. Aber kann das eine 17-jährige Amerikanerin davon abhalten, sich nachts in einer einsamen Villa mit Klassenkameraden bei Bier und Popcorn Horrorvideos reinzuziehen?",
+    "it": "Attenti, ragazzi: un serial killer si aggira in mezzo a voi!Sidney si trova a dover affrontare qualcosa che supera le sue crisi adolescenziali. Sua madre infatti è stata assassinata un anno prima, il padre è sempre assente per lavoro e il suo ragazzo Billy la sta spingendo a fuggire di casa. Ci si mette anche un serial killer che ha iniziato a terrorizzare la città usando la sua passione per i film dell'orrore. Avvalendosi di tutte le sue conoscenze in materia, gioca con le sue vittime e riesce a sviare la polizia.  Il film sta tra lo scherzo e l'esercitazione sulla paura: un gioco di ragazzi che si rivela subito una vera, sanguinosa corsa all'incubo. L'ironia stempera la tensione, ma il gran finale notturno è trascinante. Film \"teorico\" che ha rilanciato Craven e generato vari seguiti apocrifi e non. Nella parte del preside c'è Harry \"Fonzie\" Winkler.",
+    "es": "Sidney Prescott, una adolescente de la pequeña comunidad de Woodsboro, se convierte en el objetivo de un misterioso asesino en serie. Una reportera de un canal de noticias, Gale Weathers, que cubrió el asesinato un año atrás de la madre de Sidney, cubre ahora estos asesinatos, además ha escrito un libro en el que defiende al supuesto asesino de Maureen, Cotton Weary, que va a ir a la cámara de gas, alegando que cayó en una trampa, lo que hace reavivar la polémica. Los crímenes dejan de ser aislados y continúan los asesinatos. Ahora Sidney, su novio y sus amigos están en peligro, ya que el asesino quiere revivir lo sucedido un año atrás con Maureen Prescott, pero esta vez con su hija.",
+    "sv": "Casey väntar på sin pojkvän Steve, som hon under kvällen ska se en skräckfilm tillsammans med. Precis när Casey ska börja poppa popcorn ringer telefonen. Det är inte Steve..."
+   },
+   "tagline": {
+    "fr": "Quelqu'un a poussé son amour des films d'horreur un peu trop loin.",
+    "en": "Someone has taken their love of scary movies one step too far. Solving this mystery is going to be murder.",
+    "de": "Welcher ist dein Lieblingshorrorfilm?",
+    "it": "Ora tutti sono vittime e tutti sono sospettati!",
+    "es": "Alguien ha llevado su pasión por las películas de terror demasiado lejos.",
+    "sv": "Någon har tagit sin kärlek till läskiga filmer ett steg för långt."
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Horreur",
+     "Mystère"
+    ],
+    "en": [
+     "Crime",
+     "Horror",
+     "Mystery"
+    ],
+    "de": [
+     "Krimi",
+     "Horror",
+     "Mystery"
+    ],
+    "it": [
+     "Crime",
+     "Horror",
+     "Mistero"
+    ],
+    "es": [
+     "Crimen",
+     "Terror",
+     "Misterio"
+    ],
+    "sv": [
+     "Kriminal",
+     "Skräck",
+     "Mystik"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 8421,
+   "runtime": 111
   },
   {
    "id": 2668,
@@ -396,7 +1161,64 @@
     "en": "/w17InZtGh60JHNojnVYnkq4781c.png",
     "it": "/orXEO8QQHrijBu0Z0pFc8O7HyLY.png",
     "es": "/h3xHD8VB1ObGBZ76TZHLlvOJgRx.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1799, dans une bourgade de la Nouvelle-Angleterre, plusieurs cadavres sont successivement retrouvés décapités. Les têtes ont disparu. Terrifiés, les habitants sont persuadés que ces meurtres sont commis par un étrange et furieux cavalier, dont la rumeur prétend qu'il est lui-même sans tête. Les autorités new-yorkaises envoient alors leur plus fin limier pour éclaircir ce mystère. Ichabod Crane ne croit ni aux légendes, ni aux vengeances post-mortem. Mais, à peine arrivé, il succombe au charme étrange et vénéneux de la belle Katrina Van Tassel.",
+    "en": "Skeptical young detective Ichabod Crane gets transferred to the hamlet of Sleepy Hollow, New York, where he is tasked with investigating the decapitations of three people – murders the townsfolk attribute to a legendary specter, The Headless Horseman.",
+    "de": "Der Ermittler Ichabod Crane aus New York ist auf mehrere mysteriöse Todesfälle angesetzt worden, die sich in dem unscheinbaren Städtchen Sleepy Hollow zugetragen haben. Crane ist ein Mann des Verstandes und der Vernunft und gibt sich an die Aufklärung der Verbrechen mit neuartigen kriminalistischen Methoden. Doch schon bald muss er feststellen, dass in Sleepy Hollow der Wissenschaft schnell Grenzen gesetzt sind; spätestens dann, wenn sich Ichabod Crane dem leibhaftigen Hessen ohne Kopf persönlich gegenüber stehen sieht.",
+    "it": "1799, il poliziotto Ichabod Crane viene inviato nel piccolo paese di Sleepy Hollow per indagare su una serie di omicidi commessi da un presunto cavaliere senza testa.",
+    "es": "Durante la Guerra de Secesión Americana, un policía de Nueva York que utiliza avanzados métodos de investigación es enviado al pueblo de Sleepy Hollow para descubrir qué hay de verdad en la leyenda de un jinete sin cabeza que aterroriza a los habitantes del lugar. Una vez allí adopta la identidad de un profesor de escuela y se enamora de Katrina, que mantiene relaciones con uno de los hombres más conocidos del pueblo. Realidad y ficción se darán la mano en el momento menos pensado.",
+    "sv": "I de mörka skogarna i närheten av den lilla byn Sleepy Hollow sägs det finnas en huvudlös riddare som rider ut nattetid och de som hamnar i hans väg förlorar sitt eget huvud. Patologen Ichabod Crane från New York skickas dit för att undersöka dödsfallen."
+   },
+   "tagline": {
+    "fr": "Des têtes vont tomber.",
+    "en": "Heads will roll.",
+    "de": "Es werden Köpfe rollen",
+    "it": "Puoi sbarrare le porte, puoi sprangare le finestre, ma non potrai sopravvivere al cavaliere senza testa",
+    "es": "Rodarán cabezas.",
+    "sv": "Huvuden kommer att rulla."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Thriller",
+     "Mystère",
+     "Horreur"
+    ],
+    "en": [
+     "Fantasy",
+     "Thriller",
+     "Mystery",
+     "Horror"
+    ],
+    "de": [
+     "Fantasy",
+     "Thriller",
+     "Mystery",
+     "Horror"
+    ],
+    "it": [
+     "Fantasy",
+     "Thriller",
+     "Mistero",
+     "Horror"
+    ],
+    "es": [
+     "Fantasía",
+     "Suspense",
+     "Misterio",
+     "Terror"
+    ],
+    "sv": [
+     "Fantasy",
+     "Thriller",
+     "Mystik",
+     "Skräck"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 7724,
+   "runtime": 105
   },
   {
    "id": 1933,
@@ -416,7 +1238,58 @@
     "fr": "/pL9GRjp4HYDrMSMjoHh7ngE8N2J.png",
     "en": "/yHZF7JczlTxscrTc3uO8PricPt4.png",
     "es": "/cAfDGFvGvHqW29rjN2RDuTOfJsm.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1945, la Seconde Guerre mondiale est terminée mais le mari de Grace, parti combattre, n'est pas revenu du front. Dans une immense demeure victorienne isolée sur l'île de Jersey, cette jeune femme pieuse élève seule ses deux enfants, Anne et Nicholas, selon les principes stricts de sa religion. Atteints d'un mal étrange, ces derniers ne peuvent être exposés à la lumière du jour. Ils vivent donc reclus dans ce manoir qui doit constamment rester dans l'obscurité. Lorsque trois nouveaux domestiques viennent habiter avec Grace et ses enfants, ils doivent se plier à une règle vitale : aucune porte ne doit être ouverte avant que la précédente n'ait été fermée. Pourtant, quelqu'un va désobéir à cet ordre. Dès lors, Grace, ses enfants et tous ceux qui les entourent devront en subir les conséquences.",
+    "en": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+    "de": "Jersey, England. 1945. Grace, deren Ehemann nach dem Ende des Zweiten Weltkriegs noch immer nicht von der Front zurückgekehrt ist, lebt mit ihren beiden Kindern Anne und Nicholas und einigen Bediensteten in einem unheimlichen viktorianischen Anwesen. Anne und Nicholas leiden an einer seltenen Krankheit durch die sie allergisch auf direktes Sonnenlicht reagieren. Das Haus muß daher stets in Dunkelheit gehüllt sein, um die Gesundheit der beiden nicht zu gefährden.",
+    "it": "Inghilterra, 1945. Grace ed i suoi figli vivono in una grande casa isolata. I bambini soffrono di una strana malattia che li costringe a vivere al riparo della luce. Ma ciò che si nasconde dietro ogni spiraglio aperto, nella penombra dei lunghi corridoi, non è solo una minaccia alla salute dei bambini...",
+    "es": "Grace educa sola a sus hijos en un aislado caserón victoriano bajo estrictas normas religiosas. Los tres nuevos sirvientes deben aprender una regla vital, la casa estará siempre en penumbra y nunca se abrirá una puerta si no se ha cerrado la anterior  porque los niños sufren una extraña alergia a la luz del día.",
+    "sv": "Tvåbarnsmamman Grace väntar på att hennes försvunne make ska komma hem från andra världskriget. När tre nya tjänare kommer till det gamla viktorianska huset börjar häpnadsväckande och spöklika saker att ske. Snart börjar Grace ana att en inkräktare befinner sig i huset."
+   },
+   "tagline": {
+    "fr": "Tôt ou tard, ils vous trouveront…",
+    "en": "Sooner or later they’ll find you.",
+    "de": "Früher oder später finden sie Dich.",
+    "it": "Nessuna porta deve essere aperta prima che l'ultima sia stata chiusa",
+    "es": "Tarde o temprano ella los verá, entonces todo será diferente.",
+    "sv": "Förr eller senare kommer de att hitta dig."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Mystère",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Mystery",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Mystery",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Mistero",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Misterio",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Mystik",
+     "Thriller"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 7571,
+   "runtime": 101
   },
   {
    "id": 170,
@@ -439,7 +1312,58 @@
     "it": "/5df3r2XwSyLlauJI8GDuMP3IglM.png",
     "es": "/wroSBngqUpcZVUIFPtbVjsREJQ3.png",
     "sv": "/jN76vAIb2MMDdULElOLgHh7kM6U.png"
-   }
+   },
+   "overview": {
+    "fr": "Un commando de la Protection Animale fait irruption dans un laboratoire top secret pour délivrer des dizaines de chimpanzés soumis à de terribles expériences. Mais aussitôt libérés, les primates, contaminés par un mystérieux virus et animés d’une rage incontrôlable, bondissent sur leurs « sauveurs » et les massacrent. 28 jours plus tard, le mal s’est répandu à une vitesse fulgurante à travers le pays, la population a été évacuée en masse et Londres n’est plus qu’une ville fantôme. Les rares rescapés se terrent pour échapper aux « Contaminés » assoiffés de violence. C’est dans ce contexte que Jim, un coursier, sort d’un profond coma…",
+    "en": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+    "de": "Bei einer Aktion militanter Tierschützer wird in London ein tödlicher, sich rasend schnell verbreitender Virus freigesetzt, der friedliche Menschen innerhalb von Sekunden in mörderische Bestien verwandelt. 28 Tage nach der Katastrophe machen sich vier Überlebende auf den Weg nach Manchester, wo eine kleine Armee-Einheit angeblich Herr der Lage sein soll. Die Reise durch das verwüstete Großbritannien erweist sich als überaus gefährlich. Auf der Militärbasis angekommen, müssen Jim, Selina, Hannah und Frank erkennen, daß das schlimmste erst noch vor ihnen liegt.",
+    "it": "Inghilterra, oggi. Durante un blitz un gruppo di animalisti irrompe in un laboratorio dove alcuni scimpanzè vengono sottoposti alla visione forzata di immagini violente. Il ricercatore che studia le cavie avverte gli attivisti che gli animali sono affetti da un virus sconosciuto e pericoloso. Malgrado ciò, i membri del commando decidono di liberare gli animali, da cui vengono immediatamente attaccati. 28 giorni dopo, Jim si risveglia in una Londra deserta e spettrale. La città sembra deserta e Jim vaga alla ricerca di esseri umani. E' solo l'inizio di un'avventura dai risvolti terrificanti, dove l'uomo civilizzato si conferma come la belva peggiore.",
+    "es": "Londres es un cementerio. Las calles están ahora desiertas. Reina un silencio total. Tras la propagación de un virus que acabó con la mayor parte de la población, tuvo lugar la invasión de unos seres terroríficos. El virus se difundió, tras la incursión en un laboratorio, de un grupo de defensores de los derechos de los animales. Transmitido por la sangre, el virus produce efectos devastadores. En 28 días la epidemia se extiende por todo el país y sólo queda un puñado de supervivientes...",
+    "sv": "Efter ett attentat mot ett laboratorium sprids ett dödligt virus med ilfart genom England. 28 dagar senare vaknar Jim upp ur koma på ett öde sjukhus. Sakta men säkert går det upp för honom att han är en av få överlevande."
+   },
+   "tagline": {
+    "fr": "Les jours sont comptés.",
+    "en": "The days are numbered.",
+    "de": "Deine Tage sind gezählt",
+    "it": "Non ci sarà più un futuro.",
+    "es": "Su miedo comienza al despertarse solo... Su terror comienza al darse cuenta que no lo está...",
+    "sv": "Dagarna är räknade"
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Horror",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Horror",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Horror",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Terror",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 9085,
+   "runtime": 114
   },
   {
    "id": 924,
@@ -460,7 +1384,51 @@
     "en": "/ixdeNOoBif4DY3p6WsI32rKAiRi.png",
     "it": "/o9aPrjUA7stj5UFC489rS6WrXtv.png",
     "es": "/iEQfSEf9fimlihwxy2xlcNMedVN.png"
-   }
+   },
+   "overview": {
+    "fr": "Personne ne peut expliquer comment tout cela est arrivé, mais ce matin, le monde n'est plus qu'un immense cauchemar. La population de la planète se résume désormais à une horde de morts vivants assoiffés de sang et lancés à la poursuite des derniers êtres humains encore en vie. Après avoir miraculeusement réussi à s'échapper de son quartier, Ana Clark se barricade avec un petit groupe de survivants dans un centre commercial. André et sa femme enceinte, Michael et Kenneth, officiers de police, vont tout faire pour rester vivants. Alors que dehors, la situation est de pire en pire, à l'intérieur, il faut aussi faire face aux peurs et aux démons de chacun.",
+    "en": "A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.",
+    "de": "Eine mysteriöse Seuche, die die Toten auferstehen lässt, welche dann Jagd auf die Lebenden machen, überrollt die USA. Das System bricht zusammen, so dass die Überlebenden auf Selbsthilfe angewiesen sind. Eine Gruppe Überlebender, darunter die Krankenschwester Anna und der Polizist Kenneth, schließt sich zusammen und sucht Zuflucht in einem Einkaufszentrum, das Unterkunft und Nahrung bietet. Doch das „Rest-Erinnerungsvermögen“ der lebenden Toten führt diese zurück an die Orte ihres Lebens und bald ist auch dieser Ort nicht mehr sicher. Notgedrungen starten die Überlebenden den Versuch, vom Festland auf eine Insel zu flüchten, wozu sie sich den Weg natürlich freikämpfen müssen …",
+    "it": "La popolazione mondiale è stata colpita da un misterioso flagello e un esercito di zombie spinti da un'insaziabile fame di carne umana sta per prendere il sopravvento. Dopo essere fuggita dalla sua casa nel Winsconsin, Ana Clark si unisce ad un gruppo di sopravvissuti che comprende un agente di polizia, lo stoico Kenneth, il timido e riservato Michael e Andre, un duro abituato a tutto e con la moglie incinta. Il gruppo trova rifugio in un centro commerciale abbandonato che si trasforma in una vera e propria fortezza.",
+    "es": "Un grupo de supervivientes se refugia en un centro comercial tras una epidemia que ha convertido a la mayoría de la población en zombis. El líder del grupo es el policía Kenneth Hall (Ving Rhames), que junto con otros personajes como la enfermera Ana Clark (Sarah Polley), el vendedor Michael (Jake Weber) o el experto en armas Andy (Bruce Bohne) intenta sobrevivir y escapar de los muertos vivientes. El grupo tendrá que enfrentarse a los zombis, a otros supervivientes hostiles y a sus propios conflictos internos, mientras busca una salida y una esperanza.",
+    "sv": "Inom loppet av en natt drabbas hela jordens befolkning av ett oförklarligt och dödligt virus – men ingen dör helt! Levande döda som drivs av en omättlig hunger efter färskt kött, jagar nu det fåtal människor som har överlevt. En liten grupp av överlevande söker skydd i en av de tjugonde århundradets fästningar – ett övergivet köpcenter. En stadigt växande armé av zombier gör allt för att ta sig i ni köpcentret och de överlevande måste nu kämpa mot zombierna, varandra och sin egen fruktan i hopp om att förbli vid liv, eller ännu vikigare – att förbli människor."
+   },
+   "tagline": {
+    "fr": "Quand il n'y a plus de place en enfer, ils reviennent sur Terre.",
+    "en": "When there's no more room in Hell, the dead will walk the Earth.",
+    "de": "Wenn die Untoten auferstehen, wird die Zivilisation vernichtet.",
+    "it": "Quando i non morti sorgeranno, la civiltà cadrà.",
+    "es": "Cuando no haya más sitio en el infierno, los muertos caminarán sobre la tierra."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Action"
+    ],
+    "en": [
+     "Horror",
+     "Action"
+    ],
+    "de": [
+     "Horror",
+     "Action"
+    ],
+    "it": [
+     "Horror",
+     "Azione"
+    ],
+    "es": [
+     "Terror",
+     "Acción"
+    ],
+    "sv": [
+     "Skräck",
+     "Action"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 4825,
+   "runtime": 109
   },
   {
    "id": 176,
@@ -480,7 +1448,58 @@
     "fr": "/bBmH8MuzbPVrDTTXrnvGNM7MBvs.png",
     "en": "/13rAAMcYMfBt8VugNE80QMIfWRB.png",
     "es": "/rvZkzOQqQosUIqupBsCdYQxpOf1.png"
-   }
+   },
+   "overview": {
+    "fr": "Deux hommes se réveillent enchaînés au mur d’une salle de bains. Ils ignorent où ils sont et ne se connaissent pas. Ils savent juste que l’un doit absolument tuer l’autre, sinon dans moins de huit heures, ils seront exécutés tous les deux… Voici l’une des situations imaginées par un machiavélique maître criminel qui impose à ses victimes des choix auxquels personne ne souhaite jamais être confronté un jour. Un détective est chargé de l’enquête…",
+    "en": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+    "de": "Ohne die leiseste Ahnung, wie sie in diesen Albtraum geraten sind, erwachen zwei Männer angekettet an gegenüberliegenden Wänden in einem Kellerverlies. Hinterlassen hat ihr Entführer lediglich eine ausgeblutete Leiche und ein Tonband, auf dem er den Gefangenen einen Ausweg anbietet. Wenn sie beweisen, dass sie bereit sind, wirklich alles für ihr überleben zu tun, haben sie die Chance, aus ihrem Verlies zu entkommen. Doch die Spielregeln des Sadisten sind gnadenlos. Wer die Freiheit will, muss sich selbst verstümmeln oder zum Mörder werden...",
+    "it": "Due uomini si svegliano imprigionati nel covo di un feroce serial killer e dovranno dar vita ad una lotta all'ultimo sangue contro un vero e proprio genio del male, la cui pericolosità è senza uguali.",
+    "es": "Dos extraños, que se despiertan en una habitación sin recordar cómo llegaron allí, pronto descubren que son peones en un juego mortal perpetrado por un famoso asesino en serie.",
+    "sv": "När du långsamt återfår medvetandet befinner du dig på en halvdunkel, råkall och stinkande källartoalett. Du är fastkedjad vid ett tjockt rör. På andra sidan av rummet ser du en annan person, fastkedjad på samma sätt. Nu upptäcker du liket som ligger mitt i rummet. Hur hamnade du här och hur kommer du härifrån?"
+   },
+   "tagline": {
+    "fr": "Chaque meurtre est une pièce du puzzle",
+    "en": "How much blood would you shed to stay alive?",
+    "de": "Wessen Blut wird fließen?",
+    "it": "Ogni puzzle ha i suoi pezzi",
+    "es": "Todo puzzle tiene sus piezas",
+    "sv": "Hur mycket blod skulle du spilla för att överleva?"
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Mystère",
+     "Crime"
+    ],
+    "en": [
+     "Horror",
+     "Mystery",
+     "Crime"
+    ],
+    "de": [
+     "Horror",
+     "Mystery",
+     "Krimi"
+    ],
+    "it": [
+     "Horror",
+     "Mistero",
+     "Crime"
+    ],
+    "es": [
+     "Terror",
+     "Misterio",
+     "Crimen"
+    ],
+    "sv": [
+     "Skräck",
+     "Mystik",
+     "Kriminal"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 10504,
+   "runtime": 100
   },
   {
    "id": 8329,
@@ -498,7 +1517,51 @@
    ],
    "logo": {
     "en": "/8MTHVfhHBgXrqTNHs83rQiSfBYh.png"
-   }
+   },
+   "overview": {
+    "fr": "Ángela est journaliste pour une télévision locale. Accompagnée de son caméraman, elle relate le quotidien de ceux qui travaillent la nuit. Ce soir, elle est dans une caserne de pompiers. La nuit est calme, aucune urgence. Jusqu’au coup de fil d’une vieille dame qui réclame du secours. Le tandem suit les pompiers et découvre en arrivant sur place des voisins très inquiets. D’horribles cris ont été entendus dans l’appartement de la vieille dame. Angéla perçoit la tension des habitants, son reportage devrait enfin sortir de la routine… Elle n’imagine pas à quel point  !",
+    "en": "A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.",
+    "de": "Die Fernsehreporterin Ángela Vidal und ihr Kameramann begleiten für ihre Sendung \"Wenn sie schlafen\" einen nächtlichen Feuerwehreinsatz. Eine Frau soll sich in ihrer Wohnung eingesperrt haben, die Hausbewohner haben Schreie vernommen - reine Routine. Doch kaum haben sie sich Zutritt zu der betreffenden Wohnung verschafft, werden sie von der ungewöhnlich aggressiven Frau attackiert. Doch damit nicht genug – die Umweltbehörde hat das Haus unter Quarantäne gestellt, für die Eingesperrten gibt es kein Entrinnen…",
+    "it": "Una reporter sta realizzando un servizio in una stazione di pompieri con l'intenzione di far conoscere il loro lavoro e la loro vita. Angela e il suo cameraman accompagnano quindi una squadra in un intervento che solo in un primo momento sembra essere di routine, che che ben presto si trasformerà in un vero incubo. Intrappolati all'interno dell'edificio, i pompieri e l'equipe televisiva dovranno affrontare un orrore sconosciuto e letale, qualcosa di terribilmente sinistro e maligno che si sta espandendo senza controllo.",
+    "es": "Cada noche, Ángela, una joven reportera de una televisión local, sigue con su cámara a un grupo profesional distinto. Esta noche le toca entrevistar a los bomberos y tiene la secreta esperanza de poder asistir en directo a un impactante incendio. Pero la noche transcurre tranquilamente. Y cuando, por fin, reciben la llamada de una anciana que se ha quedado encerrada en su casa, no le queda otro remedio que seguirlos durante la misión de rescate. En el edificio donde vive la anciana, los vecinos están muy asustados. La mujer, encerrada en su piso, lanza unos gritos desgarradores. Los bomberos derriban la puerta y, seguidos por Ángela y el cámara, encuentran a la anciana semiinconsciente, rodeada por decenas de gatos. De pronto, la mujer se lanza sobre un bombero y le muerde salvajemente. Es sólo el comienzo de una larga pesadilla y de un dramático reportaje único.",
+    "sv": "Ett mindre TV-team ska dokumentera en vanlig natt hos brandkåren i Barcelona. Men när en till synes helt ordinär rutinutryckning tar en helt oväntad vändning, blir natten mer dramatisk än de någonsin kunnat ana. Samtidigt som de kämpar för sina liv mot något de inte ens kan förklara, känner de möjligheten till tidernas scoop och låter hela tiden kameran rulla."
+   },
+   "tagline": {
+    "fr": "Fuir. Se cacher. Mais ne jamais cesser de filmer.",
+    "en": "Experience fear.",
+    "de": "Ein Zeuge. Eine Kamera",
+    "it": "La paura. In diretta.",
+    "es": "Experimenta el miedo"
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Mystère"
+    ],
+    "en": [
+     "Horror",
+     "Mystery"
+    ],
+    "de": [
+     "Horror",
+     "Mystery"
+    ],
+    "it": [
+     "Horror",
+     "Mistero"
+    ],
+    "es": [
+     "Terror",
+     "Misterio"
+    ],
+    "sv": [
+     "Skräck",
+     "Mystik"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 5119,
+   "runtime": 78
   },
   {
    "id": 13310,
@@ -520,7 +1583,50 @@
     "de": "/pPqWlQVMsZHAm1sUHcXRslULOAJ.png",
     "es": "/ikAttApSg3EI0JL14E6LtqHWhap.png",
     "sv": "/8Jx9DRg09okRkM5DcwILoMlMHws.png"
-   }
+   },
+   "overview": {
+    "fr": "Oskar, un garçon doux et solitaire de 12 ans victime de harcèlement scolaire, trouve l'amour en la personne de Eli, une fille magnifique mais particulière, dont l'arrivée coïncide avec une série de morts bien mystérieuses.",
+    "en": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+    "de": "In dem Stockholmer Vorort Blackeberg wird die Leiche eines Jungen gefunden. Sein Körper enthält keinen Tropfen Blut mehr, alles deutet auf einen Ritualmörder hin. Noch ahnt niemand, was tatsächlich geschehen ist. Auch der zwölfjährige Oskar verfolgt fasziniert die Nachrichten. Wer könnte der Mörder sein? Und warum sind in der Nachbarswohnung die Fenster stets verhangen?",
+    "it": "A Blackeberg, un piccolo centro della periferia di Stoccolma, Oskar sogna di vendicarsi del mobbing che subisce ogni giorno da tre compagni di classe. Armato di un coltello immagina di infilarlo nello stomaco di Connie, che dei tre è il più arrogante. Una notte la tranquillità del quartiere in cui vive viene interrotta dall'arrivo di un uomo e di una dodicenne pallida e ambigua che sembra non conoscere freddo e paura. Con l'arrivo dei nuovi inquilini dell'appartamento di fianco al suo, una serie di efferati omicidi iniziano a macchiare il paesaggio innevato e ben presto Oskar scopre che Eli, con la quale nel frattempo ha stretto una tenera amicizia, altri non è che un vampiro imprigionato in eterno in un corpo da bambina.",
+    "es": "Oskar, un niño tímido de 12 años, acosado en el colegio por unos compañeros, se hace amigo de Eli, una misteriosa nueva vecina de su edad, cuya llegada coincide con una serie de inexplicables muertes. A pesar de que Oskar piensa que ella es un vampiro, intenta que su amistad esté por encima de su miedo.",
+    "sv": "Oskar är 12 år och mobbad. Han blir kär i Eli, en märklig flicka. Hon är vanvårdad och mager men ändå så vacker. Eli ger Oskar styrkan att slå tillbaks. Men hon är inte som andra - hon tål inte solen, hon äter inte mat och för att komma in i ett rum behöver Eli bli inbjuden. Hon måste dricka människors blod för att leva. Eli är vampyr."
+   },
+   "tagline": {
+    "fr": "Oskar aime Eli, Eli aime le sang…",
+    "en": "Eli is 12 years old. She's been 12 for over 200 years, and she just moved in next door.",
+    "it": "Uccido perché devo vivere",
+    "es": "Eli tiene 12 años. Ha tenido 12 durante más de 200 años, y se acaba de mudar al lado."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Drame"
+    ],
+    "en": [
+     "Horror",
+     "Drama"
+    ],
+    "de": [
+     "Horror",
+     "Drama"
+    ],
+    "it": [
+     "Horror",
+     "Dramma"
+    ],
+    "es": [
+     "Terror",
+     "Drama"
+    ],
+    "sv": [
+     "Skräck",
+     "Drama"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 3415,
+   "runtime": 109
   },
   {
    "id": 138843,
@@ -542,7 +1648,51 @@
     "de": "/x6y0dehXXEbrGeTYTjix8WbwDOc.png",
     "it": "/lryjsI8oUGjq0t92ARhWAieZwjP.png",
     "es": "/gJATvO2SJTKVka1s3Ku6dGtInIU.png"
-   }
+   },
+   "overview": {
+    "fr": "Avant Amityville, il y avait Harrisville… Conjuring : Les dossiers Warren, raconte l'histoire horrible, mais vraie, d'Ed et Lorraine Warren, enquêteurs paranormaux réputés dans le monde entier, venus en aide à une famille terrorisée par une présence inquiétante dans leur ferme isolée… Contraints d'affronter une créature démoniaque d'une force redoutable, les Warren se retrouvent face à l'affaire la plus terrifiante de leur carrière.",
+    "en": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+    "de": "‘Endlich ausreichend Platz!’ sagt sich die Großfamilie um Mutter Carolyn und Vater Roger, als sie das abgelegene Landhaus in Rhode Island beziehen. Doch anscheinend sind sie nicht allein: Eine fremde und zunehmend böse Macht wohnt mitten unter ihnen und macht ein normales Leben unmöglich. In ihrer Verzweiflung wenden sie sich an das renommierte Pärchen Ed und Lorraine Warren, die als Fachleute auf dem Gebiet der Geisteraustreibung gelten. Doch ihre anfängliche Souveränität weicht der puren Angst, als sie bemerken, mit welch bösen Kräften sie es hier zu tun haben.",
+    "it": "Una famiglia del New England ha degli incontri ravvicinati con i terribili spiriti che infestano la loro casa colonica. Per liberarsi delle presenze maligne, la famiglia è costretta a chiedere l'aiuto degli investigatori Ed e Lorraine Warren, esperti di fenomeni dell'occulto.",
+    "es": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
+    "sv": "Ed och Lorraine Warren är berömda utredare av paranormala fenomen. De blir ombedda att hjälpa en familj som blir terroriserade av en okänd kraft i deras hus på landsbygden."
+   },
+   "tagline": {
+    "fr": "Inspiré de faits réels",
+    "en": "Based on the true case files of the Warrens.",
+    "de": "Basierend auf einer wahren Geschichte",
+    "it": "Ispirato alla storia vera della famiglia Warren",
+    "es": "Basada en los archivos reales de los Warren."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 13308,
+   "runtime": 112
   },
   {
    "id": 310131,
@@ -561,7 +1711,57 @@
    "logo": {
     "en": "/fZaMSa3L82AiPHHhO11Sv6tgi4y.png",
     "es": "/A3NbxtaXNOTMwZcdZvUCcTl25vj.png"
-   }
+   },
+   "overview": {
+    "fr": "1630, en Nouvelle-Angleterre. William et Katherine, un couple dévot, s’établit à la limite de la civilisation, menant une vie pieuse avec leurs cinq enfants et cultivant leur lopin de terre au milieu d’une étendue encore sauvage. La mystérieuse disparition de leur nouveau-né et la perte soudaine de leurs récoltes vont rapidement les amener à se dresser les uns contre les autres…",
+    "en": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.",
+    "de": "Neuengland im 17. Jahrhundert: Das Ehepaar William und Katherine führt mit seinen fünf Kindern ein tiefreligiöses, christliches Leben am Rande eines unzugänglichen Waldes, der angeblich von einer Hexe heimgesucht wird. Schon bald häufen sich hier die merkwürdigen Vorkommnisse, denn die Tiere drehen durch, die Ernte geht ein und dann verschwindet auch noch der kleine Samuel unter den Augen seiner Schwester Thomasin. Wenig später taucht das Baby zwar wieder auf, scheint aber besessen zu sein. Die Eltern können sich auf die Geschehnisse keinen Reim machen und wissen nicht mit den Vorwürfen der Zwillinge Jonas und Mercy umzugehen, die Thomasin der Hexerei bezichtigen. Liegt auf der Familie ein Fluch oder treibt draußen im Wald eine andere, finstere Macht ihr Unwesen?",
+    "it": "New England, XVII secolo. William e Katherine conducono una devota vita cristiana insieme ai loro cinque figli in una zona ai margini dell'impraticabile deserto. Quando il loro figlio neonato svanisce e il raccolto va a male, la famiglia comincia a disintegrarsi e tutti finiscono con il darsi addosso a vicenda. Il vero pericolo però è il male sovrannaturale che si nasconde nel vicino bosco.",
+    "es": "Nueva Inglaterra en el año 1630. Una familia de colonos cristiana, formada por un matrimonio y sus cinco hijos, vive cerca de un bosque que, según las creencias populares, está controlado por un mal sobrenatural. Cuando su hijo recién nacido desaparece y los cultivos no crecen, los miembros de la familia se rebelan los unos contra los otros. Más allá de sus peores temores, un mal sobrenatural les acecha en el bosque cercano.",
+    "sv": "I 1630-talets New England lever William och Katherine ett gudfruktigt kristet liv med fem barn och en gård på gränsen till en oframkomlig vildmark. När deras nyfödde son försvinner och skörden blir misslyckad, vänder sig familjemedlemmarna emot varandra. Bortom deras värsta farhågor visar det sig att en övernaturlig ondska lurar i den närbelägna skogen."
+   },
+   "tagline": {
+    "fr": "Le mal peut prendre différentes formes",
+    "en": "Evil takes many forms.",
+    "de": "Das Böse hat viele Gesichter.",
+    "it": "Vuoi ascoltare una favola?",
+    "es": "El mal adopta muchas formas."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Fantastique",
+     "Mystère"
+    ],
+    "en": [
+     "Horror",
+     "Fantasy",
+     "Mystery"
+    ],
+    "de": [
+     "Horror",
+     "Fantasy",
+     "Mystery"
+    ],
+    "it": [
+     "Horror",
+     "Fantasy",
+     "Mistero"
+    ],
+    "es": [
+     "Terror",
+     "Fantasía",
+     "Misterio"
+    ],
+    "sv": [
+     "Skräck",
+     "Fantasy",
+     "Mystik"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 8022,
+   "runtime": 92
   },
   {
    "id": 259693,
@@ -583,7 +1783,45 @@
     "de": "/t1jcBhWWd62ex5INWKCetmriIM0.png",
     "it": "/xxbqHinvIMZQYBvOGnvgIc1Yu0e.png",
     "es": "/u6eAzXyIYEy8Kj2Wi3pnE658N60.png"
-   }
+   },
+   "overview": {
+    "fr": "Ce thriller paranormal nous présente une nouvelle fois un cas réel tiré des archives des célèbres démonologues Ed et Lorraine Warren. Dans le cadre de l'une de leurs enquêtes les plus terrifiantes, ils se rendent dans le nord de Londres pour aider une mère célibataire qui élève ses quatre enfants dans une maison hantée par des esprits maléfiques.",
+    "en": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.",
+    "de": "Die berühmten Dämonologen Ed und Lorraine Warren sind dank ihrer spektakulären Fälle mittlerweile zu echten Berühmtheiten geworden. Doch die Geister und Dämonen dieser Welt schlafen nicht und deswegen wird das Paar nach England, genauer gesagt in den Londoner Stadtteil Enfield, gerufen. Dort lebt die alleinerziehende Mutter Peggy Hodgson mit ihren vier Kindern Margaret, Janet, Johnny und Billy. Bei ihnen geht es nicht mit rechten Dingen zu und besonders Janet wird mehrmals Opfer eines Dämons, der von ihr Besitz ergreift und durch sie mit den Menschen spricht. – Für die Warrens beginnt ein neuer Fall, der ihnen alles abverlangen wird …",
+    "it": "Lorraine ed Ed Warren, esperti di paranormale, per una delle loro indagini più terrificanti si recano a Londra con lo scopo di aiutare una madre single che sta tentando di crescere da sola quattro bambini in una casa tormentata da spiriti maligni.",
+    "es": "Secuela de la exitosa 'Expediente Warren' (2013), que lleva de nuevo a la pantalla otro caso real de los expedientes de los renombrados demonólogos Ed y Lorraine Warren. En este caso ambos viajarán al norte de Londres para ayudar a una madre soltera que tiene a su cargo cuatro hijos y que vive sola con ellos en una casa plagada de espíritus malignos.",
+    "sv": "Spökjägarparet Ed och Lorraine reser till London för att hjälpa en ensamstående mamma som bor med sina fyra barn i ett hus plågat av onda andar."
+   },
+   "tagline": {
+    "fr": "D'après les véritables dossiers d'Ed et Lorraine Warren.",
+    "en": "The next true story from the case files of Ed and Lorraine Warren.",
+    "de": "Ein weiterer wahrer Fall aus den Akten von Ed und Lorraine Warren",
+    "it": "Una nuova storia vera dagli archivi di Ed e Lorraine Warren",
+    "es": "La siguiente historia real de los expedientes de Ed y Lorraine Warren."
+   },
+   "genres": {
+    "fr": [
+     "Horreur"
+    ],
+    "en": [
+     "Horror"
+    ],
+    "de": [
+     "Horror"
+    ],
+    "it": [
+     "Horror"
+    ],
+    "es": [
+     "Terror"
+    ],
+    "sv": [
+     "Skräck"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 9549,
+   "runtime": 134
   },
   {
    "id": 300669,
@@ -603,7 +1841,51 @@
     "fr": "/cthyuOH9yU6sth8WyP9ul4Qedk4.png",
     "en": "/bqnvbz9AwiBc4Dot2I9efmBk9qf.png",
     "es": "/3iG7XyYgos6K96FeI4W3rSDbskq.png"
-   }
+   },
+   "overview": {
+    "fr": "Pour échapper à la violence de sa mère et sauver sa jeune sœur d’une existence sans avenir, Rocky est prête à tout. Avec ses amis Alex et Money, elle a déjà commis quelques cambriolages, mais rien qui leur rapporte assez pour enfin quitter Détroit. Lorsque le trio entend parler d’un aveugle qui vit en solitaire et garde chez lui une petite fortune, ils préparent ce qu’ils pensent être leur ultime coup. Mais leur victime va se révéler bien plus effrayante, et surtout bien plus dangereuse que ce à quoi ils s’attendaient…",
+    "en": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
+    "de": "Der Vater von Alex arbeitet im Sicherheitsgeschäft – sehr praktisch, wenn man wie Alex ein Dieb ist. Das Insiderwissen hilft dem jungen Mann, die teuren Sicherheitssysteme reicher Leute zu überwinden und in Villen fette Beute zu machen. Alex ist auf diesen Diebestouren nicht allein: Rocky, als sein heimlicher Schwarm die Hauptmotivation für die Einbrüche, begleitet ihn, um sich und ihrer kleinen Tochter ein besseres Leben zu ermöglichen. Dritter im Bunde ist Money, Rockys Freund, der des Kicks wegen mitmacht. Ein Kick der besonderen Art steht dem Trio bevor, als es in das Haus eines Kriegsveteranen einsteigt, der nach dem Unfalltod seines einzigen Kindes ein großes Schmerzensgeld bekommen haben soll. Der Veteran ist blind, was kann also schiefgehen? Nun, eine Menge …",
+    "it": "Alcuni ragazzi si introducono nella casa di un uomo cieco per commettere un crimine. Considerando le condizioni del padrone di casa i giovani sono convinti che si tratterà di una passeggiata, ma le cose non andranno come previsto.",
+    "es": "Unos jóvenes ladrones creen haber encontrado la oportunidad de cometer el robo perfecto. Su objetivo será un ciego solitario, poseedor de millones de dólares ocultos. Pero tan pronto como entran en su casa serán conscientes de su error, pues se encontrarán atrapados y luchando por sobrevivir contra un psicópata con sus propios y temibles secretos.",
+    "sv": "För att slippa tristessen, och kanske en dag kunna komma bort från sin hemstad, har de de tre vännerna Rocky, Alex och Money begått en rad välplanerade inbrott. När de hör talas om att en blind man (Stephen Lang) bor ensam i ett ödsligt bostadsområde och har en förmögenhet undangömd i sitt hem, bestämmer de sig för att genomföra sin största och sista kupp. Men deras plan går skrämmande fel när de inser att deras måltavla inte var så harmlös som de trott."
+   },
+   "tagline": {
+    "fr": "Dans l'obscurité, l'aveugle est roi.",
+    "en": "This house looked like an easy target, until they found what was inside.",
+    "de": "Dieses Haus sah aus wie ein leichtes Ziel. Bis sie fanden, was drinnen war.",
+    "it": "Ti troverà al primo respiro",
+    "es": "Esta casa se veía como un blanco fácil. Hasta que encontraron lo que había dentro."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 8255,
+   "runtime": 89
   },
   {
    "id": 396535,
@@ -623,7 +1905,63 @@
     "fr": "/nKb49k9QZ6cNfac6KJXbOhASNQo.png",
     "en": "/hXhqtH9VbM375bWeIWyDeV4ygFE.png",
     "es": "/kutSxzzZDC46d4Gwkjm7buSauV8.png"
-   }
+   },
+   "overview": {
+    "fr": "Tandis qu'un virus qui transforme tous les êtres vivants en zombies ravage la Corée du Sud, un père et sa fille tentent de survivre dans le dernier train pour Busan, l'unique ville à n'avoir pas encore été contaminée.",
+    "en": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+    "de": "Kaum steigt Seok-woo mit seiner Tochter in die Bahn Richtung Busan ein, breitet sich im Schnellzug eine Infektion rasant aus und verwandelt Fahrgäste in blutdürstige Zombies. Nur knapp entkommen beide samt einer kleinen Gruppe dem Tod. Als die Überlebenden an einem vermeintlich sicheren Bahnhof aussteigen, werden sie von unzähligen Untoten attackiert – die einzige Rettung bietet der Zug. Im Tumult wird Seok-woo von seiner Tochter getrennt, die einige Wagen entfernt von ihm Zuflucht findet. Um sie wiederzufinden, muss er sich durch Zombie-besetzte Abteile kämpfen. Währenddessen treffen die anderen überlebenden Passagiere aus Angst und Misstrauen moralisch fragwürdige Entscheidungen, die einige das Leben kosten wird...",
+    "it": "Seok-wu è un manager finanziario separato dalla moglie: la piccola Su-an spesso si sente trascurata da lui e preferisce la compagnia della madre. Sul treno su cui viaggiano i due, per portare Su-an dalla madre che vive a Busan, sale una ragazza che riporta delle ferite strane sul corpo, simili al morso di un animale. Presto si trasformerà in zombi e sul treno per Busan si scatenerà l'inferno.",
+    "es": "Un virus letal se expande por Corea del Sur, provocando violentos altercados. Los pasajeros de un tren KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia.",
+    "sv": "Passagerarna på expresståget mellan Seoul och Busan upptäcker att de är fast på tåget mitt under en Zombie-epidemi. Kaos och förvirring råder både utanför och inne på tåget, men ett gäng överlevare gör allt vad de kan för att inte bli infekterade själva eller att hamna i händerna på alla blodtörstiga zombies."
+   },
+   "tagline": {
+    "fr": "Pour rester en vie, montez à bord.",
+    "en": "Get on board to stay alive.",
+    "it": "La lotta per la sopravvivenza è cominciata...",
+    "es": "Comienza la supervivencia a vida o muerte.",
+    "sv": "Kampen om överlevnad börjar nu."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Horreur",
+     "Thriller",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Horror",
+     "Thriller",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Horror",
+     "Thriller",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Horror",
+     "Thriller",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Terror",
+     "Suspense",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Skräck",
+     "Thriller",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 8935,
+   "runtime": 118
   },
   {
    "id": 381288,
@@ -644,7 +1982,51 @@
     "en": "/zFeVDHnWBCbrMLqsIO9LtBSNhAK.png",
     "it": "/aaKQaF7vfWyNc6qoPzN8ixisL0e.png",
     "es": "/AkANrqenrS0tOi4hYyOp5Qz9GwJ.png"
-   }
+   },
+   "overview": {
+    "fr": "Les fractures mentales des personnes présentant un trouble dissociatif de la personnalité ont longtemps fasciné et échappé à la science, il se dit que certains peuvent également manifester des attributs physiques uniques pour chaque personnalité ; un prisme cognitif et physiologique dans un seul être. Kevin a manifesté 23 personnalités devant son psychiatre de longue date, le Dr Fletcher mais il en reste une, immergée, qui commence à se matérialiser et à dominer toutes les autres. Contraint d'enlever trois adolescentes, dont la volontaire Casey, Kevin se bat pour survivre parmi tous ceux qui évoluent en lui-même – et autour de lui- tandis que les murs entre ses personnalités volent en éclats.",
+    "en": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
+    "de": "Für die eigensinnige und achtsame Casey und ihre zwei Freundinnen Claire und Marcia wird das Leben zur Hölle, als sie eines Tages von einem unheimlichen Mann entführt werden. Ihr Peiniger Kevin entpuppt sich nur wenig später als ein ganz spezieller Mensch: Er leidet unter einer multiplen Persönlichkeitsstörung und vereint 23 verschiedene Wesen in seiner Psyche, die sich alle miteinander abwechseln und so für Verwirrung und Entsetzen sorgen. Während die Mädchen verzweifelt nach einer Fluchtmöglichkeit suchen, ahnen sie jedoch nicht, dass sich in Kevin etwas ganz besonders Böses regt – und zwar eine dämonische 24. Persönlichkeit, die sich nur „die Bestie“ nennt und die drauf und dran ist, aus Kevin auszubrechen. Für die Mädchen wird die Zeit immer knapper …",
+    "it": "Anche se Kevin ha mostrato ben 23 personalità alla sua psichiatra di fiducia, la dottoressa Fletcher, ne rimane ancora una nascosta, in attesa di materializzarsi e dominare tutte le altre. Dopo aver rapito tre ragazze adolescenti guidate da Casey, ragazza molto attenta ed ostinata, nasce una guerra per la sopravvivenza, sia nella mente di Kevin – tra tutte le personalità che convivono in lui – che intorno a lui, mentre le barriere delle le sue varie personalità cominciano ad andare in frantumi.",
+    "es": "A pesar de que Kevin le ha demostrado a su psiquiatra de confianza, la Dra. Fletcher, que posee 23 personalidades diferentes, aún queda una por emerger, decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey, Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea, a medida que las paredes de sus compartimentos mentales se derrumban.",
+    "sv": "Kevin har tjugotre personligheter, dokumenterade av hans betrodda psykolog, Dr. Fletcher. Men en ligger fortfarande begravd långt in i Kevins medvetande, i väntan på att en dag materialiseras och överta alla andra personligheter. Hans mörka tankar får honom att föra bort tre tonårsflickor, ledda av den driftiga och observanta Casey. När väggarna mellan Kevins olika persona börjar knaka i fogarna inleds en kamp för överlevnad hos alla de som finns inom honom – en kamp som snart också innefattar de som finns runt honom."
+   },
+   "tagline": {
+    "fr": "Kevin a 23 personnalités distinctes. La 24ème est sur le point de surgir.",
+    "en": "Kevin has 23 distinct personalities. The 24th is about to be unleashed.",
+    "de": "Er hat 23 verschiedene Persönlichkeiten – die 24. steht kurz vor dem Ausbruch",
+    "it": "Kevin ha 23 personalità differenti. La 24ª è pronta per scatenarsi.",
+    "es": "Kevin tiene 23 personalidades distintas. La 24 está a punto de desatarse."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 18835,
+   "runtime": 117
   },
   {
    "id": 419430,
@@ -665,7 +2047,57 @@
     "en": "/dJ3LNGrU9Mav7xkpcQb8N53ggWY.png",
     "it": "/umayC267MFt2h8gZDFg21jZwwWG.png",
     "es": "/cG21XcsSGnwuwbARB1dkZjTIG30.png"
-   }
+   },
+   "overview": {
+    "fr": "Couple mixte, Chris et sa petite amie Rose filent le parfait amour. Le moment est donc venu de rencontrer la belle famille, Missy et Dean lors d'un week‑end sur leur domaine dans le nord de l'État. Chris commence par penser que l'atmosphère tendue est liée à leur différence de couleur de peau, mais très vite une série d'incidents de plus en plus inquiétants lui permet de découvrir l'inimaginable.",
+    "en": "Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.",
+    "de": "Der afroamerikanische Fotograf Chris und seine weiße Freundin Rose sind seit mittlerweile fünf Monaten ein Paar. Als Rose ihm ihre Eltern vorstellen möchte, stimmt Chris wohl oder übel zu, auch wenn ihn die Sorge umtreibt, wie Roses Eltern auf den schwarzen Freund ihrer Tochter reagieren werden. Doch zunächst erweisen sich Chris’ Bedenken scheinbar als völlig unnötig: Dean und Missy bereiten den beiden einen herzlichen Empfang und scheinen sich an der Hautfarbe des Partners ihrer Tochter überhaupt nicht zu stören. Doch dann entdeckt Chris, dass die schwarzen Hausangestellten der Familie nicht nur die einzigen Schwarzen in der ganzen Umgebung sind, sondern auch seltsam abwesend und untertänig wirken. Irgendetwas scheint hier nicht mit rechten Dingen zuzugehen…",
+    "it": "Quando un giovane afro-americano visita la tenuta di famiglia della sua fidanzata bianca, si scontra con il vero motivo che si cela dietro l’invito.  Ora che Chris e la sua ragazza, Rose, sono arrivati al fatidico incontro con i suoceri, lei lo invita a trascorrere un fine settimana al nord con Missy e Dean.  In un primo momento, Chris legge il comportamento eccessivamente accomodante della famiglia, come un tentativo di gestire il loro imbarazzo verso il rapporto interrazziale della figlia; ma con il passare del tempo, fa una serie di scoperte sempre più inquietanti, che lo portano ad una verità che non avrebbe mai potuto immaginare.",
+    "es": "Un joven afroamericano visita a la familia de su novia blanca, un matrimonio adinerado. Para Chris y su novia Rose ha llegado el momento de conocer a los futuros suegros, por lo que ella le invita a pasar un fin de semana en el campo con sus padres, Missy y Dean. Al principio, Chris piensa que el comportamiento 'demasiado' complaciente de los padres se debe a su nerviosismo por la relación interracial de su hija, pero a medida que pasan las horas, una serie de descubrimientos cada vez más inquietantes le llevan a descubrir una verdad inimaginable.",
+    "sv": "Chris och hans flickvän Rose besöker hennes föräldrar över helgen. I början verkar familjen vara tillmötesgående, men under helgen leder en serie alltmer oroande upptäckter till något värre än han någonsin kunnat ana."
+   },
+   "tagline": {
+    "fr": "Ce n'est pas parce que vous êtes invité que vous êtes le bienvenu.",
+    "en": "Just because you're invited, doesn't mean you're welcome.",
+    "de": "Ist jeder, der eingeladen ist, auch wirklich willkommen?",
+    "it": "Sei stato invitato, ma non sei il benvenuto.",
+    "es": "Aunque estés invitado, no serás bien recibido."
+   },
+   "genres": {
+    "fr": [
+     "Mystère",
+     "Thriller",
+     "Horreur"
+    ],
+    "en": [
+     "Mystery",
+     "Thriller",
+     "Horror"
+    ],
+    "de": [
+     "Mystery",
+     "Thriller",
+     "Horror"
+    ],
+    "it": [
+     "Mistero",
+     "Thriller",
+     "Horror"
+    ],
+    "es": [
+     "Misterio",
+     "Suspense",
+     "Terror"
+    ],
+    "sv": [
+     "Mystik",
+     "Thriller",
+     "Skräck"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 19663,
+   "runtime": 104
   },
   {
    "id": 346364,
@@ -687,7 +2119,57 @@
     "de": "/l1yo4COJRprcQn7Pfkhd1FCKdMt.png",
     "it": "/zpk5KziILprRAXJPZfwQUSigdt.png",
     "es": "/rR1a56IWF4dfEFJHhuYb8LYV9YJ.png"
-   }
+   },
+   "overview": {
+    "fr": "À Derry, dans le Maine, aux États-Unis, 7 gamins, ayant du mal à s’intégrer, se sont regroupés au sein du Club des Ratés. Rejetés par leurs camarades, ils sont les cibles favorites des gros durs de l’école. Ils ont aussi en commun d’avoir éprouvé leur plus grande terreur face à un terrible prédateur métamorphe qu’ils appellent Ça…",
+    "en": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+    "de": "Die Freunde Stanley Uris, Richie Tozier, Mike Hanlon, Bill Denbrough Beverly Marsh, Eddie Kaspbrak und Ben Hanscom leben in einer Stadt namens Derry, in der immer wieder Menschen verschwinden – sowohl Erwachsene als auch vor allem Minderjährige. Schließlich erfahren die Kinder, die sich selbst auch den „Klub der Verlierer“ nennen, von einer interdimensionalen Kreatur, die Jagd auf Menschen macht und sich in die schlimmsten Alpträume ihrer Opfer verwandeln kann. Meistens tritt das Biest jedoch in Form des sadistischen Clowns Pennywise  auf. Die Kinder schwören die Kreatur zu vernichten und kehren als Erwachsene in ihre Heimatstadt zurück, in der Pennywise erneut aufgetaucht ist.",
+    "it": "Ottobre 1988, nella cittadina di Derry. Il piccolo Georgie esce di casa nella pioggia per far navigare la barchetta di carta preparatagli dal fratello maggiore Billy, costretto a casa dall'influenza. La barchetta scorre per i rivoli lungo i marciapiedi, ma finisce in uno scolo che conduce alla rete fognaria. Georgie, contrariato, si china a guardare nella feritoia e incontra lo sguardo del bizzarro clown che abita nelle fogne, Pennywise. Per quanto strano sia trovare un clown in quel luogo, Georgie si intrattiene con lui sin quando il clown non lo addenta e lo cattura portandolo giù con sé. Giugno 1989. A Derry vige il coprifuoco a causa delle numerose sparizioni di persone, soprattutto bambini.",
+    "es": "Remake del clásico de Stephen King en el que un payaso aterroriza a los niños de un vecindario. En un pequeño pueblo de Maine, siete niños conocidos como el Club de los Perdedores se encuentran cara a cara con problemas de la vida, matones y un monstruo que toma la forma de un payaso llamado Pennywise.",
+    "sv": "Plötsligt lamslås den lilla staden Derry i amerikanska delstaten Maine av skräck när flera barn mystiskt börjar försvinna. Några barn får möta sina största rädslor, när de hamnar i den onda clownen Pennywise sällskap, vars historia som mördare sträcker sig långt, långt bakåt i tiden. Bill Skarsgård spelar huvudrollen i nya skräckfilmen Det som bygger på Stephen Kings välkända roman med samma namn."
+   },
+   "tagline": {
+    "fr": "De quoi avez‐vous peur ?",
+    "en": "You'll float too.",
+    "de": "Wovor hast du Angst?",
+    "it": "Anche voi galleggerete.",
+    "es": "Tú también flotarás"
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller",
+     "Drame"
+    ],
+    "en": [
+     "Horror",
+     "Thriller",
+     "Drama"
+    ],
+    "de": [
+     "Horror",
+     "Thriller",
+     "Drama"
+    ],
+    "it": [
+     "Horror",
+     "Thriller",
+     "Dramma"
+    ],
+    "es": [
+     "Terror",
+     "Suspense",
+     "Drama"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller",
+     "Drama"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 20894,
+   "runtime": 135
   },
   {
    "id": 447332,
@@ -708,7 +2190,58 @@
     "en": "/lQLam7R8VgaRoZzyarMJmLoVrFb.png",
     "it": "/mK4JQEifvMXG0EaPydBINONy9fK.png",
     "es": "/eec0d8gk2grBE8qmTOOEMNgU3ft.png"
-   }
+   },
+   "overview": {
+    "fr": "Une famille tente de survivre sous la menace de mystérieuses créatures qui attaquent au moindre bruit. S’ils vous entendent, il est déjà trop tard.",
+    "en": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+    "de": "Die Welt ist von rätselhaften, scheinbar unverwundbaren Kreaturen eingenommen worden, die durch jedes noch so kleine Geräusch angelockt werden und sich auf die Jagd begeben. Lediglich einer einzigen Familie gelang es bisher zu überleben. Der Preis hierfür ist jedoch hoch: Ihr gesamter Alltag ist darauf ausgerichtet, sich vollkommen lautlos zu verhalten, denn das kleinste Geräusch könnte ihr Ende bedeuten.",
+    "it": "Una famiglia vive un'esistenza isolata nel silenzio più assoluto, per paura di una minaccia sconosciuta che segue solo il suono e attacca a qualsiasi rumore.",
+    "es": "Evelyn y Lee Abbott son una pareja con tres hijos que vive en una granja aislada de toda civilización al norte de Nueva York. Esta familia ha sobrevivido durante meses en un mundo invadido y amenazado por mortales criaturas extraterrestres que se guían por el sonido para cazar. En este contexto en el que una palabra puede significar la muerte, la familia Abbott vive silenciosamente, andan descalzos y se comunican por medio del lenguaje de señas.",
+    "sv": "En familj måste leva sitt liv i tystnad för att inte bli upptäckta av mystiska varelser som jagar efter ljud och som hotar deras överlevnad. Om de kan höra dig, kan de jaga dig."
+   },
+   "tagline": {
+    "fr": "S'ils vous entendent, il est déjà trop tard.",
+    "en": "If they hear you, they hunt you.",
+    "de": "Wenn sie dich hören, jagen sie dich.",
+    "it": "Se ti sentono, ti danno la caccia.",
+    "es": "Si no te escuchan, no pueden cazarte...",
+    "sv": "Om de hör dig. så jagar de dig."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Drame",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Horror",
+     "Drama",
+     "Science Fiction"
+    ],
+    "de": [
+     "Horror",
+     "Drama",
+     "Science Fiction"
+    ],
+    "it": [
+     "Horror",
+     "Dramma",
+     "Fantascienza"
+    ],
+    "es": [
+     "Terror",
+     "Drama",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Skräck",
+     "Drama",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 15956,
+   "runtime": 91
   },
   {
    "id": 493922,
@@ -728,7 +2261,58 @@
     "en": "/Vgm9366X76r8URpJ92VZEq5YKG.png",
     "de": "/mkBu2GEfRGVSFFIxmJSieqBljv3.png",
     "es": "/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png"
-   }
+   },
+   "overview": {
+    "fr": "Quand Ellen, la matriarche de la famille Graham, meurt, sa fille revient vivre dans la maison avec sa famille. Ils vont alors découvrir le terrifiant secret de leur ancêtre...",
+    "en": "When the matriarch of the Graham family passes away, her daughter begins to unravel cryptic and increasingly terrifying secrets about her ancestry.",
+    "de": "Annie verliert ihre Mutter, die zugleich die Matriarchin der Familie war. Das Dahinscheiden der alten Dame hat für die Familie Graham, zu der auch Ehemann Steve, Sohn Peter und Tochter Charlie gehören, jedoch weitreichendere Konsequenzen als nur die Trauer um den Verlust der Großmutter. Eine dunkle Präsenz scheint als übernatürliche Kraft Einzug in ihren Haushalt zu halten und Annie muss nun tief in die Geheimnisse ihrer Vorfahren eintauchen, um einem ihr vererbten schrecklichen Schicksal zu entgehen.",
+    "it": "Quando l'anziana Ellen muore, i suoi familiari cominciano lentamente a scoprire una serie di segreti oscuri e terrificanti sulla loro famiglia che li obbligherà ad affrontare il tragico destino che sembrano aver ereditato.",
+    "es": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
+    "sv": "När familjen Grahams matriark Ellen dör börjar hennes dotters familj att uppdaga kryptiska och allt mer skrämmande hemligheter om familjens historia. Ju mer de upptäcker, desto mer tvingas de att försöka undvika det olycksaliga öde som verkar vara deras arvegods."
+   },
+   "tagline": {
+    "fr": "Chaque famille a ses secrets.",
+    "en": "Every family tree hides a secret.",
+    "de": "Jeder Stammbaum birgt ein Geheimnis.",
+    "it": "Tutti gli alberi genealogici nascondono un segreto.",
+    "es": "Todas las familias esconden un secreto.",
+    "sv": "Varje släktträd döljer en mörk hemlighet."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Mystère",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Mystery",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Mystery",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Mistero",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Misterio",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Mystik",
+     "Thriller"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 9117,
+   "runtime": 126
   },
   {
    "id": 530385,
@@ -749,7 +2333,58 @@
     "de": "/nz5SDyrAbWJAsicEVCz4CjhdeK2.png",
     "es": "/mjf2CyGrMqjUjsjXsaEsakBrOdA.png",
     "sv": "/7CQXgAhJskZuiNAsUTIZXslmsKq.png"
-   }
+   },
+   "overview": {
+    "fr": "Dani et Christian sont sur le point de se séparer quand la famille de Dani est touchée par une tragédie. Attristé par le deuil de la jeune femme, Christian ne peut se résoudre à la laisser seule et l’emmène avec lui et ses amis à un festival estival qui n’a lieu que tous les 90 ans et se déroule dans un village suédois isolé. Mais ce qui commence comme des vacances insouciantes dans un pays où le soleil ne se couche pas va vite prendre une tournure beaucoup plus sinistre et inquiétante.",
+    "en": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+    "de": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommer-Festival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt und die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert.",
+    "it": "Una coppia giunge in Svezia per far visita a un amico che vive in un villaggio di campagna. L'idea è quella di passare con lui la tradizionale festa di mezza estate che si celebra sul posto. Quella che doveva essere una vacanza paradisiaca si trasformerà presto in una violenta e curiosa competizione per via di un culto pagano.",
+    "es": "Una pareja estadounidense que no está pasando por su mejor momento acude con unos amigos a un festival de verano que se celebra cada noventa años en una aldea remota de Suecia. Lo que comienza como unas vacaciones de ensueño en un lugar en el que el sol no se pone nunca, poco a poco se convierte en una oscura pesadilla cuando los misteriosos aldeanos les invitan a participar en sus perturbadoras actividades festivas.",
+    "sv": "En ung amerikansk kvinna följer motvilligt med sin pojkvän till en avlägsen liten by i Sverige för ett traditionellt midsommarfirande, men det blir något helt annat än de någonsin kunnat vänta sig."
+   },
+   "tagline": {
+    "fr": "Que les festivités commencent",
+    "en": "Let the festivities begin.",
+    "de": "Das Böse wird ans Licht kommen",
+    "it": "Il male verrà alla luce",
+    "es": "Que comiencen las festividades.",
+    "sv": "Låt festligheterna börja."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Drame",
+     "Mystère"
+    ],
+    "en": [
+     "Horror",
+     "Drama",
+     "Mystery"
+    ],
+    "de": [
+     "Horror",
+     "Drama",
+     "Mystery"
+    ],
+    "it": [
+     "Horror",
+     "Dramma",
+     "Mistero"
+    ],
+    "es": [
+     "Terror",
+     "Drama",
+     "Misterio"
+    ],
+    "sv": [
+     "Skräck",
+     "Drama",
+     "Mystik"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 8643,
+   "runtime": 148
   },
   {
    "id": 501170,
@@ -769,7 +2404,51 @@
     "en": "/uEaXfOUEfhFXq2Vm8ExhuUs6uMp.png",
     "de": "/5XhLtyMRlkmbfX0LhCUTIxw769F.png",
     "es": "/s6CZc3ZbYYfFIkkxYJTq5VGtsij.png"
-   }
+   },
+   "overview": {
+    "fr": "Encore profondément marqué par le traumatisme qu'il a vécu, enfant, à l'Overlook Hotel, Dan Torrance a dû se battre pour tenter de trouver un semblant de sérénité. Mais quand il rencontre Abra, courageuse adolescente aux dons extrasensoriels, ses vieux démons resurgissent. Car la jeune fille, consciente que Dan a les mêmes pouvoirs qu'elle, a besoin de son aide : elle cherche à lutter contre la redoutable Rose Claque et sa tribu du Nœud Vrai qui se nourrissent des dons d'innocents comme elle pour conquérir l'immortalité. Formant une alliance inattendue, Dan et Abra s'engagent dans un combat sans merci contre Rose. Face à l'innocence de la jeune fille et à sa manière d'accepter son don, Dan n'a d'autre choix que de mobiliser ses propres pouvoirs, même s'il doit affronter ses peurs et réveiller les fantômes du passé…",
+    "en": "Still scarred by the trauma he endured as a child at the Overlook Hotel, Dan Torrance faces the ghosts of the past when he meets Abra, a courageous teen who desperately needs his help -- and who possesses a powerful extrasensory ability called the \"shine\".",
+    "de": "„Doctor Sleep“ führt die Geschichte von Danny Torrance 40 Jahre nach den entsetzlichen Ereignissen aus Stephen Kings „The Shining“ weiter. Immer noch vom Trauma seiner Kindheit gezeichnet, gibt Dan Torrance sein Bestes, seinen Frieden zu finden. Dieser wird jedoch jäh gestört, als er auf Abra trifft, eine mutige Teenagerin mit einer übersinnlichen Gabe, bekannt als „Shining“. Mit der Erkenntnis, dass Dan über dieselbe Gabe verfügt, spürt Abra ihn auf und bittet ihn verzweifelt um Hilfe im Kampf gegen die skrupellose Rose the Hat und ihrer Gefolgschaft, der Wahre Knoten, die sich auf ihrer Suche nach Unsterblichkeit vom „Shining“ Unschuldiger nähren. Eher widerwillig schließt sich Dan Abra im Kampf auf Leben und Tod gegen Rose an. Abras Unschuldigkeit und furchtloser Einsatz ihrer Gabe verhelfen Dan, das volle Potenzial seiner eigenen Kräfte zu ergründen – bei der Konfrontation mit seinen Ängsten und den Schatten der Vergangenheit.",
+    "it": "Ancora irrimediabilmente segnato dal trauma che ha vissuto da bambino all’Overlook, Dan Torrance ha combattuto per trovare una parvenza di pace. Ma questa tregua va in frantumi quando incontra Abra, un’adolescente coraggiosa con un potente dono extrasensoriale, noto come la “luccicanza”. Riconoscendo istintivamente che Dan condivide il suo potere, Abra lo contatta, invocando disperatamente il suo aiuto contro la spietata Rose the Hat e i suoi seguaci, i membri del ‘True Knot’, che si nutrono della Luccicanza degli innocenti alla ricerca della loro immortalità. Formando un’improbabile alleanza, Dan e Abra si impegnano in una brutale lotta tra la vita e la morte contro Rose the Hat. L’innocenza di Abra e l’intrepida consapevolezza della sua Luccicanza costringono Dan a invocare i suoi stessi poteri come mai prima d’ora – affrontando immediatamente le sue paure e risvegliando i suoi fantasmi del passato.",
+    "es": "Secuela del film de culto \"El resplandor\" (1980) dirigido por Stanley Kubrick y también basado en una famosa novela de Stephen King. La historia transcurre algunos años después de los acontecimientos de \"The Shining\", y sigue a Danny Torrance (Ewan McGregor), traumatizado y con problemas de ira y alcoholismo que hacen eco de los problemas de su padre Jack, que cuando sus habilidades psíquicas resurgen, se contacta con una niña de nombre Abra Stone, a quien debe rescatar de un grupo de viajeros que se alimentan de los niños que poseen el don de \"el resplandor\".",
+    "sv": "Den synske Danny Torrance är nu vuxen och möter en ung flicka vars krafter påminner om hans egna. Han känner ett ansvar att skydda henne från sekten The True Knots, som jagar barn med krafter i sökandet efter odödlighet."
+   },
+   "tagline": {
+    "fr": "Oserez-vous y retourner ?",
+    "en": "Return to the Overlook.",
+    "de": "Das nächste Kapitel der Shining Stroy",
+    "it": "La storia di Shining ha un nuovo capitolo",
+    "es": "El mundo volverá a brillar."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Fantastique"
+    ],
+    "en": [
+     "Horror",
+     "Fantasy"
+    ],
+    "de": [
+     "Horror",
+     "Fantasy"
+    ],
+    "it": [
+     "Horror",
+     "Fantasy"
+    ],
+    "es": [
+     "Terror",
+     "Fantasía"
+    ],
+    "sv": [
+     "Skräck",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 5147,
+   "runtime": 152
   },
   {
    "id": 570670,
@@ -790,7 +2469,58 @@
     "en": "/uhCrTWK0SiZ1XkuW7ruUuzTJGhh.png",
     "de": "/8zL9CMa6pyjr9LzQs3pzG8MDzq5.png",
     "es": "/4NMNkDJQH0kHBSdAerT9QFFkYrW.png"
-   }
+   },
+   "overview": {
+    "fr": "Cecilia Kass est en couple avec un brillant et riche scientifique. Ne supportant plus son comportement violent et tyrannique, elle prend la fuite une nuit et se réfugie auprès de sa sœur, leur ami d'enfance et sa fille adolescente. Mais quand l'homme se suicide en laissant à Cecilia une part importante de son immense fortune, celle-ci commence à se demander s'il est réellement mort. Tandis qu'une série de coïncidences inquiétantes menace la vie des êtres qu'elle aime, Cecilia cherche désespérément à prouver qu'elle est traquée par un homme que nul ne peut voir. Peu à peu, elle a le sentiment que sa raison vacille…",
+    "en": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+    "de": "Cecilia Kass flieht mitten in der Nacht aus der Beziehung mit einem wohlhabenden, genialen wie auch gewalttätigen Wissenschaftler. Als dieser Selbstmord begeht und ihr einen erheblichen Teil seines Vermögens hinterlässt, befürchtet Cecilia, er habe seinen Tod inszeniert und tatsächlich beginnt anschließend eine Serie unheimlicher Zufälle, deren Opfer ihre am meisten geliebten Menschen sind.",
+    "it": "Cecilia,  a seguito della notizia del suicidio del suo ex fidanzato violento comincia a ricostruire la sua vita. Tuttavia il suo senso della realtà è messo in discussione quando inizia a sospettare che il suo amante defunto non sia realmente morto.",
+    "es": "Dos semanas después de escapar de su tóxica relación con el rico y brillante científico Adrian Griffin, Cecilia está convencida de que Adrian va a aparecer en cualquier momento… hasta que recibe una nota comunicándole el suicidio de su expareja.",
+    "sv": "Fast i ett våldsamt och kontrollerande förhållande med en rik och briljant forskare, flyr Cecilia Kass en mörk natt och håller sig gömd med hjälp av sin syster, deras barndomsvän och hans tonårsdotter. Men när Cecilias våldsamma ex begår självmord och lämnar henne med en generös del av sin stora förmögenhet börjar hon misstänka att hans självmord var fejkat. När en rad kusliga sammanträffanden får dödliga konsekvenser och hotar de personer hon älskar mest, börjar Cecilia ifrågasätta sitt förnuft samtidigt som hon desperat försöker bevisa att hon verkligen blir jagad av någon som ingen kan se."
+   },
+   "tagline": {
+    "fr": "Si vous sentez sa présence, il est déjà trop tard.",
+    "en": "What you can't see can hurt you.",
+    "de": "Was du nicht sehen kannst, kann dich verletzen.",
+    "it": "Quello che non puoi vedere può uccidere.",
+    "es": "Lo que no puedes ver puede hacerte daño.",
+    "sv": "Vad du inte ser kan skada dig."
+   },
+   "genres": {
+    "fr": [
+     "Thriller",
+     "Science-Fiction",
+     "Horreur"
+    ],
+    "en": [
+     "Thriller",
+     "Science Fiction",
+     "Horror"
+    ],
+    "de": [
+     "Thriller",
+     "Science Fiction",
+     "Horror"
+    ],
+    "it": [
+     "Thriller",
+     "Fantascienza",
+     "Horror"
+    ],
+    "es": [
+     "Suspense",
+     "Ciencia ficción",
+     "Terror"
+    ],
+    "sv": [
+     "Thriller",
+     "Science Fiction",
+     "Skräck"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 6567,
+   "runtime": 125
   },
   {
    "id": 756999,
@@ -811,7 +2541,51 @@
     "en": "/1mKqTRD3Cq42FhqGIJYUT2CmFmF.png",
     "it": "/s9gtFpaykVzL225EbF6AEorak2L.png",
     "es": "/d7bmgr8qDdD2VQ8enLMIV328nsD.png"
-   }
+   },
+   "overview": {
+    "fr": "Finney Shaw, un adolescent de 13 ans, timide mais intelligent, est enlevé par un tueur sadique qui l’enferme dans un sous-sol insonorisé où s’époumoner n’est pas d’une grande utilité. Quand un téléphone accroché au mur, pourtant hors d’usage, se met à sonner, Finney va découvrir qu’il est en contact avec les voix des précédentes victimes de son ravisseur. Ils sont aussi morts que bien résolus à ce que leur triste sort ne devienne pas celui de Finney.",
+    "en": "Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.",
+    "de": "Finney Shaw, ein schüchterner, aber kluger 13-jähriger Junge, wird von einem sadistischen Mörder entführt und in einem schalldichten Keller gefangen gehalten, wo Schreien wenig nützt. Als ein nicht angeschlossenes Telefon an der Wand zu klingeln beginnt, entdeckt Finney, dass er die Stimmen der früheren Opfer des Mörders hören kann. Und sie sind fest entschlossen, dafür zu sorgen, dass das, was ihnen passiert ist, Finney nicht passiert.",
+    "it": "Finney Shaw, un timido ma intelligente ragazzo di 13 anni, viene rapito da un sadico assassino che lo rinchiude in un seminterrato insonorizzato dove le urla servono a poco. Quando un telefono disconnesso inizia a squillare sul muro, Finney scopre di poter sentire le voci delle precedenti vittime dell’assassino. E sono decisi a fare in modo che ciò che è successo a loro non accada a Finney.",
+    "es": "En una ciudad de Colorado, en los años 70, un enmascarado secuestra a Finney Shaw, un chico tímido e inteligente de 13 años, y le encierra en un sótano insonorizado donde de nada sirven sus gritos. Cuando un teléfono roto y sin conexión empieza a sonar, Finney descubre que a través de él puede oír las voces de las anteriores víctimas, las cuales están decididas a impedir que Finney acabe igual que ellas.",
+    "sv": "Finney Shaw, en blyg men smart 13-årig pojke, kidnappas av en sadistisk mördare och blir inlåst i en ljudisolerad källare där det är lönlöst att skrika. När en urkopplad telefon på väggen börjar ringa, upptäcker Finney att han kan höra rösterna från mördarens tidigare offer. Och de är fast beslutna att se till att det som hände dem inte händer Finney."
+   },
+   "tagline": {
+    "fr": "Il ne faut jamais parler aux inconnus.",
+    "en": "Never talk to strangers.",
+    "de": "Sprich nie mit Fremden",
+    "it": "Mai parlare con gli sconosciuti",
+    "es": "Nunca hables con extraños."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 6228,
+   "runtime": 103
   },
   {
    "id": 933260,
@@ -831,7 +2605,51 @@
     "fr": "/jEoHxIdGBUzVqYM4Xg0YUrozyFF.png",
     "en": "/k9fURtkjgotj8RdqlzhynFnecxC.png",
     "es": "/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
-   }
+   },
+   "overview": {
+    "fr": "Elisabeth Sparkle, vedette d’une émission d’aérobic, est licenciée le jour de ses 50 ans à cause de son âge. Le moral au plus bas, elle reçoit une proposition inattendue, celle d'un mystérieux laboratoire lui proposant une « substance » miraculeuse : si elle se l’injecte, elle deviendra la meilleure version d’elle-même, plus jeune, plus belle, plus parfaite grâce à une modification de son ADN…",
+    "en": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+    "de": "Eine verblassende Berühmtheit entscheidet sich, ein illegales Medikament zu verwenden – eine zellreplizierende Substanz, die vorübergehend eine jüngere, bessere Version ihrer selbst erschafft.",
+    "it": "Hai mai sognato una versione migliore di te? Tu. Semplicemente, migliore, in ogni senso. Davvero. Devi provare questo nuovo prodotto. Si chiama “la sostanza”. HA CAMBIATO LA MIA VITA. Genera un altro te. Un te nuovo, più giovane, più bello, più perfetto. E c’è solo una regola: vi dovete dividere il tempo. Una settimana sta a te. Quella dopo sta al nuovo te. Sette giorni a testa. Un equilibrio perfetto. Facile, no? Se rispetti l’equilibrio… cosa può andare storto?",
+    "es": "'Tú, pero mejor en todos los sentidos'. Esa es la promesa de la sustancia, un producto revolucionario basado en la división celular, que crea un alter ego más joven, más bello, más perfecto.",
+    "sv": "En åldrande kändis på nedgång bestämmer sig för att använda ett läkemedel på svarta marknaden - ett cellåterskapande ämne som tillfälligt skapar en yngre, bättre version av henne själv. Detta kommer dock inte utan chockerande bieffekter."
+   },
+   "tagline": {
+    "fr": "Avez-vous déjà rêvé d'une meilleure version de vous-même ?",
+    "en": "Have you ever dreamt of a better version of yourself?",
+    "de": "Hast du jemals davon geträumt, eine bessere Version von dir zu sein?",
+    "it": "Hai mai sognato una versione migliore di te?",
+    "sv": "Har du någonsin drömt om en bättre version av dig själv?"
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "de": [
+     "Horror",
+     "Science Fiction"
+    ],
+    "it": [
+     "Horror",
+     "Fantascienza"
+    ],
+    "es": [
+     "Terror",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Skräck",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 6808,
+   "runtime": 142
   },
   {
    "id": 1233413,
@@ -853,7 +2671,58 @@
     "de": "/c6EQxRUJv1wSbPXh3klaDnVO3gI.png",
     "it": "/gLbiMNklZHGqxFOZACghAwt14Gc.png",
     "es": "/bZJu9gI33snO5F0l7UoaRlLClhT.png"
-   }
+   },
+   "overview": {
+    "fr": "Alors qu’ils cherchent à s’affranchir d’un lourd passé, deux frères jumeaux reviennent dans leur ville natale pour repartir à zéro. Mais ils comprennent qu’une puissance maléfique bien plus redoutable guette leur retour avec impatience.",
+    "en": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "de": "Beim Versuch, ihr von Problemen geplagtes Leben hinter sich zu lassen, kehren Zwillingsbrüder in ihre Heimatstadt zurück, um dort einen Neuanfang zu wagen. Doch schon bald müssen sie feststellen, dass bei ihrer Rückkehr ein noch größeres Übel auf sie wartet.",
+    "it": "Tornati nella regione natia con un discreto bottino e con abbondanti alcolici dalla malavita di Chicago, i gemelli Smoke e Stack trasformano una baracca in un locale di ballo e gioco clandestino per la popolazione nera. La festa notturna innesca una gioia contagiosa, ma presto si avvicinano tre bianchi che chiedono insistentemente di poter entrare. Sarà presto chiara la loro intenzione.",
+    "es": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+    "sv": "I ett försök att lämna sina problematiska liv bakom sig återvänder tvillingbröderna Smoke och Stack till sin hemstad för att börja om, bara för att upptäcka att en ännu större ondska väntar på att välkomna dem tillbaka."
+   },
+   "tagline": {
+    "fr": "Une nuit pour survivre.",
+    "en": "Dance with the devil.",
+    "de": "Wenn du ständig mit dem Teufel tanzt, dann folgt er dir eines Tages nach Hause.",
+    "it": "Danza con il diavolo.",
+    "es": "Baila con el diablo.",
+    "sv": "Kom och dansa med djävulen."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Horror",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Horror",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Horror",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Terror",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Skräck",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 5577,
+   "runtime": 138
   }
  ]
 }

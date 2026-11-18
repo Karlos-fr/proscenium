@@ -25,7 +25,13 @@ Sources possibles d'un pack (combinables, sauf from_playlist) :
   - "titles": {id: {langue: titre}}  corrige un titre TMDB erroné
   - "cover": id                      film dont le fond sert de couverture (défaut : le plus populaire)
 
-Version : un pack dont la liste de films change passe à la version suivante ; sinon il la garde.
+Version : un pack dont la liste de films change passe à la version suivante ; sinon il la garde. Il
+passe aussi à la suivante quand ses films reçoivent leur fiche (résumé, accroche, genres, note, durée).
+
+Fiche de chaque film, pour la carte titre du mode cinéma : résumé (« overview ») et accroche
+(« tagline ») dans les 6 langues, genres dans les 6 langues, note TMDB (« rating », sur 10), nombre de
+votes (« votes ») et durée en minutes (« runtime »). Une langue sans texte est omise : l'appli prend
+l'anglais.
 """
 import argparse
 import copy
@@ -386,12 +392,32 @@ def movie_meta(d):
             "popularity": d.get("popularity") or 0}
 
 
-def film_entry(movie_id, backdrops=None, logo_fr=None):
-    """Fiche d'un film (titres dans chaque langue, fonds, logo par langue) et ses métadonnées."""
+def details(movie_id, entry=None):
+    """Résumé, accroche et genres dans chaque langue, note, votes et durée ; complète {@code entry}.
+    Renvoie aussi les titres et la dernière réponse (pour les métadonnées)."""
+    entry = entry if entry is not None else {}
     titles, d = {}, {}
+    overview, tagline, genres = {}, {}, {}
     for l in LANGS:
         d = api(f"/movie/{movie_id}", language=TAGS[l])
         titles[l] = d.get("title") or d.get("original_title") or ""
+        if (d.get("overview") or "").strip():
+            overview[l] = d["overview"].strip()
+        if (d.get("tagline") or "").strip():
+            tagline[l] = d["tagline"].strip()
+        names = [g["name"] for g in d.get("genres", []) if g.get("name")]
+        if names:
+            genres[l] = names
+    entry["overview"], entry["tagline"], entry["genres"] = overview, tagline, genres
+    entry["rating"] = round(float(d.get("vote_average") or 0), 1)
+    entry["votes"] = int(d.get("vote_count") or 0)
+    entry["runtime"] = int(d.get("runtime") or 0)
+    return entry, titles, d
+
+
+def film_entry(movie_id, backdrops=None, logo_fr=None):
+    """Fiche d'un film (titres dans chaque langue, fonds, logo par langue, résumé…) et ses métadonnées."""
+    info, titles, d = details(movie_id)
     meta = movie_meta(d)
     # TMDB ne mélange pas plus de 5 langues par requête : deux appels
     imgs = api(f"/movie/{movie_id}/images", include_image_language="fr,en,de,null")
@@ -411,7 +437,8 @@ def film_entry(movie_id, backdrops=None, logo_fr=None):
             logos[l] = lg["file_path"]
     if logo_fr:
         logos["fr"] = logo_fr  # logo choisi à la main sur la TV
-    entry = {"id": movie_id, "year": meta["date"][:4], "title": titles, "backdrops": backdrops, "logo": logos}
+    entry = {"id": movie_id, "year": meta["date"][:4], "title": titles, "backdrops": backdrops, "logo": logos,
+             **info}
     return entry, meta
 
 
@@ -485,6 +512,9 @@ def build(pack, old, playlists, refresh):
                 entry["backdrops"] = bds
             if logo:
                 entry["logo"]["fr"] = logo
+            if "overview" not in entry:
+                # Film publié avant les fiches : on ajoute résumé, accroche, genres, note et durée
+                details(mid, entry)
             meta = movie_meta(api(f"/movie/{mid}")) if need_meta else {}
         else:
             entry, meta = film_entry(mid, bds, logo)
@@ -587,7 +617,7 @@ def main():
             films, popular = build(pack, old, playlists, args.refresh)
             if old is None:
                 version = 1
-            elif [f["id"] for f in old["films"]] == [f["id"] for f in films]:
+            elif [f["id"] for f in old["films"]] == [f["id"] for f in films] and all("overview" in f for f in old["films"]):
                 version = old_version
             else:
                 version = old_version + 1

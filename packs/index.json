@@ -3,7 +3,7 @@
  "packs": [
   {
    "id": "disney-pixar",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Disney & Pixar",
     "en": "Disney & Pixar",
@@ -25,7 +25,7 @@
   },
   {
    "id": "classiques-marvel",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Classiques & Marvel",
     "en": "Classics & Marvel",
@@ -47,7 +47,7 @@
   },
   {
    "id": "ghibli",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Studio Ghibli",
     "en": "Studio Ghibli",
@@ -69,7 +69,7 @@
   },
   {
    "id": "star-wars",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Star Wars",
     "en": "Star Wars",
@@ -91,7 +91,7 @@
   },
   {
    "id": "nolan",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Christopher Nolan",
     "en": "Christopher Nolan",
@@ -113,7 +113,7 @@
   },
   {
    "id": "horreur",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Horreur",
     "en": "Horror",
@@ -135,7 +135,7 @@
   },
   {
    "id": "annees-80",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Années 80",
     "en": "The 80s",
@@ -157,7 +157,7 @@
   },
   {
    "id": "annees-90",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Années 90",
     "en": "The 90s",
@@ -179,7 +179,7 @@
   },
   {
    "id": "animation",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Animation",
     "en": "Animation",
@@ -201,7 +201,7 @@
   },
   {
    "id": "harry-potter",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Harry Potter",
     "en": "Harry Potter",
@@ -223,7 +223,7 @@
   },
   {
    "id": "terre-du-milieu",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "La Terre du Milieu",
     "en": "Middle-earth",
@@ -245,7 +245,7 @@
   },
   {
    "id": "james-bond",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "James Bond 007",
     "en": "James Bond 007",
@@ -267,7 +267,7 @@
   },
   {
    "id": "science-fiction",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Science-fiction",
     "en": "Science Fiction",
@@ -289,7 +289,7 @@
   },
   {
    "id": "spielberg",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Steven Spielberg",
     "en": "Steven Spielberg",
@@ -311,7 +311,7 @@
   },
   {
    "id": "tarantino",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Quentin Tarantino",
     "en": "Quentin Tarantino",
@@ -333,7 +333,7 @@
   },
   {
    "id": "dc",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Super-héros DC",
     "en": "DC Superheroes",
@@ -355,7 +355,7 @@
   },
   {
    "id": "westerns",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Westerns",
     "en": "Westerns",
@@ -377,7 +377,7 @@
   },
   {
    "id": "villeneuve",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Denis Villeneuve",
     "en": "Denis Villeneuve",
@@ -399,7 +399,7 @@
   },
   {
    "id": "wes-anderson",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Wes Anderson",
     "en": "Wes Anderson",
@@ -421,7 +421,7 @@
   },
   {
    "id": "sagas-aventure",
-   "version": 1,
+   "version": 2,
    "name": {
     "fr": "Sagas d'aventure",
     "en": "Adventure Sagas",

@@ -1,6 +1,6 @@
 {
  "id": "westerns",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Westerns",
   "en": "Westerns",
@@ -36,7 +36,44 @@
     "en": "/3sRSaXQsW6JdTVS1OiGBW2HYEdN.png",
     "it": "/uaK7tcI8jg9KrSWrR2VuCWOsjXC.png",
     "es": "/1ilFAsf6TPmUzQjMhc9kyBV66I6.png"
-   }
+   },
+   "overview": {
+    "fr": "La diligence est le lieu de rencontre de neuf personnes qui font route, en Arizona, sur une piste menacée par les Indiens de Geronimo. Dallas, une prostituée, est chassée de la ville, tout comme Josiah Boone, un vieux médecin alcoolique. Mrs Mallory, enceinte, va rejoindre son mari, un officier, tandis que Hatfield, un joueur, décide de l'accompagner par galanterie. Gatewood, le banquier, s'enfuit avec l'or déposé chez lui. Mr Peacok, qui place du whisky dans les saloons, regagne sa famille à Kansas City. Curly Wilcox, le shérif, accompagne le conducteur Buck, sur cette route dangereuse. À la sortie de la ville, ils prennent un autre passager, Ringo Kid, qui souhaite exécuter les trois frères Plummer, assassins de son père et de son frère. Toutes ces personnes font le difficile apprentissage de la cohabitation dans un espace clos. Le voyage se poursuit dans une atmosphère de plus en plus tendue.",
+    "en": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+    "de": "Bei einer Postkutschenfahrt durch gefährliches Indianergebiet zeigt die bunt zusammengewürfelte Gruppe Reisender ihre wahren Gesichter: eine Schwangere aus den Südstaaten, ein dubioser Glücksspieler, eine vertriebene Prostituierte, ein schüchterner Whiskey-Vertreter, ein pflichtgetreuer Sheriff, ein die eigene Bank ausraubender Direktor, ein geschwätziger Kutscher und der Outlaw Ringo, auf den in der Stadt noch ein Showdown wartet.",
+    "it": "Una diligenza parte da Tonto verso Lordsburg. A bordo ci sono una prostituta, la moglie incinta di un militare, un baro, un truffatore e un medico alcolizzato. Per strada si aggiunge il pistolero Ringo e lungo il percorso, sotto gli attacchi degli indiani, questa umanità di peccatori saprà trovare riscatto. La moglie dell'ufficiale partorisce grazie al medico e Ringo va incontro a una sparatoria decisiva con i fratelli Plummer.",
+    "es": "Personajes muy variopintos emprenden un largo, duro y peligroso viaje en diligencia. Entre ellos, un fuera de la ley en busca de venganza, una prostituta a la que han echado del pueblo, un jugador, un médico, la mujer embarazada de un militar y un sheriff. Las relaciones entre ellos serán difíciles y tensas. Además, durante el viaje, tendrán que afrontar el ataque de una partida de indios apaches.",
+    "sv": "John Wayne i sjufaldigt Oscarnominerad westernklassiker av John Ford. Apacheindianerna, med Geronimo i spetsen, är på krigsstigen. Men nio personer måste ta diligensen till Lordsburg, rakt genom vildmarken där indianerna dödar och bränner allt i sin väg."
+   },
+   "tagline": {
+    "fr": "2 femmes en voyage désespéré avec 7 hommes étranges.",
+    "en": "A powerful story of nine strange people.",
+    "it": "Una potente storia di nove strane persone",
+    "es": "Nueve vidas extrañas en un accidentado y emocionante viaje a través del Oeste de Estados Unidos."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 1294,
+   "runtime": 96
   },
   {
    "id": 3090,
@@ -58,7 +95,57 @@
     "de": "/aCQsaiWH7gAzYwIwBpswGame1FK.png",
     "it": "/q6CwMPCZhM6Cpcp3zR5kNFnxLdi.png",
     "es": "/7BchCsONkVkFquAlQ1oU3KQOnPL.png"
-   }
+   },
+   "overview": {
+    "fr": "Dobbs et Curtis travaillent sur un chantier dont le chef part avec le salaire des ouvriers. Ils partent à sa recherche et récupèrent leur argent. Puis ils s'associent avec le vieil Howard pour exploiter un filon d'or dans la Sierra Madre.",
+    "en": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
+    "de": "Drei Abenteurer treffen sich in dem mexikanischen Nest Tampico, um gemeinsam auf Goldsuche zu gehen. In der gottverlassenen Einöde der Sierra Madre finden die drei tatsächlich den gelben Schatz - aber er wird ihnen kein Glück bringen. Das Gold verändert sie. Vor allem Dobbs sät Misstrauen unter den Männern und verdächtigt die anderen zwei, ihn hereinlegen zu wollen. Auf dem Rückweg entzweien sie sich, Dobbs, der durch einen Lotteriegewinn die Ausrüstung ermöglicht hatte, zieht mit dem Gold davon. Die Partner finden ihn in der Wüste, ermordet von Banditen.",
+    "it": "Fred Dobbs è un vagabondo senza lavoro. Conosce un vecchio cercatore d'oro e inizia a lavorare sodo seguendo, con lui e un altro uomo, un nuovo filone. In poco tempo raccolgono una discreta fortuna, ma Dobbs vuole tenersi tutto per sé: colpisce il compagno e fugge. Viene però assalito da dei banditi messicani che lo uccidono per rapinarlo, ma, ignorando il valore di quella polvere gialla, la buttano via per tenersi gli attrezzi e le cavalcature.",
+    "es": "Fred C. Dobbs (Humphrey Bogart) decide ir a Tampico en busca de oro con la intención de dejar atrás la miseria. Emprende el viaje en compañía de otros dos vagabundos (Walter Huston y Tim Holt), pero la codicia y la envidia que surge entre ellos les creará poco a poco más problemas que cualquier otra dificultad del camino.",
+    "sv": "Det finns guld i bergen och girighet i männens hjärtan. De kommer allt närmare sin skatt men allt längre bort från lagen. Dodds och Curt är arbetslösa i Mexiko och ihop med den gamle guldgrävaren Howard, beger de sig till Sierra Madre för att leta efter guld. Naturen är hård och full av banditer - och deras girighet växer för att snart bli deras största fiende. De båda vännerna gör snart allt för att roffa åt sig guldet och blir istället bittra fiender."
+   },
+   "tagline": {
+    "fr": "Plus ils se rapprochent de leur trésor, plus ils s'éloignent de la loi.",
+    "en": "The nearer they get to their treasure, the farther they get from the law.",
+    "de": "Sie verkauften ihre Seele...",
+    "it": "Vendettero le loro anime per...",
+    "es": "Cuanto más se acercan al tesoro, más se alejan de la ley."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Drame",
+     "Western"
+    ],
+    "en": [
+     "Adventure",
+     "Drama",
+     "Western"
+    ],
+    "de": [
+     "Abenteuer",
+     "Drama",
+     "Western"
+    ],
+    "it": [
+     "Avventura",
+     "Dramma",
+     "Western"
+    ],
+    "es": [
+     "Aventura",
+     "Drama",
+     "Western"
+    ],
+    "sv": [
+     "Äventyr",
+     "Drama",
+     "Västern"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 1426,
+   "runtime": 126
   },
   {
    "id": 288,
@@ -79,7 +166,43 @@
     "en": "/w4kznO2nFItRDyHSkxKhohtXyGB.png",
     "de": "/fPJrekDl8jrcj2gvtckr6DxI9Rm.png",
     "it": "/sGskQxkoQefPT4oT7FPaNqviT6t.png"
-   }
+   },
+   "overview": {
+    "fr": "Un matin de juin 1875 dans l'Etat de New Mexico, à peine marié, le shérif Will Kane apprend que Frank Miller, un homme qu'il fait condamner cinq ans plus tôt, arrivera en ville avec des renforts pour se venger, par le train de midi. Le sens du devoir l'emportant sur sa démission qu'il avait l'intention de donner, Jane espère cependant que les concitoyens prennent les armes avec lui. Aucun ne le suit. Bien que le combat s'annonce perdu d'avance, le shérif se dresse contre les bandits...",
+    "en": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+    "de": "Marshal Will Kane möchte seiner Frau Amy zuliebe seinen Posten aufgeben, als seine Stadt plötzlich von dem Banditen Frank Miller und seiner Bande heimgesucht wird. Fest entschlossen, seine Stadt nicht im Stich zu lassen, bereitet sich der allseits beliebte Kane für den Kampf gegen die Banditen vor. Bald muss er jedoch feststellen, dass seine Mitbürger ihm aus Angst jegliche Hilfe verweigern und ihm stattdessen den Rücken kehren. Für Kane beginnt ein einsamer Kampf um das Wohlergehen seiner Kleinstadt.",
+    "it": "Willy si dimette dal suo incarico di sceriffo proprio il giorno delle sue nozze con Amy, una ragazza quacchera della quale è da sempre innamorato. Quando viene a sapere che con il treno di mezzogiorno sta per tornare in città un pericoloso fuorilegge, si sente in dovere di riprendere la stella e di affrontarlo. Ma i cittadini che cerca di proteggere, impauriti, gli negano l'aiuto e così Willy dovrà cavarsela da solo. Fred Zinnemann, si ispira al racconto _The Tin Star_ di John Cunningham, e dirge un film in cui il tempo in cui si svolge l'azione coincide con il minutaggio effettivo. Quattro Oscar (attore protagonista, montaggio, musiche e miglior canzone) e molti rifacimenti.",
+    "es": "Will Kane, el sheriff del pequeño pueblo de Hadleyville, acaba de contraer matrimonio con Amy. Los recién casados proyectan trasladarse a la ciudad y abrir un pequeño negocio; pero, de repente, empieza a correr por el pueblo la noticia de que Frank Miller, un criminal que Kane había atrapado y llevado ante la justicia, ha salido de la cárcel y llegará al pueblo en el tren del mediodía para vengarse de Kane. El tiempo va pasando lentamente, pero nadie en el pueblo está dispuesto a ayudar al sheriff.",
+    "sv": "Will Kane står i begrepp att gifta sig, avsluta sin tjänst som sheriff och lämna den lilla staden Hadleyville. På bröllopsdagen får han dock veta att revolvermannen Frank Miller, som Kane arresterade en gång i tiden, är på väg till staden för att söka hämnd. Trots att Kane har goda skäl att ge sig av känner han sig skyldig att stanna för att stå upp mot Miller och hans gäng."
+   },
+   "tagline": {
+    "fr": "L'histoire d'un homme trop fier pour s'enfuir.",
+    "en": "The story of a man who was too proud to run!",
+    "es": "La historia de un hombre que estaba demasiado orgulloso para correr."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 1670,
+   "runtime": 81
   },
   {
    "id": 3114,
@@ -99,7 +222,44 @@
     "fr": "/v7AHYo9OmYv5xJROYfwpcGMFelz.png",
     "en": "/19cmfhyJca0WMv7sDRObpjA7r4r.png",
     "it": "/k0jRb7Fc3besAMSpTTBka4jNUj9.png"
-   }
+   },
+   "overview": {
+    "fr": "Texas 1868. La famille d'Aaron Edwards est décimée par une bande de comanches qui attaquent son ranch et enlèvent ses deux fillettes. Ethan, le frère d'Aaron, découvre le drame et se lance sur les traces des ravisseurs avec deux autres compagnons.",
+    "en": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+    "de": "Der notorische Einzelgänger Ethan Edwards findet nach Jahren im Bürgerkrieg bei seiner Rückkehr auf die heimische Ranch Bruder und Schwägerin von den Comanchen des Schwarzen Falken dahingemordet vor. In blindem Hass, begleitet nur von seinem ungeliebten Neffen Martin, begibt er sich auf einen fünf Jahre währenden Rachefeldzug, von dem er sich nicht zuletzt ein Wiedersehen mit der beim Indianerüberfall entführten Nichte Debbie erhofft. Auf der abenteuerlichen Odyssee kommen sich Ethan und Martin langsam näher.  Als der Einzelgänger Ethan Edwards seine von Indianern entführte Nichte nach über zehn Jahren Suche wiederfindet, muß er feststellen, daß sie selbst eine Rothaut geworden ist. Western-Epos mit einem großartigen John Wayne.",
+    "it": "Finita la guerra di Secessione, Ethan torna a casa. Ritrova il fratello, la cognata, le loro due figlie Debbie e Lucy e il figlio adottivo Martin, di origine indiana. Un giorno arriva alla fattoria il reverendo Clayton con un gruppo di coloni e convince Ethan e Martin a unirsi a loro per dare la caccia agli indiani che razziano il bestiame. Ma mentre gli uomini sono via, i Comanches attaccano la fattoria, massacrano i genitori e rapiscono le due ragazze. Lucy è ritrovata morta; Ethan si mette alla ricerca di Debbie, insieme con Martin.",
+    "es": "Texas. En 1868, tres años después de la guerra de Secesión, Ethan Edwards, un hombre solitario, vuelve derrotado a su hogar. La persecución de los comanches que han raptado a una de sus sobrinas se convertirá en un modo de vida para él y para Martin, un muchacho mestizo adoptado por su familia.",
+    "sv": "John Wayne spelar en före detta soldat som letar efter sin brorsdotter. Hon har tillfångatagits av Comancher som massakrerat hela hennes familj. John Waynes rollfigur viker varken för hunger, törst eller ensamhet, men under sitt långa sökande finner han någonting oväntat - sin egen mänsklighet."
+   },
+   "tagline": {
+    "fr": "Il fallait qu'il la trouve… il fallait qu'il la trouve…",
+    "en": "He had to find her... he had to find her...",
+    "it": "Doveva trovarla... doveva trovarla...",
+    "es": "Tenía que encontrarla...  tenía que encontrarla..."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 1667,
+   "runtime": 119
   },
   {
    "id": 301,
@@ -119,7 +279,50 @@
     "fr": "/3g7rff9eKl9In5bO35kepMrNhlk.png",
     "en": "/hDa8yHV4F68J9SxCGQE1Te4SwWE.png",
     "it": "/z2uQUIuHw94JfJYU7tyDBu67luH.png"
-   }
+   },
+   "overview": {
+    "fr": "Après un meurtre, le shériff John Grant arrête Joe Burdette et l'enferme dans une cellule en attendant l'arrivée du prévôt des États-Unis. La prison est gardée par ses deux adjoints, Dude, un alcoolique et Stumpy, un vieillard estropié. Mais dehors, Nathan Burdette, son frère, et sa bande se réunissent et attendent patiemment le moment favorable pour attaquer la prison et libérer Joe...",
+    "en": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+    "de": "John T. Chance ist Sheriff in der Stadt Rio Bravo. Als er den Mörder Burdette einsperrt, geraten er und sein Gehilfe Stumpy in große Bedrängnis, da der Bruder des Täters das Gefängnis stürmen lassen will. Der stadtbekannte Säufer Dude, der vor einer unglücklichen Frauengeschichte sein Stellvertreter war, und der junge Revolverheld Colorado schließen sich Chance an. Burdettes Männer nehmen Dude als Geisel, um den Mörder freizupressen. Am Rande der Stadt kommt es zum Showdown. Chance und seine Männer können die Schießerei mit Hilfe von ein paar Stangen Dynamit für sich entscheiden.",
+    "it": "Lo sceriffo arresta per omicidio un membro della famiglia di allevatori che spadroneggia in città. È guerra aperta. L'uomo con la stella ha un anziano aiutante cui si aggiungono poi l'ex vice, Dude, recuperato all'alcolismo, e il giovane pistolero Colorado. Dude ritrova così la sua dignità e lo sceriffo accetta d'essersi innamorato della bella Feathers. La lotta contro gli altri membri della famiglia e i loro scagnozzi però è ancora lunga e aspra.",
+    "es": "El sheriff Chance encarcela por asesinato al hermano de un poderoso terrateniente cuyos hombres intentarán liberarlo. Para impedirlo, Chance cuenta con la colaboración de dos ayudantes: un alcohólico y un viejo tullido, a los que se une un joven y hábil pistolero llamado Colorado. Todos quedarán encerrados en la cárcel de la oficina del sheriff, roedados, incrementándose la tensión en el pueblo a la espera de que llegue la autoridad estatal para llevarse al detenido.",
+    "sv": "John Wayne är Chance i \"Rio Bravo\", en riktig västernklassiker full med hjältar och starka personligheter. Han har sällskap av Dean Martin som spelar den alkoholiserade vicesheriffen, och Walter Brennan som spelar den slätstrukne mannen som har svårt att få någonting gjort, Ricky Nelson den unga nykomlingen, som tror att han kan allt, och Angie Dickinson, den vackra kvinnan med ett gott öga till Chance."
+   },
+   "tagline": {
+    "fr": "Ils se sont battu dos à dos... Pas de quartier donné... Pas de quartier demandé... Pas d'entrée... Pas de sortie... de Rio Bravo",
+    "en": "They fought back to back... No quarter given... No quarter asked... No way in... No way out... of Rio Bravo!",
+    "es": "Lucharon espalda con espalda ... No se les dio cuartel... No se les pidió cuartel... No hay forma de entrar... No hay forma de salir... ¡de Río Bravo!",
+    "sv": "På ena sidan finns en armé med beväpnade män som har mord i sinnet, på andra sidan sheriffen John T. Chance och hans två vicesheriffer: en alkoholist och en halvt invalid. Vem tror du kommer att vinna?"
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Drame"
+    ],
+    "en": [
+     "Western",
+     "Drama"
+    ],
+    "de": [
+     "Western",
+     "Drama"
+    ],
+    "it": [
+     "Western",
+     "Dramma"
+    ],
+    "es": [
+     "Western",
+     "Drama"
+    ],
+    "sv": [
+     "Västern",
+     "Drama"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 1320,
+   "runtime": 141
   },
   {
    "id": 966,
@@ -140,7 +343,56 @@
     "en": "/rHPrh4Pe7ZjdkBEEF4OHPcBvD6W.png",
     "de": "/ktbHyDf16ZpL1KT5TcpwKCGNg9r.png",
     "it": "/8gFyRvzXL74yz9EC168QTEn48Er.png"
-   }
+   },
+   "overview": {
+    "fr": "Un petit village de paysans du nord du Mexique subit les raids incessants de bandits menés par le pilleur Calvera. Accablés par cette situation, les paysans décident d'aller chercher du soutien de l'autre côté de la frontière américaine. Ils le trouvent en la personne de Chris, baroudeur taciturne et excellent tireur. Ensemble, ils recrutent six autres hommes, tous mercenaires, chacun motivé par des raisons personnelles et un sens de l'honneur propre.",
+    "en": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
+    "de": "Alle Jahre wieder wird eine kleine mexikanische Provinzgemeinde von der durchreisenden Räuberbande des Banditen Calvera zur Kasse gebeten. Darauf beschließen die Dorfoberen, das Geld lieber in eine Hilfstruppe von Revolverhelden zu investieren, um Calvera für immer vom Hals zu haben. Das Unterfangen erweist sich zunächst als Fehlschlag, da die Reserven der Bauern ebenso begrenzt sind wie der Idealismus ihrer Helfer. Als dann aber einige Gringos doch noch ihr Herz für die Landbevölkerung entdecken und die Söldnermentalität über Bord werfen, geht es den Banditen an den Kragen.",
+    "it": "Chris, un pistolero texano, viene chiamato dagli abitanti di un paesino messicano stufi dei saccheggi da parte di un bandito e dei suoi compari. Chris ingaggia così altri uomini e riesce ad avere la meglio nel primo scontro con i balordi, ma in seguito avrà bisogno dell'aiuto degli stessi contadini per chiudere definitivamente la questione.",
+    "es": "Unos bandidos atacan y arrasan cada año las tierras de unos granjeros. Ante esto, varios de ellos deciden buscar a hombres que puedan defenderles. Conseguirán reunir siete hombres, cada uno de los cuales presume de una característica especial.",
+    "sv": "Den amerikanska versionen av Kurosawas De sju samurajerna. En liten mexikansk by utsätts årligen för angrepp av ett rövarband. Nu vill de ha stopp på plågoandarna och anlitar sju amerikanska revolvermän för att skydda byn.."
+   },
+   "tagline": {
+    "fr": "7 hommes contre une horde sauvage !",
+    "en": "They were seven…and they fought like seven hundred!",
+    "de": "Sie waren zu siebt …  und kämpften wie siebenhundert !",
+    "es": "Eran siete. Lucharon como setecientos."
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Action",
+     "Drame"
+    ],
+    "en": [
+     "Western",
+     "Action",
+     "Drama"
+    ],
+    "de": [
+     "Western",
+     "Action",
+     "Drama"
+    ],
+    "it": [
+     "Western",
+     "Azione",
+     "Dramma"
+    ],
+    "es": [
+     "Western",
+     "Acción",
+     "Drama"
+    ],
+    "sv": [
+     "Västern",
+     "Action",
+     "Drama"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 2104,
+   "runtime": 126
   },
   {
    "id": 11697,
@@ -161,7 +413,43 @@
     "en": "/vHdkdknFP8qw7j9fL1lEjJJtriv.png",
     "de": "/a95NQZjb6V3CzEqEHtyJn0Kq7v2.png",
     "it": "/2MD5E42rM5XBM8EBDkoUE9P6F9.png"
-   }
+   },
+   "overview": {
+    "fr": "Stoddard, un jeune avocat, vient de s'installer dans l'Ouest, dans une région qui vit sous la terreur du bandit Liberty Valance. Celui-ci ne tarde pas à s'en prendre à Stoddard, sauvé in extremis du lynchage par Tom, le seul à qui Valance ne fait pas peur. Résolu à combattre la violence par la loi et l'éducation, Stoddard s'oppose ouvertement à Valance...",
+    "en": "Questions arise when Senator Stoddard attends the funeral of a local man named Tom Doniphon in a small Western town. Flashing back, we learn Doniphon saved Stoddard, then a lawyer, when he was roughed up by a crew of outlaws terrorizing the town, led by Liberty Valance. As the territory's safety hung in the balance, Doniphon and Stoddard, two of the only people standing up to him, proved to be very important, but different, foes to Valance.",
+    "de": "Anwalt Ransom Stoddard wird auf seiner Reise in das Städtchen Shinbone vom berüchtigten Liberty Valance überfallen. Der hart gesottene Cowboy Tom Doniphon findet Stoddard und bringt ihn beim Ehepaar Ericson unter. Dort hilft der ausgeraubte Anwalt im Restaurant aus, um finanziell wieder auf die Beine zu kommen. Die hübsche Hallie, die im Restaurant bedient, verliebt sich in ihn. Stoddard will Valance mit friedlichen Mitteln das Handwerk legen, damit in der Gegend Recht und Ordnung herrschen. Das erweist sich aber als unmögliches Unterfangen, weil Valance nicht zurückweichen will. Als der Revolverheld in der Stadt auftaucht, scheint eine Konfrontation mit dem friedfertigen Ransom Stoddard unausweichlich.",
+    "it": "Un maledestro avvocato vuole liberare un piccolo paese del West da uno scomodo fuorilegge. A questo scopo chiede l'aiuto di uno scaltro cow boy con il quale condivide l'amore per la stessa donna.",
+    "es": "Un anciano senador del Congreso de los Estados Unidos, Ransom Stoddard, relata a un periodista la verdadera historia de por qué ha viajado junto a su mujer Hallie para acudir al funeral de un viejo amigo, Tom Doniphon. Todo comenzó muchos años atrás, cuando Ransom era un joven abogado del este que llegó en diligencia a Shinbone, un pequeño pueblo del Oeste, para ejercer la abogacía e imponer la ley. Poco antes de llegar a su destino, es atracado y golpeado brutalmente por el temido pistolero Liberty Valance.",
+    "sv": "En senator, berömd för att ha skjutit det lilla samhället Shinbones värste plågoande, Liberty Valance, återvänder för en väns begravning och berättar sanningen om sitt dåd."
+   },
+   "tagline": {
+    "en": "Together for the first time",
+    "it": "Insieme per la prima volta",
+    "es": "Juntos por primera vez -James Stewart, John Wayne- en la obra maestra de John Ford cuatro veces ganador del Premio de la Academia."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 1362,
+   "runtime": 123
   },
   {
    "id": 391,
@@ -182,7 +470,45 @@
     "en": "/dkg4P8OTyZzNOTCF0H6bHuz1hj9.png",
     "de": "/qWXtvwn8U0ypFcM0iwtPike24AZ.png",
     "it": "/eY8oeIl7ibH4dRJVcRIeDQiGml2.png"
-   }
+   },
+   "overview": {
+    "fr": "Joe, un tireur d'élite, arrive dans une bourgade mexicaine proche de la frontière, San Miguel. Deux bandes rivales, les Baxter et les Rodos, se disputent le contrôle de la région. Joe, qui assiste à un massacre de soldats mexicains par les Rodos, décide de tirer profit de la situation pour gagner quelques dollars. Il incite les bandits à se battre entre eux dans l'espoir de récupérer l'or que détient Ramon, le chef des Rodos. Un premier affrontement entre les bandits élimine une bonne partie des Baxter. Joe se charge de tuer lui-même les Rodos survivants. Une opération d'autant plus facile à imaginer que Joe a découvert le point faible du plus farouche des fils Rodos, son amour pour Marisol, une jolie Mexicaine…",
+    "en": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+    "de": "Das kleine und abgelegen Dorf San Miguel in Mexiko ist von zwei rivalisierenden Gangsterfamilien gespalten. Die angloamerikanische Baxter- und die mexikanische Rojo-Familie liefert sich einen Bandenkrieg, unter dem alle Einwohner des beschaulichen Städtchens zu leiden haben. Doch dann betritt ein einsamer Reiter namens Joe die Stadt, der mit dem Colt umzugehen weiß, wie kein Zweiter und bietet den beiden Klans an, für sie zu arbeiten. Ohne das sie davon wissen, kassiert der Fremde von beiden Seiten ein dicken Batzen Geld ein, doch als Ramón, der Anführer der Rojos-Familie, hinter den Bluff kommt, lässt er den Cowboy brutal foltern. In letzter Sekunde schafft es Joe sich zu befreien und zu fliehen. Nachdem er sich einige Zeit in einer entlegenen Höhle regeneriert hat, kehrt der Revolverheld zurück, um mit dem Klan und insbesondere mit Ramón abzurechnen.",
+    "it": "Un pistolero senza nome giunge in una cittadina al confine tra Stati Uniti e Messico. Questo luogo è dominato da due famiglie rivali che si fronteggiano seminando il terrore tra la popolazione. Il pistolero, giocando d'astuzia, le farà sterminare a vicenda.",
+    "es": "Tras la muerte de Juárez, en México dominan la injusticia y el terror. Joe, un pistolero vagabundo, llega al pueblo fronterizo de San Miguel, donde dos familias se disputan el control del territorio, y entra al servicio del clan Rojo. Una noche, Joe es testigo del intercambio de oro por armas entre mexicanos y soldados de la Unión...",
+    "sv": "En anonym men dödlig man rider in i en mexikansk by som är plågad av en familjefejd mellan Baxters och Rojos. Istället för att fly, som de flesta andra skulle ha gjort, bestämmer sig mannen för att spela ut de två sidorna mot varandra och bli rik på kuppen."
+   },
+   "tagline": {
+    "fr": "À sa manière, il est peut-être l’homme le plus dangereux qui ait jamais vécu !",
+    "en": "In his own way he is, perhaps, the most dangerous man who ever lived!",
+    "it": "A suo modo è forse l'uomo più pericoloso che sia mai vissuto!",
+    "es": "Este corto cigarro, esta arma larga y este poncho pertenecen a un hombre sin nombre.",
+    "sv": "På sitt eget sätt är han kanske den farligaste mannen som någonsin levt!"
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 4970,
+   "runtime": 96
   },
   {
    "id": 938,
@@ -203,7 +529,44 @@
     "en": "/a6bvqMJrjJEx2GtK4bdVxJ78WpV.png",
     "de": "/8SH7x3LpeeUcDXaXc1ssrieJcRu.png",
     "it": "/kDO0wUAFEXmdz0wvHwr8JwL5ktW.png"
-   }
+   },
+   "overview": {
+    "fr": "« L'indien », bandit cruel et fou, s'est évadé de prison. Il se prépare à attaquer la banque d'El Paso, la mieux gardée de tout l'Ouest, avec une quinzaine d'autres malfaiteurs. Le « Manchot » et le Colonel Douglas Mortimer, deux chasseurs de primes concurrents, décident, après une confrontation tendue, de faire finalement équipe pour arrêter les bandits. Mais leurs motivations ne sont pas forcément les mêmes…",
+    "en": "Two bounty hunters both pursue the brutal and sadistic bandit, El Indio, who has a large bounty on his head.",
+    "de": "Der „Fremde“ nennt sich nun Monco und verdient sein Geld als Kopfgeldjäger. Auf der Jagd nach einem Banditen kommt er einem anderen Kopfgeldjäger, Colonel Mortimer, zuvor. Nachdem sie sich zunächst als Konkurrenten gegenseitig einschüchtern, beschließen Mortimer und Monco, gemeinsame Sache zu machen, als sie erfahren, dass El Indio, der meistgesuchte Verbrecher im westlichen Territorium, aus dem Gefängnis entflohen ist und auf seinen Kopf 10.000 Dollar ausgesetzt sind. Monco soll den Lockvogel spielen, indem er sich in Indios Bande einschmuggelt.",
+    "it": "Due cacciatori di taglie sulle tracce di un bandito sanguinario e megalomane.Un cacciatore di taglie, poncho sulle spalle ed eterno sigaro in bocca, si associa con un suo collega, molto più distinto ma altrettanto spietato, per dare la caccia all'Indio. Questi è un feroce fuorilegge che, evaso con l'aiuto dei suoi compari, organizza una rapina alla banca di El Paso. Ma non andrà molto lontano. Dopo lo strepitoso successo di  \"Per un pugno di dollari\"  Leone ripropone i suoi personaggi. Eccessivo e barocco, padrone di uno stile immediatamente riconoscibile tra i tanti imitatori già all'opera, Leone consolida la sua fama. Da ricordare Volonté nei panni dell'Indio e la comparsata di Klaus Kinski, gobbo e nevrotico.",
+    "es": "Dos cazadores de asesinos, rivales entre sí al principio, acaban por unirse para conseguir una misma presa, \"El Indio\", un peligroso y sanguinario bandido por el que se ofrece la más alta recompensa conocida. Cada uno tiene motivos diferentes para dar caza al bandido, uno, su obsesión por conseguir el dinero que ofrecen, y el otro, para vengar el asesinato de su hija a manos del brutal asesino. También sus estilos son distintos, aunque infalibles, uno rápido y el otro frío y técnico.",
+    "sv": "Eastwood spelar den smarta prisjägaren som är på jakt efter områdets mest eftersökta bandit, Indio. Men hans hänsynslösa rival, Överste Mortimer är fast besluten att hitta Indio först, död eller levande! När de misslyckas med att fånga honom, och att döda varandra, har de bara ett val kvar: bilda ett lag eller bli mördade av Indio och hans hejdukar."
+   },
+   "tagline": {
+    "fr": "L'homme sans nom est de retour.",
+    "en": "The man with no name is back... the man in black is waiting... a walking arsenal - he uncoils, strikes and kills!",
+    "de": "Ein neuer Meister-Western – noch härter – noch spannender!",
+    "es": "El hombre sin nombre vuelve."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 4706,
+   "runtime": 126
   },
   {
    "id": 429,
@@ -226,7 +589,45 @@
     "it": "/AawzZc1jNWgELesrQeLMEuaVuVD.png",
     "es": "/e0brYd78ykMjc6r2i0R46cEuPSW.png",
     "sv": "/kCBAYXXjkZwiioAojClp9mfkGUp.png"
-   }
+   },
+   "overview": {
+    "fr": "Pendant la guerre de Sécession, Tuco et Joe se lancent à la recherche d'un coffre contenant 200 000 dollars en pièces d'or volés à l'armée sudiste. Ayant des indices complémentaires sur la cache, chacun a besoin de l'autre. Mais un troisième homme entre dans la course : Sentenza, un tueur qui ne recule devant rien pour parvenir à ses fins.",
+    "en": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+    "de": "Ein mysteriöser Fremder, der mexikanische Revolverschütze Tuco und Sentenza, ein sadistischer Krimineller, sind auf der Jagd nach einer Geldkassette. Inhalt: 200.000 Dollar. Die drei Desperados haben untereinander nichts gemeinsam - werden aber zu Komplizen, wenn es die Situation erfordert. Doch jeder verfolgt nur ein Ziel: die Geldkassette. Und keiner von ihnen ist bereit, zu teilen...",
+    "it": "Durante la guerra di Secessione, tre spregiudicati avventurieri, cercano di impossessarsi di un carico d'oro che gli permetterebbe di chiudere con la vita da pistoleri. Ma la guerra li costringerà a cambiare i loro piani.",
+    "es": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
+    "sv": "Två fifflare får höra talas om en stor en kista full av guld som grävts ner på en kyrkogård. Kumpanerna litar inte särskilt mycket på varandra, men tvingas ändå samarbeta för att hitta skatten. Samtidigt har en tredje skurk fått nys om guldet."
+   },
+   "tagline": {
+    "fr": "Pour trois hommes, la guerre civile n'était pas un enfer. C'était de la pratique.",
+    "en": "For three men the Civil War wasn't hell. It was practice.",
+    "it": "Per tre uomini la guerra civile non era un inferno... Era pratica.",
+    "es": "Para estos tres, la Guerra Civil no fue un infierno, ¡sino un campo de entrenamiento!",
+    "sv": "För tre män var inbördeskriget inget helvete. Det var bara en övning inför det som komma skulle."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 10160,
+   "runtime": 161
   },
   {
    "id": 335,
@@ -249,7 +650,51 @@
     "it": "/nsXdRN2iiA7ZM9xV6wBBtcoGYDO.png",
     "es": "/8bi78Y5k2PUbbONdJHLRU7qIgJK.png",
     "sv": "/zxDW6j2sJ82RNQKk1peWrcAj6EH.png"
-   }
+   },
+   "overview": {
+    "fr": "Alors que les constructeurs de chemins de fer traversent sans relâche le désert de l'Arizona en direction de la mer, Jill arrive dans la petite ville de Flagstone avec l'intention de commencer une nouvelle vie.",
+    "en": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+    "de": "Während die Eisenbahnbauer auf ihrem Weg zum Meer unaufhaltsam durch die Wüste Arizonas marschieren, kommt Jill in der kleinen Stadt Flagstone an, um ein neues Leben zu beginnen.",
+    "it": "Mentre i costruttori della ferrovia marciano inarrestabilmente attraverso il deserto dell'Arizona sulla loro strada verso il mare, Jill arriva nella piccola città di Flagstone intenzionata a iniziare una nuova vita.",
+    "es": "Mientras los constructores del ferrocarril avanzan imparables por el desierto de Arizona en su camino hacia el mar, Jill llega al pequeño pueblo de Flagstone con la intención de empezar una nueva vida.",
+    "sv": "Frank är en hänsynslös psykopat och kallblodig mördare utan samvete. Han har dödat hela mrs McBains familj. The Man är en ensamvarg som aldrig kommer att glömma hur hans bror torterades. Cheyenne är mannen som oskyldigt anklagades för mordet på mrs McBains familj. Tillsammans slår de sig samman för att sätta stopp för Frank en gång för alla."
+   },
+   "tagline": {
+    "fr": "Il y avait trois hommes dans sa vie. Un pour la prendre, un pour l'aimer et un pour la tuer.",
+    "en": "There were three men in her life. One to take her… one to love her —and one to kill her.",
+    "de": "Es gab drei Männer in ihrem Leben. Einen, um sie zu nehmen… einen, um sie zu lieben und einen, um sie zu töten.",
+    "it": "Il più spettacolare western di tutti i tempi",
+    "sv": "Det fanns tre män i hennes liv. En som skulle ta henne … en som skulle älska henne – och en som skulle döda henne."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Western"
+    ],
+    "en": [
+     "Drama",
+     "Western"
+    ],
+    "de": [
+     "Drama",
+     "Western"
+    ],
+    "it": [
+     "Dramma",
+     "Western"
+    ],
+    "es": [
+     "Drama",
+     "Western"
+    ],
+    "sv": [
+     "Drama",
+     "Västern"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 5140,
+   "runtime": 166
   },
   {
    "id": 576,
@@ -269,7 +714,43 @@
     "fr": "/9jiL119yvyiZSwHQLxZF70LUY7L.png",
     "en": "/bnAUv1S7iagjnfDYcC1OKTGmEPO.png",
     "it": "/5OavZmdUFRSzspme0O3yWRKBNBd.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1914, Pike Bishop et sa bande entrent dans San Rafael, une petite ville du Texas, déguisés en cavaliers de l'US Cavalry. Ensemble, ils se dirigent vers la gare pour y dérober la paie des employés du chemin de fer. Ils ignorent que Thornton, autrefois leur complice, aujourd'hui leur pire ennemi, les y attend, chargé par la direction des chemins de fer de leur tendre une embuscade. L'affaire tourne à la fusillade. Des dizaines d'innocents y laissent la vie. Pike, qui a perdu quelques hommes dans l'affaire, n'est pas satisfait. Il accepte l'offre d'un général mexicain, Mapache, qui lui demande d'attaquer un train rempli d'or et de munitions.",
+    "en": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+    "de": "Texas im Jahre 1914: Pike Bishop und sein aus ehemaligen Soldaten rekrutierter Banditentrupp befinden sich auf der Flucht vor Bishops altem Kumpel Thornton und seinen Gesetzesmännern. Als die Bishop-Bande vor den Häschern nach Mexiko ausweicht, macht man die Bekanntschaft des Revolutionsführers Mapache, der Bishop einen lukrativen Deal vorschlägt: Die Outlaws sollen gegen reichen Lohn einen schwerbewachten Waffentransport überfallen. Doch Mapache treibt ein doppeltes Spiel und denkt nicht ans Bezahlen.",
+    "it": "Nel 1914, durante la rivoluzione messicana guidata da Pancho Villa, un gruppo di fuorilegge subisce un'imboscata durante una rapina in banca tesa loro da alcuni cacciatori di taglie. Qualcuno resterà ucciso, mentre gli altri saranno costretti a scappare. Il gruppo di banditi si ripromette quindi di fare un ultimo colpo prima di abbandonare questa vita, accettando l'incarico di rubare armi alle reclute dell'Unione per rivenderle poi alle armate regolari messicane che le useranno contro i ribelli. Un po' alla volta gli uomini iniziano però ad affezionarsi alla causa messicana e l'uccisione di Angel ad opera dei regolari messicani farà scattare in loro la voglia di vendicarsi.",
+    "es": "Un grupo de veteranos atracadores de bancos, desarraigados ladrones que viven al margen de la ley y que actúan en la frontera entre los Estados Unidos y México, se ven acorralados por unos cazadores de recompensas y el ejército mexicano.",
+    "sv": "Ett gäng laglösa och deras vilda framfart i Mexico och Texas i vilda västern-erans slutskede. De jagas av amerikanska prisjägare som släppts fria enbart för detta jobb, och hamnar i ett eget krig i Mexiko."
+   },
+   "tagline": {
+    "fr": "Des hommes inchangés dans un pays en mutation",
+    "en": "Unchanged men in a changing land",
+    "es": "Llegaron demasiado tarde y se quedaron demasiado tiempo."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 1407,
+   "runtime": 145
   },
   {
    "id": 642,
@@ -291,7 +772,56 @@
     "de": "/pIGa77ou1wk502y93J1eEod66Gb.png",
     "it": "/19xP1llUG2wwNEQqNFup5S62AiY.png",
     "es": "/zqFEuwiNMPuEaDQgiDveDqbraQ3.png"
-   }
+   },
+   "overview": {
+    "fr": "Au début du XXème siècle, Butch Cassidy et son ami Sundance Kid pillent les trains et les banques. Les deux malfrats élaborent un plan ingénieux qui leur permet de dévaliser deux fois le même convoi, mais les autorités sont sur leur piste. Le Kid retrouve son amie, Etta Place, une jeune institutrice, et Butch Cassidy improvise avec elle un brillant numéro à bicyclette. La seconde attaque de l'Union Pacific oblige les deux complices et Etta à abandonner leurs amis et à fuir en Bolivie. Là, ils poursuivent leurs exploits criminels et ce, malgré la défection de la jeune femme, effrayée par la tournure que prennent les événements.",
+    "en": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+    "de": "Um die Jahrhundertwende planen die beiden berühmt-berüchtigten Desperados Butch Cassidy  und Sundance Kid  den Zug der Union Pacific gleich zweimal zu überfallen: nämlich auf der Hin- und auf der Rückfahrt. Doch diese Dreistigkeit lässt sich die Regierung nicht gefallen: Von einer Elitetruppe werden die beiden bis zur Erschöpfung gejagt",
+    "it": "Butch e Sundance sono due rapinatori che dopo ogni colpo, si rifugiano da una maestra innamorata di Sundance e corteggiata da Butch. Ma un giorno la Union Pacific, bersaglio di una loro rapina assolda un gruppo di guardie private ed allora i due rapinatori sono costretti a cambiare aria...",
+    "es": "Un grupo de jóvenes pistoleros se dedica a asaltar los bancos del estado de Wyoming y el tren-correo de la Union Pacific. El jefe de la banda es el carismático Butch Cassidy, y Sundance Kid es su inseparable compañero. Un día, después de un atraco, el grupo se disuelve. Será entonces cuando Butch, Sundance y una joven maestra de Denver formen un trío de románticos forajidos que, huyendo de la ley, llegan hasta Bolivia.",
+    "sv": "En film om de legendariska bankrånarna Butch Cassidy och Sundance Kid, och deras flykt undan rättvisan som tar dem ända till Bolivia."
+   },
+   "tagline": {
+    "fr": "Juste pour le plaisir !",
+    "en": "Not that it matters, but most of it is true.",
+    "it": "Non che importi, ma è per lo piú una storia vera.",
+    "es": "No es que importe, pero la mayor parte es verdad."
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Crime",
+     "Drame"
+    ],
+    "en": [
+     "Western",
+     "Crime",
+     "Drama"
+    ],
+    "de": [
+     "Western",
+     "Krimi",
+     "Drama"
+    ],
+    "it": [
+     "Western",
+     "Crime",
+     "Dramma"
+    ],
+    "es": [
+     "Western",
+     "Crimen",
+     "Drama"
+    ],
+    "sv": [
+     "Västern",
+     "Kriminal",
+     "Drama"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 2596,
+   "runtime": 110
   },
   {
    "id": 9394,
@@ -313,7 +843,55 @@
     "de": "/idsvUFjUZ4QGvAXH5drooGCh0wA.png",
     "it": "/zp7RvPzLXGtRumeIBtAGd8I1pFy.png",
     "es": "/usumcnPeEKElnWlKGpdEa790RZb.png"
-   }
+   },
+   "overview": {
+    "fr": "Trinita et Bambino sont deux demi-frères aux physiques et caractères diamétralement opposés. Ensemble, ils tentent de repousser les assauts de bandits mexicains venus attaquer une colonie de mormons.",
+    "en": "The simple story has the pair coming to the rescue of peace-loving Mormons when land-hungry Major Harriman sends his bullies to harass them into giving up their fertile valley. Trinity and Bambino manage to save the Mormons and send the bad guys packing with slapstick humor instead of excessive violence, saving the day.",
+    "de": "Niemand ist schneller mit dem Colt als der müde Joe, die rechte Hand des Teufels. Nur sein Pferde stehlender Bruder “der Kleine”, die berüchtigte linke Hand des Teufels, kann ihm das Wasser reichen. Doch der hat sich, nachdem ihm der Zufall einen Sheriffstern in die Hände gespielt hat, zur Abwechslung mal auf die Seite des Gesetzes geschlagen und lässt sich in einem kleinen Städtchen sein Amt versüßen. In diese Idylle verschlägt es auch den müden Joe, und nachdem die beiden Raufbolde einige kleine Familienstreitigkeiten handfest bereinigt haben, legen sie gemeinsam einem land- und geldgierigen Major das Handwerk.",
+    "it": "Trinità, un pistolero pigro e indolente giunge in un villaggio dove ha la sorpresa di trovare suo fratello, nelle insolite vesti di sceriffo. In realtà costui, che è un ladro di bestiame, ha accettato l'incarico per poter mettere a segno impunemente un furto ai danni di un facoltoso proprietario di cavalli. Ma, i due fratelli si troveranno a dover difendere la comunità mormona dalla prepotenza di Harrison e dei suoi uomini.",
+    "es": "Después de atravesar medio desierto, Trinidad, un tipo muy diestro con el revólver, descubre que su hermano mayor, otro granuja como él, es ahora el sheriff de un pequeño pueblo. Como no tiene nada urgente que hacer, decide quedarse a comer y descansar por algún tiempo.",
+    "sv": "Han har en käft lika väloljad som hans revolver. Han har ett rykte lika smutsigt som kläderna han rider i. Han säger att han är en fredens man - men vem vågar tro honom? Hans namn är Trinity - Djävulens högra hand. I stan träffar han sin ohängde bror Bambino och de kommer i bråk med den skurkaktige Majoren som försöker ta över stan men Trinity och Bambino möter det med det enda språk som bovar förstår - kulor och storsmockor. Trinity - Djävulens högra hand är den roligaste, skjutgalnaste och smockfullaste vilda västern som censuren någonsin vågat släppa!"
+   },
+   "tagline": {
+    "en": "Look out! Here comes Trinity...",
+    "it": "Trinità... la mano destra del Diavolo",
+    "es": "¡Ten cuidado! Por ahí viene Trinidad."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Comédie",
+     "Western"
+    ],
+    "en": [
+     "Action",
+     "Comedy",
+     "Western"
+    ],
+    "de": [
+     "Action",
+     "Komödie",
+     "Western"
+    ],
+    "it": [
+     "Azione",
+     "Commedia",
+     "Western"
+    ],
+    "es": [
+     "Acción",
+     "Comedia",
+     "Western"
+    ],
+    "sv": [
+     "Action",
+     "Komedi",
+     "Västern"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 1531,
+   "runtime": 109
   },
   {
    "id": 11901,
@@ -335,7 +913,55 @@
     "de": "/ver0WU93ZFsj2rYkxxiXGrpOlaL.png",
     "it": "/7Sx06gQEWU5REhsbD6iWD7VWhjP.png",
     "es": "/pnNqIYoed11a7q8gIsgCJNU3iev.png"
-   }
+   },
+   "overview": {
+    "fr": "Un étranger, tout de noir vêtu, arrive dans une petite ville frontalière du sud-ouest américain. Trois jeunes cowboys le provoquent. Il les abat tous les trois. Les habitants lui demandent alors de les sauver de l'attaque de trois bandits qui ont juré la destruction de la communauté. Il accepte mais à des conditions qui vont bouleverser le conformisme de la bourgade...",
+    "en": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+    "de": "Ein geheimnisvoller Fremder reitet aus der Wüste kommend in eine kleine Westernstadt und tötet drei Revolvermänner, die die Stadt terrorisiert haben. Trotzdem hat fast jeder in der Stadt Angst vor dem Fremden, der sich entscheidet auf unbestimmte Zeit zu bleiben. Die Bewohner fordern ihn auf zu gehen, da sie die Rückkehr und die Rache der gesamten Bande fürchten, doch der Fremde hat sowohl mit der Stadt als auch mit der Bande noch eine Rechnung offen...",
+    "it": "Giunto in un villaggio del West, un misterioso straniero senza nome viene scelto dagli abitanti per difenderli da un gruppo di criminali senza scrupoli, che stanno seminando terrore e morte nel villaggio.",
+    "es": "En 1870 un Forastero pasa a caballo ante la tumba de un antiguo Sheriff, Jim Duncan, en la ciudad fronteriza de Lago en el Sudoeste de Estados Unidos. Los propietarios de la compañía minera de Lago, Dave Drake y Morgan Allen obtienen el apoyo de los vecinos de la pequeña ciudad para contratar al Forastero. Debe proteger a la comunidad contra tres pistoleros, cuya llegada se hace inminente al haber sido liberados tras cumplir condena por acusaciones falsas de la compañía minera Drake-Allen. El Forastero acepta el contrato a condición de llevarlo a cabo con los tres forajidos y, entre otras cosas, pide que pinten el pueblo entero de color rojo vivo y que le cambien el nombre y pasa a llamarse \"Infierno\".",
+    "sv": "En främling rider ut från den heta öknen in till en liten stad i vilda västern. Människorna i staden är rädda för honom och tre revolvermän försöker mörda honom. Samtidigt kommer ett gäng till staden för att hämnas..."
+   },
+   "tagline": {
+    "fr": "Ils ne connaissaient pas son visage. Ils ne connaissaient pas son nom . Mais jamais ils n'oublieront le jour où il a débarqué en ville.",
+    "en": "They'd never forget the day he drifted into town.",
+    "es": "No conocían su rostro, no sabían su nombre. Pero nunca olvidaría el día en que puso la ciudad a la deriva."
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Drame",
+     "Mystère"
+    ],
+    "en": [
+     "Western",
+     "Drama",
+     "Mystery"
+    ],
+    "de": [
+     "Western",
+     "Drama",
+     "Mystery"
+    ],
+    "it": [
+     "Western",
+     "Dramma",
+     "Mistero"
+    ],
+    "es": [
+     "Western",
+     "Drama",
+     "Misterio"
+    ],
+    "sv": [
+     "Västern",
+     "Drama",
+     "Mystik"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 1421,
+   "runtime": 105
   },
   {
    "id": 11072,
@@ -355,7 +981,49 @@
     "en": "/fRQvjlEs8bcSx5d9W9lr0aI7IY8.png",
     "de": "/rqtSjt9e0HOuFGu7o2eB3a5Q5PE.png",
     "it": "/va2yXpkAvSHmlw3YOa5HemYzmEt.png"
-   }
+   },
+   "overview": {
+    "fr": "Un cheminot noir qui, en devenant shérif de Rock Ridge, fait œuvre de pionnier en voyant la ville qu'il aime menacée par la perspective d'une nouvelle ligne de chemin de fer. Bien que les habitants ne lui prêtent guère leur confiance, il s'emploie à les séduire en leur présentant son plan et en travaillant avec eux pour sauver leur maison d'un gang qui a l'intention de les rayer de la carte. Bart et son ami flingueur Jim, deviennent leur meilleur espoir en affrontant un groupe composé de membres du KKK, de motards, de soldats nazis, et même de méthodistes.",
+    "en": "Crafty railroad worker Bart becomes the first Black sheriff of Rock Ridge, a frontier town about to be destroyed in order to make way for a new railroad. Initially, the citizens of Rock Ridge harbor a racial bias toward their new protector. However, they warm to him after realizing that Bart and his perpetually drunk gunfighter friend Jim are their only defense against a wave of thugs sent to rid the town of its population.",
+    "de": "Eine Stadt, in der jeder den Namen Johnson zu tragen scheint, ist der Eisenbahn im Weg. Um sich das Land zu sichern, schickt Hedley Lemar seine Schergen. Sie sollen die Stadt unbewohnbar machen. Als der Sheriff getötet wird, verlangen die Bürger nach einem neuen Gesetzeshüter. Hedley Lemar überzeugt den Gouverneur, ausgerechnet in diesem Städtchen den ersten schwarzen Sheriff des Wilden Westens einzusetzen. Doch der erweist sich als widerspenstiger als erwartet.",
+    "it": "Gli abitanti di Rock Ridges sono vessati da una coppia di arroganti amministratori: il giudice Hedley Lamarr e l'inetto e corrotto governatore William De Petomane. Il giudice, per speculare su alcuni terreni, non esita a modificare il tracciato della ferrovia. Ai soprusi però si oppone il nero Bart, il nuovo sceriffo, che con il suo inguaribile e contagioso ottimismo salva il paese.",
+    "es": "El avaricioso gobernador Lepetomane y su malvado ayudante Hedley Lamarr quieren que los habitantes de Rock Ridge abandonen la ciudad, para vender los terrenos a una compañía de ferrocarril. Para facilitar sus maquiavélicos planes, nombran sheriff a Bart, un negro condenado a la horca, para que fomente el desorden y la anarquía en la ciudad.",
+    "sv": "Järnvägen som är under uppbyggnad planeras att gå rakt igenom den sömniga lilla staden Rock Ridge, vilket innebär att marken kommer att bli värd en förmögenhet. En förmögenhet som den osympatiske Hedley Lamarr vill komma åt. Men hur ska man lyckas bli av med de som bor där? Jo, man skapar kaos i den lilla lugna staden genom att skicka in det värsta gäng man kan tänka sig och tillsätter en ny sheriff som man tror kommer försvinna inom 24 timmar. Men, allt blir inte som man tänkt sig..."
+   },
+   "tagline": {
+    "en": "...or never give a saga an even break!",
+    "it": "Non dare mai una pausa a una saga!",
+    "es": "Un Film de Mel Brooks"
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Comédie"
+    ],
+    "en": [
+     "Western",
+     "Comedy"
+    ],
+    "de": [
+     "Western",
+     "Komödie"
+    ],
+    "it": [
+     "Western",
+     "Commedia"
+    ],
+    "es": [
+     "Western",
+     "Comedia"
+    ],
+    "sv": [
+     "Västern",
+     "Komedi"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 2213,
+   "runtime": 93
   },
   {
    "id": 10747,
@@ -377,7 +1045,43 @@
     "de": "/feVGTJtQkSXHeaJR0eUb7TKW3lN.png",
     "it": "/5t782OtRH57Lvasc7vmTggtPvhN.png",
     "es": "/ttzgVaYGkfwmlphldsXBqlQLrZY.png"
-   }
+   },
+   "overview": {
+    "fr": "Durant la guerre de Sécession, dans le Missouri, la ferme de Josey Wales est brûlée par les « Red Legs », une brigade particulièrement violente de l'armée nordiste, commandée par le capitaine Terrill. La femme et le fils de Josey Wales périssent dans l'affrontement. Laissé pour mort, le fermier survit à ses blessures. Après avoir enterré les siens, il rejoint les rangs sudistes pour assouvir sa vengeance et combat sous les ordres de Fletcher, surnommé « Bloody Bill Anderson ». La bande poursuit la lutte après la reddition du Sud. Fletcher finit par demander à ses hommes de se rendre. Tous acceptent sauf Josey Wales, devenu célèbre pour ses nombreux faits d'armes. Il massacre ses anciens amis, coupables de fléchissement, avant de partir vers l'Ouest...",
+    "en": "After avenging his family's brutal murder, Wales is pursued by a pack of soldiers. He prefers to travel alone, but ragtag outcasts are drawn to him - and Wales can't bring himself to leave them unprotected.",
+    "de": "Missouri Mitte des vorherigen Jahrhunderts: Der amerikanische Bürgerkrieg geht dem Ende zu. Am Rande dieser brutalen Auseinandersetzung fallen Guerillas unter Captain Terill über die friedliche Farm von Josey Wales her. Joseys Frau und sein Sohn werden brutal getötet, er selbst schwer verwundet, die Farm dem Erdboden gleichgemacht. Josey schwört Rache ...",
+    "it": "Il veterano sudista Josey Wells torna nella sua fattoria dopo la Guerra di Secessione con l'intento di fare una vita tranquilla , ma i nordisti non sono d'accordo...",
+    "es": "A punto de finalizar la Guerra de Secesión, un grupo de unionistas, liderados por el sádico capitán Terrill, asesina a la familia de un granjero llamado Joseph Wales. Movido por el odio y el deseo de venganza, se une a un grupo de rebeldes. Poco después, finaliza la contienda, el ejército de la Unión ofrece la amnistía a todas las guerrillas y sus compañeros aceptan. La rabia y el dolor siguen vivos dentro de Wales, y no se rendirá tan fácilmente.",
+    "sv": "Clint Eastwood spelar en fridsam bonde som förvandlas till en hänsynslöse hämnare sedan hans familj massakrerats av nordstatssoldater."
+   },
+   "tagline": {
+    "fr": "...une armée d'un seul homme.",
+    "en": "...an army of one.",
+    "es": "...un ejército de uno."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 1370,
+   "runtime": 135
   },
   {
    "id": 8879,
@@ -399,7 +1103,50 @@
     "de": "/eYuZBkhMI8XGttCZ19xODF4u9lQ.png",
     "it": "/kOZmkzZ2B0NVGB1JjaIAdSQxdti.png",
     "es": "/5DSPP6yFNwlLWzTXdZyrQUy0Pfr.png"
-   }
+   },
+   "overview": {
+    "fr": "Les derniers chercheurs d'or indépendants de LaHood, bourgade minière de Californie, sont harcelés par la bande de Coy LaHood, fondateur de la ville qui veut s'approprier leur concession. Au moment où les mineurs pacifiques sont prêts à abandonner la lutte, surgit de la montagne un cavalier solitaire tout de noir vêtu. Nul ne connaît son nom, son passé, ses origines. Hull Barret, opposé depuis longtemps à Coy LaHood, l'accueille sous son toit. L'homme ne va pas tarder à prouver ses qualités de tireur.",
+    "en": "A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.",
+    "de": "Ein namenloser Prediger hilft einer Gruppe von friedfertigen Goldschürfern, die von einem brutalen Minenunternehmer erpresst werden. Regisseur und Hauptdarsteller Clint Eastwood schlüpft in diesem Spätwestern aus dem Jahr 1985 erneut in seine Paraderolle als wortkarger, geheimnisumwobener Revolverheld.",
+    "it": "Il ricco Roy Lahood cerca di convincere un gruppo di cercatori d'oro a vendergli i diritti di sfruttamento delle terre , ma quando sembra esserci riuscito, compare un misterioso Predicatore.",
+    "es": "Un grupo de colonos buscadores de oro se establece en un lugar de California, pero sufren el acoso de los hombres de Lahood, el propietario del resto de las explotaciones mineras. Pero un día al poblado llega un misterioso y frío predicador que se pone de parte de los colonos, y comienza a enfrentarse al temido cacique local.",
+    "sv": "Stjärnan och regissören Clint Eastwoods hantverk resulterar i en spännande film i samma rafflande tradition som Shane och High Noon. När bossen för ett stort gruvföretag, Coy LaHood (Richard Dysart), börjar sprida terror bland de små självständiga guldvaskarna och driva bort dem från trakten, rider en främling vid namn Preacher in i lägret och blir deras hämnare."
+   },
+   "tagline": {
+    "fr": "…et l'enfer le suivait.",
+    "en": "...and hell followed with him.",
+    "it": "...e l'inferno lo seguì.",
+    "es": "... y el infierno venía tras él."
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Drame"
+    ],
+    "en": [
+     "Western",
+     "Drama"
+    ],
+    "de": [
+     "Western",
+     "Drama"
+    ],
+    "it": [
+     "Western",
+     "Dramma"
+    ],
+    "es": [
+     "Western",
+     "Drama"
+    ],
+    "sv": [
+     "Västern",
+     "Drama"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 1277,
+   "runtime": 111
   },
   {
    "id": 581,
@@ -421,7 +1168,56 @@
     "de": "/r9o8oRE77SNojUqszsGXzlveSTu.png",
     "it": "/xpf02XGud0LYmiK8frYCyRe9uxb.png",
     "es": "/viT6FO1cswwu1LYqbqNN1kdtJeP.png"
-   }
+   },
+   "overview": {
+    "fr": "Durant la guerre de Sécession, le lieutenant John Dunbar, envoyé à un poste de reconnaissance dans les plaines du Dakota, rencontre le peuple sioux. Il se lie d'amitié avec la population indienne, au point d'intégrer une tribu et de s'éprendre de l'une des leurs.",
+    "en": "Wounded Civil War soldier John Dunbar tries to commit suicide—and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+    "de": "John J. Dunbar ist ein Lieutenant der Nordstaaten-Armee, dem nach einer schweren Kriegsverletzung das Bein amputiert werden soll. Dunbar erträgt diese Vorstellung nicht und will sich umbringen. Auf einem Pferd reitet er vor den Feindeslinien auf und ab, doch statt zu sterben, wird er zum Helden: Die Kugeln der Feinde verfehlen ihn wie durch ein Wunder. Dadurch werden die Feinde abgelenkt und am Ende steht ein glorreicher Sieg für die Nordstaaten. Dunbar darf sein Bein behalten und das Pferd, welches ihn so sicher vor dem Feindesfeuer bewahrt hat. Dunbar wird auf eigenen Wunsch an den westlichsten Außenposten versetzt, den es gibt. Der Posten ist verlassen, die dort stationierten Truppen wurden im Kampf mit den Indianern getötet oder sind geflohen. Alleine bringt er den Außenposten wieder auf Vordermann und genießt die Zeit in der freien Wildnis. An seiner Seite sind nur sein treues Pferd und ein einsamer Wolf, der ihn aus der Ferne beobachtet und jeden Tag ein Stückchen näher kommt …",
+    "it": "Joh Dunbar è considerato un eroe dopo che accidentalmente conduce le truppe dell'unione alla vittoria durante la Guerra Civile. Richiede una posizione sulla frontiera dell'ovest, ma la trova deserta. Presto, però, scopre di non essere solo ed incontra un lupo che chiama \"due calzini\" e una tribù pellerossa. Presto, Dunbar stringe amicizia con la tribù e scopre una donna bianca cresciuta dalla tribù di nativi...",
+    "es": "En torno a 1860, en vísperas de la Guerra de Secesión y a punto de terminar el periodo de colonización del Oeste (1785-1890), el teniente John J. Dunbar se dirige a un lejano puesto fronterizo que ha sido abandonado por los soldados. Su soledad lo impulsa a entrar en contacto con los indios sioux y, gracias a ello, conoce a 'En pie con el puño en alto', una mujer blanca que fue adoptada por la tribu cuando era niña. Poco a poco, entre Dunbar y los sioux se establece una relación de respeto y admiración mutuos.",
+    "sv": "Efter ett stort fältslag under det amerikanska inbördeskriget 1863, förflyttas den hjältemodiga löjtnanten John Dunbar på egen begäran till en avlägsen utpost i Dakota som gränsar till indianernas land. Fortet visar sig vara övergivet, så han beslutar sig för att stanna och invänta sina trupper. Men han upptäcker snart att han inte är ensam.Efter ett första våldsamt möte med den lokala siouxstammen börjar han allt mer accepteras av indianerna, som ger honom namnet \"Dansar med vargar\". Men den växande vänskapen innebär samtidigt att Dunbar inom en snar framtid kommer att tvingas välja sida."
+   },
+   "tagline": {
+    "fr": "Le lieutenant John Dunbar est sur ​​le point de découvrir la frontière… avec lui-même.",
+    "en": "Inside everyone is a frontier waiting to be discovered.",
+    "de": "In jedem steckt eine Grenze, die darauf wartet, entdeckt zu werden.",
+    "es": "En 1864, un hombre fue en busca de América… y se encontró a sí mismo."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Drame",
+     "Western"
+    ],
+    "en": [
+     "Adventure",
+     "Drama",
+     "Western"
+    ],
+    "de": [
+     "Abenteuer",
+     "Drama",
+     "Western"
+    ],
+    "it": [
+     "Avventura",
+     "Dramma",
+     "Western"
+    ],
+    "es": [
+     "Aventura",
+     "Drama",
+     "Western"
+    ],
+    "sv": [
+     "Äventyr",
+     "Drama",
+     "Västern"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 4917,
+   "runtime": 172
   },
   {
    "id": 33,
@@ -443,7 +1239,46 @@
     "de": "/5WrGu0m1cDmxNdpJI1wO3TwGZdT.png",
     "it": "/d3A7udxBiAN1jJs4hpABnJvUTqm.png",
     "es": "/zTTDcO243IfEgLzm3MRgBb1dgVO.png"
-   }
+   },
+   "overview": {
+    "fr": "Après avoir été un impitoyable tueur, toujours entre deux verres, Bill Munny a raccroché ses colts pour l'amour d'une femme aujourd’hui disparue. Il élève péniblement des cochons dans un enclos boueux, avec pour seuls compagnons ses deux jeunes enfants. Bill reçoit un jour la visite de Schofield Kid, un apprenti desperado qui veut devenir le partenaire de cette légende vivante. Le Kid lui propose de partager les mille dollars offerts par des prostituées de Big Whiskey, une bourgade lointaine, pour l'élimination des deux cow‐boys qui ont défiguré l'une d’entre elles. Munny finit par accepter la proposition et rend visite à son vieux complice, Ned Logan…",
+    "en": "William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+    "de": "William Munny ist ein ausgebrannter Revolverheld. Für ein paar Dollar verläßt er Farm und Kinder, um zwei Männer zu jagen, die einer Hure das Gesicht zerschnitten haben. Mit seinem alten Partner Ned und dem unerfahrenen Kid reitet Munny nach Big Whiskey, einem Prärienest, das Sheriff Little Bill Daggett mit harter Hand führt. Dies bekommen auch Munny, dessen Schießkünste inzwischen stark nachgelassen haben, und seine Kollegen bald zu spüren ...",
+    "it": "William Munny è un ex fuorilegge dal passato leggendario, ma da diversi anni ha deciso di dedicarsi alla famiglia e fare l'allevatore. Con la morte della moglie la situazione domestica si fa sempre più difficile, e per questo decide di accettare la proposta di un giovane pistolero: uccidere due cowboy che hanno sfregiato una prostituta e incassare la taglia.",
+    "es": "William Munny es un pistolero retirado, viudo y padre de familia, que tiene dificultades económicas para sacar adelante a su hijos. Su única salida es hacer un último trabajo. En compañía de un viejo colega y de un joven inexperto, Munny tendrá que matar a dos hombres que cortaron la cara a una prostituta.",
+    "sv": "Den före detta revolvermannen William Munny har inte hållit i ett vapen på 11 år. Då kommer en prisjägare med ett erbjudande som han inte kan motstå."
+   },
+   "tagline": {
+    "fr": "Certaines légendes ne seront jamais oubliées. Certains torts ne peuvent jamais être pardonnés.",
+    "en": "Some legends will never be forgotten. Some wrongs can never be forgiven.",
+    "de": "Manche Legenden werden nie vergessen. Manches Unrecht wird niemals vergeben.",
+    "it": "Certe leggende non saranno mai dimenticate. Certi torti non saranno mai perdonati.",
+    "es": "Algunas leyendas nunca serán olvidadas. Algunos errores nunca pueden ser perdonados.",
+    "sv": "Vissa legender kommer aldrig att glömmas. Vissa fel kan aldrig förlåtas."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 5223,
+   "runtime": 131
   },
   {
    "id": 11969,
@@ -462,7 +1297,51 @@
    "logo": {
     "fr": "/sjCKAhURlD8rY2eNsfAiT01LAQ.png",
     "en": "/zaSgOaMTVFMABcZOcUqmdstXYCi.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans la ville de Tombstone en Arizona, une véritable terreur règne sous l'égide d'une brochette de malfrats, d'assassins et de psychopathes. Quand l'ancien marshal de Dodge City, Wyatt Earp, vient y chercher une vie paisible, il se rend compte que ce ne sera pas une mince affaire. Avec son frère, Virgil, ils décident de prendre les choses en main en devenant shérifs.",
+    "en": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+    "de": "Man schreibt den 26. Oktober 1881. Es ist der Tag, der in dem kleinen Städtchen Tombstone drei Männern das Leben kostet und vier andere Männer zu Helden macht. Wyatt Earp, der Inbegriff der Gerechtigkeit, seine zwei Brüder Virgil und Morgan sowie deren Freund Doc Holliday treffen am O.K. Corral auf die Clanton- und McLaury-Brüder …",
+    "it": "Wyatt Earp, ex sceriffo di Dodge City, si è trasferito con i fratelli Virgil e Morgan a Tombstone dove spadroneggia una banda di fuorilegge denominata \"I Cowboys\". Ben presto si uniscono ai tre anche Doc Hollyday, un pistolero, e la sua donna, Kate. Quando i fuorilegge eliminano lo sceriffo, i fratelli Earp e Doc affrontano \"I Cowboys\" all'Ok Corral.",
+    "es": "En 1879 y tras la sangrienta Guerra Civil norteamericana, mucha gente emigró hacia el oeste del país en busca de prosperidad y fortuna. entre ellos, Wyatt Earp, un hombre de la ley que había abandonado la placa y la pistola para formar una familia, o John \"Doc\"Hollyday, un ex caballero del sur reconvertido en pistolero y jugador.",
+    "sv": "Staden heter Tombstone. Den legendariske lagmannen Wyatt Earp och hans bröder kommer dit för att dra sig tillbaka. Men staden är högkvarter för Amerikas första organiserade brottslingar, ledda av N.H.Clanton. Konflikten är ett faktum. Wyatt Earp blir vice sheriff i staden och drar sig inte för att ta i med hårdhandskarna mot Calnton och hans gäng. Efter åtskilliga bråk i staden är till slut den ödesdigra duellen vid O.K.Corral oundvilkig. En strid som historikerna betecknar som rena avrättningen. På ena sidan står Wyatt Earp, hans bröder och hans gode vän Doc Holliday. På den andra: bröderna Clanton och deras hejdukar. Den största duellen ansikte mot ansikte i västerns historia börjar..."
+   },
+   "tagline": {
+    "fr": "Que justice soit faite.",
+    "en": "Every town has a story. Tombstone has a legend.",
+    "de": "Das Gesetz sind wir.",
+    "it": "La giustizia sta arrivando",
+    "es": "Un Film de George P. Cosmatos"
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Action"
+    ],
+    "en": [
+     "Western",
+     "Action"
+    ],
+    "de": [
+     "Western",
+     "Action"
+    ],
+    "it": [
+     "Western",
+     "Azione"
+    ],
+    "es": [
+     "Western",
+     "Acción"
+    ],
+    "sv": [
+     "Västern",
+     "Action"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 2607,
+   "runtime": 130
   },
   {
    "id": 922,
@@ -481,7 +1360,56 @@
    "logo": {
     "en": "/iSgg8kNcytMWnVPyNkfcNNue0gh.png",
     "de": "/lAaNGupNQDsLMUdJ5ILjavzieAg.png"
-   }
+   },
+   "overview": {
+    "fr": "En voyageant vers les frontières de l'Ouest américain pour un nouvel emploi, le jeune comptable Bill Blake devient accidentellement un hors-la-loi. Il est recueilli par un Indien marginalisé par les siens parce que lettré, qui voyant à travers Bill son homonyme défunt, le poète William Blake, va le conduire à entreprendre un voyage initiatique.",
+    "en": "On the run after committing murder, an accountant encounters a strange Native American man who prepares him for his journey into the spiritual world.",
+    "de": "Amerika zur Zeit des Wilden Westens: Buchhalter Blake reist in das Städtchen Machine. Dort soll er in der Fabrik von John Dickinson eine neue Stelle antreten. Da er einen Monat zu spät eintrifft, ist sein Job weg. Und der Fabrikant wirft ihn eigenhändig auf die Straße. Die Blumenverkäuferin Thel nimmt Blake bei sich auf. Als ihr Ex-Liebhaber, Dickinsons Sohn, die beiden in flagranti erwischt, erschießt er Thel. Blake tötet den Angreifer und flieht. Der Vater schwört Rache und schickt drei Kopfgeldjäger hinter Blake her …",
+    "it": "Verso la fine dell'Ottocento, un giovane di nome William Blake intraprende un viaggio verso una piccola cittadina di frontiera in cerca di un lavoro. Ma le cose non vanno per il verso giusto. Dopo aver ucciso un uomo per legittima difesa è costretto a scappare, braccato da un gruppo di spietati cacciatori di taglie.",
+    "es": "William Blake decide abandonar su puesto de contable en Cleveland (Ohio) después de recibir una oferta de trabajo en Machine, una inhóspita ciudad industrial en el Oeste de los EEUU. Sin embargo, cuando llega, resulta que su puesto lo ocupa otra persona. Charlie Dickinson, el hijo del propietario de la empresa, mata a su mujer cuando la encuentra en la cama con Blake, quien a su vez liquida a Charlie. De este modo, un simple contable de Cleveland se convierte en un \"fugitivo\" perseguido por tres cazadores de recompensas.",
+    "sv": "William Blake blir genom en händelse laglös i Västerns utmarker. På sin resa genom vildmarken lämnar han ett spår av kroppar efter sig..."
+   },
+   "tagline": {
+    "fr": "Personne ne peut survivre en devenant une légende.",
+    "en": "It is preferable not to travel with a dead man.",
+    "de": "Es ist besser, nicht mit einem toten Mann zu reisen.",
+    "it": "È preferibile non viaggiare con un uomo morto."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Fantastique",
+     "Western"
+    ],
+    "en": [
+     "Drama",
+     "Fantasy",
+     "Western"
+    ],
+    "de": [
+     "Drama",
+     "Fantasy",
+     "Western"
+    ],
+    "it": [
+     "Dramma",
+     "Fantasy",
+     "Western"
+    ],
+    "es": [
+     "Drama",
+     "Fantasía",
+     "Western"
+    ],
+    "sv": [
+     "Drama",
+     "Fantasy",
+     "Västern"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 1829,
+   "runtime": 121
   },
   {
    "id": 2055,
@@ -501,7 +1429,45 @@
     "en": "/lyLFLJ3TdfnQPpyCIhRctNcDfe.png",
     "de": "/v9RwRVNzRMnjkOCzleTBR4uRQHP.png",
     "it": "/bU3oFRZfSgPBOMZFdErKIoKXaAA.png"
-   }
+   },
+   "overview": {
+    "fr": "Au cœur de l’Ouest sauvage, quatre hommes convoient du bétail. Pour Charley, Boss, Button et Mose, il est question de vivre libres et d’échapper à leur passé. Ils ne cherchent pas la violence, s’attachant à un code d’honneur, de loyauté et de justice. Mais leur arrivée à Harmonville, petite ville sous la coupe du tyrannique Baxter, va les forcer à passer à l’action.",
+    "en": "A former gunslinger is forced to take up arms again when he and his cattle crew are threatened by a corrupt lawman.",
+    "de": "Charley Waite und Boss Spearman sind die Letzten ihrer Art. Wo 1882 die Zäune der Zivilisation den Westen Amerikas noch nicht erreicht haben, treiben sie ihre Rinder über freies Weideland – unterstützt vom sanftmütigen Riesen Mose und dem jungen Mexikaner Button. Es ist ein hartes, aber von der Schönheit der Natur versöhntes, Leben. Bis zu dem Zeitpunkt, als sie das Reich eines Tyrannen streifen: Rancher Baxter, der das Örtchen Harmonville fest in seiner Hand hat, hasst die sogenannten „Freegrazer“ – wie die vier Cowboys, die vom Land leben, selbst aber keines besitzen. Und wider Willen sehen sich Waite und Spearman in einen gnadenlosen Kampf verstrickt, der über ihre Zukunft und die aller Bewohner von Harmonville entscheidet …",
+    "it": "Quattro mandriani nel West di fine ‘800 pascolano il loro bestiame sulle distese erbose nelle vicinanze di una cittadina. Il proprietario terriero della zona, che controlla con una strategia di terrore la popolazione del luogo, non accetta che degli stranieri siano presenti nei luoghi che possiede, e cerca sfidandoli corpo a corpo di eliminarli.",
+    "es": "Intentando huir de su pasado, Charley Waite, Boss Spearman \"Button\" y Mose Harrison conducen ganado por las grandes praderas. Sus ideales son la justicia y la lealtad y procuran por todos los medios evitar la violencia. Pero su visita a Harmonville, una ciudad fronteriza dominada por un poderoso y despótico ranchero a cuyo servicio trabaja el corrupto sheriff local, cambiará sus vidas y los obligará a utilizar las armas en una desigual batalla.",
+    "sv": "Boss och Charley driver boskap över de öppna vidderna och lever som “ freerangers”. Efter ett våldsamt regnoväder skickar de en medhjälpare till en närbelägen liten stad efter förnödenheter, men han kommer inte tillbaka. När de hittar honom har han blivit svårt misshandlad av lokala ranchägare. Det visar sig att den lilla staden styrs hårt och brutalt av en korrumperad sheriff och en tyrannisk och mäktig ranchägare som inte tolererar “freerangers”. Boss och Charley, som har ett förflutet som hårdföra revolvermän, tvingas ta till vapen för att försvara både sina liv och den livsstil de representerar."
+   },
+   "tagline": {
+    "fr": "Nulle part où aller, aucune raison de fuir.",
+    "en": "No place to run. No reason to hide.",
+    "de": "Kein Ort zum Fliehen. Kein Grund, sich zu verstecken.",
+    "it": "Nessun posto dove scappare. Nessun motivo per nascondersi.",
+    "es": "No hay lugar para correr. No hay razón para esconderse."
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 1287,
+   "runtime": 139
   },
   {
    "id": 5176,
@@ -523,7 +1489,44 @@
     "de": "/68XMS91SeAOZaDXtz6DNnXKb216.png",
     "it": "/1QhzvdEAEHnyNo9AisFT3T2jDAa.png",
     "es": "/rXohNmo6iK8LjTJCYxOYmnMVGeB.png"
-   }
+   },
+   "overview": {
+    "fr": "Revenu blessé de la guerre de Sécession, Dan Evans a établi sa famille dans un ranch. La sécheresse a ravagé ses terres, décimé son troupeau et miné la considération que lui portent sa femme et ses enfants, en particulier son aîné Will, âgé de 14 ans. A la suite d'une attaque de diligence, le célèbre bandit Ben Wade passe par la ville de Bisbee où il est arrêté avec le concours fortuit de Evans. Recherché pour ses hold-up et ses meurtres répétés, Wade doit être convoyé vers Contention, à trois jours de cheval, pour embarquer sur un train à destination de Yuma, où se trouve le tribunal fédéral. Contre une prime qui peut sauver son ranch, Dan Evans s'engage dans l'escorte qui doit accompagner le dangereux criminel. Il est bientôt rejoint par son fils Will, fasciné par l'aura du tueur.",
+    "en": "In Arizona in the late 1800s, infamous outlaw Ben Wade and his vicious gang of thieves and murderers have plagued the Southern Railroad. When Wade is captured, Civil War veteran Dan Evans, struggling to survive on his drought-plagued ranch, volunteers to deliver him alive to the \"3:10 to Yuma\", a train that will take the killer to trial.",
+    "de": "Der Farmer und Bürgerkriegsinvalide Dan Evans steht kurz vor dem endgültigen Scheitern: Sein Land leidet unter der Dürre, er ist hoch verschuldet und er sinkt beständig in der Achtung seiner Familie. Während er verzweifelt einen letzten Versuch unternimmt, die Tilgung seiner Schulden aufzuschieben, wird er Zeuge der Verhaftung des berüchtigten Banditen Ben Wade, der kurz zuvor mit seiner Bande einen Geldtransport der Eisenbahngesellschaft überfallen hat. Dieser soll nun zur Eisenbahnstation in das einige Tage entfernte Contention gebracht werden, von wo aus der Zug zum Gefängnis in Yuma fährt. Kurzentschlossen meldet sich Evans freiwillig als Begleiter, um mit dem Lohn seine Farm retten zu können. Gefahr droht dabei nicht nur von Wades Bande, die unter der Führung des unbarmherzigen Charlie Prince die Verfolgung der Gruppe aufnimmt. Auch Wade selbst, obgleich äußerlich harmlos und freundlich, bleibt eine tödliche Gefahr ...",
+    "it": "Dan Evans viene convinto ad accompagnare in gran segreto il fuorilegge Ben Wade, appena catturato, fino alla cittadina più vicina, in attesa del treno che li porterà al carcere di Yuma. Durante il viaggio il segreto della missione di Dan verrà alla luce...",
+    "es": "Remake del film de 1957 \"El Tren de las 3:10\", de Delmer Daves. Dan Evans es un típico ranchero de un pueblo de Arizona y veterano de la Guerra de Secesión que, para aliviar sus penurias económicas, decide escoltar al peligroso forajido Ben Wade mientras llega el tren que tiene que llevarlo ante la justicia. Pero no todo saldrá bien y la violencia no tardará en aparecer: durante ese tiempo se inicia una dramática lucha psicológica entre ambos hombres mientras las compañeros del forajido intentan liberarle.",
+    "sv": "I Arizona i slutet av 1800-talet har den ökände och laglöse Ben Wade tillsammans med sitt hårda gäng av tjuvar och mördare förpestat livet för Southern Railroad. När Wade tillfångatas erbjuder sig en krigsveteran från inbördeskriget, Dan Evans, att överlämna honom levande till “3:10 to Yuma”, ett tåg som ska föra mördaren till sin rättegång. På vägen börjar Evans och Wade, båda från olika världar, vinna varandras respekt, men med Wades gäng efter – och faror bakom varje vägkrök – blir uppdraget snart en våldsam resa mot varje mans öde."
+   },
+   "tagline": {
+    "fr": "Le temps attend un homme.",
+    "en": "Time waits for one man.",
+    "de": "Die Zeit läuft gegen einen Mann.",
+    "es": "El tiempo corre en contra de un hombre"
+   },
+   "genres": {
+    "fr": [
+     "Western"
+    ],
+    "en": [
+     "Western"
+    ],
+    "de": [
+     "Western"
+    ],
+    "it": [
+     "Western"
+    ],
+    "es": [
+     "Western"
+    ],
+    "sv": [
+     "Västern"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 4268,
+   "runtime": 122
   },
   {
    "id": 4512,
@@ -544,7 +1547,50 @@
     "de": "/d3OgFydQDREjHHwIiYR4G9gneR2.png",
     "it": "/4SrtXeD6rHXzelLM1iiKWcDN6od.png",
     "es": "/d9YS5x8hacJoXt1eS1aFWZCqdNH.png"
-   }
+   },
+   "overview": {
+    "fr": "Nous sommes en 1881. Jesse James a trente-quatre ans et prépare sa prochaine attaque de banque. Il sait que ses ennemis sont prêts à tout pour collecter la prime liée à sa capture et se couvrir de gloire. Mais le vrai danger ne viendrait-il pas de l'homme à qui Jesse fait le plus confiance ?",
+    "en": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+    "de": "Die USA im Jahre 1881: Der 34-jährige Jesse James ist der berühmteste und meist gefürchtete Gangster des Landes und führt mit seinem älteren Bruder Frank die wohl bekannteste Gangsterbande des Landes an, die für unzählige Zug-, Postkutschen- und Banküberfälle verantwortlich ist. Zwar wird James von einem Großteil der Bevölkerung als eine Art Robin Hood verehrt und von der Presse bewundert, aber ebenso gnadenlos wird er von der Staatsmacht verfolgt und bringt seinen Bandenmitgliedern nur noch Misstrauen gegenüber, seitdem die meisten Angehörigen der legendären James-Younger-Bande entweder Tod oder inhaftiert sind. Als sich sein Bruder aus dem gefährlichen Geschäft zurückzieht und sich zur Ruhe setzt, kann Jesse James nur noch den Brüdern Charley und Robert Ford vertrauen, die vor kurzem zu den Gangstern gestoßen sind. Dies stellt sich als fataler Fehler heraus ...",
+    "it": "Jesse James è stato uno dei primi veri eroi del paese. Sul più famoso fuorilegge d'America sono stati scritti innumerevoli libri e sono state raccontate storie infinite, tutti pieni di fantasia ed affascinanti, centrati sulla sua immensa fama e sulle sue azioni avventurose e violente, la maggior parte dei quali riporta solo accidentalmente qualche parte di verità. Per coloro che aveva derubato e terrorizzato e per le famiglie di coloro che dichiaratamente aveva ucciso, poteva sembrare un semplice criminale, ma nei sensazionali articoli di giornale e nei romanzetti melodrammatici che riportavano le gesta della James Gang nel periodo intorno al 1870, Jesse è stato rappresentato come oggetto di stima e ammirazione.",
+    "es": "Narra la historia del más famoso forajido del oeste americano, el carismático e impredecible pistolero Jesse James, un bandolero sudista hijo de un predicador. Mientras Jesse planea su próximo gran robo, declara la guerra a sus enemigos, quienes intentan hacerse con la recompensa -y la gloria- que implicaría su captura. Pero la amenaza más importante a su vida puede que venga de aquellos en quienes más confia.",
+    "sv": "I 1880-talets Amerika vet alla vem Jesse James är. Han är nationens mest ökände brottsling och efterlyst i tio stater. Han är också landets störste hjälte, firad av folket som en Robin Hood. Men vem är Robert Ford? Ingen känner till honom. Inte än. Den ambitiöse 19-åringen ämnar nämligen ändra på det. Han tänker göra sig till vän med Jesse och rida med hans gäng. Och om det inte gör honom berömd är han inte rädd att döda för att nå sitt mål. Deras vänskap förbyts till rivalitet och jakten på kändisskap blir till en besatthet."
+   },
+   "tagline": {
+    "fr": "Découvrez l'histoire de la plus grande légende de l'Ouest.",
+    "en": "Beyond the myth lies America's greatest betrayal",
+    "it": "Al di là del mito c'è il più grande tradimento dell'America",
+    "es": "Más allá del mito yace la mayor traición de Estados Unidos."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Western"
+    ],
+    "en": [
+     "Drama",
+     "Western"
+    ],
+    "de": [
+     "Drama",
+     "Western"
+    ],
+    "it": [
+     "Dramma",
+     "Western"
+    ],
+    "es": [
+     "Drama",
+     "Western"
+    ],
+    "sv": [
+     "Drama",
+     "Västern"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 2920,
+   "runtime": 160
   },
   {
    "id": 44264,
@@ -564,7 +1610,57 @@
     "en": "/cSuegYH1wOfvLkurN3Kh4Q3kkW3.png",
     "it": "/bLxoAg5vavvRxpBjnfrx7OZeUOL.png",
     "es": "/nrBIbIyGnNrJSPkxCmV2dhYqW6U.png"
-   }
+   },
+   "overview": {
+    "fr": "1870, juste après la guerre de Sécession, sur l'ultime frontière de l'Ouest américain. Seul au monde, Mattie Ross, 14 ans, réclame justice pour la mort de son père, abattu de sang-froid pour deux pièces d'or par le lâche Tom Chaney. L'assassin s'est réfugié en territoire indien. Pour le retrouver et le faire pendre, Mattie engage Rooster Cogburn, un U.S. Marshal alcoolique. Mais Chaney est déjà recherché par LaBoeuf, un Texas Ranger qui veut le capturer contre une belle récompense. Ayant la même cible, les voilà rivaux dans la traque. Tenace et obstiné, chacun des trois protagonistes possède sa propre motivation et n'obéit qu'à son code d'honneur. Ce trio improbable chevauche désormais vers ce qui fait l'étoffe des légendes: la brutalité et la ruse, le courage et les désillusions, la persévérance et l'amour…",
+    "en": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find—a man with 'true grit'—Reuben J. 'Rooster' Cogburn.",
+    "de": "Die 14-jährige Mattie Ross ist fest entschlossen, den kaltblütigen Mord an ihrem Vater nicht ungesühnt zu lassen. Da die Behörden ihr nicht helfen, will sie den feigen Mörder Tom Chaney mit eigenen Mitteln seiner gerechten Strafe zuführen. Für 100 Dollar engagiert sie den trunksüchtigen und raubeinigen U.S. Marshall Rooster Cogburn, der es mit dem Gesetz selbst alles andere als genau nimmt. Widerwillig lässt er sich von Mattie überreden, sie auf die Jagd nach Chaney mitzunehmen – quer durch die gesetzlosen Weiten der Prärie. Doch sie sind nicht allein, denn auch Texas Ranger LaBoeuf will den Flüchtigen stellen, um eine Kopfprämie zu kassieren, die auf Chaney wegen eines weiteren Mordes ausgesetzt ist. Unfreiwillig ziehen sie zu dritt weiter und schon bald kommt Mattie dem Mörder ihres Vaters gefährlich nah …",
+    "it": "Mattie Ross è una quattordicenne fermamente intenzionata a portare dinanzi al giudice, perché venga condannato alla pena capitale, Tom Chaney l'uomo che ha brutalmente assassinato suo padre. Per far ciò ingaggia lo sceriffo Rooster Cogburn non più giovane e alcolizzato ma ritenuto da tutti un uomo duro. Cogburn non vuole la ragazzina tra i piedi ma lei gli si impone. Così come, in un certo qual modo, gli verrà imposta la presenza del ranger texano LaBoeuf. I tre si mettono sulle tracce di Chaney che, nel frattempo, si è unito a una pericolosa banda.",
+    "es": "Después del asesinato de su padre por Tom Chaney, Mattie Ross, una chica de catorce años firmemente decidida a hacer justicia, contrata los servicios del veterano sheriff Rooster Cogburn, un borracho de gatillo fácil. Ambos perseguirán al criminal hasta territorio indio e intentarán atraparlo antes de que lo haga LaBoeuf, un ranger de Texas, cuya misión es llevarlo consigo para que sea juzgado por el asesinato de otro hombre... Nueva adaptación de la novela de Charles Portis, que ya había llevado al cine Henry Hathaway (True Grit, 1969) con John Wayne como protagonista",
+    "sv": "Fjortonåriga Mattie Ross far har blivit skjuten till döds av ynkryggen Tom Chaney och hon är fast besluten att se till att rättvisa skipas och att mördaren får vad han förtjänar. Hon tar hjälp av en skjutglad, försupen U.S. Marshal, Rooster Cogburn, och de ger sig iväg - mot hans protester - för att få tag på Chaney. För att kunna hämnas sin far måste hon förfölja brottslingen in på Indianernas territorium och dessutom hitta honom fort, innan en TexasRanger vid namn LaBoeuf fångar honom först och för honom till Texas för att stå till svars för mordet på en annan man."
+   },
+   "tagline": {
+    "fr": "Le châtiment finit toujours par arriver.",
+    "en": "Punishment comes one way or another.",
+    "de": "Vergeltung – du kannst ihr nicht entgehen",
+    "it": "Il crimine verrà sempre punito",
+    "es": "El castigo siempre llega."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Aventure",
+     "Western"
+    ],
+    "en": [
+     "Drama",
+     "Adventure",
+     "Western"
+    ],
+    "de": [
+     "Drama",
+     "Abenteuer",
+     "Western"
+    ],
+    "it": [
+     "Dramma",
+     "Avventura",
+     "Western"
+    ],
+    "es": [
+     "Drama",
+     "Aventura",
+     "Western"
+    ],
+    "sv": [
+     "Drama",
+     "Äventyr",
+     "Västern"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 6033,
+   "runtime": 106
   },
   {
    "id": 68718,
@@ -584,7 +1680,51 @@
     "fr": "/5bTWzFG9ND6eNTMw65HJN81ZuTK.png",
     "en": "/uqFqJ9j5hQ7QLx0mmxGohTVqOb6.png",
     "es": "/sCMKyeWYXxJdFqYw0A0rypo98u7.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans le sud des États‐Unis, deux ans avant la guerre de Sécession, le Dr King Schultz, un chasseur de primes allemand, fait l’acquisition de Django, un esclave qui peut l’aider à traquer les frères Brittle, les meurtriers qu’il recherche. Schultz promet à Django de lui rendre sa liberté lorsqu’il aura capturé les Brittle – morts ou vifs. Alors que les deux hommes pistent les dangereux criminels, Django n’oublie pas que son seul but est de retrouver Broomhilda, sa femme, dont il fut séparé à cause du commerce des esclaves… Lorsque Django et Schultz arrivent dans l’immense plantation du puissant Calvin Candie, ils éveillent les soupçons de Stephen, un esclave qui sert Candie et a toute sa confiance. Le moindre de leurs mouvements est désormais épié par une dangereuse organisation de plus en plus proche… Si Django et Schultz veulent espérer s’enfuir avec Broomhilda, ils vont devoir choisir entre l’indépendance et la solidarité, entre le sacrifice et la survie…",
+    "en": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "de": "Als das Sklavenpaar Django und seine Frau Broomhilda bei einer Auktion getrennt werden, hat Django nur noch ein Ziel vor Augen: seine Frau wiederzufinden. Die Gelegenheit ergibt sich für den in Fesseln Geschlagenen schneller als erwartet, als er vom früheren Zahnarzt und jetzigen Kopfgeldjäger Dr. Schultz befreit wird, damit er ihm bei der Identifikation steckbrieflich gesuchter Verbrecher behilflich sei. Zum Dank will Dr. Schultz ihn zum Kopfgeldjäger ausbilden und ihm helfen, seine Frau ausfindig zu machen. Schließlich führt Django und Dr. Schultz die Spur nach Candyland, wo Broomhilda in den Besitz des charismatischen und überaus gefährlichen Calvin Candie übergegangen ist. Sie erschleichen sich erfolgreich das Vertrauen von Candie. Doch der Haussklave Stephen durchschaut ihr Spiel…",
+    "it": "Stati Uniti del Sud, alla vigilia della guerra civile. Il cacciatore di taglie di origine tedesca dottor King Schultz, su un carretto da dentista, è alla ricerca dei fratelli Brittle, per consegnarli alle autorità piuttosto morti che vivi e incassare la ricompensa. Per scovarli, libera dalle catene lo schiavo Django, promettendogli la libertà a missione completata. Tra i due uomini nasce così un sodalizio umano e professionale che li conduce attraverso l'America delle piantagioni e degli orrori razzisti alla ricerca dei criminali in fuga e della moglie di Django, Broomhilda, venduta come schiava a qualche possidente negriero.",
+    "es": "Dos años antes de estallar la Guerra Civil (1861-1865), Schultz, un cazarrecompensas alemán que le sigue la pista a unos asesinos, le promete al esclavo Django dejarlo en libertad si le ayuda a atraparlos. Terminado con éxito el trabajo, Django prefiere seguir al lado del alemán y ayudarle a capturar a los delincuentes más buscados del Sur. Se convierte así en un experto cazador de recompensas, pero su único objetivo es rescatar a su esposa Broomhilda, a la que perdió por culpa del tráfico de esclavos. La búsqueda llevará a Django y a Schultz hasta Calvin Candie, el malvado propietario de la plantación \"Candyland\". La presencia de ambos en los alrededores de la propiedad, despierta las sospechas de Stephen, el esclavo de confianza de Candie.",
+    "sv": "Django är en slav vars brutala historia med sin förre ägare tar honom ansikte mot ansikte med den tyskfödde prisjägaren Dr King Schultz i den amerikanska södern, två år före inbördeskriget. Schultz är på jakt efter de mordiska Brittle-bröderna och bara Django kan ta honom till dem. Den okonventionelle Schultz förvärvar Django med löfte om att frige honom när de fått fast Brittle-bröderna – döda eller levande."
+   },
+   "tagline": {
+    "fr": "Ils ont pris sa liberté. Il va tout leur prendre.",
+    "en": "Life, liberty, and the pursuit of vengeance.",
+    "de": "Leben, Freiheit und die Verfolgung von Rache",
+    "it": "Gli hanno tolto la libertà. Lui gli toglierà ogni cosa.",
+    "es": "La D es muda. La venganza no lo será"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Western"
+    ],
+    "en": [
+     "Drama",
+     "Western"
+    ],
+    "de": [
+     "Drama",
+     "Western"
+    ],
+    "it": [
+     "Dramma",
+     "Western"
+    ],
+    "es": [
+     "Drama",
+     "Western"
+    ],
+    "sv": [
+     "Drama",
+     "Västern"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 28992,
+   "runtime": 166
   },
   {
    "id": 281957,
@@ -606,7 +1746,57 @@
     "de": "/ynK524wbylFyuLE1uf0fipQaJYP.png",
     "it": "/6BAGWUxCY9JD2lKZjpOnkjZllF6.png",
     "es": "/nzYyHKLYv8o81LuVE7YwiL1ixk3.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans une Amérique profondément sauvage, le trappeur Hugh Glass est sévèrement blessé et laissé pour mort par un traître de son équipe, John Fitzgerald. Avec sa seule volonté pour unique arme, Glass doit affronter un environnement hostile, un hiver brutal et des tribus guerrières, dans une inexorable lutte pour sa survie, portée par un intense désir de vengeance.",
+    "en": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "de": "In den 1820ern zieht der legendäre Trapper Hugh Glass durch die Weiten der USA, wo er mit einer von Captain Andrew Henry angeführten Expedition dabei ist, den Missouri River zu erforschen. Am Fluss hat er einen unachtsamen Moment – den ein Grizzly ausnutzt, ihn übel zuzurichten. Glass schwebt in Lebensgefahr. Seine Begleiter, unter ihnen der raubeinige John Fitzgerald und der junge Jim Bridger, glauben nicht, dass er den Vorfall überleben wird und als sie dann Ureinwohner in der Nähe ihres Lagers erspähen, fackeln sie nicht lange. Sie nehmen dem Schwerverwundeten Gewehr, Messer und seine weitere Ausrüstung ab und überlassen ihn sich selbst. Aber überraschend überlebt Glass doch – und schwört allen Begleitern Rache, die ihn zurückgelassen haben. Auf der Suche nach ihnen schleppt sich der verletzte Abenteurer durch die eisige Bergwelt …",
+    "it": "Sono gli anni Venti del diciannovesimo secolo. Soldati, esploratori, cacciatori di pelli, mercenari solcano i territori ancora sconosciuti d'America per trarne profitto. Glass è l'uomo che meglio di tutti i suoi compagni di spedizione conosce la terra impervia in cui si sono inoltrati. Il suo compito è riportare la compagnia al forte e tutto ciò che lo preoccupa è proteggere suo figlio, un ragazzo indiano. Lo scontro con un grizzly lo lascia in condizioni prossime alla fine. Il più arrogante della compagnia, Fitzgerald, si offre di restare per dargli sepoltura, ma lo tradisce orribilmente. La volontà di vendicarsi rimetterà in piedi Glass e darà inizio ad un'odissea leggendaria.",
+    "es": "Durante una expedición en las tierras salvajes americanas, el legendario explorador Hugh Glass es brutalmente atacado por un oso y dado por muerto por los miembros de su propia partida de caza. En su cruzada por sobrevivir, Glass supera inimaginables tribulaciones, además de la traición de su confidente John Fitzgerald. Guiado por la pura determinación y el amor de su familia, Glass deberá superar un duro invierno mientras busca sin descanso un motivo para seguir adelante y encontrar la redención.",
+    "sv": "Under en expedition i den outforskade amerikanska vildmarken blir Hugh attackerad av en björn och lämnad att dö av de andra. I sin kamp att överleva får han utstå obeskrivlig sorg och att ha blivit bedragen av sin närmaste vän John Fitzgerald. Nu är han på jakt efter upprättelse i den bittra vintern och drivs bara av ren viljestyrka och kärlek till sin familj."
+   },
+   "tagline": {
+    "fr": "Laissé pour mort. Habité par la vengeance.",
+    "en": "Blood lost. Life found.",
+    "de": "Überleben ist der härtere Tod",
+    "it": "La vendetta è nelle mani di Dio",
+    "es": "Sangre perdida. Vida encontrada."
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Drame",
+     "Aventure"
+    ],
+    "en": [
+     "Western",
+     "Drama",
+     "Adventure"
+    ],
+    "de": [
+     "Western",
+     "Drama",
+     "Abenteuer"
+    ],
+    "it": [
+     "Western",
+     "Dramma",
+     "Avventura"
+    ],
+    "es": [
+     "Western",
+     "Drama",
+     "Aventura"
+    ],
+    "sv": [
+     "Västern",
+     "Drama",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 19953,
+   "runtime": 157
   },
   {
    "id": 273248,
@@ -627,7 +1817,58 @@
     "en": "/dhkWUiFU6wvwkVhwKae5FO57AP6.png",
     "de": "/8ZygdIGsXF0yRFgxfCQrVuyXAwI.png",
     "es": "/338mAFyedvIBm6UC8xslBF8phO4.png"
-   }
+   },
+   "overview": {
+    "fr": "Après la Guerre de Sécession, huit voyageurs se retrouvent coincés dans un refuge au milieu des montagnes. Alors que la tempête s'abat au-dessus du massif, ils réalisent qu'ils n'arriveront peut-être pas à rallier Red Rock comme prévu…",
+    "en": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+    "de": "Irgendwo im verschneiten Wyoming, einige Jahre nach dem Bürgerkrieg: Eine Postkutsche kämpft sich auf dem Weg zum Städtchen Red Rock durch die Landschaft. An Bord sind der Kopfgeldjäger John Ruth, seine Gefangene Daisy Domergue und zwei erst auf dem Weg zugestiegene Passagiere: der Ex-Soldat und nun ebenfalls als Kopfgeldjäger tätige Marquis Warren sowie Chris Mannix, der angibt, der neue Sheriff von Red Rock zu sein. Aufgrund eines heftigen Schneesturms sind sie jedoch dazu gezwungen, in einer Hütte Zuflucht zu suchen. Dort verstecken sich bereits der Mexikaner Bob, der undurchsichtige Oswaldo Mobray, der Cowboy Joe Gage und der in die Jahre gekommene Südstaaten-General Sanford Smithers vor dem Wetter. Schnell nehmen die Spannungen in der Gruppe von misstrauischen Raubeinen zu, nachdem man sich anfangs noch bestens unterhalten hat. Und bald wird klar, dass längst nicht jeder von ihnen die Hütte lebend verlassen wird.",
+    "it": "Alcuni anni dopo la fine della guerra civile il cacciatore di taglie John Ruth (Kurt Russell), chiamato \"Il boia\", scorta la latitante Daisy Domergue (Jennifer Jason Leigh). Nel corso del loro viaggio incontrano due sconosciuti: il Maggiore Marquis Warren (Samuel L. Jackson), un ex soldato di colore dell'Unione diventato un cacciatore di taglie e Chris Mannix (Walton Goggins) un rinnegato del Sud che afferma di essere il nuovo sceriffo della città. A causa di una tormenta di neve sono tutti costretti a rifugiarsi in un negozio chiamato \"Minnie\", dove con l'inganno, vengono attirati in un terreno molto pericoloso.",
+    "es": "Seis, ocho o doce años después de la Guerra de Secesión, una diligencia avanza a toda velocidad por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth y su fugitiva Daisy Domergue, intentan llegar rápidamente al pueblo de Red Rock, donde Ruth, conocido en estos lares como 'el Verdugo', entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren, un antiguo soldado negro de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix, un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como una ventisca está a punto de alcanzarlos, Ruth, Domergue, Warren y Mannix se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local de Minnie, en lugar de recibirlos su dueña, se topan con cuatro rostros desconocidos.",
+    "sv": "Prisjägaren John \"The Hangman\" Ruth transporterar Daisy Domergue genom ett vintrigt Wyoming, mot Red Rock där hon ska ställas inför rätta. Längst med vägen plockar de upp två främlingar: en före detta soldat som nu blivit ökänd prisjägare, och en man som utger sig för att vara Red Rocks nya sheriff. När en snöstorm sveper in över slätterna, bestämmer sig de fyra för att ta skydd i en raststuga uppe i bergen. Väl där möts de inte av ägarna, utan av fyra okända ansikten."
+   },
+   "tagline": {
+    "fr": "Personne ne vient ici sans raison.",
+    "en": "No one comes up here without a damn good reason.",
+    "de": "Niemand kommt hierher ohne einen verdammt guten Grund",
+    "it": "Nessuno viene qui senza un'ottima ragione",
+    "es": "Nadie viene hasta aquí sin una maldita razón.",
+    "sv": "Ingen kommer hit utan en riktigt bra anledning."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Mystère",
+     "Western"
+    ],
+    "en": [
+     "Drama",
+     "Mystery",
+     "Western"
+    ],
+    "de": [
+     "Drama",
+     "Mystery",
+     "Western"
+    ],
+    "it": [
+     "Dramma",
+     "Mistero",
+     "Western"
+    ],
+    "es": [
+     "Drama",
+     "Misterio",
+     "Western"
+    ],
+    "sv": [
+     "Drama",
+     "Mystik",
+     "Västern"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 15851,
+   "runtime": 188
   },
   {
    "id": 537996,
@@ -647,7 +1888,49 @@
     "fr": "/xI8D5JTzLxFICAUUUv9WE3cVw24.png",
     "en": "/i3YtcfDTEh7tINVHCl1JSesW4TL.png",
     "es": "/zRYtdQTW8rTBswPvayCojqKUZ0S.png"
-   }
+   },
+   "overview": {
+    "fr": "Un western à sketches en six volets, six variations sur le mythe de l'Ouest étatsunien. Chaque chapitre est consacré à une histoire différente : un as de la gâchette et de la chansonnette ; un braqueur qui va vite être dépassé par les évènements ; un impresario et son artiste sans bras ni jambes ; un chercheur d’or solitaire et opiniâtre ; une jeune femme dans un convoi en route pour l’Oregon ; et les passagers d’une diligence.",
+    "en": "Vignettes weaving together the stories of six individuals in the old West at the end of the Civil War. Following the tales of a sharp-shooting songster, a wannabe bank robber, two weary traveling performers, a lone gold prospector, a woman traveling the West to an uncertain future, and a motley crew of strangers undertaking a carriage ride.",
+    "de": "Die Handlung jeder einzelnen der sechs Episoden ist in sich abgeschlossen und behandelt einen anderen Aspekt des Wilden Westens. Ein Schwerpunkt liegt dabei auf der Annahme, dass jeder Buster Scruggs sein könnte.",
+    "it": "La Ballata di Buster Scruggs è un film antologico western che racconta sei storie distinte, ambientate sulla selvaggia frontiera americana, e narrate attraverso la voce unica e incomparabile dei fratelli Joel ed Ethan Coen. I sei capitoli attraversano il vecchio West, portando in scena diversi personaggi con rimandi ai momenti salienti del genere western.  Si va dal cantautore al rapinatore di banche, dall'artista itinerante al cercatore d'oro, dalle promesse d'amore alla diligenza nella prateria, il tutto contornato da una più o meno massiccia dose - a seconda dei casi - di humor e ironia sulla vita.",
+    "es": "Antología de seis capítulos, cada uno enfocado desde una perspectiva distinta con respecto a la frontera norteamericana y a los peculiares personajes que habitan en sus alrededores. Cada parte cuenta una historia distinta basada en las convenciones del Lejano Oeste de los Estados Unidos.",
+    "sv": "Filmen är en antologifilm i sex delar, där Joel och Ethan Coen skildrar den amerikanska västern på sitt unika och ojämförliga sätt. Varje kapitel berättar en specifik historia om civilisationens utkanter."
+   },
+   "tagline": {
+    "en": "Stories live forever. People don't.",
+    "de": "Geschichten leben ewig. Menschen nicht.",
+    "es": "Las historias viven para siempre. La gente no."
+   },
+   "genres": {
+    "fr": [
+     "Western",
+     "Comédie"
+    ],
+    "en": [
+     "Western",
+     "Comedy"
+    ],
+    "de": [
+     "Western",
+     "Komödie"
+    ],
+    "it": [
+     "Western",
+     "Commedia"
+    ],
+    "es": [
+     "Western",
+     "Comedia"
+    ],
+    "sv": [
+     "Västern",
+     "Komedi"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 4652,
+   "runtime": 132
   }
  ]
 }

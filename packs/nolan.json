@@ -1,6 +1,6 @@
 {
  "id": "nolan",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Christopher Nolan",
   "en": "Christopher Nolan",
@@ -34,7 +34,49 @@
    ],
    "logo": {
     "en": "/vKRGsJH0da9xY62R7RgimsFtyul.png"
-   }
+   },
+   "overview": {
+    "fr": "Bill est un jeune écrivain qui, par curiosité, prend des inconnus en filature dans les rues de Londres. Ses maladresses et son manque de rigueur lorsqu'il cherche à trop s'approcher de ses sujets le conduisent à être repéré et lui-même suivi par Cobb, un cambrioleur psychopathe, sophistiqué et risque-tout. Cobb persuade peu à peu Bill de passer le pas entre filer et entrer par effraction dans les maisons des personnes qu'il suit…",
+    "en": "Bill, an idle, unemployed aspiring writer, walks the crowded streets of London following randomly chosen strangers, a seemingly innocent entertainment that becomes dangerous when he crosses paths with a mysterious character.",
+    "de": "Der Einzelgänger Bill verfolgt willkürlich fremde Menschen quer durch London - unter dem Vorwand, als Schriftsteller zu recherchieren, zunehmend aber aus voyeuristischer Neugier. Einer der Beschatteten stellt Bill zur Rede und überrascht ihn: Cobb ist selbst Einbrecher und raubt Wohnungen nicht einfach aus, sondern genießt förmlich die Macht, in den persönlichen Besitztümern der Bewohner zu stöbern und in deren Leben einzudringen. Bill begleitet Cobb bei Einbrüchen und wird immer stärker in etwas hineingezogen, das er nicht kontrollieren kann. Zumal er sich in die attraktive blonde Geliebte einer Unterweltgröße verliebt …",
+    "it": "Un aspirante scrittore, per cercare ispirazione, comincia a pedinare le persone, trasformando le loro vite in materiale per lavoro. Tutto va liscio finché egli non incontra Cobb, ladro di professione che, piano piano, gli insegna il mestiere. La trama si complica quando lo scrittore si invaghisce della vittima di un furto e inizia a frequentarla.",
+    "es": "Bill, un aspirante a escritor ocioso y desempleado, deambula por las atestadas calles de Londres siguiendo a personas desconocidas elegidas al azar, un entretenimiento aparentemente inocente que se vuelve peligroso cuando su camino se cruza con el de un misterioso  individuo.",
+    "sv": "Bill följer efter människor och observerar dem. En dag konfronteras han av Cobb, en inbrottstjuv som tar Bill under sina vingar och lär honom inbrottskonstens alla regler. De bryter sig in i en kvinnas lägenhet och snart är Bill involverad i kvinnans liv."
+   },
+   "tagline": {
+    "fr": "Vous n'êtes jamais seul.",
+    "en": "You're never alone.",
+    "es": "Nunca estás solo."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Thriller"
+    ],
+    "en": [
+     "Drama",
+     "Thriller"
+    ],
+    "de": [
+     "Drama",
+     "Thriller"
+    ],
+    "it": [
+     "Dramma",
+     "Thriller"
+    ],
+    "es": [
+     "Drama",
+     "Suspense"
+    ],
+    "sv": [
+     "Drama",
+     "Thriller"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 2026,
+   "runtime": 68
   },
   {
    "id": 77,
@@ -53,7 +95,51 @@
    "logo": {
     "fr": "/tjaqBEkFb9P8rso4OV519Zf8Vel.png",
     "en": "/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
-   }
+   },
+   "overview": {
+    "fr": "Leonard Shelby ne porte que des costumes de grands couturiers et ne se déplace qu’au volant de sa Jaguar. En revanche, il habite dans des motels miteux et règle ses notes avec d’épaisses liasses de billets. Leonard n’a qu’une idée en tête: traquer l’homme qui a violé et assassiné sa femme afin de se venger. Sa recherche du meurtrier est rendue plus difficile par le fait qu’il souffre d’une forme rare et incurable d’amnésie. Bien qu’il puisse se souvenir de détails de son passé, il est incapable de savoir ce qu’il a fait dans le quart d’heure précédent, où il se trouve, où il va et pourquoi. Pour ne jamais perdre son objectif de vue, il a structuré sa vie à l’aide de fiches, de notes, de photos, de tatouages sur le corps. C’est ce qui l’aide à garder contact avec sa mission, à retenir les informations et à garder une trace, une notion de l’espace et du temps.",
+    "en": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "de": "Leonard Shelby hat bei einem Unfall sein Kurzeitgedächtnis verloren. Zwar weiß er, wer er ist, doch er kann sich keine Namen, keine Begegnungen länger als ein paar Minuten merken. Sein Leben besteht aus einem Berg Notizen, Fotos und Tätowierungen, mit denen sein Körper übersät ist. Der Film beginnt mit einem Mord, festgehalten auf einem Polaroid. Der einzige Hinweis, dass Shelby den Mord begangen hat. Ein Mann ohne Gedächtnis kann von seiner Umwelt leicht missbraucht werden. Shelby versucht aus dem Wirrwarr von Notizen und Fotos das Geschehen zu entschlüsseln. Wenn er vor dem Spiegel steht, sieht er die Tätowierung: Finde den Mörder deiner Frau. Töte ihn.",
+    "it": "Leonard Shelby è affetto da una particolare forma di amnesia che lascia intatti i vecchi ricordi ma comporta la perdita della memoria breve. Attraverso un'affannosa ricerca compiuta per mezzo dell'azione e della scrittura, che serve a registrare ciò di cui la percezione non può farsi sicuro garante, Leonard cerca l'assassino della moglie, l'ultimo ricordo che \"non riesce a ricordare di dimenticare\".",
+    "es": "Leonard Shelby sigue la pista del hombre que violó y asesinó a su mujer. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que padece una forma rara e intratable de pérdida de memoria a corto plazo. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué ha pasado hace quince minutos, adónde va o por qué.",
+    "sv": "En djupsinnig film om en man plågad av en mycket sällsynt form av minnesåkomma; han har defekt korttidsminne, som vill hämnas sin mördade hustru."
+   },
+   "tagline": {
+    "fr": "Tatouer pour ne pas oublier…",
+    "en": "Some memories are best forgotten.",
+    "de": "Manchmal ist es besser, zu vergessen.",
+    "it": "Ricordati di non dimenticare.",
+    "es": "Algunos recuerdos son mejor olvidar."
+   },
+   "genres": {
+    "fr": [
+     "Mystère",
+     "Thriller"
+    ],
+    "en": [
+     "Mystery",
+     "Thriller"
+    ],
+    "de": [
+     "Mystery",
+     "Thriller"
+    ],
+    "it": [
+     "Mistero",
+     "Thriller"
+    ],
+    "es": [
+     "Misterio",
+     "Suspense"
+    ],
+    "sv": [
+     "Mystik",
+     "Thriller"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 17062,
+   "runtime": 113
   },
   {
    "id": 320,
@@ -73,7 +159,57 @@
     "en": "/mv8eIgUxfPDk7cDNL2JKg2icvNB.png",
     "de": "/gwvcHkHbr90R8bknGu5ZxGmEVXI.png",
     "es": "/mDy2fmfGOmqZUM1wWF4AY3dahrL.png"
-   }
+   },
+   "overview": {
+    "fr": "Will Dormer, un policier expérimenté et désabusé, est envoyé en Alaska pour enquêter sur le meurtre sordide d'une adolescente. Lui et ses hommes montent une embuscade et repèrent le tueur, mais celui-ci parvient à s'enfuir. Will le prend en chasse mais le perd de vue dans l'opaque brouillard. Il voit une ombre qui pointe une arme à feu et tire. Lorsqu'il s'approche du corps, il découvre qu'il vient de tuer Hap, son partenaire. Instinctivement, il prend le pistolet qu'a auparavant laissé tomber le tueur dans sa fuite et le place près de Hap pour dissimuler sa culpabilité. Walter Finch, le meurtrier, a vu faire Will. Il le menace de le dénoncer s'il ne ferme pas rapidement le dossier en accusant l'ancien petit ami de la victime d'être responsable des deux meurtres. Will ne peut laisser Walter s'en tirer aussi facilement. Cependant, l'absence de sommeil l'empêche d'avoir les idées claires.",
+    "en": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen.",
+    "de": "Der berühmte Detective Will Dormer aus Los Angeles fliegt mit seinem Partner Hap Eckhart nach Nightmute/Alaska, weil dort ein alter Bekannter, Chief Nyback, in einem undurchsichtigen Mordfall Hilfe braucht. Ganz freiwillig sind Will und Hap allerdings nicht ans Ende der Welt geflogen: Nyback weiß bereits, dass die Polizeiaufsicht von L.A. eine interne Untersuchung gegen die beiden Cops eingeleitet hat…",
+    "it": "Durante un'indagine su un omicidio di una giovane ragazza, un esperto detective uccide accidentalmente un suo collega e per non rovinarsi la reputazione cerca di nascondere gli indizi che portano a lui. Ma qualcuno ha visto tutto l'accaduto e comincia a minacciarlo.",
+    "es": "Will Dormer, un veterano detective de Los Ángeles, viaja a un pequeño pueblo de Alaska con su compañero Hap para investigar el asesinato de una chica de 17 años. En Los Ángeles queda pendiente un oscuro asunto que les incumbe a los dos. Una vez en Alaska, entran en contacto con el principal sospechoso, Walter Finch, un novelista ermitaño.",
+    "sv": "Tillsammans med sin partner Hap skickas den ärrade Los Angeles-polisen Will Dormer till en liten fiskeby i Alaska för att lösa ett bestialiskt flickmord. Jagade av internutredare hemma i L.A. hoppas de båda poliserna att Alaska-vistelsen ska ge dem några dagars välbehövligt andrum. Men uppdraget visar sig bli allt annat än lugnt. Dormer gillrar en fälla och när mördaren ska gripas, råkar Dormer istället skjuta Hap. För att kunna slutföra mördarjakten gör Dormer allt för att sopa igen spåren efter dödsskottet. Något som visar sig passa mördarens plan perfekt. Alaskas obarmhärtiga midnattsol tär hårt på Dormers nattsömn och han drivs allt längre in i en ond mardröm - i vaket tillstånd."
+   },
+   "tagline": {
+    "fr": "Un flic endurci face à un tueur manipulateur.",
+    "en": "A tough cop. A brilliant killer. An unspeakable crime.",
+    "de": "Ein eiskalter Cop. Ein brillanter Killer. Ein unbeschreibliches Verbrechen.",
+    "it": "Non chiudere gli occhi.",
+    "es": "No cierres los ojos."
+   },
+   "genres": {
+    "fr": [
+     "Thriller",
+     "Crime",
+     "Drame"
+    ],
+    "en": [
+     "Thriller",
+     "Crime",
+     "Drama"
+    ],
+    "de": [
+     "Thriller",
+     "Krimi",
+     "Drama"
+    ],
+    "it": [
+     "Thriller",
+     "Crime",
+     "Dramma"
+    ],
+    "es": [
+     "Suspense",
+     "Crimen",
+     "Drama"
+    ],
+    "sv": [
+     "Thriller",
+     "Kriminal",
+     "Drama"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 5659,
+   "runtime": 113
   },
   {
    "id": 272,
@@ -93,7 +229,58 @@
     "fr": "/a6x2vcajK1vWIa7gY1BptEi5cRO.png",
     "en": "/kmqIeEVaVfbBCgV9WFPuLUl84uW.png",
     "es": "/tsPuQ6zskYUFBF9migOLUmTRTBS.png"
-   }
+   },
+   "overview": {
+    "fr": "Alors que le souvenir de ses parents assassinés le hante, Bruce Wayne, désemparé, erre à travers le monde cherchant les moyens de combattre l'injustice et ses propres peurs. Avec l'aide de son dévoué majordome et homme de confiance Alfred, de l'inspecteur Jim Gordon et de son allié Lucius Fox, Wayne revient à Gotham City et révèle son alter ego : Batman, un justicier masqué qui utilise sa force, son intelligence et une batterie d'armes high-tech pour combattre les forces sinistres qui menacent la ville…",
+    "en": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "de": "Wie wurde Bruce Wayne zu Batman? Als kleiner Junge musste Bruce Wayne mit ansehen, wie seine Eltern auf grauenhafte Weise umgebracht wurden. Deshalb kümmert sich der Butler Alfred Pennyworth um ihn und zieht ihn groß.Eines Tages macht er sich in aller Welt auf die Suche nach einem Weg, die Ungerechtigkeit zu bekämpfen. Als er nach seiner Reise wieder in seine Heimatstadt Gotham City zurückkehrt, muss er feststellen, dass die Verbrechensrate deutlich angestiegen ist. Dieser Umstand und der Drang nach Rache am Mord seiner Eltern treiben ihn langsam aber sicher dazu, sich Kampftechniken beizubringen und ein Fledermauskostüm zu entwerfen, mit deren Hilfe er Nacht für Nacht die Kriminellen der Stadt zur Strecke bringt - als Batman.",
+    "it": "Bruce Wayne, figlio di un illuminato filantropo di Gotham City, vede i suoi genitori assassinati da un rapinatore. Incapace di liberarsi del senso di colpa, inizia un vagabondaggio che lo porta fin sulle vette dell'Himalaya, dove Ra's Al Ghul e il suo fido Ducard lo iniziano alla lotta contro il male. Wayne è deciso a servire la giustizia, e una volta tornato a Gotham trova in Falcone, potente trafficante di droga, e in Crane, altrettanto corrotto psichiatra, due acerrimi nemici, dietro ai quali però pare celarsi qualcuno di ancor più potente. L'unico modo per combatterli è diventare Batman, un simbolo che dia forza e speranza alla gente.",
+    "es": "¿Cómo cambia un hombre el mundo? Es una pregunta que obsesiona a Bruce Wayne al igual que el fantasma de sus padres, muertos a tiros ante sus ojos en las calles de Gotham una noche que cambió su vida para siempre. Atormentado por la culpa y la ira, el desilusionado heredero industrial desaparece de Gotham y viaja en secreto por el mundo, buscando los medios de luchar contra la injusticia y utilizar el miedo contra los que se aprovechan de los que tienen miedo. Con la ayuda de su leal mayordomo Alfred, el detective Jim Gordon - uno de los pocos buenos policías de las fuerzas del orden público de Gotham - y Lucius Fox, su aliado en la división de Ciencias Aplicadas de Wayne Enterprises, Bruce Wayne libera a su imponente alter ego: Batman, un justiciero enmascarado que utiliza la fuerza, la inteligencia y un despliegue de artefactos de alta tecnología para combatir las fuerzas siniestras que amenazan con destruir la ciudad.",
+    "sv": "Drabbad av tragedi ägnar miljardären Bruce Wayne sitt liv åt att avslöja och bekämpa den korruption som förgiftar hans hemstad, Gotham City. Oförmögen att verka inom systemet skapar han i stället en ny identitet – en symbol för skräck i den kriminella undre världen: Batman."
+   },
+   "tagline": {
+    "fr": "Le mal craint le chevalier.",
+    "en": "Evil fears the knight.",
+    "de": "Das Böse fürchtet den Ritter.",
+    "it": "Il male teme il cavaliere.",
+    "es": "El mal teme al caballero.",
+    "sv": "Ondskan fruktar riddaren."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Crime",
+     "Action"
+    ],
+    "en": [
+     "Drama",
+     "Crime",
+     "Action"
+    ],
+    "de": [
+     "Drama",
+     "Krimi",
+     "Action"
+    ],
+    "it": [
+     "Dramma",
+     "Crime",
+     "Azione"
+    ],
+    "es": [
+     "Drama",
+     "Crimen",
+     "Acción"
+    ],
+    "sv": [
+     "Drama",
+     "Kriminal",
+     "Action"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 23552,
+   "runtime": 141
   },
   {
    "id": 1124,
@@ -114,7 +301,57 @@
     "en": "/spOKEWc2HsfVJWCicr5CXCCVRil.png",
     "de": "/a7ViJzg6UY2dHz8pMSQrSoEXb2y.png",
     "es": "/l8dyRmmIzS4rZi9rxIZxahWa0cy.png"
-   }
+   },
+   "overview": {
+    "fr": "Londres, au début du siècle dernier… Robert Angier et Alfred Borden sont deux magiciens surdoués, promis dès leur plus jeune âge à un glorieux avenir. Une compétition amicale les oppose d'abord l'un à l'autre, mais l'émulation tourne vite à la jalousie, puis à la haine. Devenus de farouches ennemis, les deux rivaux vont s'efforcer de se détruire l'un l'autre en usant des plus noirs secrets de leur art. Cette obsession aura pour leur entourage des conséquences dramatiques…",
+    "en": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+    "de": "Im viktorianischen Zeitalter, zur Zeit der Jahrhundertwende, lernen sich die konkurrierenden Magier Robert Angier und Alfred Borden kennen. Aus freundschaftlicher, jugendlicher Konkurrenz erwächst jedoch bald etwas wesentlich Schlimmeres, denn nicht nur neidet jeder dem Anderen das Talent, Roberts Frau stirbt auch bei einem von Alfreds risikobewehrten Tricks. Über Jahre belauern und bekämpfen sie sich gegenseitig und reißen damit ihr gesamtes Umfeld in die Tiefe, nur um hinter die Tricks des jeweils anderen zu kommen. Dabei schrecken die beiden am Ende nicht einmal vor Mord zurück, denn das \"Prestige\", der unglaubliche letzte Teil eines perfekten Zaubertricks, ist jeden Einsatz wert...",
+    "it": "Due giovani maghi apprendisti, Robert Angier e Alfred Borden, vengono istruiti e seguiti da Cutter, un ingegnere illusionista ed ex mago, ma durante un numero in cui una donna viene legata e messa in una cassa di vetro piena d'acqua, qualcosa va storto e Angier incolperà l'amico dell'accaduto, tentando di vendicarsi. Inizia così un crudele gioco tra i due uomini su chi sia il migliore e la rivalità si trasformerà pian piano in ossessione.",
+    "es": "Robert Angier es un ilusionista respetado que se obsesiona con uno de los trucos de su rival Alfred Borden. Para conseguir el truco hará todo lo posible, sin saber hasta qué punto cambiará su vida...",
+    "sv": "London i slutet av 1800-talet. En mystisk berättelse om två magiker vars intensiva rivalitet leder dem in i en livslång kamp om överhöghet – full av besatthet, bedrägeri och svartsjuka med farliga och dödliga konsekvenser."
+   },
+   "tagline": {
+    "fr": "Regardez de plus près.",
+    "en": "Are you watching closely?",
+    "de": "Freunde, die zu Rivalen werden. Rivalen, die zu Feinden werden.",
+    "it": "Stai guardando attentamente?",
+    "es": "¿Estás atento?"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Mystère",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Drama",
+     "Mystery",
+     "Science Fiction"
+    ],
+    "de": [
+     "Drama",
+     "Mystery",
+     "Science Fiction"
+    ],
+    "it": [
+     "Dramma",
+     "Mistero",
+     "Fantascienza"
+    ],
+    "es": [
+     "Drama",
+     "Misterio",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Drama",
+     "Mystik",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 18485,
+   "runtime": 128
   },
   {
    "id": 155,
@@ -135,7 +372,57 @@
     "en": "/nO5Uix3Qr4WjOyU1BMPv0okyNWm.png",
     "it": "/46WNMfeaIOqFS5xYgpxEFGg3SRm.png",
     "es": "/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
-   }
+   },
+   "overview": {
+    "fr": "Batman aborde une phase décisive de sa guerre contre le crime à Gotham City. Avec l'aide du lieutenant de police Jim Gordon et du nouveau procureur Harvey Dent, il entreprend de démanteler les dernières organisations criminelles qui infestent les rues de la ville. L'association s'avère efficace, mais le trio se heurte bientôt à un nouveau génie du crime qui répand la terreur et le chaos dans Gotham : le Joker. On ne sait pas d'où il vient ni qui il est. Ce criminel possède une intelligence redoutable doublé d'un humour sordide et n'hésite pas à s'attaquer à la pègre locale dans le seul but de semer le chaos.",
+    "en": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "de": "Gemeinsam mit Bezirksstaatsanwalt Harvey Dent und Lieutenant James Gordon versucht der im Fledermauskostüm agierende Milliardär Bruce Wayne dem Verbrechen in Gotham City Einhalt zu gebieten. Wie aus dem Nichts taucht plötzlich ein psychotischer Superverbrecher auf - der Joker. In seiner wahnhaften Vision möchte er die Stadt in Chaos und Anarchie stürzen und Batman scheint der einzige, der ihn stoppen kann. Bis es zum endgültigen Show-Down kommt, wird aber viel Blut fließen und auch Menschen die Bruce Wayne nahe stehen, könnten Opfer werden.",
+    "it": "Il crimine organizzato a Gotham City ha le ore contate. Batman, il tenente Gordon, il nuovo Procuratore Distrettuale e alcuni improbabili epigoni dell'Uomo Pipistrello in imbottiture da hockey hanno dichiarato guerra ai criminali. La loro fortuna e i loro dollari, accumulati in una banca di massima sicurezza, vengono rubati da Joker, un pagliaccio sadico e mascherato che getterà la città nel disordine e nell'anarchia. Riempite le tasche di lame, polvere da sparo e lanugine, Joker sfiderà il cavaliere oscuro di Bruce Wayne e rivelerà il lato oscuro di Harvey Dent, l'eroe procuratore che applica la giustizia e agisce a volto scoperto.",
+    "es": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+    "sv": "Batman höjer insatserna i sitt krig mot brottsligheten. Med hjälp av löjtnant Jim Gordon och distriktsåklagare Harvey Dent ger sig Batman ut för att upplösa de återstående kriminella organisationerna som plågar gatorna. Partnerskapet visar sig vara effektivt, men de befinner sig snart offer för ett kaotiskt välde som utlöses av ett framväxande kriminellt geni känt av Gothams skräckslagna invånare som Jokern."
+   },
+   "tagline": {
+    "en": "Welcome to a world without rules.",
+    "de": "Warum so ernst?",
+    "it": "Benvenuti in un mondo senza regole.",
+    "es": "Algunos hombres sólo quieren ver el mundo arder.",
+    "sv": "VÄLKOMMEN TILL EN VÄRLD UTAN REGLER"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Crime"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Crime"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Krimi"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Crime"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Crimen"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 37419,
+   "runtime": 152
   },
   {
    "id": 27205,
@@ -155,7 +442,58 @@
     "fr": "/dK9XgpUTF7UtT0lHXOKLlgmrKdu.png",
     "en": "/eS5TjZsO30LTfZISyBbPiXshAKd.png",
     "es": "/rHWUWJXC83KfqiSSAogV1YYTZHf.png"
-   }
+   },
+   "overview": {
+    "fr": "Dom Cobb est un voleur expérimenté, le meilleur dans l'art dangereux de l'extraction, voler les secrets les plus intimes enfouis au plus profond du subconscient durant une phase de rêve, lorsque l'esprit est le plus vulnérable. Les capacités de Cobb ont fait des envieux dans le monde tourmenté de l'espionnage industriel alors qu'il devient fugitif en perdant tout ce qu'il a un jour aimé. Une chance de se racheter lui est alors offerte. Une ultime mission grâce à laquelle il pourrait retrouver sa vie passée mais uniquement s'il parvient à accomplir l'impossible inception.",
+    "en": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "de": "Beim Versuch in das Unterbewusstsein des Industriellen Saito einzudringen, stoßen Cobb und seine Mitstreiter auf unerwartete Schwierigkeiten. Saito hatte Verteidigungsstrategien gegen den Gedankendiebstahl trainiert und baut nun einen Abwehrriegel auf, doch erst der Verrat eines Kollegen lässt den Versuch scheitern, dem Schlafenden Geheimnisse zu entlocken. Da seine Auftraggeber unbedingten Erfolg gefordert hatten, muss Cobb, der auf Grund einer drohenden Verurteilung nicht mehr in die USA zurück kann, fliehen, doch Saito kommt ihm zuvor. Allerdings nicht um ihn zu bestrafen, sondern um ihm einen Deal vorzuschlagen.",
+    "it": "Dom Cobb possiede una qualifica speciale: è in grado di inserirsi nei sogni altrui per prelevare i segreti nascosti nel più profondo del subconscio. Viene contattato da Saito, un potentissimo industriale di origine giapponese, il quale gli chiede di tentare l'operazione opposta. Non deve prelevare pensieri celati ma inserire un'idea che si radichi nella mente di una persona. Costui è Robert Fischer Jr. il quale, alla morte dell'anziano e dittatoriale genitore, dovrà convincersi che l'unica cosa che può fare è distruggere l'impero ereditato. Saito avrà allora campo libero. In cambio offrirà a Cobb la possibilità di rientrare negli Stati Uniti dove è ricercato per omicidio. Cobb accetta e si fa affiancare da un team di cui entra a far parte la giovane Ariane, architetto abilissimo nella costruzione di spazi virtuali.",
+    "es": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+    "sv": "Cobb, en skicklig tjuv inom industrispionage, den absolut bästa i konsten att extrahera: att stjäla värdefulla hemligheter från djupt inne i det undermedvetna under drömstadiet när hjärnan är som mest känslig, får en chans till upprättelse när han får ett omöjligt uppdrag i något som aldrig tidigare har gjorts."
+   },
+   "tagline": {
+    "fr": "Votre esprit abrite la scène du crime.",
+    "en": "Your mind is the scene of the crime.",
+    "de": "Dein Verstand ist der Ort des Verbrechens.",
+    "it": "La tua mente è la scena del crimine",
+    "es": "Tu mente es la escena del crimen.",
+    "sv": "Ditt undermedvetna är brottsplatsen."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction",
+     "Crime"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction",
+     "Crime"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction",
+     "Krimi"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza",
+     "Crime"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción",
+     "Crimen"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 40764,
+   "runtime": 148
   },
   {
    "id": 49026,
@@ -176,7 +514,58 @@
     "en": "/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
     "it": "/fqaVAxLAgmbQjzLaCF7dvDXsDmA.png",
     "es": "/l0huPqya0L6yDRlMB3wgkCqJAUh.png"
-   }
+   },
+   "overview": {
+    "fr": "Afin que l'image de l'ex-procureur Harvey Dent reste un modèle du genre pour les citoyens de Gotham City, Batman a endossé les crimes de ce dernier et a été chassé de la ville par les autorités.  Huit ans plus tard, alors que Gotham City est de nouveau sûre, le commissaire Gordon tombe sur un complot qui vise à détruire la ville de l'intérieur.  Il fait appel à Batman. Ce dernier devra faire face à la mystérieuse Selina Kyle et à Bane, un adversaire mortel, qui veut mettre en pièce le symbole Batman.",
+    "en": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "de": "Nach dem Tod des Staatsanwalts Harvey Dent alias Two-Face nahm Batman die Schuld von dessen Verbrechen auf sich, um seinen Ruf zu schützen. Daher wurde er von dem Gotham City Police Department gejagt und verließ die Stadt. Die Handlung des Films setzt acht Jahre nach den Ereignissen von The Dark Knight ein. Nachdem der bemerkbar gealterte Batman nach Gotham zurückkehrt, muss er die Wahrheit der geheimnisvollen Selina Kyle herausfinden und den Schurken Bane davon abhalten, Gotham zu zerstören",
+    "it": "Sono passati otto anni da quando Batman è svanito nella notte, trasformandosi in un istante da eroe a fuggitivo. Prendendosi la colpa della morte del procuratore Harvey Dent, il Cavaliere oscuro ha sacrificato tutto per ciò che lui e il Commissario Gordon speravano fosse un bene superiore. Per un po’ di tempo la bugia ha funzionato e l’attività criminale di Gotham City è stata schiacciata dal peso della legge anti-criminale Dent Act. Ma tutto cambierà con l’arrivo di un’astuta ladra con un misterioso piano. Ma molto più pericoloso è l’arrivo di Bane, un terrorista mascherato i cui spietati piani per Gotham costringono Bruce a uscire dal suo esilio auto imposto. Ma anche se indossa di nuovo il mantello e il cappuccio, Batman potrebbe non essere così forte da fermare Bane.",
+    "es": "Hace ocho años que Batman desapareció, dejando de ser un héroe para convertirse en un fugitivo. Al asumir la culpa por la muerte del fiscal del distrito Harvey Dent, el Caballero Oscuro decidió sacrificarlo todo por lo que consideraba, al igual que el Comisario Gordon, un bien mayor. La mentira funciona durante un tiempo, ya que la actividad criminal de la ciudad de Gotham se ve aplacada gracias a la dura Ley Dent. Pero todo cambia con la llegada de una astuta gata ladrona que pretende llevar a cabo un misterioso plan. Sin embargo, mucho más peligrosa es la aparición en escena de Bane, un terrorista enmascarado cuyos despiadados planes obligan a Bruce a regresar de su voluntario exilio.",
+    "sv": "När den fruktade terroristen Bane kastar Gotham i kaos, bryts åtta års fred. För att rädda staden och dess invånare från det största existentiella hotet som Gotham någonsin har bevittnat tvingas Bruce Wayne att återvända ur skuggorna – och bli Batman igen."
+   },
+   "tagline": {
+    "fr": "Tout va s'embraser.",
+    "en": "The legend ends.",
+    "de": "Die Legende endet",
+    "it": "Il fuoco divamperà",
+    "es": "La leyenda termina.",
+    "sv": "Legenden får sitt slut."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Crime",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Crime",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Krimi",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Crime",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Crimen",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Kriminal",
+     "Thriller"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 25339,
+   "runtime": 165
   },
   {
    "id": 157336,
@@ -196,7 +585,58 @@
     "fr": "/e81YnyUwNs9YO8ljpPMMjrzHsgM.png",
     "en": "/4Hu4w5p0mwL2Wvyk3gqu2JRDGHl.png",
     "es": "/xBmWKbXWEgRn69x7qma4uiPgE1N.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans un futur proche, face à une Terre exsangue, un groupe d’explorateurs utilise un vaisseau interstellaire pour franchir un trou de ver permettant de parcourir des distances jusque‐là infranchissables. Leur but : trouver un nouveau foyer pour l’humanité.",
+    "en": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "de": "Was Wissenschaftler, Politiker und Aktivisten seit Jahrzehnten prophezeien, ist eingetreten: Die Menschheit steht kurz davor, an einer globalen Nahrungsknappheit zugrunde zu gehen. Die einzige Hoffnung der Weltbevölkerung besteht in einem geheimen Projekt der US-Regierung, das von dem findigen Wissenschaftler Professor Brand geleitet wird. Der Plan sieht vor, eine Expedition in ein anderes Sternensystem zu starten, wo bewohnbare Planeten, Rohstoffe und vor allem Leben vermutet werden. Der Ingenieur und ehemalige NASA-Pilot Cooper und Brands Tochter Amelia führen die Besatzung an, die sich auf eine Reise ins Ungewisse begibt: Wurmlöcher sind so gut wie unerforscht und niemand kann mit Sicherheit sagen, was die Crew auf der anderen Seite erwartet. Ebenso ist unsicher, ob und wann Cooper und Brand wieder auf die Erde zurückkehren. Coopers Kinder, Tochter Murph und Sohn Tom, müssen mit Schwiegervater Donald zurückbleiben und auf seine Wiederkehr hoffen...",
+    "it": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo è quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
+    "es": "Un grupo de exploradores hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+    "sv": "Vår tid på jorden närmar sig sitt slut, och ett team av upptäcksresenärer tar sig an historiens viktigaste uppdrag."
+   },
+   "tagline": {
+    "fr": "L’Homme est né sur Terre, rien ne l’oblige à y mourir.",
+    "en": "Mankind was born on Earth. It was never meant to die here.",
+    "de": "Die Menschheit wurde auf der Erde geboren. Es war nie gedacht, dass sie hier stirbt.",
+    "it": "La fine del mondo non sarà la nostra fine.",
+    "es": "La humanidad nació en la Tierra. Nunca estuvo destinada a morir aquí.",
+    "sv": "Jordens undergång innebär inte slutet för oss."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Drame",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Drama",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Drama",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Dramma",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Drama",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Drama",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 41938,
+   "runtime": 169
   },
   {
    "id": 374720,
@@ -217,7 +657,58 @@
     "en": "/d23hHJ9S84b1vtXXOCE0VI17ckD.png",
     "it": "/fsIBJqFFnJJpwn4HcbvYm6vkdDf.png",
     "es": "/5pKy6F8qrnLoor1NXiQD8bQcli6.png"
-   }
+   },
+   "overview": {
+    "fr": "Au début de la Seconde Guerre mondiale, en mai 1940, environ 400 000 soldats britanniques, français et belges se retrouvent encerclés par les troupes allemandes dans la poche de Dunkerque. L'Opération Dynamo est mise en place pour évacuer le Corps expéditionnaire britannique (CEB) vers l'Angleterre. L'histoire s'intéresse aux destins croisés des soldats, pilotes, marins et civils anglais durant l'Opération Dynamo. Alors que le CEB est évacué par le port et les plages de Dunkerque, trois soldats britanniques, avec un peu d'ingéniosité et de chance, arrivent à embarquer sous les bombardements. Un périple bien plus grand les attend : la traversée du détroit du Pas de Calais.",
+    "en": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
+    "de": "Mai 1940, der Zweite Weltkrieg tobt: Die Nazis haben die französische Hafenstadt Dünkirchen eingekesselt und verdeutlichen den Bewohnern und den 400.000 dort stationierten Soldaten mit Flugblättern die scheinbar ausweglose Lage. Denn durch die feindlichen Truppen auf der einen Seite und das Wasser auf der anderen scheint es keine Chance auf Überleben zu geben. Doch in Großbritannien ersinnt man eine kühne Rettungsmission, von der zuerst nur die wenigsten glauben, dass sie Aussicht auf Erfolg haben kann: Während die eingekesselten Soldaten, darunter Tommy, Alex und Gibson, am Boden ums Überleben kämpfen, sorgen RAF-Piloten wie Farrier in ihren Spitfires für Feuerschutz aus der Luft. Gleichzeitig eilen Zivilisten wie Mr. Dawson den eingekesselten Soldaten mit ihren kleinen Booten übers Wasser zu Hilfe.",
+    "it": "Il film, ambientato durante la Seconda Guerra Mondiale, racconta la drammatica evacuazione verso la Gran Bretagna di centinaia di migliaia di soldati alleati dalla spiaggia di Dunkerque sotto la minaccia dell'esercito tedesco.",
+    "es": "II Guerra Mundial. Cientos de miles de británicos y tropas aliadas están rodeados por las fuerzas enemigas. Atrapados en la playa con el mar a sus espaldas se enfrentan a una situación imposible mientras el enemigo se acerca. La película relata la Operación Dinamo, también conocida como el milagro de Dunkerque. Se trató de una operación de evacuación de las tropas aliadas en territorio francés, que tuvo lugar a finales de mayo de 1940. La operación permitió el rescate de más de 200.000 soldados británicos y más de 100.000 franceses y belgas.",
+    "sv": "Dunkirk är berättelsen om de hundratusentals brittiska och allierade trupper som blir invaderade och omringade på stranden vid Dunkerque av fientliga styrkor under andra världskriget."
+   },
+   "tagline": {
+    "fr": "L'espoir est une arme. La survie est une victoire.",
+    "en": "When 400,000 men couldn't get home, home came for them.",
+    "de": "Als 400.000 Männer nicht zurück in die Heimat konnten, kam die Heimat zu ihnen",
+    "it": "L'evento che ha cambiato il destino del mondo",
+    "es": "El acontecimiento que marcó nuestro mundo.",
+    "sv": "När 400 000 män inte kunde komma hem, kom hemlandet till dem."
+   },
+   "genres": {
+    "fr": [
+     "Guerre",
+     "Action",
+     "Histoire"
+    ],
+    "en": [
+     "War",
+     "Action",
+     "History"
+    ],
+    "de": [
+     "Kriegsfilm",
+     "Action",
+     "Historie"
+    ],
+    "it": [
+     "Guerra",
+     "Azione",
+     "Storia"
+    ],
+    "es": [
+     "Bélica",
+     "Acción",
+     "Historia"
+    ],
+    "sv": [
+     "Krig",
+     "Action",
+     "Historisk"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 18251,
+   "runtime": 107
   },
   {
    "id": 577922,
@@ -236,7 +727,58 @@
    "logo": {
     "fr": "/ud8Fp6DEAmJcUPXfivqkrLdJsXv.png",
     "en": "/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
-   }
+   },
+   "overview": {
+    "fr": "Muni d'un seul mot : \"Tenet\", et décidé à se battre pour sauver le monde, notre protagoniste sillonne l'univers crépusculaire de l'espionnage international. Sa mission le projettera dans une dimension qui dépasse le temps. Pourtant, il ne s'agit pas d'un voyage dans le temps, mais d'un renversement temporel…",
+    "en": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "de": "Ein CIA-Agent wird rekrutiert, um einen besonderen Auftrag auszuführen. Er soll den Dritten Weltkrieg verhindern. Es muss eine Person gestoppt werden, die die Fähigkeit besitzt, die Zeit zu manipulieren. Von einer Wissenschaftlerin erfährt er, dass es Menschen in der Zukunft gelingen wird, die Entropie von Objekten umzukehren, sodass diese Objekte temporal invertieren. So werden Kugeln mit Schusswaffen nicht abgeschossen, sondern aufgefangen. Immer mehr solcher Objekte werden gefunden.",
+    "it": "Il tempo per il nostro mondo sta per scadere, ed alcuni agenti entrano in azione per evitare un evento più catastrofico di una terza Guerra Mondiale o di un Olocausto nucleare. Tenet aprirà le porte giuste – e anche alcune sbagliate – per guardare il mondo con occhi nuovi, sentendolo anziché tentare di comprenderlo…",
+    "es": "Armado solamente con una palabra, Tenet, el protagonista deberá luchar por la supervivencia del mundo entero y evitar la Tercera Guerra Mundial, en una historia de espionaje internacional. La misión se desplegará más allá del tiempo real. No son viajes en el tiempo, es inversión.",
+    "sv": "Beväpnad med bara ett ord - \"Tenet\" - reser protagonisten i en skuggvärld av espionage för att rädda mänskligheten i ett uppdrag som utspelar sig bortom tiden."
+   },
+   "tagline": {
+    "fr": "Le temps est compté.",
+    "en": "Time runs out.",
+    "de": "Die Zeit läuft ab",
+    "it": "Il tempo sta per scadere",
+    "es": "El tiempo se acaba.",
+    "sv": "Tiden rinner ut."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 11794,
+   "runtime": 150
   },
   {
    "id": 872585,
@@ -256,7 +798,58 @@
     "en": "/b07VisHvZb0WzUpA8VB77wfMXwg.png",
     "it": "/eW4WghVLfLBjj96Uz0Cm6bZRf0c.png",
     "es": "/jNBHnHaJfzBRkUHfVzVj0nswpTh.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1942, convaincus que l'Allemagne hitlérienne est en train de développer une arme nucléaire, les États-Unis initient, dans le plus grand secret, le  « Projet Manhattan » destiné à mettre au point la première bombe atomique de l’histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert Oppenheimer, brillant physicien, qui sera bientôt surnommé « le père de la bombe atomique ». C'est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, vertigineuses, continuent de peser sur le monde actuel…",
+    "en": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    "de": "Als dem Physiker Julius Robert Oppenheimer während des Zweiten Weltkriegs die wissenschaftliche Leitung des Manhattan-Projekts übertragen wird, können er und seine Ehefrau Kitty sich nicht vorstellen, welche Auswirkungen Oppenheimers Arbeit nicht nur auf ihr Leben, sondern auf die ganze Welt haben wird. Im Los Alamos National Laboratory in New Mexico sollen er und sein Team unter der Aufsicht von Lt. Leslie Groves eine Nuklearwaffe entwickeln – was ihnen auch gelingt. Oppenheimer wird zum „Vater der Atombombe“ ausgerufen, doch dass seine tödliche Erfindung bald folgenschwer in Hiroshima und Nagasaki eingesetzt wird, lässt Oppenheimer Abstand von dem Projekt nehmen. Als der Krieg zu Ende geht, setzt sich Robert Oppenheimer als Berater der US-amerikanischen Atomenergiebehörde, die von Lewis Strauss mitbegründet wurde, für eine internationale Kontrolle von Kernenergie und gegen ein nukleares Wettrüsten ein – und gerät ins Visier des FBI.",
+    "it": "La storia del ruolo di J. Robert Oppenheimer, i cui studi condussero alle scoperte legate alla bomba atomica, con il conseguente utilizzo durante le stragi di Hiroshima e Nagasaki durante la Seconda Guerra Mondiale.",
+    "es": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+    "sv": "Berättelsen om den amerikanske vetenskapsmannen J. Robert Oppenheimer och hans roll i utvecklingen av atombomben."
+   },
+   "tagline": {
+    "fr": "Le monde changera à jamais.",
+    "en": "The world forever changes.",
+    "de": "Die Welt verändert sich für immer",
+    "it": "Il mondo cambia per sempre",
+    "es": "El mundo cambia para siempre.",
+    "sv": "Världen förändras för alltid."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Histoire",
+     "Guerre"
+    ],
+    "en": [
+     "Drama",
+     "History",
+     "War"
+    ],
+    "de": [
+     "Drama",
+     "Historie",
+     "Kriegsfilm"
+    ],
+    "it": [
+     "Dramma",
+     "Storia",
+     "Guerra"
+    ],
+    "es": [
+     "Drama",
+     "Historia",
+     "Bélica"
+    ],
+    "sv": [
+     "Drama",
+     "Historisk",
+     "Krig"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 12934,
+   "runtime": 181
   },
   {
    "id": 1368337,
@@ -278,7 +871,58 @@
     "de": "/oUYtFVUHl32RGyKwBSdDhToZ5Yv.png",
     "it": "/vttCFyRSF8KoHdO1nmDM5PhSmcs.png",
     "es": "/is9LO2rtFM2T43XOYw2HGQ2ECo2.png"
-   }
+   },
+   "overview": {
+    "fr": "Ulysse, roi d'Ithaque, entreprend un périple périlleux pour regagner son royaume après la guerre de Troie. Alors qu'ils traversent la Méditerranée avec ses soldats, ils se retrouvent bientôt à lutter non seulement contre les éléments, mais aussi contre une multitude d'obstacles mortels et de créatures mythiques.",
+    "en": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "de": "Nach dem epischen Sieg im Trojanischen Krieg tritt König Odysseus von Ithaka die lange Heimreise zu seiner Familie an. Mit seinen treuen Soldaten segelt er über das tückische Mittelmeer, wo wilde Stürme und göttlicher Zorn auf die Gefährten warten. Unterwegs muss sich die Mannschaft tödlichen Fallen, gewaltigen Naturgewalten und unbarmherzigen Fabelwesen stellen. Nur mit List und Ausdauer kämpft der Herrscher um das Überleben seiner Männer und die Rückkehr nach Hause.",
+    "it": "Ogni leggenda ha un prezzo. Ogni ritorno richiede un sacrificio. Mentre il mare diventa il suo più grande nemico, Ulisse affronta un cammino fatto di illusioni, battaglie e prove impossibili. Un'epica odissea che mette alla prova il coraggio di un uomo contro il volere degli dèi.",
+    "es": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+    "sv": "I en adaption av Homeros episka epos får vi följa Odysseus, den legendariske kungen av Ithaka, på hans långa och farofyllda resa hem efter det trojanska kriget. Under sin färd ställs han inför gudars nycker, mytologiska monstrum och prövningar som tänjer både hans list och hans mänsklighet till bristningsgränsen."
+   },
+   "tagline": {
+    "fr": "Défiez les dieux.",
+    "en": "Defy the gods.",
+    "de": "Trotze den Göttern.",
+    "it": "Ogni leggenda ha un inizio. Ogni eroe trova la sua strada.",
+    "es": "Desafía a los dioses.",
+    "sv": "Trotsa gudarna."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Fantastique"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Fantasy"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Fantasy"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantasy"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Fantasía"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Fantasy"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 5071,
+   "runtime": 173
   }
  ]
 }

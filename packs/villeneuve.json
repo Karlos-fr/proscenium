@@ -1,6 +1,6 @@
 {
  "id": "villeneuve",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Denis Villeneuve",
   "en": "Denis Villeneuve",
@@ -34,7 +34,44 @@
    ],
    "logo": {
     "en": "/rVxgsxiuA9QfurjjHSJTuv29YqS.png"
-   }
+   },
+   "overview": {
+    "fr": "Simone Prévost, 26 ans, est victime d'un accident de voiture dont elle sort indemne physiquement mais aussi bouleversée. Psychologiquement très choquée, elle remet toute sa vie en question, quitte son emploi, annule un voyage en Italie et part à la recherche de Philippe qui est son meilleur ami pour lui demander de lui faire un enfant. Celui-ci finit par accepter mais à une seule condition : cet enfant sera conçu dans le désert de Salt Lake City...",
+    "en": "After escaping unscathed from a car accident, photo model Simone decides that having a baby is the only way to give her vacant life some meaning. She asks her best friend Philippe to get her pregnant, and he reluctantly agrees, on the condition that they conceive somewhere in a desert, so they leave Montréal on a 24-hour round-trip to Salt Lake City to find a suitable spot.",
+    "de": "Die 26-jährige Simone schläft am Steuer ihres Wagens ein und überlebt wie durch ein Wunder einen schweren Unfall. Entschlossen, ihr Leben zu ändern, gibt sie ihren Job als Model auf und will ein Kind. Simones bester Freund, der Dauerstudent Philippe, soll sie schwängern. Er willigt ein, allerdings unter der Bedingung, dass sie dazu in die Wüste reisen. So landen Simon und Philippe in Salt Lake City, doch damit ist ihre Reise noch lange nicht zu Ende. Denis Villeneuves Spielfilmdebüt ist zugleich existentialistische Komödie und surreales Road Movie.",
+    "it": "La giovane Simone rimane coinvolta in un incidente d'auto che le è quasi fatale, e mentre s'interroga sulla mortalità, decide che forse è arrivato il momento di avere un bambino. Il miglior candidato per diventare padre è il suo migliore amico Phillipe che si dice subito d'accordo, a patto che concepiscano il bambino a Salt Lake City, nel deserto. Il viaggio sarà una lezione profonda e avvincente sull'amore, la solitudine, e la scoperta di sé.",
+    "es": "Tras tener un accidente de coche, Simone se replantea toda su vida y decide pedirle a su mejor amigo, Philippe, que sea el padre del hijo que quiere tener."
+   },
+   "tagline": {},
+   "genres": {
+    "fr": [
+     "Romance",
+     "Drame"
+    ],
+    "en": [
+     "Romance",
+     "Drama"
+    ],
+    "de": [
+     "Liebesfilm",
+     "Drama"
+    ],
+    "it": [
+     "Romance",
+     "Dramma"
+    ],
+    "es": [
+     "Romance",
+     "Drama"
+    ],
+    "sv": [
+     "Romantik",
+     "Drama"
+    ]
+   },
+   "rating": 6.4,
+   "votes": 131,
+   "runtime": 88
   },
   {
    "id": 35650,
@@ -52,7 +89,37 @@
    ],
    "logo": {
     "en": "/dtzNZynZVRxJJsDCQz9CisRWbyX.png"
-   }
+   },
+   "overview": {
+    "fr": "Bibiane Champagne, une jeune femme de vingt-cinq ans, est non seulement jolie mais elle connaît aussi la réussite professionnelle. Issue d'une riche famille influente, elle dirige plusieurs magasins de vêtements de luxe. Elle a un superbe appartement et passe ses nuits dans les boîtes à la mode. Son emploi du temps surchargé ne dissimule cependant pas le vide absolu de sa vie privée. Par un soir d'été pluvieux, Bibiane fauche malencontreusement un passant avec sa voiture. Le blessé, un poissonnier de cinquante-trois ans qu'elle a abandonné sur le bitume, réussit à rentrer chez lui pour y mourir doucement. La vie de Bibiane bascule alors dans un chaos inimaginable. Après avoir essayé d'effacer toute trace de son geste en plongeant sa voiture dans un bassin du port, elle cherche à en savoir plus sur l'homme dont elle a confisqué la vie. C'est ainsi qu'elle fait la rencontre de son fils Evian.",
+    "en": "A young woman's life spirals into chaos after she is involved in a hit-and-run accident. Then she encounters a mysterious man named Evian who offers her an opportunity for redemption. Narrated by a fish.",
+    "it": "Bibiane Champagne è una giovane donna di venticinque anni, bella e di successo. Proveniente da una ricca famiglia influente, frequenta diversi negozi di abbigliamento di lusso, ha un bellissimo appartamento e passa le notti in locali alla moda. Una piovosa sera d'estate, Bibiane investe accidentalmente un passante con la sua auto. Il ferito, un pescivendolo cinquantatreenne, tornato a casa, lentamente muore. La vita Bibiane scivola in un caos inimmaginabile: dopo aver cercato di cancellare ogni traccia del suo gesto gettando l'auto in un bacino portuale, cerca di saperne di più sull'uomo che ha ucciso...",
+    "es": "Bibiane (Marie-Josée Croze) es una mujer de 25 años que viajando con su coche atropella a un hombre y, presa del el pánico, huye de la escena del accidente. A raiz de tal desgraciado incidente, la joven cae en una etapa de caos y depresión."
+   },
+   "tagline": {},
+   "genres": {
+    "fr": [
+     "Drame"
+    ],
+    "en": [
+     "Drama"
+    ],
+    "de": [
+     "Drama"
+    ],
+    "it": [
+     "Dramma"
+    ],
+    "es": [
+     "Drama"
+    ],
+    "sv": [
+     "Drama"
+    ]
+   },
+   "rating": 6.2,
+   "votes": 208,
+   "runtime": 87
   },
   {
    "id": 22302,
@@ -70,7 +137,51 @@
    ],
    "logo": {
     "en": "/3lufpbP6jV0Wy39S3wPjc83kjtE.png"
-   }
+   },
+   "overview": {
+    "fr": "Basé sur les témoignages des survivants du drame survenu à l'Ecole polytechnique de Montréal, le 6 décembre 1989, le film raconte l'évènement à travers les yeux de Valérie et Jean-François, deux étudiants qui ont vu leur vie basculer lorsqu'un jeune homme s'est introduit dans l'école avec une idée en tête: emmener avec lui dans la mort le plus de femmes possible.",
+    "en": "A dramatization of the  École Polytechnique massacre in Montreal, on December 9, 1989, where 14 female engineering students were murdered (and 13 were wounded) by a 25 year old psychotic misogynist armed with a semi-automatic weapon.",
+    "de": "Ein junger Mann stürmt schwer bewaffnet die Technische Hochschule von Montreal. Er dringt in einen Seminarraum ein und trennt die fassungslosen Studenten nach ihrem Geschlecht. Während alle Männer den Saal verlassen müssen, bleiben die zu Tode verängstigten Frauen mit dem Amokschützen zurück. Es ist eine erbarmungslos kalte Szene – und da sie auf wahren Ereignissen beruht, ist ihr Ausgang kein Geheimnis: Viele Menschen sterben an diesem Tag. Dass diese Tragödie schon lange zurück liegt, nämlich Ende der 80er-Jahre geschah, mildert weder ihre Heftigkeit noch ihre Aktualität. Zu regelmäßig wiederholt sich dieser Wahnsinn, in den letzten Jahren auch in Deutschland.",
+    "it": "Basato sulle testimonianze dei sopravvissuti al dramma consumatosi all'Ecole Polytechnique di Montréal il 6 dicembre del 1989, il film racconta i tremendi fatti di quel giorno attraverso gli occhi di Valérie e Jean-François, due studenti che videro la loro vita messa a rischio quando un estraneo si introdusse nella scuola con il proposito di uccidere quante più donne possibile.",
+    "es": "Se basa en los testimonios de los supervivientes del drama ocurrido en la Escuela politécnica de Montreal, el 6 de diciembre de 1989. La película cuenta los hechos a través de los ojos de Valérie y Jean-François, dos estudiantes cuya vida dio un vuelco cuando un hombre entró en la escuela con la idea de asesinar al mayor número de mujeres posible.",
+    "sv": "Den sjätte december 1989 bestämmer sig en ung man för att leva ut sin antifeministiska agenda. Han går in på en ingenjörsskola med en enda tanke i huvudet: att avrätta unga kvinnor."
+   },
+   "tagline": {},
+   "genres": {
+    "fr": [
+     "Crime",
+     "Drame",
+     "Thriller"
+    ],
+    "en": [
+     "Crime",
+     "Drama",
+     "Thriller"
+    ],
+    "de": [
+     "Krimi",
+     "Drama",
+     "Thriller"
+    ],
+    "it": [
+     "Crime",
+     "Dramma",
+     "Thriller"
+    ],
+    "es": [
+     "Crimen",
+     "Drama",
+     "Suspense"
+    ],
+    "sv": [
+     "Kriminal",
+     "Drama",
+     "Thriller"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 731,
+   "runtime": 77
   },
   {
    "id": 46738,
@@ -92,7 +203,57 @@
     "de": "/fyjbvyxt3fivqXcJc3Kfbgn6p88.png",
     "es": "/1CaM9Z0U2KrBSns6hixWQkTzpyQ.png",
     "sv": "/xXDihkX40bzEq1uRGMSJMvJdBQI.png"
-   }
+   },
+   "overview": {
+    "fr": "À la lecture du testament de leur mère, Jeanne et Simon Marwan se voient remettre deux enveloppes : l’une destinée à un père qu’ils croyaient mort et l‘autre à un frère dont ils ignoraient l’existence. Jeanne voit dans cet énigmatique legs la clé du silence de sa mère, enfermée dans un mutisme inexpliqué les dernières semaines précédant sa mort. Elle décide immédiatement de partir au Moyen Orient exhumer le passé de cette famille dont elle ne sait presque rien… Simon, lui, n’a que faire des caprices posthumes de cette mère qui s’est toujours montrée distante. Mais son amour pour sa sœur jumelle le poussera bientôt à rejoindre Jeanne et à sillonner avec elle le pays de leurs ancêtres sur la piste d’une mère bien loin de celle qu’ils ont connue.",
+    "en": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+    "de": "Die in Montreal aufgewachsenen Geschwister Jeanne und Simon erfahren bei der Testamentseröffnung ihrer Mutter, dass sie einen Bruder haben. Die beiden sind schockiert. Der Notar, ein Freund ihrer Mutter, die über ihre Vergangenheit immer geschwiegen hat, übergibt ihnen zwei Briefe, einen an den Bruder, einen an den Vater gerichtet. Jeanne will herausfinden, wer Vater und Bruder sind, Simon dagegen die Vergangenheit ruhen lassen. So bricht Jeanne allein auf Spurensuche in den Nahen Osten auf und deckt ein schreckliches Detail nach dem anderen ihrer vom Krieg bestimmten furchtbaren Familiengeschichte auf.",
+    "it": "Quando il notaio Lebel, legge a Jeanne e Simon Marwan il testamento della loro madre Nawal, i gemelli restano scioccati nel vedersi porgere due buste, una destinata ad un padre che credevano morto e l'altra ad un fratello di cui ignoravano l'esistenza. Jeanne vede in questo lascito enigmatico, la chiave del silenzio di Nawal, chiusa in un mutismo inesplicabile durante le ultime settimane precedenti la sua morte. Decide di partire subito per il Medio Oriente per riesumare il passato di questa famiglia di cui non sa quasi nulla. Simon, per quanto lo riguarda, non ha bisogno dei capricci postumi di quella madre che è sempre stata lontana e avara di affetto, ma il suo amore per la sorella lo spingerà presto a unirsi a Jeanne per setacciare insieme la terra dei loro antenati sulle tracce di una Nawal ben lontana dalla madre che conoscevano...",
+    "es": "Jeanne y Simon Marwan son dos mellizos cuya madre, que lleva mucho tiempo sin hablar, está a punto de morir. Pero, antes del fatal desenlace, les da dos cartas que deben ser entregadas a un padre al que creían muerto y a un hermano cuya existencia desconocían. Ambos emprenderán un viaje al Líbano para localizarlos y encontrar respuestas a su existencia. Basada en una obra de teatro de Wajdi Mouawad.",
+    "sv": "En mors sista önskan är att skicka sina tvillingbarn Jeanne och Simon på en resa till Sydvästasien för att söka efter sina rötter, en far de trodde var död och en bror de inte visste fanns."
+   },
+   "tagline": {
+    "fr": "D'après la pièce de Wajdi Mouawad.",
+    "en": "2 letters. One for the brother. One for the father.",
+    "de": "Mit dem Aufdecken der Wahrheit begann ihr Leben.",
+    "es": "La búsqueda empieza al revelarse el testamento de su madre",
+    "sv": "Jakten på sanningen börjar med Nawals testamente."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Guerre",
+     "Mystère"
+    ],
+    "en": [
+     "Drama",
+     "War",
+     "Mystery"
+    ],
+    "de": [
+     "Drama",
+     "Kriegsfilm",
+     "Mystery"
+    ],
+    "it": [
+     "Dramma",
+     "Guerra",
+     "Mistero"
+    ],
+    "es": [
+     "Drama",
+     "Bélica",
+     "Misterio"
+    ],
+    "sv": [
+     "Drama",
+     "Krig",
+     "Mystik"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 3579,
+   "runtime": 131
   },
   {
    "id": 146233,
@@ -112,7 +273,57 @@
     "fr": "/kyeFmQReM4CAl5lUujiIX4aOErI.png",
     "en": "/aKZAoC9PYqAu6auDHhi9iryj6D5.png",
     "es": "/qGqq5zwljVKv8KIWpAwCZh5h52H.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans la banlieue de Boston, deux fillettes de 6 ans, Anna et Joy, ont disparu. Le détective Loki privilégie la thèse du kidnapping suite au témoignage de Keller, le père d’Anna. Le suspect numéro 1 est rapidement arrêté mais est relâché quelques jours plus tard faute de preuve, entrainant la fureur de Keller. Aveuglé par sa douleur, le père dévasté se lance alors dans une course contre la montre pour retrouver les enfants disparus. De son côté, Loki essaie de trouver des indices pour arrêter le coupable avant que Keller ne commette l’irréparable… Les jours passent et les chances de retrouver les fillettes s’amenuisent…",
+    "en": "After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search descends into obsession and moral compromise.",
+    "de": "Keller Dover ist ein bibeltreuer Kriegsveteran. Der harte Kerl steht mit beiden Beinen fest im Leben. Dovers Welt gerät jedoch aus den Fugen, als seine sechsjährige Tochter Anna und deren Freundin Joy an Thanksgiving entführt werden. Es beginnt eine fieberhafte Suche, die von dem jungen und ambitionierten Detektiv Loki angeführt wird, dessen primäres Ziel es jedoch ist, endlich der Kleinstadt zu entfliehen und in eine Großstadt versetzt zu werden. Alle Spuren zu der Entführung verlaufen im Nichts. Auch den einzigen Verdächtigen, den geistig zurückgebliebenen Alex Jones, muss Loki aus Mangel an Beweisen wieder laufen lassen. Familienvater Dover fasst daraufhin einen folgenschweren Entschluss: Er will die Wahrheit auf eigene Faust herausfinden und begibt sich auf einen verhängnisvollen und gnadenlosen Weg der Selbstjustiz um die beiden kleinen Mädchen vielleicht doch noch zu finden.",
+    "it": "Nella (apparentemente) tranquilla provincia americana due bambine di sei e sette anni, Anna ed Eliza, escono a giocare insieme e svaniscono senza lasciare traccia. I genitori, fra di loro amici, reagiscono nei modi più disparati (e disperati): Keller, il padre della piccola Anna, comincia una caccia all'uomo senza esclusione di colpi, mentre sua moglie Grace si imbottisce di psicofarmaci per attutire il dolore e lo sgomento; Franklin, il padre di Eliza, cerca di non farsi travolgere dalla sete di giustizia di Keller, la moglie Nancy invece pare disposta ad appoggiarne i modi estremi.  Il detective Loki avvia le sue indagini fra intoppi burocratici e depistaggi, e comincia a chiedersi di chi sospettare, dato che anche il comportamento di Keller si fa sempre più equivoco. E la cittadina di provincia rivela di avere più scheletri in cantina (letteralmente) di quanto si potesse immaginare.",
+    "es": "Keller Dover se enfrenta a la peor de las pesadillas: Anna, su hija de seis años, ha desaparecido con su amiga Joy y, a medida que pasa el tiempo, el pánico lo va dominando. Desesperado, decide ocuparse personalmente del asunto. Pero, ¿hasta dónde está dispuesto a llegar para averiguar el paradero de su hija?",
+    "sv": "Keller Dovers sexåriga dotter och hennes bästa vän kidnappas på Thanksgiving. När detektiven Lokis utredning stannar upp bestämmer sig Keller för att ta saken i egna händer."
+   },
+   "tagline": {
+    "fr": "Une recherche désespérée.",
+    "en": "How far would you go to protect your child?",
+    "de": "Jeder Augenblick zählt.",
+    "it": "Una ricerca disperata. Una verità oscura.",
+    "es": "Una verdad oculta. Una búsqueda desesperada."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Thriller",
+     "Crime"
+    ],
+    "en": [
+     "Drama",
+     "Thriller",
+     "Crime"
+    ],
+    "de": [
+     "Drama",
+     "Thriller",
+     "Krimi"
+    ],
+    "it": [
+     "Dramma",
+     "Thriller",
+     "Crime"
+    ],
+    "es": [
+     "Drama",
+     "Suspense",
+     "Crimen"
+    ],
+    "sv": [
+     "Drama",
+     "Thriller",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 13781,
+   "runtime": 153
   },
   {
    "id": 181886,
@@ -132,7 +343,50 @@
     "fr": "/ctMZYlBHPDk3YmE6fz4Jq053fH2.png",
     "en": "/g8AWU6iSltRMJaa82PSOfXGglxD.png",
     "es": "/oW5dVDKoQSHtVVvUW5AFh7WUQFM.png"
-   }
+   },
+   "overview": {
+    "fr": "Adam, un professeur discret, mène une vie paisible avec sa fiancée Mary. Un jour qu'il découvre son sosie parfait en la personne d’Anthony, un acteur fantasque, il ressent un trouble profond. Il commence alors à observer à distance la vie de cet homme et de sa mystérieuse femme enceinte.",
+    "en": "A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
+    "de": "Geschichtsprofessor Adam führt ein karges, langweiliges Leben zwischen Vorlesungen, Korrekturen und lieblosem Sex mit Freundin Mary. Doch eines Tages macht er in einem alten Independentfilm eine erstaunliche Entdeckung: Adam sieht einen Schauspieler, der ihm exakt gleicht. Nachdem er den Gedanken an seinen Doppelgänger nicht loswird, fasst Adam den Entschluss, ihn aufzuspüren und herauszufinden, was es mit ihm auf sich hat. Er beobachtet den mysteriösen Fremden und findet einige Dinge heraus: Der Name des Mannes ist Anthony – und selbst seine Stimme klingt exakt wie die von Adam. Schließlich nimmt der Professor Kontakt zu seinem Doppelgänger auf. Nachdem Anthony zunächst abweisend reagiert, lässt er sich irgendwann doch auf ein Treffen mit Adam ein. Die Situation wird immer bizarrer…",
+    "it": "Jake Gyllenhaal è un insegnante di storia depresso che un giorno scopre all'interno di un film la presenza di un attore totalmente identico a se stesso, così com'era cinque anni prima. Parte quindi alla ricerca dell'uomo misterioso.",
+    "es": "Adam es un afable profesor de historia que lleva una vida bastante monótona. Un día, viendo una película, descubre a un actor que es idéntico a él. Obsesionado con la idea de tener un doble, la búsqueda de ese hombre tendrá para él consecuencias inesperadas...",
+    "sv": "Vad händer när du möter din dubbelgångare? Adam är en livstrött historielärare, vars liv helt förändras när han upptäcker en skådespelare som ser exakt ut som han själv. Han bestämmer sig för att söka upp honom – vilket får oanade konsekvenser."
+   },
+   "tagline": {
+    "en": "You can't escape yourself.",
+    "de": "Du kannst dir selbst nicht entkommen",
+    "it": "Non puoi sfuggire a te stesso!",
+    "es": "¡No puedes escapar de ti mismo!"
+   },
+   "genres": {
+    "fr": [
+     "Thriller",
+     "Mystère"
+    ],
+    "en": [
+     "Thriller",
+     "Mystery"
+    ],
+    "de": [
+     "Thriller",
+     "Mystery"
+    ],
+    "it": [
+     "Thriller",
+     "Mistero"
+    ],
+    "es": [
+     "Suspense",
+     "Misterio"
+    ],
+    "sv": [
+     "Thriller",
+     "Mystik"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 6706,
+   "runtime": 90
   },
   {
    "id": 273481,
@@ -151,7 +405,58 @@
    "logo": {
     "en": "/995VQDIxH5nKRLt5qXqmMdPj0kz.png",
     "es": "/et8fJOy6GaxMw4MYuXdDk31PuDa.png"
-   }
+   },
+   "overview": {
+    "fr": "La zone frontalière entre les États‐Unis et le Mexique est devenue un territoire de non‐droit. Kate, une jeune recrue idéaliste du FBI, y est enrôlée pour aider un groupe d’intervention d’élite dirigé par un agent du gouvernement dans la lutte contre le trafic de drogues. Menée par un consultant énigmatique l’équipe se lance dans un périple clandestin, obligeant Kate à remettre en question ses convictions pour pouvoir survivre.",
+    "en": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+    "de": "Eine FBI-Agentin beteiligt sich an einem Undercover-Einsatz gegen einen mexikanischen Drogenbaron. Doch gewisse Maßnahmen der Mission kollidieren mit ihren Moralvorstellungen.",
+    "it": "Al confine tra Stati Uniti e Messico, in una zona dove non esiste la legge, Kate, un'agente dell'FBI idealista è arruolata da un agente del governo in una task force d'elite impegnata nella sempre più difficile guerra al traffico di droga. Guidati da un consulente dal passato discutibile, la squadra parte per una missione segreta che costringerà Kate a mettere in discussione tutto ciò in cui credeva, per poter sopravvivere.",
+    "es": "En la zona fronteriza que se extiende entre Estados Unidos y México la joven Kate Macer, una idealista agente del FBI, es reclutada por una fuerza de élite del Gobierno para luchar contra el narcotráfico. Bajo el mando de Matt Graver, un frío miembro de las fuerzas gubernamentales, y de Alejandro, un enigmático asesor, el equipo emprende una misión que lleva a la mujer a cuestionarse sus convicciones sobre la guerra contra los narcos y los límites de la ley.",
+    "sv": "I det laglösa gränsområdet mellan USA och Mexiko, anlitas en idealistisk FBI-agent av chefen för elitstyrka för att hjälpa till i ett eskalerande krig mot droger. Tillsammans med en gåtfull konsult med ett mystiskt förflutet, ger sig gruppen ut på en resa som tvingar Kate att ifrågasätta allt hon tror på för att överleva."
+   },
+   "tagline": {
+    "fr": "La loi n’est plus la règle.",
+    "en": "The border is just another line to cross.",
+    "de": "Die Grenze ist nur eine weitere Linie, die es zu überschreiten gilt.",
+    "it": "Ci sono guerre in cui non c'è confine tra bene e male",
+    "es": "La frontera es sólo otra línea para cruzar.",
+    "sv": "I Mexiko betyder SICARIO lönnmördare."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Crime",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Crime",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Krimi",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Crime",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Crimen",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Kriminal",
+     "Thriller"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 10125,
+   "runtime": 121
   },
   {
    "id": 329865,
@@ -172,7 +477,58 @@
     "en": "/rcPtxYkZ2mXmKdD0NKLzjsHxL3V.png",
     "de": "/wlDZ8re34VOog1jVLLt8wfipQW3.png",
     "es": "/loT4liMF2lVP9E695LGQDeLqQzP.png"
-   }
+   },
+   "overview": {
+    "fr": "Lorsque de mystérieux vaisseaux venus du fond de l’espace surgissent un peu partout sur Terre, une équipe d’experts est rassemblée sous la direction de la linguiste Louise Banks afin de tenter de comprendre leurs intentions.  Face à l’énigme que constituent leur présence et leurs messages mystérieux, les réactions dans le monde sont extrêmes et l’humanité se retrouve bientôt au bord d’une guerre absolue. Louise Banks et son équipe n’ont que très peu de temps pour trouver des réponses. Pour les obtenir, la jeune femme va prendre un risque qui pourrait non seulement lui coûter la vie, mais détruire le genre humain…",
+    "en": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "de": "Zwölf Alien-Raumschiffe landen auf der Erde in unterschiedlichen Regionen. Die Menschen versuchen mit den Außerirdischen zu kommunizieren, aber niemand versteht die walartigen Laute, die von den Aliens abgesondert werden. Im Auftrag der US-Regierung stellt Colonel Weber darum ein Team um die Linguistin Louise Banks und den Physiker Ian Donnelly zusammen, das eine Kommunikation mit den fremden Wesen herstellen soll, um deren Absichten in Erfahrung zu bringen. In Montana, wo eines der Schiffe über dem Boden schwebt, machen sich die beiden an die Arbeit – er, der rationale Naturwissenschaftler mit klarer Ansicht zu den Dingen, sie mit ihrem Sprachverständnis und ihrer ansteckenden Entdeckungsfreude. Doch bald beginnt ein Rennen gegen die Zeit, bei dem es um nicht weniger als den Fortbestand der Menschheit geht …",
+    "it": "Quando un misterioso oggetto proveniente dallo spazio atterra sul nostro pianeta, per le susseguenti investigazioni viene formata una squadra di élite, capitanata dall’esperta linguista Louise Banks. Mentre l’umanità vacilla sull’orlo di una Guerra globale, Banks e il suo gruppo affronta una corsa contro il tempo in cerca di risposte – e per trovarle, farà una scelta che metterà a repentaglio la sua vita e, forse, anche quella del resto della razza umana.",
+    "es": "Unas misteriosas naves espaciales aterrizan por todo el mundo. Un equipo, liderado por la lingüista Louise Banks, intenta descifrar el motivo de su visita. A medida que la humanidad se tambalea al borde de la guerra, Louise y su equipo luchan contra el tiempo, llegando a poner en peligro su vida y, muy posiblemente, la del resto de la humanidad.",
+    "sv": "En lingvistiker rekryteras av militären efter att utomjordingar har landat runt om i världen. Syftet är att försöka ta reda på om de har fientliga avsikter eller inte."
+   },
+   "tagline": {
+    "fr": "Pourquoi sont-ils ici ?",
+    "en": "Why are they here?",
+    "de": "Warum sind sie hier?",
+    "it": "Perché sono venuti qui?",
+    "es": "¿Por qué están aquí?",
+    "sv": "Varför är de här?"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Science-Fiction",
+     "Mystère"
+    ],
+    "en": [
+     "Drama",
+     "Science Fiction",
+     "Mystery"
+    ],
+    "de": [
+     "Drama",
+     "Science Fiction",
+     "Mystery"
+    ],
+    "it": [
+     "Dramma",
+     "Fantascienza",
+     "Mistero"
+    ],
+    "es": [
+     "Drama",
+     "Ciencia ficción",
+     "Misterio"
+    ],
+    "sv": [
+     "Drama",
+     "Science Fiction",
+     "Mystik"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 20200,
+   "runtime": 117
   },
   {
    "id": 335984,
@@ -192,7 +548,52 @@
     "fr": "/zHEjlHHWLK2GZX0Di1F7eKleovY.png",
     "en": "/gUoDt6GggEFXVzdyDTyF8ggrEm8.png",
     "es": "/ojKJKVgQ1S4ycPILfTLN5S79Fc1.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2049, la société est fragilisée par les nombreuses tensions entre les humains et leurs esclaves créés par bioingénierie. L’officier K est un Blade Runner : il fait partie d’une force d’intervention d’élite chargée de trouver et d’éliminer ceux qui n’obéissent pas aux ordres des humains. Lorsqu’il découvre un secret enfoui depuis longtemps et capable de changer le monde, les plus hautes instances décident que c’est à son tour d’être traqué et éliminé. Son seul espoir est de retrouver Rick Deckard, un ancien Blade Runner qui a disparu depuis des décennies…",
+    "en": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+    "de": "Im Jahr 2023 wird die Herstellung von Replikanten – künstlichen Menschen, die zum Einsatz in den Weltall-Kolonien gezüchtet werden – nach mehreren schwerwiegenden Vorfällen verboten. Als der brillante Industrielle Niander Wallace ein neues, verbessertes Modell, den „Nexus 9“, vorstellt, wird die Produktion 2036 jedoch wieder erlaubt. Um ältere und somit nicht zugelassene Replikanten-Modelle, die sich auf der Erde verstecken, aufzuspüren und zu eliminieren, ist weiterhin die sogenannte „Blade Runner“-Einheit des LAPD im Einsatz, zu der auch K gehört. Bei seiner Arbeit stößt K auf ein düsteres, gut gehütetes Geheimnis von enormer Sprengkraft, das ihn auf die Spur eines ehemaligen Blade Runners bringt: Rick Deckard, der vor 30 Jahren aus Los Angeles verschwand ...",
+    "it": "Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che è rimasto della società. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni.",
+    "es": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+    "sv": "Trettio år har gått sedan sist. En ny blade runner – Los Angeles-polisen K – avslöjar en sedan länge begravd hemlighet med potential att rasera det lilla som nu återstår av samhället. K:s avslöjande leder honom ut på en jakt efter Rick Deckard, en tidigare blade runner som varit försvunnen i tre decennier."
+   },
+   "tagline": {
+    "fr": "La clé de l’avenir est enfin découverte.",
+    "en": "The key to the future is finally unearthed.",
+    "de": "Der Schlüssel zur Zukunft wird endlich gefunden.",
+    "it": "Chi sono io?",
+    "es": "La clave del futuro finalmente se desenterra.",
+    "sv": "Nyckeln till framtiden har äntligen grävts fram."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Drame"
+    ],
+    "en": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "de": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "it": [
+     "Fantascienza",
+     "Dramma"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Drama"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Drama"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 16042,
+   "runtime": 164
   },
   {
    "id": 438631,
@@ -213,7 +614,52 @@
     "en": "/hlnyMaUxeFJTb3QL1hKpHwhWowC.png",
     "it": "/6rJJKCfcGIwiZAg7NegVocYvKK0.png",
     "es": "/df7iykrBvhHcDE38CNXOb8WcSuP.png"
-   }
+   },
+   "overview": {
+    "fr": "L'histoire de Paul Atreides, jeune homme aussi doué que brillant, voué à connaître un destin hors du commun qui le dépasse totalement. Car, s'il veut préserver l'avenir de sa famille et de son peuple, il devra se rendre sur Dune, la planète la plus dangereuse de l'Univers. Mais aussi la seule à même de fournir la ressource la plus précieuse capable de décupler la puissance de l'Humanité. Tandis que des forces maléfiques se disputent le contrôle de cette planète, seuls ceux qui parviennent à dominer leur peur pourront survivre…",
+    "en": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+    "de": "„Dune“ erzählt die packende Geschichte des brillanten jungen Helden Paul Atreides, dem das Schicksal eine Rolle vorherbestimmt hat, von der er niemals geträumt hätte. Um die Zukunft seiner Familie und seines gesamten Volkes zu sichern, muss Paul auf den gefährlichsten Planeten des Universums reisen. Nur auf dieser Welt existiert ein wertvoller Rohstoff, der es der Menschheit ermöglichen könnte, ihr vollständiges geistiges Potenzial auszuschöpfen. Doch finstere Mächte wollen die Kontrolle über die kostbare Substanz an sich reißen. Es entbrennt ein erbitterter Kampf, den nur diejenigen überleben werden, die ihre eigenen Ängste besiegen.",
+    "it": "Paul Atreides, un brillante e dotato giovane nato per un grande destino oltre la sua comprensione, deve viaggiare sul pianeta più pericoloso dell'universo per garantire il futuro della sua famiglia e del suo popolo. Mentre forze malevole esplodono in conflitti per la riserva esclusiva del pianeta della risorsa più preziosa esistente, \"la spezia\", una merce capace di sbloccare il massimo potenziale dell'umanità, soltanto chi riesce a superare la propria paura sopravvivrà.",
+    "es": "En un lejano futuro, la galaxia conocida es gobernada mediante un sistema feudal de casas nobles bajo el mandato del Emperador. Las alianzas y la política giran entorno a un pequeño planeta, Dune,  del que extrae la 'especia melange', la materia prima que permite los viajes espaciales. La Casa Atreides, bajo el mandato del Duque Leto Atreides recibe el encargo de custodiar el planeta, relevando en la encomienda a sus históricos enemigos, los Harkonnen. Paul Atreides, hijo del duque, se verá atrapado en las intrigas políticas mientras descubre el destino que le deparan los desiertos de Dune.",
+    "sv": "Paul Atreides är en briljant och talangfull ung man född med ett storslaget öde som måste resa till den farligaste planeten i universum för att säkra sin familjs och sitt folks framtid. När illasinnade krafter kastas in i en konflikt om tillgången till planetens mest värdefulla råvara - ett ämne med förmågan att låsa upp mänsklighetens fulla potential - kommer bara de som övervinner sina rädslor att överleva."
+   },
+   "tagline": {
+    "fr": "Au-delà de la peur, le destin attend.",
+    "en": "It begins.",
+    "de": "Jenseits der Angst erwartet uns das Schicksal",
+    "it": "L'inizio di un viaggio straordinario",
+    "es": "Más allá del miedo, el destino espera.",
+    "sv": "Allt börjar nu."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 15991,
+   "runtime": 156
   },
   {
    "id": 693134,
@@ -234,7 +680,52 @@
     "en": "/eYvF1LhPKuoBxOAmWjFTAK7EPWl.png",
     "it": "/6FliKORjKubakqXp3STAVSH2CXe.png",
     "es": "/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png"
-   }
+   },
+   "overview": {
+    "fr": "Le voyage mythique de Paul Atreides qui s'allie à Chani et aux Fremen dans sa quête de vengeance envers les conspirateurs qui ont anéanti sa famille. Devant choisir entre l'amour de sa vie et le destin de l'univers, il fera tout pour éviter un terrible futur que lui seul peut prédire.",
+    "en": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "de": "Paul Atreides begibt sich mithilfe von Chani und den Fremen auf einen Rachefeldzug gegen die Verschwörer, die seine Familie vernichtet haben. Der junge Paul steht vor der Wahl zwischen der Liebe seines Lebens und dem Schicksal des gesamten Universums. Mit allen Mitteln aber muss er versuchen, eine schreckliche Zukunft zu verhindern – eine Zukunft, die niemand außer ihm vorhersehen kann.",
+    "it": "Paul Atreides si unisce a Chani e ai Fremen mentre è sul sentiero di guerra per vendicarsi dei cospiratori che hanno annientato la sua famiglia. Di fronte a una scelta tra l'amore della sua vita e il destino dell'universo conosciuto, Paul si sforza di prevenire un terribile futuro che solo lui può prevedere.",
+    "es": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+    "sv": "Paul Atreides förenar sig med Chani och fremenfolket samtidigt som han är ute efter hämnd på konspiratörerna som förgjorde hans familj. När han ställs inför valet mellan sitt livs kärlek och universums öde, måste han kämpa för att förhindra en fruktansvärd framtid som bara han kan se."
+   },
+   "tagline": {
+    "fr": "Longue vie à la Rébellion !",
+    "en": "Long live the fighters.",
+    "de": "Lang leben die Kämpfer",
+    "it": "Lunga vita ai combattenti",
+    "es": "Larga vida a los guerreros.",
+    "sv": "Länge leve kämparna."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 9000,
+   "runtime": 166
   }
  ]
 }

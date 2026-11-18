@@ -1,6 +1,6 @@
 {
  "id": "james-bond",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "James Bond 007",
   "en": "James Bond 007",
@@ -38,7 +38,57 @@
     "de": "/kok8uO2xMNqdkp2a08nzajyxV6U.png",
     "it": "/mjT4OBDRwkkwijSbsyfoxnUavw1.png",
     "es": "/iRfs9pvDqXVMKNCoME2xCQV0qZG.png"
-   }
+   },
+   "overview": {
+    "fr": "Le chef des services secrets de Sa Majesté britannique, « M », envoie en mission à la Jamaïque l'agent spécial 007, James Bond, enquêter sur la disparition d'un de ses collègues. L'espion va affronter la puissance maléfique de Spectre, organisation criminelle qui vise à la domination du monde, personnifiée par le redoutable Dr No. Au gré de ses aventures, il rencontrera la sublime Honey, qui surgit de l'eau vêtue d'un bikini blanc.",
+    "en": "Agent 007 battles mysterious Dr. No, a scientific genius bent on destroying the U.S. space program. As the countdown to disaster begins, Bond must go to Jamaica, where he encounters beautiful Honey Ryder, to confront a megalomaniacal villain in his massive island headquarters.",
+    "de": "Der mysteriöse Wissenschaftler Dr. No sabotiert von seiner geheimen Basis auf Jamaica aus das amerikanische Raumfahrtprogramm. Der Secret Service setzt seinen besten Agenten auf den Wissenschaftler an.",
+    "it": "James Bond giunge in Giamaica per indagare su due assassini. L'indagine lo porta a Crab Key, il rifugio misterioso di due scienziati, il prof. Dent e il dott. No. Bond è catturato insieme ad una ragazza indigena, Honey, sua occasionale guida. Apprende che il dott. No ha allestito un laboratorio per modificare la rotta dei missili Usa. La situazione è disperata, ma alla fine Bond e Honey riescono a fuggire, lasciandosi alle spalle i laboratori distrutti con un abile colpo di mano.",
+    "es": "James Bond llega a Jamaica con la misión de investigar los asesinatos de un agente especial británico y su secretaria. Pero, al mismo tiempo, descubre la existencia de una siniestra organización en la isla Crab Key. En esta ocasión su enemigo es el Doctor No, que, ayudado por su cómplice, el profesor Dent, se propone ejecutar un siniestro plan: desviar la trayectoria de los cohetes de Cabo Cañaveral.",
+    "sv": "I filmen som blev starten till James Bond succén, slåss agent 007 mot den mystiske Dr. No, en kinesisk vetenskapsman som bestämt sig för att förstöra USAs rymdprogram. För att undvika en katastrof skickas Bond till Jamaica där han möter den vackra Honey Ryder och konfronteras med den storhetsvansinnige Dr. No på hans ö Crab Key."
+   },
+   "tagline": {
+    "fr": "Rencontrez maintenant le gentleman-espion le plus extraordinaire de toute la fiction !",
+    "en": "Now meet the most extraordinary gentleman spy in all fiction!",
+    "de": "Lernen Sie den außergewöhnlichsten Gentleman-Spion der Literatur kennen!",
+    "it": "Il suo nome è Bond. James Bond.",
+    "es": "Conoce el espía más extraordinario y caballeroso de todos."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 4262,
+   "runtime": 110
   },
   {
    "id": 657,
@@ -60,7 +110,57 @@
     "de": "/5jvj0JhWRhLwXHKsNu17AcRyaeH.png",
     "it": "/42cguXWaU9Ae8WlmyS8w5yHMccW.png",
     "es": "/xQ07sUGKppXhpj46H64EgpGugXQ.png"
-   }
+   },
+   "overview": {
+    "fr": "Venise, Kronsteen, grand champion d'échecs et membre du Spectre, a été chargé par Blofeld de rallumer la guerre froide entre l'Est et l'Ouest. Avec l'aide de Rosa Klebb, ex-chef des services secrets soviétiques, il a mis au point une stratégie qui passe par Istanbul et le vol du nouveau lecteur de déchiffrement soviétique. Persuadé que les britanniques vont mordre à l'hameçon qu'il leur tend et qu'ils vont envoyer sur place James Bond, il charge Klebb de recruter une jeune femme au sein du consulat russe, dont le rôle sera de séduire Bond, de l'aider à s'emparer du lecteur et de le livrer à un redoutable tueur, Red Grant. La première partie du plan de Kronsteen se déroule sans anicroche. Bond arrive à Istanbul et y rencontre Kerim Bey qui dirige les services de renseignements britanniques en Turquie. Il apprend ainsi que Tatiana Romanova est prête à passer à l'Ouest en leur donnant le lecteur.",
+    "en": "Agent 007 is back in the second installment of the James Bond series, this time battling a secret crime organization known as SPECTRE. Russians Rosa Klebb and Kronsteen are out to snatch a decoding device known as the Lektor, using the ravishing Tatiana to lure Bond into helping them. Bond willingly travels to meet Tatiana in Istanbul, where he must rely on his wits to escape with his life in a series of deadly encounters with the enemy.",
+    "de": "James Bond soll in Istanbul eine russische Dechiffriermaschine von einer übergelaufenen Agentin erhalten. Das verlockende Angebot entpuppt sich jedoch als tödliche Falle.",
+    "it": "James Bond viene inviato ad Istanbul dal servizio inglese per sottrarre ai russi il 'lector', un decifratore universale che è ambito anche dalla Spectre, una setta che intende dominare il mondo. Contemporaneamente una segretaria dell'ambasciata russa, Tatiana, viene invata sulle tracce di Bond. Questa però si innamora dell'agente e lo aiuta.",
+    "es": "Una máquina que descifra los más complicados sistemas de comunicación es el objetivo del agente británico James Bond, que esta vez tiene que viajar hasta Estambul para desarrollar su misión.",
+    "sv": "Det ondskefulla SPECTRE planerar att stjäla en dekoder som ska hjälpa dem att komma över ryska statshemligheter. James Bond måste få tag på apparaten först, men först är han tvungen att konfrontera Red Grant den hänsynslösa Rosa Klebb - en före detta KGB-agent med giftspetsar på skorna. I vanlig ordning får agent 007 damerna på fall - denna gång en vacker Sovjet-desertör som försöker lura honom in i en dödlig fälla."
+   },
+   "tagline": {
+    "fr": "James Bond 007 est de retour !",
+    "en": "The world's masters of murder pull out all the stops to destroy Agent 007!",
+    "de": "Die weltberühmten Meister des Mordes ziehen alle Register, um Agent 007 zu vernichten!",
+    "it": "Il suo nome è Bond. James Bond.",
+    "es": "¡Los maestros mundiales del asesinato hacen todo lo posible para destruir al Agente 007!"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 3532,
+   "runtime": 115
   },
   {
    "id": 658,
@@ -81,7 +181,57 @@
     "en": "/cLK12LI1uJx77dTGnkb6ZNUxUcV.png",
     "it": "/xEPjIqZGKmYZHrQiuEupmuYXol9.png",
     "es": "/j4IhXYbcB79kbIgkhiOXzonC8oW.png"
-   }
+   },
+   "overview": {
+    "fr": "L'agent secret 007 est chargé d'enquêter sur les revenus d'Auric Goldfinger. La banque d'Angleterre a découvert qu'il entreposait d'énormes quantités d'or, mais s'inquiète de ne pas savoir dans quel but. Quelques verres, parties de golf, poursuites et autres aventures galantes plus loin, James Bond découvre en réalité les préparatifs du « crime du siècle », dont les retombées pourraient amener le chaos économique sur les pays développés du bloc de l'Ouest…",
+    "en": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox—and obliterate the world's economy.",
+    "de": "Die teuerste Art zu töten. James Bond, der Superagent seiner Majestät, wird auf die Fährte eines verbrecherischen Genies gesetzt, das die Goldreserven von Fort Knox in seinen Besitz bringen will. Bonds Gegner Goldfinger ist der Mann, der seine abtrünnig gewordene Geliebte einem tödlichen Veredelungsprozeß aussetzte, indem er sie mit Gold überzog. Männliche Rivalen barbiert Odd-Job, der Leibwächter des exzentrischen Mulitmillionärs, mit seiner rasiermesserscharfen Hutkrempe aus Metall. Mit Hilfe von Pussy Galore will Bond den Raub des Goldes vereiteln...",
+    "it": "Sospettato di contrabbandare oro, un ricco individuo, Goldfinger, è sottoposto alla vigilanza del celebre agente del servizio segreto James Bond. Questi, pero', viene sequestrato da Goldfinger, il quale intende condurre a termine un'audace impresa criminosa destinata a privare gli Stati Uniti della loro riserva aurea.",
+    "es": "Un malvado magnate, Auric Goldfinger, quiere hacer estallar una bomba atómica en Fort Knox, donde está toda la reserva federal de oro de los Estados Unidos, para poder así incrementar enormemente el precio del metal dorado.",
+    "sv": "James Bond undersöker den förmögne Auric Goldfinger, som misstänks ha planer på att stjäla guld från England. Det brittiska guldet är dock inte tillräckligt för den girige magnaten, som planerar att plundra Fort Knox och förinta världsekonomin. Beväpnad med sin specialbyggda Aston Martin är det upp till James Bond att stoppa honom. På vägen stöter han på en rad problem: Oddjob, den stumme betjänten med sin dödliga hatt, den vackra Jill Masterson och den sexiga piloten Pussy Galore, vars känslor för Bond komplicerar hennes roll i Goldfingers planer."
+   },
+   "tagline": {
+    "fr": "James Bond de nouveau en action !",
+    "en": "Everything he touches turns into excitement!",
+    "de": "James Bond ist wieder in Aktion!",
+    "it": "James Bond è tornato in azione!",
+    "es": "¡James Bond ha vuelto a la acción! ¡Todo lo que toca se convierte en emoción!"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 4178,
+   "runtime": 110
   },
   {
    "id": 660,
@@ -103,7 +253,57 @@
     "de": "/1k8ZR1dq9uZKFpAeJaNrMUnuEWW.png",
     "it": "/aOHeDf3zl3eWAu85uvcMTiIxuJ4.png",
     "es": "/kNtKvi3blT9UG9gfGLRY6LdJWnw.png"
-   }
+   },
+   "overview": {
+    "fr": "L'organisation criminelle SPECTRE détourne un avion de l'OTAN transportant deux bombes atomiques et réclame une rançon au gouvernement britannique. L'agent secret James Bond est envoyé aux Bahamas à la recherche de Domino, la sœur du commandant Derval, qui pilotait le Vulcan. Celui-ci a en fait été tué et remplacé par un sosie. 007 découvre que l'instigateur de l'opération est un dénommé Emilio Largo, un homme riche et cruel passionné par les requins.",
+    "en": "A criminal organization has obtained two nuclear bombs and are asking for a 100 million pound ransom in the form of diamonds in seven days or they will use the weapons. The secret service sends James Bond to the Bahamas to once again save the world.",
+    "de": "Die Verbrecherorganisation Phantom bringt zwei Atombomben in ihre Gewalt und verlangt nun innerhalb von sieben Tagen 100 Millionen Pfund in Form lupenreiner Diamanten als Lösegeld. Der Secret Service schickt James Bond auf die Bahamas, um wieder einmal die Welt zu retten.",
+    "it": "Il sindacato internazionale del crimine, noto come \"Spectre\", sta progettando il suo più grande colpo: impadronirsi di bombe atomiche e ricattare le potenze della NATO. Dall'Inghilterra vengono messi in azione i migliori agenti segreti, tra cui James Bond, il quale viene ben presto a contatto con Largo, il numero uno dell'organizzazione. Sfuggendo a diversi attentati ed avvicinandosi sempre di più all'individuazione dell'intrigo, Bond conquista una giovane donna, Domino, amica di Largo. In base alle indicazioni ottenute dalla ragazza, Bond penetra nel deposito sottomarino nel momento in cui gli uomini della Spectre si apprestano a trasferire le bombe sullo yacht di Largo. Tra costoro ed una folta schiera di sommozzatori aviotrasportati, chiamati sul posto da Bond, viene ingaggiata una battaglia che si conclude vittoriosamente per questi ultimi, e Largo viene ucciso da Bond mentre con lo yacht stava per sfuggire alla flottiglia inseguitrice.",
+    "es": "La organización secreta Spectra se propone infiltrar en la base inglesa de la OTAN a un impostor llamado Angelo, y así lograr apoderarse de un bombardero Vulcan Vindicator equipado con dos bombas nucleares. Cuando logra su propósito, la organización amenaza con destruir una ciudad de EE.UU. o Inglaterra si no le dan 100 millones de libras esterlinas. El agente 007 es el encargado de seguir el caso, y en las Islas Bahamas conoce a Dominó, atractiva amante del misterioso Emilio Largo, que aparenta ser un ocioso millonario pero que en realidad es el número dos de Spectra. Mientras intenta localizar el avión secuestrado, James Bond debe enfrentarse con la cabecilla de los asesinos, Fiona Volpe, y con los secuaces de Emilio Largo.",
+    "sv": "Organisationen Spectre kapar ett plan med atombomber, och bedriver utpressning mot statsmakterna. En stor del av filmens actionscener utspelar sig på och under vattenytan. Adolfo Celti spelar ondskefulle Largo."
+   },
+   "tagline": {
+    "fr": "Le plus explosif de tous les James Bond",
+    "en": "Look up! Look down! Look out! Here comes the biggest Bond of all!",
+    "de": "007 greift zu",
+    "it": "Ritorna James Bond, l'unico, autentico 007!",
+    "es": "¡007 en el aire! ¡007 bajo el mar! ¡James Bond actúa en todas partes!"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.7,
+   "votes": 2784,
+   "runtime": 130
   },
   {
    "id": 667,
@@ -125,7 +325,57 @@
     "de": "/pmsQixgSwANtbCuTSSiGns7xkRX.png",
     "it": "/jPyn8k775Rl4CUDF30kqDjjfIAu.png",
     "es": "/hkCB9HDNHEW0ei0s6bFY9GOjS7k.png"
-   }
+   },
+   "overview": {
+    "fr": "Le gouvernement d’un pays asiatique veut provoquer un conflit armé entre les États-Unis et l’URSS. Afin de rester dans l’anonymat, il confie cette mission à l’organisation criminelle et secrète du SPECTRE. Celle-ci commence à faire disparaître des capsules américaines et russes dans l’espace pour engendrer le conflit et James Bond est bientôt envoyé au Japon pour enquêter sur ces incidents. Désormais allié à Tigre Tanaka, le chef des services secrets japonais, et à ses nombreux agents, il a une fois de plus l’occasion de démontrer ses talents dans bien des domaines.",
+    "en": "A mysterious spacecraft captures Russian and American space capsules and brings the two superpowers to the brink of war. James Bond investigates the case in Japan and comes face to face with his archenemy Blofeld.",
+    "de": "Ein mysteriöses Raumschiff entführt eine russische und eine amerikanische Raumkapsel und bringt die Welt an den Rand eines Weltkrieges. James Bond ermittelt in Japan, trifft auf seinen Erzfeind Blofeld und die raffinierte Helga Brandt.",
+    "it": "Ritenuto dai suoi stessi capi ormai morto in una precedente azione, James Bond si ripresenta nel suo ufficio, pronto a riprendere la sua rischiosa attività. L'occasione si presenta ben presto: in una piccola isola del Giappone, l'organizzazione dello \"Spectre\", ben mimetizzata all'interno di un vulcano spento, sta attuando il piano che mira a provocare la III guerra mondiale. Con un ingegnoso sistema di abbordaggio la setta criminale riesce infatti a catturare ora la navicella spaziale USA, ora quella dell'URSS, cosicchè americani e russi si accusano vicendevolmente delle aggressioni subite.",
+    "es": "Dos naves espaciales, una norteamericana y otra rusa, han sido secuestradas en la órbita terrestre. Todo depende ahora de la intervención del Agente 007 -Sean Connery- para prevenir una guerra nuclear entre las dos superpotencias. Su misión consistirá en viajar hasta Japón y desenmascarar a la peligrosa organización Spectra y a su diabólico líder, Ernest Stavro Blofeld -Donald Pleasence.",
+    "sv": "När Blofield, SPECTRES toppman, försöker starta ett kärnvapenkrig genom att kapa en rysk och en amerikansk rymdkapsel, får agent 007 James Bond omedelbart uppdraget att förhindra den förödande katastrofen kriget skulle innebära. Hans uppdrag tar honom till Japan, där konfronteras han med den ondskefulla SPECTRE-organisationen och dess djävulska ledare, Ernst Stavro Blofield."
+   },
+   "tagline": {
+    "fr": "Bienvenue au Japon, Monsieur Bond.",
+    "en": "...and \"twice\" is the only way to live!",
+    "de": "Willkommen in Tokio Mr. Bond",
+    "it": "Tu vivi solo due volte ... e due volte è l'unico modo per vivere!",
+    "es": "... y vivir POR DOS es la mejor manera de vivir!"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Äventyr"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 2625,
+   "runtime": 117
   },
   {
    "id": 668,
@@ -147,7 +397,57 @@
     "de": "/vACbVOtlGK9e3jGMorjGg44dNSg.png",
     "it": "/bWQaSy8jxJfsOJc7zGm7aaPgSp6.png",
     "es": "/hC7FTs2kEyeNozOCX3udIEkm5bc.png"
-   }
+   },
+   "overview": {
+    "fr": "Sur la piste de Blofeld, James Bond sauve la comtesse Tracy Di Vicenzo du suicide et en tombe amoureux. Le père de la comtesse, Marc-Ange Draco, met la pression sur Bond pour qu'il épouse sa fille. D'abord réticent, James Bond finit par accepter à condition que Draco l'aide à traquer Blofeld. Il se rend alors au MI6 où il apprend que l'affaire Blofeld lui est retirée...",
+    "en": "With the help of Marc-Ange Draco, head of the Unione Corse crime syndicate, and Draco's troubled daughter Tracy, James Bond tracks his archnemesis, Ernst Stravro Blofeld, to a mountaintop retreat in the Swiss Alps, where he is training an army of beautiful, lethal women.",
+    "de": "Im Urlaub kann James Bond die junge Tracy Draco gerade noch davon abbringen, sich umzubringen. Ihr Vater, ein mächtiger Gangsterboss macht daraufhin 007 ein Angebot. Er erhält wichtige Informationen über seinen Erzfeind Blofeld, sollte er Tracy heiraten.",
+    "it": "James Bond, l'agente 007 con licenza di uccidere, è nuovamente sulle tracce della organizzazione criminale Spectre. Le indagini lo portano questa volta in una misteriosa villa sulle Alpi svizzere. Vistosi scoperto, Bond costretto a fuggire con una spettacolare azione riesce a rientrare a Londra.",
+    "es": "Tras la marcha temporal de Connery, el actor australiano George Lazenby toma el relevo en esta nueva aventura del agente británico 007, que en esta ocasión se asocia a un mafioso -con cuya sensual hija Tracy Di Vicenzo (Diana Rigg) se llega a casar-, para unir sus fuerzas en la lucha contra la malvada organización Spectra. Ambientada en los alpes suizos, el malvado Stavro Blofeld -Savalas- amenaza al mundo entero con un malvado plan: desarrollar y lanzar una peligrosa bacteria que podría acabar con millones de personal en todo el planeta. La ausencia del actor escocés y el poco carisma de Lazenby hicieron de esta entrega uno de sus mayores fracasos comerciales, pero en años posteriores no han faltado los defensores que la reivindican como una de las más interesantes de toda la saga.",
+    "sv": "Agent 007 och äventyraren Tracy Di Vicenzo slår sig ihop för att bekämpa den lömska organisationen SPECTRE högt upp i de förrädiska Schweiziska Alperna. Men gruppens starke ledare Ernst Stavro Blofeld håller på att sätta sin hitills mest djävulska plan i verket: En ide till bakteriologisk krigsföring som kan döda miljontals människor! Baserad på Ian Flemings förlaga."
+   },
+   "tagline": {
+    "fr": "Toujours prêt à servir",
+    "en": "Far up! Far out! Far more! James Bond 007 is back!",
+    "de": "Der beste Bond, den es je gab!",
+    "it": "Molto su! Lontano! Più lontano! James Bond 007 è tornato!",
+    "es": "¡Hasta el momento! ¡Hasta ahora! ¡Mucho más! ¡James Bond 007 está de vuelta!"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 2267,
+   "runtime": 142
   },
   {
    "id": 681,
@@ -169,7 +469,50 @@
     "de": "/ua44HO5tb0AEOybwi0zxH1mkzR3.png",
     "it": "/9WNxDZNU0J738K9KhwoMUKQOf59.png",
     "es": "/dBerImYFGUypFJTPwbu4XCGmvOc.png"
-   }
+   },
+   "overview": {
+    "fr": "James Bond se lance à la recherche d'un trafiquant de diamants, à Amsterdam, et se retrouve face au terrifiant Blofeld. Ce dernier est en passe de finir la construction d'un gigantesque laser d'une puissance terrifiante, à l'aide de tous les diamants qu'il a rassemblés, pour détruire Washington.",
+    "en": "Diamonds are stolen only to be sold again in the international market. James Bond infiltrates a smuggling mission to find out who's guilty. The mission takes him to Las Vegas where Bond meets his archenemy Blofeld.",
+    "de": "Große Mengen Diamanten verschwinden, ohne auf dem internationalen Markt wieder aufzutauchen. James Bond wird in einen Schmugglerring infiltriert, um der Sache nachzugehen. Die Spur führt nach Las Vegas und zu keinem Geringeren als Bonds Erzfeind Ernst Stavro Blofeld.",
+    "it": "Il comandante James Bond, alias agente 007 del servizio segreto inglese, ha appena portato a termine una difficile missione, che subito, gli viene affidato il compito di scoprire gli organizzatori e le ragioni di una misteriosa incetta di diamanti, che minaccia di sconvolgere il mercato. Assunta l'identità di Peter Franks, uno dei corrieri della banda, Bond non tarda a individuarne il capo, la bella Tiffany Case, la cui organizzazione, pero', sta da qualche tempo subendo gli attacchi di sconosciuti avversari, che uccidono i contrabbandieri e s'impossessano dei diamanti. Divenuta Tiffany, cui egli ha rivelato la propria identità, sua alleata, Bond scopre, dopo aver evitato due volte di venire ucciso, che i diamanti trafugati all'organizzazione di Case sono finiti in un laboratorio spaziale, e utilizzati nella costruzione di un satellite, che sta per essere lanciato in orbita.",
+    "es": "Tras pasar unas merecidas vacaciones en Francia, el agente secreto James Bond recibe una llamada del Jefe M para realizar una peligrosa misión relacionada con unos diamantes en bruto desaparecidos.",
+    "sv": "Ett värdefullt parti diamanter försvinner under mystiska omständigheter. Till den brittiska underrättelsetjänstens förvåning, försöker tjuvarna inte sälja diamanterna på världsmarknaden. James Bond anar att diamanter är mer än en kvinnas bästa vän..."
+   },
+   "tagline": {
+    "fr": "Lui aussi est éternel !",
+    "en": "The man who made 007 a household number.",
+    "de": "Der Mann, der 007 zu einer bekannten Nummer machte.",
+    "es": "Bond está de vuelta... con las chicas"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.4,
+   "votes": 2498,
+   "runtime": 120
   },
   {
    "id": 253,
@@ -191,7 +534,56 @@
     "de": "/fsZCZbjAn0koRcWhn0a11Qx9M64.png",
     "it": "/5acUnSw2uXNXvMcauzfm5rUMSDc.png",
     "es": "/zqDfmFjK1omkiHAqvojKi2pEtWY.png"
-   }
+   },
+   "overview": {
+    "fr": "007 est appelé à la rescousse pour mettre fin à l'hécatombe meurtrière qui décime les agents secrets britanniques. Enquêtant à New York, dans le quartier de Harlem, il affronte un caïd de la drogue, le redoutable Docteur Kananga et sa comparse, l'étrange Blanche Solitaire.",
+    "en": "James Bond must investigate a mysterious murder case of a British agent in New Orleans. Soon he finds himself up against a gangster boss named Mr. Big.",
+    "de": "An drei verschiedenen Orten der Erde werden gleichzeitig drei Agenten des britischen Geheimdienstes umgebracht. James Bond wird mit dem brisanten Fall beauftragt, der ihn nach New York führt. Dort stößt er auf den mysteriösen Unterweltboss Mr. Big, der ihn bereits als nächstes Ziel auserkoren hat. Bond kann jedoch entkommen und findet bald eine Verbindung zwischen Mr. Big und dem Diplomaten Katanga. Doch seine Spur führt noch viel weiter in die Unterwelt New Yorks.",
+    "it": "L'agente segreto James Bond lascia l'Inghilterra per il nuovo continente, con il compito di indagare sulla morte di tre suoi colleghi assassinati nello stesso giorno. Da New Orleans le tracce lo conducono a Sainte-Monique, un'isola dei Caraibi sulla quale il dottor Kananga - un uomo di colore che si fa chiamare anche Mister Big - ha installato la centrale operativa di un colossale traffico di droga. Con questa intende invadere gli Stati Uniti per annichilirne i bianchi e ridurre il Paese in suo potere...",
+    "es": "En tan sólo veinticuatro horas, tres agentes del servicio secreto británico que investigaban una red de tráfico de drogas aparecen asesinados en extrañas circunstancias. Todas las pistas conducen a Mr. Big, y a un diplomático llamado Katanga. El agente 007, James Bond, es enviado a Nueva York para investigar al enigmático personaje.",
+    "sv": "Tre brittiska agenter dödas på en och samma dag, men på olika platser i världen. Till att börja med verkar det inte finnas något samband. Agent 007 James Bond får i uppdrag att undersöka morden, och spåren leder honom till den internationelle diplomaten Katanga, allierad med Mr Big - Harlems värsta gangster."
+   },
+   "tagline": {
+    "fr": "Roger Moo7re est James Bond",
+    "en": "Bond is back. Back in action. Back with excitement.",
+    "de": "Bond ist zurück. Wieder im Einsatz. Wieder mit Spannung.",
+    "es": "Roger Moore es James Bond."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.5,
+   "votes": 2424,
+   "runtime": 121
   },
   {
    "id": 682,
@@ -213,7 +605,56 @@
     "de": "/yEemS0H18cT6LxoNYwcqSkwuI4s.png",
     "it": "/4B6mfPbMaMThk1IL4am8MyMuhMb.png",
     "es": "/arDZAtnPgendD0qaN6cRsto6wJ2.png"
-   }
+   },
+   "overview": {
+    "fr": "Le fabuleux tueur Scaramanga, l'homme au Pistolet d'Or dont les \" contrats \" lui rapportent chacun un million de dollars, a reçu pour mission d'exécuter James Bond, l'as des services secrets britanniques. Selon son habitude, Scaramanga prévient sa future victime en lui envoyant une balle en or marquée à ses initiales. \" M \", le patron de Bond, le libère d'une importante mission pour lui permettre de relever le défi de son implacable adversaire. Bond qui ne connaît pas les traits de Scaramanga, enquête sur son fournisseur d'armes, puis extorque des renseignements à l'une de ses complices, Andrea. Tandis que le tueur, à Bangkok, assassine le savant Gibson et lui vole son invention, le Sol X, qui permet de transformer l'énergie solaire en électricité. Bond soupçonne Hai Fat, le très riche patron de Gibson, d'être à l'origine du contrat de Scaramanga. Ce dernier supprime Hai Fat, puis Andrea qui lui avait volé le Sol X au profit de James Bond...",
+    "en": "Cool government operative James Bond searches for a stolen invention that can turn the sun's heat into a destructive weapon. He soon crosses paths with the menacing Francisco Scaramanga, a hitman so skilled he has a seven-figure working fee. Bond then joins forces with the swimsuit-clad Mary Goodnight, and together they track Scaramanga to a Thai tropical isle hideout where the killer-for-hire lures the slick spy into a deadly maze for a final duel.",
+    "de": "Eine goldene Pistolenkugel, auf der 007 eingraviert ist, trifft im Hauptquartier des Secret Service ein. Absender ist der Profikiller Scaramanga, und Scaramanga hat noch nie ein Ziel verfehlt. James Bond versucht den Killer rechtzeitig zu stoppen.",
+    "it": "James Bond è ricercato dal killer Francisco Scaramanga, uso a colpire le sue vittime con proiettili d'oro. Questi deve eliminarlo per conto di una misteriosa organizzazione con sede ad Hong Kong, che mira a sfruttare un apparato per la captazione dell'energia solare, inventato da uno scienziato britannico, per la costruzione di un'arma segreta destinata ad assicurare ai suoi possessori il dominio del mondo. Recatosi ad Hong Kong, Bond non tarda a scoprire che il capo della gang è l'industriale cinese Hai Fah, al quale però, dopo averlo ucciso, si sostituisce lo stesso Scaramanga...",
+    "es": "El superagente británico 007 habrá de vérselas ahora con el más peligroso asesino a sueldo del momento: un hombre llamado Scaramanga, más conocido como el hombre de la pistola de oro, que tratará de deshacerse de Bond con los más sofisticados recursos.",
+    "sv": "Scaramanga är världens bäste och högst betalde lönnmördare. Han tar en miljon dollar per uppdrag. När en kula av rent guld med \"007\" ingraverat upptäcks, blir det en jakt på liv och död när Bond ger sig efter Scaramanga - som samtidigt jagar Bond. En sak kommer att bli avgörande i duellen mellan de båda, den gyllene pistolen."
+   },
+   "tagline": {
+    "fr": "Il ne rate jamais sa cible et sa cible est maintenant 007.",
+    "en": "The world's greatest villains tried to kill James Bond...now it's Scaramanga's turn to try!",
+    "de": "Die größten Schurken der Welt haben versucht, James Bond zu töten … jetzt ist Scaramanga an der Reihe!",
+    "es": "El hombre de la pistola de oro está listo para asesinar a James Bond."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.5,
+   "votes": 2411,
+   "runtime": 125
   },
   {
    "id": 691,
@@ -235,7 +676,58 @@
     "de": "/h9nygUa2xCDdMGm3wzbwww1qA5R.png",
     "it": "/vnwS4KLfuO6ziEeVmxUuSzjFFWI.png",
     "es": "/8WGVrwdBbWjAx11yXCW69wnfjyH.png"
-   }
+   },
+   "overview": {
+    "fr": "Pour retrouver des sous-marins nucléaires russe et britannique qui ont mystérieusement disparu, James Bond fait équipe avec l'agent soviétique Anya Amasova. Leur mission les conduit à affronter un ennemi redoutable, Requin, un géant de près de deux mètres vingt quasiment indestructible et armé d'une mâchoire en acier aussi coupante qu'un rasoir. 007 devra également affronter Karl Stromberg, l'employeur de Requin. Stromberg veut se servir des sous-marins nucléaires qu'il a volés pour détruire le monde et créer une cité sous-marine.",
+    "en": "Russian and British submarines with nuclear missiles on board both vanish from sight without a trace. England and Russia both blame each other as James Bond tries to solve the riddle of the disappearing ships. But the KGB also has an agent on the case.",
+    "de": "Ein russisches und ein amerikanisches U-Boot mit Atomraketen an Bord verschwinden spurlos von der Bildfläche. Amerikaner und Russen beschuldigen sich gegenseitig. James Bond soll das Rätsel der verschwundenen U-Boote lösen. Aber auch der KGB hat schon einen Agenten losgeschickt.",
+    "it": "Dopo aver recuperato al Cairo, battendo la spia sovietica Anya Armasova, un microfilm con il segreto per sconvolgere le difese atomiche della Nato, James Bond, viene incaricato di far luce sulla scomparsa di due sommergibili nucleari. Poichè uno di questi è russo (e avendo Gran Bretagna e Unione Sovietica deciso di unire le loro forze per l'occasione), James Bond si trova a collaborare proprio con Anya. Insieme, le due spie scoprono che a far sparire i sommergibili è stato l'armatore nordico Stromberg, il quale, giudicando il mondo prossimo allo sfacelo, intende fondarne uno nuovo nelle profondità marine. A tal fine vuole distruggere, con i missili dei due sommergibili, sia New York che Mosca, i centri vitali delle superpotenze responsabili del destino che attende l'umanità.",
+    "es": "La misteriosa desaparición de dos submarinos nucleares hace que colaboren los mejores operativos de los servicios secretos británico y soviético: James Bond y la mayor Amasova. Detrás de todo se encuentra el magnate Stromberg, cuya finalidad es la destrucción de la \"corrupta\" humanidad para fundar una civilización pura bajo el mar.",
+    "sv": "Ett galet geni, havsforskaren Stromberg, planerar att ödelägga jorden och bygga upp ett nytt rike på havets botten. Bond sänds omedelbart ut för att reda ut situationen. Hotet rör både öst och väst, vilket gör att den brittiska underrättelsetjänsten och KGB beslutar sig för att samarbeta."
+   },
+   "tagline": {
+    "fr": "L'un est Britannique. L'autre est Russe.",
+    "en": "It's the BIGGEST. It's the BEST. It's BOND. And B-E-Y-O-N-D.",
+    "de": "Das neue große James Bond Abenteuer: 1000 neue Gags – 10 000 PS-Tempo – 100 000 Volt-Spannung",
+    "it": "Agente 007 - La spia che mi amava",
+    "es": "Es el más grande, es el mejor, es Bond y mucho más.",
+    "sv": "Den är störst. Den är bäst. Det är BOND!"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 2374,
+   "runtime": 125
   },
   {
    "id": 698,
@@ -255,7 +747,63 @@
     "en": "/tETXtcyI4pj19rRtn6y8dNUagbl.png",
     "it": "/yTLtb9IM9YFlPioYflJLi0rLjIw.png",
     "es": "/bTQIHrNWq5iifJnztcbidQLr8kx.png"
-   }
+   },
+   "overview": {
+    "fr": "Une navette spatiale américaine, Moonraker, confiée au gouvernement britannique disparaît soudainement. L’agent 007 est chargé d’enquêter mais il découvre vite que le responsable n’est autre que le constructeur de l’engin spatial lui‐même, Hugo Drax. Ce dernier tend à recréer une nouvelle race d’hommes parfaits en anéantissant l’humanité actuelle.",
+    "en": "After Drax Industries' Moonraker space shuttle is hijacked, secret agent James Bond is assigned to investigate, traveling to California to meet the company's owner, the mysterious Hugo Drax. With the help of scientist Dr. Holly Goodhead, Bond soon uncovers Drax's nefarious plans for humanity, all the while fending off an old nemesis, Jaws, and venturing to Venice, Rio, the Amazon...and even outer space.",
+    "de": "Während des Transportes auf dem Rücken einer Boeing 747 wird ein Space Shuttle entführt und das Flugzeug vernichtet. Seine Nachforschungen führen James Bond zu der Herstellerfirma des Shuttles. Schon bald merkt er, dass deren Besitzer Hugo Drax die gesamte Menschheit vernichten will. Es kommt zum Showdown im Weltall.",
+    "it": "Un miliardario megalomane progetta la distruzione del mondo, ma ci pensa l'agente 007. Uno space shuttle viene rapito da una misteriosa organizzazione capeggiata da Hugo Drax, anche proprietario dell'impresa che costruisce le navette spaziali. Per risolvere l'enigma viene mandato in missione James Bond, che si trova a dover collaborare con una spia della Cia, ovviamente bellissima e affascinante. Le indagini di 007 lo portano addirittura a volare nello spazio. Uno 007 minore, quasi ricalcato dal precedente La spia che mi amava. Fu un successo e, primo tra i film occidentali, incassò vertiginosamente anche in Asia. Ma la vicenda è stantia. In epoca di effetti speciali, i produttori trasformano Bond in una specie di Flash Gordon. Certo la prima parte, meno rutilante del viaggio nel cosmo, riserva momenti divertenti.",
+    "es": "El agente secreto James Bond recibe de sus superiores la orden de localizar el paradero de la nave espacial Moonraker, que ha desaparecido misteriosamente. Sus primeras investigaciones le llevan a seguir la pista del millonario Hugo Drax, constructor de la cápsula. Después de investigar en Venecia y en Río de Janeiro, Bond es capturado por Drax, y descubre que el villano posee una base de lanzamiento para cohetes espaciales, con los que se propone esparcir un gas tóxico que acabe con le vida terrestre, siendo ésta la primera fase de un perverso plan que el agente, ayudado por la Doctora Goodhead, intentará frustrar.",
+    "sv": "En rymdfärja monterad på en Boeing 747 blir stulen under mystiska omständigheter. Agent 007 skickas ut för att besöka tillverkaren, miljardären Hugo Drax, och be om ursäkt. Under besöket görs flera försökt att mörda Bond. Drax misstänks för att själv stå bakom stölden av färjan. Tillsammans med rymdforskaren och CIA-agenten Holly Goodhead upptäcker Bond att Drax planerar att utplåna mänskligheten. Till sin hjälp har en mycket speciell man vid namn Jaws."
+   },
+   "tagline": {
+    "fr": "Désormais l’espace appartient à 007",
+    "en": "Where all the other Bonds end… this one begins!",
+    "de": "Ab sofort gehört der Weltraum 007!",
+    "it": "Agente 007 - Moonraker - Operazione spazio",
+    "es": "El espacio ultraterrestre pertenece ahora a 007."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.2,
+   "votes": 2342,
+   "runtime": 126
   },
   {
    "id": 699,
@@ -277,7 +825,57 @@
     "de": "/wWJCe4jaJZuRc9qS11y1DqLqv6S.png",
     "it": "/7gjYrcA0eAUeslFZcZeHHkmT5SA.png",
     "es": "/xuIYoEHIRcZqumldChW6puzDkKV.png"
-   }
+   },
+   "overview": {
+    "fr": "Un bateau espion du Royaume-Uni, sombre dans les eaux albanaises après avoir heurté une mine, engloutissant avec lui l'ATAC, système top secret de lancement de missiles. Les services secrets britanniques déclenchent une opération sous-marine discrète pour récupérer l'appareil. L'opération est conduite par un couple d'archéologues marins, Timothy et Iona Havelock. Mais le tueur cubain Hector Gonzalès interrompt brutalement les recherches en assassinant le couple sous les yeux de sa fille Mélina. James Bond entre alors en scène et s'en va enquêter, secondé de la séduisante et vengeresse Mélina, sur les liens de Gonzalès avec le système ATAC...",
+    "en": "A British spy ship has sunk and on board was a hi-tech encryption device. James Bond is sent to find the device that holds British launching instructions before the enemy Soviets get to it first.",
+    "de": "Ein als Fischkutter getarntes Spionageschiff der Engländer sinkt im ionischen Meer. An Bord befindet sich ein strenggeheimes Steuer- und Verschlüsselungsgerät ATAC. In feindlichen Händen könnte es zum Abschuss von Atomraketen auf westliche Städte verwendet werden. James Bond muss das Gerät finden, bevor es dem Feind in die Hände gerät.",
+    "it": "Un dispositivo ultra segreto del tipo Atac affonda la nave spia inglese St. Georges al largo della Grecia. Un archeologo britannico riesce a localizzarlo, ma viene assassinato. La sua giovane figlia Melina, desiderosa di vendetta, si unisce a James Bond, incaricato dell'operazione di recupero. Un lavoro rischioso, come sempre, all'insegna dell'imprevisto, degli inseguimenti mozzafiato, degli agguati mortali, degli spostamenti intercontinentali: dalle Bahamas a Cortina alle assolate spiagge greche. Al centro dell'intrigo c'è un miliardario greco, certo Kristatos, di cui Bond, con la bella Melina e un contrabbandiere di nome Columbo, deve espugnare la villa bunker. Naturalmente non mancano i russi che, a loro volta, sono sulle tracce del dispositivo e non intendono certo tirarsi indietro.",
+    "es": "El agente 007 debe acudir a recuperar el ATAC, un dispositivo militar secreto de guía por satélite, antes de que sea vendido a los rusos.",
+    "sv": "Ett brittiskt övervakningsfartyg träffas av en mina och sjunker till botten utanför ett fientligt lands kust. Längs inne i lastrummet finns den högteknologiska militärutrustningen ATAC som britterna använder för att sända instruktioner till sina strategiska atomubåtar. James Bond skickas iväg för att se till att inte utrustningen kommer i fel händer. Sovjetunionen har redan fått upp spåret och en ohygglig kapplöpning med tiden börjar."
+   },
+   "tagline": {
+    "fr": "Rien ne peut arrêter James Bond.",
+    "en": "No one comes close to James Bond, 007.",
+    "de": "Niemand kommt an James Bond 007 heran.",
+    "it": "Agente 007 - Solo per i tuoi occhi",
+    "es": "Nadie puede acabar con James Bond, 007"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.5,
+   "votes": 2204,
+   "runtime": 127
   },
   {
    "id": 700,
@@ -298,7 +896,57 @@
     "de": "/h4Gwm1LLngGc3Ovql7zLgK3PeMY.png",
     "it": "/r2Z9YOON9EhaUPkhqMze5Gxv1Ss.png",
     "es": "/eqf0IEv0GrtqRlWaGgc3jUYer40.png"
-   }
+   },
+   "overview": {
+    "fr": "Chargé d’enquêter sur la mort très suspecte de l'agent 009 (pourquoi avait-il donc cet inestimable œuf Fabergé dans la main ?...), James Bond assiste à la mise aux enchères de l’œuf. Le richissime Kamal Khan en fait l'acquisition. Ce prince Indien exilé semble nourrir de secrètes accointances avec le général renégat Orlov. Mais quel lien y a-t-il entre l’œuf, les complots du tandem russo-indien et la désirable, bien que mystérieuse, Octopussy ? Et si c'était le déclenchement de la Troisième Guerre Mondiale ?!",
+    "en": "James Bond is sent to investigate after a fellow “00” agent is found dead with a priceless Fabergé egg. Bond follows the mystery and uncovers a smuggling scandal and a Russian General who wants to provoke a new World War.",
+    "de": "Um die wahren Hintergründe einer gigantischen Juwelenschieberei aufzuspüren, ist James Bond der geheimnisvollen Octopussy auf den Fersen. Sie ahnt nicht, dass sie von einem Wahnsinnigen hinters Licht geführt wird. Der russische General Orlov benutzt ihren Octopussy-Zirkus vorgeblich, mit ihm den geraubten Kreml-Schatz durch Europa zu schmuggeln. Tatsächlich dient er ihm nur als trojanisches Pferd für einen atomaren Sprengkörper, der auf dem Gelände der US-Airforce in Feldberg detonieren soll.",
+    "it": "James Bond scopre che in un misterioso traffico di gioielli falsi provenienti dall'Urss sono invischiati un principe indiano, un generale sovietico e un'affascinante quanto misteriosa donna che si fa chiamare Octopussy, proprietaria di un circo che serve come copertura per il traffico dei preziosi. Ma il vero scopo dell'organizzazione criminale è quello di introdurre in Germania un ordigno nucleare.  Sesto Bond per il cinquantacinquenne Roger Moore, il secondo diretto da John Glen, il tredicesimo della serie. Cuba, Karl Marx Stadt, Londra, Udaipur, Berlino e una base statunitense nella Rdt sono le località in cui 007 (e i suoi stuntmen) compiono i tradizionali prodigi.",
+    "es": "El agente 009, compañero de James Bond, es asesinado en Berlín Oriental, aunque consigue llegar a la residencia del embajador británico antes de morir, llevando consigo una valiosísima pieza de orfebrería: un huevo de Pascua, creado por Fabergé. En Londres, especialistas del Servicio Secreto constatan que se trata de una falsificación de la joya original, que será subastada en breve. El hecho de que en un corto período de tiempo se hayan vendido piezas parecidas despierta las sospechas de los responsables de Inteligencia, que temen una maniobra rusa que estaría encaminada a recaudar fondos que irían destinados a oscuras operaciones. Tras la pista de Kamal Khan, turbio traficante de objetos de arte, James Bond llega a la India, lugar en el que descubrirá la relación entre el sospechoso, una misteriosa mujer conocida como Octopussy y el General Orlov, implicados todos ellos en una conspiración que pretende desatar un conflicto nuclear.",
+    "sv": "James Bond har kanske, för första gången mött sin jämlike i Octopussy. En förförisk skönhet som är inblandad i en dödlig militär sammansvärjning vilken har som mål att förhindra den pågående nedrustningen. Från sagolika platser i Indien till skenade cirkuståg i Tyskland och en nervpirrande strid på vingen till ett jetplan flera kilometer upp i luften...James Bond utkämpar återigen en övermänsklig kamp för att stoppa den barmhärtiga planen."
+   },
+   "tagline": {
+    "fr": "Le meilleur des Bond !",
+    "en": "James Bond’s all time high!",
+    "de": "James Bond: keiner kann es besser.",
+    "it": "Agente 007 - Octopussy - Operazione piovra",
+    "es": "Nadie lo hace mejor."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.4,
+   "votes": 2342,
+   "runtime": 131
   },
   {
    "id": 707,
@@ -320,7 +968,57 @@
     "de": "/hBTqBQFaMVnHK2FL2hWO3iPESAh.png",
     "it": "/2O7G0qRieOnilErUAXqzRkgnDYa.png",
     "es": "/bI3OiiszU4ruNqUfIMvCH4QSTUn.png"
-   }
+   },
+   "overview": {
+    "fr": "James Bond, l’agent 007, découvre que les Soviétiques détiennent une puce ultra‐sophistiquée ressemblant étrangement à celle des Britanniques et soupçonne Max Zorin, patron d’une écurie de courses, d’être à l’origine de cette fuite vers l’Est. En apprenant que Zorin veut détruire Silicon Valley, Bond tente de contrecarrer ses plans…",
+    "en": "A newly-developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin who forms a plan to destroy his only competition in Silicon Valley by triggering a massive earthquake in the San Francisco Bay.",
+    "de": "Ein im Westen entwickelter Mikrochip, der unempfindlich gegen elektromagnetische Strahlung durch Nuklearexplosionen ist, fällt dem KGB in die Hände. James Bond soll die undichte Stelle finden. Schnell fällt sein Verdacht auf den Großindustriellen Max Zorin.",
+    "it": "Il magnate Max Zorin vuole provocare un terremoto che distrugga Silicon Valley per detenere il monopolio della produzione mondiale di microchip e imporre così le proprie leggi di mercato. James Bond riesce a mandare a monte i piani del criminale. Con l'aiuto, naturalmente, di bellissime donne e con la benedizione, per una volta, persino del Kgb. Ultimo 007 dell'era Roger Moore, con l'attore un po' stanco e troppo spesso (visibilmente) sostituito dalle controfigure. Confezione da fumettone supertecnologico, con un cattivo ariano ottimamente interpretato da Walken, una virago abbagliante come Grace Jones e una delle Bond Girls più trascurabili dell'intera serie, Tanya Roberts. Bello il finale sul ponte di San Francisco e l'inseguimento su e giù dalla Tour Eiffel.",
+    "es": "Bond recibe la misión de desenmascarar a Max Zorin, un misterioso empresario, y aparente espía de la KGB, que amenaza con dominar el mundo por medio de sus revolucionarios microchips. Aliado a poderosas empresas de tecnología punta, su objetivo es destruir la falla de San Andrés, provocando un terremoto de irreversibles consecuencias.",
+    "sv": "Max Zorin har planer på att ta kontroll över världsmarknaden för mikrochips genom att framkalla en jordbävning vid San Andreas-sprickan och utplåna Silicon Valley. Bond får återigen rycka ut för att rädda världen!"
+   },
+   "tagline": {
+    "fr": "James Bond a‐t‐il enfin trouvé adversaire à sa taille ?",
+    "en": "Has James Bond finally met his match?",
+    "de": "Hat James Bond einen gleichwertigen Gegner gefunden?",
+    "it": "Agente 007 - Bersaglio mobile",
+    "es": "¿James Bond cumplirá con su cometido?"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.3,
+   "votes": 2320,
+   "runtime": 131
   },
   {
    "id": 708,
@@ -342,7 +1040,58 @@
     "de": "/n03GzjTGbuydbBlq4NrAo3NSLFn.png",
     "it": "/9v3m8zJWw4mmpTr0qvgmCpT0R6A.png",
     "es": "/hJBGReNXc9zWfGEDdEpUlL5OD6e.png"
-   }
+   },
+   "overview": {
+    "fr": "Après que Bond a aidé un officier soviétique à traverser le rideau de fer pour passer à l'Ouest, il découvre avec stupeur que celui-ci a été retrouvé et kidnappé. La piste le mène sur les traces d'une belle violoncelliste, Kara, qui va l'entraîner dans une suite de situations dangereuses, avec comme paroxysme une base militaire en Afghanistan où il doit stopper un trafic d'armes.",
+    "en": "After a defecting Russian general reveals a plot to assassinate foreign spies, James Bond is assigned a secret mission to dispatch the new head of the KGB to prevent an escalation of tensions between the Soviet Union and the West.",
+    "de": "James Bond verhilft einem russischen General zur Flucht in den Westen. Von ihm erfährt er, dass der KGB in einer groß angelegten Aktion alle feindlichen Agenten töten will. Wenig später wird der General vor den Augen des Secret Service entführt. 007 schöpft einen Verdacht.",
+    "it": "James Bond è impegnato in un'esercitazione durante la quale però deve eliminare un agente che gli ha sparato sul serio. Dopo questo prologo viene inviato a Bratislava per organizzare la defezione di Georgi Koskov, un generale del Kgb. Qui sventa un attentato organizzato da una graziosa violoncellista-spia. Si reca quindi in Afghanistan dove scopre che dietro a tutto si cela proprio Koskov.  007, dopo le gloriose stagioni Connery e Moore, si è riciclato nei panni di Timothy Dalton: ne risente la mitologia del personaggio, ma non la spettacolarità del suo cinema.",
+    "es": "El agente 007 se enfrenta a una nueva misión en Bratislava: ha sido designado expresamente por el general Koskov para que lo proteja al desertar de la KGB. Tras escapar hacia Austria, Koskov se reúne con la organización de Bond en Londres para ponerlos al corriente de los planes de general Puskin, que tiene la intención de asesinar a una serie de agentes británicos. Bond no cree la historia de Koskov, más aún cuando éste es capturado de nuevo por la KGB. Para dar con el paradero de Koskov, Bond regresa a Bratislav, donde encuentra a la novia del general, que también corre peligro. La ayuda a escapar, y descubre que Koskov se halla en Tanger junto al general Whitaker, traficante de armas.",
+    "sv": "När ryssarna upptäcker att James Bond har organiserat den sovjetiske generalen Koskovs flykt verkställer de en plan, som går ut på att döda alla fiendeagenter.General Koskov fångas in av ryssarna och Bond slår sig ihop med en vacker cellist för att hitta honom. När Bond är med i leken går jakten inte i ett lugnt tempo..."
+   },
+   "tagline": {
+    "fr": "Ce Bond est dangereux.",
+    "en": "The new James Bond...living on the edge.",
+    "de": "Der neue James Bond … gefährlich wie nie",
+    "it": "Agente 007 - Zona pericolo",
+    "es": "Con licencia para emocionar",
+    "sv": "Han vet bara ett sätt att leva. Livsfarligt!"
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Thriller"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 2149,
+   "runtime": 130
   },
   {
    "id": 709,
@@ -364,7 +1113,58 @@
     "de": "/cZMjmei7useTP2DXMPW94Ft0AjP.png",
     "it": "/wVwrdOMlC3NPUizIxYN0dj9YqPu.png",
     "es": "/56RVRzPcLBwE5NqE3sQd3h2e8to.png"
-   }
+   },
+   "overview": {
+    "fr": "Bond se trouve à Key West, en Floride, aux côtés de Felix Leiter. Mais cette fois, ils ne sont pas en mission : Felix se marie et James Bond et son ami Sharky sont ses témoins. Tous trois portent la tenue de circonstance et se rendent en voiture sur les lieux de la cérémonie. Mais un hélicoptère de la brigade des stupéfiants les arrête : Leiter apprend que Franz Sanchez est sur le territoire américain, or, l'agent de la CIA poursuit cet insaisissable parrain de la drogue depuis des années. Retrouvant les réflexes de la bonne époque de leur collaboration, Leiter et Bond réussissent à capturer Sanchez à l'issue d'une poursuite aérienne spectaculaire. Une fois Sanchez aux mains de la police américaine, il ne reste plus au futur marié et à son témoin qu'à sauter en parachute au-dessus de l'église. Mais la victoire de Leiter est de courte durée. Sanchez qui a offert une prime de deux millions de dollars à quiconque le libérera, s'évade.",
+    "en": "After capturing the notorious drug lord Franz Sanchez, Bond's close friend and former CIA agent Felix Leiter is left for dead and his wife is murdered. Bond goes rogue and seeks vengeance on those responsible, as he infiltrates Sanchez's organization from the inside.",
+    "de": "James Bond und sein amerikanischer Kollege Felix Leiter verhaften den Drogenbaron Sanchez. Als diesem die Flucht gelingt, rächt er sich auf furchtbare Weise an Leiter und seiner Frau. Bond kennt nur noch ein Ziel: Rache.",
+    "it": "Un boss della droga uccide per vendetta la moglie di un agente americano amico di James Bond. Questi, nonostante gli sia stata revocata la licenza di uccidere, decide di agire in proprio, aiutato dalla giovane amante del boss e dalla bella e coraggiosa Pam.",
+    "es": "El agente 007 a la caza y captura de un peligroso narcotraficante latinoamericano, con implicaciones personales de por medio: el capo de la droga mató a un amigo suyo, y Bond desea vengarse.",
+    "sv": "När den mäktiga knarkbaronen Franz Sanchez rymmer från fängelset, lemlästar han Bonds bästa vän och dödar vännens hustru. Bond svär på att hämnas, men när M förbjuder honom att låta känslorna styra och sätter honom på ett annat uppdrag, beslutar han sig för att lämna sin tjänst och startar sin egna personliga vendetta."
+   },
+   "tagline": {
+    "fr": "Cette fois, James Bond est seul. Et décidé à se venger.",
+    "en": "James Bond is out on his own and out for revenge.",
+    "de": "James Bond kämpft diesmal auf eigene Faust und schwört Rache",
+    "it": "Agente 007 - Vendetta privata",
+    "es": "Su lado malo es un lugar peligroso para estar.",
+    "sv": "James Bond på eget uppdrag ute efter hämnd"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.4,
+   "votes": 2296,
+   "runtime": 133
   },
   {
    "id": 710,
@@ -384,7 +1184,57 @@
     "fr": "/gvjqkp2PMWhIJxAcoQQvg4gv0HC.png",
     "en": "/ksZCINsy2GbB9n5UT5B9SQO9zSZ.png",
     "es": "/iaZznmzIXXkTwjr2ZjY1GZL9Syf.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans les derniers jours de la guerre froide, James Bond et son collègue et ami Alec Trevelyan s’introduisent dans l’usine soviétique de gaz neurotoxique Arkangel, afin de la détruire. Les deux hommes sont découverts et, au cours d’une violente bagarre, Trevelyan est fait prisonnier et est exécuté sous les yeux de Bond par le général soviétique Ourumov. Bond s’enfuit de façon spectaculaire. Il restera obsédé par son échec à sauver son ami. 9 ans plus tard, alors que l’Union Soviétique est devenue une constellation de nations indépendantes, James Bond rencontre Xenia Onatopp, une superbe créature qui joue au chat et à la souris avec lui. La partie se révèle pleine de charme mais aussi pleine de dangers.",
+    "en": "When a powerful secret defense system is stolen, James Bond is assigned to stop a Russian crime syndicate from using it.",
+    "de": "Die russische Mafia-Gruppe Janus hat “Goldeneye”, zwei Satelliten, deren elektromagnetische Strahlen alle elektrischen Geräte im Umkreis eines anvisierten Ziels zerstören, in ihre Kontrolle gebracht. Der Chef dieser kriminellen Bande ist Ex-”006″ Alec Trevelyan, James Bonds ehemaliger Kollege. Zusammen mit der Computerspezialistin Natalya Simonova setzt sich 007 auf die Spuren des Verräters.",
+    "it": "James ha un nuovo e pericoloso nemico da affrontare nella sua missione più recente. Aiutato dalla malavita russa, il suo infido nemico ha rubato un elicottero top-secret a la letale arma spaziale \"Goldeneye\" con cui intende distruggere il mondo occidentale. Solo James Bond può impedire la catastrofe in questo incredibile corsa mozzafiato.",
+    "es": "En sus vacaciones, el agente Bond se encuentra con la bella y letal Xenia Onatopp, que intenta hacerse con los planos de un nuevo helicóptero invulnerable a las interferencias. Mientras tanto la programadora del ejército ruso Natalya Siminova es la única superviviente de su equipo a un macabro plan del general Ourumov para hacerse con Goldeneye, un arma espacial ultrasecreta que emite pulsos nucleares que inutilizan cualquier equipo electrónico. Bond formará equipo con Natalya para descubrir a los malhechores tras el robo.",
+    "sv": "En avhoppad rysk general har tagit kontrollen över ett militärt satellitssystem. I fel händer kan det kontrollera världens kommersiella och militära datakommunikation. Bara en man kan ställa allt till rätta. Hans namn är Bond. James Bond. Det kalla kriget är slut och i den nya världen kan forna fiender bli bästa vänner, och gamla vänner bli dödliga motståndare..."
+   },
+   "tagline": {
+    "fr": "Vous connaissez le nom. Vous connaissez le numéro.",
+    "en": "No limits. No fears. No substitutes.",
+    "de": "Unschlagbar. Unwiderstehlich. Unübertroffen.",
+    "it": "Agente 007 - GoldenEye",
+    "es": "Cuando el mundo es el objetivo y la amenaza es real, solo se puede confiar en un hombre."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.9,
+   "votes": 4576,
+   "runtime": 130
   },
   {
    "id": 714,
@@ -406,7 +1256,57 @@
     "de": "/4aOp1J2OIU21taU9bBNhK5rG982.png",
     "it": "/jSr2gsumnZZVn5MIdfa9cVeq3Ir.png",
     "es": "/gLIRezh2TaZiZCtYbh0vd3dqJH4.png"
-   }
+   },
+   "overview": {
+    "fr": "L’agent 007, alias James Bond, a pour mission de localiser l’épave du « Devonshire », une frégate de la Royal Navy, perdue dans les eaux territoriales chinoises. Il doit également retrouver le coupable de l’attentat, un certain Henry Gupta, ancien gauchiste activement recherché par le FBI et, enfin, remonter jusqu’au cerveau de l’opération, Elliot Carver, propriétaire du quotidien « Tomorrow » et patron du plus grand empire médiatique de tous les temps.",
+    "en": "A deranged media mogul is staging international incidents to pit the world's superpowers against each other. Now James Bond must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.",
+    "de": "Der britische Medienmogul Carver will durch Manipulation und Intrigen England in einen Krieg mit China stürzen, denn schlechte Nachrichten bringen Geld. Nur James Bond kann ihn davon abhalten, durch seine Medienpräsenz einer der mächtigsten Männer der Welt zu werden.",
+    "it": "Con l'affondamento di una nave inglese e un jet cinese, il magnate delle televisioni Elliott Carver vuole far scoppiare un conflitto del quale avere l'esclusiva. James Bond ha quarantott'ore per sventare il progetto.",
+    "es": "El gran magnate de los medios de comunicación Elliot Carver tan sólo precisa hacerse con los derechos de emisión en China para completar su emporio global. Para conseguirlo desarrolla un maquiavélico plan para hacer estallar una guerra entre Gran Bretaña y China, mediante el hundimiento de un buque de guerra inglés. James Bond se embarcará en una misión contrareloj para descubrir quién está detrás del peligroso incidente.",
+    "sv": "Det förflutna är ett minne blott. Nutiden är historia. Framtiden ligger i en mans händer. Världen har bara en chans till fred-och bara en man för uppdraget. Mediemogilen Eliot Carver är ute efter att erövra världen. Nu är det bara sändningstillstånd i Kina som saknas för att hans globala imperium skall vara komplett. Men kineserna är motsträvliga och Carver sätter en hemlig och diabolisk plan i verket: Han skall starta ett krig mellan Kina och Storbritannien. Med hjälp av den kinesiska agenten Wai-Lih infiltrerar Bond Carvers organisation. Och Bond får det snärjigt. Inom kort är en brittisk missil riktad direkt mot Beijing."
+   },
+   "tagline": {
+    "fr": "L'homme. Le numéro. La licence ... Ils sont tous de retour.",
+    "en": "Yesterday is a memory. Today is history. Tomorrow is in the hands of one man.",
+    "de": "Gestern ist eine Erinnerung. Heute ist Geschichte. Morgen liegt in den Händen eines Mannes.",
+    "it": "Agente 007 - Il domani non muore mai",
+    "es": "El hombre. El número. La licencia... todos de vuelta."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.4,
+   "votes": 3634,
+   "runtime": 119
   },
   {
    "id": 36643,
@@ -428,7 +1328,58 @@
     "de": "/50k2aNDaboAT0MUlKscBqCcHLco.png",
     "it": "/kh6apTHd1idpnBiDTJ4qRpFdxmE.png",
     "es": "/9878tJEsiT06CxL2GLXcjG0YGaF.png"
-   }
+   },
+   "overview": {
+    "fr": "Le magnat du pétrole Sir Robert King est assassiné dans l'enceinte même du bâtiment ultramoderne des services secrets britanniques. James Bond réussit à éliminer l'auteur de l'attentat, une tueuse professionnelle travaillant pour le terroriste international Renard. Craignant que ce dernier ne s'en prenne désormais à la fille de King, Elektra, 007 se charge de la protéger. En Azerbaïdjan, où King avait commencé à exploiter un nouveau gisement pétrolifère, l'agent secret retrouve Valentin Zukovski, un ex-agent du KGB devenu mafioso, qui va l'aider dans son enquête.",
+    "en": "Greed, revenge, world dominance and high-tech terrorism – it's all in a day's work for Bond, who's on a mission to protect a beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance.",
+    "de": "Im Hauptquartier des britischen Geheimdienstes kommt Öl-Multi Sir Robert King bei einem Bombenanschlag ums Leben. Agent 007 soll den Mörder entlarven und gleichzeitig Elektra, die bildhübsche Erbin des Milliarden-Imperiums, vor berüchtigten internationalen Terroristen beschützen.",
+    "it": "Continua la saga infinita dell’agente segreto più famoso del mondo.James Bond 007 recupera i soldi pagati da un miliardario inglese per il riscatto della figlia Electra. La ragazza, rimasta orfana dopo la morte violenta del padre, sembra ancora minacciata dal suo aguzzino, un terrorista anarchico chiamato Renard (in francese “volpe”). In realtà, proprio lei è al centro di un intrigo internazionale destinato a sovvertire l’ordine economico mondiale. Terza avventura con Pierce Brosnan nei panni di Bond, un po’ pasticciata nella sceneggiatura (la storia e le situazioni sono confuse). I momenti di suspense non mancano e le scene d’azione sono al solito avvincenti. Ma la formula di 007 comincia a ripetersi.",
+    "es": "Tras la muerte del magnate británico del petróleo Sir Robert King en un atentado en el cuartel general del MI6, su hija Elektra hereda su billonaria fortuna en yacimientos petrolíferos en el mar Caspio. El agente 007, sintiéndose culpable de la muerte de su padre, se convierte en su guardaespaldas. Su fortuna atraerá la atención de la prensa internacional y también de su asesino, Renard, un hombre con una bala alojada en el cerebro que le impide sentir dolor físico y cuya única obsesión es la venganza.",
+    "sv": "Renard är en high-tech terrorist med en mycket speciell och farlig egenskap. Han har en kula som sitter fast i hans hjärna, vilken gör att han inte kan känna smärta. När han sätter sina ondsinta planer på att ha kontroll över världens alla oljetillgångar i verket, är Agent 007 mänsklighetens enda hopp. Bonds uppdrag kantas av fara och skönhet, i form av en het oljearvtagerska och en mycket snygg atomforskare."
+   },
+   "tagline": {
+    "fr": "Il y a un numéro sur lequel on peut toujours compter.",
+    "en": "As the countdown begins for the new millennium there is still one number you can always count on.",
+    "de": "Während der Countdown zum neuen Jahrtausend beginnt, gibt es noch immer eine Zahl, auf die Sie sich immer verlassen können.",
+    "it": "Agente 007 - Il mondo non basta",
+    "es": "Cuando empieza la cuenta atrás para el nuevo milenio, solo puedes seguir confiando en un número.",
+    "sv": "Det är ingen mening att leva om du inte kan känna dig levandeär brottslingarnas motto i denna film"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.3,
+   "votes": 3449,
+   "runtime": 128
   },
   {
    "id": 36669,
@@ -450,7 +1401,56 @@
     "de": "/wc1JbqsxqB7pqFHuPdgsCi1uhyp.png",
     "it": "/mFJwqySV01wCUsQgA8mmoHulyLO.png",
     "es": "/z2z7FHaccXId6wnNjJFpImILxXP.png"
-   }
+   },
+   "overview": {
+    "fr": "Une opération secrète, menée en Corée du Nord par James Bond et deux de ses hommes, est compromise par un traître non identifié. S'ensuit une course-poursuite en hovercraft au cours de laquelle le colonel nord-coréen Moon trouve la mort et son lieutenant, Zao, est grièvement blessé. James Bond est quant à lui capturé et jeté dans une prison militaire. Après quelques mois de détention, ce dernier est libéré à l'occasion d'un échange de prisonniers organisé par Falco, le directeur de la National Security Agency. Démis de ses fonctions, l'ancien agent secret est décidé à retrouver Zao et à démasquer le traître qui a entraîné sa chute. Sa quête, riche en rebondissements, l'amènera à faire la rencontre de la belle et mystérieuse Jinx et de Gustav Graves, un mégalomaniaque propriétaire d'un somptueux palais de glace islandais et d'une arme d'une puissance insoupçonnée.",
+    "en": "James Bond is sent to investigate the connection between a North Korean terrorist and a diamond mogul, who is funding the development of an international space weapon.",
+    "de": "Auf der Jagd nach dem größenwahnsinnigen Schurken Gustav Graves und seinem gnadenlosen Erfüllungsgehilfen Zao reist Bond in die Höhle des Löwen bis nach Island. In einem fantastischen, vollkommen aus Eis erbauten Palast muss er am eigenen Leib die durchschlagende Wirkung einer neuen Superwaffe kennen lernen. Das Geschehen spitzt sich zu, bis es schließlich, wieder am Ausgangsort Korea angelangt, zu einem explosiven Showdown – und einem unvergesslichen Schlussakt – kommt.",
+    "it": "Tempi duri per James Bond. Catapultato in Corea del Nord per stroncare un traffico di \"conflict diamonds\", viene catturato e appena liberato si vede ritirare la licenza in quanto sospettato di aver rivelato ai carcerieri i nomi dei componenti della propria rete spionistica. Fuggito dalla nave che doveva trasportarlo alle Falkland, l'agente si recherà dapprima a Cuba dove incontrerà l'affascinante statunitense Jinx, poi a Londra dove il misterioso miliardario Gustav Graves sembra tirare le fila del gioco. Di mezzo c'è un satellite capace di concentrare la luce solare, doppi e tripli giochi, un conflitto alle porte tra Corea del Nord e del Sud. Non è difficile immaginare chi l'avrà vinta.",
+    "es": "El agente 007 investiga secretamente los planes de Zao, el hijo del pacifista coronel Moon del ejército de Corea del Norte. El MI6 sospecha que Zao pueda tener planes ambiciosos que pongan en peligro la estabilidad mundial y esas sospechas se confirman cuando 007 descubre que Zao planea, efectivamente, unificar los ejércitos de las dos Coreas, atacar Japón y posteriormente, enfrentarse a los Estados Unidos. Antes de que pueda escapar Bond es descubierto por Zao quien le apresa y tortura. En su camino se cruza Jinx y Miranda Frost, quienes jugarán papeles vitales en su última aventura.",
+    "sv": "Historien har sin början i en zon mellan Nord- och Sydkorea med en spektakulär svävarjakt och fortsätter via Hong Kong till Kuba och London där Bond möter de två kvinnor som ska komma att spela så viktiga, men olika roller i hans strävan att avslöja en förrädare och att förhindra ett krig med katastrofala konsekvenser."
+   },
+   "tagline": {
+    "fr": "James Bond met le feu à la glace",
+    "en": "He's never been cooler.",
+    "de": "Er war noch nie cooler.",
+    "es": "Nunca ha sido tan genial."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.0,
+   "votes": 4076,
+   "runtime": 133
   },
   {
    "id": 36557,
@@ -470,7 +1470,57 @@
     "en": "/pxvf5usDNAzPEc9j0yluQA2I2Ud.png",
     "it": "/iSwXvATA3t6QhgDORRDyQn6vlvA.png",
     "es": "/zfgvcK09wSbBTAIRsbAKOQvrm6A.png"
-   }
+   },
+   "overview": {
+    "fr": "Pour sa première mission, James Bond affronte le tout-puissant banquier privé du terrorisme international, Le Chiffre. Pour achever de le ruiner et démanteler le plus grand réseau criminel qui soit, Bond doit le battre lors d'une partie de poker à haut risque au Casino Royale. La très belle Vesper, attachée au Trésor, l'accompagne afin de veiller à ce que l'agent 007 prenne soin de l'argent du gouvernement britannique qui lui sert de mise, mais rien ne va se passer comme prévu. Alors que Bond et Vesper s'efforcent d'échapper aux tentatives d'assassinat du Chiffre et de ses hommes, d'autres sentiments surgissent entre eux, ce qui ne fera que les rendre plus vulnérables...",
+    "en": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+    "de": "Sein erster Auftrag, nachdem er die Lizenz zum Töten erhalten hat, führt den MI6-Agenten James Bond nach Madagaskar, wo er auf den Terroristen Mollaka angesetzt wird. Zwar verläuft nicht alles nach Plan, doch als Bond auf eigene Faust weiter ermittelt, kommt er auf die Spur von Le Chiffre, dem Bankier einer weltweit operierenden Terror-Organisation. Dieser plant, das Vermögen seiner Organisation durch ein illegales Pokerspiel im „Casino Royale“ in Montenegro um ein Vielfaches zu erhöhen, wofür natürlich auch ein hoher Einsatz nötig ist. Der MI6 sieht daher die Chance, die Terroristen in den finanziellen Ruin zu treiben und beauftragt James Bond, die Pläne von Le Chiffre zunichte zu machen.",
+    "it": "Dopo essersi guadagnato due zeri e la licenza di uccidere James Bond, alle origini della sua carriera, è sulle tracce di Le Chiffre, uno spregiudicato banchiere che finanzia organizzazioni terroristiche. L'intervento di Bond manda all'aria i suoi piani, sventando un attentato ai danni di una compagnia aerea. Le Chiffre si ritrova così in debito e in imbarazzo con un misterioso signore della guerra africano, per saldare il conto organizza un'esclusiva partita a poker al Casino Royale nel Montenegro. Finanziato dal governo e controllato dall'affascinante contabile Vesper Lynd, Bond è tra i dieci ricchi partecipanti che gareggiano per il piatto milionario. Sopravvissuto a una lunga notte di bluff, strategie, inseguimenti, avvelenamenti e torture, sarà l'amore a piegare l'agente britannico e a condizionarne il destino sentimentale.",
+    "es": "La primera misión del agente británico James Bond como agente 007 lo lleva hasta Le Chiffre, banquero de los terroristas de todo el mundo. Para detenerlo y desmantelar la red terrorista, Bond debe derrotarlo en una arriesgada partida de póquer en el Casino Royale. Al principio a Bond le disgusta Vesper Lynd, la hermosa oficial del Tesoro que debe vigilar el dinero del gobierno. Pero, a medida que Bond y Vesper se ven obligados a defenderse juntos de los mortales ataques de Le Chiffre y sus secuaces, nace entre ellos una atracción mutua.",
+    "sv": "James Bonds första uppdrag som 007 leder honom till Le Chiffre, bankir åt världens terrorister. För att stoppa honom och för att förinta terroristernas nätverk måste Bond besegra Le Chiffre i ett pokerspel med höga insatser på Casino Royale. Till en början är Bond irriterad över att den vackra brittiska Riksbankstjänstemannen, Vesper Lynd får uppdraget att leverera hans insats till spelet och vaka över regeringens pengar. När de tillsammans överlever en serie av dödliga attacker utförda av Le Chiffre och hans män, växer en attraktion fram mellan dem och det utsätter dem båda för ytterligare fara och händelser som förändrar Bonds liv för evigt."
+   },
+   "tagline": {
+    "fr": "Tout le monde a un passé. Chaque légende a un début.",
+    "en": "Everyone has a past. Every legend has a beginning.",
+    "de": "Jeder hat eine Vergangenheit. Jede Legende hat einen Anfang.",
+    "it": "Agente 007 - Casino Royale",
+    "es": "Todo el mundo tiene un pasado. Cada leyenda tiene un comienzo."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 12242,
+   "runtime": 144
   },
   {
    "id": 10764,
@@ -491,7 +1541,56 @@
     "de": "/6kzvBJ7vI3szN9XUH9u0zdVESJV.png",
     "it": "/68Kki13kVDrpWQZ6K4AeVn51r6E.png",
     "es": "/zR4y940O4kzd049RqocHNSTTyp5.png"
-   }
+   },
+   "overview": {
+    "fr": "Même s’il lutte pour ne pas faire de sa dernière mission une affaire personnelle, James Bond est décidé à traquer ceux qui ont forcé Vesper à le trahir. En interrogeant Mr White, 007 et M apprennent que l’organisation à laquelle il appartient est bien plus complexe et dangereuse que tout ce qu’ils avaient imaginé… Bond croise alors la route de la belle et pugnace Camille, qui cherche à se venger elle aussi. Elle le conduit sur la piste de Dominic Greene, un homme d’affaires impitoyable et un des piliers de la mystérieuse organisation. Au cours d’une mission qui l’entraîne en Autriche, en Italie et en Amérique du Sud, Bond découvre que Greene manœuvre pour prendre le contrôle de l’une des ressources naturelles les plus importantes au monde en utilisant la puissance de l’organisation, et en manipulant la CIA et le gouvernement britannique…",
+    "en": "Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.",
+    "de": "Nach dem Tod von Vesper Lynd versucht James Bond an die Hintermänner des Komplotts gegen Lynd zu kommen. Beim MI6 wird dazu Mr. White verhört, dem durch einen internen Verrat während des Verhörs die Flucht gelingt. Die Spur führt Bond nach Haiti. Dort gelangt er durch die attraktive Camille an den zwielichtigen Dominic Greene, der mit dem Komplott in Verbindung zu stehen scheint. Bond muss fortan nicht nur einmal um sein Leben bangen...",
+    "it": "Tradito da Vesper, la donna che amava, 007 deve combattere l'istinto di trasformare la sua missione in una questione personale. Cercando di scoprire la verità, Bond e M interrogano Mr. White che rivela come l'organizzazione che ricattava Vesper sia molto più complessa e pericolosa di quanto immaginassero. Il lavoro di intelligence collega un agente MI6, che ha tradito l'agenzia, ad un conto bancario a Haiti dove, per uno scambio di persona, Bond conosce la bella e aggressiva Camille, una donna che ha una vendetta personale da portare a termine. Camille accompagna Bond da Dominic Greene, un uomo d'affari senza scrupoli, che è tra i membri principali della misteriosa organizzazione. In una missione che lo porta in Austria, Italia e in Sudamerica, Bond scoprirà che Greene è impegnato in una cospirazione per prendere il controllo di una delle risorse naturali più importanti del mondo, che lo spinge a stringere un patto con il generale in esilio Medrano.",
+    "es": "Traicionado por Vesper, la mujer a la que amaba, 007 se plantea su nueva misión como algo personal. Durante su investigación, Bond y M interrogan a Mr. White, que les revela que la organización que chantajeó a Vesper es mucho más compleja y peligrosa de lo que imaginan. El servicio de inteligencia forense vincula a un traidor del Mi6 con una cuenta bancaria en Haití, donde Bond conoce a la bella pero combativa Camille, una mujer que tiene sus propios motivos para vengarse. Gracias a Camille, Bond descubre la existencia de Dominic Greene, despiadado hombre de negocios y miembro importante de la misteriosa organización.",
+    "sv": "Sveket av Vesper lämnar Bond driven av en personlig agenda att hitta mannen bakom allt. Tillsammans med M börjar de med Mr. White men ganska snart inser de bägge att allt är mycket större än vad man anat. Än en gång tas Bond över hela världen, denna gång i jakten på Dominic Greene, en miljökämpe med kopplingar till en blivande diktator i Bolivia. Till Bonds hjälp kommer Camille, även hon driven av ett personligt skäl."
+   },
+   "tagline": {
+    "fr": "Pour l'amour, la haine, la justice et la vengeance.",
+    "en": "Have regrets. Get revenge.",
+    "it": "Agente 007 - Quantum of Solace",
+    "es": "Por amor, por odio, por justicia, por venganza"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.3,
+   "votes": 8915,
+   "runtime": 106
   },
   {
    "id": 37724,
@@ -511,7 +1610,57 @@
     "en": "/wy9HCJuqbyBcKJt1mZrzhxnghDI.png",
     "it": "/5bU3Lbju1ryM6gxMc4eQ8e79jXV.png",
     "es": "/q2S7azWUlj2DnyPbBe8vNCGBpUK.png"
-   }
+   },
+   "overview": {
+    "fr": "Lorsque la dernière mission de Bond tourne mal, plusieurs agents infiltrés se retrouvent exposés dans le monde entier. Le MI6 est attaqué, et M est obligée de relocaliser l’Agence. Ces événements ébranlent son autorité, et elle est remise en cause par Mallory, le nouveau président de l’ISC, le comité chargé du renseignement et de la sécurité. Le MI6 est à présent sous le coup d’une double menace, intérieure et extérieure. Il ne reste à M qu’un seul allié de confiance vers qui se tourner: Bond. Plus que jamais, 007 va devoir agir dans l’ombre. Avec l’aide d’Ève, un agent de terrain, il se lance sur la piste du mystérieux Silva, dont il doit identifier coûte que coûte l’objectif secret et mortel.",
+    "en": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+    "de": "Auf der Jagd nach einer Liste von Undercoveragenten, die mit diesem Dokument enttarnt und in den sicheren Tod geschickt werden könnten, stürzt James Bond, von einer Kugel getroffen, in eine tiefe Schlucht. Von Freund und Feind für tot gehalten, hält sich 007 versteckt, bis ihn ein Bombenanschlag auf seinen Geheimdienst zum Handeln zwingt. So kehrt Bond zum MI6 zurück, kämpft gegen einen unbekannten Gegner, der nur ein Ziel kennt: Dem britischen Geheimdienst empfindlich zu schaden und dessen Chefin M zu töten.",
+    "it": "James Bond deve recuperare un file segretato contenente la lista dei nomi degli agenti infiltrati dell'MI6, che però finisce pubblicato su Internet. Bond, sopravvissuto alla caduta e alla inoperosità, è richiamato al dovere da un attentato alla sede dell'MI6. L’obiettivo è M e il mandante è Silva, un ex agente che ha coltivato la vendetta e chiede il conto al suo ex direttore.",
+    "es": "En Skyfall, la lealtad de James Bond hacia M será puesta a prueba cuando el pasado de M vuelve para atormentarla. Su vida se verá en peligro, de modo que el agente 007 deberá localizar y eliminar la amenaza, sin importar el precio personal que tendrá que pagar. Tras el fracaso de la última y fatídica misión de Bond y revelarse la identidad de varios agentes secretos en distintos puntos del planeta, la sede del MI6 es atacada, obligando a M a trasladar su agencia. Debido a estos sucesos, su autoridad y posición se verán amenazados por Mallory, el nuevo Presidente del Comité de Inteligencia y Seguridad. Ahora, el MI6 se enfrenta a amenazas tanto externas como internas por lo que M decide acudir al único aliado en quien puede confiar: Bond. El agente 007 desaparece en las sombras con una única aliada: la agente de campo Eve. Juntos le seguirán la pista al misterioso Silva.",
+    "sv": "Bonds lojalitet till M sätts på prov när hennes förflutna plågsamt gör sig påmint. När MI6 utsätts för en attack måste agent 007 hitta och förgöra hotet, oavsett vad det personligen kommer kosta honom."
+   },
+   "tagline": {
+    "fr": "Pensez à vos péchés.",
+    "en": "Think on your sins.",
+    "de": "Denk über deine Sünden nach.",
+    "it": "Agente 007 - Skyfall",
+    "es": "Piensa en tus pecados."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Thriller"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 16609,
+   "runtime": 143
   },
   {
    "id": 206647,
@@ -532,7 +1681,56 @@
     "en": "/kzoXn4oeb7P9wdyg62Kb7PR23Bu.png",
     "it": "/pmGbmSzLpRKaDfmZSowKXY77nDc.png",
     "es": "/glEEEjVX4gE0iJv7E9O1QkJZHQe.png"
-   }
+   },
+   "overview": {
+    "fr": "Un message cryptique surgi du passé entraîne James Bond dans une mission très personnelle à Mexico puis à Rome, où il rencontre Lucia Sciarra, la très belle veuve d’un célèbre criminel. Bond réussit à infiltrer une réunion secrète révélant une redoutable organisation baptisée Spectre. Pendant ce temps, à Londres, Max Denbigh, le nouveau directeur du Centre pour la Sécurité Nationale, remet en cause les actions de Bond et l’existence même du MI6, dirigé par M. Bond persuade Moneypenny et Q de l’aider secrètement à localiser Madeleine Swann, la fille de son vieil ennemi, Mr White, qui pourrait détenir le moyen de détruire Spectre. Fille de tueur, Madeleine comprend Bond mieux que personne… En s’approchant du cœur de Spectre, Bond va découvrir qu’il existe peut-être un terrible lien entre lui et le mystérieux ennemi qu’il traque…",
+    "en": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+    "de": "James Bond erhält eine kryptische Nachricht aus seiner Vergangenheit, die ihn auf die Spur einer finsteren Organisation bringt. Bond muss immer mehr entdecken, dass es viele Täuschungen und Lügen gibt, die er entschlüsseln muss. Während sein Boss M mit anderen Problemen kämpft, mit politischen Kräften konfrontiert ist, die den ganzen Geheimdienst gefährden, erkennt Bond erst nach und nach die schreckliche Wahrheit hinter Spectre.",
+    "it": "La morte sfila per le strade di Città del Messico e dietro la maschera di un teschio. In missione per conto di M, la defunta M che gli ha lasciato un video e un incarico spinoso da risolvere, James Bond sventa un attentato e uccide Marco Sciarra, terrorista legato a SPECTRE, una misteriosa organizzazione criminale e tentacolare. Il suo colpo di testa gli aliena Gareth Mallory, il nuovo M alle prese con pressioni politiche e Max Denbigh, membro del governo britannico che non vede l'ora di mandare in pensione i vecchi agenti dell'MI6 e di controllare con tanti occhi le agenzie del mondo. Congedato a tempo (in)determinato, Bond prosegue la sua indagine contro il parere di Mallory e con l'aiuto dei fedeli Q e Moneypenny.",
+    "es": "Un críptico mensaje del pasado envía a James Bond a una misión secreta a México D.F. y luego a Roma, donde conoce a Lucía Sciarra, la hermosa viuda de un infame criminal. Bond se infiltra en una reunión secreta y descubre la existencia de una siniestra organización conocida como SPECTRE. Mientras tanto, en Londres, el nuevo director del Centro para la Seguridad Nacional cuestiona las acciones de Bond y pone en duda la importancia del MI6, encabezado por M. De modo encubierto Bond recluta a Moneypenny y Q para que le ayuden a buscar a Madeleine Swann, la hija de su antiguo archienemigo, el Sr. White, que quizá tenga la clave para desentrañar el misterio de SPECTRE. A medida que Bond avanza en su misión, descubre una estremecedora conexión entre él mismo y el enemigo que busca.",
+    "sv": "Ett kryptiskt meddelande från Bonds förflutna skickar iväg honom på ett uppdrag för att avslöja en olycksbådande organisation. Medan M bekämpar politiska krafter för att hålla underrättelsetjänsten vid liv skalar Bond bort lagren av svek för att avslöja den fruktansvärda sanningen bakom SPECTRE."
+   },
+   "tagline": {
+    "fr": "Cette fois c’est personnel !",
+    "en": "The Dead Are Alive.",
+    "it": "Agente 007 - Spectre",
+    "es": "Un plan del que nadie escapa."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Thriller"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 11647,
+   "runtime": 148
   },
   {
    "id": 370172,
@@ -554,7 +1752,57 @@
     "de": "/4n3ru9OS4Qbw6pFYPLCY7nfOK74.png",
     "it": "/hg8vyNMgj3zdof3Qs0pExTfPK9o.png",
     "es": "/dXclpDiyUJZDSRmxW7s3Ixaf5iB.png"
-   }
+   },
+   "overview": {
+    "fr": "James Bond a quitté les services secrets et coule des jours heureux en Jamaïque. Mais sa tranquillité est de courte durée car son vieil ami Felix Leiter de la CIA débarque pour solliciter son aide : il s'agit de sauver un scientifique qui vient d'être kidnappé. Mais la mission se révèle bien plus dangereuse que prévu et Bond se retrouve aux trousses d'un mystérieux ennemi détenant de redoutables armes technologiques…",
+    "en": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+    "de": "James Bond hat seine Lizenz zum Töten im Auftrag des britischen Geheimdienstes abgegeben und genießt seinen Ruhestand in Jamaika. Die friedliche Zeit nimmt ein unerwartetes Ende, als sein alter CIA-Kollege Felix Leiter auftaucht und ihn um Hilfe bittet. Ein bedeutender Wissenschaftler ist entführt worden und muss so schnell wie möglich gefunden werden. Was als simple Rettungsmission beginnt, erreicht bald einen bedrohlichen Wendepunkt, denn Bond kommt einem geheimnisvollen Gegenspieler auf die Spur, der im Besitz einer brandgefährlichen neuen Technologie ist.",
+    "it": "Bond ha abbandonato gli impegni in prima linea e si gode una tranquilla vita in Giamaica. La sua pace ha vita breve dopo che il vecchio amico Felix Leiter della CIA si palesa con una richiesta d’aiuto. La missione ha l’obiettivo di recuperare uno scienziato rapito e si rivela molto più complessa di quanto atteso: Bond sarà messo alla prova da un misterioso nemico dotato di una nuova arma tecnologica.",
+    "es": "James Bond se encuentra disfrutando de unas merecidas vacaciones en Jamaica. Sin embargo, su paz termina cuando su amigo de la CIA, Felix Leiter, lo busca para una nueva misión que implica rescatar a un importante científico que ha sido secuestrado.",
+    "sv": "James Bond har lämnat sin tjänst och njuter av ett lugnt liv på Jamaica. Lugnet blir dock kortvarigt då hans gamle vän Felix Leiter från CIA dyker upp och ber om hjälp. Uppdraget att rädda en kidnappad forskare visar sig vara mer förrädiskt än väntat."
+   },
+   "tagline": {
+    "fr": "La mission qui change tout commence…",
+    "en": "The mission that changes everything begins…",
+    "de": "Die Mission, die alles verändert, beginnt …",
+    "it": "Bond è tornato.",
+    "es": "Comienza la misión que lo cambia todo..."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 7573,
+   "runtime": 163
   }
  ]
 }

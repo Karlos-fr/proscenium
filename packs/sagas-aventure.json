@@ -1,6 +1,6 @@
 {
  "id": "sagas-aventure",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Sagas d'aventure",
   "en": "Adventure Sagas",
@@ -39,7 +39,51 @@
     "it": "/jIwN17u4X89hE7yYqa5yKYdwR1l.png",
     "es": "/ql6eKGJhaovo0QnJLnwtebddSGq.png",
     "sv": "/gbx2Dy5pSuFtSAccTHYh50p52L6.png"
-   }
+   },
+   "overview": {
+    "fr": "L'Arche d'Alliance contenant les tables de la Loi brisées par Moïse, voici 3.000 ans, est l'objet de la convoitise des nazis. L'archéologue aventurier Indiana Jones se lance à sa recherche, poursuivi par son ennemi Belloq.",
+    "en": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+    "de": "Der Archäologe Dr. Henry Jones wird von Regierungsagenten auf die Bundeslade angesetzt, das Behältnis, in dem Moses Gesetzestafeln aufbewahrt wurden. Laut Geheiminformationen suchen auch die Nazis nach der Lade, da sie den Besitzer unbesiegbar machen soll. Jones, genannt Indiana Jones, reist daraufhin nach Nepal, wo er einen alten Kollegen aufspüren will, jedoch nur dessen Tochter findet, die sich ihm anschließt. Ein altes Schmuckstück führt sie nach Ägypten, wo die Nazis mit Belloqs Hilfe bereits Ausgrabungen vornehmen. So kommt es zum Wettlauf um die Auffindung der Quelle der Seelen…",
+    "it": "Dopo essere stato derubato di un prezioso idolo, Indiana Jones ritorna all'università da insegnante. Qui i servizi segreti gli offriranno il compito di trovare l'arca dell'alleanza e cercare così di non farla cadere nelle mani dei tedeschi. Giunto nel Nepal, incontrerà Marion, una sua vecchia conoscenza, con la quale giungerà dall'amico Sallah, trovando ospitalità e svolgendo da lì la definitiva ricerca dell'arca.",
+    "es": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+    "sv": "Den handlingskraftige arkeologen ger sig tillsammans med sin självständiga och något svårhanterliga ex-flickvän Marion Ravenwood iväg för att finna den sägenomspunna heliga arken före nazisterna. Den halsbrytande kapplöpningen går genom Sydamerikas djungler, Kairos myllrande gator och en topphemlig ubåtsbas, och Indy tvingas utstå gift, fällor, ormar och förrädare för att nå målet. Arkens krafter släpps slutligen lösa, och Indy kämpar för att ligga steget före nazisterna."
+   },
+   "tagline": {
+    "fr": "Indiana Jones - le nouveau héros des créateurs des DENTS DE LA MER et de la GUERRE DES ETOILES.",
+    "en": "The return of the great adventure.",
+    "de": "Die Rückkehr des großen Abenteuerfilms",
+    "it": "Il ritorno della grande avventura.",
+    "es": "El retorno de la gran aventura."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 14237,
+   "runtime": 115
   },
   {
    "id": 87,
@@ -62,7 +106,52 @@
     "it": "/fm6WMKkZK4zTIxRj3cm2ncc6voN.png",
     "es": "/rUqugZkR5R55Z0mVcb3uu3IOYbY.png",
     "sv": "/oRH9NxOqh7In3tEcVooDyNVs0pp.png"
-   }
+   },
+   "overview": {
+    "fr": "L'archéologue Indiana Jones est obligé de fuir un cabaret de Shanghai après une négociation houleuse. En compagnie de la chanteuse Willie Scott et du petit Demi-Lune, il se retrouve sur un glacier himalayen, dans un village dont une secte a dérobé le diamant magique et enlevé les enfants afin de les sacrifier.",
+    "en": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+    "de": "Indiana Jones kehrt zurück! Nachdem er bei der Erringung eines Diamanten in einem Nachtclub in Shanghai beinahe vergiftet, erdolcht und erschossen wurde, flieht er mit einer halbhysterischen Clubsängerin und seinem jungen asiatischen Freund Short Round mit einem Flugzeug. Doch über Indien wird auch hier ein Mordversuch gegen sie ausgeführt und alle drei müssen abspringen. Sie gelangen in ein Dorf, aus dem heilige Steine und sämtliche Kinder entführt wurden. Die Spur führt zu einem Fürstenpalast im Dschungel, wo sie einem machtgierigen Jungfürsten auf die Spur kommen, der die Kinder in den Minen arbeiten läßt. Doch hinter ihm steht ein noch machtvollerer Sektenführer...",
+    "it": "Nel 1935 l'archeologo Indiana Jones recupera per un potente di Shangai un prezioso cimelio. Ma le cose non vanno per il meglio e Indiana è costretto a fuggire su di un piccolo aereo insieme ad una cantante di cabaret e ad un ragazzino cinese che gli fa da guida. Abbandonato dai piloti, l'aereo precipita sulle montagne tibetane ai confini con l'India.",
+    "es": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
+    "sv": "Indy undkommer med nöd och näppe ett våldsamt slagsmål på en nattklubb i Shanghai, bara för att kraschlanda i Indiens regnskog där ondskans makter härjar. Barnen från en avlägsen by har kidnappats och används som slavar i en ointaglig gruva, och Indy måste rädda dem utan att själv möta samma fruktansvärda öde hos den onda Kali-sekten. Tillsammans med sin följeslagare Short Round och den motsträviga nattklubbssångerskan Willie Scott överlistar Indy de blodtörstiga skurkarna, och det går undan i svängarna när de jagas i en gruvvagn i den halsbrytande berg- och dalbanescenen."
+   },
+   "tagline": {
+    "fr": "Depuis « Les Aventuriers de l’arche perdue », l’aventure a un nom : Indiana Jones.",
+    "en": "If adventure has a name... it must be Indiana Jones.",
+    "de": "Das Abenteuer hat viele Gesichter. Indiana Jones zeigt sie alle.",
+    "it": "Se l'avventura ha un nome, deve essere Indiana Jones.",
+    "es": "Si la aventura tiene un nombre, ese nombre es Indiana Jones",
+    "sv": "Äventyret fortsätter"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 10538,
+   "runtime": 118
   },
   {
    "id": 105,
@@ -85,7 +174,57 @@
     "it": "/n5odobvL1L56AQVStx53eIRv5Mh.png",
     "es": "/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
     "sv": "/x6UqUDCC6wbutLCCFyaHvPNcaKj.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1985, Marty, un adolescent comme les autres, mène une existence morne et ennuyeuse. Heureusement, il est épris de la jolie Jennifer et entretient une profonde amitié avec Doc, un savant fou qui prétend avoir inventé une machine à explorer le temps. Un jour, Doc invite Marty à l'essayer…",
+    "en": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "de": "Der Teenager Marty McFly wird mit der Zeitmaschine seines Freundes, dem skurrilen Wissenschaftler Dr. Emmett Brown, versehentlich ins Jahr 1955 geschleudert. Dort verhindert er zunächst unabsichtlich, dass sich seine zukünftigen Eltern kennen lernen und in einander verlieben, womit er seine eigene Zeugung gefährdet. Zu allem Überfluss verguckt sich seine Mutter auch noch in ihn. Ihm bleibt nun eine Woche Zeit, seinen tollpatschigen Vater mit seiner Mutter zu verkuppeln und gemeinsam mit Docs dreißig Jahre jüngerem alter Ego einen Plan zu entwickeln, wie sie das bevorstehende große Gewitter nutzen können, um ihn in die Gegenwart zurück zu schicken.",
+    "it": "Marty McFly è stato catapultato per errore nel 1955, grazie alla macchina del tempo ideata dal suo amico scienziato Doc. Non avendo più \"carburante\" per poter tornare nel futuro si rivolge alla versione più giovane di Doc, che nonostante l'incredulità iniziale si farà in quattro per aiutarlo. Ma nel 1955 non è solo Doc ad essere più giovane, Marty infatti si imbatte casualmente nei suoi genitori, all'epoca teenager, ma l'incontro aggiungerà altri problemi.",
+    "es": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+    "sv": "För att komma undan ett gäng terrorister hoppar Marty in i en sportbil som hans vän och uppfinnare har tillverkat. Bilen är ombyggd till en tidsmaskin och snart befinner sig Marty 30 år tillbaka i tiden där han möter sina föräldrar som unga. Men plutoniumet som krävs för att driva bilen tar slut och Marty måste uppsöka uppfinnaren som ung för att försöka ordna så att han kan återvända till 1985."
+   },
+   "tagline": {
+    "fr": "Jamais à temps à l’école, jamais à temps à la maison, un jour il se retrouve complètement hors du temps…",
+    "en": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+    "de": "Er kam nie pünktlich zur Schule. Und immer zu spät zum Essen. Doch eines Tages kam er um Jahre zu früh …",
+    "it": "Non arriva mai in tempo a scuola... Non arriva mai in tempo a cena... Ma un giorno... si trovò completamente fuori dal tempo.",
+    "es": "Nunca llegaba a tiempo a clase. No llegaba a tiempo para cenar. Hasta que un día desapareció de su tiempo."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 22787,
+   "runtime": 117
   },
   {
    "id": 89,
@@ -108,7 +247,52 @@
     "it": "/rJr0XT6QGZphozXqCLmryfGq8R6.png",
     "es": "/zSlO3CnCdLq7vZUmRDrk9WRk9Z.png",
     "sv": "/lvQZxs5Srj8UXMKTT4vziJrQMHs.png"
-   }
+   },
+   "overview": {
+    "fr": "Indiana Jones se lance cette fois‐ci à la recherche du Saint Graal, accompagné de l'éminent et très maladroit Dr Henry Jones, son père. Malheureusement, ils ne sont pas les seuls lancés sur la trace du trésor, les nazis le convoitent également.",
+    "en": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+    "de": "Wir schreiben das Jahr 1938: Doktor Jones wird vom Mäzen eines Museums beauftragt, den Heiligen Gral und somit die wichtigste Reliquie der Christenheit zu finden. Jones' Einwand, es würde der falsche Jones gefragt werden, denn der eigentliche Experte sei sein Vater Henry, fördert nur die Erkenntnis zu Tage, dass Jones senior bereits die Spur aufgenommen hatte, mittlerweile aber verschwunden ist. Nun ist des Doktors Jagdinstinkt geweckt. Besorgt um das Wohlergehen des Vaters und mit dem Museumskurator Marcus Brody im Gepäck tritt Jones eine Reise in die alte Welt an, um das zustande zu bringen, was die mittelalterlichen Kreuzzüge nicht geschafft hatten: den Kelch zu finden, der beim letzten Abendmahl gereicht worden war und das Blut Jesu am Kreuz aufgefangen hatte. Erwartungsgemäß ist aber nicht nur der Doktor auf der Suche - auch die Schergen Hitlers wollen sich die Sagen umwobenen Kräfte des Kelches sichern, verheißt er doch das ewige Leben…",
+    "it": "Nel 1938, Indiana Jones, celebre archeologo, apprende che suo padre, Henry, anch'egli archeologo, è stato rapito perchè prossimo, con i suoi studi, ad individuare il luogo dove è custodito il Santo Graal, il calice in cui, secondo la leggenda, Gesù Cristo bevve nell'Ultima Cena.",
+    "es": "En 1938, dos años después de encontrar el Arca de la Alianza, Indiana Jones es convencido por un millonario para que lo ayude a encontrar el Santo Grial antes de que caiga en manos del ejército nazi. Sin embargo, el verdadero motivo para involucrarse es encontrar a su padre, el doctor Henry Jones, con quien ha mantenido una fría relación desde su juventud y que ha desaparecido mientras seguía la pista del tesoro bíblico.",
+    "sv": "Indys nazistfiender har återvänt och kidnappat hans far, professor Henry Jones för att han ska hjälpa dem i sökandet efter den heliga graalen. Indy följer spåren från USA till Venedig och vidare till öknarna i det heliga landet för att rädda honom och graalen."
+   },
+   "tagline": {
+    "fr": "Il est de retour. Et, cette fois‐ci, avec son père.",
+    "en": "Have the adventure of your life keeping up with the Joneses.",
+    "de": "Der Mann mit dem Hut ist zurück. Und dieses Mal bringt er seinen Vater mit.",
+    "it": "Questa volta si porta papà.",
+    "es": "El hombre del sombrero está de vuelta, y esta vez con su padre.",
+    "sv": "Mannen med hatten är tillbaka. Denna gång har han med sig sin far."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 11550,
+   "runtime": 127
   },
   {
    "id": 165,
@@ -131,7 +315,57 @@
     "it": "/bO4fQjzoayBDqYGAxonf8RBpKKh.png",
     "es": "/hJOIF2KVRgdTonfyLkCdyq6buo5.png",
     "sv": "/37co8tfzQaCv7cBJvnvPqkZO9ug.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1985, Marty McFly a retrouvé sa famille et sa petite amie après un voyage mouvementé dans le passé. Surgit alors Doc Brown, au volant de sa machine à explorer le temps. Il lui enjoint de le suivre dans le futur, en l'an 2015, pour secourir son fils tombé sous la coupe du sinistre Biff Tannen.",
+    "en": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+    "de": "Nachdem Doc Brown am Ende des ersten Teiles Marty mit in die Zukunft genommen hat, sieht er nun selbst, was aus ihm werden wird - ein abgehalfterter Angestellter, der am Ende der Karriereleiter steht.Marty und Doc Brown versuchen, der Zukunft einen kleinen Schubser in die richtige Richtung zu geben. Doch Biff gibt seiner eigenen Zukunft durch einen Fehler Martys eine neue Wendung - und dieser Fehler muß nun ausgebügelt werden...",
+    "it": "Il film comincia dove terminava il primo capitolo, ovvero con Marty e Jennifer che partono insieme allo scienziato Doc, inventore della macchina del tempo, per il 2015 allo scopo di evitare che il futuro dei loro figli possa essere in pericolo. Ma la situazione precipita e ad essere in pericolo non è più il futuro, ma il passato. Marty dovrà tornare nuovamente nel 1955 e...",
+    "es": "Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más modernizada), e insta a que le acompañen él y su novia a viajar al futuro para solucionar un problema con la ley que tendrá uno de sus futuros hijos. En la tremenda vorágine futurista, con todo lo que ello conlleva, del Hill Valley de 2015, la presencia de tales viajeros temporales causará un efecto mayor que el que iban a arreglar. Un almanaque deportivo y la posesión del secreto de la existencia de la máquina del tiempo por parte del siempre villano Biff Tannen, serán los ingredientes que conjugarán una causa-efecto en el pasado, en el presente y en el propio futuro, que hará que Marty y Doc se tengan que emplear a fondo para poner fin a la catástrofe a la que les lleva el destino.",
+    "sv": "Doc, Marty och Jennifer åker till år 2015 med sin tidsmaskin DeLorean för att rätta till några problem i framtiden. Men Biff Tannen stjäl DeLorean och åker tillbaka i tiden och ger en bok med 50 års sportresultat till sitt yngre jag. Nu måste Marty åka tillbaka i tiden för att stoppa den yngre Biff från att utnyttja boken..."
+   },
+   "tagline": {
+    "fr": "Le retour n'était que le début.",
+    "en": "Getting back was only the beginning.",
+    "de": "Und jetzt wird durchgestartet …",
+    "it": "Strade? Dove stiamo andando non c'è bisogno di strade!",
+    "es": "El regreso fue sólo el principio."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 14535,
+   "runtime": 109
   },
   {
    "id": 196,
@@ -154,7 +388,57 @@
     "it": "/yArZzQAxPC7aZi5sfEsiTGRjRoc.png",
     "es": "/R7CCAaWeyYu15jtXHAjEDejGY1.png",
     "sv": "/4LfM0XfewM9JnMl7X1Xbu0ETnss.png"
-   }
+   },
+   "overview": {
+    "fr": "Ce troisième épisode propulse Marty sur une toute nouvelle mission… en l'an 1885, en plein Far West ! Il n'a que cinq jours pour sauver son ami Doc des griffes du terrible Buford \"Molosse\" Tannen et ainsi lui éviter la mort. Cependant, bon nombre d'embûches vont empêcher nos deux voyageurs de rentrer rapidement vers le futur : ils devront faire face à une panne de la DeLorean, leur très célèbre machine à remonter le temps, affronter une bande de hors-la-loi et croiser sur leur route une maîtresse d'école dont le charme ne laissera pas insensible ce bon vieux Doc…",
+    "en": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "de": "Als Dr. Emmett Brown im Jahre 1955 bei einem Landeversuch mit dem DeLorean vom Blitz getroffen wird, katapultiert ihn die Zeitmaschine in das Jahr 1885. Sofort schreibt er Marty McFly einen Brief, in dem er seinen Freund darüber unterrichtet, dass es ihm gut gehe und er seinen Lebensabend gern in dieser Epoche verbringen würde. Dank des zuverlässigen Postsystems erreicht der Brief Marty 70 Jahre später, direkt nachdem dieser mit ansehen musste, wie die Zeitmaschine im bewölkten Nachthimmel von Hill Valley verschwand. Kurz darauf findet Marty allerdings heraus, dass der schrullige Wissenschaftler eine Woche nach seiner Ankunft im Wilden Westen erschossen wird. Um dies zu vereiteln, begibt er sich kurzerhand selbst auf die Reise in das Jahr 1885.",
+    "it": "Per questa terza, conclusiva, puntata della trilogia, Marty McFly è costretto a tornare indietro nel tempo fino al 1885 per salvare Doc, che vi era stato catapultato al termine del secondo capitolo. Questa volta tornare nel futuro sarà ancora più difficile.",
+    "es": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
+    "sv": "Doc Brown och hans skyddsling Marty McFly befinner sig i Vilda västern år 1885. Doc bestämmer sig för att stanna kvar. Men när Marty återvänder till 1955 ser han Docs gravsten och han far tillbaka för att rädda Doc."
+   },
+   "tagline": {
+    "fr": "Ils ont gardé le plus beau voyage pour la fin… Mais cette fois, ils sont peut‐être allés trop loin.",
+    "en": "They've saved the best trip for last... But this time they may have gone too far.",
+    "de": "Die beste Reise machen sie zuletzt … aber vielleicht sind sie dieses Mal doch zu weit gegangen.",
+    "it": "L'ultimo viaggio è il più stupefacente! Ma forse sono andati troppo lontano...",
+    "es": "Han guardado el mejor viaje para el final... Pero esta vez pueden haber ido demasiado lejos."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 12023,
+   "runtime": 119
   },
   {
    "id": 329,
@@ -174,7 +458,51 @@
     "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
     "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
     "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
-   }
+   },
+   "overview": {
+    "fr": "Généticien de génie, le professeur John Hammond a recréé de nombreuses espèces de dinosaures à partir d'une goutte de sang prélevée sur un moustique fossilisé. Démiurge naïf et généreux, dépassé par ses propres ambitions, il projette d’ouvrir un gigantesque et terrifiant parc d'attractions. Mais la pureté de son rêve se heurte à la cupidité des hommes et, plus grave, à la violence latente, indomptable de la Nature.",
+    "en": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "de": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
+    "it": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano liberi dando la caccia agli umani...",
+    "es": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+    "sv": "En rik entreprenör skapar i hemlighet en nöjespark med levande dinosaurier från förhistoriskt DNA. Före öppningsdagen bjuder han ner ett team av experter och sina två ivriga barnbarn för att uppleva parken och bidra till att lugna oroliga investerare. Men det visar sig att parken är allt annat än roande."
+   },
+   "tagline": {
+    "fr": "Il a fallu 65 millions d'années pour que cette aventure devienne possible.",
+    "en": "An adventure 65 million years in the making.",
+    "de": "Ein Abenteuer, das 65 Millionen Jahre lang geplant war.",
+    "it": "Un'avventura iniziata 65 milioni di anni fa.",
+    "es": "Una aventura de 65 millones de años."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 18632,
+   "runtime": 127
   },
   {
    "id": 954,
@@ -195,7 +523,56 @@
     "en": "/d4Nk4FAlEoHLNEny88SQ7Jk9ZsZ.png",
     "de": "/oo5rOYfWarrSIPtppfL57w7XPYL.png",
     "es": "/xmEO3geekHkjfWSdcQaWDnSIpto.png"
-   }
+   },
+   "overview": {
+    "fr": "Ethan Hunt, un agent secret de haut niveau, est accusé de la mort de son équipe d'espionnage. Alors qu'il fuit les criminels du gouvernement, qu'il s'introduit dans la chambre forte la plus impénétrable de la CIA et qu'il se cramponne au toit d'un train à grande vitesse, Hunt se retrouve dans une course effrénée pour devancer ceux qui le poursuivent… et se rapprocher petit à petit d'une vérité bouleversante.",
+    "en": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+    "de": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen.Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem Einsatz zu Tode kommen. Bei einem Treffen mit seinem Kontaktmann der CIA erkennt Hunt, daß hinter der Mission ein perfides Doppelspiel steckt. Als Überlebenden wird ihm die Schuld am Tod seines Teams angehängt. Um seine Unschuld zu beweisen, muß Hunt den wahren Maulwurf finden. Ob auf der Flucht vor Killerkommandos der Regierung, beim Eindringen in den Hochsicherheitstrakt der CIA oder gar am Dach eines Hochgeschwindigkeitszuges festgeklammert, Hunt muß alles daransetzen, seinen Verfolgern stets einen Schritt voraus zu sein und der schrecklichen Wahrheit Schritt für Schritt näher zu kommen...",
+    "it": "Una lista, registrata su un floppy disk e valutata 20 milioni di dollari, rivela le vere identità dei più agguerriti agenti segreti in servizio dopo il 1989. Ethan Hunt e i suoi colleghi dell'IMF la cercano in un giro di dubbie verità, doppi giochi, complotti e tradimenti.",
+    "es": "Ethan Hunt es un superespía capaz de resolver cualquier arriesgada situación con la máxima elegancia. Forma parte de un competente equipo dirigido por el agente Jim Phelps, que ha vuelto a reunir a sus hombres para participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de vital importancia.",
+    "sv": "Ethan Hunt arbetar inom den hemliga amerikanska organisationen Impossible Mission Force (IMF). Uppgifter om CIA-agenternas identiteter, den s.k. NOC-listan har stulits av en f.d. rysk spion. Hunt får det svåra uppdraget att förhindra att informationen säljs på svarta marknaden. Men något går fel... Ethan blir anklagad för ett antal mord han inte begått och på flykt undan de riktiga mördarna måste han ta sig in på CIAs mest bevakade dator. För att undankomma tvingas Hunt hela tiden vara steget före sina förföljare i sin jakt på sanningen."
+   },
+   "tagline": {
+    "fr": "Attendez-vous à l'impossible.",
+    "en": "Expect the impossible.",
+    "de": "Akzeptiere das Unmögliche",
+    "es": "Espera lo imposible."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 10480,
+   "runtime": 111
   },
   {
    "id": 330,
@@ -217,7 +594,57 @@
     "de": "/7cEZvIZkYAZdQJzza5BKamQkCZy.png",
     "it": "/knelNX3dFI5dLh1IbLkck1gC27a.png",
     "es": "/5QMKyZYsiph25a1iJybP7ANgsGX.png"
-   }
+   },
+   "overview": {
+    "fr": "Quatre ans après le terrible fiasco de son Jurassic Park, le milliardaire John Hammond rappelle le Dr Ian Malcolm pour l'informer de son nouveau projet. Sur une île déserte, voisine du parc, vivent en liberté des centaines de dinosaures de toutes tailles et de toutes espèces. Ce sont des descendants des animaux clonés en laboratoire. D'abord réticent, Ian se décide à rejoindre le docteur quand il apprend que sa fiancée fait partie de l'expédition scientifique. Il ignore qu'une autre expédition qui n'a pas les mêmes buts est également en route.",
+    "en": "Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.",
+    "de": "Vier Jahre nach dem Desaster im Jurassic Park: Auf einer nahegelegenen Insel haben die Dinosaurier unbemerkt überlebt und können sich frei bewegen. Doch jetzt droht eine noch viel größere Gefahr - der Plan, die Dinosaurier einzufangen und auf das Festland zu bringen. John Hammond, der die Kontrolle über seine Gesellschaft \"InGen\" verloren hat, sieht die Chance, seine Fehler aus der Vergangenheit wiedergutzumachen und sendet eine Expedition, geleitet von Ian Malcolm, zur Insel, bevor der beauftragte Jagd-Trupp dort ankommt. Die zwei Gruppen stehen sich in extremer Gefahr gegenüber und müssen sich in einem Wettlauf gegen die Zeit zusammenschließen, um zu überleben...",
+    "it": "John Hammond rivela a Ian Malcom l'esistenza, in Costa Rica, di un'isola, chiamata \"sito B\", in cui i dinosauri creati in laboratorio sono stati allevati in totale libertà. Il vecchio miliardario ha perso il controllo della sua società, gestita adesso dal nipote Peter, affarista incompetente e privo di scrupoli. Chiede perciò a Malcom di unirsi a un corpo di spedizione scientifico sull'isola, per documentare la vita dei dinosauri e fare in modo che l'avidità del nipote non provochi un'ulteriore strage. Ma sull'isola, insieme agli scienziati, arriva anche un gruppo di cacciatori guidati da Peter...",
+    "es": "Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada zona B: el lugar que servía como laboratorio genético. Después de que John Hammond llevara a la empresa a la bancarrota, su sobrino Peter ha tomado las riendas y está dispuesto a levantar la compañía explotando la peligrosa zona.",
+    "sv": "Fyra år efter katastrofen reser forskare till ön där dinosaurierna blev uppfödda innan de skeppades till Jurassic Park. Efter katastrofen blev de lämnade alldeles ensamma och forskarna vill nu se vad som hänt när de fick utvecklas naturligt utan inblandning från människan. Det är ingen syn de ville få se."
+   },
+   "tagline": {
+    "fr": "Quelque chose a survécu.",
+    "en": "Something has survived.",
+    "de": "Etwas hat überlebt",
+    "it": "Qualcosa è sopravvissuto.",
+    "es": "Algo ha sobrevivido."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 9623,
+   "runtime": 130
   },
   {
    "id": 603,
@@ -239,7 +666,52 @@
     "de": "/vI6oPPFZjfr4jOu21NHyoZmfsn2.png",
     "it": "/7tg7ZTv0AbO5afJaUZguvqK5O4g.png",
     "es": "/kA8phmxG7h4BIN061fiutckq9Ho.png"
-   }
+   },
+   "overview": {
+    "fr": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est‐ce que la Matrice ? Nul ne le sait, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents…",
+    "en": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "de": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe – der gesuchte Terrorist Morpheus – weiht ihn in ein entsetzliches Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrheit werden die Menschen längst von einer unheimlichen virtuellen Macht beherrscht – der „Matrix“, deren Agenten Neo bereits im Visier haben …",
+    "it": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e della bella Trinity, può tentare di scoprire la verità, ma non sarà un'impresa facile.",
+    "es": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+    "sv": "Thomas Anderson lever ett dubbelliv. På dagarna är han en vanlig programmerare och på nätterna en hacker känd som Neo. Hans liv förändras för alltid när han kontaktas av Morpheus, en legendarisk hacker som av myndigheterna stämplas som terrorist. Mötet drar Neo in i polisens sökarljus och tvingar honom in i en existentiell kamp om människans frihet."
+   },
+   "tagline": {
+    "fr": "Croire à l'incroyable.",
+    "en": "Believe the unbelievable.",
+    "de": "Glaube das Unglaubliche.",
+    "it": "Credete all'incredibile.",
+    "es": "Bienvenido al mundo real.",
+    "sv": "Tro det ofattbara."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 29287,
+   "runtime": 136
   },
   {
    "id": 955,
@@ -260,7 +732,57 @@
     "en": "/eTFeeWhxZy931ZskcekdsxwxfhQ.png",
     "de": "/hLljwbqxr7TTi3eM2AQgNzxyxhK.png",
     "es": "/3jkbG2FwimAyPaVxpWCKdrCUMoj.png"
-   }
+   },
+   "overview": {
+    "fr": "L'agent Ethan Hunt doit récupérer et détruire un virus mortel, baptisé « la Chimère », qui a été dérobé par son ancien collègue Sean Ambrose. Ce dernier détient l'antidote et se terre dans un laboratoire de Sydney. Pour infiltrer son quartier général hautement sécurisé, Hunt et son assistant Luther Stickell tentent d'approcher Nyah Hall, l'ancienne petite amie de Sean.",
+    "en": "With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.",
+    "de": "Agent Ethan Hunt genießt gerade seinen Urlaub beim Freiklettern, als ihn eine vom Hubschrauber überbrachte Nachricht zur Arbeit zurückruft: Der kriminelle Ex-Kollege Sean Ambrose hat mit seiner Gang ein todbringendes Virus in seinen Besitz gebracht. Nun gilt es, den Verräter schleunigst ausfindig und dingfest zu machen. Deshalb macht sich Ethan gemeinsam mit dem Computer-Genie Luther, dem Australier Billy und der attraktiven Meisterdiebin Nyah an die unmöglich scheinende Mission, das Virus zurückzuholen.",
+    "it": "Ethan Hunt è alle prese con una crisi internazionale di enorme gravità. Al fianco del genio dell'informatica Ving Rhames e della bellissima ladra Nyah Hall, Hunt attraversa l'Australia e la Spagna in una missione impossibile: fermare un gruppo di terroristi tedeschi prima che riescano a mettere in atto il loro piano distruttivo, il rilascio del virus \"Chimera\".",
+    "es": "El agente especial Ethan Hunt tiene una nueva misión: evitar que un despiadado ex-agente y ahora terrorista internacional se haga con un virus mortal que podría soltar sobre Australia causando millones de víctimas. Para evitarlo, contará otra vez con la inestimable ayuda del genio informático Luther Stickell, del experto conductor Billy Baird y de la presencia de la sensual y exótica ladrona internacional Nhye, que en el pasado mantuvo una relación sentimental con el criminal y que ahora se siente atraída por Hunt.",
+    "sv": "Hur förhindrar man terrorister från att bringa förödelse över hela världen? Det är ett uppdrag för IMF-agenten Ethan Hunt, som slår sig ihop med den vackra Nyah Hall för att hindra den avhoppade agenten Sean Ambrose från att släppa loss en ny form av terror på en intet ont anande värld. Men innan uppdraget är slutfört kommer de att ha rest jorden runt och blivit tvungna att välja mellan allt som de håller kärt och tror på."
+   },
+   "tagline": {
+    "fr": "Attendez-vous encore à l'impossible.",
+    "en": "Expect the impossible again.",
+    "de": "Akzeptiere das Unmögliche nochmal",
+    "it": "Aspettatavi l'impossibile... di nuovo.",
+    "es": "Espera lo imposible de nuevo."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.1,
+   "votes": 7970,
+   "runtime": 124
   },
   {
    "id": 331,
@@ -280,7 +802,63 @@
     "fr": "/4HPHgTwrs3BHb82NoWfwV4AEwM7.png",
     "en": "/4FtcsSLKmuTKlL9IlHM5O0N8mFn.png",
     "es": "/xYWfGnzRxJtYUaulKEeX8zQKpO3.png"
-   }
+   },
+   "overview": {
+    "fr": "Huit ans après la débâcle d'Ingen, le célèbre paléontologue Alan Grant peine à trouver les fonds nécessaires pour financer ses recherches sur les dinosaures. Paul Kirby et sa femme Amanda, se disent prêts à financer ses travaux à condition qu'il les accompagne dans leur tournée aérienne au-dessus du nouveau site d'Ingen : Isla Sorna. Grant flaire l'entourloupe lorsque l'avion amorce sa descente sur l'île. C'est au cours d'un accident avec une créature géante qu'il réalise alors que les Kirby sont en fait ici pour retrouver leur fils de 14 ans, Eric disparu depuis quelques jours dans cette jungle peuplée de dinosaures.",
+    "en": "In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn't long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.",
+    "de": "Bei seiner Forschung über Intelligenz und Sozialverhalten von Velociraptoren bekommt der berühmte Paläontologe Dr. Alan Grant eine Einladung der reichen Eheleute Paul Kirby und dessen Frau, Amanda Kirby. Beide wünschen, dass Grant sie bei einem Rundflug über die Insel Isla Sorna, die ursprünglich als Dinosaurier Zuchtinsel genutzt wurde, begleitet. Grant willigt schwerenherzens ein, da er auf eine Finanzspende für seine weiteren Forschungen hofft. Auf der Insel während des Rundfluges setzt das Flugzeug plötzlich zur Landung an. Grant protestiert, da er um die Gefahren nur zu gut weiß, wird aber bewusstlos geschlagen.",
+    "it": "Il famoso paleontologo Alan Grant (già conosciuto nel primo Jurassic Park) è in cerca di fondi per degli studi sui Velociraptor e sull'evoluzione della loro intelligenza. L'occasione perfetta si presenta con il milionario Paul Kierby che in cambio di un tour su Isla Sorna gli offre un lauto assegno. Niente di pericoloso, se non che l'aereo che cui stanno viaggiando precipita sull'isola e i malcapitati si trovano imprigionati sull'isola.",
+    "es": "El doctor Alan Grant, ansioso por conseguir fondos que financien su estudio sobre la inteligencia del velociraptor, acepta la oferta de pareja de millonarios, Paul y Amanda Kirby, para sobrevolar la Isla Sorna, en Puerto Rico, poblada por dinosaurios creados genéticamente para un parque recreativo. Tras producirse un aterrizaje forzoso en la isla, Alan descubre que los Kirby estaban buscando a su hijo adolescente, perdido en la isla tras un accidente de parapente.",
+    "sv": "Äventyret tar fart på allvar när den berömde paleontologen dr Alan Grant går med på att följa med en rik äventyrare och dennes hustru på en flygtur runt Isla Sorna, InGens tidigare avelspark för förhistoriska djur. Men efter en våldsam kraschlandning upptäcker dr Grant att hans värdar inte är vad de har gett sig ut för att vara, och att öns ursprungliga invånare är smartare, snabbare och mer vildsinta än han någonsin kunnat tro."
+   },
+   "tagline": {
+    "fr": "Leur monde. Leurs règles.",
+    "en": "This time, it's not just a walk in the park!",
+    "de": "Diesmal ist es nicht nur ein Spaziergang im Park!",
+    "it": "Questa volta, non è solo una passeggiata nel parco!",
+    "es": "Esta vez, no es sólo un paseo por el parque."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Thriller",
+     "Science-Fiction",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Thriller",
+     "Science Fiction",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Thriller",
+     "Science Fiction",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Thriller",
+     "Fantascienza",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Suspense",
+     "Ciencia ficción",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Thriller",
+     "Science Fiction",
+     "Action"
+    ]
+   },
+   "rating": 6.2,
+   "votes": 8201,
+   "runtime": 92
   },
   {
    "id": 604,
@@ -302,7 +880,57 @@
     "de": "/ystptU9cA95DjaYxgiKmBstzYyu.png",
     "it": "/jPIxfAhUQXb9lbb5FDy9Im2TKBU.png",
     "es": "/k4bfmiVhruxPnBVnKQWJVTqJL2V.png"
-   }
+   },
+   "overview": {
+    "fr": "Neo apprend à mieux contrôler ses dons naturels, alors même que Sion s'apprête à tomber sous l'assaut de l'Armée des Machines. D'ici quelques heures, 250 000 Sentinelles programmées pour anéantir notre espèce envahiront la dernière enclave humaine de la Terre. Mais Morpheus galvanise les citoyens de Sion en leur rappelant la Parole de l'Oracle : il est encore temps pour l’Élu d'arrêter la guerre contre les Machines. Tous les espoirs se reportent dès lors sur Neo. Au long de sa périlleuse plongée au sein de la Matrice et de sa propre destinée, ce dernier sera confronté à une résistance croissante, une vérité encore plus aveuglante, un choix encore plus douloureux que tout ce qu'il avait jamais imaginé.",
+    "en": "The Resistance builds in numbers as humans are freed from the Matrix and brought to the city of Zion. Neo discovers his superpowers, including the ability to see the code inside the Matrix. With machine sentinels digging to Zion in 72 hours, Neo, Morpheus and Trinity must find the Keymaker to ultimately reach the Source.",
+    "de": "Die Wächter schwärmen aus. Smith klont sich. Neo fliegt … aber vielleicht kann selbst der Auserwählte mit seinen atemberaubenden neuen Fähigkeiten den Angriff der Maschinen nicht mehr aufhalten.  Neo. Morpheus. Trinity. Zurück im spannenden zweiten Kapitel der Matrix-Trilogie treffen sie auf außergewöhnliche Verbündete: Gemeinsam bekämpfen sie ihre Gegner, die sich klonen, durch Upgrades immer stärker werden und die letzte Festung der Menschheit belagern.",
+    "it": "Ora Neo controlla perfettamente i suoi straordinari poteri e Zion è assediata dall'Esercito delle Macchine. Solo poche ore separano l'ultima enclave umana sulla Terra da 250.000 Sentinelle programmate per distruggere il genere umano. Ma i cittadini di Zion, incoraggiati dalla convinzione di Morpheus che L'Eletto adempierà la Profezia dell'Oracolo e metterà fine alla guerra con le Macchine, puntano tutte le loro speranze su Neo, che si ritrova bloccato da visioni sconvolgenti. Resi più forti dall'amore e dalla fiducia che li lega, Neo e Trinity scelgono di tornare in Matrix con Morpheus e di lottare contro le forze della repressione e dello sfruttamento. Ma esistono ancora figure potenti dentro Matrix che si oppongono all'artificio della scelta, e si sottraggono alla responsabilità che comporta, poiché si cibano delle verità emotive degli altri.",
+    "es": "Las máquinas avanzan imparables hacia Zion en su afán por destruir a toda la humanidad y todas las naves se preparan para la dura batalla. Neo junto con Morfeo y Trinity buscan el camino del elegido dentro de Matrix para vencer a las máquinas y se encuentran con dificultades inesperadas: el agente Smith ha vuelto y no sólo eso, otros programas dentro de Matrix intentarán acabar con su misión. Mientras tanto Neo se tendrá que adaptar a la vida real y a la fama de ser el elegido.",
+    "sv": "Neo uppskattar att han har ungefär 72 timmar på sig att förstöra de 250.000 destruktiva sonder han vet är utskickade. Under tiden måste han också bestämma sig för hur han ska rädda Trinity från det mörka öde han drömmer att hon ska drabbas av."
+   },
+   "tagline": {
+    "fr": "Libère ton esprit.",
+    "en": "Free your mind.",
+    "de": "Befreie Deinen Geist.",
+    "it": "Libera la tua mente.",
+    "es": "Abre tu mente."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 12558,
+   "runtime": 138
   },
   {
    "id": 22,
@@ -325,7 +953,58 @@
     "it": "/6JDyUFDJltdnct3LiTOUSlZQHuT.png",
     "es": "/bgH4fgvP0nyw1BprzXmguT3an7v.png",
     "sv": "/qkGVj4HZ4dGjinuec4GwcIEfPsD.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans la mer des Caraïbes, au XVIIe siècle, Jack Sparrow, flibustier gentleman, voit sa vie idyllique basculer le jour où son ennemi, le perfide capitaine Barbossa, lui vole son bateau, le Black Pearl, puis attaque la ville de Port Royal, enlevant au passage la très belle fille du gouverneur, Elizabeth Swann. L'ami d'enfance de celle-ci, Will Turner, se joint à Jack pour se lancer aux trousses du capitaine. Mais Will ignore qu'une malédiction frappe Barbossa et ses pirates. Lorsque la lune brille, ils se transforment en morts-vivants. Leur terrible sort ne prendra fin que le jour où le fabuleux trésor qu'ils ont amassé sera restitué…",
+    "en": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+    "de": "Im 17.Jahrhundert sucht der Pirat Jack Sparrow nach einem sagenumwobenen Schatz in der Karibik, als ihn das Schicksal mit dem jungen Will Turner zusammenführt, der aus anderen Gründen auf derselben Fährte ist: nämlich den berüchtigten Captain Barbossa und seine Crew abzufangen, die Wills große Liebe Elizabeth, die Tochter des britischen Gouverneurs entführt haben. Doch Barbossa umhüllt selbst ein düsteres Geheimnis: er und seine Männer sind verflucht und das Licht des Mondes bringt ihre Existenz zum Vorschein: sie sind wie lebende Skelette, monströs und tödlich. Um den Fluch zu brechen, brauchen sie Elizabeth als Opfer. Ein Wettrennen zur Insel des Todes beginnt...",
+    "it": "Caraibi, 1700. La figlia del governatore viene rapita dal malvagio pirata Barbossa. Will Turner  amico d'infanzia della ragazza e segretamente innamorato di lei, si unisce a Jack Sparrow, un pirata vagabondo e per cui la parola strano suona eufemistica, per portare in salvo la fanciulla. Ma per riuscirci, dovranno affrontare misteriose e sinistre forze del male che risalgono addirittura a una maledizione azteca...",
+    "es": "El aventurero capitán Jack Sparrow recorre las aguas caribeñas. Pero su andanzas terminan cuando su enemigo, el capitán Barbossa le roba su barco, la Perla Negra, y ataca la ciudad de Port Royal, secuestrando a Elizabeth Swann, hija del gobernador. Will Turner, el amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar la Perla Negra. Pero el prometido de Elizabeth, comodoro Norrington, les persigue a bordo del HMS Impávido. Además, Barbossa y su tripulación son víctimas de un conjuro por el que están condenados a vivir eternamente, y a transformarse cada noche en esqueletos vivientes, en fantasmas guerreros.",
+    "sv": "Den fruktade sjörövaren Barbossa kidnappar den vackra guvernörsdottern Elizabeth. Hennes vän och hemlige beundrare Will bestämmer sig för att försöka rädda henne. Men för att komma iväg på sin räddningsaktion tvingas Will ta hjälp av den ökände piraten Jack Sparrow, som också har en gås oplockad med Barbossa. Vad Will inte vet är att det vilar en förbannelse som måste hävas innan de kan besegras…"
+   },
+   "tagline": {
+    "fr": "Préparez‐vous à être soufflé hors de l’eau.",
+    "en": "Prepare to be blown out of the water.",
+    "de": "3000 Inseln im Paradies. Für einige ein Segen, für andere... ein Fluch.",
+    "it": "Preparatevi ad esser soffiati fuori dall'acqua.",
+    "es": "Unas 3000 islas de paraíso. Para algunos es una bendición, para otros es una maldición.",
+    "sv": "Förbered dig på att bli blåst ur vattnet."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Action"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 23120,
+   "runtime": 144
   },
   {
    "id": 605,
@@ -347,7 +1026,57 @@
     "de": "/19vdcyARonQzbLUuL1OwVUVjEC2.png",
     "it": "/kc1KW2N5opHtjfh3s9G1anUk6yk.png",
     "es": "/sGSh2Ct0YvodIJMxOHOlGLBcyRt.png"
-   }
+   },
+   "overview": {
+    "fr": "La longue quête de liberté des rebelles culmine en une bataille finale explosive. Tandis que l'armée des Machines sème la désolation sur Sion, ses citoyens organisent une défense acharnée. Mais pourront-ils retenir les nuées implacables des Sentinelles en attendant que Neo s'approprie l'ensemble de ses pouvoirs et mette fin à la guerre ? L'agent Smith est quant à lui parvenu à prendre possession de l'esprit de Bane, l'un des membres de l'équipage de l'aéroglisseur. De plus en plus puissant, il est désormais incontrôlable et n'obéit plus aux Machines : il menace de détruire leur empire ainsi que le monde réel et la Matrice…",
+    "en": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+    "de": "Die letzte Schlacht gegen die Maschinen kämpfen Neo, der Auserwählte, Rebellionsführer Morpheus und ihre Verbündeten – ein Krieg, der in den Ruinen der realen Welt geführt wird, der das Schicksal der Menschheit besiegelt und dessen Sieg in den Händen von Neo liegt, der seinerseits eine Reihe von Überraschungen zu erwarten hat.",
+    "it": "Neo è in coma nell'infermeria della Hammer, ma la sua mente si trova intrappolata in una sorta di limbo situato tra il mondo reale e matrix. Il creatore del limbo virtuale è un nuovo personaggio, enigmatico e misterioso quanto la figura del fabbricante di chiavi, ma con un dentista decisamente peggiore. Toccherà ai compagni di Neo l'arduo compito di liberarlo, tornando nel castello del Merovingio, che muove i fili del gioco. Riuscirà Zion a resistere all'inesorabile avanzata delle macchine? Potrà l'eletto sconfiggere il suo nemico giurato, l'agente Smith?",
+    "es": "Quedan veinte horas para la irrupción de las máquinas en Sión, el último bastión de los humanos libres. Mientras el cuerpo de Neo permanece en coma, su consciencia se encuentra en tierra de nadie, en un lugar entre el mundo humano y el de las máquinas.",
+    "sv": "Kriget drabbar den underjordiska staden Zion, där de sista fria människorna håller sig gömda. Neos krafter är tömda och han driver omkring i ett Ingenmansland mellan Matrix och Maskinvärlden, där Matrix skapats. Morpheus börjar grubbla på om inte Den utvalde, i vilken han investerat ett helt livs tro, bara kanske är ytterligare ett system för kontroll skapat av arkitekterna bakom Matrix."
+   },
+   "tagline": {
+    "fr": "Ce qui a commencé doit finir.",
+    "en": "Everything that has a beginning has an end.",
+    "de": "Alles was einen Anfang hat, hat auch ein Ende.",
+    "it": "Tutto ciò che ha un inizio ha anche una fine.",
+    "es": "Todo principio tiene un final."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 11340,
+   "runtime": 129
   },
   {
    "id": 956,
@@ -368,7 +1097,57 @@
     "en": "/6F2Wm5iC2czD5YfL7fMuQbuHXDS.png",
     "de": "/qHKPBl7xpUbeeKQHQzQu5yKXv0j.png",
     "es": "/jVOxeAy3xkmRBsck2hozcnbkqdK.png"
-   }
+   },
+   "overview": {
+    "fr": "Ethan Hunt a quitté Mission Impossible. Il forme désormais les futurs agents du gouvernement américain. Un poste qui devrait enfin lui permettre de mener une existence tranquille auprès de sa femme Julia. Mais quand Lindsey, l'une de ses élèves, est kidnappée à Berlin par Owen Davian, un trafiquant d'armes, Ethan se sent obligé de lui porter secours et repart, sans hésiter, en mission pour la libérer.",
+    "en": "Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who's as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear – including the woman Hunt loves.",
+    "de": "Ethan Hunt hat sich zur Ruhe gesetzt und möchte mit der süßen Julia eine Familie gründen. Doch dann ruft man ihn zu einer allerletzten Mission. Hunts Kollegin Lindsey ist in die Fänge des gemeingefährlichen Psychopathen Owen Davian geraten. Die folgende interkontinentale Hatz führt den Superagenten über Berlin und den Vatikan bis ins fernöstliche Schanghai, wo es zum Showdown kommt. Dort muss Hunt seine inzwischen von Davian entführte Julia befreien und eine Zeitbombe, die unter seiner Schädeldecke tickt, deaktivieren.",
+    "it": "Ethan Hunt, in procinto di sposarsi con Julia, ha deciso di ritirarsi dalla squadra operativa della IMF per dedicarsi esclusivamente all'addestramento di nuovi agenti. Acconsente tuttavia a compiere una missione a Berlino per recuperare l'agente Lindsay, che era stata una sua valida allieva. È l'inizio di una serie di fatti che lo vedranno costretto a rischiare tutto ciò che ha di più caro nella lotta contro Owen Davian, un trafficante di armi estremamente pericolose, in combutta con apparati deviati dello stesso IMF.",
+    "es": "Tras haber llevado a cabo diversas misiones, el agente especial Ethan Hunt se ha retirado del servicio activo y se ha prometido con su amada Julia. Pero, cuando es secuestrado uno de los agentes entrenados por él, volverá de nuevo a la acción. También tendrá que enfrentarse a Owen Davian, un individuo sin escrúpulos que trafica con armas y con información.",
+    "sv": "Ethan har slutat att åka på omöjliga uppdrag och ägnar sig istället åt sin blivande fru och åt att träna agenter. Men då Ethan får reda på att en av hans rekryter har hamnat i knipa i jakten på en sadistisk vapenhandlare samlar han återigen ihop teamat och beger sig iväg på en fritagningsexpedition."
+   },
+   "tagline": {
+    "fr": "La mission commence le 03:05:06",
+    "en": "The mission begins.",
+    "de": "Die Mission beginnt am 04.05.06",
+    "it": "La missione inizia il 05:05:06",
+    "es": "La misión comienza 05:05:06."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 8004,
+   "runtime": 132
   },
   {
    "id": 58,
@@ -391,7 +1170,58 @@
     "it": "/pBYHkk5kCu8f8ojGy7l2J8BLuZM.png",
     "es": "/xvGm4FFJs6IDChZp491IbFVNHEw.png",
     "sv": "/r3CVDwl5uK4aOVAzzG5AMFqxhxl.png"
-   }
+   },
+   "overview": {
+    "fr": "Le pirate Jack Sparrow est confronté à son passé. Treize ans auparavant, il signait un pacte avec Davey Jones, le maléfique maître des sept mers. En échange de son âme, ce dernier lui promettait le commandement du mythique Black Pearl… Aujourd’hui, Jones vient donc récupérer sa dette.",
+    "en": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+    "de": "Diesmal sieht sich Captain Jack Sparrow, gerade erst dem Fluch der Black Pearl entkommen, mit einem neuen lebensbedrohenden Abenteuer konfrontiert: Denn Jack steht in lebenslanger Schuld bei Davy Jones, dem legendären Kapitän des Flying Dutchman und Herrscher über die Tiefen des Ozeans. Wenn er keinen Weg findet, den Bann zu brechen, ist er zu einem höllischen Leben nach dem Tode in ewiger Finsternis verdammt. Doch damit nicht genug: Jacks ausgesprochen existenzielle Probleme erweisen sich obendrein als Hindernis für die bevorstehende Hochzeit seiner Freunde Will Turner und Elizabeth Swann, die wider Willen in die andauernden Eskapaden des Kapitäns verwickelt werden. Das Abenteuer kann beginnen ...",
+    "it": "Sparrow stavolta si trova ad affrontare un nuovo intrigo a carattere soprannaturale: il capitano ha infatti un debito d'onore con Davey Jones, padrone degli oceani e comandante dello spettrale veliero l'Olandese Volante e per lui si profila un destino di dannazione ed eterna schiavitù nell'altro mondo, se non riuscirà a scrollarsi di dosso questo pericoloso avversario. I guai di Jack coinvolgeranno ancora una volta Will ed Elizabeth e comprometteranno il matrimonio tra i due.",
+    "es": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida, Will tendrá que encontrar a Jack y conseguir su misteriosa brújula. Esta esconde un gran poder, además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma Holandés Errante.",
+    "sv": "Den här gången har Jack en blodskuld att betala till den legendariske Davy Jones, de sju havens spöklike härskare - men den alltid lika sluga Jack tänker inte ge sig utan strid. Under resans gång kastas den stilige Will Turner och den vackra Elizabeth Swann in i en strömvirvel av missöden tillsammans med Jack i jakten på den mytomspunna död mans kista, som är det enda som kan rädda honom från evig förbannelse!"
+   },
+   "tagline": {
+    "fr": "Le Capitaine Jack est de retour !",
+    "en": "Captain Jack is back!",
+    "de": "Captain Jack Sparrow ist zurück.",
+    "it": "Capitan Jack Sparrow è tornato!",
+    "es": "Vuelve el capitán Jack",
+    "sv": "Kapten Jack är tillbaka!"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Action"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 17865,
+   "runtime": 151
   },
   {
    "id": 285,
@@ -414,7 +1244,58 @@
     "it": "/nbsKnri2WIYYOztc6pE5TMlVFU3.png",
     "es": "/qvfBqKrcarW0NoLoH41zsErtoAJ.png",
     "sv": "/9CTl2IkzRR5i0ddWP0jP6o5j0i.png"
-   }
+   },
+   "overview": {
+    "fr": "L’âge d’or de la piraterie touche à sa fin. Même le terrifiant Vaisseau Fantôme et son capitaine maudit servent Lord Cutler Beckett. Il écume désormais les sept mers, massacrant sans pitié les pirates de tous bords. Une seule chance de résister à Beckett et à son armada : Rassembler les Neuf Seigneurs de la Cour des Frères.",
+    "en": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+    "de": "Seitdem Cutler Beckett und die East India Trading Company das Herz von Davy Jones besitzen und so über ihn und seine scheinbar unbesiegbare Flying Dutchman gebieten, machen sie erbarmungslos Jagd auf sämtliche Piraten und deren Sympathisanten. Der hohe Rat der Piraten will sich versammeln, um über eine Taktik zu beratschlagen, doch dafür müssen alle Piratenfürsten anwesend sein - auch Captain Jack Sparrow, der nun in der Unterwelt weilt. Seine Freunde Will Turner und Elizabeth Swann machen sich mit Hilfe des wieder zum Leben erweckten Kapitän Barbossa auf die Suche nach dem Ende der Welt, an dem sich der Eingang zur Unterwelt befindet. Dafür benötigen sie die Hilfe des unbarmherzigen Piratenfürsten Sao Feng...",
+    "it": "Will Turner, Elizabeth Swann e il capitan Barbossa si alleano per liberare il capitano Jack Sparrow imprigionato negli abissi. Nel frattempo, l'Olandese Volante del capitano Davy Jones, controllato dalla Compagnia delle Indie Orientali, semina il terrore per i Sette Mari. Dopo essersi confrontato con il pirata cinese Sao Feng, il gruppo di pirati si spingerà oltre i confini della Terra per partecipare alla gigantesca battaglia finale per il controllo dei mari.",
+    "es": "Siguiendo la estela de lo sucedido en “Piratas del caribe: el cofre del hombre muerto”, encontramos a nuestros héroes Will Turner y Elizabeth Swann aliados con el capitán Barbossa, en una búsqueda desesperada para liberar al capitán Jack Sparrow de las manos de Davy Jones. Mientras, el terrorífico barco fantasma, el Holandés Errante, bajo el control de la Compañía de las Indias Orientales, causa estragos a lo largo de los Siete Mares. Will y Elizabeth, navegando en medio de la traición, la felonía y mares salvajes, deben seguir adelante rumbo a Singapur y enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo...",
+    "sv": "Just när han behövs som bäst är kapten Jack Sparrow, den kvicka, listiga och charmiga piraten, fånge i dödsriket. I en allt mer skakig allians försöker Will, Elizabeth och Barbarossa frita honom. Anledningen? Kapten Jack är den sista av de nio piratledarna som måste enas i en slutstrid för att bevara den fria piratlivet."
+   },
+   "tagline": {
+    "fr": "Au bout du monde, l'aventure commence.",
+    "en": "At the end of the world, the adventure begins.",
+    "de": "Am Ende der Welt beginnt das Abenteuer.",
+    "it": "Ai confini del mondo, l'avventura ha inizio.",
+    "es": "En el fin del mundo, la aventura comienza",
+    "sv": "Vid världens ände börjar äventyret."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Action"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 16078,
+   "runtime": 169
   },
   {
    "id": 217,
@@ -437,7 +1318,52 @@
     "it": "/niAGcIth4giy1kIh04Xe4H5ZAJm.png",
     "es": "/cqOjP9jcWl7e73JD69TRDqsvHgp.png",
     "sv": "/zpHARQ0tFqskXOXKCmGA3yVADUq.png"
-   }
+   },
+   "overview": {
+    "fr": "La nouvelle aventure d’Indiana Jones débute dans un désert du sud‐ouest des États‐Unis. Nous sommes en 1957, en pleine guerre froide. Indy et son copain Mac viennent tout juste d’échapper à une bande d’agents soviétiques à la recherche d’une mystérieuse relique surgie du fond des temps. De retour au Marshall College, le Professeur Jones apprend une très mauvaise nouvelle : ses récentes activités l’ont rendu suspect aux yeux du gouvernement américain. Le doyen Stanforth, qui est aussi un proche ami, se voit contraint de le licencier. À la sortie de la ville, Indiana fait la connaissance d’un jeune motard rebelle, Mutt, qui lui fait une proposition inattendue.",
+    "en": "Set during the Cold War, the Soviets—led by sword-wielding Irina Spalko—are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. Indy is coerced to head to Peru at the behest of a young man whose friend—and Indy's colleague—Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
+    "de": "1957 in der Wüste Nevadas, der Kalte Krieg ist in vollem Gange und Indiana Jones den Russen in die Hände gefallen. Indy gelingt die Flucht, doch die Russen – unter der Führung von Irina Spalko, Stalins Lieblingsagentin und ihres Zeichens Parapsychologin, - entwenden ein mysteriöses Skelett, das offenbar in Verbindung mit dem Verschwinden von Indys altem Freund und Kollegen Harold Oxleys steht, der in Peru verschollen ist. Gemeinsam mit Oxleys Ziehsohn Mutt macht sich Indy im Dschungel des Amazonas auf die Suche nach dem legendären Kristallschädel, dem magische Kräfte nachgesagt werden und der Oxley offenbar in den Wahnsinn getrieben hat. Eine Schatzsuche auf Leben und Tod beginnt.",
+    "it": "1957, in mezzo al deserto e nel pieno della guerra fredda, il professor Jones ed il suo compare Mac, riescono a sfuggire alla cattura da parte di un agente sovietico. Una volta ritornato al Marshall College però, il decano dell'istituto, informa Jones del fatto che il governo, per via delle sue ultime attività, ha fatto delle pressioni per sollevarlo dal suo incarico. Poco male, perchè, a stimolare il professore a buttarsi in una nuova impresa, arriva Mutt, un giovane ribelle, che gli propone di aiutarlo nella ricerca di un preziosissimo reperto archeologico, il Teschio di Cristallo di Akator. Purtroppo però, una volta arrivati in Perù, si accorgeranno che non sono gli unici interessati al ritrovamento dell'oggetto, sulle tracce del cimelio, infatti, ci sono anche i russi!",
+    "es": "Indiana Jones y el joven Mutt se proponen encontrar la Calavera de Cristal de Akator. Los agentes soviéticos tienen ese mismo objetivo. Liderados por la bella Irina Spalko, creen que el artilugio ayudará a su país a dominar el mundo si consiguen descifrar su secreto.",
+    "sv": "Det nya äventyret tar sin början 1957 i öknen mitt under det kalla kriget. Indy har tillsammans med sin kompanjon Mac med minsta tänkbara marginal undkommit några sovjetiska agenter vid en öde flygbas. Professor Jones återvänder till sitt hem vid Marshall College, men upptäcker att läget är allt annat än gott vid universitet. Hans närmaste vän, rektorn vid lärosätet förklarar att Indys senaste eskapader har gjort regeringen misstänksam, som nu kräver att Jones ska avskedas från sin tjänst. På egen hand lämnar nu Indiana Jones staden, men träffar snart den egensinniga Mutt, en ung rebell som ger den äventyrlige arkeologen ett minst sagt spännande förslag. Om han hjälper honom, har Indy chans att hitta sitt största arkeologiska fynd någonsin – den legendariska kristallskallen från Akator. Ett föremål som fascinerat, skrämt och lockat mängder av upptäcktsresanden genom åren."
+   },
+   "tagline": {
+    "fr": "Il est de retour.",
+    "en": "The adventure continues...",
+    "de": "Das Abenteuer geht weiter.",
+    "it": "L'avventura continua...",
+    "es": "La aventura continua . . .",
+    "sv": "Äventyret fortsätter"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 6.0,
+   "votes": 9392,
+   "runtime": 122
   },
   {
    "id": 1865,
@@ -460,7 +1386,58 @@
     "it": "/cn398mEcRI5Om7QyzLG7JjZWEJC.png",
     "es": "/ujiQflWydWCq1nPgKD8x1t3pFAW.png",
     "sv": "/iaRpoA2CjxlJALIoHi6UsEmZWxR.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans cette histoire pleine d’action, où vérité, trahison, jeunesse éternelle et mort forment un cocktail explosif, le capitaine Jack Sparrow retrouve une femme qu’il a connu autrefois. Leurs liens sont‐ils faits d’amour ou, cette femme n’est‐elle qu’une aventurière sans scrupules qui cherche à l’utiliser pour découvrir la légendaire Fontaine de Jouvence ? Lorsqu’elle l’oblige à embarquer à bord du Queen Anne’s Revenge, le bateau du terrible pirate Barbe‐Noire, Jack ne sait plus ce qu’il doit craindre le plus : Le redoutable maître du bateau ou cette femme surgit de son passé…",
+    "en": "When Jack crosses paths with a woman from his past, he's not sure if it's love...or if she's a ruthless con artist using him to find the fabled Fountain of Youth.",
+    "de": "In Pirates Of The Caribbean – Fremde Gezeiten begegnet Captain Jack Sparrow einer Frau aus seiner Vergangenheit wieder. Angelica heißt die Schöne und Sparrow war in sie verliebt. Oder hat sie ihn nur benutzt? Jedenfalls schickt Angelica den Piraten auf die Suche nach dem sagenumwobenden Jungbrunnen. Dazu muss er an Board der Queen Anne’s Revenge gehen, dem Schiff des gefürchteten Piraten Blackbeards. Captain Jack Sparrow findet sich in Fluch der Karibik 4 wie erwartet in einer abenteuerlichen Geschichte wieder, in der er nicht mehr weiß, wem er vertrauen kann: dem skrupellosen Piraten Blackbeard oder der schönen Frau aus seiner Vergangenheit. Captain Hector Barbossa kann ihm auch nicht wirklich auf die Sprünge helfen, sondern ist eher eine weitere Störung auf der Suche nach dem Jungbrunnen…",
+    "it": "Capitan Jack Sparrow si ritrova coinvolto in un rocambolesco viaggio per raggiungere la leggendaria Fonte della Giovinezza quando una donna del suo passato lo costringe a salire a bordo della Queen Anne's Revenge, la nave del formidabile pirata Barbanera.",
+    "es": "Cuando Jack Sparrow vuelve a encontrarse con una mujer a la que había conocido años atrás, no está seguro de si se trata de amor o si ella es una estafadora sin escrúpulos que lo está utilizando para encontrar la legendaria Fuente de la Juventud. A todo esto, Jack es capturado por el Venganza de la Reina Ana, el barco del temible pirata Barbanegra, que lo obliga a unirse a su tripulación, lo que le hará vivir una inesperada aventura en la que no sabe quién le inspira más miedo si Barbanegra o esa mujer que regresa del pasado.",
+    "sv": "Sanning, förräderi, ungdom, förfall och sjöjungfrur. När Jack möter en kvinna från sitt förflutna vet han inte om det är kärlek eller om hon är en bluff som utnyttjar honom för att hitta Ungdomens källa. Tvingad ombord på den mest fruktade piratens skepp vet Jack inte om det är Svartskägg eller kvinnan han borde frukta mest."
+   },
+   "tagline": {
+    "fr": "Vivre éternellement ou mourir en essayant.",
+    "en": "Live forever or die trying.",
+    "de": "Ewig leben oder sterben",
+    "it": "Vivi per sempre o muori provandoci.",
+    "es": "Vive para siempre o muere joven",
+    "sv": "Lev för evigt eller dö i försöket."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Fantastique"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Fantasy"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Fantasy"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantasy"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Fantasía"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Fantasy"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 15454,
+   "runtime": 141
   },
   {
    "id": 56292,
@@ -482,7 +1459,57 @@
     "de": "/yx80cLnnn1m3x2WZDozpK89trPc.png",
     "it": "/lyOBftNfKvQnB1CumywQvW27sJE.png",
     "es": "/pngSXzFrcwRfnuFH6cTBy5L3kj5.png"
-   }
+   },
+   "overview": {
+    "fr": "Après avoir été impliquée dans un complot terroriste mondial, l’agence Mission Impossible est contrainte de cesser ses activités. Le « Protocole Fantôme » est mis en place : Ethan Hunt et sa nouvelle équipe doivent opérer dans le secret pour blanchir le nom de leur organisation. Aucune aide, aucun contact, isolation totale. Cette mission va s'avérer être la plus dangereuse et la plus intense qu'ils aient eu à remplir.",
+    "en": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
+    "de": "Bei einem Einsatz des IMF im Kreml kommt es zu einem folgenschweren Zwischenfall: IMF-Anführer Ethan Hunt wird Zeuge eines verheerenden Bombenattentats, das der IMF in die Schuhe geschoben wird. Die Regierung verleugnet die Elite-Abteilung und initiiert das Phantom-Protokoll, ihr einziger Kontakt zur Kommandostruktur wird ermordet. Mit seinen Leuten geht Ethan in den Untergrund, um auf eigene Faust den Drahtzieher zu stellen. Die Spur führt nach Dubai, wo sie dem undurchschaubaren Hendricks auf die Schliche kommen.",
+    "it": "Implicati loro malgrado in un gravissimo attentato terroristico al Cremlino l'agente Ethan Hunt e i suoi collaboratori sono messi al bando dal governo americano. Il Presidente lancia l'operazione \"Protocollo Fantasma\". Hunt e i suoi ufficialmente non agiscono più per conto degli Usa ma tocca a loro, senza alcuna copertura, cercare di fermare chi sta cercando di scatenare una guerra nucleare contando sulla mai sopita diffidenza tra russi e yankee.",
+    "es": "El agente Ethan Hunt, acusado de un atentado terrorista con bombas contra el Kremlin, es desautorizado junto con toda la organización, al poner en marcha el presidente el llamado 'Protocolo fantasma'. Abandonado a su suerte y sin recursos, el objetivo de Ethan es rehabilitar el buen nombre de su agencia e impedir un nuevo ataque. Pero emprende esta misión con un equipo formado por fugitivos, cuyos motivos personales no conoce bien.",
+    "sv": "När Ethan Hunt och IMF beskylls för att ha bombat Kreml klipper den amerikanska staten plötsligt alla band till organisationen, något presidenten kallar \"Ghost Protocol\". Utan resurser eller manskap måste Ethan hitta ett sätt att rentvå hans organisations namn och dessutom förebygga ännu en terrorattack. För att komplicera saken ytterligare måste han genomföra uppdraget tillsammans med ett team bestående av andra sparkade IMF-agenter, med personliga motiv som han inte är helt klar över."
+   },
+   "tagline": {
+    "fr": "Pas de plan. Pas de renfort. Pas le choix.",
+    "en": "No plan. No backup. No choice.",
+    "de": "Kein Plan. Keine Hilfe. Keine Wahl.",
+    "it": "Nessun piano. Nessun aiuto. Nessuna scelta.",
+    "es": "Sin plan. Sin respaldo. Sin opción."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 11179,
+   "runtime": 133
   },
   {
    "id": 135397,
@@ -502,7 +1529,63 @@
     "fr": "/AcV8YB7t79dkOxayO0POpd13Wns.png",
     "en": "/vleUbBFlEGdxaazvzBMoZ5dHDoY.png",
     "es": "/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
-   }
+   },
+   "overview": {
+    "fr": "Après le décès de son fondateur John Hammond, la société de biotechnologie InGen a été rachetée par Simon Masrani, PDG de la Masrani Global Corporation. Deux décennies après les événements tragiques de 1993, un nouveau parc a ouvert ses portes sur Isla Nublar, au large du Costa Rica. C’est plus de vingt mille visiteurs qui débarquent chaque jour à « Jurassic World », le « plus grand parc à thèmes jamais construit dans l’histoire humaine » pour profiter pleinement du cadre idyllique de l’île et de ses attractions. Les scientifiques de la réserve biologique, sous la direction du Dr Henry Wu, étudient le comportement des animaux, des dinosaures vivants recréés à partir de leur ADN fossilisé dans de lʼambre. Mais alors que tout le monde croyait les leçons du passé assimilées, un nouvel incident éclate…",
+    "en": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "de": "Mehr als 20 Jahre sind vergangen, seitdem die Ereignisse auf Isla Nublar aus dem Ruder liefen. Längst ist der Themenpark wieder eröffnet, größer und sicherer und mit mehr Dinosauriern denn je, so wie es sich John Hammond ursprünglich vorgestellt hatte. Weil die Besucherzahlen deutlich nach unten gehen, arbeitet Projektleiterin Claire an einer neuen Attraktion: Ein selbst geschaffener Dino-Hybrid, der sich jedoch als so gefährlich und unberechenbar erweist, dass selbst Velociraptoren vor ihm Reißaus nehmen. Doch der erfahrene Dino-Trainer Owen nimmt den Kampf mit dem unberechenbaren Biest in seine Hände!",
+    "it": "Ventidue anni dopo gli eventi di Jurassic Park, Isla Nublar dispone di un parco a tema di dinosauri completamente rifatto che calamita milioni di turisti: il Jurassic World, proprio come il sogno originale dell'ormai deceduto magnate John Hammond, costruito sui resti del parco originale. Tra i membri dello staff vi è Owen Grady, un ex militare che svolge ricerche comportamentali su un branco di quattro velociraptor.  Passati alcuni anni dall'apertura, il numero di turisti in visita al Jurassic World inizia a calare. Per ravvivarne l'interesse, la responsabile delle operazioni e il genetista capo decidono di creare un nuovo dinosauro, combinando i DNA di diverse specie, e di chiamarlo Indominus Rex. Poco prima dell'inaugurazione, l'Indominus Rex riesce a fuggire e inizia a scatenare il caos.",
+    "es": "Veintidós años después de lo ocurrido en Jurassic Park, la isla Nublar ha sido transformada en un parque temático, Jurassic Wold, con versiones «domesticadas» de algunos de los dinosaurios más conocidos. Cuando todo parece ir a la perfección y ser el negocio del siglo, un nuevo dinosaurio de especie todavía desconocida y que es mucho más inteligente de lo que se pensaba, comienza a causar estragos entre los visitantes del Parque.",
+    "sv": "Det har gått tjugotvå år sedan John Hammonds dröm om en nöjespark med levande dinosaurier, och äntligen har den förverkligats. Arbetet med genetiskt material har givit forskarna mer kunskap om de förhistoriska jättedjuren än de kunnat drömma om. Nu har de förstått så mycket om utvecklingen att de törs undersöka hur den skulle fortsatt om inte en meteorit satt punkt för dinosauriernas välde..."
+   },
+   "tagline": {
+    "fr": "Le parc est ouvert !",
+    "en": "The park is open.",
+    "de": "Der Park ist geöffnet!",
+    "it": "Il parco è aperto.",
+    "es": "El parque abre sus puertas."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction",
+     "Thriller",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction",
+     "Thriller",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction",
+     "Thriller",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza",
+     "Thriller",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción",
+     "Suspense",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction",
+     "Thriller",
+     "Action"
+    ]
+   },
+   "rating": 6.7,
+   "votes": 22125,
+   "runtime": 124
   },
   {
    "id": 177677,
@@ -522,7 +1605,51 @@
     "en": "/tRwySKvciecGLk7C3A7e3WmF1dU.png",
     "de": "/sUlDfCyOvIbhmqRVtprk0wa8kpq.png",
     "es": "/6NmUcfuRfzHaSnS1SEZc6g27q4A.png"
-   }
+   },
+   "overview": {
+    "fr": "L'agence Mission Impossible est dissoute et Ethan Hunt se retrouve désormais isolé. Il doit affronter un réseau d’agents spéciaux particulièrement entraînés, le Syndicat. Cette organisation sans scrupules est déterminée à mettre en place un nouvel ordre mondial, à travers des attaques terroristes de plus en plus violentes. Ethan regroupe alors son équipe et fait alliance avec Ilsa Faust, agent britannique révoquée, dont les liens avec le Syndicat restent mystérieux.",
+    "en": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+    "de": "Nachdem das Pentagon die Impossible Missions Force aufgelöst hat, ist Ethan Hunt auf sich allein gestellt. Doch gerade jetzt hat der ehemalige IMF-Agent die Spur der geheimnisvollen und hochgefährlichen Organisation „Syndikat“ aufgenommen, die sich schon bald als sein mächtigster Gegner erweist. Aus dem Untergrund heraus operiert das „Syndikat“ mit bestens ausgebildeten Spezialagenten und diese scheinen Hunt immer einen Schritt voraus zu sein – und ihre Mission ist teuflisch: Sie wollen durch gezielte Anschläge eine neue Weltordnung schaffen und alle ehemaligen Mitglieder der IMF auslöschen, um ihre Pläne ungestört verwirklichen zu können. In offizieller Mission der Regierung oder nicht, Ethan Hunt kann nicht zusehen, wie der Terror immer weiter um sich greift, und reaktiviert sein einzigartiges Team. Unerwartete Hilfe bekommt das Quartett von der geheimnisvollen Agentin Ilsa Faust – doch auf welcher Seite steht sie wirklich?",
+    "it": "Con la IMF sciolta, Ethan Hunt (Tom Cruise) e il suo team devono affrontare una nuova missione impossibile: eliminare il Sindacato, un'organizzazione criminale di agenti speciali altamente qualificati incaricati di distruggere la IMF e di creare un nuovo ordine mondiale, uno \"stato canaglia\", attraverso una serie crescente di attacchi terroristici. Per riuscirci, Ethan riunisce la sua squadra e si allea a Ilsa Faust (Rebecca Ferguson), un'enigmatica ex agente del governo britannico.",
+    "es": "Con la FMI disuelta y Ethan Hunt abandonado a su suerte, el equipo tiene que enfrentarse contra el Sindicato, una red de agentes especiales altamente preparados y entrenados. Estos grupos están empeñados en crear un nuevo orden mundial mediante una serie de ataques terroristas cada vez más graves. Ethan reúne a su equipo y une sus fuerzas con la agente británica renegada Ilsa Faust, quien puede que sea o no miembro de esta nación secreta, mientras el grupo se va enfrentando a su misión más imposible hasta la fecha…",
+    "sv": "Ethan och hans team står inför sitt svåraste uppdrag hittills; att förgöra Syndikatet, en internationell och mycket rutinerad kriminell organisation, vars mål är att förgöra IMF (Impossible Mission Force)."
+   },
+   "tagline": {
+    "fr": "Situation extrême. Mesures extrêmes.",
+    "en": "Desperate times. Desperate measures.",
+    "de": "Werde ein Schurke!",
+    "it": "Soluzioni Impossibili. Rimedi Estremi.",
+    "es": "Tiempos desesperados. Medidas desesperadas."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 10111,
+   "runtime": 132
   },
   {
    "id": 166426,
@@ -545,7 +1672,57 @@
     "it": "/dnTumW1FBJ8InOS5ZYnEPphtWw8.png",
     "es": "/klKI0Kil5Yhd8r4QYCM7EPdzgxL.png",
     "sv": "/konR0P6lzWXPwitYR9QGpoC0k5h.png"
-   }
+   },
+   "overview": {
+    "fr": "Jack Sparrow et ses compagnons se lancent dans la quête du Trident de Poséidon, sur lequel le Capitaine Teague détient des informations précieuses. Cet artefact légendaire, qui donne tous les pouvoirs sur les océans, est leur seul moyen d'échapper aux fantômes du redoutable Capitaine Salazar, échappés du Triangle des Bermudes pour éliminer tous les pirates des océans.",
+    "en": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
+    "de": "Im neuen Abenteuer gerät Captain Jack Sparrow einmal mehr in große Not, als er auf eine Horde Geister-Piraten trifft, angeführt von Sparrows Nemesis Captain Salazar. Die Untoten sind aus dem Bermuda-Dreieck entkommen, in dem sie gefangen waren, und verfolgen nun nur ein Ziel: Sie wollen alle Piraten töten, zuallererst Jack Sparrow. Dessen einzige Chance liegt nun darin, Poseidons Dreizack zu finden, dessen magische Kräfte die Geister-Piraten erneut bannen können und seinem Besitzer die Kontrolle über die Weltmeere verleihen.",
+    "it": "Catapultato in una nuova e travolgente avventura, lo sventurato Capitan Jack Sparrow vede peggiorare la propria sfortuna quando dei letali marinai fantasma fuggono dal Triangolo del Diavolo guidati dal terrificante Capitano Salazar e decisi a uccidere ogni pirata del mare… soprattutto Jack. La sua unica speranza di sopravvivenza risiede nel leggendario Tridente di Poseidone, ma per riuscire a trovarlo Jack dovrà formare una precaria alleanza con la brillante e affascinante astronoma Carina Smyth e con Henry, un giovane e risoluto marinaio della Royal Navy. Capitan Jack si metterà al timone della sua nave, un piccolo e malandato vascello, per sconfiggere la sorte avversa e scampare al nemico più forte e crudele che abbia mai affrontato.",
+    "es": "El capitán Jack Sparrow se enfrentará a un grupo de piratas-fantasma comandados por una de sus viejas némesis, el terrorífico capitán Salazar, recién escapado del Triángulo de las Bermudas. La única posibilidad de Sparrow para salir con vida es encontrar el legendario Tridente de Poseidón, un poderoso artefacto que le da a su poseedor el control de los mares.",
+    "sv": "Otursförföljde kapten Jack Sparrows otursvindar blåser allt starkare. En besättning av dödliga spökpirater ledda av en gammal rival, den skrämmande kaptenen Salazar, undkommer djävulens triangel, beslutna att döda alla pirater till sjöss... inklusive Jack. Hans enda hopp om överlevnad är att hitta Poseidons treudd, en kraftfull artefakt som ger sin ägare total kontroll över haven."
+   },
+   "tagline": {
+    "fr": "Tous les pirates doivent mourrir.",
+    "en": "All pirates must die.",
+    "it": "Tutti i pirati devono morire.",
+    "es": "Todos los piratas deben morir.",
+    "sv": "Alla pirater måste dö."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Fantastique"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Fantasy"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Fantasy"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantasy"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Fantasía"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Fantasy"
+    ]
+   },
+   "rating": 6.7,
+   "votes": 13240,
+   "runtime": 129
   },
   {
    "id": 351286,
@@ -567,7 +1744,57 @@
     "de": "/2HxQRIXNi4qY5LDhIo8XfGmNCP7.png",
     "it": "/uJbbpr7hq091NxlXPg7A1CDSNzH.png",
     "es": "/p3p1L8acukXzeE1kEMNxG44WZHf.png"
-   }
+   },
+   "overview": {
+    "fr": "Cela fait maintenant trois ans que les dinosaures se sont échappés de leurs enclos et ont détruit le parc à thème et complexe de luxe Jurassic World. Isla Nublar a été abandonnée par les humains alors que les dinosaures survivants sont livrés à eux-mêmes dans la jungle. Lorsque le volcan inactif de l'île commence à rugir, Owen et Claire s’organisent pour sauver les dinosaures restants de l’extinction.",
+    "en": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+    "de": "Vier Jahre nachdem der Freizeitpark Jurassic World geschlossen wurde, haben die Dinosaurier sich auf der kompletten Isla Nublar ausgebreitet. Zwar leben sie mittlerweile vom Menschen ungestört, doch ein bevorstehender Vulkanausbruch auf der Insel droht die Urzeittiere auszulöschen. Die ehemalige Parkmanagerin Claire will dies auf keinen Fall zulassen und bittet daher ihren Ex-Freund Owen Grady um Hilfe. Gemeinsam kehren sie auf die Insel zurück, um das erneute Aussterben der Dinosaurier zu verhindern. Während sich Owen auf die Suche nach seinen ehemaligen Raptoren-Schützlingen macht, stoßen die restlichen Expeditionsmitglieder während ihrer Rettungsmission auf eine Verschwörung.",
+    "it": "Sono passati tre anni da quando il parco tematico di Jurassic World è stato distrutto dai dinosauri scappati dalle gabbie di contenimento; Isla Nublar adesso è un luogo selvaggio abbandonato dagli umani dove i dinosauri sopravvissuti cercano riparo nella giungla.  Al risveglio del vulcano, inattivo fino a quel momento, Owen (Chris Pratt) e Claire (Bryce Dallas Howard) intraprendono una campagna per salvaguardare le specie di dinosauri ancora in vita da un evento di distruzione di massa. Owen è intento a cercare Blue, il suo principale velociraptor ancora disperso nella foresta, mentre Claire nel frattempo ha sviluppato un rispetto nei confronti di queste creature, divenute ormai la sua missione.  Giunti sull’isola proprio mentre la lava inizia a scorrere i due scoprono anche una cospirazione di portata globale che potrebbe far ritornare l’intero pianeta a un rovinoso stato di disordine come non si vedeva dalla preistoria.",
+    "es": "Tras cuatro años de abandono del complejo turístico Jurassic World, la isla Nublar sólo está habitada por los dinosaurios supervivientes. Cuando el volcán inactivo de la isla comienza a cobrar vida, Owen y Claire montan una campaña para rescatar a los dinosaurios restantes en la isla.",
+    "sv": "Fyra år efter stängningen av parken Jurassic World vaknar en inaktiv vulkan till liv och hotar att utplåna allt liv på Isla Nubar. Owen och Claire återvänder till ön för att rädda de dinosaurier som lämnats kvar. Men under ytan hotar något som kan påverka hela planetens framtid. Livet hittar alltid nya vägar."
+   },
+   "tagline": {
+    "fr": "La vie reprend toujours ses droits.",
+    "en": "The park is gone.",
+    "de": "Das Leben findet einen Weg",
+    "it": "La vita vince sempre",
+    "es": "La vida se abre camino."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction",
+     "Thriller"
+    ]
+   },
+   "rating": 6.5,
+   "votes": 13170,
+   "runtime": 129
   },
   {
    "id": 353081,
@@ -587,7 +1814,51 @@
     "en": "/w8Rdtneqi5xi5xNA1mzr5iZbRWv.png",
     "de": "/VxtdubE8aiCzR9Yck8ByXbz2hb.png",
     "es": "/49BHz6Yik2BWtZBxk2XQx7LfQQz.png"
-   }
+   },
+   "overview": {
+    "fr": "Alors qu'Ethan Hunt est chargé de récupérer du plutonium volé, il décide de sauver son équipe plutôt que de mener à bien cette mission. Les armes nucléaires se retrouvent ainsi dans les mains d'un groupe terroriste nommé « les Apôtres », formé après l'arrestation de Solomon Lane sur les restes du Syndicat. Ethan et son équipe de Mission Impossible doivent, contre leur gré, s'associer à un agent de la CIA pour retrouver le plutonium avant qu'il ne soit trop tard…",
+    "en": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+    "de": "Mit der Wiederbeschaffung gestohlenen Plutoniums beauftragt, stellt Ethan Hunt das Wohl seines Teams über die Vollendung der Mission, wodurch die Nuklearwaffen in die Hände der Apostel, einem tödlichen Netzwerk hochspezialisierter Terroristen, gelangen. Um den drohenden atomaren Holocaust zu verhindern, sind Ethan und sein IMF-Team zur Zusammenarbeit mit dem draufgängerisch agierenden CIA-Agenten Walker gezwungen. Es beginnt ein tödlicher Wettlauf gegen die Zeit ...",
+    "it": "Ethan Hunt riceve a Belfast l'ordine di una nuova missione impossibile: recuperare una valigia di plutonio e scovare i cattivissimi che immancabilmente vogliono metterci le mani sopra. Sulle tracce di John Lark, il misterioso finanziatore del rapimento di uno scienziato anarchico ed esperto in armi nucleari, ritrova a Berlino i compagni di sempre: Benji e Luther, a cui salva la pelle compromettendo la missione. E adesso tocca riparare, lanciandosi sul cielo di Parigi per (s)mascherare Lark e incontrare la Vedova Bianca, un'intermediaria sexy e letale. Come a ogni missione, niente andrà come previsto.",
+    "es": "En ocasiones, hasta las mejores intenciones pueden volverse en contra. Después de una misión fallida, Ethan Hunt y su equipo IMF, junto con algunos aliados conocidos, se enfrentarán a una nueva carrera contrarreloj.",
+    "sv": "På ett riskabelt uppdrag väljer Ethan Hunt att rädda sitt team istället för att slutföra uppdraget, och kärnvapen hamnar i händerna på ett livsfarligt nätverk som vill förgöra civilisationen. Världens öde står på spel när Ethan och hans team kämpar mot klockan för att förhindra radioaktiv katastrof."
+   },
+   "tagline": {
+    "fr": "Il y a des missions qu’on ne choisit pas.",
+    "en": "Some missions are not a choice.",
+    "de": "Bei manchen Missionen hast du keine Wahl.",
+    "it": "Certe missioni non sono una scelta",
+    "es": "Algunas misiones no son una opción."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 9569,
+   "runtime": 148
   },
   {
    "id": 624860,
@@ -608,7 +1879,58 @@
     "en": "/yjxeUjfIWeyIZxhNXs8TAP8kij2.png",
     "it": "/xsdLy4gEKgP90TfBjtgzKuUhWCP.png",
     "es": "/9wMyO0wE0ajkj7MuGoGJeDmzpTm.png"
-   }
+   },
+   "overview": {
+    "fr": "Dix-huit ans après les événements de Matrix Revolutions, Thomas A. Anderson (alias Neo) ne se souvient plus de rien et mène une vie d'apparence normale à San Francisco. Il se rend régulièrement chez un psychiatre à qui il raconte ses rêves étranges et qui lui prescrit des pilules bleues. Après la réapparition de visages familiers et en quête de réponses, Neo repart à la recherche du lapin blanc. Il rencontre un certain Morpheus, qui lui offre le choix entre rester dans la Matrice et prendre son envol.",
+    "en": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+    "de": "Thomas Anderson lebt ein normales Leben, arbeitet für eine große Firma und geht regelmäßig zur Therapie, wo sein Therapeut versucht, ihm seine Traumata auszutreiben. Denn Thomas hat Probleme damit, Realität und Fiktion auseinanderzuhalten. Er kann doch nicht wirklich einst als Auserwählter Neo in den Krieg gegen die Maschinen gezogen sein, oder?",
+    "it": "Due realtà differenti caratterizzano il mondo: una rappresentata dalla vita di tutti i giorni e un'altra nascosta e inaccessibile. Per scoprire se la sua realtà è un costrutto fisico o mentale, per conoscere veramente se stesso, Mr. Anderson dovrà scegliere di seguire ancora una volta il Bianconiglio. E se Thomas, Neo, ha imparato qualcosa è che la scelta, pur essendo un'illusione, è ancora una volta la via d'uscita o di ingresso in Matrix. Ovviamente, Neo sa già cosa deve fare. Ma quello che ancora non sa è che Matrix è più forte, più sicura e più pericolosa che mai. Salvato da Matrix per diventare il salvatore dell'umanità, ancora una volta dovrà scegliere quale strada prendere.",
+    "es": "En un mundo compuesto por dos realidades, lo cotidiano y lo oculto tras ella, Thomas Anderson se ve obligado de nuevo a ir tras el conejo blanco. Dicha elección continúa siendo la vía de acceso a Matrix, que esta vez es más poderosa e intrincada que en ocasiones anteriores.",
+    "sv": "Tjugo år har gått sedan händelserna i \"Matrix Revolutions\" och Neo lever ett till synes helt vanligt liv som Thomas A. Anderson i San Francisco, där hans terapeut skriver ut blå piller till honom. Varken han eller Trinity känner igen varandra, men när Morpheus erbjuder honom det röda pillret, öppnas hans sinne igen för Matrix-världen."
+   },
+   "tagline": {
+    "fr": "Retour à la source.",
+    "en": "Return to the Source.",
+    "de": "Zurück zum Ursprung",
+    "it": "È tempo di tornare alla sorgente",
+    "es": "Regresa a la fuente.",
+    "sv": "Återvänd till källan"
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Action",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Action",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Action",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Azione",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Acción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Action",
+     "Äventyr"
+    ]
+   },
+   "rating": 6.3,
+   "votes": 6876,
+   "runtime": 148
   },
   {
    "id": 507086,
@@ -630,7 +1952,57 @@
     "de": "/7v8DFdDd11PKDCTGCFUmUEfo5f.png",
     "it": "/4Y0AQLAOswkl2IWR2RIAo8ecfNk.png",
     "es": "/va5NU8qdUhy0tgwiqubC7jopEdU.png"
-   }
+   },
+   "overview": {
+    "fr": "Quatre ans après la destruction de Isla Nublar, les dinosaures font désormais partie du quotidien de l’humanité. Maintenant qu’elle doit partager son espace vital avec les créatures les plus féroces que l’histoire ait jamais connues, un fragile équilibre va remettre en question sa domination.",
+    "en": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "de": "Die Isla Nublar und ihr Park wurden zerstört, aber die Probleme sind noch nicht vorbei. Da sich die Dinosaurier auf der ganzen Welt ausgebreitet haben, führen die angespannten Beziehungen zwischen der Gegenwart und der Vergangenheit zu neuen Konflikten. Das zerbrechliche Gleichgewicht wird dabei auf die Probe gestellt und die Zukunft steht vor einer neuen Ausrichtung. Es wird ein für alle Mal entschieden, welche Spezies auf der Erde existieren soll.",
+    "it": "Il Dominio si svolge quattro anni dopo la distruzione di Isla Nublar. I dinosauri ora vivono e cacciano insieme agli umani in tutto il mondo. Questo equilibrio fragile rimodellerà il futuro e determinerà, una volta per tutte, se gli esseri umani rimarranno i predatori dominanti su un pianeta che ora condividono con le creature più temibili della storia.",
+    "es": "Cuatro años después de la destrucción de Isla Nublar, los dinosaurios conviven – y cazan – con los seres humanos en todo el mundo. Este frágil equilibrio cambiará el futuro y decidirá, de una vez por todas, si los seres humanos seguirán en la cúspide de los depredadores en un planeta que comparten con los animales más temibles de la creación.",
+    "sv": "Fyra år har gått sedan Isla Nublar förstördes. Dinosaurier lever - och jagar - numera i människors närhet över hela världen. Denna bräckliga balans kommer att omforma framtiden och avgöra, en gång för alla, om människorna kommer att förbli de främsta rovdjuren på den planet som de nu delar med historiens mest skrämmande varelser."
+   },
+   "tagline": {
+    "fr": "La vie ne peut être contenue.",
+    "en": "The epic conclusion of the Jurassic era.",
+    "de": "Das epische Ende der Jurassic-Ära",
+    "it": "L'epica conclusione dell'era Giurassica",
+    "es": "El épico final de la era Jurassic."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction",
+     "Thriller"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 7412,
+   "runtime": 147
   },
   {
    "id": 335977,
@@ -652,7 +2024,51 @@
     "de": "/fRi7xH6FEQ0sBlhuFQptXXOGFnc.png",
     "it": "/dj1T9l1joqXBtGimAUPcRE4M9uQ.png",
     "es": "/epOOxRKlKG0tfqRL8lTfZmPICNZ.png"
-   }
+   },
+   "overview": {
+    "fr": "1969. Après avoir passé plus de dix ans à enseigner au Hunter College de New York, l'estimé docteur Jones, professeur d'archéologie, est sur le point de prendre sa retraite et de couler des jours paisibles. Tout bascule après la visite surprise de sa filleule Helena Shaw, qui est à la recherche d'un artefact rare que son père a confié à Indy des années auparavant : le fameux cadran d'Archimède, une relique qui aurait le pouvoir de localiser les fissures temporelles. En arnaqueuse accomplie, Helena vole l’objet et quitte précipitamment le pays afin de le vendre au plus offrant. Indy n'a d'autre choix que de se lancer à sa poursuite. Il ressort son fédora et son blouson de cuir pour une dernière virée...",
+    "en": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
+    "de": "Indy befindet sich in einer neuen Ära und nähert sich dem Ruhestand. Er ringt damit, sich in eine Welt einzufügen, die über ihn hinausgewachsen zu sein scheint. Doch als die Tentakel eines allzu vertrauten Bösen in Form eines alten Rivalen zurückkehren, muss Indy erneut seinen Hut aufsetzen und seine Peitsche in die Hand nehmen, um sicherzustellen, dass ein uraltes und mächtiges Artefakt nicht in die falschen Hände gerät.",
+    "it": "Quinto capitolo della saga dedicata al mitico e temerario archeologo Indiana Jones.  Il professor Indy, ormai vicino alla pensione, lotta contro il tempo per recuperare un quadrante leggendario che può cambiare il corso della storia.  Accompagnato dalla sua figlioccia Helena, si scontra con Jürgen Voller, un ex nazista che lavora per la Nasa.",
+    "es": "El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.",
+    "sv": "Arkeologen Indiana Jones kämpar mot klockan och en gammal fiende för att hitta en forntida kraftfull artefakt som kan ändra historiens gång."
+   },
+   "tagline": {
+    "fr": "Une légende affrontera son destin.",
+    "en": "A legend will face his destiny.",
+    "de": "Eine Legende wird sich ihrem Schicksal stellen.",
+    "it": "La leggenda affronterà il suo destino.",
+    "es": "Una leyenda se enfrentará a su destino."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 6.5,
+   "votes": 4496,
+   "runtime": 155
   },
   {
    "id": 575264,
@@ -674,7 +2090,55 @@
     "de": "/ze7Y8jSJwgpyYcb9hyExdQkoBvX.png",
     "it": "/vNx5rzi0GmvaMJ9iibcUy1PmxtX.png",
     "es": "/oYqZ43RXHV4F9a8TTjMK29dF8iK.png"
-   }
+   },
+   "overview": {
+    "fr": "Ethan Hunt et son équipe de Mission Impossible se lancent dans leur mission la plus périlleuse à ce jour : traquer une effroyable nouvelle arme avant que celle-ci ne tombe entre de mauvaises mains et menace l’humanité entière. Le contrôle du futur et le destin du monde sont en jeu. Alors que les forces obscures de son passé ressurgissent, Ethan s’engage dans une course mortelle autour du globe. Confronté à un puissant et énigmatique ennemi, Ethan réalise que rien ne peut se placer au-dessus de sa mission, pas même la vie de ceux qu’il aime.",
+    "en": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+    "de": "Ethan Hunt begibt sich auf seine siebte und bislang unmöglichste Mission: Gemeinsam mit seinem IMF-Team soll er eine neuartige Waffe ausfindig machen, die dazu in der Lage ist, die Menschheit an den Rand des Dritten Weltkriegs zu führen – und sieht sich gleich mit mehreren mächtigen Gegnern konfrontiert. Denn zahlreiche Schurken wollen ebenfalls in den Besitz des Schlüssels gelangen, der ihnen die Kontrolle über die mysteriöse Waffe geben würde. Doch der gefährlichste Feind hat weder einen Namen noch ein Gesicht: eine künstliche Intelligenz, die den Agenten immer einen Schritt voraus ist, aber selbst vollkommen unberechenbar agiert. Ein globaler Wettlauf um das Schicksal des Planeten beginnt – der Ethan Hunt gleichzeitig vor einige folgenschwere persönliche Entscheidungen stellt …",
+    "it": "Ethan Hunt e la sua squadra dell'IMF si trovano di fronte alla sfida più pericolosa che abbiano mai affrontato: trovare e disinnescare una nuova terrificante arma che minaccia l’intera umanità. Con il destino del mondo e il controllo del futuro appesi a un filo, la squadra inizia una frenetica missione in tutto il mondo, per impedire che l’arma cada nelle mani sbagliate. Messo di fronte a un nemico misterioso e onnipotente, tormentato da forze oscure del passato, Ethan sarà costretto a decidere se sacrificare tutto per questa missione, comprese le vite di coloro che gli stanno più a cuore.",
+    "es": "Ethan Hunt y la IMF emprenden la misión más peligrosa a la que nunca se han enfrentado: rastrear una nueva y aterradora arma que amenaza a toda la humanidad antes de que caiga en las manos de un enemigo todopoderoso y misterioso.",
+    "sv": "Ethan Hunt och hans IMF-team ger sig ut på sitt farligaste uppdrag hittills: att spåra upp ett nytt fruktansvärt vapen som hotar hela mänskligheten, innan det hamnar i orätta händer. När makten över framtiden och världens öde står på spel, och när mörka krafter från Ethans förflutna närmar sig, börjar en dödlig jakt runt hela världen. Konfronterad av en mystisk, allsmäktig fiende tvingas Ethan inse att inget kan vara viktigare än hans uppdrag - inte ens de människor vars liv han bryr sig mest om."
+   },
+   "tagline": {
+    "fr": "Nous partageons tous le même sort.",
+    "en": "We all share the same fate.",
+    "es": "Todos compartimos el mismo destino."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Thriller"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Thriller"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Thriller"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Thriller"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Suspense"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Thriller"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 5530,
+   "runtime": 164
   },
   {
    "id": 575265,
@@ -694,7 +2158,58 @@
     "fr": "/yAPRkheBWvNJdXEENjIs7pkyGe7.png",
     "en": "/7yXEfWFDGpqIfq9wdpMOHcHbi8g.png",
     "es": "/o1aU23QSknj0xIKs9OE6W4Uhj1v.png"
-   }
+   },
+   "overview": {
+    "fr": "Ethan Hunt se rend à Londres avec son équipe dans l'espoir de remonter la piste du mystérieux Gabriel, qu'il a affronté deux mois auparavant à bord de l'Orient-Express et qui détient la clé contrôlant l’intelligence artificielle toute puissante surnommée l'Entité. Adulée par les uns, redoutée par les autres, l’Entité se distingue par sa capacité à prédire toutes les éventualités possibles. Elle connaît parfaitement les forces et faiblesses d’Ethan et de son équipe. Gabriel compte l'utiliser pour mettre en œuvre son plan ultime : annihiler Ethan et son équipe, s’emparer de tous les systèmes de défense planétaires et déclencher la Troisième Guerre mondiale.",
+    "en": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+    "de": "Die Jagd ist noch nicht vorbei: Ethan Hunt und sein Team von der legendären Impossible Mission Force (IMF) sehen sich weiterhin einer extrem mächtigen und die Welt bedrohenden künstlichen Intelligenz, die nur die „Entität\" genannt wird, gegenüber. Dafür müssen sie das den Namen „Sewastopol“ tragende russische U-Boot finden, dem eine Schlüsselrolle in diesem brodelnden Konflikt zukommt. Doch mit diesem Ziel sind Hunt und sein Team natürlich nicht alleine: Auch Gabriel, letztlich ein Handlanger der Entität, sucht fieberhaft nach der Sewastopol. Denn für ihn ist sie der Schlüssel, der sozusagen das Tor zur Hölle auf Erden öffnet, mit dem die Welt ins Chaos gestürzt werden kann. Gabriel scheint in diesem erbitterten Kampf eine Geheimwaffe in der Hinterhand zu haben, denn er und Hunt haben offenbar eine gemeinsame Vergangenheit, die den IMF-Agenten nun endgültig einholt...",
+    "it": "La fine del mondo è vicina ma Ethan Hunt non è lontano e riparte da dove aveva lasciato. Recuperata una preziosa chiave crociata, deve raggiungere adesso il Sevastopol, un sottomarino nucleare russo, distrutto dall'Intelligenza Artificiale, che giace sotto la calotta polare. La chiave gli permetterà di recuperare il 'codice sorgente' dell'IA e di disinnescarla. Ormai autonoma e 'cosciente', l'Entità accede a qualsiasi sistema operativo, manipola fatti, dati e persone ed è determinata a sterminare la razza umana. Mentre Hunt cerca una soluzione, l'IA prende progressivamente il controllo delle armi di distruzione di massa. Il tempo stringe, non resta che correre. Ancora e ancora.",
+    "es": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como La Entidad.",
+    "sv": "Hunt och IMF jagar en farlig AI som kallas Entiteten som har infiltrerat världens olika underrättelsetjänst. Med regeringar och en figur från sitt förflutna i sin jakt, kämpar Hunt för att stoppa den från att förändra världen som vi känner den för evigt."
+   },
+   "tagline": {
+    "fr": "Nos vies sont la somme de nos choix.",
+    "en": "Our lives are the sum of our choices.",
+    "de": "Unser Leben ist die Summe unserer Entscheidungen",
+    "it": "La nostra vita è la somma delle nostre scelte.",
+    "es": "Cada elección, cada misión, ha conducido a esto.",
+    "sv": "Våra liv är summan av våra val."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Aventure"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Adventure"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Abenteuer"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Avventura"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Aventura"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 3342,
+   "runtime": 170
   },
   {
    "id": 1234821,
@@ -716,7 +2231,58 @@
     "de": "/rmIgvHnNBx0USb5nC1DhbqtKfeq.png",
     "it": "/6xjYzuWRwHV3I5cb8KcGU6zIe9G.png",
     "es": "/aSdhD1eDGbWN0sd6IedxFBEY4cc.png"
-   }
+   },
+   "overview": {
+    "fr": "Une nouvelle ère voit le jour. Une équipe visite le lieu le plus risqué sur terre, une île sur laquelle vivent des dinosaures trop dangereux pour le Parc Jurassique original. Leur mission : recueillir l'ADN de trois dinosaures gigantesques pour créer un médicament aux bienfaits miraculeux. Dans cette contrée truffée de périls, ils découvrent un secret dissimulé au monde entier depuis des décennies.",
+    "en": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "de": "Fünf Jahre nach den Ereignissen von 'Jurassic World: Ein neue Zeitalter' wird die Spezialistin für verdeckte Operationen, Zora Bennett, auf eine streng geheime Mission geschickt: Sie soll genetisches Material von den drei größten Dinosauriern der Welt sichern. Doch als ihr Team auf eine Familie trifft, deren Boot bei einem Ausflug gekentert ist, stranden sie gemeinsam auf einer abgelegenen Insel. Dort stoßen sie auf eine finstere und schockierende Entdeckung, die jahrzehntelang vor der Menschheit verborgen blieb – und deren Geheimnis alles verändern könnte.",
+    "it": "Cinque anni dopo gli eventi di \"Jurassic World - Il Dominio\", l'ecologia del pianeta si è dimostrata in gran parte inospitale per i dinosauri. Quelli rimasti vivono in ambienti equatoriali isolati con climi simili a quelli in cui prosperavano un tempo. Le tre creature più gigantesche di quella biosfera tropicale possiedono la chiave per un farmaco che porterà miracolosi benefici salvavita all'umanità.",
+    "es": "Cinco años después de los eventos de \"Dominion\", la ecología del planeta ha demostrado ser insoportable para los dinosaurios, donde los pocos que quedan viven aislados en las regiones ecuatoriales. Zora Bennett es contratada para dirigir a un equipo de especialistas cuyo objetivo es conseguir el material genético de las tres criaturas más grandes, las cuales tienen en su ADN la clave para fabricar un medicamento que aportará grandes beneficios a la humanidad. Pero la operación se cruzará con una familia cuyo barco volcó y todos acabarán en una isla prohibida ocupada por dinosaurios de numerosas especies, donde tendrán que hacer lo imposible para sobrevivir.",
+    "sv": "Fem år efter händelserna i Jurassic World Dominion ger sig en expedition ut till isolerade områden kring ekvatorn för att utvinna DNA från tre enorma förhistoriska varelser – i hopp om ett medicinskt genombrott."
+   },
+   "tagline": {
+    "fr": "Une nouvelle ère est née.",
+    "en": "A new era is born.",
+    "de": "Eine neue Ära beginnt",
+    "it": "È nata una nuova era.",
+    "es": "Nace una nueva era.",
+    "sv": "En ny era är född."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Science Fiction",
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Science Fiction",
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Fantascienza",
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 6.2,
+   "votes": 3960,
+   "runtime": 134
   }
  ]
 }

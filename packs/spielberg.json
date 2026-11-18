@@ -1,6 +1,6 @@
 {
  "id": "spielberg",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Steven Spielberg",
   "en": "Steven Spielberg",
@@ -34,7 +34,49 @@
    ],
    "logo": {
     "en": "/o98rvbcqm19QsH4aEYEUOGfdi3p.png"
-   }
+   },
+   "overview": {
+    "fr": "Clovis Poplin s'apprête à être libéré de prison. Mais sa femme l'incite à s'évader pour aller récupérer leur enfant dans la ville de Sugarland. S'engage alors une course poursuite effrénée entre le duo, qui prend en otage un policier, et les autorités.",
+    "en": "Married small-time crooks Lou-Jean and Clovis Poplin lose their baby to the state of Texas and resolve to do whatever it takes to get him back. Lou-Jean gets Clovis out of jail, and the two steal their son from his foster home, in addition to taking a highway patrolman hostage. As a massive dragnet starts to pursue them across Texas, the couple become unlikely folk heroes and even start to bond with the captive policeman.",
+    "de": "Eine junge Frau und ihr aus dem Gefängnis geflohener Ehemann wollen ihr von den Behörden zur Adoption freigegebenes Kind zurückholen und verwickeln sich in eine Entführungsaktion. Mit einem Polizisten als Geisel und einer Kolonne von Verfolgern auf den Fersen fahren sie quer durch Texas, verursachen einen Sensationszirkus und enden im Kugelhagel der Polizei.",
+    "it": "Una giovane donna convince il marito ad evadere di prigione, nonostante gli rimangano solo quattro mesi da scontare, per raggiungere il figlioletto affidato ad un'anziana coppia di coniugi. I due si impadroniscono poi di un'auto della polizia, prendendo in ostaggio l'autista. All'inseguimento della coppia si lanciano subito diverse pattuglie delle forze dell'ordine alle quali, via via, se ne aggiungono altre. Il gigantesco carosello viene seguito con emozione, per radio e per televisione, da migliaia di persone. La donna si sente un'eroina e convince il marito a non arrendersi.",
+    "es": "Un joven presidiario de apenas veinte años logra escapar de la cárcel con la ayuda de su esposa, casi una niña. Lo que se propone es recuperar a su hijo, cuya custodia ha sido entregada por la ley a una familia de acogida. Lo sorprendente es que la fuga se produce a pesar de que la pareja tiene serias limitaciones mentales.",
+    "sv": "Lou Jean försöker återförena sin splittrade familj genom att hjälpa sin man att rymma från fängelse. Tillsammans planerar de sedan att kidnappa sitt eget barn som placerats i fosterfamilj."
+   },
+   "tagline": {
+    "fr": "Désormais, l'aventure est sur les routes.",
+    "en": "A girl with a great following. Every cop in the state was after her. Everybody else was behind her.",
+    "it": "Una ragazza con un grande seguito. Ogni poliziotto dello stato la cercava. Tutti gli altri erano dalla sua parte."
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Drame"
+    ],
+    "en": [
+     "Crime",
+     "Drama"
+    ],
+    "de": [
+     "Krimi",
+     "Drama"
+    ],
+    "it": [
+     "Crime",
+     "Dramma"
+    ],
+    "es": [
+     "Crimen",
+     "Drama"
+    ],
+    "sv": [
+     "Kriminal",
+     "Drama"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 494,
+   "runtime": 110
   },
   {
    "id": 578,
@@ -57,7 +99,57 @@
     "it": "/cUDi5HNKapaVHK0HPd9PGfIupGF.png",
     "es": "/4Cnu0SvBTJmJvUHBXBmA6jYNOkU.png",
     "sv": "/2Zqoydhsdvxz0J91NIbx3H4iJds.png"
-   }
+   },
+   "overview": {
+    "fr": "À quelques jours du début de la saison estivale, les habitants de la petite station balnéaire d'Amity sont mis en émoi par la découverte sur le littoral du corps atrocement mutilé d'une jeune vacancière. Pour Martin Brody, le chef de la police, il ne fait aucun doute que la jeune fille a été victime d'un requin. Il décide alors d'interdire l'accès aux plages mais se heurte à l'hostilité du maire uniquement intéressé par l'afflux des touristes. Pendant ce temps, le requin continue à semer la terreur le long des côtes et à dévorer les baigneurs…",
+    "en": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+    "de": "Ein weißer Hai terrorisiert eine Badeinsel an der amerikanischen Atlantikküste. Besonnene Einheimische unter Führung von Polizeichef Brody wollen alle Strände schließen und zur großen Jagd blasen, während die Schar der Kaufleute und Gastwirte angesichts der einträglichen Badesaison lieber zur Tagesordnung übergeht und sich damit auch durchsetzt. Als der Hai erneut zuschlägt, bildet Brody mit dem erfahrenen Haifänger Quint und dem Ozeanologen Hooper ein Jagd-Team und rückt dem Gegner auf See zu Leibe.",
+    "it": "Ad Amity, cittadina balneare del New England, si sparge il terrore per gli attacchi di un terribile squalo bianco. Un poliziotto, un ittiologo e un cacciatore di squali si mettono in mare per dargli la caccia.",
+    "es": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo...",
+    "sv": "Polischef Brody allierar sig med en ung havsforskare och den färgstarke hajfiskaren Quint i en jakt på liv och död för att förgöra den tre ton tunga vithaj som sprider skräck och fasa i den lilla badorten."
+   },
+   "tagline": {
+    "fr": "Elle fut la première…",
+    "en": "The terrifying motion picture from the terrifying No. 1 best seller.",
+    "it": "Non andare in acqua.",
+    "es": "No entres en el agua.",
+    "sv": "Gillar du fisk? Han gillar dig också..."
+   },
+   "genres": {
+    "fr": [
+     "Horreur",
+     "Thriller",
+     "Aventure"
+    ],
+    "en": [
+     "Horror",
+     "Thriller",
+     "Adventure"
+    ],
+    "de": [
+     "Horror",
+     "Thriller",
+     "Abenteuer"
+    ],
+    "it": [
+     "Horror",
+     "Thriller",
+     "Avventura"
+    ],
+    "es": [
+     "Terror",
+     "Suspense",
+     "Aventura"
+    ],
+    "sv": [
+     "Skräck",
+     "Thriller",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 12042,
+   "runtime": 125
   },
   {
    "id": 840,
@@ -80,7 +172,51 @@
     "it": "/28X7JZyywB3KgDOMi4tpLkEGgtt.png",
     "es": "/hnVMgIAOAsJwEmMxF7oOhZWD58U.png",
     "sv": "/4l2LP9CVXKXlajyKkmVPnt3Aess.png"
-   }
+   },
+   "overview": {
+    "fr": "Des faits étranges se produisent un peu partout dans le monde : des avions qui avaient disparu durant la Seconde Guerre mondiale sont retrouvés au Mexique en parfait état de marche, un cargo est découvert échoué au beau milieu du désert de Gobi. Dans l'Indiana, pendant qu'une coupure d'électricité paralyse la banlieue, Roy Neary, un réparateur de câbles, voit une \"soucoupe volante\" passer au-dessus de sa voiture. D'autres personnes sont également témoins de ce type de phénomène : Barry Guiler, un petit garçon de quatre ans, est réveillé par le bruit de ses jouets qui se mettent en route. Cherchant à savoir d'où proviennent ces ovnis, Roy Neary se heurte aux rigoureuses consignes de silence imposées par le gouvernement fédéral. Obsédé par ce qu'il a vu et hanté par une image de montagne qu'il essaie désespérément de reconstituer, il est abandonné par sa femme Ronnie et ses enfants. Il n'y a que Jillian, la mère de Barry, qui le comprenne.",
+    "en": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+    "de": "In der amerikanischen Provinz geht Merkwürdiges vor: Elektronische Geräte machen sich selbständig, mehrere Menschen werden unabhängig voneinander Augenzeugen unnatürlicher Himmelsphänomene, und einige von ihnen fühlen fortan die Neigung, seltsame Dinge zu tun und einen mysteriösen Tafelberg im Mittelwesten aufzusuchen. Dort stellen sich auch bald jede Menge Militär und Wissenschaftler ein, denn Großes steht bevor: Eine außerirdische Zivilisation besucht Mutter Erde, um Kontakt mit der Menschheit aufzunehmen.",
+    "it": "In una zona deserta dello Wyoming, nei pressi del famoso Picco del Diavolo (una curiosa formazione vulcanica citata in tutti i libri di geologia), il governo americano sta preparando segretamente una base di atterraggio per navi extraterrestri. Ma alcune persone dotate di percezione extrasensoriale si sentono attirate verso il Picco del Diavolo. Due di questi sensitivi, Roy, un elettrotecnico, e Jillian, una donna a cui gli extraterrestri hanno rapito il figlio, giungono all'appuntamento con l'astronave misteriosa. Il bambino rapito viene restituito e Roy sale sull'Ufo.",
+    "es": "Una noche, cerca de su casa, en Indiana, Roy Neary (Richard Dreyfuss) observa en el cielo unos misteriosos objetos voladores. Obsesionado por comprender lo que ha visto, se distancia de su esposa (Teri Garr). Neary encuentra apoyo en Jillian Guiler (Melinda Dillon), que también fue testigo de esas visiones nocturnas. Juntos buscan una respuesta a ese misterio que ha alterado sus vidas. Al mismo tiempo, un nutrido grupo de científicos internacionales, bajo la dirección de Claude Lacombe (François Truffaut), empieza a investigar las apariciones de OVNIS y otros extraños fenómenos.",
+    "sv": "En helt vanlig natt börjar plötsligt ett helt samhälle att läggas i mörker och ovanliga ljusfenomen börjar att uppträda på natthimlen. Från elverket skickas Roy Neary ut för att försöka reparera felen, men på väg till en av nätstationerna kör han vilse. Plötsligt skakas hela bilen fruktansvärt och han bländas av ett oerhört starkt sken. Roy och några andra människor är de första som kommer i närkontakt med ett UFO, ett oidentifierat föremål."
+   },
+   "tagline": {
+    "fr": "Nous ne sommes pas seuls.",
+    "en": "We are not alone.",
+    "de": "Wir sind nicht allein",
+    "it": "Noi non siamo soli.",
+    "es": "No estamos solos."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Drame"
+    ],
+    "en": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "de": [
+     "Science Fiction",
+     "Drama"
+    ],
+    "it": [
+     "Fantascienza",
+     "Dramma"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Drama"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Drama"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 4920,
+   "runtime": 135
   },
   {
    "id": 11519,
@@ -98,7 +234,56 @@
    ],
    "logo": {
     "en": "/jNNQ2QO6h5t4LT9Pg0lluJGqIvl.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1941, alors que les Américains décident d'entrer en guerre, un sous-marin japonais fait surface au large de Los Angeles. Face à cette menace, les habitants de Hollywood tentent vainement d'organiser la résistance...",
+    "en": "In the days after the attack on Pearl Harbor, panic grips California, where a military officer leads a mob chasing a Japanese sub.",
+    "de": "Los Angeles, 1941: Als kurz nach dem Angriff auf Pearl Harbor ein japanisches U-Boot vor der Küste auftaucht, scheint die Filmmetropole dem Untergang geweiht. Zu allem entschlossen, treten einige wohlmeinende Patrioten an, ihr Land zu verteidigen – selbst wenn sie dabei die halbe Stadt in Schutt und Asche legen müssen.",
+    "it": "Pochi giorni dopo l'attacco a Pearl Harbor, sulle coste della California infuria la psicosi dell'invasione. È il 13 dicembre 1941. Al largo c'è un sommergibile giapponese. In cielo sfreccia un aviatore pazzo. Il 1° fiasco nella carriera di S. Spielberg. Fantastoria col piede sull'acceleratore, ma spesso il motore s'imballa. Qua e là geniale, sempre eccessivo. Molte risate e il merito è della squadra degli effetti speciali. Scritto da Bob Gale e Robert Zemeckis, i futuri autori di Ritorno al futuro (1985), doveva essere diretto da John Milius. Su Laserdisc ne esiste una versione più lunga di 26 minuti. Il portaordini in motocicletta è il regista John Landis, in una rara apparizione senza barba.",
+    "es": "La histeria colectiva se apodera de los habitantes de las costas de California en los días posteriores al ataque japonés contra Pearl Harbor. Un submarino nipón se ha extraviado y la población teme una invasión.",
+    "sv": "1941 var den dyraste krigsfilmen någonsin när den hade biopremiär under stort pompa och ståt. Väl investerade pengar skulle det visa sig när succéfilmen fyllde biokassorna jorden runt med tre gånger så mycket som den kostat. Enbart i Sverige sågs filmen av 250.000 biobesökare.  Spielbergs mastodontfilm med komiska förtecken utspelar sig bara sex dagar efter attacken mot Pearl Harbor 1941 då en japansk ubåt siktas utanför USAs västkust. I Hollywood utbryter vild kalabalik och i de spektakulära scenerier som följer siktas stjärnor som Bluesbröderna John Belushi och Dan Aykroyd, John Candy, Christopher Lee, Treat Williams, Toshiro Mifune, Warren Oates och Mickey Rourke (i sin debut).  1941 gick även hem hos Oscarjuryn, som nominerade den för Bästa specialeffekter, Bästa foto och Bästa ljud."
+   },
+   "tagline": {
+    "fr": "La folie gagne Hollywood",
+    "en": "Soon the screen will be bombarded by the most explosive barrage of クソッ  ever filmed.",
+    "it": "La paranoia incontra il pandemonio.",
+    "es": "¡Una auténtica locura!"
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Guerre",
+     "Action"
+    ],
+    "en": [
+     "Comedy",
+     "War",
+     "Action"
+    ],
+    "de": [
+     "Komödie",
+     "Kriegsfilm",
+     "Action"
+    ],
+    "it": [
+     "Commedia",
+     "Guerra",
+     "Azione"
+    ],
+    "es": [
+     "Comedia",
+     "Bélica",
+     "Acción"
+    ],
+    "sv": [
+     "Komedi",
+     "Krig",
+     "Action"
+    ]
+   },
+   "rating": 5.8,
+   "votes": 753,
+   "runtime": 114
   },
   {
    "id": 85,
@@ -121,7 +306,51 @@
     "it": "/jIwN17u4X89hE7yYqa5yKYdwR1l.png",
     "es": "/ql6eKGJhaovo0QnJLnwtebddSGq.png",
     "sv": "/gbx2Dy5pSuFtSAccTHYh50p52L6.png"
-   }
+   },
+   "overview": {
+    "fr": "L'Arche d'Alliance contenant les tables de la Loi brisées par Moïse, voici 3.000 ans, est l'objet de la convoitise des nazis. L'archéologue aventurier Indiana Jones se lance à sa recherche, poursuivi par son ennemi Belloq.",
+    "en": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+    "de": "Der Archäologe Dr. Henry Jones wird von Regierungsagenten auf die Bundeslade angesetzt, das Behältnis, in dem Moses Gesetzestafeln aufbewahrt wurden. Laut Geheiminformationen suchen auch die Nazis nach der Lade, da sie den Besitzer unbesiegbar machen soll. Jones, genannt Indiana Jones, reist daraufhin nach Nepal, wo er einen alten Kollegen aufspüren will, jedoch nur dessen Tochter findet, die sich ihm anschließt. Ein altes Schmuckstück führt sie nach Ägypten, wo die Nazis mit Belloqs Hilfe bereits Ausgrabungen vornehmen. So kommt es zum Wettlauf um die Auffindung der Quelle der Seelen…",
+    "it": "Dopo essere stato derubato di un prezioso idolo, Indiana Jones ritorna all'università da insegnante. Qui i servizi segreti gli offriranno il compito di trovare l'arca dell'alleanza e cercare così di non farla cadere nelle mani dei tedeschi. Giunto nel Nepal, incontrerà Marion, una sua vecchia conoscenza, con la quale giungerà dall'amico Sallah, trovando ospitalità e svolgendo da lì la definitiva ricerca dell'arca.",
+    "es": "Año 1936, Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.",
+    "sv": "Den handlingskraftige arkeologen ger sig tillsammans med sin självständiga och något svårhanterliga ex-flickvän Marion Ravenwood iväg för att finna den sägenomspunna heliga arken före nazisterna. Den halsbrytande kapplöpningen går genom Sydamerikas djungler, Kairos myllrande gator och en topphemlig ubåtsbas, och Indy tvingas utstå gift, fällor, ormar och förrädare för att nå målet. Arkens krafter släpps slutligen lösa, och Indy kämpar för att ligga steget före nazisterna."
+   },
+   "tagline": {
+    "fr": "Indiana Jones - le nouveau héros des créateurs des DENTS DE LA MER et de la GUERRE DES ETOILES.",
+    "en": "The return of the great adventure.",
+    "de": "Die Rückkehr des großen Abenteuerfilms",
+    "it": "Il ritorno della grande avventura.",
+    "es": "El retorno de la gran aventura."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 14237,
+   "runtime": 115
   },
   {
    "id": 601,
@@ -143,7 +372,57 @@
     "de": "/jZ7JwXj3YMNG6YELeAiKHOUBQYN.png",
     "it": "/oeeYwbJat46xeWhisVDUxtkbMoD.png",
     "es": "/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
-   }
+   },
+   "overview": {
+    "fr": "Une soucoupe volante atterrit en pleine nuit près de Los Angeles. Quelques extraterrestres, envoyés sur Terre en mission d’exploration botanique, sortent de l’engin, mais un des leurs s’aventure au-delà de la clairière où se trouve la navette. Celui-ci se dirige alors vers la ville. C’est sa première découverte de la civilisation humaine. Bientôt traquée par des militaires et abandonnée par les siens, cette petite créature apeurée se nommant E.T. se réfugie dans une résidence de banlieue. Elliot, un garçon de dix ans, le découvre et lui construit un abri dans son armoire. Rapprochés par un échange télépathique, les deux êtres ne tardent pas à devenir amis. Aidé par sa sœur Gertie et son frère aîné Michael, Elliot va alors tenter de garder la présence d'E.T. secrète.",
+    "en": "An alien is left behind on Earth and saved by the 10-year-old Elliott who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliott, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+    "de": "Der junge Elliott traut seinen Augen kaum, als er in einem Schuppen einen kleinen Ausserirdischen findet. Der schrumpelige Kobold musste bei einem Erkundungsflug von seinen Kollegen auf der Erde zurückgelassen werden, weil sie in Gefahr gerieten, von Menschen entdeckt zu werden. Elliot versucht, seinen neuen Freund vor den Wissenschaftlern der Regierung zu verstecken, denn der will seine weit entfernten Verwandten anfunken. Doch E.T. wird vor Heimweh immer schwächer.",
+    "it": "Durante un sopralluogo sulla Terra per raccogliere vegetali, un gruppo di alieni viene sorpreso e uno di loro viene lasciato erroneamente al suolo per l'affrettato decollo. L'alieno, solo e smarrito, viene trovato ed ospitato da Elliott, con la complicità della sorellina Gertie e il fratello maggiore Michael. Tra i due si instaura un profondo rapporto di amicizia che li lega anche a livello emotivo. Desideroso di tornare a casa, l'alieno costruisce un rudimentale dispositivo di comunicazione per chiedere aiuto ai suoi. Gradualmente, la salute di ET peggiora, e la situazione è aggravata dall'irruzione nell'universo dei ragazzi da parte del mondo degli adulti, che vuole impossessarsi dell'alieno.",
+    "es": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+    "sv": "En vilsen liten utomjording som är tre miljoner ljusår hemifrån. En ensam tioårig pojke som vill ta med honom hem. Två liv som förändras i ett tidlöst äventyr av vänskap utan världsliga hinder."
+   },
+   "tagline": {
+    "fr": "Il a peur. Il est seul. Il est à 3 millions d’années lumière de chez lui.",
+    "en": "He is afraid. He is totally alone. He is 3,000,000 light years from home.",
+    "de": "Er hat Angst. Er ist allein. Er ist 3.000.000 Lichtjahre von Zuhause entfernt.",
+    "it": "Ha paura. È completamente solo. Si trova a 3 milioni di anni luce lontano da casa.",
+    "es": "Tiene miedo. Está solo. A tres millones de años luz de su casa."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction",
+     "Familj"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 12436,
+   "runtime": 114
   },
   {
    "id": 87,
@@ -166,7 +445,52 @@
     "it": "/fm6WMKkZK4zTIxRj3cm2ncc6voN.png",
     "es": "/rUqugZkR5R55Z0mVcb3uu3IOYbY.png",
     "sv": "/oRH9NxOqh7In3tEcVooDyNVs0pp.png"
-   }
+   },
+   "overview": {
+    "fr": "L'archéologue Indiana Jones est obligé de fuir un cabaret de Shanghai après une négociation houleuse. En compagnie de la chanteuse Willie Scott et du petit Demi-Lune, il se retrouve sur un glacier himalayen, dans un village dont une secte a dérobé le diamant magique et enlevé les enfants afin de les sacrifier.",
+    "en": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+    "de": "Indiana Jones kehrt zurück! Nachdem er bei der Erringung eines Diamanten in einem Nachtclub in Shanghai beinahe vergiftet, erdolcht und erschossen wurde, flieht er mit einer halbhysterischen Clubsängerin und seinem jungen asiatischen Freund Short Round mit einem Flugzeug. Doch über Indien wird auch hier ein Mordversuch gegen sie ausgeführt und alle drei müssen abspringen. Sie gelangen in ein Dorf, aus dem heilige Steine und sämtliche Kinder entführt wurden. Die Spur führt zu einem Fürstenpalast im Dschungel, wo sie einem machtgierigen Jungfürsten auf die Spur kommen, der die Kinder in den Minen arbeiten läßt. Doch hinter ihm steht ein noch machtvollerer Sektenführer...",
+    "it": "Nel 1935 l'archeologo Indiana Jones recupera per un potente di Shangai un prezioso cimelio. Ma le cose non vanno per il meglio e Indiana è costretto a fuggire su di un piccolo aereo insieme ad una cantante di cabaret e ad un ragazzino cinese che gli fa da guida. Abbandonato dai piloti, l'aereo precipita sulle montagne tibetane ai confini con l'India.",
+    "es": "1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.",
+    "sv": "Indy undkommer med nöd och näppe ett våldsamt slagsmål på en nattklubb i Shanghai, bara för att kraschlanda i Indiens regnskog där ondskans makter härjar. Barnen från en avlägsen by har kidnappats och används som slavar i en ointaglig gruva, och Indy måste rädda dem utan att själv möta samma fruktansvärda öde hos den onda Kali-sekten. Tillsammans med sin följeslagare Short Round och den motsträviga nattklubbssångerskan Willie Scott överlistar Indy de blodtörstiga skurkarna, och det går undan i svängarna när de jagas i en gruvvagn i den halsbrytande berg- och dalbanescenen."
+   },
+   "tagline": {
+    "fr": "Depuis « Les Aventuriers de l’arche perdue », l’aventure a un nom : Indiana Jones.",
+    "en": "If adventure has a name... it must be Indiana Jones.",
+    "de": "Das Abenteuer hat viele Gesichter. Indiana Jones zeigt sie alle.",
+    "it": "Se l'avventura ha un nome, deve essere Indiana Jones.",
+    "es": "Si la aventura tiene un nombre, ese nombre es Indiana Jones",
+    "sv": "Äventyret fortsätter"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 10538,
+   "runtime": 118
   },
   {
    "id": 873,
@@ -188,7 +512,45 @@
     "de": "/sKCofC2CP6lPYXpuygXUnsXf3fG.png",
     "it": "/ySnX43BkibYPXAlRPpXVmAcmF2F.png",
     "es": "/nTi3emLoMUjMKJaR1DZDrmMU2r5.png"
-   }
+   },
+   "overview": {
+    "fr": "Début du XXe siècle. Au cœur de la communauté noire du sud des États-Unis, Celie et Nettie, deux sœurs, vivent avec leur beau-père. Celui-ci veut se débarrasser de Celie et l'offre à Albert, un veuf tyrannique qui l'emmène vivre chez lui…",
+    "en": "An epic tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry. After Celie's abusive father marries her off to the equally debasing 'Mister' Albert Johnson, things go from bad to worse, leaving Celie to find companionship anywhere she can. She perseveres, holding on to her dream of one day being reunited with her sister in Africa.",
+    "de": "Anfang des 20. Jahrhunderts: Die junge Celie wird von ihrem Vater vergewaltigt und geschwängert. Ihre Kinder werden verkauft und sie muss den herrischen Witwer Albert, den sie nur \"Mister\" nennen darf, heiraten und auf dessen Kinder aufpassen. Celies einziger Rückhalt ist ihre Schwester. Als diese von Albert herausgeschmissen wird, verspricht sie Celie, ihr immer Briefe zu schreiben. Die Jahre vergehen, doch nie kommt ein Brief ihrer geliebten Schwester an. Celie ahnt nicht, dass Albert ihr diese schon seit Jahren vorenthält und sie versteckt. Eines Tages tritt die Bluessängerin Shug in ihr Leben. Diese hilft Celie, ihr Leben selbst in die Hand zu nehmen, um sich gegen ihren Mann zu wehren.",
+    "it": "Celie è una ragazzina di quattordici anni che a seguito delle violenze subite da parte del padre dà alla luce due bambini, un maschio e una femmina, che le vengono brutalmente strappati. Allontanati i figli da sua figlia il padre decide di vendere Celie ad un vedovo con figli di nome Albert che la sposa, abusa di lei e la fa vivere come una schiava. In seguito ad Albert viene venduta anche Nettie, la sorella minore di Celie, nonché l'unica persona al mondo da cui Celie si senta amata e che ama profondamente.Nettie insegna a Celie a leggere e a scrivere, ma è insospettita da certi atteggiamenti di Albert: questi infatti desidera abusare anche di lei. Un giorno Albert decide di mettere in atto le sue fantasie, ma Nettie si ribella e di conseguenza viene scacciata dalla casa e dalla terra dell'uomo, con immenso dolore delle due sorelle. Andandosene, Nettie ripete con veemenza e più volte alla sorella che le avrebbe scritto e che solo la morte avrebbe potuto impedirglielo.",
+    "es": "Principios del siglo XX. Narra la historia de Celie, una adolescente negra de catorce años que está embarazada de su propio padre, un hombre despótico y cruel. A partir de entonces su vida estará llena de dolor y humillaciones.",
+    "sv": "Baserad på Alice Walkers prisade novell. Filmen handlar om Celie, en outbildad kvinna som lever på landet i södra Amerika. Hon tvingas att gifta sig med en brutal man som hon kallar \"Mr\". Celie vänds ut och in och delar bara sin smärta med gud. Men till hennes hjälp står två fantastiska kvinnor. De hjälper henne att få tillbaka sin styrka."
+   },
+   "tagline": {
+    "fr": "C'est la vie. C'est l'amour. Il s'agit de nous.",
+    "en": "It's about life. It's about love. It's about us.",
+    "de": "Über das Leben. Über die Liebe. Über uns.",
+    "es": "Habla de la vida. Habla del amor. Habla de nosotros.",
+    "sv": "Den handlar om livet. Den handlar om kärlek. Den handlar om oss."
+   },
+   "genres": {
+    "fr": [
+     "Drame"
+    ],
+    "en": [
+     "Drama"
+    ],
+    "de": [
+     "Drama"
+    ],
+    "it": [
+     "Dramma"
+    ],
+    "es": [
+     "Drama"
+    ],
+    "sv": [
+     "Drama"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 2065,
+   "runtime": 154
   },
   {
    "id": 10110,
@@ -209,7 +571,58 @@
     "en": "/5wgOZN37iv1s8s4FInueNlj8SXK.png",
     "it": "/4Z3mt7ro8eDXXv7wTjVRRpCmPJl.png",
     "es": "/jdmFbIgwJ9uB7uUOq5IlYBMTrjp.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1941, la concession internationale de Shanghai semble ignorer tout de l'occupation japonaise du reste du pays. James Graham, jeune fils d'un industriel britannique, y vit une existence protégée et pleine d'aventures imaginaires. Mais l'attaque de Pearl Harbour marque la fin de cet état de grâce, et James se retrouve séparé de sa famille. Condamné au statut d'errant, il se retrouve finalement emprisonné dans un camp de prisonniers où il doit apprendre à survivre...",
+    "en": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirit, providing a beacon of hope for the others held captive with him.",
+    "de": "Eine Zeit voller Aufruhr, eine Welt im Krieg, ein Junge allein. Shanghai, 1941. Der 11-jährige Jim Graham führt mit seinen Eltern ein bequemes, abgeschirmtes Leben im britischen Viertel. Doch die Idylle ist trügerisch. Als die Japaner angreifen, wird Jim in der ausbrechenden Panik von seinen Eltern getrennt und muss nun versuchen, allein zu überleben. Auf seiner Odyssee trifft er auf die Amerikaner Basie  und Frank die ihn vor dem Verhungern retten. Doch bald geraten sie in die brutale Gewalt der Japaner und werden in ein Lager gesperrt. Hier lernt Jim, was Krieg ist und wie man ihn überlebt …",
+    "it": "L'undicenne Jim vive negli agi della colonia inglese di Shanghai. Il suo passatempo preferito è la costruzione di aerei giocattolo. Quando, nel 1941, i giapponesi invadono la città, nella confusione della fuga, Jim viene separato dai suoi genitori. Aggirandosi per le strade di Shanghai, il ragazzo finisce per essere arrestato dagli invasori e chiuso in un campo di concentramento con stranieri di ogni nazionalità. Qui Jim vive gli anni difficili del passaggio dall’infanzia all’adolescenza: suoi modelli sono lo scaltro Basie, ma anche il coraggioso dottor Rawlins. Con fantasia e furbizia, tra sofferenze e gioco, riesce a superare le prove di questa esperienza; riesce perfino a stabilire un’amicizia, più o meno a distanza, con un ragazzino giapponese.",
+    "es": "Cuando, en diciembre de 1941, el ejército japonés ocupa Shanghai, la privilegiada vida de James Graham, un niño inglés de clase alta, toca a su fin. Es separado de sus padres y confinado en un campo de concentración próximo a un aeropuerto militar chino. En un ambiente dominado por la tristeza y la miseria se verá obligado a madurar prematuramente, y eso condicionará su visión del mundo.",
+    "sv": "Elvaårige Jim lever ett behagligt, skyddat liv i Shanghais brittiska koloni. Han berörs inte av andra världskriget som rasar i Europa. Så överfaller japanerna Pearl Harbor, och hans liv ändras drastiskt."
+   },
+   "tagline": {
+    "fr": "Pour survivre dans un monde en guerre, il doit trouver une force supérieure à tous les événements qui l'entourent.",
+    "en": "To survive in a world at war, he must find a strength greater than all the events that surround him.",
+    "de": "Um in einer Welt, in der Krieg herrscht, zu überleben, muss er eine Kraft finden, die größer ist als alle Ereignisse, die ihn umgeben.",
+    "it": "Per sopravvivere in un mondo in guerra, deve trovare una forza più grande degli eventi che lo circondano",
+    "es": "Para sobrevivir en un mundo en guerra, El deberá encontrar una fuerza mayor que la de todos los acontecimientos que le rodean.",
+    "sv": "Elva år och ensam i en värld av krig."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Histoire",
+     "Guerre"
+    ],
+    "en": [
+     "Drama",
+     "History",
+     "War"
+    ],
+    "de": [
+     "Drama",
+     "Historie",
+     "Kriegsfilm"
+    ],
+    "it": [
+     "Dramma",
+     "Storia",
+     "Guerra"
+    ],
+    "es": [
+     "Drama",
+     "Historia",
+     "Bélica"
+    ],
+    "sv": [
+     "Drama",
+     "Historisk",
+     "Krig"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 2251,
+   "runtime": 153
   },
   {
    "id": 89,
@@ -232,7 +645,52 @@
     "it": "/rJr0XT6QGZphozXqCLmryfGq8R6.png",
     "es": "/zSlO3CnCdLq7vZUmRDrk9WRk9Z.png",
     "sv": "/lvQZxs5Srj8UXMKTT4vziJrQMHs.png"
-   }
+   },
+   "overview": {
+    "fr": "Indiana Jones se lance cette fois‐ci à la recherche du Saint Graal, accompagné de l'éminent et très maladroit Dr Henry Jones, son père. Malheureusement, ils ne sont pas les seuls lancés sur la trace du trésor, les nazis le convoitent également.",
+    "en": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+    "de": "Wir schreiben das Jahr 1938: Doktor Jones wird vom Mäzen eines Museums beauftragt, den Heiligen Gral und somit die wichtigste Reliquie der Christenheit zu finden. Jones' Einwand, es würde der falsche Jones gefragt werden, denn der eigentliche Experte sei sein Vater Henry, fördert nur die Erkenntnis zu Tage, dass Jones senior bereits die Spur aufgenommen hatte, mittlerweile aber verschwunden ist. Nun ist des Doktors Jagdinstinkt geweckt. Besorgt um das Wohlergehen des Vaters und mit dem Museumskurator Marcus Brody im Gepäck tritt Jones eine Reise in die alte Welt an, um das zustande zu bringen, was die mittelalterlichen Kreuzzüge nicht geschafft hatten: den Kelch zu finden, der beim letzten Abendmahl gereicht worden war und das Blut Jesu am Kreuz aufgefangen hatte. Erwartungsgemäß ist aber nicht nur der Doktor auf der Suche - auch die Schergen Hitlers wollen sich die Sagen umwobenen Kräfte des Kelches sichern, verheißt er doch das ewige Leben…",
+    "it": "Nel 1938, Indiana Jones, celebre archeologo, apprende che suo padre, Henry, anch'egli archeologo, è stato rapito perchè prossimo, con i suoi studi, ad individuare il luogo dove è custodito il Santo Graal, il calice in cui, secondo la leggenda, Gesù Cristo bevve nell'Ultima Cena.",
+    "es": "En 1938, dos años después de encontrar el Arca de la Alianza, Indiana Jones es convencido por un millonario para que lo ayude a encontrar el Santo Grial antes de que caiga en manos del ejército nazi. Sin embargo, el verdadero motivo para involucrarse es encontrar a su padre, el doctor Henry Jones, con quien ha mantenido una fría relación desde su juventud y que ha desaparecido mientras seguía la pista del tesoro bíblico.",
+    "sv": "Indys nazistfiender har återvänt och kidnappat hans far, professor Henry Jones för att han ska hjälpa dem i sökandet efter den heliga graalen. Indy följer spåren från USA till Venedig och vidare till öknarna i det heliga landet för att rädda honom och graalen."
+   },
+   "tagline": {
+    "fr": "Il est de retour. Et, cette fois‐ci, avec son père.",
+    "en": "Have the adventure of your life keeping up with the Joneses.",
+    "de": "Der Mann mit dem Hut ist zurück. Und dieses Mal bringt er seinen Vater mit.",
+    "it": "Questa volta si porta papà.",
+    "es": "El hombre del sombrero está de vuelta, y esta vez con su padre.",
+    "sv": "Mannen med hatten är tillbaka. Denna gång har han med sig sin far."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 11550,
+   "runtime": 127
   },
   {
    "id": 11352,
@@ -252,7 +710,57 @@
     "en": "/b0a3OFDGfuPFrkSwZm8nwSnksZJ.png",
     "it": "/l6gj72rnoKwhxSRyoLEIAk9uv4b.png",
     "es": "/e09saJp5anHkiSOp7v9bHN2U1ez.png"
-   }
+   },
+   "overview": {
+    "fr": "Pete Sandich est l’as des “Pompiers volants” du Montana. Casse-cou invétéré malgré son amour pour son amie Dorida et son amitié pour son complice de toujours, Al, l’heure de l’ultime vol arrive… Cinq mois plus tard, Pete se réveille dans une forêt carbonisée. Une femme lui sourit et lui ordonne de regagner la Terre et d’insuffler sa “Divine inspiration” à ceux qu’il aime.",
+    "en": "The spirit of a recently deceased expert pilot mentors a newer pilot while watching him fall in love with the girlfriend that he left behind.",
+    "de": "Pete Sandich ist ein legendärer Pilot mit einer Leidenschaft für waghalsige Löscheinsätze aus der Luft. Dorinda, der Frau seines Herzens, und seinem besten Freund Al ist aber längst schmerzlich bewusst, dass auch Legenden nicht ewig auf Risiko fliegen können. Als Sandich bei einem Einsatz sein Leben gibt, um Al zu retten, steht das Fliegerass plötzlich vor seiner größten Herausforderung: Pete muss Dorinda helfen, ins Leben zurückzukehren.",
+    "it": "Un pilota spegnitore di incendi, insomma un pompiere volante, ha un incidente e muore. Prima però salva un suo amico. In cielo decidono di farlo tornare sulla terra per aiutare un giovane pilota che vuole conquistare la donna del nostro eroe.",
+    "es": "Pete Sandich, un temerario piloto que se dedica a la extinción de incendios, muere en acto de servicio tras salvarle la vida a un amigo. En el cielo, se encuentra con un ángel femenino que lo conmina a regresar a la Tierra para proteger la vida y convertir en un experto piloto al novato Ted Baker. El único problema es que Ted está enamorado de la antigua novia de Pete.",
+    "sv": "Steven Spielberg har regisserat det här varma komediäventyret om en våghalsig pilot och hans närmaste omgivning. Peter Sandrich (Richard Dreyfuss) tycker om att leva riskfyllt men hans kvinna Dorinda (Holly Hunter) och hans bäste vän Al (John Goodman) vet att han inte kan fortsätta leva på samma sätt.  Efter att ha offrat sig för att rädda Al, står han nu inför sin största utmaning: att hjälpa Dorinda att gå vidare med sitt liv. Storslaget filmat med fantastisk koreografi i luften. I övriga roller ser vi bland annat Brad Johnson och Audrey Hepburn."
+   },
+   "tagline": {
+    "fr": "Pour toujours",
+    "en": "They couldn't hear him. They couldn't see him. But he was there when they needed him... Even after he was gone.",
+    "de": "Sie konnten ihn nicht hören. Sie konnten ihn nicht sehen. Aber er war immer da, wenn sie ihn brauchten... Sogar nach seinem Tod.",
+    "it": "Non potevano sentirlo. Non potevano vederlo. Ma lui era lì quando ne avevano bisogno... Anche dopo che se n'è andato.",
+    "es": "No podían oírlo. No pudieron verlo. Pero él estuvo allí cuando lo necesitaron... Incluso después de que él se fuese."
+   },
+   "genres": {
+    "fr": [
+     "Romance",
+     "Fantastique",
+     "Drame"
+    ],
+    "en": [
+     "Romance",
+     "Fantasy",
+     "Drama"
+    ],
+    "de": [
+     "Liebesfilm",
+     "Fantasy",
+     "Drama"
+    ],
+    "it": [
+     "Romance",
+     "Fantasy",
+     "Dramma"
+    ],
+    "es": [
+     "Romance",
+     "Fantasía",
+     "Drama"
+    ],
+    "sv": [
+     "Romantik",
+     "Fantasy",
+     "Drama"
+    ]
+   },
+   "rating": 6.2,
+   "votes": 697,
+   "runtime": 122
   },
   {
    "id": 879,
@@ -273,7 +781,63 @@
     "en": "/hDOd76RiUwHuGe5GDTrYImhDYg6.png",
     "it": "/8DzHy40KFoVW8drml9yZdo2doS6.png",
     "es": "/vDVwX9GknQM1aXKQLZzbiyLTJiZ.png"
-   }
+   },
+   "overview": {
+    "fr": "Le temps a passé et Peter Pan a vieilli et oublié le Pays imaginaire. Il a épousé Moira, la petite-fille de Wendy, avec qui il a eu deux enfants, et est devenu Peter Banning, un avocat d'affaires obsédé par son travail. Mais le capitaine Crochet, qu'il croyait mort, fait enlever ses enfants...",
+    "en": "The boy who wasn't supposed to grow up—Peter Pan—does just that, becoming a soulless corporate lawyer whose workaholism could cost him his wife and kids. During his trip to see Granny Wendy in London, the vengeful Capt. Hook kidnaps Peter's kids and forces Peter to return to Neverland.",
+    "de": "Peter Pan hat Nimmerland den Rücken gekehrt. Schon vor Jahren ist der Junge, der niemals erwachsen werden wollte, in die „normale“ Welt zurückgekehrt. Peter Banning ist mittlerweile ein seriöser und leicht reizbarer Anwalt. An seine Kindheit als verwegener Held kann er sich kein bisschen mehr erinnern. Sein alter Erzfeind Captain Hook jedoch hat nichts vergessen. Noch immer sinnt er auf Rache, seit er im Kampf gegen Peter eine Hand an ein gefräßiges Krokodil verloren hat. Hook entführt die beiden Kinder von Peter in die verborgene Welt. Fee Glöckchen gelingt es, Peter zurück nach Nimmerland zu führen. Zunächst ist er völlig überfordert mit der Situation. Doch mit Hilfe der „verlorenen Jungs“ gewinnt er schließlich seine kindliche Fantasie zurück. Gemeinsam stellen sie sich dem entscheidenden Kampf gegen den schurkischen Piratenkapitän.",
+    "it": "Peter Pan è cresciuto è sposato con la nipote di Wendy e ha dimenticato tutto del suo passato. Ma quando Capitan Uncino rapisce i suoi bambini e li porta sull'Isola che non c'è, Peter non ha altra scelta che seguirli e, grazie all'aiuto di Campanellino, cercare di riconquistare la propria memoria e i propri figli.",
+    "es": "Peter Pan es un prestigioso abogado y tiene una encantadora familia, pero ha perdido el contacto con algo maravilloso: su infancia. Sin embargo, cuando sus hijos son secuestrados por su antiguo enemigo, el Capitán Garfio, y llevados al País de Nunca Jamás, también él tendrá que viajar a ese reino encantado, donde, con la ayuda de Campanilla, podrá recuperar no sólo a sus hijos, sino también al niño que un día fue.",
+    "sv": "Den framgångsrike och skrupellöse advokaten Peter Banning har glömt något viktigt på vägen genom karriären: att han en gång var Peter Pan och kunde konsten att flyga. När hans gamle fiende kapten Krok för bort hans barn måste han återigen ta upp striden med den gamle piraten..."
+   },
+   "tagline": {
+    "fr": "Et si Peter Pan avait grandi ?",
+    "en": "To live would be an awfully big adventure.",
+    "de": "Was wäre, wenn Peter Pan erwachsen würde?",
+    "it": "E se Peter Pan fosse cresciuto?",
+    "es": "¿Y si Peter Pan creció?"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 5967,
+   "runtime": 136
   },
   {
    "id": 329,
@@ -293,7 +857,51 @@
     "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
     "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
     "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
-   }
+   },
+   "overview": {
+    "fr": "Généticien de génie, le professeur John Hammond a recréé de nombreuses espèces de dinosaures à partir d'une goutte de sang prélevée sur un moustique fossilisé. Démiurge naïf et généreux, dépassé par ses propres ambitions, il projette d’ouvrir un gigantesque et terrifiant parc d'attractions. Mais la pureté de son rêve se heurte à la cupidité des hommes et, plus grave, à la violence latente, indomptable de la Nature.",
+    "en": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "de": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
+    "it": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano liberi dando la caccia agli umani...",
+    "es": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+    "sv": "En rik entreprenör skapar i hemlighet en nöjespark med levande dinosaurier från förhistoriskt DNA. Före öppningsdagen bjuder han ner ett team av experter och sina två ivriga barnbarn för att uppleva parken och bidra till att lugna oroliga investerare. Men det visar sig att parken är allt annat än roande."
+   },
+   "tagline": {
+    "fr": "Il a fallu 65 millions d'années pour que cette aventure devienne possible.",
+    "en": "An adventure 65 million years in the making.",
+    "de": "Ein Abenteuer, das 65 Millionen Jahre lang geplant war.",
+    "it": "Un'avventura iniziata 65 milioni di anni fa.",
+    "es": "Una aventura de 65 millones de años."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 18632,
+   "runtime": 127
   },
   {
    "id": 424,
@@ -314,7 +922,58 @@
     "en": "/krEC3MIxUbiZy2uM0TemRio2Z2E.png",
     "de": "/3dIeH9CDgAE8qfVeWu1NBr73Sv1.png",
     "es": "/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
-   }
+   },
+   "overview": {
+    "fr": "Évocation des années de guerre d’Oskar Schindler, fils d’industriel d’origine autrichienne rentré à Cracovie en 1939 avec les troupes allemandes. Il va, tout au long de la guerre, protéger des juifs en les faisant travailler dans sa fabrique et en 1944 sauver 800 hommes et 300 femmes du camp d’extermination d’Auschwitz‐Birkenau.",
+    "en": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "de": "Von einer wahren Begebenheit inspiriert, erzählt Schindlers Liste die Geschichte des Industriellen Oskar Schindler, der während des Zweiten Weltkriegs versucht, sich in Krakau eine Existenz aufzubauen. Aus finanziellen Gründen beschäftigt er nur Juden und leiht sich Geld von ihnen um eine Emaillefabrik zu gründen, die ihm letztlich großen Reichtum beschert. Als die Brutalität des Holocaust Krakau erreicht, riskiert er nicht nur sein Vermögen, sondern auch sein Leben um seine Arbeiter vor der Deportation zu bewahren.",
+    "it": "Tratto dal libro di Thomas Keneally è la vera storia di Oscar Schindler, industriale tedesco, che nel 1938 capisce che è bene legarsi ai comandanti militari. Li frequenta nei locali notturni, offre bottiglie preziose. Quando gli ebrei sono relegati nel ghetto di Cracovia Schindler riesce a farsene assegnare alcune centinaia come operai in una fabbrica di pentole. All'inizio sembra sfruttarli, in realtà li salva. Di fronte alla persecuzione tremenda, il tedesco trasforma quella sua prima iniziativa in una vera missione, fino a comprare letteralmente le vite di quasi milleduecento ebrei (la famosa lista) che sicuramente morirebbero nel campo di Auschwitz.",
+    "es": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+    "sv": "Under andra världskriget drev den tyske affärsmannen Oskar Schindler en fabrik i det ockuperade Polen med judiska arbetare från Krakows getto. Schindler var medlem av nazistpartiet, men när han såg hur judarna behandlades i koncentrationslägren tog han ställning och använde hela sin förmögenhet för att köpa tillbaka judiska arbetare och därmed rädda dem undan döden i Auschwitz."
+   },
+   "tagline": {
+    "fr": "Celui qui sauve une vie, sauve le monde.",
+    "en": "Whoever saves one life, saves the world entire.",
+    "de": "Wer ein Leben rettet, rettet die ganze Welt.",
+    "it": "Chiunque salva una vita salva il mondo intero.",
+    "es": "Quien salva una vida, salva al mundo entero.",
+    "sv": "Den som räddar ett liv, räddar hela världen."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Histoire",
+     "Guerre"
+    ],
+    "en": [
+     "Drama",
+     "History",
+     "War"
+    ],
+    "de": [
+     "Drama",
+     "Historie",
+     "Kriegsfilm"
+    ],
+    "it": [
+     "Dramma",
+     "Storia",
+     "Guerra"
+    ],
+    "es": [
+     "Drama",
+     "Historia",
+     "Bélica"
+    ],
+    "sv": [
+     "Drama",
+     "Historisk",
+     "Krig"
+    ]
+   },
+   "rating": 8.6,
+   "votes": 18202,
+   "runtime": 195
   },
   {
    "id": 330,
@@ -336,7 +995,57 @@
     "de": "/7cEZvIZkYAZdQJzza5BKamQkCZy.png",
     "it": "/knelNX3dFI5dLh1IbLkck1gC27a.png",
     "es": "/5QMKyZYsiph25a1iJybP7ANgsGX.png"
-   }
+   },
+   "overview": {
+    "fr": "Quatre ans après le terrible fiasco de son Jurassic Park, le milliardaire John Hammond rappelle le Dr Ian Malcolm pour l'informer de son nouveau projet. Sur une île déserte, voisine du parc, vivent en liberté des centaines de dinosaures de toutes tailles et de toutes espèces. Ce sont des descendants des animaux clonés en laboratoire. D'abord réticent, Ian se décide à rejoindre le docteur quand il apprend que sa fiancée fait partie de l'expédition scientifique. Il ignore qu'une autre expédition qui n'a pas les mêmes buts est également en route.",
+    "en": "Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.",
+    "de": "Vier Jahre nach dem Desaster im Jurassic Park: Auf einer nahegelegenen Insel haben die Dinosaurier unbemerkt überlebt und können sich frei bewegen. Doch jetzt droht eine noch viel größere Gefahr - der Plan, die Dinosaurier einzufangen und auf das Festland zu bringen. John Hammond, der die Kontrolle über seine Gesellschaft \"InGen\" verloren hat, sieht die Chance, seine Fehler aus der Vergangenheit wiedergutzumachen und sendet eine Expedition, geleitet von Ian Malcolm, zur Insel, bevor der beauftragte Jagd-Trupp dort ankommt. Die zwei Gruppen stehen sich in extremer Gefahr gegenüber und müssen sich in einem Wettlauf gegen die Zeit zusammenschließen, um zu überleben...",
+    "it": "John Hammond rivela a Ian Malcom l'esistenza, in Costa Rica, di un'isola, chiamata \"sito B\", in cui i dinosauri creati in laboratorio sono stati allevati in totale libertà. Il vecchio miliardario ha perso il controllo della sua società, gestita adesso dal nipote Peter, affarista incompetente e privo di scrupoli. Chiede perciò a Malcom di unirsi a un corpo di spedizione scientifico sull'isola, per documentare la vita dei dinosauri e fare in modo che l'avidità del nipote non provochi un'ulteriore strage. Ma sull'isola, insieme agli scienziati, arriva anche un gruppo di cacciatori guidati da Peter...",
+    "es": "Han pasado cuatro años desde la devastación del Parque Jurásico, y el Dr Malcom está a punto de descubrir que algo ha sobrevivido. En una isla de Costa Rica perteneciente a la Costa de las Cinco Muertes, los dinosaurios viven y se reproducen en libertad. Se trata de la llamada zona B: el lugar que servía como laboratorio genético. Después de que John Hammond llevara a la empresa a la bancarrota, su sobrino Peter ha tomado las riendas y está dispuesto a levantar la compañía explotando la peligrosa zona.",
+    "sv": "Fyra år efter katastrofen reser forskare till ön där dinosaurierna blev uppfödda innan de skeppades till Jurassic Park. Efter katastrofen blev de lämnade alldeles ensamma och forskarna vill nu se vad som hänt när de fick utvecklas naturligt utan inblandning från människan. Det är ingen syn de ville få se."
+   },
+   "tagline": {
+    "fr": "Quelque chose a survécu.",
+    "en": "Something has survived.",
+    "de": "Etwas hat überlebt",
+    "it": "Qualcosa è sopravvissuto.",
+    "es": "Algo ha sobrevivido."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 9623,
+   "runtime": 130
   },
   {
    "id": 11831,
@@ -356,7 +1065,57 @@
     "en": "/qUVrON8uD7mPqkNxq07mxVmb5ki.png",
     "de": "/mDC76B7RVIgrG0NaPpDaxMzm5wn.png",
     "it": "/nqq08n9kF0oRy7CvWCsyflmH2xq.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1839, \"La Amistad\", navire espagnol transportant des esclaves africains, est pris dans une violente tempête au large de Cuba. Une cinquantaine de prisonniers réussissent à se libérer et se retournent contre leurs bourreaux, qu'ils passent par les armes. Cinqué, leur leader, oblige le capitaine à les ramener en Afrique, mais celui-ci, profitant de son ignorance, met le cap sur l’Amérique. Emprisonnés, les mutins vont être défendus par deux fervents abolitionnistes, Theodore Joadson et Lewis Tappan, qui engagent un jeune avocat: Roger Baldwin.",
+    "en": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut, and their release becomes the subject of heated debate. Freed slave Theodore Joadson wants Cinque and the others exonerated and recruits property lawyer Roger Baldwin to help his case. Eventually, John Quincy Adams also becomes an ally.",
+    "de": "Sklavenhändler entführen aus der britischen Kolonie Sierra Leone eine Gruppe von Afrikanern. Die Sklaven wehren sich, indem sie das Sklavenschiff entführen. Sie werden jedoch auf dem Ozean von einem amerikanischen Schiff aufgebracht und nach Amerika transportiert. Dort angekommen, werden die Afrikaner verhaftet und vor Gericht gestellt. Dabei beanspruchen unterschiedliche Parteien das Schiff und die Sklaven als ihr Eigentum. Der Prozess entwickelt sich dadurch zu einem absurden Gezerre um Macht und Besitz, bei dem es nicht mehr um das Schicksal der Menschen geht, bis ein Rechtsanwalt alles daran setzt, die Rechte der Afrikaner zu wahren. Der Film wurde auf der Grundlage einer wahren Begebenheit gedreht.",
+    "it": "Ricostruzione di uno di quegli episodi storici di cui i libri non parlano: nel 1839, 53 schiavi neri del vascello spagnolo \"Amistad\", in viaggio verso Cuba, riescono a liberarsi e fanno rotta verso l'Africa, ma sono bloccati da una nave americana e mandati sotto processo per pirateria e l'assassinio dell'equipaggio. Parte come un film d'avventure e diventa un dramma giudiziario: si scopre che i rivoltosi non sono nati schiavi e quindi, secondo la Costituzione degli Stati Uniti, avevano il diritto di lottare per la loro libertà (abolita nel Regno Unito nel 1772, la schiavitù esisteva ancora nel Nordamerica).",
+    "es": "Una noche del verano de 1839, cincuenta y tres esclavos negros que viajaban a bordo del navío “La Amistad” se amotinaron y tomaron el control del barco frente a las costas de Cuba. Fracasado su intento de regresar a África, fueron detenidos por tropas americanas y se encontraron en un país extraño y a merced de un sistema judicial que les era ajeno.",
+    "sv": "En grupp afrikanska slavar kapar skeppet Amistad, i ett försök att återvända till sitt hemland. När skeppet stoppas och de förs till USA dömda för mord väcker deras öde en hel nations intresse."
+   },
+   "tagline": {
+    "fr": "Les hommes naissent et demeurent libres et égaux en droits. Le combat continue.",
+    "en": "Freedom is not given. It is our right at birth. But there are moments when it must be taken.",
+    "de": "Die Freiheit wird uns nicht geschenkt. Sie ist unser Recht von Geburt an. Aber es gibt Momente, in denen man sie sich nehmen muss.",
+    "it": "La libertà non è un dono è un nostro diritto di nascita ma ci sono momenti nella storia in cui isogna appropriarsene",
+    "es": "No se da la libertad. Es nuestro derecho al nacer. Pero hay algunos momentos en los que debe tomarse."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Histoire",
+     "Mystère"
+    ],
+    "en": [
+     "Drama",
+     "History",
+     "Mystery"
+    ],
+    "de": [
+     "Drama",
+     "Historie",
+     "Mystery"
+    ],
+    "it": [
+     "Dramma",
+     "Storia",
+     "Mistero"
+    ],
+    "es": [
+     "Drama",
+     "Historia",
+     "Misterio"
+    ],
+    "sv": [
+     "Drama",
+     "Historisk",
+     "Mystik"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 1490,
+   "runtime": 155
   },
   {
    "id": 857,
@@ -379,7 +1138,57 @@
     "it": "/vmCRS2dabKSMjb45eGKv1miokIU.png",
     "es": "/ykrOjR8kwwQ03QPfHSHkfetw8vu.png",
     "sv": "/scjVTuPQttcyFbNLpaNDpoVsjDb.png"
-   }
+   },
+   "overview": {
+    "fr": "Vue à travers le regard d’une escouade de soldats américains, l’histoire débute le jour du Débarquement au cours de la 2ème Guerre Mondiale, le long des plages de Normandie. Le capitaine John Miller a pour mission de retrouver le soldat James Ryan, dont les trois frères sont morts au combat et il s’expose ainsi à de nombreux risques. Confrontés à une situation périlleuse, les hommes discutent les ordres. Pourquoi huit hommes risqueraient-ils leur vie pour un seul homme ? Rattrapés par la brutalité de la guerre, chacun cherche sa propre réponse ainsi que la force de vaincre un futur incertain avec honneur, décence et courage.",
+    "en": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+    "de": "Aus der Sicht einer Einheit amerikanischer Soldaten beginnt der Film am Tag der historischen D-Day-Invasion des 2. Weltkrieges mit der Landung am Strand. Von hier aus startet die Einheit zu einem gefährlichen Sonderauftrag: Captian John Miller muss mit seinen Männern hinter die feindlichen Linien dringen, um den Gefreiten James Ryan zu finden, dessen drei Brüder auf dem Schlachtfeld gestorben sind. Angesichts dieser schier unlösbaren Aufgabe beginnen die Männer an ihren Befehlen zu zweifeln. Warum acht Leben riskieren, um eines zu retten ? Umgeben von der brutalen Realität des Krieges sucht jeder nach seiner eigenen Antwort. Und sie suchen nach der Stärke, über die unsichere Zukunft mit Ehre, Anstand und Mut zu triumphieren.",
+    "it": "Il 6 giugno 1944 il cap. John Miller sbarca con i suoi uomini a Omaha Beach. È un massacro sotto il micidiale fuoco tedesco. Il generale George Marshall (Presnell), comandante supremo dell'armata angloamericana, apprende che la famiglia Ryan dell'Iowa ha già perduto tre figli e che un quarto fratello, James Francis Ryan, è stato paracadutato in Normandia oltre le linee nemiche. Dà ordine che sia ritrovato e rimandato a casa. L'incarico è affidato al cap. Miller che, con sei uomini e un interprete, parte alla sua ricerca.",
+    "es": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+    "sv": "Historien, som ses genom ögonen på en trupp amerikanska soldater, börjar med andra världskrigets historiska invasion, D-dagen, för att sedan förflytta sig bortom stranden när männen ger sig in på ett farligt specialuppdrag. Kapten John Miller måste leda sina män bakom fiendens linjer för att hitta menige James Ryan, vars tre bröder dödats i strid. Med oddsen emot sig ifrågasätter männen sina order. Varför ska åtta män riskera sina liv för att rädda en man? Omgivna av krigets brutala verklighet söker var och en sitt eget svar - och styrkan att vinna över en osäker framtid med heder, anständighet och mod."
+   },
+   "tagline": {
+    "fr": "La mission est un homme.",
+    "en": "The mission is a man.",
+    "de": "Die größte Gefahr für acht Männer... EINEN einzelnen retten...",
+    "it": "In missione per un uomo.",
+    "es": "La misión es un hombre."
+   },
+   "genres": {
+    "fr": [
+     "Guerre",
+     "Drame",
+     "Histoire"
+    ],
+    "en": [
+     "War",
+     "Drama",
+     "History"
+    ],
+    "de": [
+     "Kriegsfilm",
+     "Drama",
+     "Historie"
+    ],
+    "it": [
+     "Guerra",
+     "Dramma",
+     "Storia"
+    ],
+    "es": [
+     "Bélica",
+     "Drama",
+     "Historia"
+    ],
+    "sv": [
+     "Krig",
+     "Drama",
+     "Historisk"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 18098,
+   "runtime": 170
   },
   {
    "id": 644,
@@ -402,7 +1211,57 @@
     "it": "/eA9jC4YEPRrOkKw5WRkfwnBzPXa.png",
     "es": "/kTqe7OKZeuZVAOW69M1CjySw041.png",
     "sv": "/gEg7P4Uzh8GBgtc4pjHvUmGhN9a.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans un XXIe siècle où la fonte des glaces a submergé la majorité des terres habitables et provoqué famines et exodes, les robots sont devenus une composante essentielle de la vie quotidienne, et assurent désormais la plupart des tâches domestiques. Pourtant, le professeur Hobby veut aller encore plus loin en créant le premier androïde sensible : un enfant capable de développer un vaste répertoire d'émotions et de souvenirs. Peu après cette annonce, David, un robot de onze ans, fait son entrée chez Henry et Monica Swinton, un couple dont le jeune fils a été cryogénisé en attendant la découverte d'un remède pour guérir sa grave maladie. Bientôt abandonné par sa mère adoptive, David entame un périlleux voyage à la recherche de son identité et de sa part secrète d'humanité.",
+    "en": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+    "de": "Der elfjährige David ist der erste Androide mit menschlichen Gefühlen. Um seine Funktionalität zu testen, lebt er als Adoptivkind bei der Familie Swinton. Als diese nicht mehr mit ihm fertig werden, setzen sie David alleine aus. Besessen von dem Wunsch, ein Mensch zu sein, begibt er sich auf eine Odyssee um das Geheimnis seiner Existenz zu ergründen.",
+    "it": "Alla metà del ventunesimo secolo l'uomo è riuscito a sviluppare un nuovo tipo di computer in grado di essere consapevole della propria esistenza. Qusti computer vengono anche utilizzati per creare particolari robot e androidi. Un giovane ragazzo (Haley Joel Osment) sta per intraprendere uno straordinario viaggio per scoprire se potrà essere qualcosa più che una macchina.",
+    "es": "En un futuro donde los avances científicos hacen posible la existencia, los humanos confían todos los aspectos de sus vidas a sofisticados robots denominados Mecas. La emoción es la última frontera en la evolución de las máquinas. Pero cuando un avanzado niño robótico llamado David es programado para amar, los humanos no están preparados para las consecuencias.",
+    "sv": "Planeten jorden i en nära framtid. Naturens resurser är alltmer begränsade. Tekniken gör rasande framsteg. Staten övervakar människornas privatliv. Det finns redan robotar, vilka utför vardagliga sysslor som hushållsarbete och trädgårdsskötsel. En sak förmår dessa robotar emellertid inte, nämligen att visa känslor och detta är något som forskarna försöker lösa. Henry Swinton och hans hustru Monica har en son, som sedan en tid är livshotande sjuk. Henry är anställd på Cybertronics Manufacturing, där man just - på försök - lyckats framställa en robotpojke, som döpts till David. I väntan på att den egna sonen skall tillfriskna, placeras David i makarna Swintons hem..."
+   },
+   "tagline": {
+    "fr": "Voyage vers un monde où les robots rêvent et désirent.",
+    "en": "David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not.",
+    "de": "Eine Reise in eine Welt, in der Roboter Träume und Sehnsüchte haben.",
+    "es": "Su amor es real. Pero él no lo es.",
+    "sv": "Han är 11 år, hans kärlek är verklig… men han är det inte."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Science-Fiction",
+     "Aventure"
+    ],
+    "en": [
+     "Drama",
+     "Science Fiction",
+     "Adventure"
+    ],
+    "de": [
+     "Drama",
+     "Science Fiction",
+     "Abenteuer"
+    ],
+    "it": [
+     "Dramma",
+     "Fantascienza",
+     "Avventura"
+    ],
+    "es": [
+     "Drama",
+     "Ciencia ficción",
+     "Aventura"
+    ],
+    "sv": [
+     "Drama",
+     "Science Fiction",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 6999,
+   "runtime": 146
   },
   {
    "id": 180,
@@ -423,7 +1282,57 @@
     "en": "/1nCg8xpWmsPipB93a4ht8ZUYemh.png",
     "it": "/5w5ACHkwqebpk1g9xrs8F0Lc6CL.png",
     "es": "/pVXdpAHVg1kTS4nuUxHtkXEDyzx.png"
-   }
+   },
+   "overview": {
+    "fr": "Washington, 2054. Plus aucun meurtre ne se produit grâce au « pré-crime », l’unité policière dirigée par John Anderton. Cette unité dispose d'un système lui permettant de visualiser les meurtres avant qu'ils ne se produisent. Mais quand John découvre qu'il est lui-même accusé d'un meurtre à venir, il n'a que 36 heures pour comprendre le véritable fonctionnement de ce système.",
+    "en": "John Anderton is a top 'Precrime' cop in the late-21st century, when technology can predict crimes before they're committed. But Anderton becomes the quarry when another investigator targets him for a murder charge.",
+    "de": "Im Washington, D.C., des Jahres 2054 gibt es keine Morde mehr. Die Zukunft ist bekannt und Mörder werden gefasst, bevor sie ihr Verbrechen begehen können. Dafür sorgt Pre-Crime, eine Elite-Einheit der Polizei, die die Visionen der Pre-Cogs, drei Wesen mit hellseherischen Fähigkeiten, auswertet und zur Tat schreitet. Das System ist perfekt. Und John Anderton ist sein perfekter Chef: Seit einem tragischen Verlust sechs Jahre zuvor widmet er sein Leben mit vollkommener Leidenschaft der Verbrecherjagd. Es gibt keinen Grund für ihn, am System zu zweifeln bis er in einer Vision selbst als Mörder zu sehen ist. 36 Stunden bleiben ihm bis zu dem Verbrechen. 36 Stunden, um zu beweisen, dass er unschuldig ist und das perfekte System fehlbar. Die Flucht kann beginnen.",
+    "it": "Siamo nel 2054, a Washington, dove è stato messo a punto un sistema capace di prevedere i crimini, dunque prevenirli. Niente di particolarmente tecnologico: semplicemente tre umani dotati di capacità paranormali. Si chiamano pre-cog, da precognitives. Vivono in una piscina e hanno visioni che poi trasmettono a un secondo livello, a un'unità di pronto intervento, il cui eroe è John Anderton. Ma ecco che i veggenti a un certo punto indicano proprio John come futuro omicida di un tale che non conosce. Dunque il detective comincia la caccia a se stesso, naturalmente c'è la possibilità di qualche trucco, qualcuno per esempio potrebbe fabbricare non false prove, ma false visioni. Da qui una corsa contro il tempo, che è breve",
+    "es": "Washington DC, año 2054. La policía utiliza tecnología psíquica para arrestar y enjuiciar a los asesinos antes de que cometan un crimen. El futuro se puede predecir y los culpables son detenidos por la unidad de élite Precrime antes de que puedan delinquir. Las pruebas se basan en los \"precogs\", tres seres psíquicos cuyas visiones sobre los asesinatos nunca han fallado.",
+    "sv": "Minority Report utspelar sig i ett futuristiskt samhälle där brottslingar blir arresterade och dömda innan de begått ett brott. Under sex år har Washington D.C. varit befriat från mord tack vare extrem teknologi som identifierar mördarna. När chefen för den brottsförebyggande enheten själv utpekas i ett framtida mord har han bara 36 timmar på sig att upptäcka vem som gillrat fällan eller själv falla offer för det \"perfekta\" system han varit med om att skapat."
+   },
+   "tagline": {
+    "fr": "Le futur vous rattrape !",
+    "en": "Everybody runs.",
+    "de": "Was würden Sie tun, wenn Sie wegen eines Mords beschuldigt würden, den sie noch nicht begangen haben?",
+    "it": "Il sistema è perfetto finché non ti insegue.",
+    "es": "El sistema es perfecto hasta que viene a por ti."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Science Fiction",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Science Fiction",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Fantascienza",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 10144,
+   "runtime": 146
   },
   {
    "id": 640,
@@ -444,7 +1353,52 @@
     "en": "/7Cbekp4ijme78TICVYBsR211GL3.png",
     "it": "/hQT7gjRGVnr9AiOhCGxpuvzLlZo.png",
     "es": "/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans les années soixante, le jeune Frank Abagnale Jr. est passé maître dans l’art de l’escroquerie, allant jusqu’à détourner 2,5 millions de dollars et à figurer sur les listes du FBI comme l’un des dix individus les plus recherchés des États‐Unis. Véritable caméléon, Frank revêt des identités aussi diverses que celles de pilote de ligne, de médecin, de professeur d’université ou encore d’assistant du procureur. Carl Hanratty, agent du FBI à l’apparence stricte, fait de la traque de Frank Abagnale Jr. sa mission prioritaire, mais ce dernier reste pendant longtemps insaisissable…",
+    "en": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+    "de": "Frank W. Abagnale war nicht nur als Arzt und Rechtsanwalt erfolgreich, sondern auch als Copilot einer großen Fluglinie. Das alles erreichte er vor seinem 21. Geburtstag. Er ist ein Meister der Täuschung, aber auch ein brillanter Fälscher. Durch geschickte Scheckbetrügereien ist er zu einem Vermögen von mehreren Millionen Dollar gekommen. FBI-Agent Carl Hanratty hat ihn schon länger im Visier und macht sich zur Aufgabe, Frank zu fassen und vor Gericht zu bringen. Frank ist ihm jedoch immer einen Schritt voraus und macht sich einen Spaß daraus, seinem Verfolger kleine Köder vorzuwerfen, damit die Jagd weiter geht…",
+    "it": "Frank W. Abagnale Jr. è il tipico ragazzo americano di buona famiglia degli anni '60. Ma l'improvviso dissesto finanziario del padre e il divorzio dei genitori lo costringono ad andarsene di casa. Ma come sbarcare il lunario? Ad esempio ottenendo una divisa da pilota Pan Am, falsificando assegni della compagnia aerea e comprandosi una macchina marcatrice per alterare i numeri degli stessi. In poco tempo Frank, che cambia identità più velocemente dei propri abiti, diventa una delle priorità dell'Fbi ed in particolare dell'agente Hanratty, esperto in frodi bancarie e come il suo antagonista solo al mondo.",
+    "es": "Frank Abagnale Jr. trabajó como médico, abogado y copiloto de una de las grandes líneas aéreas, todo ello antes de cumplir los dieciocho años. También fue un genial falsificador y sus habilidades le otorgaron una plaza en la historia. A la edad de 17 años, Frank Abagnale Jr. se convirtió en el ladrón de bancos de más éxito en la historia de Estados Unidos. El agente del FBI Carl Hanratty dedicó la mayor parte de su tiempo a perseguir a Frank para llevarle ante la justicia, pero Frank siempre estaba un paso por delante, retándole a continuar la caza.",
+    "sv": "En katt och råtta lek som handlar om Frank Abagnale, den yngste som någonsin stått på FBI:s Most Wanted list. Abagnale hade hunnit arbeta både som läkare såväl som advokat och pilot innan han ens fyllt 18 år. Vid 17 års ålder var han den mest framgångsrika bankrånaren i USAs historia. FBI-agenten Carl Hanratty har gjort det till sin främsta uppgift att finna den unge brottslingen och ställa honom inför rätta. Abagnale är dock alltid ett steg före."
+   },
+   "tagline": {
+    "fr": "L’histoire vraie d’un véritable imposteur.",
+    "en": "The true story of a real fake.",
+    "de": "Die wahre Story einer genialen Täuschung.",
+    "it": "Per me ci siamo solo tu e io qui, Carl. Perciò... prova a prendermi!",
+    "es": "La verdadera historia de un auténtico farsante.",
+    "sv": "En sann historia om en riktig bluff."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Crime"
+    ],
+    "en": [
+     "Drama",
+     "Crime"
+    ],
+    "de": [
+     "Drama",
+     "Krimi"
+    ],
+    "it": [
+     "Dramma",
+     "Crime"
+    ],
+    "es": [
+     "Drama",
+     "Crimen"
+    ],
+    "sv": [
+     "Drama",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 17898,
+   "runtime": 141
   },
   {
    "id": 594,
@@ -465,7 +1419,51 @@
     "en": "/q3RB5V8jW1z0kN9qDK7WpKQjhyh.png",
     "de": "/i5VRP5aTLlz9ar85uWaSZLEzdry.png",
     "es": "/31LPPI1ZPB6DvC4amKqx3q89sxb.png"
-   }
+   },
+   "overview": {
+    "fr": "Viktor Navorski est l’un de ces milliers de touristes, venus des quatre coins du monde, qui débarquent chaque jour à l’Aéroport JFK de New York. Mais, à quelques heures de son arrivée, voilà qu’un coup d’État bouleverse sa petite république d’Europe Centrale, mettant celle‐ci au ban des nations et faisant de Viktor… un apatride. Les portes de l’Amérique se ferment devant lui, alors même que se bouclent les frontières de son pays: Viktor est bel et bien coincé…",
+    "en": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+    "de": "Nach seiner Ankunft am New Yorker John-F.-Kennedy-Flughafen gerät der Osteuropäer Viktor Navorski in die Mühlen der Bürokratie. Durch einen Staatsstreich in seinem Land plötzlich heimatlos geworden, darf Navorski nicht in die USA einreisen. Gefangen in der hektischen Welt des Flughafens versucht Viktor, sich ein Zuhause zu schaffen. Er findet Freunde und einen Job, verliebt sich und lernt schließlich Amerika kennen...",
+    "it": "Viktor Navorski giunge all'aeroporto J.F. Kennedy di New York dalla Krakozhia, un piccolo stato sorto dalla frantumazione dell'Urss. Nel momento in cui giunge al desk dei visti viene però bloccato. In Patria c'è stato un colpo di stato. Il nuovo regime non viene riconosciuto dagli Stati Uniti e quindi lui non può entrare in America. Benché il responsabile dell'aeroporto, in attesa di un'ispezione per passaggio di grado, a un certo punto lo spinga ad infrangere la legge Viktor non esce dal terminal che diventa la sua casa in attesa di poter realizzare il sogno per cui è giunto negli States.",
+    "es": "Viktor Navorski es un inmigrante balcánico que, al estallar la guerra en su país y quedar anulado su pasaporte, se encuentra involuntariamente exiliado en un aeropuerto de los Estados Unidos.",
+    "sv": "Viktor Navorski reser som turist till New York från ett litet östeuropeiskt land. Under resan utbryter ett krig i hans hemland och Navorski befinner sig snart på JFK Airport med ett ogiltigt pass. Han kommer inte in i USA – och han kan inte åka hem. Hans enda möjlighet är att helt enkelt bosätta sig ankomsthallen till kriget är över."
+   },
+   "tagline": {
+    "fr": "La vie nous attend.",
+    "en": "Life is waiting.",
+    "de": "Das Leben wartet.",
+    "it": "Io aspetto",
+    "es": "La vida espera."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 9120,
+   "runtime": 129
   },
   {
    "id": 74,
@@ -488,7 +1486,58 @@
     "it": "/rM3GKjHvQAiaRcTcm30sBAbh4cr.png",
     "es": "/bzNoJBoQqeBGKEfbzbBo4dZ661J.png",
     "sv": "/hHFrurD6OvLSR7n5ieH3171UPRZ.png"
-   }
+   },
+   "overview": {
+    "fr": "Ray Ferrier est un docker divorcé et un père rien moins que parfait, qui n’entretient plus que des relations épisodiques avec son fils Robbie, 17 ans, et sa fille Rachel, 11 ans. Quelques minutes après que son ex‐femme et l’époux de cette dernière lui ont confié la garde des enfants, un puissant orage éclate. Ray assiste alors à un spectacle qui bouleversera à jamais sa vie…",
+    "en": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+    "de": "Eines windigen herbstlichen Nachmittags wird der Erde der Krieg erklärt. Ray ein Kranführer, und seine zwei Kinder, stehen plötzlich mitten im Geschehen: der Boden reißt auf und stählerne Kolosse erheben sich aus den Asphaltbrocken. Alles was um sie herumsteht verwandeln sie zu Staub. Ray beschließt mit den Kindern zu fliehen. Doch es gibt kaum einen Ort an den sie gelangen, der nicht schon unter Beschuss der Invasoren steht.",
+    "it": "I marziani hanno deciso di invadere la Terra perché il loro pianeta è diventato invivibile e la razza umana è costretta ad affrontare una dura guerra per la sopravvivenza. Anche Ray Ferrier, ormai da tempo separato dalla sua famiglia, si trova coinvolto nella battaglia per difendere a tutti i costi i suoi figli dai violenti attacchi degli extra-terrestri...",
+    "es": "Ray Ferrier es un descargador de muelle, divorciado y padre nada modélico. Poco después de que su ex mujer y su nuevo marido se vayan después de dejar a Robbie, su hijo adolescente, y a su pequeña hija Rachel para una de sus contadas visitas, estalla una tremenda e inesperada tormenta eléctrica. Unos momentos después, en un cruce cerca de la casa, Ray es testigo de un acontecimiento que cambiará su vida y la de los suyos para siempre. Una enorme máquina de tres patas emerge del suelo y antes de que alguien pueda hacer algo, arrasa todo lo que está a su alcance. Un día como otro cualquiera acaba de convertirse en la fecha más extraordinaria de su vida: el primer ataque alienígena contra la Tierra.",
+    "sv": "Ray Ferrier är en frånskild hamnarbetare som inte har tagit sitt faderskap på allvar. När han ska ta hand om sin tonårsson Robbie och dottern Rachel över en helg slår plötsligt en kraftfull ljusblixt ner i närheten av Rays hem. Det som sker  några minuter senare kommer att förändra deras liv för alltid, en trebent krigsmaskin reser sig ur marken och förintar allt i sin närhet. Det mystiska ljusfenomenet har förvandlats till ett krig med utomjordningar som hotar att  förinta världen"
+   },
+   "tagline": {
+    "fr": "Ils sont déjà là !",
+    "en": "They're already here.",
+    "de": "Sie sind schon da",
+    "it": "Sono già qui.",
+    "es": "Ya están aquí.",
+    "sv": "De är redan här"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 6.6,
+   "votes": 9732,
+   "runtime": 117
   },
   {
    "id": 612,
@@ -508,7 +1557,57 @@
     "fr": "/821SOxgp3XCmlFhxskSNBmWHJrV.png",
     "en": "/6Rzuck3vBuxWJINLzSx3ACngQlj.png",
     "de": "/cwbuaZ1wZVWA7p5PolOcyXNJbTi.png"
-   }
+   },
+   "overview": {
+    "fr": "Jeux Olympiques de Munich, 5 septembre 1972. Un commando de terroristes palestiniens prend en otages puis exécute 11 membres de l'équipe sportive israélienne, sous l'œil des téléspectateurs du monde entier. Inspiré de faits réels, Munich retrace le parcours de 5 agents israéliens chargés de traquer les 11 palestiniens considérés comme les commanditaires de l'attentat. Pour mener à bien cette mission, les 5 hommes devront renoncer du jour au lendemain à leur identité, et s’exposer à tout moment à la vengeance de leurs cibles.",
+    "en": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+    "de": "Nach dem Geiseldrama um die israelische Mannschaft bei der Olympiade in München 1972 wird der Geheimdienstler Avner von der israelischen Regierung auf die Hintermänner angesetzt. Mit einem kleinen Team reist er quer durch Europa und exekutiert die Organisatoren des palästinensischen Terrors. Doch immer mehr regen sich Zweifel über die Legitimität ihrer Aufträge. Das dreckige, konspirative Leben fordert seinen Tribut – und schließlich gerät die Gruppe selbst auf die Abschussliste.",
+    "it": "Durante le Olimpiadi del 1972 di Monaco il commando di estremisti palestinesi Settembre Nero prende in ostaggio e poi uccide gli atleti israeliani. A seguito dell'attentato, una squadra di cinque uomini viene segretamente incaricata dal governo di stanare e uccidere i responsabili. Avner, ex ufficiale del Mossad, figlio di un patriota, accetta di essere a capo della missione: per un lungo periodo dovrà abbandonare la sua identità e i suoi affetti...",
+    "es": "Basada en hechos reales. Tras el asesinato de varios atletas israelíes por el grupo terrorista \"Septiembre negro\" en los Juegos Olímpicos de Múnich de 1972, un agente especial del Mossad tuvo que ejecutar una misión altamente secreta: asesinar a los responsables.",
+    "sv": "En grupp Mossad-agenter får i uppdrag att leta upp och eliminera de ansvariga för en attack under Olympiska spelen i München 1972, där israeliska idrottsmän togs som gisslan och mördades av en grupp kallad Svarta September."
+   },
+   "tagline": {
+    "fr": "En 1972, 11 athlètes israéliens sont assassinés aux Jeux olympiques de Munich. Voici l'histoire de ce qui s'est passé ensuite.",
+    "en": "The world was watching in 1972 as 11 Israeli athletes were murdered at the Munich Olympics. This is the story of what happened next.",
+    "de": "Die ganze Welt blickte 1972 auf München, als 11 Israelis währen der Olympischen Spiele ermordet wurden. Dies ist die Geschichte der Ereignisse danach.",
+    "it": "Nel 1972 il mondo è stato testimone dell'assassinio di 11 atleti israeliani alle Olimpiadi di Monaco. Questa è la storia di quanto accadde dopo.",
+    "es": "En 1972 cómo 11 atletas israelíes fueron asesinados en los Juegos Olímpicos de Munich. Esta es la historia de lo que sucedió a continuación."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Histoire",
+     "Thriller"
+    ],
+    "en": [
+     "Drama",
+     "History",
+     "Thriller"
+    ],
+    "de": [
+     "Drama",
+     "Historie",
+     "Thriller"
+    ],
+    "it": [
+     "Dramma",
+     "Storia",
+     "Thriller"
+    ],
+    "es": [
+     "Drama",
+     "Historia",
+     "Suspense"
+    ],
+    "sv": [
+     "Drama",
+     "Historisk",
+     "Thriller"
+    ]
+   },
+   "rating": 7.1,
+   "votes": 3159,
+   "runtime": 157
   },
   {
    "id": 217,
@@ -531,7 +1630,52 @@
     "it": "/niAGcIth4giy1kIh04Xe4H5ZAJm.png",
     "es": "/cqOjP9jcWl7e73JD69TRDqsvHgp.png",
     "sv": "/zpHARQ0tFqskXOXKCmGA3yVADUq.png"
-   }
+   },
+   "overview": {
+    "fr": "La nouvelle aventure d’Indiana Jones débute dans un désert du sud‐ouest des États‐Unis. Nous sommes en 1957, en pleine guerre froide. Indy et son copain Mac viennent tout juste d’échapper à une bande d’agents soviétiques à la recherche d’une mystérieuse relique surgie du fond des temps. De retour au Marshall College, le Professeur Jones apprend une très mauvaise nouvelle : ses récentes activités l’ont rendu suspect aux yeux du gouvernement américain. Le doyen Stanforth, qui est aussi un proche ami, se voit contraint de le licencier. À la sortie de la ville, Indiana fait la connaissance d’un jeune motard rebelle, Mutt, qui lui fait une proposition inattendue.",
+    "en": "Set during the Cold War, the Soviets—led by sword-wielding Irina Spalko—are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. Indy is coerced to head to Peru at the behest of a young man whose friend—and Indy's colleague—Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
+    "de": "1957 in der Wüste Nevadas, der Kalte Krieg ist in vollem Gange und Indiana Jones den Russen in die Hände gefallen. Indy gelingt die Flucht, doch die Russen – unter der Führung von Irina Spalko, Stalins Lieblingsagentin und ihres Zeichens Parapsychologin, - entwenden ein mysteriöses Skelett, das offenbar in Verbindung mit dem Verschwinden von Indys altem Freund und Kollegen Harold Oxleys steht, der in Peru verschollen ist. Gemeinsam mit Oxleys Ziehsohn Mutt macht sich Indy im Dschungel des Amazonas auf die Suche nach dem legendären Kristallschädel, dem magische Kräfte nachgesagt werden und der Oxley offenbar in den Wahnsinn getrieben hat. Eine Schatzsuche auf Leben und Tod beginnt.",
+    "it": "1957, in mezzo al deserto e nel pieno della guerra fredda, il professor Jones ed il suo compare Mac, riescono a sfuggire alla cattura da parte di un agente sovietico. Una volta ritornato al Marshall College però, il decano dell'istituto, informa Jones del fatto che il governo, per via delle sue ultime attività, ha fatto delle pressioni per sollevarlo dal suo incarico. Poco male, perchè, a stimolare il professore a buttarsi in una nuova impresa, arriva Mutt, un giovane ribelle, che gli propone di aiutarlo nella ricerca di un preziosissimo reperto archeologico, il Teschio di Cristallo di Akator. Purtroppo però, una volta arrivati in Perù, si accorgeranno che non sono gli unici interessati al ritrovamento dell'oggetto, sulle tracce del cimelio, infatti, ci sono anche i russi!",
+    "es": "Indiana Jones y el joven Mutt se proponen encontrar la Calavera de Cristal de Akator. Los agentes soviéticos tienen ese mismo objetivo. Liderados por la bella Irina Spalko, creen que el artilugio ayudará a su país a dominar el mundo si consiguen descifrar su secreto.",
+    "sv": "Det nya äventyret tar sin början 1957 i öknen mitt under det kalla kriget. Indy har tillsammans med sin kompanjon Mac med minsta tänkbara marginal undkommit några sovjetiska agenter vid en öde flygbas. Professor Jones återvänder till sitt hem vid Marshall College, men upptäcker att läget är allt annat än gott vid universitet. Hans närmaste vän, rektorn vid lärosätet förklarar att Indys senaste eskapader har gjort regeringen misstänksam, som nu kräver att Jones ska avskedas från sin tjänst. På egen hand lämnar nu Indiana Jones staden, men träffar snart den egensinniga Mutt, en ung rebell som ger den äventyrlige arkeologen ett minst sagt spännande förslag. Om han hjälper honom, har Indy chans att hitta sitt största arkeologiska fynd någonsin – den legendariska kristallskallen från Akator. Ett föremål som fascinerat, skrämt och lockat mängder av upptäcktsresanden genom åren."
+   },
+   "tagline": {
+    "fr": "Il est de retour.",
+    "en": "The adventure continues...",
+    "de": "Das Abenteuer geht weiter.",
+    "it": "L'avventura continua...",
+    "es": "La aventura continua . . .",
+    "sv": "Äventyret fortsätter"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action"
+    ],
+    "en": [
+     "Adventure",
+     "Action"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action"
+    ],
+    "it": [
+     "Avventura",
+     "Azione"
+    ],
+    "es": [
+     "Aventura",
+     "Acción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action"
+    ]
+   },
+   "rating": 6.0,
+   "votes": 9392,
+   "runtime": 122
   },
   {
    "id": 17578,
@@ -553,7 +1697,56 @@
     "de": "/oiHpIkopNRv0KELlmP0xbWSGVJT.png",
     "it": "/t53gHA5kYv47tZsAsRRF5iE1A4v.png",
     "sv": "/vbXHHRPHMtfmb46GRNly82gyMAJ.png"
-   }
+   },
+   "overview": {
+    "fr": "Tintin, notre intrépide reporter, son fidèle compagnon Milou et son inséparable ami le capitaine Haddock partent à la recherche d’un trésor enfoui avec l’épave d’un bateau « la Licorne », commandé autrefois par un ancêtre du capitaine Haddock.",
+    "en": "Intrepid young reporter, Tintin, and his loyal dog, Snowy, are thrust into a world of high adventure when they discover a ship carrying an explosive secret. As Tintin is drawn into a centuries-old mystery, Ivan Ivanovitch Sakharine suspects him of stealing a priceless treasure. Tintin and Snowy, with the help of salty, cantankerous Captain Haddock and bumbling detectives, Thompson and Thomson, travel half the world, one step ahead of their enemies, as Tintin endeavors to find the Unicorn, a sunken ship that may hold a vast fortune, but also an ancient curse.",
+    "de": "Der junge Reporter Tim ist immer auf der Suche nach einer guten Story. Mit seinem treuen Begleiter Struppi, einem gewitzten Foxterrier, bereist er die entlegendsten Winkel der Erde und scheut sich vor keiner noch so großen Gefahr, um an Material für seine neuesten Reportagen zu kommen. Auf einer ihrer zahlreichen Recherchetouren treffen Tim und sein Gefährte auf den raubeinigen Kapitän Haddock. Der permanent betrunkene Seefahrer berichtet dem Duo von einem Schatz seines Vorfahren Frantz Ritter von Hadoque. Jener sei zusammen mit dem Schiff Hadoques untergegangen, nachdem es vom gefürchteten Piraten Rackham dem Roten angegriffen wurde. Gemeinsam begeben sich die Drei auf die abenteuerliche Reise in die Karibik, wo sie den verschollenen Schatz vermuten. Außerdem dabei: die beiden zum Verwechseln ähnlichen Detektive Schulze und Schultze, die aufgrund ihrer tolpatschigen Art für ständigen Schlamassel sorgen.",
+    "it": "Tintin è un giovane reporter col vizio dell'avventura che non disdegna nel tempo libero cose meno straordinarie, come passeggiare per i mercatini, fermarsi per un ritratto o per acquistare il modellino di una nave che nasconde un immancabile segreto. Un segreto che l'infido Sakharine vuole sottrargli a tutti i costi e con tutti i mezzi. Ma a difenderlo e ad affiancarlo ci pensano i maldestri Thomson e Thompson e l'impavido Snowy, un candido fox terrier amabile con gli amici e implacabile coi nemici. Derubato del prezioso veliero Tintin si mette sulle tracce del ladro finendo prigioniero sul cargo dell'ebbro Capitan Haddock e libero nella più grande delle avventure. Attraverso mari burrascosi e deserti torridi, a bordo di una scialuppa o di un idrovolante, cavalcando onde o polene a foggia di unicorno, il 'sobrio' Tintin e l'alcolico Capitan Haddock troveranno il più grande dei tesori: l'amicizia.",
+    "es": "Tintín, un joven periodista dotado de una curiosidad insaciable, y su leal perro Milú descubren que la maqueta de un barco contiene un enigmático y secular secreto que deben investigar. A partir de ese momento, Tintín se verá acosado por Ivan Ivanovitch Sakharine, un diabólico villano que cree que el joven ha robado un valioso tesoro vinculado a un cruel pirata llamado Rackham el Rojo. Pero, con la ayuda de Milú, del cascarrabias capitán Haddock y de los torpes detectives Hernández y Fernández, viajará por medio mundo, sirviéndose de su proverbial astucia para burlar a sus perseguidores y encontrar antes que ellos El Unicornio, un navío hundido que puede proporcionar la clave de una fabulosa fortuna y de una antigua maldición.",
+    "sv": "När Tintin upptäcker att hans nyinköpta modellskepp bär på en dold hemlighet, bli han och hans vänner indragna i en vild jakt med ett gäng hänsynslösa skurkar i hälarna."
+   },
+   "tagline": {
+    "fr": "Cette année, découvrez jusqu'où l'aventure vous mènera.",
+    "en": "Discover how far adventure will take you.",
+    "de": "Eine epische Schatzsuche rund um die ganze Welt.",
+    "es": "Una aventura que todos queremos emprender"
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Animation",
+     "Mystère"
+    ],
+    "en": [
+     "Adventure",
+     "Animation",
+     "Mystery"
+    ],
+    "de": [
+     "Abenteuer",
+     "Animation",
+     "Mystery"
+    ],
+    "it": [
+     "Avventura",
+     "Animazione",
+     "Mistero"
+    ],
+    "es": [
+     "Aventura",
+     "Animación",
+     "Misterio"
+    ],
+    "sv": [
+     "Äventyr",
+     "Animerat",
+     "Mystik"
+    ]
+   },
+   "rating": 6.9,
+   "votes": 6083,
+   "runtime": 102
   },
   {
    "id": 57212,
@@ -573,7 +1766,57 @@
     "fr": "/xE2B8Njb4mhaNSXfk1BtGs2KRsB.png",
     "en": "/cHVMkHiZFuzECBmDJvPJbRssKoS.png",
     "de": "/sNZr4mj4r76fdJ3fd7EbNQnxezK.png"
-   }
+   },
+   "overview": {
+    "fr": "De la magnifique campagne anglaise aux contrées d’une Europe plongée en pleine Première Guerre mondiale, «Cheval de guerre» raconte l’amitié exceptionnelle qui unit un jeune homme, Albert, et le cheval qu’il a dressé, Joey. Séparés aux premières heures du conflit, l’histoire suit l’extraordinaire périple du cheval alors que de son côté Albert va tout faire pour le retrouver. Joey, animal hors du commun, va changer la vie de tous ceux dont il croisera la route: soldats de la cavalerie britannique, combattants allemands, et même un fermier français et sa petite-fille…",
+    "en": "On the brink of the First World War, Albert's beloved horse Joey is sold to the Cavalry by his father. Against the backdrop of the Great War, Joey begins an odyssey full of danger, joy, and sorrow, and he transforms everyone he meets along the way. Meanwhile, Albert, unable to forget his equine friend, searches the battlefields of France to find Joey and bring him home.",
+    "de": "Albert, Sohn einer englischen Bauernfamilie, und sein Rassehengst Joey sind unzertrennlich. Als sein Vater das Wunderpferd, das sogar die strapaziöse Arbeit vor dem Pflug meistert, an die Armee verkaufen muss, werden die beiden auseinandergerissen. Als Last- und Zugtier im Ersten Weltkrieg eingesetzt, wechselt Joey die Fronten wie auch seine Besitzer und wird zu einer Symbolfigur für unbezwingbaren Überlebenswillen im Irrsinn des Krieges. Doch wird sein traumatischer Weg je wieder den seiner wichtigsten Bezugsperson kreuzen?",
+    "it": "Joey è un puledro esuberante, cresciuto libero e selvaggio nella campagna inglese. Separato dalla madre e acquistato da Ted, un ruvido agricoltore, è destinato all'aratro e a risollevare le sorti della famiglia Narracott. Addestrato da Albert, il giovane e ostinato figlio di Ted, Joey ne diventa il compagno di avventura inseparabile, almeno fino a quando i debiti e la guerra non chiederanno il conto. Venduto dal padre per far fronte all'affitto della fattoria, Joey entra a far parte della cavalleria al servizio di un giovane capitano inglese, che promette ad Albert di prendersene cura e di riconsegnarlo a conflitto finito. Galoppando da un fronte all'altro e attraversando l'Europa della Grande Guerra, Joey tocca la vita e favorisce la sorte di soldati e civili.",
+    "es": "El joven Albert se alista para servir en la Primera Guerra Mundial tras la venta de su caballo a la caballería. A medida que la guerra avanza, el joven se aleja de Inglaterra en dirección al frente.",
+    "sv": "Filmen inleds med den fantastiska vänskapen mellan en häst kallad Joey och en ung man vid namn Albert, som tämjer och tränar honom. När de tvingas isär följer filmen den extraordinära resa som hästen kastas ut på då han arbetar sig igenom första världskriget och förändrar och inspirerar människor som han möter på vägen - både i brittiska kavalleriet, tyska soldater och en fransk bonde och hans dotterdotter..."
+   },
+   "tagline": {
+    "fr": "Séparés par la guerre. Éprouvés par les batailles. Liés par une grande amitié.",
+    "en": "Separated by war. Tested by battle. Bound by friendship.",
+    "de": "Freundschaft überwindet alle Grenzen.",
+    "it": "Separati dalla guerra. Temprati dalla battaglia. Uniti dal destino.",
+    "es": "Separado por la guerra. Preparados para la batalla. Unidos por la amistad"
+   },
+   "genres": {
+    "fr": [
+     "Guerre",
+     "Histoire",
+     "Drame"
+    ],
+    "en": [
+     "War",
+     "History",
+     "Drama"
+    ],
+    "de": [
+     "Kriegsfilm",
+     "Historie",
+     "Drama"
+    ],
+    "it": [
+     "Guerra",
+     "Storia",
+     "Dramma"
+    ],
+    "es": [
+     "Bélica",
+     "Historia",
+     "Drama"
+    ],
+    "sv": [
+     "Krig",
+     "Historisk",
+     "Drama"
+    ]
+   },
+   "rating": 7.3,
+   "votes": 3813,
+   "runtime": 146
   },
   {
    "id": 72976,
@@ -593,7 +1836,51 @@
     "fr": "/A2rm1z5XhuS4LKFg0j0EU0mCyzy.png",
     "en": "/3kXdpWqqxrmtZyWCvc9vyw4saB8.png",
     "de": "/xLZ5gQSvRLehYdjH1Is9n2qwJNa.png"
-   }
+   },
+   "overview": {
+    "fr": "Les derniers mois tumultueux du mandat du 16ème Président des États-Unis. Dans une nation déchirée par la guerre civile et secouée par le vent du changement, Abraham Lincoln met tout en œuvre pour résoudre le conflit, unifier le pays et abolir l'esclavage. Cet homme doté d'une détermination et d'un courage moral exceptionnels va devoir faire des choix qui bouleverseront le destin des générations à venir.",
+    "en": "The revealing story of the 16th US President's tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come.",
+    "de": "Der 16. Präsident der Vereinigten Staaten von Amerika, Abraham Lincoln führt 1861 bis 1865 die Nordstaaten in den Bürgerkrieg gegen die Südstaaten. Als der Sezessionskrieg dem Ende entgegen geht, legt sich der Präsident mit Abgeordneten seines eigenen Kabinetts an. In den Diskussionen geht es um die Beilegung der kämpferischen Konflikte und das Ende des Krieges, die Vereinigung des Landes und vor allem um die Herzensangelegenheit von Lincoln, die Abschaffung der Sklaverei, die er unbedingt durchsetzen möchte.",
+    "it": "Gli ultimi mesi della vita di Abraham Lincoln, sedicesimo Presidente degli Stati Uniti d’America, durante i quali viene abolita la schiavitù e gli Stati dell’Unione vincono la guerra civile che sta dilaniando la nazione. La sceneggiatura è basata sul bestseller “Team of Rivals” di Doris Kerns Goodwin.",
+    "es": "En 1865, mientras la Guerra Civil Americana se acerca a su fin, el presidente Abraham Lincoln propone una enmienda que prohíba la esclavitud en los Estados Unidos. Sin embargo esto plantea un gran dilema: si la paz llega antes de que se apruebe la enmienda, el Sur tendrá poder para rechazarla y mantener la esclavitud; si la paz llega después, decenas de miles de personas seguirán muriendo en el frente. En una carrera contrarreloj para conseguir los votos necesarios, Lincoln se enfrenta a la mayor crisis de conciencia de su vida.",
+    "sv": "I en nation som är svårt splittrad av krig gör Lincoln allt för att stoppa inbördeskriget, förena landet och avskaffa slaveriet. Med stort mod och redo att göra allt som krävs, även bryta mot lagen, vet Lincoln att hans beslut under denna kritiska tid kommer att vara avgörande för kommande generationers liv."
+   },
+   "tagline": {
+    "fr": "Le destin tragique de Lincoln.",
+    "en": "The hours that changed history.",
+    "de": "Mit seiner Zivilcourage und seinem unbändigen Willen zum Erfolg werden seine Entscheidungen das Schicksal künftiger Generationen verändern.",
+    "it": "Le ore che hanno cambiato la storia",
+    "es": "Con el coraje moral y la feroz determinación de triunfar, sus decisiones cambiarán el destino de las generaciones venideras."
+   },
+   "genres": {
+    "fr": [
+     "Histoire",
+     "Drame"
+    ],
+    "en": [
+     "History",
+     "Drama"
+    ],
+    "de": [
+     "Historie",
+     "Drama"
+    ],
+    "it": [
+     "Storia",
+     "Dramma"
+    ],
+    "es": [
+     "Historia",
+     "Drama"
+    ],
+    "sv": [
+     "Historisk",
+     "Drama"
+    ]
+   },
+   "rating": 6.8,
+   "votes": 4214,
+   "runtime": 150
   },
   {
    "id": 296098,
@@ -615,7 +1902,52 @@
     "it": "/Avdt8RZWE1YX7JZMsdgsjDyR9WN.png",
     "es": "/cAd5h92YucbhUP8YtQoOLNjv74M.png",
     "sv": "/2jHbosNIoVNsEO2RaHcJuRCSLTh.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1960, James B. Donovan, un avocat new-yorkais spécialisé dans les assurances, doit défendre Rudolf Abel, un espion russe que la CIA vient d'arrêter. D'abord surpris qu'on le choisisse, il a à coeur de le défendre tandis que son épouse ne voit que les ennuis que cela peut causer à leurs familles. Homme de loi habile, il parvient, en imaginant l'idée d'un possible échange de prisonniers dans le futur, à faire commuer la peine de mort de son client en prison à vie. Ce qui lui vaut la vindicte populaire... Mais Donovan est ensuite recruté par la CIA. Il a pour mission de négocier la libération de Francis Gary Powers, le pilote de l'avion espion américain U-2, que les Soviétiques ont abattu au-dessus de leur territoire. Il se retrouve plongé en pleine guerre froide...",
+    "en": "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man's freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.",
+    "de": "1957, als der Kalte Krieg auf einem Höhepunkt ist, gelingt den USA die Verhaftung des Sowjetagenten Rudolf Abel. Er wird vernommen, verweigert aber die Zusammenarbeit. Als Pflichtverteidiger bekommt er jemanden zur Seite gestellt, dessen Fähigkeiten außer Frage stehen, der jedoch als Versicherungsanwalt wenig Expertise für seinen neuen Auftrag mitbringt: James Donovan. Der Jurist ist skeptisch, zumal die Verteidigung eines feindlichen Agenten von vielen als Landesverrat angesehen wird. Donovans persönliche Lage spitzt sich zu, als ihn der CIA-Beamte Hoffman, beindruckt von Donovans Auftritten im Gerichtssaal, mit einer neuen Mission betraut. Das U-2-Spionage-Flugzeug des US-Piloten Francis Gary Powers wurde über der Sowjetunion abgeschossen. Donovan soll nach Ost-Berlin, um mit den Sowjets die Freilassung zu verhandeln – und einen Gefangenenaustausch zu initiieren…",
+    "it": "L'avvocato di Brooklyn James B. Donovan si ritrova al centro della guerra fredda quando gli viene assegnato l'incarico di negoziare il rilascio di Francis Gary Powers, un pilota il cui aereo spia U-2 è stato abbattuto sopra l'Unione Sovietica.",
+    "es": "Década de los 60. Estados Unidos y la Unión Soviética se encuentran en plena Guerra Fría. El 1 de mayo de 1960 un avión espía americano fue derribado por el ejército enemigo cuando sobrevolaba territorio soviético. Sorprendentemente, el piloto, Francis Gary Powers, logra escapar gracias a su paracaídas. Cuando ya se creía a salvo, es capturado por los rusos. El abogado James B. Donovan es el encargado de negociar la liberación del soldado.",
+    "sv": "Kalla kriget hettas upp när en amerikansk pilot skjuts ner och tas tillfånga av Sovjetunionen. Amerikanska advokaten James Donovan får uppgiften att sköta förhandlingarna av utbytet av fångar. Det är lättare sagt än gjort då han finner sig sköta förhandlingarna mellan tre olika stater och dessutom ska försöka byta till sig två fångar när han bara har en att erbjuda själv."
+   },
+   "tagline": {
+    "fr": "L'équilibre entre guerre et paix ne tient qu'à un seul homme.",
+    "en": "In the shadow of war, one man showed the world what we stand for.",
+    "de": "In einer Welt am Rande des Abgrundes machte den Unterschied zwischen Krieg und Frieden nur ein unerschrockener Mann.",
+    "it": "In un mondo in bilico tra guerra e pace un uomo ha fatto la differenza.",
+    "es": "En un mundo en el umbral de la diferencia entre la guerra y la paz fue un hombre honesto.",
+    "sv": "I krigets skugga visade en man världen vad vi stod för."
+   },
+   "genres": {
+    "fr": [
+     "Thriller",
+     "Drame"
+    ],
+    "en": [
+     "Thriller",
+     "Drama"
+    ],
+    "de": [
+     "Thriller",
+     "Drama"
+    ],
+    "it": [
+     "Thriller",
+     "Dramma"
+    ],
+    "es": [
+     "Suspense",
+     "Drama"
+    ],
+    "sv": [
+     "Thriller",
+     "Drama"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 7524,
+   "runtime": 142
   },
   {
    "id": 267935,
@@ -638,7 +1970,57 @@
     "it": "/dUJwnQ3ubxfHF69gk0syxk5DW3v.png",
     "es": "/quImDqvVzINAFYdOSvjvcAFVWRk.png",
     "sv": "/wphcXHucQKRPiXSD6mdxRwUuRpv.png"
-   }
+   },
+   "overview": {
+    "fr": "L’incroyable histoire d’une petite fille et du mystérieux géant qui va lui faire découvrir les merveilles et les dangers du Pays des Géants. Mais lorsque les méchants géants dévoreurs d’hommes envahissent le monde des humains, la petite fille, la reine d’Angleterre et le bon gros géant (le BGG) se lancent dans une grande aventure afin de les arrêter…",
+    "en": "An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.",
+    "de": "Das kleine Waisenkind Sophie wird eines Mitternachts, zur Geisterstunde, wach und sieht zufällig eine riesige Gestalt auf der Straße, wie sie etwas in die Zimmer anderer bläst. Doch Sophie wird bemerkt und daraufhin entführt die rätselhafte Gestalt das kleine Mädchen. Zu ihrer Erleichterung stellt Sophie jedoch fest, dass der Riese ihr freundlich gesonnen ist und er verrät ihr, dass er den schlafenden Menschen schöne Träume in ihre Zimmer bläst. Doch damit steht der Riese alleine da. Denn es gibt weitere, noch größere von seiner Sorte im Riesenland und die fressen nichts lieber als Menschen. Dagegen muss etwas unternommen werden und so beschließen Sophie und der Riese die Königin von England um Hilfe zu bitten. Weitere Verstärkung bekommen sie von dem König von Schweden und dem Sultan von Bagdad, deren Länder bereits von den bösen Riesen heimgesucht worden sind und gemeinsam nehmen sie den Kampf auf.",
+    "it": "Il GGG è un gigante, un Grande Gigante Gentile, molto diverso dagli altri abitanti del Paese dei Giganti che come San-Guinario e Inghiotticicciaviva si nutrono di esseri umani, preferibilmente bambini. E così una notte il GGG - che è vegetariano e si ciba soltanto di Cetrionzoli e Sciroppio - rapisce Sophie, una bambina che vive a Londra e la porta nella sua caverna. Inizialmente spaventata dal misterioso gigante, Sophie ben presto si rende conto che il GGG è in realtà dolce, amichevole e può insegnarle cose meravigliose. Il GGG porta infatti Sophie nel Paese dei Sogni, dove cattura i sogni che manda di notte ai bambini e le spiega tutto sulla magia e il mistero dei sogni.",
+    "es": "Adaptación del cuento de Roald Dahl sobre una niña que se alía con la Reina de Inglaterra y con un gigante bonachón para impedir una invasión de malvados gigantes que se preparan para comerse a todos los niños del país.",
+    "sv": "Berättelsen om en ung flicka, drottningen av England och en välvillig jätte som tillsammans ger sig ut på ett äventyr för att fånga de onda människoätande jättarna som har invaderat den mänskliga världen."
+   },
+   "tagline": {
+    "fr": "Le monde est plus gigantesque que vous ne l’imaginez",
+    "en": "The world is more giant than you can imagine.",
+    "de": "Die Welt ist riesiger als du dir vorstellen kannst.",
+    "it": "Il mondo è più gigante di quanto immagini.",
+    "es": "El mundo es gigante. Más de lo que puedas imaginar."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Familial",
+     "Fantastique"
+    ],
+    "en": [
+     "Adventure",
+     "Family",
+     "Fantasy"
+    ],
+    "de": [
+     "Abenteuer",
+     "Familie",
+     "Fantasy"
+    ],
+    "it": [
+     "Avventura",
+     "Famiglia",
+     "Fantasy"
+    ],
+    "es": [
+     "Aventura",
+     "Familia",
+     "Fantasía"
+    ],
+    "sv": [
+     "Äventyr",
+     "Familj",
+     "Fantasy"
+    ]
+   },
+   "rating": 6.3,
+   "votes": 3762,
+   "runtime": 117
   },
   {
    "id": 446354,
@@ -659,7 +2041,49 @@
     "en": "/557BNNs5y3Ru2lEQHAX1rBS8TRS.png",
     "de": "/gI0Yd4SXAev3mbkPXKLFQHuscg8.png",
     "es": "/oAvVpaIuPfAaT2oQpynrGhPVCnG.png"
-   }
+   },
+   "overview": {
+    "fr": "Première femme directrice de la publication d’un grand journal américain, le Washington Post, Katharine Graham s'associe à son rédacteur en chef Ben Bradlee pour dévoiler un scandale d'État monumental et combler son retard par rapport au New York Times qui mène ses propres investigations. Ces révélations concernent les manœuvres de quatre présidents américains, sur une trentaine d'années, destinées à étouffer des affaires très sensibles… Au péril de leur carrière et de leur liberté, Katharine et Ben vont devoir surmonter tout ce qui les sépare pour révéler au grand jour des secrets longtemps enfouis…",
+    "en": "A cover-up that spanned four U.S. Presidents pushed the country's first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.",
+    "de": "In den 1970er Jahren übernimmt Katharine „Kay“ Graham das Unternehmen ihrer Familie – die Washington Post – und wird so zur ersten Zeitungsverlegerin der USA. Schon bald darauf sieht sie sich in eine Auseinandersetzung von ungeheuren Ausmaßen mit der amerikanischen Regierung verwickelt, als sie gemeinsam mit dem ehrgeizigen Redakteur Ben Bradlee auf eine Story über vier US-Präsidenten und deren jeweiliges geheimes Wissen über Amerikas Rolle im Vietnam-Krieg stößt. Vollblutjournalist Bradlee will die Informationen um jeden Preis veröffentlichen, selbst wenn er dafür ins Gefängnis gehen muss, Graham bangt um die Sicherheit und die finanzielle Zukunft ihrer Angestellten. Ihre Position als Journalistin, amerikanische Patriotin und Geschäftsfrau bringt sie in eine moralische Zwickmühle.",
+    "it": "1971: Katharine Graham è la prima donna alla guida del The Washington Post in una società dove il potere è di norma maschile, Ben Bradlee è il duro e testardo direttore del suo giornale. Nonostante Kaye e Ben siano molto diversi, l’indagine che intraprendono e il loro coraggio provocheranno la prima grande scossa nella storia dell’informazione con una fuga di notizie senza precedenti, svelando al mondo intero la massiccia copertura di segreti governativi riguardanti la Guerra in Vietnam durata per decenni.  La lotta contro le istituzioni per garantire la libertà di informazione e di stampa è il cuore del film, dove la scelta morale, l’etica professionale e il rischio di perdere tutto si alternano in un potente thriller politico. I due metteranno a rischio la loro carriera e la loro stessa libertà nell’intento di portare pubblicamente alla luce ciò che quattro Presidenti hanno nascosto e insabbiato per anni.",
+    "es": "En junio de 1971, los principales periódicos de EE.UU., entre los que se encontraban 'The New York Times' y 'The Washington Post', tomaron una valiente posición en favor de la libertad de expresión, informando sobre los documentos del Pentágono y el encubrimiento masivo de secretos por parte del gobierno, que había durado cuatro décadas y cuatro presidencias estadounidenses. En ese momento, Katherine Graham, primera mujer editora del Post, y el director Ben Bradlee intentaban relanzar un periódico en decadencia. Juntos decidieron tomar la audaz decisión de apoyar al 'The New York Times' y luchar contra el intento de la Administración Nixon de restringir la primera enmienda. Historia basada en los documentos del Post que recogían información clasificada sobre la Guerra de Vietnam.",
+    "sv": "1971 hjälpte Washington Post till att sprida de hemligstämplade Pentagonpapperna, som läcktes av en tidigare anställd vid USA:s försvarsdepartement. I dessa avslöjades oroväckande och tidigare okända fakta om landets inblandning i Vietnamkriget."
+   },
+   "tagline": {
+    "fr": "Les sombres secrets du Pentagone.",
+    "en": "Truth be told",
+    "es": "La verdad sea dicha."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Histoire"
+    ],
+    "en": [
+     "Drama",
+     "History"
+    ],
+    "de": [
+     "Drama",
+     "Historie"
+    ],
+    "it": [
+     "Dramma",
+     "Storia"
+    ],
+    "es": [
+     "Drama",
+     "Historia"
+    ],
+    "sv": [
+     "Drama",
+     "Historisk"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 5085,
+   "runtime": 116
   },
   {
    "id": 333339,
@@ -680,7 +2104,57 @@
     "en": "/sKLqXYCvWdbMM91CVMXEVZqYE6Z.png",
     "it": "/dNCnC9weMY4GUFj28TN9C0I22D.png",
     "es": "/wdiisVU4A6qMsncRI64awp9TrwK.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2045, le monde est au bord du chaos. Les êtres humains se réfugient dans l'OASIS, univers virtuel mis au point par le brillant et excentrique James Halliday. Avant de disparaître, celui-ci a décidé de léguer son immense fortune à quiconque découvrira l'œuf de Pâques numérique qu'il a pris soin de dissimuler dans l'OASIS. L'appât du gain provoque une compétition planétaire. Mais lorsqu'un jeune garçon, Wade Watts, qui n'a pourtant pas le profil d'un héros, décide de participer à la chasse au trésor, il est plongé dans un monde parallèle à la fois mystérieux et inquiétant…",
+    "en": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
+    "de": "Im Jahr 2045 steht die ökologisch ausgebeutete Welt am Rande des endgültigen Zusammenbruchs. Doch die Menschen finden Erlösung in dem gigantischen virtuellen Universum Oasis, das der geniale James Halliday entwickelt hat. Als Halliday stirbt, hinterlässt er sein ungeheures Vermögen der ersten Person, die jenes Easter Egg findet, das er in der Oasis versteckt hat. So beginnt ein Wettstreit, der die gesamte Welt in Atem hält. Der junge Wade Watts findet wider Erwarten erste Hinweise, und schon gerät er in eine halsbrecherische, realitätsverändernde Schatzjagd durch ein ebenso fantastisches wie geheimnisvolles Universum voller Entdeckungen und Gefahren ...",
+    "it": "Nel 2045, anno in cui il mondo sta per collassare sull’orlo del caos, le persone hanno trovato la salvezza nell’OASIS, un enorme universo di realtà virtuale creato dal brillante ed eccentrico James Halliday. A seguito della morte di Halliday, la sua immensa fortuna andrà in dote a colui che per primo troverà un Easter egg nascosto da qualche parte all’interno dell’OASIS, dando il via ad una gara che coinvolgerà il mondo intero. Quando un improbabile giovane eroe di nome Wade Watts deciderà di prendere parte alla gara, verrà coinvolto in una vertiginosa caccia al tesoro in questo fantastico universo fatto di misteri, scoperte sensazionali e pericoli.",
+    "es": "Cuando el creador de una realidad virtual llamada OASIS muere, lanza un reto póstumo a todos sus usuarios para que busquen un huevo de pascua, que dará al que lo encuentre su fortuna y el control de su mundo.",
+    "sv": "Året är 2045 och världen befinner sig på randen till kaotisk kollaps. Människor har sökt trygghet i en virtuell verklighet - universumet OASIS som har skapats av den briljante och excentriske James Halliday. När Halliday dör, testamenterar han sin enorma förmögenhet till den som hittar den digitala ledtråd han gömt någonstans i det gigantiska OASIS. Det blir en tävling som engagerar en hel värld. När den unga hjälten Wade Watts bestämmer sig för att delta i tävlingen kastas han in i en fartfylld och svindlande skattjakt genom ett fantastiskt universum fyllt av mysterier och faror."
+   },
+   "tagline": {
+    "fr": "Une aventure trop grande pour le monde réel.",
+    "en": "A better reality awaits.",
+    "de": "Kämpfe für eine bessere Realität",
+    "it": "Fuggi dalla realtà",
+    "es": "Una aventura demasiado grande para el mundo real."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 17615,
+   "runtime": 140
   },
   {
    "id": 511809,
@@ -700,7 +2174,56 @@
     "fr": "/riqFjeyz1U3J6cEamJnQq3BOD2g.png",
     "en": "/kM1lOQcZKpsD0l6O1JVsVOdhHQE.png",
     "es": "/dLwTyLxneYKLsBOSn04CQTwTTMQ.png"
-   }
+   },
+   "overview": {
+    "fr": "Dans les années 1950, deux bandes de jeunes s'affrontent pour le contrôle d'un quartier défavorisé de l'Upper West Side en pleine gentrification. Il y d'un côté les immigrés portoricains des Sharks, dirigés par Bernardo et de l'autre les Américains des Jets, avec Riff à leur tête. Récemment sorti de prison, Tony, lié aux Jets, en a marre de cette violence quotidienne. Il préfère travailler dans la boutique de Valentina, veuve de Doc. Un jour, lors d'une soirée dansante au lycée, Tony tombe sous le charme de María, la sœur de Bernardo. Cependant, du fait de leur appartenance à ces bandes opposées, il s’agit d’un amour impossible.",
+    "en": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
+    "de": "Zwei rivalisierende Gangs bestimmen das Straßenbild im New York der 1950er Jahre: Während die Jets mit Anführer Tony sich aus weißen Jugendlichen des Viertels zusammensetzt, sind Bernardos Sharks puerto-ricanischer Herkunft. Beide Gangs stehen sich feindlich gegenüber, doch als ausgerechnet Tony und Maria, Bernardos Schwester, ein Liebespaar werden, eskaliert die Gewalt und schon bald gibt es erste Opfer.",
+    "it": "New York, 1961, due bande sono in guerra per il controllo del West Side. Da una parte i Jets, i 'veri' americani, figli di immigrati italiani o polacchi, dall'altra gli Sharks, portoricani, sbarcati di recente. In mezzo Tony e Maria. Lui è il fondatore pentito dei Jets, da cui ha preso le distanze dopo la prigione, lei è la sorella romantica di Bernardo, leader impetuoso degli Sharks. Tony e Maria si amano perdutamente e a dispetto dell'ostilità tra le gang, che provano a correggere con le canzoni. Ma chiedete a Romeo e Giulietta, l'amore non vince sull'odio, nemmeno in musica.",
+    "es": "Los adolescentes Tony y María, a pesar de tener afiliaciones con pandillas callejeras rivales, los Jets y los Sharks, se enamoran en la ciudad de Nueva York en la década de los 50. Nueva versión del legendario musical 'West Side Story', a su vez adaptación de una famosa obra de teatro de Broadway, que modernizaba la historia de 'Romeo y Julieta', de Shakespeare.",
+    "sv": "Filmen är baserad på den framgångsrika Broadway-musikalen från 1957 och är en berättelse om ungdomlig kärlek och gängrivalitet i 1950-talets New York."
+   },
+   "tagline": {
+    "fr": "Le remake du film culte éponyme.",
+    "en": "A city divided. Their love will challenge everything.",
+    "de": "Alles für die wahre Liebe riskieren",
+    "es": "Un Film de Steven Spielberg"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Romance",
+     "Crime"
+    ],
+    "en": [
+     "Drama",
+     "Romance",
+     "Crime"
+    ],
+    "de": [
+     "Drama",
+     "Liebesfilm",
+     "Krimi"
+    ],
+    "it": [
+     "Dramma",
+     "Romance",
+     "Crime"
+    ],
+    "es": [
+     "Drama",
+     "Romance",
+     "Crimen"
+    ],
+    "sv": [
+     "Drama",
+     "Romantik",
+     "Kriminal"
+    ]
+   },
+   "rating": 6.9,
+   "votes": 1872,
+   "runtime": 156
   },
   {
    "id": 804095,
@@ -721,7 +2244,46 @@
     "en": "/viYCRC7q4KK1tzCGZMTW7QHYbXX.png",
     "de": "/5wLYrjY1OtX8Pow5zP8MuhtSbA5.png",
     "es": "/vhDk2hNnB1CkewSMr1PwbzI7ZdR.png"
-   }
+   },
+   "overview": {
+    "fr": "Passionné de cinéma, Sammy Fabelman passe son temps à filmer sa famille. S’il est encouragé dans cette voie par sa mère Mitzi, dotée d’un tempérament artistique, son père Burt, scientifique accompli, considère que sa passion est surtout un passe-temps. Au fil des années, Sammy, à force de pointer sa caméra sur ses parents et ses sœurs, est devenu le documentariste de l’histoire familiale ! Il réalise même de petits films amateurs de plus en plus sophistiqués, interprétés par ses amis et ses sœurs. Mais lorsque ses parents décident de déménager dans l’ouest du pays, il découvre une réalité bouleversante sur sa mère qui bouscule ses rapports avec elle et fait basculer son avenir et celui de ses proches.",
+    "en": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+    "de": "Der junge Sammy wächst in der Nachkriegszeit in Arizona, USA, auf. Sein größter Wunsch ist es, eines Tages ein berühmter und erfolgreicher Filmregisseur zu werden. Wird es ihm gelingen, seinen Traum zu erfüllen?",
+    "it": "Cresciuto nell'Arizona del secondo dopoguerra, un giovane di nome Sammy Fabelman scopre uno sconvolgente segreto di famiglia ed esplora come il potere dei film può aiutarlo a vedere la verità.",
+    "es": "Al crecer en la era de Arizona posterior a la Segunda Guerra Mundial, un niño llamado Sammy Fabelman descubre un secreto familiar devastador y explora cómo el poder de las películas puede ayudarlo a ver la verdad. Película semiautobiográfica sobre la infancia y juventud de Steven Spielberg.",
+    "sv": "Sammy Fabelman är en ung man som fascineras av filmens värld och när han får en filmkamera börjar han filma sin familj, sina vänner och sin omgivning. Genom kameran upptäcker han en omskakande familjehemlighet och att filmens kraft hjälper oss att se sanningen om varandra och oss själva."
+   },
+   "tagline": {
+    "fr": "Capturez chaque instant.",
+    "en": "Capture every moment.",
+    "de": "Halte jeden Moment fest",
+    "it": "Cattura ogni attimo",
+    "es": "Captura cada momento.",
+    "sv": "Fånga varje ögonblick."
+   },
+   "genres": {
+    "fr": [
+     "Drame"
+    ],
+    "en": [
+     "Drama"
+    ],
+    "de": [
+     "Drama"
+    ],
+    "it": [
+     "Dramma"
+    ],
+    "es": [
+     "Drama"
+    ],
+    "sv": [
+     "Drama"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 2950,
+   "runtime": 151
   },
   {
    "id": 1275779,
@@ -742,7 +2304,52 @@
     "en": "/v05SwcbdADZsf9I54w68i6OmYTR.png",
     "de": "/gYQrBuyETYhocR4v43YfWtD1nV4.png",
     "es": "/4LrAI6KiktRwVXbt0s3wxThYroN.png"
-   }
+   },
+   "overview": {
+    "fr": "Si vous découvriez que nous ne sommes pas seuls, si quelqu'un vous le montrait, vous le prouvait, cela vous effraierait-il ?",
+    "en": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+    "de": "Die Fernsehmeteorologin Margaret Fairchild wird live während eines TV-Auftritts plötzlich von einem unerklärlichen Phänomen heimgesucht. Während die Behörden zu vertuschen versuchen, dass Außerirdische dahinter stecken könnten, will der Aktivist Daniel Kellner mit allen Mitteln die Weltöffentlichkeit über die Wahrheit informieren.",
+    "it": "Se scoprissi che non siamo soli, se qualcuno te lo mostrasse, te lo dimostrasse, questo ti spaventerebbe?",
+    "es": "Entre conspiraciones gubernamentales y avances tecnológicos, toda la humanidad está a punto de conocer la verdad sobre la existencia extraterrestre y su devenir.",
+    "sv": "Tänk om någon bevisade för dig att vi inte är ensamma, skulle det skrämma dig?"
+   },
+   "tagline": {
+    "fr": "Nous avons le droit de savoir.",
+    "en": "We deserve to know.",
+    "de": "Alles wird enthüllt.",
+    "it": "Meritiamo di sapere",
+    "es": "Merecemos saber.",
+    "sv": "Allt kommer att avslöjas."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Thriller"
+    ],
+    "en": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "de": [
+     "Science Fiction",
+     "Thriller"
+    ],
+    "it": [
+     "Fantascienza",
+     "Thriller"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Suspense"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Thriller"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 4038,
+   "runtime": 145
   }
  ]
 }

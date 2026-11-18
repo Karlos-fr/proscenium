@@ -1,6 +1,6 @@
 {
  "id": "annees-90",
- "version": 1,
+ "version": 2,
  "name": {
   "fr": "Années 90",
   "en": "The 90s",
@@ -36,7 +36,50 @@
     "fr": "/eRtDZtCNGNuIwrC8wGQPa6rpI3k.png",
     "en": "/gLplRCdW39uV13yna7Hf1vcPRjQ.png",
     "es": "/n1T8aCc9IujPPspPK0YdS4Qo7Xa.png"
-   }
+   },
+   "overview": {
+    "fr": "Quand Edward Lewis, businessman de talent, s’offre les services de la belle Vivian, beauté fatale qui arpente chaque nuit les trottoirs d’Hollywood Boulevard, il décide par amusement de l’engager, de lui faire découvrir son style de vie, de la couvrir de cadeaux. Ils vivent ainsi quelque temps, jusqu’au jour où ils découvrent tous deux qu’ils ne peuvent plus se séparer…",
+    "en": "Vivian is a carefree, streetwise diamond in the rough when she meets sophisticated billionaire Edward in a chance encounter that turns into a week-long business arrangement. But Vivian's energetic spirit challenges Edward's no-nonsense approach to life, and soon they are teaching each other – and falling in love!",
+    "de": "Der Spekulant Edward Lewis stolpert bei einer Geschäftsreise in Los Angeles über die naive Prostituierte Vivian. Vivian scheint ihm sympathisch, und so heuert der smarte Millionär das Mädchen für eine Woche als Begleitung an. In dieser Zeit entwickelt sich aus dem Gossengirl eine junge Frau, die nach anfänglichen Schwierigkeiten in der High Society anerkannt wird. Doch auch Edward wandelt sich in Gegenwart der Traumfrau vom Finanzhai zum Finanzier mit sozialem Bewusstsein.",
+    "it": "Edward Lewis, affarista senza scrupoli di grande successo, specialista nell'acquistare grosse società in dissesto che rivende dopo averle smembrate, in trasferta a Hollywood per chiudere un affare chiede a Vivian, prostituta bella quanto simpatica, se è disposta ad essere ingaggiata per tutta la settimana come sua accompagnatrice.",
+    "es": "Un acaudalado y frío hombre de negocios conoce en Hollywood Boulevard a una joven y atractiva prostituta a la que alquila durante una semana para que sea su acompañante en sus cenas con los clientes. Para ello la chica se verá sometida a todo un cambio de look tras el que nadie podrá ver, a simple vista, que es una chica de la calle.",
+    "sv": "En askungesaga för vuxna om miljonären Edward Lewis som av en slump möter den prostituerade Vivian Ward. Han hyr henne som sällskap för en vecka. När veckan är slut har affärsuppgörelsen bytt karaktär..."
+   },
+   "tagline": {
+    "fr": "Il s’est offert ses charmes… Elle a volé son coeur.",
+    "en": "She walked off the street, into his life and stole his heart.",
+    "it": "Lei piombò nella sua vita e lui cadde nella sua rete.",
+    "es": "Salió de la calle, entró en su vida y robó su corazón."
+   },
+   "genres": {
+    "fr": [
+     "Romance",
+     "Comédie"
+    ],
+    "en": [
+     "Romance",
+     "Comedy"
+    ],
+    "de": [
+     "Liebesfilm",
+     "Komödie"
+    ],
+    "it": [
+     "Romance",
+     "Commedia"
+    ],
+    "es": [
+     "Romance",
+     "Comedia"
+    ],
+    "sv": [
+     "Romantik",
+     "Komedi"
+    ]
+   },
+   "rating": 7.4,
+   "votes": 9318,
+   "runtime": 119
   },
   {
    "id": 196,
@@ -59,7 +102,57 @@
     "it": "/yArZzQAxPC7aZi5sfEsiTGRjRoc.png",
     "es": "/R7CCAaWeyYu15jtXHAjEDejGY1.png",
     "sv": "/4LfM0XfewM9JnMl7X1Xbu0ETnss.png"
-   }
+   },
+   "overview": {
+    "fr": "Ce troisième épisode propulse Marty sur une toute nouvelle mission… en l'an 1885, en plein Far West ! Il n'a que cinq jours pour sauver son ami Doc des griffes du terrible Buford \"Molosse\" Tannen et ainsi lui éviter la mort. Cependant, bon nombre d'embûches vont empêcher nos deux voyageurs de rentrer rapidement vers le futur : ils devront faire face à une panne de la DeLorean, leur très célèbre machine à remonter le temps, affronter une bande de hors-la-loi et croiser sur leur route une maîtresse d'école dont le charme ne laissera pas insensible ce bon vieux Doc…",
+    "en": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "de": "Als Dr. Emmett Brown im Jahre 1955 bei einem Landeversuch mit dem DeLorean vom Blitz getroffen wird, katapultiert ihn die Zeitmaschine in das Jahr 1885. Sofort schreibt er Marty McFly einen Brief, in dem er seinen Freund darüber unterrichtet, dass es ihm gut gehe und er seinen Lebensabend gern in dieser Epoche verbringen würde. Dank des zuverlässigen Postsystems erreicht der Brief Marty 70 Jahre später, direkt nachdem dieser mit ansehen musste, wie die Zeitmaschine im bewölkten Nachthimmel von Hill Valley verschwand. Kurz darauf findet Marty allerdings heraus, dass der schrullige Wissenschaftler eine Woche nach seiner Ankunft im Wilden Westen erschossen wird. Um dies zu vereiteln, begibt er sich kurzerhand selbst auf die Reise in das Jahr 1885.",
+    "it": "Per questa terza, conclusiva, puntata della trilogia, Marty McFly è costretto a tornare indietro nel tempo fino al 1885 per salvare Doc, che vi era stato catapultato al termine del secondo capitolo. Questa volta tornare nel futuro sarà ancora più difficile.",
+    "es": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
+    "sv": "Doc Brown och hans skyddsling Marty McFly befinner sig i Vilda västern år 1885. Doc bestämmer sig för att stanna kvar. Men när Marty återvänder till 1955 ser han Docs gravsten och han far tillbaka för att rädda Doc."
+   },
+   "tagline": {
+    "fr": "Ils ont gardé le plus beau voyage pour la fin… Mais cette fois, ils sont peut‐être allés trop loin.",
+    "en": "They've saved the best trip for last... But this time they may have gone too far.",
+    "de": "Die beste Reise machen sie zuletzt … aber vielleicht sind sie dieses Mal doch zu weit gegangen.",
+    "it": "L'ultimo viaggio è il più stupefacente! Ma forse sono andati troppo lontano...",
+    "es": "Han guardado el mejor viaje para el final... Pero esta vez pueden haber ido demasiado lejos."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 12023,
+   "runtime": 119
   },
   {
    "id": 769,
@@ -81,7 +174,52 @@
     "de": "/tYczVI2biaYSD2NRUgeIexpViCJ.png",
     "it": "/od3n2lMgsUAmcqysUkx3HipUprG.png",
     "es": "/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
-   }
+   },
+   "overview": {
+    "fr": "Brooklyn, dans les années 50. Depuis l'enfance, le jeune Henry Hill rêve de devenir gangster. À 16 ans, il se met en selle auprès de Paul Cicero, un caïd local, et commet ses premiers délits. Arrêté et interrogé, il refuse de parler et gagne ainsi le respect du milieu. À sa sortie de prison, il fait la connaissance de James Conway et de Tommy DeVito, deux truands d'une extrême violence, et se lance avec eux dans des trafics de grande envergure. Karen, une jeune bourgeoise qu'il courtise et finit par épouser, ne devine sa profession qu'après être passée devant l'officier d'état-civil. Grisé par le succès, Henry multiplie les coups les plus audacieux…",
+    "en": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "de": "Jimmy und Tommy können machen, was sie wollen. Sie sind Mitglieder der New Yorker Quartier-Mafia, brauchen auf niemanden Rücksicht zu nehmen und verdienen eine Menge Geld. Henry Hill ist von diesem Leben fasziniert und arbeitet daran, es ebenfalls führen zu können. Er wird in die Mafia aufgenommen und macht Karriere - schon bald organisiert er selbst Banküberfälle. Wer dabei im Weg steht, wird \"weggeräumt\", umgebracht. Dabei sind Jimmy und vor allem Tommy nicht zimperlich. Sie verstehen ihr Handwerk, einschließlich Mord, und kennen weder Pardon noch Gewissen...",
+    "it": "Henry Hill, figlio di emigranti italo-irlandesi, fin da giovane entra a far parte della piccola mafia dei quartieri poveri di New York. Ma ben presto scopre la ferocia dei boss locali che usano chiamarsi fra di loro \"bravi ragazzi\"...",
+    "es": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+    "sv": "Filmen utspelar sig under en 30-års period och följer den unge Henry Hills karriär mot den inre kretsen av italienska maffian."
+   },
+   "tagline": {
+    "fr": "Trente ans passés dans la Mafia",
+    "en": "Three decades of life in the mafia.",
+    "de": "Drei Jahrzehnte in der Mafia",
+    "it": "Trent'anni di vita nella Mafia",
+    "es": "Tres décadas de vida en la Mafia.",
+    "sv": "Tre decennier av liv i maffian."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Crime"
+    ],
+    "en": [
+     "Drama",
+     "Crime"
+    ],
+    "de": [
+     "Drama",
+     "Krimi"
+    ],
+    "it": [
+     "Dramma",
+     "Crime"
+    ],
+    "es": [
+     "Drama",
+     "Crimen"
+    ],
+    "sv": [
+     "Drama",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 15047,
+   "runtime": 145
   },
   {
    "id": 771,
@@ -104,7 +242,51 @@
     "it": "/7SOez3bAjvEmzD7Vta9spFOYxM3.png",
     "es": "/5yS4TWGKVXOcpzaq55eQKDwmiVX.png",
     "sv": "/xM3is3kQdgFs0ZMHC9MsY87eYlo.png"
-   }
+   },
+   "overview": {
+    "fr": "La famille McCallister a décidé de passer les fêtes de Noël à Paris. Seulement Kate et Peter McCallister s'aperçoivent dans l'avion qu'il leur manque le plus jeune de leurs enfants, Kevin, âgé de 9 ans. D'abord désespéré, Kevin reprend vite les choses en main et s'organise pour vivre le mieux possible. Quand deux cambrioleurs choisissent sa maison pour commettre leurs méfaits.",
+    "en": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+    "de": "Schon lange hat die Familie McCallister den Urlaub in Europa geplant, und alle sind bereit, am nächsten Morgen endlich loszufliegen. Doch leider verschlafen alle, und alles wird sehr hektisch und unübersichtlich, weil sie das Flugzeug nicht verpassen wollen. Irgendwo über dem Atlantik stellen sie fest, dass sie Kevin, den jüngsten Sohn der Familie, zu Hause vergessen haben. Und der muss nun alleine klar kommen, und das Haus gegen Einbrecher und böse Nachbarn verteidigen.",
+    "it": "Nella fretta di prendere l'aereo diretto a Parigi dove vogliono passare le vacanze di Natale, i McCallister, una famiglia numerosa, dimenticano il piccolo Kevin a casa. Due malviventi cercano quindi di entrare nella villetta per fare razzia, ma sarà peggio per loro...",
+    "es": "Kevin McAllister es un niño de ocho años, miembro de una familia numerosa, que accidentalmente se queda abandonado en su casa cuando toda la familia se marcha a pasar las vacaciones a Francia. Kevin aprende a valerse por sí mismo e incluso a protegerse de Harry y Marv, dos bribones que se proponen asaltar todas las casas cerradas de su vecindario. Cuando su madre Kate lo hecha en falta, realiza un pintoresco viaje de vuelta contra reloj a Chicago para recuperar a su hijo.",
+    "sv": "När Kevins familj åker på semester glömmer de en liten detalj: Kevin! Den åtta år gamla Kevin McCallister har blivit mannen i huset! Kevin tar det kallt och istället för att leta efter sin föräldrar så dekorerar han huset inför julhelgen. Problemet är bara att två tjuvar försöker bryta sig in, Kevin som alltid reagerar mycket kallt, börjar nu att bygga fällor för att välkommna dem!"
+   },
+   "tagline": {
+    "fr": "Pour Noël, ses parents et la famille sont partis à Paris, ils ont oublié un détail à la maison... leur fils, Kevin !",
+    "en": "A family comedy without the family.",
+    "de": "Eine Familien-Komödie ohne Familie",
+    "it": "Quando i McCallister partirono per le vacanze dimenticarono un piccolo dettaglio... Kevin!",
+    "es": "Una comedia familiar sin familia."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Familial"
+    ],
+    "en": [
+     "Comedy",
+     "Family"
+    ],
+    "de": [
+     "Komödie",
+     "Familie"
+    ],
+    "it": [
+     "Commedia",
+     "Famiglia"
+    ],
+    "es": [
+     "Comedia",
+     "Familia"
+    ],
+    "sv": [
+     "Komedi",
+     "Familj"
+    ]
+   },
+   "rating": 7.5,
+   "votes": 13081,
+   "runtime": 103
   },
   {
    "id": 162,
@@ -126,7 +308,58 @@
     "de": "/6blntNMzsY6TZNJaTPprdafFa0s.png",
     "it": "/yf7Xabqbvr0w4kI0PBSQUzzyzF5.png",
     "es": "/ekfdox6JukcoJeHIrKgHWLrntMl.png"
-   }
+   },
+   "overview": {
+    "fr": "Edward n’est pas un garçon ordinaire. Création d’un inventeur, il a reçu un cœur pour aimer, un cerveau pour comprendre. Mais son concepteur est mort avant d’avoir pu terminer son œuvre et Edward se retrouve avec des lames de métal et des instruments tranchants en guise de doigts.",
+    "en": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+    "de": "Ein Erfinder hat den großen Traum, einen künstlichen Menschen zu erschaffen. Doch bevor er Edward vollenden kann, stirbt er an einem Herzinfarkt. Von da an lebt Edward alleine in dessen Schloss weiter und hat dort Scheren wo eigentlich seine Hände sein sollten. Eines Tages macht sein Leben eine Wendung, als die Avon-Vertreterin Peg das Schloss betritt. Peg nimmt den Jungen mit den Scherenhänden bei sich auf. Schnell macht er sich bei der Nachbarschaft beliebt, indem er ihre Büsche in den unterschiedlichsten Formen trimmt und später sogar die Haare der Frauen des Vorortes frisiert. Als er sich allerdings in Pegs Tochter Kim verliebt und deren Freund Edward für seine Zwecke missbraucht, droht diese anfängliche Begeisterung langsam zu schwinden.",
+    "it": "La storia di Edward, un uomo creato da un inventore ma non terminato a causa della prematura morte di questi. In realtà Edward è un ragazzo come tanti altri, ma al posto delle mani ha delle forbici. Quando Peg troverà Edward e lo porterà a casa sua, inizieranno le avventure di questo uomo incredibilmente gentile.",
+    "es": "Érase una vez... un castillo donde vivía un inventor que dedicó parte de su vida a crear una criatura perfecta a la que llamó Edward. Pero el inventor murió de repente y dejó incompleta su creación, ya que en vez de dedos tenía unas horribles manos con hojas de tijera. El pobre Edward vivía sólo en el castillo hasta que una encantadora joven, que trabajaba para la firma Avon, lo llevó a su casa junto con su familia. Pero una criatura tan especial como Edward no estaba preparada para vivir en una ciudad tan extravagante y falsa como Suburbia.",
+    "sv": "En gång i tiden bodde en uppfinnare i ett slott, och hans största uppfinning fick namnet Edward. Trots att Edward hade oemotståndlig charm var han inte riktigt perfekt. Uppfinnarens plötsliga död lämnade honom halvfärdig, med skarpa knivar istället för händer. Edward levde ensam i mörkret till dess en dam tog med honom hem till sin familj. Och där börjar Edwards fantastiska äventyr i det pastellfärgade land som kallas Suburbia."
+   },
+   "tagline": {
+    "fr": "Il ne connaît que l’innocence. Elle ne voit que la beauté.",
+    "en": "Innocence is what he knows. Beauty is what she sees.",
+    "de": "Seine Narben sind tief.",
+    "it": "La storia di un uomo insolitamente gentile.",
+    "es": "Sus cicatrices son profundas.",
+    "sv": "En annorlunda ung man med nypor av stål, men ett hjärta av guld"
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Drame",
+     "Romance"
+    ],
+    "en": [
+     "Fantasy",
+     "Drama",
+     "Romance"
+    ],
+    "de": [
+     "Fantasy",
+     "Drama",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Fantasy",
+     "Dramma",
+     "Romance"
+    ],
+    "es": [
+     "Fantasía",
+     "Drama",
+     "Romance"
+    ],
+    "sv": [
+     "Fantasy",
+     "Drama",
+     "Romantik"
+    ]
+   },
+   "rating": 7.7,
+   "votes": 14214,
+   "runtime": 105
   },
   {
    "id": 274,
@@ -148,7 +381,58 @@
     "de": "/oTrTcsBEwKUmUBp01bSZjP1Y7sI.png",
     "it": "/i2914xolUMcdqrloYSwaiT33rmX.png",
     "es": "/hOy9ZfuWxZ7tM2i0GyCBVDNSbAa.png"
-   }
+   },
+   "overview": {
+    "fr": "Un psychopathe connu sous le nom de Buffalo Bill sème la terreur dans le Middle West en kidnappant et en assassinant de jeunes femmes. Clarice Starling, une jeune stagiaire du FBI, est chargée d’interroger l’ex‐psychiatre Hannibal Lecter. Psychopathe redoutablement intelligent et porté sur le cannibalisme, Lecter est capable de lui fournir des informations concernant Buffalo Bill ainsi que son portrait psychologique. Mais il n’accepte de l’aider qu’en échange d’informations sur la vie privée de la jeune femme. Entre eux s’établit un lien de fascination et de répulsion.",
+    "en": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+    "de": "Clarice Starling, Auszubildende beim FBI, bekommt von einem ihrer Lehrer den Auftrag, sich im Gefängnis mit Dr. Hannibal Lecter, einem Massenmörder und Psychiater, zu befassen. Durch ihre Unbefangenheit hoffen sie, daß Lecter ihnen bei der Suche nach einem anderen Serienkiller hilft, aber es ist nicht leicht, an Lecter heranzukommen.",
+    "it": "Dal romanzo omonimo di Thomas Harris. Una giovane recluta dell'FBI è incaricata di far visita in carcere a Hannibal Lecter, psichiatra pluriomicida, per ottenere informazioni su un assassino psicopatico che ha ucciso e scuoiato cinque donne.",
+    "es": "Clarice Starling, del FBI, se aventura a una prisión de máxima seguridad para analizar el cerebro enfermo de Hannibal Lecter, un psiquiatra convertido en caníbal.",
+    "sv": "En psykopat som går under namnet Buffalo Bill kidnappar och mördar unga kvinnor i mellanvästern i USA. I tron om att bästa sättet att fånga Buffalo Bill är att prata med någon som vet hur en mördare tänker, skickas FBI-agenten Clarice Starling för att intervjua en galen fånge. Psykiatrikern Dr. Hannibal Lecter tros kunna ge psykologiska insikter och ledtrådar till mördarens beteende..."
+   },
+   "tagline": {
+    "fr": "Elle doit deviner les pensées d'un criminel en pénétrant dans le monde d'un psychopathe.",
+    "en": "To enter the mind of a killer she must challenge the mind of a madman.",
+    "de": "Um den Geist eines Mörders zu verstehen, muss sie den Geist eines Wahnsinnigen herausfordern.",
+    "it": "\"Uno che faceva un censimento una volta tentò di interrogarmi. Mi mangiai il suo fegato con un bel piatto di fave ed un buon Chianti.\"",
+    "es": "Para entrar en la mente de un asesino, tendrá que desafiar a la mente de un loco.",
+    "sv": "\"I'm Having An Old Friend For Dinner\""
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Thriller",
+     "Drame"
+    ],
+    "en": [
+     "Crime",
+     "Thriller",
+     "Drama"
+    ],
+    "de": [
+     "Krimi",
+     "Thriller",
+     "Drama"
+    ],
+    "it": [
+     "Crime",
+     "Thriller",
+     "Dramma"
+    ],
+    "es": [
+     "Crimen",
+     "Suspense",
+     "Drama"
+    ],
+    "sv": [
+     "Kriminal",
+     "Thriller",
+     "Drama"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 18869,
+   "runtime": 119
   },
   {
    "id": 280,
@@ -170,7 +454,57 @@
     "de": "/mT6lmHuoWeoYZZYkjoZvoJROzFI.png",
     "it": "/pnDA3ZSNhJKGquiyatI7ipTZXoJ.png",
     "es": "/J7vIMfYlrTepIGhUX4IrniPyxU.png"
-   }
+   },
+   "overview": {
+    "fr": "En 2029, après leur échec pour éliminer Sarah Connor, les robots de Skynet programment un nouveau Terminator, le T‐1000, pour retourner dans le passé et éliminer son fils John Connor, futur leader de la résistance humaine. Ce dernier programme un autre cyborg, le T‐800, et l’envoie également en 1995, pour le protéger. Une seule question déterminera le sort de l’humanité : laquelle des deux machines trouvera John la première ?",
+    "en": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+    "de": "Zehn Jahre nach der Terrorherrschaft des ersten Terminators kehrt ein neuer Killer-Cyborg auf die Erde zurück. Der Auftrag des T-1000 lautet: John Connor muss sterben. Der zwölfjährige John ist der einzige, der eines fernen Tages die Menschheit vor der Übernahme der Weltherrschaft durch die Maschinen retten könnte. Doch die Rebellen aus der Zukunft sind wachsam. Zum Schutz für John entsenden sie einen umprogrammierten Terminator der alten Generation, den T-800, auf die Erde.",
+    "it": "Dieci anni dopo i fatti stravolgenti per Sarah Connor, un altro, più evoluto Terminator viene inviato sulle sue tracce. Stavolta l'obiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno conquistando il mondo. Anche i ribelli del futuro cercheranno di provvedere alla protezione del ragazzo.",
+    "es": "Ha pasado once años desde que Sarah Connor fue marcada como objetivo para ser eliminada por un cyborg del futuro. Ahora su hijo John, el futuro líder de la resistencia, es el objetivo de un Terminator más moderno, más mortífero. Una vez más, la resistencia se las ha ingeniado para enviar un protector de vuelta al pasado para intentar salvar a John y a su madre Sarah.",
+    "sv": "Efter händelserna i första Terminator har Sarah Connor blivit intagen på mentalsjukhus och hennes son John Connor har placerats i fosterhem. Från framtiden skickas två cyborger, en T-1000 med uppdraget att döda John, och en omprogrammerad Serie T-800 Model 101 för att skydda honom. Samtidigt som de försvarar sig måste de också hitta den man som är skyldig till att Skynet förklarar krig mot mänskligheten."
+   },
+   "tagline": {
+    "fr": "Même fabrication, même modèle, nouvelle mission.",
+    "en": "It's nothing personal.",
+    "de": "Ich will niemandem zu nahe treten.",
+    "it": "Non è niente di personale.",
+    "es": "No es nada personal."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Thriller",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Thriller",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Suspense",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Thriller",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 15206,
+   "runtime": 137
   },
   {
    "id": 500,
@@ -192,7 +526,50 @@
     "de": "/bT7JuEfq04gLQSL9vOlY2FY7vYx.png",
     "it": "/p5nv3BwTL3S8nNp6kCtkEdz3nsV.png",
     "es": "/zKOKdpLLwVf1ab015NjgghYskEP.png"
-   }
+   },
+   "overview": {
+    "fr": "Après un hold‐up manqué, des cambrioleurs de haut vol font leurs comptes dans une confrontation violente, pour découvrir lequel d’entre eux les a trahis.",
+    "en": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+    "de": "Ein perfekt geplanter Coup endet in einem rücksichtslosen Psycho-Horrortrip, der blutige Opfer fordert. Beteiligt sind sechs elegant gekleidete Profi-Gangster, die zu einem Überfall auf ein Juweliergeschäft zusammenkommen. Alles, was die Gentlemen voneinander wissen, sind die Decknamen, die ihnen ihr Auftraggeber Joe Cabot gegeben hat. Mr. White, Mr. Orange, Mr. Pink, Mr. Blonde, Mr. Blue, Mr. Brown. Doch der todsichere Coup misslingt, die Polizei war informiert. Am geheimen Treffpunkt, einem leerstehenden Lagerhaus, wird ein Verdacht zur Gewissheit: unter ihnen ist ein Spitzel. Tödliches Misstrauen macht sich breit. Während einer der Gangster zu verbluten droht, entwickeln sich die anderen zu reißenden Bestien, die weder vor der Folter an einem gekidnappten Polizisten noch vor blutiger Gewalt untereinander zurückschrecken.",
+    "it": "Los Angeles. Una rapina a un importatore di diamanti che avrebbe potuto dare un ottimo bottino con un rischio calcolato si trasforma in una sparatoria che costringe i malviventi a una fuga disordinata. C'è però un punto di ritrovo prestabilito da Joe, il loro capo. Si tratta di un deposito abbandonato che viene raggiunto per primi da Mr. White e Mr. Orange gravemente ferito. Ognuno degli appartenenti alla banda ha finora conosciuto gli altri solo con il nome di un colore per evitare eventuali delazioni. Ma è proprio il dubbio che al loro interno si nasconda un infiltrato della polizia che comincia a tormentare i soggetti che, progressivamente, raggiungeranno il punto di raccolta.",
+    "es": "Una banda organizada formada por seis individuos es contratada para dar un golpe. Anteriormente varios de los miembros no se conocían entre sí, por lo que entre ellos usan nombres en clave. El objetivo: atracar una empresa para llevarse unos diamantes. Pero, antes de que suene la alarma, la policía ya está allí. Algunos mueren en el atraco, y el resto se reúne en el lugar convenido.",
+    "sv": "Ett gäng mer eller mindre rutinerade brottslingar sammankallas av en känd boss för att begå ett avancerat rån tillsammans, men någonting går väldigt fel."
+   },
+   "tagline": {
+    "fr": "Qui les a balancés ?",
+    "en": "Every dog has his day.",
+    "it": "Amici prima, iene dopo. Finirono per sbranarsi tra loro.",
+    "es": "A cada cerdo le llega su San Martín"
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Thriller"
+    ],
+    "en": [
+     "Crime",
+     "Thriller"
+    ],
+    "de": [
+     "Krimi",
+     "Thriller"
+    ],
+    "it": [
+     "Crime",
+     "Thriller"
+    ],
+    "es": [
+     "Crimen",
+     "Suspense"
+    ],
+    "sv": [
+     "Kriminal",
+     "Thriller"
+    ]
+   },
+   "rating": 8.1,
+   "votes": 16057,
+   "runtime": 99
   },
   {
    "id": 137,
@@ -215,7 +592,57 @@
     "it": "/biNwyW2U9PJmd0gBkeXFnMpBUwI.png",
     "es": "/1LzsIiQ53Ilk5tgMxZnsna2kXXR.png",
     "sv": "/to8El19jUhSN5k1GI32vXrpmfmQ.png"
-   }
+   },
+   "overview": {
+    "fr": "Phil Connors, présentateur météo grincheux et arrogant, doit tourner un reportage sur la fête de la marmotte. Mais lorsqu'il se réveille le lendemain, il découvre avec stupeur que la date n'a pas changé et qu'il est condamné à revivre un par un les événements de la veille. Connors se voit dès lors obligé de faire face à la répétition infinie du Jour de la marmotte.",
+    "en": "A cynical TV weatherman, along with his idealistic producer and his sardonic cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+    "de": "Es ist der 2. Februar, Murmeltiertag: Für eine Reportage über das alljährliche Wettervorhersage-Ritual verschlägt es den sarkastischen, verbitterten, stets miesgelaunten und unfreundlichen Wettermann Phil Connors, seine Produzentin Rita und den Kameramann Larry in das kleine Provinznest Punxsutawney. Ein ganz normaler Tag. Phil berichtet vom Murmeltier, das alljährlich aus seinem Bau gelockt wird, um das Wetter der kommenden Zeit vorherzusagen. Nebenbei flirtet er ein wenig mit Rita und gibt sich gewohnt sarkastisch-zynisch. Als Phil jedoch am darauffolgenden Tag aufwacht, ist dummerweise wieder der 2. Februar und außer ihm scheint niemand diese Wiederholung zu bemerken.",
+    "it": "Phil, giornalista televisivo, si reca a Punxsutawney in Pennsylvania, per il \"Groundhog Day\", il giorno della marmotta. Realizzato il servizio, vorrebbe partire subito, ma una tempesta di neve lo blocca. Prende alloggio in una locanda e, la mattina, svegliandosi rivive tutti i fatti del giorno prima. Così anche le mattine successive. Dapprima incredulo, quindi allarmato, poi atterrito, Phil volge però a suo favore la situazione.",
+    "es": "Phil, hombre del tiempo de una cadena de televisión, es enviado un año más a Punxstawnwey, a cubrir la información del festival de El día de la marmota. En el viaje de regreso, Phil y su equipo se ven sorprendidos por una tormenta que les obliga a regresar a la pequeña ciudad. A la mañana siguiente, al levantarse, Phil escucha en el radiodespertador el mismo programa que la mañana anterior.",
+    "sv": "Det är måndagen den 2 februari och TV-meteorologen Phil Connors skickas för att bevaka den årliga Groundhog Day-festivalen. När han vaknar nästa morgon är det den måndagen den 2 februari... igen!"
+   },
+   "tagline": {
+    "fr": "Prisonnier du temps, il revit tous les jours le même jour, jusqu'au plus beau jour de sa vie.",
+    "en": "He’s having the worst day of his life… Over and over again.",
+    "de": "Für ihn ist heute gestern. Und morgen auch.",
+    "it": "Rivivere più volte lo stesso giorno può anche avere i suoi vantaggi...",
+    "es": "En su vida el mismo día se repite una, y otra, y otra, y otra… y otra vez…"
+   },
+   "genres": {
+    "fr": [
+     "Romance",
+     "Fantastique",
+     "Comédie"
+    ],
+    "en": [
+     "Romance",
+     "Fantasy",
+     "Comedy"
+    ],
+    "de": [
+     "Liebesfilm",
+     "Fantasy",
+     "Komödie"
+    ],
+    "it": [
+     "Romance",
+     "Fantasy",
+     "Commedia"
+    ],
+    "es": [
+     "Romance",
+     "Fantasía",
+     "Comedia"
+    ],
+    "sv": [
+     "Romantik",
+     "Fantasy",
+     "Komedi"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 9364,
+   "runtime": 101
   },
   {
    "id": 329,
@@ -235,7 +662,51 @@
     "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
     "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
     "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
-   }
+   },
+   "overview": {
+    "fr": "Généticien de génie, le professeur John Hammond a recréé de nombreuses espèces de dinosaures à partir d'une goutte de sang prélevée sur un moustique fossilisé. Démiurge naïf et généreux, dépassé par ses propres ambitions, il projette d’ouvrir un gigantesque et terrifiant parc d'attractions. Mais la pureté de son rêve se heurte à la cupidité des hommes et, plus grave, à la violence latente, indomptable de la Nature.",
+    "en": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "de": "John Hammond, ein reicher Unternehmer, errichtet auf einer einsamen Insel heimlich einen Erlebnispark, der für seine Gäste außergewöhnliche Attraktionen bereithält. Es ist gelungen, aus einer urzeitlichen DNA leibhaftige Dinosaurier ins Leben zu rufen. Bevor der Park für das Publikum geöffnet wird, lädt er einen führenden Paläontologen, dessen Freundin, eine Paläobotanikerin, einen berühmten Mathematiker und seine beiden wißbegierigen Enkel ein, um die besorgten Investoren zu beruhigen. Aber der Besuch seiner ersten Gäste verläuft alles andere als nach Plan. Die urzeitlichen Monster brechen aus, entziehen sich jeder Kontrolle und starten eine mörderische Jagd auf ihre Schöpfer ...",
+    "it": "Il ricchissimo industriale John Hammond è riuscito a costruire un parco dei divertimenti a tema incentrato sui dinosauri (riportati in vita grazie ad una complessa operazione di ingegneria genetica), il \"Jurassic Park\". Hammond invita alcuni esperti e scienziati a compiere un sopralluogo nell'isola dove il parco è allestito e a stilare una perizia positiva che gli permetta di ottenere i finanziamenti di cui ha bisogno. Ma qualcosa va storto: a causa di una tempesta, il sistema di controllo computerizzato del parco va fuori uso, i dinosauri rompono i recinti in cui sono rinchiusi e impazzano liberi dando la caccia agli umani...",
+    "es": "El multimillonario John Hammond tiene una idea para un espectacular parque temático: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la última tecnología en el desarrollo de ADN, los científicos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en ámbar contenida en insectos que los mordieron hace millones de años. Los paleontólogos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problemático empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
+    "sv": "En rik entreprenör skapar i hemlighet en nöjespark med levande dinosaurier från förhistoriskt DNA. Före öppningsdagen bjuder han ner ett team av experter och sina två ivriga barnbarn för att uppleva parken och bidra till att lugna oroliga investerare. Men det visar sig att parken är allt annat än roande."
+   },
+   "tagline": {
+    "fr": "Il a fallu 65 millions d'années pour que cette aventure devienne possible.",
+    "en": "An adventure 65 million years in the making.",
+    "de": "Ein Abenteuer, das 65 Millionen Jahre lang geplant war.",
+    "it": "Un'avventura iniziata 65 milioni di anni fa.",
+    "es": "Una aventura de 65 millones de años."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Adventure",
+     "Science Fiction"
+    ],
+    "de": [
+     "Abenteuer",
+     "Science Fiction"
+    ],
+    "it": [
+     "Avventura",
+     "Fantascienza"
+    ],
+    "es": [
+     "Aventura",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Äventyr",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 18632,
+   "runtime": 127
   },
   {
    "id": 424,
@@ -256,7 +727,58 @@
     "en": "/krEC3MIxUbiZy2uM0TemRio2Z2E.png",
     "de": "/3dIeH9CDgAE8qfVeWu1NBr73Sv1.png",
     "es": "/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
-   }
+   },
+   "overview": {
+    "fr": "Évocation des années de guerre d’Oskar Schindler, fils d’industriel d’origine autrichienne rentré à Cracovie en 1939 avec les troupes allemandes. Il va, tout au long de la guerre, protéger des juifs en les faisant travailler dans sa fabrique et en 1944 sauver 800 hommes et 300 femmes du camp d’extermination d’Auschwitz‐Birkenau.",
+    "en": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "de": "Von einer wahren Begebenheit inspiriert, erzählt Schindlers Liste die Geschichte des Industriellen Oskar Schindler, der während des Zweiten Weltkriegs versucht, sich in Krakau eine Existenz aufzubauen. Aus finanziellen Gründen beschäftigt er nur Juden und leiht sich Geld von ihnen um eine Emaillefabrik zu gründen, die ihm letztlich großen Reichtum beschert. Als die Brutalität des Holocaust Krakau erreicht, riskiert er nicht nur sein Vermögen, sondern auch sein Leben um seine Arbeiter vor der Deportation zu bewahren.",
+    "it": "Tratto dal libro di Thomas Keneally è la vera storia di Oscar Schindler, industriale tedesco, che nel 1938 capisce che è bene legarsi ai comandanti militari. Li frequenta nei locali notturni, offre bottiglie preziose. Quando gli ebrei sono relegati nel ghetto di Cracovia Schindler riesce a farsene assegnare alcune centinaia come operai in una fabbrica di pentole. All'inizio sembra sfruttarli, in realtà li salva. Di fronte alla persecuzione tremenda, il tedesco trasforma quella sua prima iniziativa in una vera missione, fino a comprare letteralmente le vite di quasi milleduecento ebrei (la famosa lista) che sicuramente morirebbero nel campo di Auschwitz.",
+    "es": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+    "sv": "Under andra världskriget drev den tyske affärsmannen Oskar Schindler en fabrik i det ockuperade Polen med judiska arbetare från Krakows getto. Schindler var medlem av nazistpartiet, men när han såg hur judarna behandlades i koncentrationslägren tog han ställning och använde hela sin förmögenhet för att köpa tillbaka judiska arbetare och därmed rädda dem undan döden i Auschwitz."
+   },
+   "tagline": {
+    "fr": "Celui qui sauve une vie, sauve le monde.",
+    "en": "Whoever saves one life, saves the world entire.",
+    "de": "Wer ein Leben rettet, rettet die ganze Welt.",
+    "it": "Chiunque salva una vita salva il mondo intero.",
+    "es": "Quien salva una vida, salva al mundo entero.",
+    "sv": "Den som räddar ett liv, räddar hela världen."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Histoire",
+     "Guerre"
+    ],
+    "en": [
+     "Drama",
+     "History",
+     "War"
+    ],
+    "de": [
+     "Drama",
+     "Historie",
+     "Kriegsfilm"
+    ],
+    "it": [
+     "Dramma",
+     "Storia",
+     "Guerra"
+    ],
+    "es": [
+     "Drama",
+     "Historia",
+     "Bélica"
+    ],
+    "sv": [
+     "Drama",
+     "Historisk",
+     "Krig"
+    ]
+   },
+   "rating": 8.6,
+   "votes": 18202,
+   "runtime": 195
   },
   {
    "id": 13,
@@ -276,7 +798,58 @@
     "fr": "/lIMKTW3C88tBbkr7NTSUrfKDi5v.png",
     "en": "/as10mpHSWebQVXwMbwQfWYfR27F.png",
     "es": "/tcEgFz24Evw3CPdPTBi1EQv7IyC.png"
-   }
+   },
+   "overview": {
+    "fr": "À Savannah, État de Géorgie, Forrest Gump, assis sur un banc public, livre à qui veut l’entendre, l’étrange récit de sa vie mouvementée sur trois décennies. Il naît dans un bourg de l’Alabama, affecté d’un quotient intellectuel inférieur à la moyenne et d’une paralysie partielle des jambes. Souvent raillé à l’école, le jeune Forrest se lie d’amitié avec Jenny. Propulsé de l'état d'handicapé physique à celui de vedette du football, de héros du Vietnam au roi de la crevette, des honneurs de la Maison Blanche au bonheur d'une histoire d'amour, Forrest est le symbole d'une époque, un candide dans une Amérique qui a perdu son innocence.",
+    "en": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "de": "Von seiner Mutter rückhaltlos unterstützt, macht sich der geistig ein wenig zurückgebliebene Forrest Gump in die Welt auf. Er bringt Elvis seinen Tanzstil bei, findet in der jungen Jenny eine echte Freundin, wird aufgrund seines Laufvermögens ein Football-Star, steht im Vietnamkrieg seinen Mann, rettet seinen Vorgesetzten Dan Taylor vor dem sicheren Tod und wird schließlich im Shrimps-Business zum Millionär. Doch all die Zeit kann er seine große Liebe Jenny nicht vergessen.",
+    "it": "Forrest Gump - un ragazzo non proprio idiota, ma dal basso coefficiente d'intelligenza - racconta la sua storia a coloro che, uno dopo l'altro, si siedono vicino a lui in attesa dell'autobus. È stato in Vietnam, ha stretto la mano a tre presidenti, ha incontrato Elvis, ha assistito ai movimenti studenteschi, ha casualmente fatto esplodere il Watergate, ha suggerito le parole di \"Imagine\" a John Lennon e per tutta la vita è stato innamorato di una ragazza conosciuta fin da bambino.",
+    "es": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+    "sv": "Forrest Gumps liv skildras under tre våldsamma decennier. Från att ha ansetts vara efterbliven blir han toppidrottsman, krigshjälte i Vietnam och framgångsrik affärsman. Det enda Forrest egentligen vill är dock att hans livs kärlek Jenny ska ha det bra. Forrest förkroppsligar en tidsålder, en lössläppt oskuld i ett USA på väg att förlora sin oskuld. Hans hjärta vet vad hans begränsade IQ inte kan förstå."
+   },
+   "tagline": {
+    "fr": "Le monde ne sera plus jamais le même quand vous l’aurez vu avec les yeux de Forrest Gump.",
+    "en": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+    "de": "Die Welt wird anders sein, wenn man sie mit den Augen von Forrest Gump gesehen hat.",
+    "it": "Il mondo non ti sembrerà più lo stesso dopo averlo visto attraverso gli occhi di Forrest Gump.",
+    "es": "La vida es como una caja de bombones... nunca sabes lo que te va a tocar.",
+    "sv": "Livet är som en chokladask... man vet aldrig vad man får."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame",
+     "Romance"
+    ],
+    "en": [
+     "Comedy",
+     "Drama",
+     "Romance"
+    ],
+    "de": [
+     "Komödie",
+     "Drama",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma",
+     "Romance"
+    ],
+    "es": [
+     "Comedia",
+     "Drama",
+     "Romance"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama",
+     "Romantik"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 30914,
+   "runtime": 143
   },
   {
    "id": 854,
@@ -298,7 +871,63 @@
     "de": "/dxm2kCDbEptlORZ8e1pxAlu5rtH.png",
     "it": "/6fr4l29u4ANQS3BhiTZmtjDIp1t.png",
     "es": "/epjWNX4THom04vDPv54MJtg8Uam.png"
-   }
+   },
+   "overview": {
+    "fr": "Stanley Ipkiss, modeste employé de banque, passionné par l’univers de Tex Avery, trouve un masque ancien aux pouvoirs surnaturels. Il est néanmoins partagé entre devenir cette créature verte sûre d’elle ou rester le timide Stanley Ipkiss, incapable d’aborder la magnifique chanteuse de cabaret Tina Carlyle.",
+    "en": "Timid bank clerk Stanley Ipkiss discovers a magical mask infused with the spirit of the Norse god Loki. Donning it transforms him into an unrestrained, green-faced, cartoon-like wild man. While the mask grants him the confidence to woo a local singer, it also makes him the target of a ruthless mobster.",
+    "de": "Stanley Ipkiss ist ein kleiner Bankangestellter. Sein Leben ist derart unauffällig, dass man es nicht einmal als durchschnittlich bezeichnen kann. Er ist schüchtern, ein bisschen linkisch, und wenn ihn sein Boss oder seine Vermieterin zur Schnecke macht, zittert er am ganzen Leib. Sein einziger Freund ist Milo, ein Terrier. Eines Tages fischt Stanley Treibgut aus dem Fluss: eine rätselhafte Holzmaske. Zu Hause hält er sich mehr zufällig die Maske vor’s Gesicht, und plötzlich bebt die Erde. Magische Kräfte verwandeln Stanley von einer Null zu einem Superhelden, zu einem Wirbelwind, dem selbst die sexy Nachtclub-Tänzerin Tina nicht mehr widerstehen kann. Als der skrupellose Gangsterboss Dorian von den unglaublichen Kräften der Maske erfährt, will er sie haben. Um jeden Preis…",
+    "it": "Un timido bancario viene in possesso di una misteriosa maschera rivelatrice della personalità nascosta di chi la indossa. Diventando così \"The Mask\", durante le sue imprese notturne seduce la donna di un gangster, ma viene anche ricercato dalla polizia che cerca di capire chi si nasconda dietro la maschera.",
+    "es": "Stanley es un ingenuo empleado de banca incapaz de enterarse de cuándo se aprovechan de él, al que su jefe mangonea, al que su casera humilla, y al que solamente su perro parece ser capaz de aguantar. Su amigo Charlie le invita a ir al cabaret Coco Bongo para intentar estimularle y conseguir que espabile, pero antes de que eso ocurra, aparece la bella Tina Carlyle, que entra en el banco para hablar con Stanley y de paso fotografiar la caja fuerte con una mini cámara. Es entonces cuando Stanley encuentra una máscara que le da grandes poderes y que también le quita todos sus miedos: ahora es libre de actuar como quiera.",
+    "sv": "Stanley Ipkiss lever ett synnerligen tråkigt och trist liv. Hans chef på banken gapar och skriker åt honom, och hans enda vän är en liten jycke. Men allt detta förändras när han hittar den magiska Masken. Den ger honom superegenskaper som Stålmannen skulle bli kryptonitgrön av avundsjuka över. Som en tornado gör han rent hus bland översittare, chefer och livsfarliga skurkar. Och så vinner han naturligtvis drömtjejens hjärta på köpet."
+   },
+   "tagline": {
+    "fr": "Splendiiiiide !",
+    "en": "From zero to hero.",
+    "de": "Von Null auf Held",
+    "it": "ssSSSPUMEGGIANTE!!!",
+    "es": "De don nadie a héroe."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Fantastique",
+     "Crime",
+     "Romance"
+    ],
+    "en": [
+     "Comedy",
+     "Fantasy",
+     "Crime",
+     "Romance"
+    ],
+    "de": [
+     "Komödie",
+     "Fantasy",
+     "Krimi",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Commedia",
+     "Fantasy",
+     "Crime",
+     "Romance"
+    ],
+    "es": [
+     "Comedia",
+     "Fantasía",
+     "Crimen",
+     "Romance"
+    ],
+    "sv": [
+     "Komedi",
+     "Fantasy",
+     "Kriminal",
+     "Romantik"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 11778,
+   "runtime": 101
   },
   {
    "id": 680,
@@ -318,7 +947,57 @@
     "fr": "/aPh3YUmSLaEmlbDSCi4jByZV1aF.png",
     "en": "/kpuNKsIzVbK3LDVo4iOJDAY0y7d.png",
     "es": "/wfHK380gK8XNKY7Xps4X1IhDE71.png"
-   }
+   },
+   "overview": {
+    "fr": "L’odyssée sanglante et burlesque de petits malfrats dans la jungle d’Hollywood : Deux petits tueurs, un dangereux gangster marié à une camée, un boxeur roublard, des prêteurs sur gages sadiques, un caïd élégant et dévoué, un dealer bon mari et deux tourtereaux à la gâchette facile.",
+    "en": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "de": "Vincent Vega und Jules Winnfield holen für ihren Boss Marsellus Wallace eine schwarze Aktentasche aus einer Wohnung ab. Drei Jungs, die ihnen dabei im Weg stehen, lassen ihr Leben. Die Killer machen sich mit einem vierten Jungen als Geisel auf den Weg ins Hauptquartier. Doch als das Auto über eine Straßenerhöhung schaukelt, erschießt Vincent aus Versehen die Geisel. Um den blutverspritzten Wagen zu reinigen, machen die beiden einen Abstecher zu Jules's Freund Jimmie, wo auf Befehl vom Boss ein Spezialist für schwierige Aufträge zu ihnen stößt: The Wolf...",
+    "it": "Le vite di due gangster, di un pugile e della moglie di un potente boss della malavita finiscono per intrecciarsi in una paradossale storia di violenza, vendetta e redenzione.",
+    "es": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+    "sv": "Jules Winnfield och Vincent Vega är två torpeder som är på jakt efter en resväska som stulits från deras arbetsgivare, maffialedaren Marsellus Wallace. Butch Coolidge är en åldrande boxare som får betalt av Wallace för att förlora nästa match. Dessa människor har till synes inget samband, men deras liv vävs samma i en serie roliga, bisarra och omotiverade incidenter."
+   },
+   "tagline": {
+    "fr": "Vous ne connaîtrez pas les faits tant que vous n’aurez pas vu la fiction.",
+    "en": "You won’t know the facts until you’ve seen the fiction.",
+    "de": "Drei schwere Jungs und ein Flittchen, das \"Ärger\" heißt.",
+    "it": "Le ragazze come me non invitano in questo modo a chiunque!",
+    "es": "No sabrás los hechos hasta que veas la ficción."
+   },
+   "genres": {
+    "fr": [
+     "Thriller",
+     "Crime",
+     "Comédie"
+    ],
+    "en": [
+     "Thriller",
+     "Crime",
+     "Comedy"
+    ],
+    "de": [
+     "Thriller",
+     "Krimi",
+     "Komödie"
+    ],
+    "it": [
+     "Thriller",
+     "Crime",
+     "Commedia"
+    ],
+    "es": [
+     "Suspense",
+     "Crimen",
+     "Comedia"
+    ],
+    "sv": [
+     "Thriller",
+     "Kriminal",
+     "Komedi"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 31360,
+   "runtime": 155
   },
   {
    "id": 101,
@@ -339,7 +1018,58 @@
     "en": "/2HzRM8xrGjMKJlBFimIlJ43JXbL.png",
     "de": "/tUrT9YvWuBigZBrrSNDSofHhr6j.png",
     "es": "/qqDin4W2ghhwLA1od1BcN46ZLMa.png"
-   }
+   },
+   "overview": {
+    "fr": "Léon est un tueur professionnel redoutable et insaisissable. Il vit seul à New York avec sa plante verte et ses habitudes jusqu'au jour où une petite Mathilda de douze ans sonne à sa porte et fait irruption dans sa vie.",
+    "en": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+    "de": "Die 12-jährige Mathilda wächst nicht gerade in den besten Verhältnissen auf: Ihre Mutter arbeitet als Prostituierte, ihr Vater versteckt Drogen für den korrupten Polizisten Norman Stansfield. Als sich dieser eines Tages betrogen fühlt, richtet er kurzerhand die ganze Familie hin und nur Mathilda entgeht dem Massaker knapp. Verzweifelt bittet sie ihren wenig gesprächigen Nachbarn Léon um Hilfe, der sie nur widerwillig in die Wohnung lässt. Schon kurze Zeit später stellt sie fest, dass er sein Geld als Profikiller verdient. Sie beschließt ebenfalls Cleaner zu werden, um den Mord an ihrer Familie zu rächen...",
+    "it": "Léon è un killer che vive solo, avendo unicamente una pianta da vaso come compagnia. Mathilda è una ragazzina che abita nell'appartamento a fianco alla stanza di Léon. Quando la famiglia di Mathilda viene sterminata per una storia di droga, lei chiede aiuto a Léon. Tra i due nasce una tenera amicizia, fra scambi di lezioni sull'uso delle armi da una parte e di lettura dall'altra.",
+    "es": "Stan es un corrupto agente de la DEA cuya codicia le lleva a cometer asesinatos en las calles de Nueva York. El mortal juego del gato y el ratón empieza cuando se cruza en su camino un solitario hombre, llamado León. León es asesino a sueldo, un personaje indestructible e indocumentado, que sólo bebe leche y se ocupa de sus plantas. En medio se encuentra una huerfanita de 12 años, que no puede olvidar al hombre que asesinó a su familia.",
+    "sv": "Yrkesmördaren Léon bor i Little Italy i New York. En dag knackar den tolvåriga Mathilda på hans dörr. Hennes familj har blivit mördad och av en slump har Mathilda kommit undan. Ytterst tveksamt släpper Leon in henne, medveten om att det kommer att förändra hans liv."
+   },
+   "tagline": {
+    "fr": "Si vous voulez un travail bien fait, faites appel à un professionnel.",
+    "en": "If you want the job done right, hire a professional.",
+    "de": "Léon: Ein Killer, ein Mädchen, ein tödlicher Plan.",
+    "it": "Dal momento del loro incontro, le loro vite non saranno più le stesse.",
+    "es": "Si quieres un trabajo bien hecho, contrata un profesional.",
+    "sv": "Om du vill att jobbet ska bli gjort ordentligt, anlita en professionell."
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Drame",
+     "Action"
+    ],
+    "en": [
+     "Crime",
+     "Drama",
+     "Action"
+    ],
+    "de": [
+     "Krimi",
+     "Drama",
+     "Action"
+    ],
+    "it": [
+     "Crime",
+     "Dramma",
+     "Azione"
+    ],
+    "es": [
+     "Crimen",
+     "Drama",
+     "Acción"
+    ],
+    "sv": [
+     "Kriminal",
+     "Drama",
+     "Action"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 16813,
+   "runtime": 111
   },
   {
    "id": 278,
@@ -362,7 +1092,52 @@
     "it": "/hEJz2la3V7w3yMjNWHwIWr5Hp0e.png",
     "es": "/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png",
     "sv": "/sJ1re8cI0H0hOLMhcNxmsIm59ps.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1947, Andy Dufresne, un jeune banquier, est condamné à la prison à vie pour le meurtre de sa femme et de son amant. Ayant beau clamer son innocence, il est emprisonné à Shawshank, le pénitencier le plus sévère de l'État du Maine. Il y fait la rencontre de Red, un noir désabusé, détenu depuis vingt ans. Commence alors une grande histoire d'amitié entre les deux hommes…",
+    "en": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "de": "Das Shawshank Gefängnis in den 30ern: der wegen Mordes an seiner Frau verurteilte Andy Dufresne kommt als Neuling lebenslänglich hinter Gittern. Zurückhaltend wie er ist, ist er ständig das Ziel sexueller Angriffe, doch als er als Banker durchblicken läßt, daß er finanziell für den Direktor und die Wärter eine Menge tun kann, ist für seine Sicherheit gesorgt. Langsam aber sicher freundet er sich mit dem Langzeitinsassen Red an, baut die Gefängnisbibliothek auf und rückt nie von seiner Überzeugung ab, unschuldig zu sein. Viele Jahre vergehen, bis etwas geschieht, was sogar Reds Leben für immer verändern wird...",
+    "it": "Siamo nel 1946. Processato per l'omicidio della moglie e del suo amante, Andy, un bancario del New England, viene condannato a un doppio ergastolo e recluso nel penitenziario di Shawshank. All'inizio è vittima delle violenze dei reclusi, poi però diventa il consulente finanziario delle guardie. Scopre così che il direttore falsifica i libri contabili intestando i conti a un fittizio Randall Stevens. Fuggito di prigione attraverso un tunnel costruito negli anni, Andy assume l'identità di Randall Stevens, denuncia il direttore e va in Messico.",
+    "es": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+    "sv": "Bankiren Andy Dufresne börjar ett nytt liv i fängelse efter att ha blivit ditsatt för dubbelmord på sin fru och hennes älskare. Han nyttjar sina bankirkunskaper till att arbeta för fängelsets föreståndare. Dufresne beundras av de andra fångarna – inklusive en äldre fånge vid namn Red – för hans integritet och osinande hopp för rättvisa och upprättelse."
+   },
+   "tagline": {
+    "fr": "Même à Shawshank on n'enferme pas l'espoir…",
+    "en": "Fear can hold you prisoner. Hope can set you free.",
+    "de": "Entscheide Dich, ob Du leben oder sterben willst ... nur darum geht es.",
+    "it": "La paura ti rende prigioniero, la speranza può renderti libero.",
+    "es": "El miedo te hace prisionero. Sólo la esperanza puede liberar.",
+    "sv": "Fruktan kan hålla dig fången. Hoppet kan göra dig  fri."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Crime"
+    ],
+    "en": [
+     "Drama",
+     "Crime"
+    ],
+    "de": [
+     "Drama",
+     "Krimi"
+    ],
+    "it": [
+     "Dramma",
+     "Crime"
+    ],
+    "es": [
+     "Drama",
+     "Crimen"
+    ],
+    "sv": [
+     "Drama",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.7,
+   "votes": 31874,
+   "runtime": 143
   },
   {
    "id": 197,
@@ -383,7 +1158,63 @@
     "en": "/qkh7u6JaZaj5ZI3pZBsQaBSoIjy.png",
     "it": "/wpJWtgwMGMtk8eDc6nntsSusRJK.png",
     "es": "/pcGknK3xkl3uPsy6zA1szaBFxEW.png"
-   }
+   },
+   "overview": {
+    "fr": "À la fin du XIIIe siècle, le roi Edward 1er d'Angleterre s'empare du trône d’Écosse, réduisant son peuple à la misère. William Wallace donne le signe de la révolte et, à la tête d'une armée de gueux, parvient à reconquérir plusieurs places fortes. Mais les nobles écossais sont lâchés et par deux fois trahissent le héros de leur peuple…",
+    "en": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+    "de": "Ende des 13. Jahrhunderts ermorden britische Besatzer die geliebte Frau des in Schottland lebenden William Wallace. Von dieser Tat aufgestachelt und blind vor Rache, mobilisiert er seine schottischen Landleute für einen Feldzug gegen die übermächtigen Engländer. Trotz ihrer nicht nur zahlenmäßigen Unterlegenheit schafft man das Unfassbare und besiegt die Armee des britischen Königs. Nach dem Sieg stehen jedoch nicht alle Schotten hinter Wallace und verraten ihren Freiheitskämpfer.",
+    "it": "Nell'anno 1280 la Scozia rimane senza eredi al trono e il re d'Inghilterra, Edoardo I, mette in atto un piano per estendere i propri domini. Fa uccidere molti nobili scozzesi pretendenti al trono e scatena gli eserciti contro le popolazioni rurali. Rimasto orfano per queste rappresaglie, il giovane William Wallace viene messo sotto la tutela dello zio Argyle. Molti anni dopo, William fa ritorno al proprio villaggio, ritrovando gli amici d'infanzia e la bella Murron. Le intenzioni di vivere in pace nella dimora di famiglia vengono meno quando, dopo aver sposato Murron in segreto, questa viene uccisa da un gruppo di soldati della corona per punire la sua reazione ad un tentativo di farle violenza. Da quel momento, ha inizio la vendetta di William Wallace, il cui coraggio darà vita alla ribellione dell'intero popolo di Scozia contro la tirannia del dominio inglese.",
+    "es": "¿Qué clase de hombre desafiaría a un rey? 'Braveheart' es una historia épica medieval sobre la independencia de Escocia en el siglo XIII, basada en la leyenda de William Wallace, un montañés escocés que arrastra a su clan a luchar contra la tiranía del rey Eduardo I de Inglaterra. Después del brutal asesinato de su joven esposa por los ingleses, Wallace sólo busca venganza. Hambrientos y en inferior número, Wallace lidera a los patriotas escoceses y consigue organizar un ejército de guerreros sedientos de libertad logrando recuperar con ello el espíritu que haría a Escocia libre para siempre.",
+    "sv": "Berättelsen om Skottlands brutala självständighetskrig under 1200-talet. När William Wallace fru blir överfallen och mördad av engelska trupper, byts snart hans besatthet av hämnd ut mot en kallsinnig kamp för sitt lands frihet. Berättelsen om Wallaces hjältemod sprider sig snabbt och inspirerar alla förtryckta att ta upp kampen mot England. Det hämndkorståg som Wallace startat blir upptakten till ett grymt och kallblodigt krig."
+   },
+   "tagline": {
+    "fr": "Un seul homme pouvait défier son Roi.",
+    "en": "Every man dies, not every man really lives.",
+    "de": "Jeder Mensch muss sterben, aber nicht heute",
+    "it": "L'uomo che osò sfidare il suo re",
+    "es": "Su pasión cautivó a una mujer. Su valor inspiró a todo un pueblo. Su corazón desafió a un rey."
+   },
+   "genres": {
+    "fr": [
+     "Histoire",
+     "Drame",
+     "Guerre",
+     "Action"
+    ],
+    "en": [
+     "History",
+     "Drama",
+     "War",
+     "Action"
+    ],
+    "de": [
+     "Historie",
+     "Drama",
+     "Kriegsfilm",
+     "Action"
+    ],
+    "it": [
+     "Storia",
+     "Dramma",
+     "Guerra",
+     "Azione"
+    ],
+    "es": [
+     "Historia",
+     "Drama",
+     "Bélica",
+     "Acción"
+    ],
+    "sv": [
+     "Historisk",
+     "Drama",
+     "Krig",
+     "Action"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 11640,
+   "runtime": 178
   },
   {
    "id": 629,
@@ -405,7 +1236,57 @@
     "de": "/nB29ONu0YdOdWffS4T2In8rBhuj.png",
     "it": "/nYUgIKFMp1IcNsk76mIluQ0WcZh.png",
     "es": "/q3Q63qN3ihW09rCvu7WH0akRRMA.png"
-   }
+   },
+   "overview": {
+    "fr": "Suspect numéro 1 dans une étrange affaire de hold-up, Verbal Kint est soumis à un interrogatoire par des agents fédéraux. Très vite, il dévoile aux policiers que le véritable cerveau de cette affaire n'est autre que le redoutable criminel Keyser Soze, un être machiavélique possédant une intelligence hors du commun. Peu à peu, le suspect va dresser un portrait effrayant de ce criminel que personne n'a jamais vu…",
+    "en": "The lone survivor of an explosive heist gone wrong recounts for interrogators the events that began with five disparate criminals assembled for a police lineup - with alleged criminal mastermind Keyser Soze at the center of it all.",
+    "de": "Nach einem Massaker am Hafen erzählt der Krüppel Roger „Verbal“ Kint seine Geschichte: Einige Wochen zuvor suchte die Polizei für eine Gegenüberstellung wegen eines gestohlenen Lastwagens fünf Kriminelle zusammen, neben Kint noch den Ex-Cop Keaton, den Sprengstoffspezialisten Hockney, sowie die Profi-Räuber McManus und Fenster. Aus Rache tun sich die Männer zusammen und drehen ein kleines Ding. Keiner ahnt, daß sie damit dem großen Unbekannten im Hintergrund auf die Füße treten, der Verbrecherlegende Keyser Söze, von dem niemand weiß, ob es ihn überhaupt gibt. Doch Söze zieht schon längst die Fäden im Hintergrund zu einem Netz, aus dem scheinbar niemand entkommen kann. Und so werden die fünf üblichen Verdächtigen zu Erfüllungsgehilfen in einem Spiel, das niemand durchschauen kann.",
+    "it": "Cinque criminali si ritrovano incomprensibilmente insieme in un confronto all'americana. Scopriranno che dietro a tutto c'è il re dei malfattori, Keyser Soze, che li costringerà a partecipare ad una missione suicida.",
+    "es": "Dave Kujan (Chazz Palminteri), un agente especial que trabaja para el servicio de aduanas de EEUU, está investigando las consecuencias de un incendio a bordo de un barco en el puerto de San Pedro de Los Ángeles, con un balance de 27 víctimas mortales -todas aparentemente asesinadas-. La única fuente de información de Kujan es Roger Kint (Kevin Spacey), un estafador lisiado que sobrevivió al incendio. En comisaría, Kint cuenta que todo comenzó 6 semanas atrás en Nueva York, cuando 5 delincuentes, 5 \"sospechosos habituales\", fueron detenidos para una rueda de reconocimiento referente al robo de un camión de armas...",
+    "sv": "En båt har sprängts i bitar, fyra brottslingar har avlidit och nyckeln för att lösa mysteriet finns hos den enda överlevande och hans invecklade, snåriga berättelse som börjar med fem yrkesbrottslingar i en till synes slumpmässig vittneskonfrontation."
+   },
+   "tagline": {
+    "fr": "Qui est Keyser Soze ?",
+    "en": "Five criminals. One line up. No coincidence.",
+    "de": "Fünf Kriminelle. Eine Gegenüberstellung. Kein Zufall.",
+    "it": "Cinque criminali, un confronto, nessuna coincidenza.",
+    "es": "El mejor truco del diablo es convencer al mundo que no existe."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Crime",
+     "Thriller"
+    ],
+    "en": [
+     "Drama",
+     "Crime",
+     "Thriller"
+    ],
+    "de": [
+     "Drama",
+     "Krimi",
+     "Thriller"
+    ],
+    "it": [
+     "Dramma",
+     "Crime",
+     "Thriller"
+    ],
+    "es": [
+     "Drama",
+     "Crimen",
+     "Suspense"
+    ],
+    "sv": [
+     "Drama",
+     "Kriminal",
+     "Thriller"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 11973,
+   "runtime": 106
   },
   {
    "id": 807,
@@ -426,7 +1307,58 @@
     "en": "/zVyZvT1zVO7GIk65RlcOx5KdAN.png",
     "de": "/rI5WPXGxXk9JX1U4vbExj8FKqMD.png",
     "es": "/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
-   }
+   },
+   "overview": {
+    "fr": "À New York, un criminel anonyme a décidé de commettre 7 meurtres basés sur les 7 pêchés capitaux énoncés dans la Bible : gourmandise, avarice, paresse, orgueil, luxure, envie et colère. Vieux flic blasé à 7 jours de la retraite, l'inspecteur Somerset mène l'enquête tout en formant son remplaçant, l'ambitieux inspecteur David Mills…",
+    "en": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "de": "Der besonnene Detective Somerset ist ein Kriminologe der „alten Schule“. Zusammen mit seinem neuen Kollegen, dem Heißsporn Mills, wird er auf den ungewöhnlichsten und erschreckendsten Fall seiner Laufbahn angesetzt. Ein unbekannter Serienkiller versucht scheinbar, die Stadt von allen Sünden zu befreien. Er tut dies, indem er auf bestialische Weise für jede der sieben Todsünden einen symbolischen Ritualmord begeht.",
+    "it": "Un killer astuto e spietato sta uccidendo a raffica, nei modi più raccapriccianti, personaggi scelti con cura. Sulle sue tracce ci sono il giovane e ambizioso Mills, alla prima missione, e l'esperto Somerset, ormai prossimo alla pensione; personalità opposte che mal si tollerano a vicenda. Imparano a \"convivere\" man mano che la caccia all'assassino si fa più serrata e il mistero comincia a districarsi.",
+    "es": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+    "sv": "Under en rutinutryckning hittas en man som mördats medan han intagit sin måltid. Någon har skrivit ordet \"frosseri\" bakom kylskåpet i lägenheten. När ytterligare ett brutalt mord uppdagas finner man på brottsplatsen ordet \"girighet\" skrivet med blod. Poliserna Sommerset och Mills lägger nu snabbt ihop ett och ett - och får sju! Man har att göra med en psykopatisk seriemördare som systematiskt mördar sina offer efter de sju dödssynderna! Var och när sker nästa bestialiska mord?"
+   },
+   "tagline": {
+    "fr": "Sept péchés capitaux. Sept façons de mourir.",
+    "en": "Gluttony. Greed. Sloth. Envy. Wrath. Pride. Lust.",
+    "de": "Sieben Todsünden. Sieben Wege zu sterben. Sieben Wege zu töten.",
+    "it": "Lasciate che chi è senza peccato cerchi di sopravvivere.",
+    "es": "Siete pecados capitales. Siete formas de morir.",
+    "sv": "Frosseri. Girighet. Lättja. Avund. Vrede. Stolthet. Vällust."
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Mystère",
+     "Thriller"
+    ],
+    "en": [
+     "Crime",
+     "Mystery",
+     "Thriller"
+    ],
+    "de": [
+     "Krimi",
+     "Mystery",
+     "Thriller"
+    ],
+    "it": [
+     "Crime",
+     "Mistero",
+     "Thriller"
+    ],
+    "es": [
+     "Crimen",
+     "Misterio",
+     "Suspense"
+    ],
+    "sv": [
+     "Kriminal",
+     "Mystik",
+     "Thriller"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 24242,
+   "runtime": 128
   },
   {
    "id": 8844,
@@ -444,7 +1376,57 @@
    ],
    "logo": {
     "en": "/fLql26sxSt0lwVdKUujzPWBL3H6.png"
-   }
+   },
+   "overview": {
+    "fr": "Lors d'une partie de Jumanji, un jeu très ancien, le jeune Alan est propulsé sous les yeux de son amie d'enfance, Sarah, dans un étrange pays. Il ne pourra s'en échapper que lorsqu'un autre joueur reprendra la partie et le libèrera sur un coup de dés. Vingt-six ans plus tard, il retrouve le monde réel par le coup de dés de deux autres jeunes joueurs.",
+    "en": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
+    "de": "Jumanji ist das geheimnisvolle, uralte Spiel, aus dem der unberechenbare Geist des Dschungels ausbricht, um die Welt zu beherrschen. Alle, die dieses Spiel je gespielt haben, kennen nur zu gut seine Gefahren. So auch Alan Parrish, der bereits als kleiner Junge in die gefährliche Welt von Jumanji entführt wurde. Jetzt, 26 Jahre später, werfen Sarah, Judy und Peter die Würfel - und können Alan befreien. Doch das ist erst der Anfang! Ob sie wollen oder nicht, Jumanji geht weiter: die vier müssen sich gegen wilde Horden von Löwen, Affen, Elefanten, Nashörnern, fleischfressenden Schlingpflanzen, Riesenspinnen, Monsunregen und Erdbeben wehren. Nur so können sie die Kräfte von Jumanji bezwingen. Bis zum nächsten Spiel.",
+    "it": "Judy e Peter, rimasti orfani, prendono dimora con una giovane zia in una grande villa da tempo sfitta. Nella soffitta, s'imbattono in un gioco da tavolo dal nome esotico e cominciano una partita. Ma già al primo colpo di dadi è chiaro che Jumanji non è un gioco come gli altri. Rampicanti carnivori, zanzare giganti, zebre ed elefanti escono dal nulla e distruggono la casa e la città. Dalla giungla torna anche Alan, un uomo che 26 anni prima, giocando con un'amichetta, era finito sulla casella sbagliata ed era scomparso, dato per morto. Come porre fine all'incubo? Solo terminando la partita.",
+    "es": "Cuando el joven Alan Parrish descubre un misterioso juego de mesa, no se da cuenta de sus inimaginables poderes hasta que, por arte de magia, es transportado ante los ojos de su amiga Sarah a las salvajes junglas de Jumanji. Al cabo de 26 años, es liberado del juego por dos niños que no sospechan nada. Alan se reencuentra con Sarah y, junto a Judy y Peter, intentan burlar las poderosas fuerzas del juego antes de que sea demasiado tarde.",
+    "sv": "När den unge Alan Parrish hittar ett mystiskt brädspel har han ingen aning om vilka enorma krafter det innehåller. Inte förrän han på ett magiskt sätt, mitt framför ögonen på sin vän Sarah, förflyttas till Jumanjis vilda djungel! 26 år senare blir han befriad ur spelet av två överraskade barn. Alan återförenas med Sarah och tillsammans med Judy och Peter försöker han besegra spelets våldsamma krafter."
+   },
+   "tagline": {
+    "fr": "Dépêchez-vous, sinon le jeu l'emporte sur vous !",
+    "en": "It's a jungle in here.",
+    "de": "Wenn der Würfel rollt, spielt die Welt verrückt!",
+    "it": "Lancia i dadi e scatena l'avventura!",
+    "es": "Hay una selva dentro."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Fantastique",
+     "Familial"
+    ],
+    "en": [
+     "Adventure",
+     "Fantasy",
+     "Family"
+    ],
+    "de": [
+     "Abenteuer",
+     "Fantasy",
+     "Familie"
+    ],
+    "it": [
+     "Avventura",
+     "Fantasy",
+     "Famiglia"
+    ],
+    "es": [
+     "Aventura",
+     "Fantasía",
+     "Familia"
+    ],
+    "sv": [
+     "Äventyr",
+     "Fantasy",
+     "Familj"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 11725,
+   "runtime": 105
   },
   {
    "id": 63,
@@ -467,7 +1449,58 @@
     "it": "/27Y4W0MoEnZByvtBMZ8RLMXfPmU.png",
     "es": "/inoIB8ScY82zpZmaKProMbUfinP.png",
     "sv": "/oI1t4dxpOj3CV72w6d7KrzvqMvL.png"
-   }
+   },
+   "overview": {
+    "fr": "Nous sommes en l’an 2035. Les quelques milliers d’habitants qui restent sur notre planète sont contraints de vivre sous terre. La surface du globe est devenue inhabitable à la suite d’un virus ayant décimé 99 % de la population. Les survivants mettent tous leurs espoirs dans un voyage à travers le temps pour découvrir les causes de la catastrophe et la prévenir. C’est James Cole, hanté depuis des années par une image incompréhensible, qui est désigné pour cette mission.",
+    "en": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+    "de": "Das Jahr 2035: Die Erdoberfläche ist entvölkert, seit eine Virenepidemie die Menschheit 1996 fast gänzlich vernichtet hat. Die wenigen Überlebenden existieren in einem Unterwelt-System. Mit der Hoffnung auf ein besseres Leben schickt man den Sträfling Cole als Zeitboten ins Jahr der Katastrophe zurück, um den Ursprung der Apokalypse herauszufinden. Versehentlich gerät er zunächst ins Jahr 1990 und in eine Irrenanstalt. Dort warnt ihn der verwirrte Jeffrey vor den \"12 Monkeys\". Haben sie mit den Viren zu tun? Endlich im Jahr 1996, spürt Cole mit der Psychiaterin Kathryn diese Vereinigung auf und macht eine verblüffende Entdeckung...",
+    "it": "L'Esercito delle 12 scimmie è un piccolo gioiellino fantascientifico del 1995 che si focalizza sulla disperazione di un singolo uomo, condannato a essere il prescelto per trovare un rimedio alla situazione disastrosa dell'umanità, in un futuro ormai abitato da una razza umana rassegnata. Nel 2035 gli esseri umani vivono nel sottosuolo, terrorizzati dall'ambiente esterno, portatore di un virus mortale che li ha decimati, rendendo il pianeta Terra un luogo dove i prigionieri sono diventati loro stessi. Anche se solo in modo approssimativo, gli scienziati di quel terribile futuro hanno reso possibile il viaggio nel tempo, unica possibilità per poter mettere le mani sul virus e crearne una cura.",
+    "es": "En el año 2035, un virus mortal ha arrasado la humanidad y los supervivientes viven bajo tierra. Un convicto llamado James Cole se ofrece como voluntario para viajar al pasado y averiguar el origen de la plaga. Su misión es encontrar al 'Ejército de los Doce Monos', una organización terrorista que se cree que liberó el virus. Sin embargo, su viaje se complica por los errores temporales, las visiones recurrentes y la duda sobre su propia cordura. Con la ayuda de una psiquiatra llamada Kathryn Railly y un loco llamado Jeffrey Goines, Cole intenta salvar el futuro antes de que sea demasiado tarde.",
+    "sv": "Året är 2035. Ett virus har spritt sig på jorden och nästintill utrotat dess befolkning. De som fortfarande lever bor i underjorden. En grupp forskare beslutar att fången James Cole ska skickas tillbaka till 1996 för att spåra virusets utbrott och den grupp som misstänks ligga bakom det hela, \"De 12 apornas armé\"."
+   },
+   "tagline": {
+    "fr": "L’avenir appartient à l’histoire.",
+    "en": "The future is history.",
+    "de": "Die Zukunft ist Geschichte",
+    "it": "Il futuro è storia.",
+    "es": "El futuro ya es historia.",
+    "sv": "Framtiden är historia"
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Thriller",
+     "Mystère"
+    ],
+    "en": [
+     "Science Fiction",
+     "Thriller",
+     "Mystery"
+    ],
+    "de": [
+     "Science Fiction",
+     "Thriller",
+     "Mystery"
+    ],
+    "it": [
+     "Fantascienza",
+     "Thriller",
+     "Mistero"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Suspense",
+     "Misterio"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Thriller",
+     "Mystik"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 9566,
+   "runtime": 130
   },
   {
    "id": 627,
@@ -485,7 +1518,51 @@
    ],
    "logo": {
     "en": "/ukJF0aSXy9FqJMAkpcglKHsNzJW.png"
-   }
+   },
+   "overview": {
+    "fr": "Les aventures tragi-comiques de Mark Renton, junkie d’Édimbourg, qui va tenter de se séparer de sa bande de copains, losers, menteurs, psychopathes et voleurs.",
+    "en": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+    "de": "Mark ist ein Junkie. Sein Revier ist ein trister Teil Edinburghs, und sein grauer Alltag dreht sich von morgens bis abends um den nächsten Schuss. Irgendwann, so glaubt er, wird er einmal davon loskommen, aber mit kaputten Freunden wie Sick Boy, Spud und Begbie ist daran gar nicht zu denken. Was immer er versucht, er scheitert kläglich, bis sich eines Tages die Chance seines Lebens bietet – in Form von zwei Kilo seines Lieblingspulvers allerfeinster Qualität…",
+    "it": "Edimburgo. Mark Renton, ladruncolo per necessità, ha scelto un'onesta e sincera tossicodipendenza. Begbie, uno psicopatico violento e alcolizzato spaventa perfino i suoi amici, ma non si sognerebbe nemmeno di toccare la droga. Spud, un disperato, ma amabile eroinomane. Sick Boy, un narciso dalle conoscenze enciclopediche su Sean Connery, in grado di tenere sotto controllo la propria dipendenza dall'eroina. Poi c'è Tommy che non si droga, è un maniaco delle escursioni all'aria aperta e di Iggy Pop. Ai margini della storia, ci sono le ragazze del gruppo.",
+    "es": "Mark Renton es un joven escocés adicto a la heroína, al igual que el resto de sus amigos Todos ellos viven en un mundo aparte, al margen de la realidad. Dentro del grupo hay un violento y alcohólico psicópata, un drogadicto desesperado, un mujeriego con un conocimiento enciclopédico de Sean Connery y un entusiasta de las caminatas y de Iggy Pop.",
+    "sv": "Varför skaffa sig ett jobb när man kan vara arbetslös? Varför skaffa sig familj när man kan umgås med sina vänner istället? Varför ta ansvar när man kan fördriva dagarna genom att stjäla, supa, skjuta hundar med luftgevär, titta på hemgjorda porrfilmer och vara konstant heroinpåverkad? Mark Renton har självdestruktivitet till en konst. Tillsammans med sina vänner är han på kollisionskurs med samhället."
+   },
+   "tagline": {
+    "fr": "Choisis ton futur. Choisis ta vie.",
+    "en": "Choose life.",
+    "de": "Wähle das Leben.",
+    "it": "Scegliete la vita.",
+    "es": "Cambia de vida"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Crime"
+    ],
+    "en": [
+     "Drama",
+     "Crime"
+    ],
+    "de": [
+     "Drama",
+     "Krimi"
+    ],
+    "it": [
+     "Dramma",
+     "Crime"
+    ],
+    "es": [
+     "Drama",
+     "Crimen"
+    ],
+    "sv": [
+     "Drama",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 10846,
+   "runtime": 94
   },
   {
    "id": 275,
@@ -506,7 +1583,57 @@
     "en": "/33niNRK7JDLcaGy2pcJsYkVTeq7.png",
     "it": "/3z79TEMBjzbdoHnyoAEXMiqkyVg.png",
     "es": "/nwxvnN6Gs2NZk4nrk5SVc1Vec7I.png"
-   }
+   },
+   "overview": {
+    "fr": "Jerry Lundegaard, vendeur de voitures d’occasion à Minneapolis est endetté jusqu’au cou. Pour s’en sortir, il fait appel à Carl Showalter et Gaear Grimsrud, deux escrocs à la petite semaine, pour qu’ils enlèvent son épouse Jean. Il pourra ainsi partager avec les ravisseurs la rançon que son riche beau-père paiera pour la libération de sa fille. Mais le plan va rapidement tourner au désastre.",
+    "en": "Jerry Lundegaard is a small-town Minnesota car salesman deeply in debt and willing to do almost anything to get out. Police chief Marge Gunderson discovers a string of violent crimes as Jerry's schemes spiral out of control.",
+    "de": "Es könnte der Plan zum perfekten Verbrechen sein: Der abgebrannte Autoverkäufer Jerry Lundegaard engagiert zwei Galgenvögel, die seine Ehefrau entführen und vom ebenso reichen wie geizigen Schwiegervater ein Lösegeld erpressen sollen. Doch die beiden Schmalspur-Gangster, der eine ein hypernervöses Wrack, der andere ein schweigsamer Psychopath, gehen derart stümperhaft zu Werke, daß mit einemmal drei Menschen tot in der verschneiten Einöde Minnesotas liegen. Ein Fall für Marge Gunderson. Die hochschwangere Polizistin nimmt die Spur auf – Blutstropfen für Blutstropfen.",
+    "it": "Jerry Lundegaard gestisce una concessionaria di Oldsmobile e ha un impellente bisogno di denaro liquido. Escogita il rapimento della moglie per ottenere un cospicuo riscatto dal suocero ostile. Ingaggia due crudeli quanto incapaci malviventi che riescono a tramutare il dramma in tragedia. Sarà l'intervento di Marge Gunderson, capo della polizia locale, al settimo mese di gravidanza, a risolvere la situazione.",
+    "es": "Un hombre apocado y tímido, casado con la hija de un millonario que le impide disfrutar de su fortuna, decide contratar a dos delincuentes para que secuestren a su mujer con el fin de montar un negocio propio con el dinero del rescate. Pero, por una serie de azarosas circunstancias, al secuestro se suman tres brutales asesinatos, lo que obliga a la policía a intervenir.",
+    "sv": "Jerry Lundegaard är en bilförsäljare från Minnesota med ett enda stort problem. Trots ett lyckligt familjeliv är han en desperat man. Han behöver pengar – massor av pengar. Jerry har satt sig i så stor skuld att han inte ser någon annan utväg än att leja småförbrytarna Carl Showlater och Gaear Grimsrud för att kidnappa sin egen fru och pressa sin rika svärfar på pengar. Det verkar vara en simpel affär, men detta är innan polischefen Marge Gunderson från byn Brainerd sätts på fallet. Hon vaggar från spår till spår och närmar sig sakta men säkert den desperate Jerry, som i sin tur har mycket stora problem att hålla både sin svärfar och de båda kidnapparna i schack."
+   },
+   "tagline": {
+    "fr": "Aurez‐vous le courage d’en rire ?",
+    "en": "A lot can happen in the middle of nowhere.",
+    "de": "Es kann viel passieren mitten im Nirgendwo.",
+    "it": "Molte cose possono capitare nel bel mezzo del nulla.",
+    "es": "Pueden pasar muchas cosas en medio de ninguna parte."
+   },
+   "genres": {
+    "fr": [
+     "Crime",
+     "Drame",
+     "Thriller"
+    ],
+    "en": [
+     "Crime",
+     "Drama",
+     "Thriller"
+    ],
+    "de": [
+     "Krimi",
+     "Drama",
+     "Thriller"
+    ],
+    "it": [
+     "Crime",
+     "Dramma",
+     "Thriller"
+    ],
+    "es": [
+     "Crimen",
+     "Drama",
+     "Suspense"
+    ],
+    "sv": [
+     "Kriminal",
+     "Drama",
+     "Thriller"
+    ]
+   },
+   "rating": 7.8,
+   "votes": 9604,
+   "runtime": 98
   },
   {
    "id": 954,
@@ -527,7 +1654,56 @@
     "en": "/d4Nk4FAlEoHLNEny88SQ7Jk9ZsZ.png",
     "de": "/oo5rOYfWarrSIPtppfL57w7XPYL.png",
     "es": "/xmEO3geekHkjfWSdcQaWDnSIpto.png"
-   }
+   },
+   "overview": {
+    "fr": "Ethan Hunt, un agent secret de haut niveau, est accusé de la mort de son équipe d'espionnage. Alors qu'il fuit les criminels du gouvernement, qu'il s'introduit dans la chambre forte la plus impénétrable de la CIA et qu'il se cramponne au toit d'un train à grande vitesse, Hunt se retrouve dans une course effrénée pour devancer ceux qui le poursuivent… et se rapprocher petit à petit d'une vérité bouleversante.",
+    "en": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+    "de": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen.Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem Einsatz zu Tode kommen. Bei einem Treffen mit seinem Kontaktmann der CIA erkennt Hunt, daß hinter der Mission ein perfides Doppelspiel steckt. Als Überlebenden wird ihm die Schuld am Tod seines Teams angehängt. Um seine Unschuld zu beweisen, muß Hunt den wahren Maulwurf finden. Ob auf der Flucht vor Killerkommandos der Regierung, beim Eindringen in den Hochsicherheitstrakt der CIA oder gar am Dach eines Hochgeschwindigkeitszuges festgeklammert, Hunt muß alles daransetzen, seinen Verfolgern stets einen Schritt voraus zu sein und der schrecklichen Wahrheit Schritt für Schritt näher zu kommen...",
+    "it": "Una lista, registrata su un floppy disk e valutata 20 milioni di dollari, rivela le vere identità dei più agguerriti agenti segreti in servizio dopo il 1989. Ethan Hunt e i suoi colleghi dell'IMF la cercano in un giro di dubbie verità, doppi giochi, complotti e tradimenti.",
+    "es": "Ethan Hunt es un superespía capaz de resolver cualquier arriesgada situación con la máxima elegancia. Forma parte de un competente equipo dirigido por el agente Jim Phelps, que ha vuelto a reunir a sus hombres para participar en una dificilísima misión: evitar la venta de un disco robado que contiene información secreta de vital importancia.",
+    "sv": "Ethan Hunt arbetar inom den hemliga amerikanska organisationen Impossible Mission Force (IMF). Uppgifter om CIA-agenternas identiteter, den s.k. NOC-listan har stulits av en f.d. rysk spion. Hunt får det svåra uppdraget att förhindra att informationen säljs på svarta marknaden. Men något går fel... Ethan blir anklagad för ett antal mord han inte begått och på flykt undan de riktiga mördarna måste han ta sig in på CIAs mest bevakade dator. För att undankomma tvingas Hunt hela tiden vara steget före sina förföljare i sin jakt på sanningen."
+   },
+   "tagline": {
+    "fr": "Attendez-vous à l'impossible.",
+    "en": "Expect the impossible.",
+    "de": "Akzeptiere das Unmögliche",
+    "es": "Espera lo imposible."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Thriller"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Thriller"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Thriller"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Thriller"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Suspense"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Thriller"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 10480,
+   "runtime": 111
   },
   {
    "id": 18,
@@ -550,7 +1726,57 @@
     "it": "/kXWkXffqxIK2ODEeNKm4Nf9YkdM.png",
     "es": "/xmSfmWcRZ4saSya42cuyL25ZM7j.png",
     "sv": "/u1bPoiDo22tcxGrUL66OBgEqYVC.png"
-   }
+   },
+   "overview": {
+    "fr": "New York, XXIIIe siècle. Une boule de feu fonce sur la Terre. Pour l'arrêter il faut retrouver le Cinquième Élément, l'être suprême, qui, associé aux quatre éléments vitaux - l'air, l'eau, le feu et la terre - peut seul repousser Le Mal. Cornélius reçoit l'aide de Korben, taxi et ancien agent secret, et de Leeloo, extraterrestre qui a pris la forme d'une jeune femme aux cheveux oranges.",
+    "en": "In 2263, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+    "de": "Im 23. Jahrhundert bewegt sich das Böse in Form eines nahezu unzerstörbaren Kometen auf die Erde zu. Wird er nicht aufgehalten, wird er die Welt vernichten. Doch die Mondoshawan, ein uraltes, friedliebendes Volk, besitzen eine Waffe, das sogenannte fünfte Element, mit der der Komet vernichtet werden kann. Auf ihrem Weg zur Erde werden sie jedoch von bösen Mächten vernichtet, die den Untergang der Menschheit herbeiführen wollen. Wissenschaftlern aber gelingt es, das fast zerstörte fünfte Element wieder herzustellen. Durch eine Reihe von Zufällen wird schließlich der Taxifahrer Korben Dallas in die Geschichte hineingezogen: In seinen Händen liegt plötzlich die Zukunft der Menschheit.",
+    "it": "Una congiunzione provoca l'apertura di un varco attraverso cui una forza penetra nel nostro universo. Gli antichi egizi lo sapevano, ed anzi erano i custodi dell'arma capace di arrestarla, basata sulla fusione dei quattro elementi primari: terra, acqua, fuoco e aria, e di un quinto elemento. Ma agli inizi del ventesimo secolo scendono sulla Terra i Mondoshawan, esseri superiori e benefici che portano via l'arma, promettendo di restituirla. Il momento arriva nel 2259, quando il passaggio si riapre e l'universo è di nuovo minacciato. I Mondoshawan rispediscono sulla Terra l'arma con il quinto elemento, l'amore, incarnato in Leeloo,  ma l'astronave viene intercettata e distrutta dai Mangalore. Fortunatamente dal relitto vengono estratti resti sufficienti a clonare la ragazza, ma la nuova Leeloo non ricorda nulla di sè nè del compito che l'attende. Fuggendo si imbatte nel tassista Korben Dallas, che l'aiuterà a recuperare gli altri quattro elementi e a salvare il mondo.",
+    "es": "Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.",
+    "sv": "Taxichauffören Korben Dallas lever i det 23:e århundradets New York. En vanlig dag får han en mycket ovanlig passagerare och blir indragen i jakten på det femte elementet som skall rädda jorden från dess undergång. Den mystiska, kvinnliga huvudpersonen Leeloo visar sig snart stå i centrum för den vilda jakten, där den grymme Zorg och hans brutala undersåtar kämpar mot världens härskare med munken Cornelius i spetsen."
+   },
+   "tagline": {
+    "fr": "Il n'y a pas d'avenir sans cela.",
+    "en": "There is no future without it.",
+    "de": "Das Fünfte ist Leben.",
+    "it": "Non c'è futuro senza di esso.",
+    "es": "No hay futuro sin él."
+   },
+   "genres": {
+    "fr": [
+     "Science-Fiction",
+     "Action",
+     "Aventure"
+    ],
+    "en": [
+     "Science Fiction",
+     "Action",
+     "Adventure"
+    ],
+    "de": [
+     "Science Fiction",
+     "Action",
+     "Abenteuer"
+    ],
+    "it": [
+     "Fantascienza",
+     "Azione",
+     "Avventura"
+    ],
+    "es": [
+     "Ciencia ficción",
+     "Acción",
+     "Aventura"
+    ],
+    "sv": [
+     "Science Fiction",
+     "Action",
+     "Äventyr"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 12375,
+   "runtime": 127
   },
   {
    "id": 607,
@@ -569,7 +1795,63 @@
    "logo": {
     "en": "/mTevhilEOa7dqILrE9YQnNhkIQ7.png",
     "es": "/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
-   }
+   },
+   "overview": {
+    "fr": "Chargés de protéger la Terre de toute infraction extraterrestre et de réguler l’immigration intergalactique sur notre planète, les Men in black ou MIB opèrent dans le plus grand secret. Vêtus de costumes sombres et équipés des toutes dernières technologies, ils passent inaperçus aux yeux des humains dont ils effacent régulièrement la mémoire récente : la présence d’aliens sur notre sol doit rester secrète. Récemment séparé de son vieux partenaire, retourné à la vie civile sans aucun souvenir de sa vie d’homme en noir, K, le plus expérimenté des agents du MIB décide de former J, un jeune policier. Ensemble, ils vont afronter une nouvelle menace : Edgar le cafard…",
+    "en": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+    "de": "Nur die Men In Black kennen das bestgehütete Geheimnis der Welt: auf der Erde wimmelt es von Aliens! Außerirdische der unterschiedlichsten Art haben sich, als Menschen getarnt, auf dem Planeten breitgemacht. Einige werden geduldet, andere aufgespürt, gejagt, vertrieben. Und diesen Job erledigen die beiden zähesten unter den Alienjägern, die Agenten Mr. K und Mr. J. Doch dann landet ein intergalaktisches Riesenmonster auf der Erde - sein Ziel: die totale Vernichtung der Welt. Trotz optimaler High-Tech-Bewaffnung haben die beiden Super-Agenten jetzt einen lebensgefährlichen Auftrag. Als sie die Fährte des außerirdischen Eindringlings aufgenommen haben, scheint es fast zu spät zu sein - eine globale Katastrophe bahnt sich an...",
+    "it": "Dal 1963 gli extraterrestri sono tra noi: sbarcano clandestinamente, assumono sembianze umane e i più s'integrano pacificamente. Nessuno lo sa, tranne il governo degli USA che ha costituito una sezione speciale per il controllo dell'immigrazione. Ne fanno parte il bianco K (T.L. Jones) e il nero J (W. Smith) che danno la caccia a un ET malvagio, uno scarafaggione alto tre metri infilatosi nel corpo di un contadino-camionista.",
+    "es": "Los hombres de negro son agentes especiales cuya misión consiste en controlar a los alienígenas, aquí deberán hacer frente al extraterrestre Edgar el Insecto para que no se apropie de la galaxia de otra especie.",
+    "sv": "Vi får följa agenterna Kay och Jay - medlemmar av en topphemlig organisation som övervakar utomjordliga aktiviteter på jorden. De hamnar mitt i en livsfarlig uppgörelse med en intergalaktisk terrorist som har anlänt till jorden för att lönnmörda två ambassadörer från motstridiga galaxer. Kay och Jays uppdrag blir att stoppa inkräktaren och rädda jorden från förintelse. Helt enkelt en vanlig dag på jobbet för Men in Black."
+   },
+   "tagline": {
+    "fr": "Ils protègent la Terre contre la racaille de l'Univers",
+    "en": "Protecting the Earth from the scum of the universe.",
+    "de": "Sie schützen die Erde vor dem Abschaum des Universums.",
+    "it": "Proteggono la terra dalla feccia dell'universo",
+    "es": "Protegiendo la tierra de la escoria del universo."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Aventure",
+     "Comédie",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Adventure",
+     "Comedy",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Abenteuer",
+     "Komödie",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Avventura",
+     "Commedia",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Aventura",
+     "Comedia",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Äventyr",
+     "Komedi",
+     "Science Fiction"
+    ]
+   },
+   "rating": 7.2,
+   "votes": 15451,
+   "runtime": 98
   },
   {
    "id": 489,
@@ -590,7 +1872,46 @@
     "en": "/m5e8QvfjfmMmTvh39oj3rLIZUri.png",
     "it": "/Hkfbl6rFODLmy742ZsVv7vru1H.png",
     "es": "/ckzfDl27l5UThXy1GUO5G3PQmlq.png"
-   }
+   },
+   "overview": {
+    "fr": "Will Hunting est un authentique génie mais également un rebelle aux élans imprévisibles. Il est né dans le quartier populaire de South Boston et a arrêté très tôt ses études, refusant le brillant avenir que pouvait lui procurer son intelligence. Il vit désormais entouré d'une bande de copains et passe son temps dans les bars a chercher la bagarre et à commettre quelques petits délits qui risquent bien de l'envoyer en prison. C'est alors que ses dons prodigieux en mathématiques attirent l'attention du professeur Lambeau, du Massachusetts Institute of Technology...",
+    "en": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+    "de": "Der aus einfachen Verhältnissen stammende Will Hunting jobbt als Reinigungskraft am Massachusetts Institute of Technology und keiner ahnt, dass in ihm ein mathematisches Genie steckt. Mühelos löst er die für die Studenten angeschriebenen Aufgaben. Doch als der eigensinnige Will nach einer Schlägerei im Gefängnis landet, liegt sein Schicksal in den Händen des Therapeuten Sean Maguire. Nach und nach findet der exzentrische Psychologe Zugang zu dem verschlossenen jungen Mann und bringt ihn dazu, sich seinen Gefühlen, Ängsten und letztlich auch seiner Zukunft zu stellen.",
+    "it": "Will Hunting è un ragazzo orfano dedito a piccoli furti, ma con grandi capacità per la matematica. Queste doti vengono notate da un professore universitario, che mandandolo da un suo amico psichiatra cerca di aiutarlo a togliersi dalla strada.",
+    "es": "Will es un joven rebelde con una inteligencia asombrosa, especialmente con las matemáticas. El descubrimiento de su talento por parte de los académicos le obligará a elegir entre seguir con su vida de siempre -un trabajo fácil, buenos amigos, muchas cervezas y alguna bronca- o aprovechar sus grandes cualidades intelectuales en alguna universidad. Sólo los consejos de un solitario y bohemio profesor le ayudará a decidirse.",
+    "sv": "Will är en 20-åring vars vardag kantas av slagsmål, skitjobb och pubrundor med polarna. Han är annorlunda - överintelligent. Han har fotografiskt minne och kan lösa matematiska problem som t.o.m. Nobelpristagaren skulle gå bet på. Wills själsliga kaos förvärras då han möter sitt livs första kärlek."
+   },
+   "tagline": {
+    "fr": "Imprévisible. Génial. Rebelle.",
+    "en": "Some people can never believe in themselves, until someone believes in them.",
+    "de": "Der gute Will Hunting.",
+    "it": "Selvaggio. Geniale. Ribelle. Nei primi vent'anni della sua vita Will Hunting ha ignorato ogni regola, ora sta per incontrare chi gli può tenere testa.",
+    "es": "Algunas personas nunca pueden creer en sí mismas, hasta que alguien cree en ellas.",
+    "sv": "Född till geni. Fostrad att slåss."
+   },
+   "genres": {
+    "fr": [
+     "Drame"
+    ],
+    "en": [
+     "Drama"
+    ],
+    "de": [
+     "Drama"
+    ],
+    "it": [
+     "Dramma"
+    ],
+    "es": [
+     "Drama"
+    ],
+    "sv": [
+     "Drama"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 14609,
+   "runtime": 127
   },
   {
    "id": 597,
@@ -610,7 +1931,52 @@
     "fr": "/m73D0BWDcJs53TjuFwHxlWZux9i.png",
     "en": "/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
     "es": "/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png"
-   }
+   },
+   "overview": {
+    "fr": "Southampton, 10 avril 1912. Le paquebot le plus grand et le plus moderne du monde, réputé pour son insubmersibilité, le « Titanic », appareille pour son premier voyage. Quatre jours plus tard, il heurte un iceberg. À son bord, un artiste pauvre et une grande bourgeoise tombent amoureux.",
+    "en": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "de": "Atlantischer Ozean, 1912: Auf der Jungfernfahrt der Titanic trifft der mittellose Maler Jack Dawson auf die schöne, aber unglückliche Erste-Klasse-Passagierin Rose DeWitt Bukater. Rose reist gemeinsam mit ihrer Mutter und ihrem versnobten Verlobten Cal, den sie aus finanziellen Gründen heiraten soll, aber nicht liebt. Als Jack beobachtet, wie Rose über die Reling klettert, um sich ins Meer zu stürzen, und ihren sicheren Tod abwenden kann, beginnt für beide eine Liebesgeschichte über Klassengrenzen hinweg. Gemeinsam mit Jack entdeckt Rose das ausgelassene Leben der einfachen Passagiere unter Deck der Titanic und das wahre Wesen der Liebe. Währenddessen steuert die als unsinkbar geltende Titanic geradewegs auf einen Eisberg zu.",
+    "it": "Rose ha diciassette anni, una madre egoista, un fidanzato facoltoso e una vita pianificata. Imbarcata sul Titanic e insoddisfatta della propria subalternità al futuro sposo incontra Jack, romantico disegnatore della terza classe che ha vinto a poker un biglietto per l'America. Contro le convenzioni e il destino, che chiederà il conto in una notte senza luna, Rose e Jack si innamorano, spiegando il loro spirito come i motori del più grande transatlantico del mondo. Lanciato nella sua prima traversata oceanica il Titanic è colpito al cuore da un iceberg, 'affondando' millecinquecento persone e il futuro dei due giovani amanti. Ottantaquattro anni dopo l'ultracentenaria Rose, scampata al naufragio e sopravvissuta a Jack, racconterà a un gruppo di scienziati la meraviglia di un amore interclassista e la stupidità di un mondo diviso in classi. Un mondo che il Titanic inabisserà in un oceano nero il 15 aprile del 1912.",
+    "es": "Jack, un joven artista, gana en una partida de cartas un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo conoce a Rose, una joven de una buena familia venida a menos que va a contraer un matrimonio de conveniencia con Cal, un millonario engreído a quien sólo interesa el prestigioso apellido de su prometida. Jack y Rose se enamoran, pero el prometido y la madre de ella ponen todo tipo de trabas a su relación. Mientras, el gigantesco y lujoso transatlántico se aproxima hacia un inmenso iceberg.",
+    "sv": "Den 10 april 1912 stävar Titanic ut från hamnen i Southampton på sin jungfruresa. I första klass, med lyxrestauranger, swimmingpool och promenadstråk, bor 17-åriga Rose i en skyddad värld, styrd av stränga moralregler och familjens förväntningar. I sällskapet finns också hennes förmögne fästman, ansedd som ett utmärkt parti för en societetsflicka. I tredje klass, långt under däck, ligger Jack på sin brits och drömmer om det stora äventyret. De kommer från skilda världar men deras hemliga passion är gränslös."
+   },
+   "tagline": {
+    "fr": "Rien sur cette terre ne saurait les séparer.",
+    "en": "Nothing on earth could come between them.",
+    "de": "Nichts auf dieser Welt konnte sie trennen.",
+    "it": "Nulla al mondo poteva dividerli.",
+    "es": "Nada en el mundo podría separarlos.",
+    "sv": "Inget på jorden kunde skilja dem åt."
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Romance"
+    ],
+    "en": [
+     "Drama",
+     "Romance"
+    ],
+    "de": [
+     "Drama",
+     "Liebesfilm"
+    ],
+    "it": [
+     "Dramma",
+     "Romance"
+    ],
+    "es": [
+     "Drama",
+     "Romance"
+    ],
+    "sv": [
+     "Drama",
+     "Romantik"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 28097,
+   "runtime": 195
   },
   {
    "id": 637,
@@ -632,7 +1998,52 @@
     "de": "/a2tFOQOWN7MWdmIkeBMZUUMFacf.png",
     "it": "/th95PpJA6rAEc28XvbU1RNSKadc.png",
     "es": "/mq5wwAcWOIiWorPQzSu4R2OrdWe.png"
-   }
+   },
+   "overview": {
+    "fr": "En 1938, Guido, jeune homme plein de gaieté, rêve d'ouvrir une librairie, malgré les tracasseries de l'administration fasciste. Il tombe amoureux de Dora, institutrice étouffée par le conformisme familial et l'enlève le jour de ses fiançailles avec un bureaucrate du régime. Cinq ans plus tard, Guido et Dora ont un fils : Giosue. Mais les lois raciales sont entrées en vigueur et Guido est juif. Il est alors déporté avec son fils. Par amour pour eux, Dora monte de son plein gré dans le train qui les emmène aux camps de la mort où Guido va tout faire pour éviter l'horreur à son fils…",
+    "en": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+    "de": "Die Geschichte eines italienischen Buchhändlers jüdischer Abstammung, der in seiner eigenen Märchenwelt lebt. Doch seine kreative Vorstellungskraft wird vor eine bittere Herausforderung gestellt, als er mit seiner ganzen Familie während des Holocaust in ein Konzentrationslager deportiert wird. Kurzerhand erklärt er seinem kleinen Sohn, dass alles nur ein Spiel sei.",
+    "it": "Guido, un giovane ebreo amante della vita e della poesia, si reca ad Arezzo con l'amico Ferruccio in cerca di lavoro. Si fa assumere come cameriere dallo zio Eliseo, che gestisce il Grand Hotel, e s'innamora di Dora, un'insegnante promessa sposa all'antipatico fascista Rodolfo. Con l'esuberanza e l'allegria del suo carattere, riesce a vincere le reticenze della maestrina, e a sposarla. Sei anni dopo, probabilmente denunciato dalla suocera che non ha mai digerito il matrimonio, Guido è deportato in un campo di concentramento con lo zio Eliseo e col suo figlioletto, il piccolo Giosuè, mentre Dora, pur non essendo ebrea, decide di seguirli di sua iniziativa.",
+    "es": "En 1939, a punto de estallar la Segunda Guerra Mundial (1939-1945), el extravagante Guido llega a Arezzo, en la Toscana, con la intención de abrir una librería. Allí conoce a la encantadora Dora y, a pesar de que es la prometida del fascista Rodolfo, se casa con ella y tiene un hijo. Al estallar la guerra, los tres son internados en un campo de exterminio, donde Guido hará lo imposible para hacer creer a su hijo que la terrible situación que están padeciendo es tan sólo un juego.",
+    "sv": "I 30-talets Italien blir Guido och Dora djupt förälskade och får en son tillsammans. Men andra världskriget bryter snart ut och paret skiljs åt under grymma förhållanden då Guido och hans son skickas till ett nazistiskt koncentrationsläger. Men hoppet är det sista som överger dem, och de båda tror att de en dag kommer få se Dora igen."
+   },
+   "tagline": {
+    "fr": "Une fable inoubliable qui prouve que l'amour, la famille et l'imagination peuvent tout vaincre.",
+    "en": "An unforgettable fable that proves love, family and imagination conquer all.",
+    "de": "Eine unvergessliche Fabel, die beweist, dass Liebe, Familie und Fantasie alles überwinden.",
+    "it": "Una favola indimenticabile che dimostra che l'amore, la famiglia e l'immaginazione conquistano tutto.",
+    "es": "Un historia inolvidable que demuestra que el amor, la familia y la imaginación pueden conquistar todo.",
+    "sv": "En oförglömlig saga som visar att kärlek, familj och fantasi kan övervinna allt."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 14412,
+   "runtime": 116
   },
   {
    "id": 115,
@@ -653,7 +2064,51 @@
     "en": "/9y7SHMO5WvyEWBbfG0TibeWszYX.png",
     "it": "/b6X3tj52Q4SsplUIZpCtr0DQg0A.png",
     "es": "/fjGn6VaEXrTAlmeuDeTTejxPMvM.png"
-   }
+   },
+   "overview": {
+    "fr": "Un jour, deux malfrats viennent tabasser et rançonner Lebowski, dit « le Duc », un glandeur fini qui fume de l'herbe illicite, boit de la vodka-lait et passe son temps au bowling. Agacé par ces intrus, qui ont uriné sur son tapis, il part en chasse, accompagné par son pote Walter…",
+    "en": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+    "de": "The Big Lebowski ist eigentlich ein Millonär aus LA, dessen Ehefrau Bunny hohe Geldschulden hat. Der „Dude“ heißt wie der Millionär auch Jeffrey Lebowski, aber er ist arbeitslos, faul und ein 60er Jahre Nostalgiker, der gerne mit seinen komischen Freunden Walter und Donny bowlen geht. Eines Tages erwarten ihn zwei Geldeintreiber. Sie haben ihn mit dem echten Big Lebowski verwechselt und fordern von ihm das Geld, das seine angebliche Frau Bunny ihnen schuldet. Nachdem sie auf seinen Lieblingsteppich uriniert haben, begibt sich der beleidigte Dude auf die Suche nach dem richtigen Big Lebowski. Der Millionär will zuerst nichts vom Alt-Hippie wissen und schickt ihn weg. Doch Bunny wird entführt und Big Lebowski heuert seinen Namensvetter als Lösegeldkurier an. Als Walter, der verstörte Vietnamveteran, ein Teil des Lösegeldes behalten will, fangen die Problem für den Dude erst richtig an…",
+    "it": "Jeffrey \"Drugo\" Lebowski, i cui fondamentali interessi nella vita sono il bowling e il cocktail White Russian, viene scambiato da un gruppo di criminali per un suo omonimo miliardario. Recatosi da costui per chiedere la sostituzione del tappeto che i malviventi gli hanno rovinato, l'uomo verrà coinvolto in un pericolosa e pazzesca avventura.",
+    "es": "El Nota es un hombre fracasado y en paro que un día es confundido con otra persona con su mismo nombre. Dos matones irrumpen en su apartamento y destrozan su alfombra creyendo que están ante Jeff Lebowski un millonario de Pasadena. El primer error de El Nota es visitar a su opulento tocayo con la esperanza de que le reponga su vieja alfombra.Sin embargo, nuestro reticente héroe y su compinche Water se ven atrapados en un thriller con toques humorísticos muy al estilo de los hermanos Coen donde se mezclan la extorsión, la traición, la decepción, el chantaje, el sexo y las drogas.",
+    "sv": "Jeffrey \"The Dude\" Lebowski är en slacker som helst går klädd i tofflor och bermudashorts, spelar bowling och dricker White Russian. En dag får han besök av två torpeder som kräver att hans fru ska betala vad hon är skyldig olika individer. The Dude förstår ingenting, han har varken pengar eller fru. Men torpederna låter sig inte övertygas utan pissar på hans matta och går. The Dude inser att han tagits för en annan och letar reda på rätt Lebowski för att kräva tillbaka mattan."
+   },
+   "tagline": {
+    "fr": "Ils l’ont pris pour un bon à rien… Ils auraient dû se méfier !",
+    "en": "Times like these call for a Big Lebowski.",
+    "de": "Alle sagen, ich bin ein fauler Sack ... und sie haben Recht.",
+    "it": "Tempi come questi richiedono un grande Lebowski.",
+    "es": "La vida en sus manos, y el meñique en el correo."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Crime"
+    ],
+    "en": [
+     "Comedy",
+     "Crime"
+    ],
+    "de": [
+     "Komödie",
+     "Krimi"
+    ],
+    "it": [
+     "Commedia",
+     "Crime"
+    ],
+    "es": [
+     "Comedia",
+     "Crimen"
+    ],
+    "sv": [
+     "Komedi",
+     "Kriminal"
+    ]
+   },
+   "rating": 7.9,
+   "votes": 12849,
+   "runtime": 117
   },
   {
    "id": 37165,
@@ -673,7 +2128,52 @@
     "en": "/dD0oQGYGTm4oJqte5eCuRtjQtV7.png",
     "de": "/fN7Y8auZVpqmqW6CXiDjQXbclnJ.png",
     "es": "/ml6vSJ8tKa9aHGyBw18OSu9UAki.png"
-   }
+   },
+   "overview": {
+    "fr": "Il est la vedette d’un show télévisé - mais il ne le sait pas. Jim Carrey a conquis à la fois les critiques et le public pour sa prestation inoubliable dans ce chef-d'œuvre de Peter Weir. Il interprète Truman Burbank, un homme dont la vie entière est un show télévisé - Ses moindres faits et gestes sont filmés à son insu par un créateur/réalisateur/producteur avant-gardiste : la ville entière est un immense studio de cinéma ; ses voisins, ses collègues, ses amis et même sa femme sont des acteurs professionnels d’Hollywood. Un jour pourtant, Truman se doute de quelque chose. Sa réaction face à cette découverte vous fera rire, pleurer et vous émerveillera comme aucun film ne l’a jamais fait.",
+    "en": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+    "de": "Die Truman Show ist seit beinahe dreißig Jahren ein TV-Klassiker auf der ganzen Welt. Seit seiner Geburt ist Truman Burbank der Hauptdarsteller der Serie – ohne es überhaupt zu wissen. Produzent Christof entwarf eine künstliche Welt, genannt Seahaven, in der Truman von über 5000 Kameras 24 Stunden am Tag bei fast jeder Kleinigkeit beobachtet wird. Um die Fassade nicht zum Einstürzen zu bringen sind seine Frau, Freunde und Verwandte allesamt Schauspieler. In Folge 10909 kommt es jedoch zu diversen versehentlichen Vorfällen die Truman misstrauisch werden lassen. Obwohl Schauspieler und Produzenten alles daran setzen Truman wieder in Zaum zu halten, lässt sich dieser nicht davon abhalten nach Ungereimtheiten zu forschen. Sein Streben nach einer echten Welt wird immer stärker, er plant seinen Ausbruch.",
+    "it": "In una cittadina di mare perfetta, un assicuratore inizia a rendersi conto che tutta la sua esistenza potrebbe essere inscenata e osservata da un vasto pubblico invisibile come parte di un reality show.",
+    "es": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, de repente, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo. Todos sus amigos son actores, toda su ciudad es un plató, toda su vida está siendo filmada y emitida como el reality más ambicioso de la historia.",
+    "sv": "En lekfull satir som belyser mediernas makt samtidigt som den speglar den känsla av tomhet som kan uppfylla människor i det moderna konsumtionssamhället. I centrum för handlingen står en ung man som sedan födseln hållits ovetande om att han är instängd i en gigantisk tv-studio där han dygnet runt står i centrum för en direktsänd tv-show."
+   },
+   "tagline": {
+    "fr": "Et vous, qui vous regarde ?",
+    "en": "On the air. Unaware.",
+    "de": "Auf Sendung – unbewusst",
+    "it": "In onda. Senza saperlo.",
+    "es": "Una vida en directo… sin saberlo.",
+    "sv": "På sändning. Omedveten."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Drama"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 21253,
+   "runtime": 103
   },
   {
    "id": 73,
@@ -694,7 +2194,45 @@
     "de": "/6ex9RJ1I6aU3xp1i2z3jZtsHzbw.png",
     "it": "/5BDZdHbMXlJcGEGFX1XGCdQzH3O.png",
     "es": "/vf3wG3XOkIaaZ4NefXUIcRdF8Ct.png"
-   }
+   },
+   "overview": {
+    "fr": "Derek, voulant venger la mort de son père, abattu par un dealer noir, a épousé les thèses racistes d’un groupuscule de militants d’extrême droite et s’est mis au service de son leader, brutal théoricien prônant la suprématie de la race blanche. Ces théories le mèneront à commettre un double meurtre entrainant son jeune frère, Danny, dans la spirale de la haine.",
+    "en": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+    "de": "Dereks Leben ist geprägt von Hass - von rassistischem Hass, den er seit dem tragischen Tod seines Vaters fanatisch verfolgt. In seiner Clique aus Gleichgesinnten steigt er auf Grund seiner Intelligenz und seiner rhetorischen Fähigkeiten sehr schnell zum Anführer auf, unterstützt durch den Altnazi Cameron. Doch ein Gefängnisaufenthalt ändert seine Ansichten völlig. Während er sich dort vor Übergriffen seiner Kameraden schützen muss und zur Vernunft kommt, ist sein kleiner Bruder Danny auf dem besten Wege dahin, in den Nazisumpf abzugleiten und es seinem Vorbild Derek gleich zu tun.",
+    "it": "In un tema in classe il giovane Danny tratta argomenti ispirati al 'Mein Kampf' e il preside Sweeney, per punirlo, lo obbliga a preparare una relazione sul fratello maggiore Derek. Quest'ultimo, ex leader di un gruppo giovanile paranazista che si riconosceva in Cameron, ideologo della violenza razzista contro ogni forma di diversità, è appena uscito dal carcere dopo aver scontato alcuni anni per l'uccisione di due ragazzi neri che gli stavano rubando l'automobile. Danny aspetta da tempo questo momento. Ha immaginato molte volte la scarcerazione di Derek e non desidera altro che mettersi ai 'suoi ordini'. Non sa che in carcere Derek ha riflettuto molto maturando la convinzione di voler cambiare vita. Danny si sente spaesato, soprattutto quando, durante una festa vede Derek avere uno scontro violento con Cameron, ma poi riesce a capire le ragioni di suo fratello. L'odio, però, a volte genera una serie di violenze difficili da fermare.",
+    "es": "Derek (Edward Norton) es un joven californiano que se convierte en el líder de una banda de neonazis tras el asesinato de su padre. Su hermano pequeño, Danny, le admira y sigue sus pasos de odio y violencia. Cuando Derek mata a dos ladrones negros, es condenado a tres años de cárcel, donde cambia su forma de pensar al conocer a otros presos. Al salir, intenta alejar a Danny del racismo y la delincuencia, pero se encuentra con la resistencia de sus antiguos compañeros y las consecuencias de su pasado.",
+    "sv": "Bröderna Derek och Danny Vineyard mister sin far, en brandman som blir mördad i ett skottdrama. Sorgen och hatet pressar den verbalt begåvade Derek till radikala handlingar och han blir snart en karismatisk ledare för en nynazistisk rörelse."
+   },
+   "tagline": {
+    "fr": "Deux frères unis par la haine, déchirés par la vérité.",
+    "en": "Some legacies must end.",
+    "de": "Dieser Hass muss ein Ende finden",
+    "it": "Uniti dall'odio, divisi dalla verità.",
+    "es": "Algunos legados deben acabar"
+   },
+   "genres": {
+    "fr": [
+     "Drame"
+    ],
+    "en": [
+     "Drama"
+    ],
+    "de": [
+     "Drama"
+    ],
+    "it": [
+     "Dramma"
+    ],
+    "es": [
+     "Drama"
+    ],
+    "sv": [
+     "Drama"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 13152,
+   "runtime": 119
   },
   {
    "id": 857,
@@ -717,7 +2255,57 @@
     "it": "/vmCRS2dabKSMjb45eGKv1miokIU.png",
     "es": "/ykrOjR8kwwQ03QPfHSHkfetw8vu.png",
     "sv": "/scjVTuPQttcyFbNLpaNDpoVsjDb.png"
-   }
+   },
+   "overview": {
+    "fr": "Vue à travers le regard d’une escouade de soldats américains, l’histoire débute le jour du Débarquement au cours de la 2ème Guerre Mondiale, le long des plages de Normandie. Le capitaine John Miller a pour mission de retrouver le soldat James Ryan, dont les trois frères sont morts au combat et il s’expose ainsi à de nombreux risques. Confrontés à une situation périlleuse, les hommes discutent les ordres. Pourquoi huit hommes risqueraient-ils leur vie pour un seul homme ? Rattrapés par la brutalité de la guerre, chacun cherche sa propre réponse ainsi que la force de vaincre un futur incertain avec honneur, décence et courage.",
+    "en": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+    "de": "Aus der Sicht einer Einheit amerikanischer Soldaten beginnt der Film am Tag der historischen D-Day-Invasion des 2. Weltkrieges mit der Landung am Strand. Von hier aus startet die Einheit zu einem gefährlichen Sonderauftrag: Captian John Miller muss mit seinen Männern hinter die feindlichen Linien dringen, um den Gefreiten James Ryan zu finden, dessen drei Brüder auf dem Schlachtfeld gestorben sind. Angesichts dieser schier unlösbaren Aufgabe beginnen die Männer an ihren Befehlen zu zweifeln. Warum acht Leben riskieren, um eines zu retten ? Umgeben von der brutalen Realität des Krieges sucht jeder nach seiner eigenen Antwort. Und sie suchen nach der Stärke, über die unsichere Zukunft mit Ehre, Anstand und Mut zu triumphieren.",
+    "it": "Il 6 giugno 1944 il cap. John Miller sbarca con i suoi uomini a Omaha Beach. È un massacro sotto il micidiale fuoco tedesco. Il generale George Marshall (Presnell), comandante supremo dell'armata angloamericana, apprende che la famiglia Ryan dell'Iowa ha già perduto tre figli e che un quarto fratello, James Francis Ryan, è stato paracadutato in Normandia oltre le linee nemiche. Dà ordine che sia ritrovato e rimandato a casa. L'incarico è affidato al cap. Miller che, con sei uomini e un interprete, parte alla sua ricerca.",
+    "es": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+    "sv": "Historien, som ses genom ögonen på en trupp amerikanska soldater, börjar med andra världskrigets historiska invasion, D-dagen, för att sedan förflytta sig bortom stranden när männen ger sig in på ett farligt specialuppdrag. Kapten John Miller måste leda sina män bakom fiendens linjer för att hitta menige James Ryan, vars tre bröder dödats i strid. Med oddsen emot sig ifrågasätter männen sina order. Varför ska åtta män riskera sina liv för att rädda en man? Omgivna av krigets brutala verklighet söker var och en sitt eget svar - och styrkan att vinna över en osäker framtid med heder, anständighet och mod."
+   },
+   "tagline": {
+    "fr": "La mission est un homme.",
+    "en": "The mission is a man.",
+    "de": "Die größte Gefahr für acht Männer... EINEN einzelnen retten...",
+    "it": "In missione per un uomo.",
+    "es": "La misión es un hombre."
+   },
+   "genres": {
+    "fr": [
+     "Guerre",
+     "Drame",
+     "Histoire"
+    ],
+    "en": [
+     "War",
+     "Drama",
+     "History"
+    ],
+    "de": [
+     "Kriegsfilm",
+     "Drama",
+     "Historie"
+    ],
+    "it": [
+     "Guerra",
+     "Dramma",
+     "Storia"
+    ],
+    "es": [
+     "Bélica",
+     "Drama",
+     "Historia"
+    ],
+    "sv": [
+     "Krig",
+     "Drama",
+     "Historisk"
+    ]
+   },
+   "rating": 8.2,
+   "votes": 18098,
+   "runtime": 170
   },
   {
    "id": 4951,
@@ -740,7 +2328,57 @@
     "it": "/32p9I7fjj5xvc0lcYWHi2pQjFsF.png",
     "es": "/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
     "sv": "/6qYEaZCbIJSKSIiVArUQLFVg0k5.png"
-   }
+   },
+   "overview": {
+    "fr": "Au lycée de Padua, Bianca fait craquer tous les garcons, tandis que sa soeur ainée Kat aurait tendance à les faire fuir. Non qu'elle soit d'une laideur repoussante, ce serait plutôt le contraire, mais son caractère irascible et son comportement de rebelle ne la rendent pas très liante. Le père des jeunes filles est très strict quant à leur éducation et leurs sorties. Il accepte que Bianca flirte a condition que Kat en fasse autant. Autant dire que l'affaire n'est pas gagnée... Mais Cameron, qui est tombe amoureux de Bianca, imagine un plan tout simplement diabolique.",
+    "en": "After discovering his high school crush can't date until her brash older sister does, a lovesick teen enlists a bad-boy classmate to woo her.",
+    "de": "Die beiden Schwestern Bianca und Kat sind so unterschiedlich, wie man es nur selten kennt. Während Bianca als der Schwarm der gesamten Schule gilt, ist die ruppige Kat bekannt für ihre Kratzbürstigkeit, mit der sie sämtliche Jungs verschreckt. Richtig kompliziert wird die Sache allerdings erst durch eine Abmachung, die die beiden Mädchen mit ihrem Vater haben: Erst wenn Kat ein Date hat, darf auch Bianca mit einem Jungen ausgehen. Und so stehen Biancas Chancen, endlich mit dem süßen Joey einen Abend zu verbringen, ziemlich schlecht. Doch da hat der pfiffige Cameron, der schon lange für Bianca schwärmt, eine geniale Idee: Wenn sich wirklich kein Date für Kat finden läßt, dann muß man eben eines kaufen …",
+    "it": "Bianca e Katarina sono due ragazze il cui padre (ostetrico che ha visto troppe gravidanze indesiderate passare sotto i suoi occhi) impedisce loro di uscire con i coetanei. Se questo alla rude Kat non dispiace per nulla pesa invece molto a Bianca. Soprattutto quando arriva in città Cameron James che si innamora di lei immediatamente ricambiato. Considerato che ora il padre ha imposto un nuovo vincolo (Bianca potrà uscire con un ragazzo solo dopo che Kat lo avrà fatto) bisogna mettere in atto un piano perché qualcuno sia disposto a corteggiarla e perché lei ceda.",
+    "es": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, y Kat, su hermana mayor, es una bruja con muy mal genio, y algo arisca, que se ha propuesto rechazar a cualquier chico que demuestre el más mínimo interés por ella. Desgraciadamente, el estricto reglamento que rige el hogar de los Stratford prohibe a Blanca tener novio hasta que su insoportable hermana tenga uno; situación que parece más que improbable teniendo en cuenta que Kat lleva una vida social desastrosa. Blanca está desesperada por ir al baile de fin de curso. Pero su pretendiente, Cameron, guarda una sorpresa...",
+    "sv": "Första dagen i sin nya skola faller Cameron genast för Bianca, den ursnygga drömtjejen, men hon är förbjuden att dejta… förrän hennes griniga och totalt odejtbara storasyster Kat också går ut. För att lösa problemet hittar Cameron den enda kille som möjligen kan passa Kat: en mystisk värsting med dåligt rykte."
+   },
+   "tagline": {
+    "fr": "1-Ton haleine qui pue, 2-Ton père coincé, 3-Tes promesses à 2 balles...",
+    "en": "How do I loathe thee? Let me count the ways.",
+    "de": "Wie kann ich dich hassen? Lass mich 10 Wege aufzählen.",
+    "it": "Quanto ti odio? Un sacco. Oh Romeo, Romeo, togliti dalle scatole.",
+    "es": "¿Qué... por qué no te aguanto? Déjame que te lo cuente."
+   },
+   "genres": {
+    "fr": [
+     "Comédie",
+     "Romance",
+     "Drame"
+    ],
+    "en": [
+     "Comedy",
+     "Romance",
+     "Drama"
+    ],
+    "de": [
+     "Komödie",
+     "Liebesfilm",
+     "Drama"
+    ],
+    "it": [
+     "Commedia",
+     "Romance",
+     "Dramma"
+    ],
+    "es": [
+     "Comedia",
+     "Romance",
+     "Drama"
+    ],
+    "sv": [
+     "Komedi",
+     "Romantik",
+     "Drama"
+    ]
+   },
+   "rating": 7.6,
+   "votes": 9317,
+   "runtime": 99
   },
   {
    "id": 603,
@@ -762,7 +2400,52 @@
     "de": "/vI6oPPFZjfr4jOu21NHyoZmfsn2.png",
     "it": "/7tg7ZTv0AbO5afJaUZguvqK5O4g.png",
     "es": "/kA8phmxG7h4BIN061fiutckq9Ho.png"
-   }
+   },
+   "overview": {
+    "fr": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber‐espace. À cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui‐ci l'exhorte à aller au‐delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est‐ce que la Matrice ? Nul ne le sait, et aucun homme n'est encore parvenu à en percer les défenses. Mais Morpheus est persuadé que Neo est l'Élu, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents…",
+    "en": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "de": "Der Hacker Neo wird übers Internet von einer geheimnisvollen Untergrund-Organisation kontaktiert. Der Kopf der Gruppe – der gesuchte Terrorist Morpheus – weiht ihn in ein entsetzliches Geheimnis ein: Die Realität, wie wir sie erleben, ist nur eine Scheinwelt. In Wahrheit werden die Menschen längst von einer unheimlichen virtuellen Macht beherrscht – der „Matrix“, deren Agenten Neo bereits im Visier haben …",
+    "it": "Seguendo un tatuaggio sulla spalla di una ragazza, l'hacker Neo scopre che la cosiddetta \"realtà\" è solo un impulso elettrico fornito al cervello degli umani da un'intelligenza artificiale. Per sopravvivere alla catastrofe l'umanità ha infatti avuto bisogno delle macchine, ma queste hanno vinto e necessitano degli uomini come fonte di energia. L'illusione in cui li fanno vivere è quindi finalizzata a \"coltivarli\" meglio. Nessuno è a conoscenza del tempo che è passato da quando il neurosimulatore ha assegnato una data fittizia al tempo. Solo Neo, con l'aiuto del pirata informatico Morpheus e della bella Trinity, può tentare di scoprire la verità, ma non sarà un'impresa facile.",
+    "es": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+    "sv": "Thomas Anderson lever ett dubbelliv. På dagarna är han en vanlig programmerare och på nätterna en hacker känd som Neo. Hans liv förändras för alltid när han kontaktas av Morpheus, en legendarisk hacker som av myndigheterna stämplas som terrorist. Mötet drar Neo in i polisens sökarljus och tvingar honom in i en existentiell kamp om människans frihet."
+   },
+   "tagline": {
+    "fr": "Croire à l'incroyable.",
+    "en": "Believe the unbelievable.",
+    "de": "Glaube das Unglaubliche.",
+    "it": "Credete all'incredibile.",
+    "es": "Bienvenido al mundo real.",
+    "sv": "Tro det ofattbara."
+   },
+   "genres": {
+    "fr": [
+     "Action",
+     "Science-Fiction"
+    ],
+    "en": [
+     "Action",
+     "Science Fiction"
+    ],
+    "de": [
+     "Action",
+     "Science Fiction"
+    ],
+    "it": [
+     "Azione",
+     "Fantascienza"
+    ],
+    "es": [
+     "Acción",
+     "Ciencia ficción"
+    ],
+    "sv": [
+     "Action",
+     "Science Fiction"
+    ]
+   },
+   "rating": 8.3,
+   "votes": 29287,
+   "runtime": 136
   },
   {
    "id": 564,
@@ -785,7 +2468,57 @@
     "it": "/yzG7e1KC8wqHWSWa5QwXd3eS1NA.png",
     "es": "/wN5ECzhPYnphWKPvqrVVmQnGUrC.png",
     "sv": "/s2zhx7RnIkyZDwydYsIu0Rz8E8L.png"
-   }
+   },
+   "overview": {
+    "fr": "1719 avant J.-C. Pour avoir osé ravir sa fiancée au Pharaon, le grand prêtre Imhotep est momifié vivant et enseveli dans une crypte secrète d'Hamunaptra, mais son cœur bat toujours et la Momie attend l'heure de sa libération. En 1923, l'aventurier O'Connell découvre les ruines d'Hamunaptra. La malédiction d'Imhotep va pouvoir se réaliser.",
+    "en": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+    "de": "Um der sicheren Hinrichtung in einem ägyptischen Gefängnis zu entgehen, stimmt der Abenteurer und Fremdenlegionär Rick O'Connell 1923 zu, ein Forscherteam nach Hamunaptra, der mitten in der Wüste gelegenen berüchtigten Stadt der Toten, zu führen. Dort soll sich ein legendärer Schatz befinden, der Glücksritter wie Archäologen gleichermaßen anzieht. Bewacht werden die Reichtümer aber von einer Mumie, in der der Hohepriester Imhotep, die Inkarnation des Bösen, steckt...",
+    "it": "Nel 1719 a. C. a Tebe in Egitto nasce un amore proibito tra il gran sacerdote Imhotep e l'amante del faraone. La ragazza per la disperazione si uccide e il sacerdote si lascia andare a gesti disperati suscitando l'ira degli dei. Le divinità gli infliggono una tremenda condanna: venire sepolto vivo nella città di Hamunaptra. 1923: Rick O'Connell, giovane legionario, Evelyn, una bibliotecaria e Jonathan, suo fratello, sono alla ricerca del favoloso tesoro di Imhotep. Suscitano l'ira della Mummia provocando il suo risveglio.",
+    "es": "El legionario Rick O'Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
+    "sv": "År 1719 före Kristus upptäcker Farao i staden Thebe att hans älskarinna Anck-Su-Namun har ett kärleksförhållande med översteprästen Imhotep. I desperation trotsar Imhotep gudarna och mördar Farao. För sitt hemska dåd bestraffas översteprästen med den yttersta förbannelsen, hans kropp kommer för all evighet att förbli levande, instängd i en trång gravkammare i Hamunaptra, De dödas stad. Man svär att den som öppnar graven ska belönas, med en plågsam död. 1925 kommer en expedition på skattjakt till Sahara. Den leds av äventyraren Rick O'Connell. Han hittar inte bara en uråldrig grav, utan också en varelse som väntat 3000 år på att släppas fri."
+   },
+   "tagline": {
+    "fr": "La tempête se lèvera. Le ciel se déchirera. Alors son pouvoir se déchaînera.",
+    "en": "The sands will rise. The heavens will part. The power will be unleashed.",
+    "de": "Die Legende kennen sie. Das Abenteuer müssen sie noch erst erleben.",
+    "it": "La tempesta si alzerà. Il cielo si aprirà. Il potere si scatenerà.",
+    "es": "La leyenda que conoces. La aventura que aún has de imaginar."
+   },
+   "genres": {
+    "fr": [
+     "Aventure",
+     "Action",
+     "Fantastique"
+    ],
+    "en": [
+     "Adventure",
+     "Action",
+     "Fantasy"
+    ],
+    "de": [
+     "Abenteuer",
+     "Action",
+     "Fantasy"
+    ],
+    "it": [
+     "Avventura",
+     "Azione",
+     "Fantasy"
+    ],
+    "es": [
+     "Aventura",
+     "Acción",
+     "Fantasía"
+    ],
+    "sv": [
+     "Äventyr",
+     "Action",
+     "Fantasy"
+    ]
+   },
+   "rating": 7.0,
+   "votes": 10606,
+   "runtime": 125
   },
   {
    "id": 745,
@@ -807,7 +2540,57 @@
     "it": "/5ZRZZlReKsjn2VNN4I1rhIgEiKv.png",
     "es": "/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
     "sv": "/iRLhR03K4e4OXIVeZ9ZZZBiGSjl.png"
-   }
+   },
+   "overview": {
+    "fr": "Cole Sear, garçonnet de huit ans est hanté par un terrible secret. Son imaginaire est visité par des esprits menaçants. Trop jeune pour comprendre le pourquoi de ces apparitions et traumatisé par ces pouvoirs paranormaux, Cole s'enferme dans une peur maladive et ne veut révéler à personne la cause de son enfermement, à l'exception d'un psychologue pour enfants. La recherche d'une explication rationnelle guidera l'enfant et le thérapeute vers une vérité foudroyante et inexplicable.",
+    "en": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+    "de": "Der Kinderpsychologe Dr. Malcolm Crowe feiert mit seiner Frau eine für ihn bedeutsame Auszeichnung. An diesem Abend wird er von Vincent Grey überrascht, einem ehemaligen Patienten, dem Crowe nicht helfen konnte. Sichtlich verzweifelt schießt er auf Dr. Crowe und begeht daraufhin Selbstmord. Im darauf folgenden Jahr betreut Dr. Crowe den neunjährigen Cole. Er erinnert ihn an seinen früheren Patienten Grey. Der Junge scheint von großen Ängsten geplagt, die er niemandem anvertraut. Von seinen Klassenkameraden wird er mit „Psycho“ angesprochen und gemieden. Sogar sein Lehrer bezeichnet ihn nach einem Streit so. Coles Mutter ist verzweifelt, und Dr. Crowe scheint dem Jungen nicht helfen zu können. Nach und nach gewinnt er schließlich das Vertrauen des Jungen; Cole verrät ihm sein Geheimnis: „Ich sehe tote Menschen. Die sind wütend. Die wissen nicht, dass sie tot sind.“ Zunächst glaubt Dr. Crowe ihm nicht.",
+    "it": "Un famoso psichiatra infantile in un momento difficile della propria vita fa amicizia con un bambino che sembra avere dei problemi. Presosi a cuore il caso, l'uomo riesce a entrarvi in confidenza e a scoprire che è disturbato da visioni: il piccolo asserisce infatti di poter vedere la gente morta.",
+    "es": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+    "sv": "Nioåriga Cole plågas av en mörk hemlighet: han hemsöks av spöken. När barnpsykologen Malcolm Crowe tar sig an fallet uppdagas snart en sanning som är långt mer skrämmande än han någonsin hade kunnat föreställa sig, och som får ödesdigra konsekvenser för honom själv."
+   },
+   "tagline": {
+    "fr": "Voir. Goûter. Entendre. Toucher. Sentir. Trembler.",
+    "en": "Not every gift is a blessing.",
+    "de": "Nicht jede Gabe ist ein Segen.",
+    "it": "Un inquietante mistero... Una terribile verità.",
+    "es": "En ocasiones veo muertos"
+   },
+   "genres": {
+    "fr": [
+     "Mystère",
+     "Thriller",
+     "Drame"
+    ],
+    "en": [
+     "Mystery",
+     "Thriller",
+     "Drama"
+    ],
+    "de": [
+     "Mystery",
+     "Thriller",
+     "Drama"
+    ],
+    "it": [
+     "Mistero",
+     "Thriller",
+     "Dramma"
+    ],
+    "es": [
+     "Misterio",
+     "Suspense",
+     "Drama"
+    ],
+    "sv": [
+     "Mystik",
+     "Thriller",
+     "Drama"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 13628,
+   "runtime": 107
   },
   {
    "id": 14,
@@ -828,7 +2611,45 @@
     "en": "/1BGhlMmKjZKPGAmGzL1XPSj95b1.png",
     "it": "/rXDaHKXZ2ckXwXb4ilajK1qUSag.png",
     "es": "/uGtzozJfIw8FEUF53ym0TssBdPT.png"
-   }
+   },
+   "overview": {
+    "fr": "Alors qu'il éprouve des difficultés à supporter une femme irascible, un travail ingrat et une ado morose, un homme tombe raide dingue d'une des amies de sa fille.",
+    "en": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+    "de": "Als der von Job und Ehe frustierte Lester Burnham sich in Angela, die Freundin seiner missmutigen Tochter Jane, verliebt, beginnt für ihn ein neues Leben. Zuhause zeigt er das erste Mal seit langem, wer der Herr im Hause ist, wirft seinen Job hin, erpresst sich eine satte Abfindung, erfüllt sich lang unerfüllte Träume und phantasiert über eine Affäre mit Angela. Gleichzeitig freundet er sich mit dem Nachbarsjungen Ricky an, der die Welt durch das Objektiv einer Kamera wahrnimmt und trotz der tyrannischen Überwachung durch seinen Vater einen florierenden Drogenhandel betreibt. Als sein Vater ihn und Lester bei einem Deal erwischt, ist das der Anfang vom Ende.",
+    "it": "Lester e Carolyn Burnham appaiono dall'esterno una coppia perfetta, con una casa perfetta e un vicinato perfetto. In realtà Lester è un uomo, insoddisfatto della sua vita familiare e professionale, che sta cadendo in una sempre più profonda disperazione, quando improvvisamente conosce Angela, un'amica di sua figlia e se ne infatua. Nel frattempo Jane, la figlia di Lester ha conosciuto il loro timido e misterioso vicino di casa Ricky che vive oppresso da una figura paterna ossessiva.",
+    "es": "Divertida, inquietante y sorprendente incursión en la América suburbana a través de las vidas de Lester y Carolyn, una pareja perteneciente a la clase medio-alta cuyo matrimonio -y cuyas vidas- lentamente se deshacen. Carolyn odia a su marido, su hija lo desprecia y su jefe está a punto de despedirlo. Así que Lester decide cambiar algunas cosas en su vida; a medida que va siendo más libre, consigue ser más feliz, lo que enfurece más a su esposa y a su hija.",
+    "sv": "Lester Burnham är 42 år och lever i ett stagnerat äktenskap med sin hustru Carolyn och deras sextonåriga dotter Jane, i en välbärgad förort till Connecticut. Lester arbetar som copywriter på en annonstidning och Carolyn som fastighetsmäklare. Men idyllen är endast skenbar. Lester som sedan en tid känt sig missnöjd med tillvaron finner snart på anledningar att radikalt förändra sitt liv. Dessutom är hans relation till både frun och dottern på en nivå nära fryspunkten. När paret Burnham bevistar en cheerleaderuppvisning där Jane medverkar får Lester syn på hennes jämnåriga kamrat, Angela. Han blir våldsamt förälskad. Angela blir påtagligt smickrad och flirtar uppmuntrande tillbaka. Från den dagen tar Lesters liv en ny vändning..."
+   },
+   "tagline": {
+    "fr": "…regardez de plus près.",
+    "en": "... look closer",
+    "de": "... sehen Sie genau hin",
+    "it": "...guarda da vicino",
+    "es": "...fíjate bien"
+   },
+   "genres": {
+    "fr": [
+     "Drame"
+    ],
+    "en": [
+     "Drama"
+    ],
+    "de": [
+     "Drama"
+    ],
+    "it": [
+     "Dramma"
+    ],
+    "es": [
+     "Drama"
+    ],
+    "sv": [
+     "Drama"
+    ]
+   },
+   "rating": 8.0,
+   "votes": 13560,
+   "runtime": 122
   },
   {
    "id": 550,
@@ -849,7 +2670,51 @@
     "en": "/7Uqhv24pGJs4Ns31NoOPWFJGWNG.png",
     "de": "/ayYwAnf7WQoOE7npYuBxat9jfhv.png",
     "es": "/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
-   }
+   },
+   "overview": {
+    "fr": "Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux‐repas pour une personne comme beaucoup d’autres personnes seules qui connaissent la misère humaine, morale et sexuelle. C’est pourquoi il va devenir membre du Fight club, un lieu clandestin où il va pouvoir retrouver sa virilité, l’échange et la communication. Ce club est dirigé par Tyler Durden, une sorte d’anarchiste entre gourou et philosophe qui prêche l’amour de son prochain.",
+    "en": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "de": "Ein Yuppie findet beim charismatischen Tyler Durden Unterschlupf, nachdem seine Wohnung in die Luft gejagt wird. Ein Gerangel zwischen den beiden entwickelt sich zu einer Schlägerei, die mit der Erkenntnis endet, dass man sich nach einer ordentlichen Portion Prügel einfach besser fühlt. Der \"Fight Club\" ist geboren. Immer mehr Männer versammeln sich, um sich zu schlagen - und gestärkt in den Alltag zu gehen. Wie ein Virus greift das Konzept um sich, doch für Tyler ist der Kampfverein nur die erste Stufe, um die USA in die Knie zu zwingen.",
+    "it": "Un uomo di trent'anni è insofferente su tutto e la notte non riesce più a dormire. In cerca di qualche luogo dove scaricare la propria ansia si mette a frequentare quei corsi dove gruppi di malati gravi si riuniscono e confessano agli altri le rispettive situazioni. Mentre si lascia andare alla commozione e al pianto di fronte a quello che vede, l'uomo fa la conoscenza prima di Marla Singer poi di Tyler Durden. Lei è una ragazza a sua volta alla deriva, incapace di scelte o decisioni; lui è un tipo deciso e vigoroso con un'idea precisa in testa. Tyler fa saltare per aria l'appartamento dell'uomo e i due vanno a vivere insieme in una casa fatiscente. Deciso a coinvolgerlo nel suo progetto, Tyler lo fa entrare in un 'Fight Club', uno stanzone sotterraneo dove ci si riunisce per picchiarsi e in questo modo sentirsi di nuovo vivi...",
+    "es": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+    "sv": "Jack hatar sitt vanliga liv och när Tyler Durden äntrar det är det ett välkommet knytnävsslag i ansiktet. Tillsammans startar de en hemlig klubb som breder ut sig till en större och större verksamhet, men samtidigt får Tyler allt mer kontroll över Jack. Detta provokativa, svarta, humoristiska mästerverk är mycket mer än en våldsam actionfilm. En modern klassiker."
+   },
+   "tagline": {
+    "fr": "La première règle du Fight Club est : on ne parle pas du Fight Club.",
+    "en": "Mischief. Mayhem. Soap.",
+    "de": "Übermut. Chaos. Seife.",
+    "it": "Combatti per sapere chi sei",
+    "es": "Caos, travesuras y jabón"
+   },
+   "genres": {
+    "fr": [
+     "Drame",
+     "Thriller"
+    ],
+    "en": [
+     "Drama",
+     "Thriller"
+    ],
+    "de": [
+     "Drama",
+     "Thriller"
+    ],
+    "it": [
+     "Dramma",
+     "Thriller"
+    ],
+    "es": [
+     "Drama",
+     "Suspense"
+    ],
+    "sv": [
+     "Drama",
+     "Thriller"
+    ]
+   },
+   "rating": 8.4,
+   "votes": 33373,
+   "runtime": 140
   },
   {
    "id": 497,
@@ -870,7 +2735,58 @@
     "en": "/zvl6GTeDHTpA3VQfaJH3Pw5MUjC.png",
     "it": "/9GXyXqIpm8cOhHfzrWkeTkp5ai7.png",
     "es": "/n5TXES9Y0NmyjbueDaD6tgrsA80.png"
-   }
+   },
+   "overview": {
+    "fr": "Paul Edgecomb, pensionnaire centenaire d’une maison de retraite, est hanté par ses souvenirs. Gardien-chef du pénitencier de Cold Mountain en 1935, il était chargé de veiller au bon déroulement des exécutions des peines capitales, en s’efforçant d’adoucir les derniers moments des condamnés. Parmi eux, se trouvait un colosse du nom de John Coffey, accusé du viol et du meurtre de deux fillettes. Intrigué par cet homme candide et timide, aux dons magiques, Edgecomb va tisser avec lui des liens très forts.",
+    "en": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+    "de": "Paul Edgecomb und seine Kollegen sind Wärter im Todestrakt eines Gefängnisses in den 30ern. Paul versieht seinen Job zwar immer noch mit der größtmöglichen Menschlichkeit, doch er wird zunehmend zynischer, da er ständig Menschen sterben sieht. Außerdem ist er krank. Da kommt ein neuer Delinquent in den Trakt: John Coffey, ein farbiger Riese von friedlichster Bauart, der im Dunkeln Angst hat. Wie sich herausstellt, hat Coffey heilende Fähigkeiten, die auch Paul kennenlernt. Zunehmend gerät er in Zweifel, ob dieser Gigant sterben soll, vor allem da er die Morde, wegen der er verurteilt ist, nicht begangen zu haben scheint. Doch der Stuhl wartet und Coffeys Gabe droht für immer zu verschwinden ...",
+    "it": "E' il racconto che Paul Edgecomb fa all'amica Elaine Connelly in una casa di riposo. Sono passati circa sessanta anni da quando lavorava come capo delle guardie del braccio della morte nel penitenziario di Could Mountain. Durante la grande depressione, nel carcere del sud degli Usa, Edgecomb si occupava di quattro assassini che attendevano di compiere la loro ultima passeggiata lungo il 'Miglio verde', il corridoio rivestito di linoleum verde che li avrebbe condotti nella stanza della sedia elettrica. Fra questi c'era anche John Coffrey, un ragazzone nero condannato per l'omicidio di due gemelline di nove anni. Nonostante avesse le dimensioni e la forza per uccidere chiunque, Coffrey aveva un carattere semplice e ingenuo: era davvero lui il colpevole?",
+    "es": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+    "sv": "Paul Edgecomb var på 30-talet vaktchef vid en avdelning för dödsdömda på Cold Mountain. En dag anländer en man som är dömd för mord på två flickor. Paul tar särskilt intresse för denna fånge, som inte visar några som helst tendenser till ett våldsamt beteende. En dag händer något mycket underligt. Något som liknar ett mirakel."
+   },
+   "tagline": {
+    "fr": "Il ne croyait pas aux miracles. Jusqu’à l’arrivée de ce prisonnier.",
+    "en": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+    "de": "Das größte Geschenk überhaupt ist echte Freundschaft.",
+    "it": "Paul Edgecomb non credeva ai miracoli... fino al giorno in cui ne ha incontrato uno.",
+    "es": "Los milagros suceden.",
+    "sv": "Paul Edgecomb trodde inte på mirakel. Fram till den dagen han mötte ett."
+   },
+   "genres": {
+    "fr": [
+     "Fantastique",
+     "Drame",
+     "Crime"
+    ],
+    "en": [
+     "Fantasy",
+     "Drama",
+     "Crime"
+    ],
+    "de": [
+     "Fantasy",
+     "Drama",
+     "Krimi"
+    ],
+    "it": [
+     "Fantasy",
+     "Dramma",
+     "Crime"
+    ],
+    "es": [
+     "Fantasía",
+     "Drama",
+     "Crimen"
+    ],
+    "sv": [
+     "Fantasy",
+     "Drama",
+     "Kriminal"
+    ]
+   },
+   "rating": 8.5,
+   "votes": 20152,
+   "runtime": 189
   }
  ]
 }
