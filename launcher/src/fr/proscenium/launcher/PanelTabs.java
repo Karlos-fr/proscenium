@@ -293,7 +293,8 @@ abstract class PanelTabs extends PanelCore {
                 this::askCity).badgeOf(R.string.badge_internet));
         r.add(s.weatherCity);
         r.add(s.weatherCoords);
-        add(r, choice(s.tempUnit), choice(s.weatherFx), num(s.weatherFxAmount), flag(s.weatherLens));
+        add(r, choice(s.tempUnit), choice(s.weatherFx), flag(s.fxRain), flag(s.fxLightning), flag(s.fxSnow),
+                flag(s.fxFog), choice(s.fxWind), num(s.weatherFxAmount), flag(s.weatherLens));
         Row styles = action(R.string.act_weather_styles, R.string.help_weather_styles, () -> "›",
                 () -> openPage(this::showWeatherStyles));
         styles.badgeOf(R.string.badge_cpu).setTag("weather_styles");

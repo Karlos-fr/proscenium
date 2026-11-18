@@ -270,11 +270,22 @@ final class Settings {
     /** Icône météo animée (soleil qui tourne, pluie qui tombe…), coupée en mode économie. */
     final Flag showWind = new Flag("show_wind", R.string.set_show_wind, R.string.help_show_wind, true);
     final Flag weatherAnim = new Flag("weather_anim", R.string.set_weather_anim, R.string.help_weather_anim, true);
-    /** Météo vivante sur le fond (WeatherFx) : réelle, coupée, ou toujours la même. */
-    static final int FX_REAL = 0, FX_OFF = 1, FX_RAIN = 2, FX_STORM = 3, FX_SNOW = 4, FX_FOG = 5;
+    /**
+     * Météo vivante sur le fond (WeatherFx) : réelle, coupée, ou personnalisée (les couches cochées
+     * ci-dessous, cumulables, et un vent au choix).
+     */
+    static final int FX_REAL = 0, FX_OFF = 1, FX_CUSTOM = 2;
     final Choice weatherFx = (Choice) new Choice("weather_fx", R.string.set_weather_fx, R.string.help_weather_fx, FX_REAL,
-            Format.LABELS, seq(6), R.string.fx_real, R.string.val_off, R.string.fx_rain, R.string.fx_storm,
-            R.string.fx_snow, R.string.fx_fog).badge(R.string.badge_cpu);
+            Format.LABELS, seq(3), R.string.fx_real, R.string.val_off, R.string.fx_custom).badge(R.string.badge_cpu);
+    final Flag fxRain = new Flag("fx_rain", R.string.fx_rain, R.string.help_fx_layer, true);
+    final Flag fxLightning = new Flag("fx_lightning", R.string.fx_lightning, R.string.help_fx_layer, false);
+    final Flag fxSnow = new Flag("fx_snow", R.string.fx_snow, R.string.help_fx_layer, false);
+    final Flag fxFog = new Flag("fx_fog", R.string.fx_fog, R.string.help_fx_layer, false);
+    /** Vent de la météo personnalisée : celui de la ville, aucun, ou un vent d'ouest imposé. */
+    static final int WIND_REAL = 0, WIND_NONE = 1, WIND_LIGHT = 2, WIND_STRONG = 3, WIND_STORM = 4;
+    final Choice fxWind = new Choice("fx_wind", R.string.set_fx_wind, R.string.help_fx_wind, WIND_REAL,
+            Format.LABELS, seq(5), R.string.wind_real, R.string.wind_none, R.string.wind_light,
+            R.string.wind_strong, R.string.wind_storm);
     final Num weatherFxAmount = new Num("weather_fx_amount", R.string.set_weather_fx_amount,
             R.string.help_weather_fx_amount, 100, 30, 200, 10, Format.PERCENT);
     final Flag weatherLens = new Flag("weather_lens", R.string.set_weather_lens, R.string.help_weather_lens, true);
@@ -323,7 +334,7 @@ final class Settings {
                 dockApps, inputShortcuts, bandMode, slimBand, visibleApps, tileSize, tileSpacing, centerZoom, tilt, shine, neighborDim, glowMode,
                 glowPower, glowAnim, glowAnimAmount, glowAnimSpeed, scrollSpeed,
                 scrollParallax, loop, glassEngine, rimWidth,
-                weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, weatherFx, weatherFxAmount, weatherLens, headerScale,
+                weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, weatherFx, fxRain, fxLightning, fxSnow, fxFog, fxWind, weatherFxAmount, weatherLens, headerScale,
                 language, economy, updateCheck, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
         for (Item i : items) all.add(i);
     }
@@ -344,6 +355,19 @@ final class Settings {
             bgSource.load(p);
         }
         for (Item i : all) if (i != bgSource) i.load(p);
+        // Ancien choix « toujours la même météo » (2 pluie, 3 orage, 4 neige, 5 brouillard) : repris en
+        // météo personnalisée avec les couches correspondantes
+        int oldFx = p.getInt(weatherFx.key, FX_REAL);
+        if (oldFx >= 2 && oldFx <= 5 && !p.contains(fxRain.key)) {
+            weatherFx.index = FX_CUSTOM;
+            fxRain.value = oldFx == 2 || oldFx == 3;
+            fxLightning.value = oldFx == 3;
+            fxSnow.value = oldFx == 4;
+            fxFog.value = oldFx == 5;
+            SharedPreferences.Editor e = p.edit();
+            for (Item i : new Item[]{weatherFx, fxRain, fxLightning, fxSnow, fxFog}) i.save(e);
+            e.apply();
+        }
         // Hors de « Réinitialiser tous les réglages » : la clé et le choix de playlist restent
         tmdbKey.load(p);
         activePlaylists.load(p);

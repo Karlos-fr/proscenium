@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Abre los ajustes del salvapantallas de Android. Google TV solo ofrece los suyos: Proscenium se elige una vez desde un ordenador (ver el README).</string>
     <string name="dream_none">Ninguno</string>
     <string name="set_weather_fx">Tiempo en el fondo</string>
-    <string name="help_weather_fx">Lluvia, tormenta, nieve o niebla pasan delante de la película, según el tiempo real de tu ciudad o siempre el mismo.</string>
+    <string name="help_weather_fx">Lluvia, rayos, nieve y niebla delante de la película: el tiempo real de tu ciudad, o una mezcla a elegir (Personalizado).</string>
     <string name="fx_real">Tiempo real</string>
     <string name="fx_rain">Lluvia</string>
     <string name="fx_storm">Tormenta</string>
@@ -586,4 +586,14 @@
     <string name="act_random_values">Valores aleatorios</string>
     <string name="help_random_glass_effect">Sortea todos los ajustes de esta animación y la activa.</string>
     <string name="help_random_weather">Sortea todos los ajustes de este tiempo, dentro de límites creíbles.</string>
+    <string name="fx_custom">Personalizado</string>
+    <string name="fx_lightning">Rayos</string>
+    <string name="help_fx_layer">Con el tiempo Personalizado: añade este tiempo a los demás marcados aquí; se combinan.</string>
+    <string name="set_fx_wind">Viento</string>
+    <string name="help_fx_wind">Con el tiempo Personalizado: el viento de tu ciudad, ninguno, o un viento del oeste a elegir, con sus ráfagas.</string>
+    <string name="wind_real">Real</string>
+    <string name="wind_none">Ninguno</string>
+    <string name="wind_light">Suave</string>
+    <string name="wind_strong">Fuerte</string>
+    <string name="wind_storm">Temporal</string>
 </resources>

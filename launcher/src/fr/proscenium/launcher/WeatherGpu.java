@@ -29,7 +29,7 @@ final class WeatherGpu {
             "uniform shader image;",
             "uniform float2 size;",
             "uniform float time;",
-            "uniform float kind;",     // 1 pluie, 2 orage, 3 neige, 4 brouillard
+            "uniform float snowOn;",   // 1 : flocons dans l'air
             "uniform float amount;",
             "uniform float drift;",    // dérive de la neige, en px/s
             "uniform float unit;",     // densité de l'écran
@@ -80,21 +80,27 @@ final class WeatherGpu {
             "  float3 col = float3(0.0); float a = 0.0;",
             // Brume : deux nappes qui dérivent à des vitesses différentes, plus denses vers le bas
             "  if (fog > 0.0) {",
-            "    float2 q = xy / (520.0 * unit);",
+            "    float2 q = xy / (300.0 * unit);",
             "    float ft = time * fogSpeed;",
             // Deux nappes : au loin, lente et fine ; devant, plus large, plus rapide et plus contrastée
-            "    float n1 = fbm(q * 0.8 + float2(ft * 0.035, ft * 0.006));",
-            "    float n2 = fbm(q * 0.45 - float2(ft * 0.07, -ft * 0.01) + float2(7.3, 2.1));",
-            "    float wisps = smoothstep(0.3, 0.75, n1) * 0.55 + smoothstep(0.35, 0.8, n2) * 0.65;",
-            "    float lowAmt = clamp(0.65 * fogLow, 0.0, 1.0);",
+            // Volutes : un bruit lent décale les coordonnées des nappes, qui enflent, s'étirent et se
+            // défont en avançant
+            "    float2 wq = q * 0.7;",
+            "    float2 w = float2(fbm(wq + float2(ft * 0.03, 1.7)), fbm(wq + float2(5.2, -ft * 0.025))) - 0.5;",
+            "    float n1 = fbm(q + w * 1.4 + float2(ft * 0.06, ft * 0.01));",
+            "    float n2 = fbm(q * 0.55 + w * 0.9 - float2(ft * 0.11, -ft * 0.015) + float2(7.3, 2.1));",
+            "    float wisps = smoothstep(0.35, 0.65, n1) * 0.5 + smoothstep(0.38, 0.68, n2) * 0.7;",
+            "    float lowAmt = clamp(0.45 * fogLow, 0.0, 1.0);",
             "    float low = 1.0 - lowAmt + lowAmt * smoothstep(0.1, 1.0, xy.y / size.y);",
             // Un voile uniforme baisse le contraste et les couleurs partout, les nappes passent devant
-            "    float fa = clamp(fog * (0.28 + wisps) * low, 0.0, 0.9);",
-            "    float3 fc = mix(float3(0.80, 0.83, 0.86), float3(lum) + 0.3, 0.3) + flash * 0.8;",
+            // Respiration : par endroits, le brouillard s'épaissit puis se dégage (20 à 40 s)
+            "    float breath = (0.8 + 0.2 * sin(ft * 0.21)) * mix(0.65, 1.3, vnoise(q * 0.35 + float2(ft * 0.012, -ft * 0.008)));",
+            "    float fa = clamp(fog * (0.4 + 0.9 * wisps) * low * breath, 0.0, 0.9);",
+            "    float3 fc = mix(float3(0.84, 0.86, 0.89), float3(lum) + 0.3, 0.3) + flash * 0.8;",
             "    col = fc * fa; a = fa;",
             "  }",
             // Neige : petits flocons nets au loin, gros flocons flous tout près (hors de la mise au point)
-            "  if (kind > 2.5 && kind < 3.5) {",
+            "  if (snowOn > 0.5) {",
             "    float s1 = flake(xy, 22.0 * unit, 34.0 * unit, 1.3 * unit, 0.15, 0.6 * amount, 3.0);",
             "    float s2 = flake(xy, 62.0 * unit, 70.0 * unit, 3.2 * unit, 0.3, 0.5 * amount, 11.0);",
             "    float s3 = flake(xy, 200.0 * unit, 150.0 * unit, 14.0 * unit, 0.45, 0.32 * amount, 23.0);",
@@ -194,7 +200,7 @@ final class WeatherGpu {
     }
 
     /** L'air : pluie, neige, brume, dans un calque à mi-résolution agrandi avec lissage. */
-    void drawAir(Canvas c, int w, int h, float time, int kind, float amount, float tilt, float drift, float flash,
+    void drawAir(Canvas c, int w, int h, float time, boolean snow, float amount, float drift, float flash,
                  float fog, float snowSize, float snowSpeed, float fogSpeed, float fogLow) {
         air.setFloatUniform("snowSize", snowSize);
         air.setFloatUniform("snowSpeed", snowSpeed);
@@ -202,11 +208,11 @@ final class WeatherGpu {
         air.setFloatUniform("fogLow", fogLow);
         air.setFloatUniform("size", w, h);
         air.setFloatUniform("time", time);
-        air.setFloatUniform("kind", kind);
+        air.setFloatUniform("snowOn", snow ? 1f : 0f);
         air.setFloatUniform("amount", amount);
         air.setFloatUniform("drift", drift);
         air.setFloatUniform("unit", unit);
-        float scale = kind == WeatherFx.SNOW ? SCALE : FOG_SCALE;
+        float scale = snow ? SCALE : FOG_SCALE;
         air.setFloatUniform("px", scale);
         air.setFloatUniform("flash", flash);
         air.setFloatUniform("fog", fog);

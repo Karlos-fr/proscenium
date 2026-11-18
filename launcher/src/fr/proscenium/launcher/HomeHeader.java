@@ -214,40 +214,54 @@ abstract class HomeHeader extends HomeBackdrop {
         }
     };
 
-    /** Météo sur le fond : réelle (dernier relevé), coupée (réglage, mode économie) ou imposée. */
+    /**
+     * Météo sur le fond : réelle (dernier relevé), coupée (réglage, mode économie) ou personnalisée
+     * (couches cochées, cumulables). Pendant le réglage d'une page météo, sa couche seule s'affiche.
+     */
     void applyWeatherFx() {
         if (weatherFx == null) return;
         Settings s = settings;
-        int kind = WeatherFx.NONE;
+        int layers = WeatherFx.NONE;
         float amount = 0.85f;
+        boolean custom = s.weatherFx.index == Settings.FX_CUSTOM;
         if (weatherPreview >= 0) {
-            // Page de réglage d'une météo ouverte : elle s'affiche, quels que soient les réglages
-            kind = weatherPreview;
+            layers = weatherPreview;
             amount = 1f;
         } else if (!s.economy.value) {
-            switch (s.weatherFx.index) {
-                case Settings.FX_REAL:
-                    if (lastWeather != null) {
-                        kind = WeatherFx.kindOf(lastWeather.code);
-                        amount = WeatherFx.amountOf(lastWeather.code);
-                    }
-                    break;
-                case Settings.FX_RAIN: kind = WeatherFx.RAIN; break;
-                case Settings.FX_STORM: kind = WeatherFx.STORM; amount = 1f; break;
-                case Settings.FX_SNOW: kind = WeatherFx.SNOW; break;
-                case Settings.FX_FOG: kind = WeatherFx.FOG; break;
-                default: break;
+            if (s.weatherFx.index == Settings.FX_REAL && lastWeather != null) {
+                layers = WeatherFx.layersOf(lastWeather.code);
+                amount = WeatherFx.amountOf(lastWeather.code);
+            } else if (custom) {
+                if (s.fxRain.value) layers |= WeatherFx.RAIN;
+                if (s.fxLightning.value) layers |= WeatherFx.STORM;
+                if (s.fxSnow.value) layers |= WeatherFx.SNOW;
+                if (s.fxFog.value) layers |= WeatherFx.FOG;
+                if (s.fxLightning.value) amount = 1f;
             }
         }
-        // Vent : en mph avec les °F, ramené à des km/h
-        // Vent affiché dans le bandeau : il pousse les gouttes qui glissent, rafales comprises
-        float tilt = -0.1f, gust = 1f;
+        // Vent affiché dans le bandeau (en mph avec les °F, ramené à des km/h) : il pousse les gouttes
+        // qui glissent, rafales comprises. La météo personnalisée peut imposer le sien (vent d'ouest
+        // si la ville n'a pas encore de relevé).
+        int wind = 0, gusts = 0, from = 270;
         if (lastWeather != null) {
-            int wind = s.tempUnit.index == Settings.UNIT_F ? Math.round(lastWeather.wind * 1.609f) : lastWeather.wind;
-            tilt = WeatherFx.tiltOf(wind, lastWeather.windFrom);
-            gust = Math.max(1f, lastWeather.gusts / (float) Math.max(1, lastWeather.wind));
+            boolean mph = s.tempUnit.index == Settings.UNIT_F;
+            wind = mph ? Math.round(lastWeather.wind * 1.609f) : lastWeather.wind;
+            gusts = mph ? Math.round(lastWeather.gusts * 1.609f) : lastWeather.gusts;
+            from = lastWeather.windFrom;
         }
-        weatherFx.set(kind, amount * (weatherPreview >= 0 ? 1f : s.weatherFxAmount.f()), tilt, gust,
+        if (custom) {
+            switch (s.fxWind.index) {
+                case Settings.WIND_NONE: wind = 0; gusts = 0; break;
+                case Settings.WIND_LIGHT: wind = 15; gusts = 25; break;
+                case Settings.WIND_STRONG: wind = 40; gusts = 65; break;
+                case Settings.WIND_STORM: wind = 70; gusts = 110; break;
+                default: break;
+            }
+            if (s.fxWind.index >= Settings.WIND_LIGHT && Math.abs(Math.sin(Math.toRadians(from))) < 0.3) from = 270;
+        }
+        float tilt = WeatherFx.tiltOf(wind, from);
+        float gust = wind > 0 ? Math.max(1f, gusts / (float) wind) : 1f;
+        weatherFx.set(layers, amount * (weatherPreview >= 0 ? 1f : s.weatherFxAmount.f()), tilt, gust,
                 weatherPreview >= 0 || s.weatherLens.value);
     }
 

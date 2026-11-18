@@ -33,8 +33,11 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   on a window (out of focus at first, then sharp, squashed by the impact), slide down in fits and
   starts, pushed sideways by the wind, with sudden gusts that change their direction, and leave a wet
   trail; storms add lightning that lights the picture, snow falls and its flakes melt on the screen,
-  fog veils the picture with drifting banks. It can follow
-  the real weather, always show the same weather, or be turned off (Android 13 and later for the drops).
+  fog veils the picture with banks that drift, swirl and thicken or clear. Rain, lightning, snow and
+  fog combine: the real weather turns on the layers it needs (a storm brings rain and lightning,
+  drizzle comes with mist, freezing rain with sleet), and Custom lets you tick any mix and choose
+  the wind (real, none, light, strong, gale). It can also be turned off (Android 13 and later for
+  the drops).
 - Weather settings (Settings → Home → Weather → Weather settings): a page per weather with presets
   (drizzle to downpour, four storms from the Platformer lightning studio, light flurries to blizzard,
   mist to pea-souper) and fine settings, previewed live on the backdrop. Lightning is drawn as

@@ -497,7 +497,7 @@
     <string name="help_dream_settings">Öppnar Androids inställningar för skärmsläckare. Google TV erbjuder bara sina egna där: Proscenium väljs en gång från en dator (se README).</string>
     <string name="dream_none">Ingen</string>
     <string name="set_weather_fx">Väder på bakgrunden</string>
-    <string name="help_weather_fx">Regn, åska, snö eller dimma drar förbi framför filmen, efter det verkliga vädret i din stad eller alltid samma.</string>
+    <string name="help_weather_fx">Regn, blixtar, snö och dimma framför filmen: det verkliga vädret i din stad, eller en blandning efter val (Anpassat).</string>
     <string name="fx_real">Verkligt väder</string>
     <string name="fx_rain">Regn</string>
     <string name="fx_storm">Åska</string>
@@ -587,4 +587,14 @@
     <string name="act_random_values">Slumpvärden</string>
     <string name="help_random_glass_effect">Slumpar alla inställningar för denna animation och slår på den.</string>
     <string name="help_random_weather">Slumpar alla inställningar för detta väder, inom trovärdiga gränser.</string>
+    <string name="fx_custom">Anpassat</string>
+    <string name="fx_lightning">Blixtar</string>
+    <string name="help_fx_layer">Med anpassat väder: lägger till detta väder till de andra som är valda här; de kombineras.</string>
+    <string name="set_fx_wind">Vind</string>
+    <string name="help_fx_wind">Med anpassat väder: vinden i din stad, ingen, eller en västlig vind efter val, med byar.</string>
+    <string name="wind_real">Verklig</string>
+    <string name="wind_none">Ingen</string>
+    <string name="wind_light">Svag</string>
+    <string name="wind_strong">Stark</string>
+    <string name="wind_storm">Storm</string>
 </resources>

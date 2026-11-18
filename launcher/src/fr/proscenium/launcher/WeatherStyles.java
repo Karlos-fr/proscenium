@@ -124,18 +124,17 @@ final class WeatherStyles {
             R.string.color_blue, R.string.color_cyan, R.string.wx_steel, R.string.color_purple);
     final Param stormFlash = new Param("wx_storm_flash", R.string.wx_sky_flash, R.string.help_wx_sky_flash, 0, 250, 100);
     final Param stormDim = new Param("wx_storm_dim", R.string.wx_dim, R.string.help_wx_dim, 0, 250, 100);
-    final Param stormDrops = new Param("wx_storm_drops", R.string.wx_drops, R.string.help_wx_drops, 0, 300, 100);
     final Style storm = new Style(WeatherFx.STORM, R.string.fx_storm, R.string.help_wx_page_storm,
             new Param[]{stormFrequency, stormForks, stormChaos, stormWidth, stormDuration, stormFlicker, stormGlow,
-                    stormFlash, stormDim, stormDrops}, 0,
+                    stormFlash, stormDim}, 0,
             new int[]{R.string.wxp_storm_standard, R.string.wxp_storm_intense, R.string.wxp_storm_far,
                     R.string.wxp_storm_deluge},
             // Préréglages de thunder-presets.json, rapportés à « Orage Standard »
             new int[][]{
-                    {100, 100, 100, 100, 100, 100, 0, 100, 100, 100},  // Orage standard
-                    {300, 170, 130, 150, 70, 170, 1, 160, 170, 150},   // Foudre intense
-                    {40, 60, 60, 50, 200, 50, 2, 40, 60, 60},          // Tempête lointaine
-                    {400, 200, 80, 80, 60, 200, 3, 180, 190, 180},     // Déluge électrique
+                    {100, 100, 100, 100, 100, 100, 0, 100, 100},  // Orage standard
+                    {300, 170, 130, 150, 70, 170, 1, 160, 170},   // Foudre intense
+                    {40, 60, 60, 50, 200, 50, 2, 40, 60},         // Tempête lointaine
+                    {400, 200, 80, 80, 60, 200, 3, 180, 190},     // Déluge électrique
             });
 
     // ---------------------------------------------------------------- Neige

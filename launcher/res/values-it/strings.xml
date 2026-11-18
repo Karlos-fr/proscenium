@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Apre le impostazioni del salvaschermo di Android. Google TV vi propone solo i propri: Proscenium si sceglie una volta da un computer (vedi il README).</string>
     <string name="dream_none">Nessuno</string>
     <string name="set_weather_fx">Meteo sullo sfondo</string>
-    <string name="help_weather_fx">Pioggia, temporale, neve o nebbia passano davanti al film, secondo il meteo reale della tua città o sempre lo stesso.</string>
+    <string name="help_weather_fx">Pioggia, fulmini, neve e nebbia davanti al film: il meteo reale della tua città, o un mix a scelta (Personalizzato).</string>
     <string name="fx_real">Meteo reale</string>
     <string name="fx_rain">Pioggia</string>
     <string name="fx_storm">Temporale</string>
@@ -586,4 +586,14 @@
     <string name="act_random_values">Valori casuali</string>
     <string name="help_random_glass_effect">Estrae a caso tutte le impostazioni di questa animazione e la attiva.</string>
     <string name="help_random_weather">Estrae a caso tutte le impostazioni di questo meteo, entro limiti credibili.</string>
+    <string name="fx_custom">Personalizzato</string>
+    <string name="fx_lightning">Fulmini</string>
+    <string name="help_fx_layer">Con il meteo Personalizzato: aggiunge questo meteo agli altri attivati qui; si sommano.</string>
+    <string name="set_fx_wind">Vento</string>
+    <string name="help_fx_wind">Con il meteo Personalizzato: il vento della tua città, nessuno, o un vento da ovest a scelta, con le raffiche.</string>
+    <string name="wind_real">Reale</string>
+    <string name="wind_none">Nessuno</string>
+    <string name="wind_light">Leggero</string>
+    <string name="wind_strong">Forte</string>
+    <string name="wind_storm">Burrasca</string>
 </resources>

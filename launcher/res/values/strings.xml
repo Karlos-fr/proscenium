@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Opens Android\'s screensaver settings. Google TV only offers its own screensavers there: choosing Proscenium is done once from a computer (see the README).</string>
     <string name="dream_none">None</string>
     <string name="set_weather_fx">Weather on the backdrop</string>
-    <string name="help_weather_fx">Rain, storms, snow or fog pass in front of the film, following the real weather of your town or always the same.</string>
+    <string name="help_weather_fx">Rain, lightning, snow and fog in front of the film: the real weather of your town, or a combination of your choice (Custom).</string>
     <string name="fx_real">Real weather</string>
     <string name="fx_rain">Rain</string>
     <string name="fx_storm">Storm</string>
@@ -586,4 +586,14 @@
     <string name="act_random_values">Random values</string>
     <string name="help_random_glass_effect">Draws random values for every setting of this animation and turns it on.</string>
     <string name="help_random_weather">Draws random values for every setting of this weather, within believable limits.</string>
+    <string name="fx_custom">Custom</string>
+    <string name="fx_lightning">Lightning</string>
+    <string name="help_fx_layer">With Custom weather: adds this weather to the others ticked here; they all combine.</string>
+    <string name="set_fx_wind">Wind</string>
+    <string name="help_fx_wind">With Custom weather: the wind of your town, none, or a west wind of your choice, with its gusts.</string>
+    <string name="wind_real">Real</string>
+    <string name="wind_none">None</string>
+    <string name="wind_light">Light</string>
+    <string name="wind_strong">Strong</string>
+    <string name="wind_storm">Gale</string>
 </resources>

@@ -36,7 +36,8 @@ import java.util.Random;
  * Placé entre le fond et le dock : l'interface reste nette devant la météo.
  */
 final class WeatherFx extends View {
-    static final int NONE = 0, RAIN = 1, STORM = 2, SNOW = 3, FOG = 4;
+    /** Couches cumulables (masque de bits) : pluie, éclairs d'orage, neige, brouillard. */
+    static final int NONE = 0, RAIN = 1, STORM = 2, SNOW = 4, FOG = 8;
     private static final String TAG = "Proscenium";
 
     /** Plus grand nombre de gouttes, gouttelettes de traînée et flocons sur la vitre. */
@@ -58,7 +59,7 @@ final class WeatherFx extends View {
     private final Random random = new Random();
     private final long start = SystemClock.uptimeMillis();
 
-    private int kind = NONE;
+    private int layers = NONE;
     private float amount = 1f, tilt;
     /**
      * Poussée du vent sur les gouttes qui glissent : de -1 (vers la gauche) à 1 (vers la droite), selon
@@ -101,14 +102,24 @@ final class WeatherFx extends View {
 
     // ---------------------------------------------------------------- Météo
 
-    /** Effet d'un code météo WMO (Open-Meteo). */
-    static int kindOf(int code) {
+    /**
+     * Couches d'un code météo WMO (Open-Meteo) : la bruine vient avec de la brume, la pluie ou la bruine
+     * verglaçante avec du grésil, l'orage avec de la pluie, et de la grêle pour les orages violents.
+     */
+    static int layersOf(int code) {
         if (code == 45 || code == 48) return FOG;
-        if (code >= 51 && code <= 67) return RAIN;
+        if (code == 51 || code == 53 || code == 55) return RAIN | FOG;
+        if (code == 56 || code == 57 || code == 66 || code == 67) return RAIN | SNOW;
+        if (code >= 61 && code <= 65) return RAIN;
         if ((code >= 71 && code <= 77) || code == 85 || code == 86) return SNOW;
         if (code >= 80 && code <= 82) return RAIN;
-        if (code >= 95) return STORM;
+        if (code == 95) return RAIN | STORM;
+        if (code >= 96) return RAIN | STORM | SNOW;
         return NONE;
+    }
+
+    private boolean has(int layer) {
+        return (layers & layer) != 0;
     }
 
     /** Force d'un code météo : bruine, pluie faible, modérée, forte… */
@@ -138,15 +149,17 @@ final class WeatherFx extends View {
         return (float) Math.sin(Math.toRadians(windFrom)) * 0.32f * strength;
     }
 
-    void set(int kind, float amount, float tilt, float gust, boolean lens) {
+    /** Couches à afficher (masque RAIN | STORM | SNOW | FOG), force, pente et rafales du vent, gouttes. */
+    void set(int layers, float amount, float tilt, float gust, boolean lens) {
         this.windX = Math.max(-1f, Math.min(1f, -tilt / 0.32f));
         this.gust = Math.max(1f, Math.min(3f, gust));
-        if (kind != this.kind) {
+        // Une couche retirée emporte ce qu'elle avait mis sur l'écran
+        if ((this.layers & ~layers & (RAIN | SNOW)) != 0) {
             dropCount = 0;
-            pending = 0;
-            lightning.reset();
+            pending = pendingSnow = 0;
         }
-        this.kind = kind;
+        if ((layers & STORM) != 0 && (this.layers & STORM) == 0) lightning.reset();
+        this.layers = layers;
         this.amount = Math.max(0.1f, Math.min(2f, amount));
         this.tilt = tilt;
         this.lens = lens;
@@ -194,7 +207,7 @@ final class WeatherFx extends View {
 
     @Override
     protected void onDraw(Canvas c) {
-        if (kind == NONE) return;
+        if (layers == NONE) return;
         int w = getWidth(), h = getHeight();
         if (w == 0 || h == 0) return;
         long now = SystemClock.uptimeMillis();
@@ -202,21 +215,19 @@ final class WeatherFx extends View {
         float time = ((now - start) % 600_000L) / 1000f;
         // Orage : éclairs du studio de foudre de Platformer (voir Lightning)
         float flash = 0f;
-        if (kind == STORM) {
+        if (has(STORM)) {
             lightning.update(now, Math.min(1f, amount), w, h);
             flash = lightning.flash();
         }
         Bitmap photo = photo();
 
-        // Ciel couvert : la scène s'assombrit et bleuit un peu sous la pluie, s'éclaircit sous la neige
+        // Ciel couvert : la scène s'assombrit et bleuit un peu sous la pluie, plus sous l'orage, et
+        // s'éclaircit sous la neige et le brouillard ; les voiles des couches se superposent
         float k = Math.min(amount, 1.4f);
-        switch (kind) {
-            case RAIN: tint.setColor(argb(0.10f * k * st.rainDim.f(), 0x0A1420)); break;
-            case STORM: tint.setColor(argb(0.24f * k * st.stormDim.f(), 0x050818)); break;   // voile d'orage du studio
-            case SNOW: tint.setColor(argb(0.07f * k * st.snowVeil.f(), 0xDCE6F2)); break;
-            default: tint.setColor(argb(0.10f * k * st.fogVeil.f(), 0xC8CDD2)); break;
-        }
-        c.drawRect(0, 0, w, h, tint);
+        if (has(RAIN)) veil(c, w, h, 0.10f * k * st.rainDim.f(), 0x0A1420);
+        if (has(STORM)) veil(c, w, h, 0.24f * k * st.stormDim.f(), 0x050818);   // voile d'orage du studio
+        if (has(SNOW)) veil(c, w, h, 0.07f * k * st.snowVeil.f(), 0xDCE6F2);
+        if (has(FOG)) veil(c, w, h, 0.10f * k * st.fogVeil.f(), 0xC8CDD2);
 
         // Éclair : la scène elle-même s'illumine (fondu « écran »), surtout vers le ciel, puis l'éclair
         // est tracé par-dessus, derrière les gouttes (il est dehors, de l'autre côté de la vitre)
@@ -228,7 +239,7 @@ final class WeatherFx extends View {
             sky.setShader(new LinearGradient(0, 0, 0, h, argb(0.35f * flash, 0xC8D8FF), 0, Shader.TileMode.CLAMP));
             c.drawRect(0, 0, w, h, sky);
         }
-        if (kind == STORM) lightning.draw(c, h);
+        if (has(STORM)) lightning.draw(c, h);
 
         boolean onGpu = gpu != null && photo != null;
         if (onGpu) {
@@ -247,13 +258,14 @@ final class WeatherFx extends View {
             gpu.setImage(smallShader);
             // Pas de pluie dans l'air : seulement les gouttes sur l'objectif. Brume pour le brouillard,
             // un léger voile sous la neige
-            if (kind == FOG || kind == SNOW) {
-                float fog = kind == FOG ? 0.75f * amount * st.fogDensity.f() : 0.12f * amount * st.snowVeil.f();
+            if (has(FOG) || has(SNOW)) {
+                float fog = (has(FOG) ? 0.75f * amount * st.fogDensity.f() : 0f)
+                        + (has(SNOW) ? 0.12f * amount * st.snowVeil.f() : 0f);
                 float drift = -tilt / 0.32f * 45f * density * st.snowWind.f();
-                gpu.drawAir(c, w, h, time, kind, kind == SNOW ? amount * st.snowFlakes.f() : amount, tilt, drift,
+                gpu.drawAir(c, w, h, time, has(SNOW), amount * st.snowFlakes.f(), drift,
                         flash, fog, st.snowSize.f(), st.snowFall.f(), st.fogDrift.f(), st.fogLow.f());
             }
-            if (lens && kind != FOG) {
+            if (lens && (has(RAIN) || has(SNOW))) {
                 stepLens(now, w / (float) h);
                 drawLens(c, w, h);
             }
@@ -264,13 +276,18 @@ final class WeatherFx extends View {
         if (running) postInvalidateOnAnimation();
     }
 
+    private void veil(Canvas c, int w, int h, float alpha, int rgb) {
+        tint.setColor(argb(alpha, rgb));
+        c.drawRect(0, 0, w, h, tint);
+    }
+
     private static int argb(float alpha, int rgb) {
         return ((int) (Math.max(0f, Math.min(1f, alpha)) * 255) << 24) | rgb;
     }
 
     /** Sans puce graphique programmable : flocons simples (les gouttes sur l'objectif demandent AGSL). */
     private void drawFallback(Canvas c, int w, int h, float time) {
-        if (kind == SNOW) {
+        if (has(SNOW)) {
             int n = Math.round(160 * amount);
             fallback.setColor(0xB0F0F4FA);
             for (int i = 0; i < n; i++) {
@@ -313,7 +330,7 @@ final class WeatherFx extends View {
 
     private final Drop[] drops = new Drop[MAX_DROPS];
     private int dropCount;
-    private float pending;
+    private float pending, pendingSnow;
     private long lastStep;
 
     private Drop addDrop(float x, float y, float radius, boolean snow, boolean trail) {
@@ -363,28 +380,29 @@ final class WeatherFx extends View {
     private void step(float aspect) {
         windClock += 1f / 60f;
         updateGust();
-        boolean snow = kind == SNOW;
-        float rate = (snow ? 0.035f * st.snowLens.f() : 0.09f * (kind == STORM ? st.stormDrops.f() : st.rainDrops.f()))
-                * amount;
-        if (kind == STORM) rate *= 1.6f;
-        pending += rate;
+        // Pluie et neige se cumulent : chacune pose ses gouttes ou ses flocons à son rythme
+        if (has(RAIN)) pending += 0.09f * st.rainDrops.f() * amount;
+        if (has(SNOW)) pendingSnow += 0.035f * st.snowLens.f() * amount;
         while (pending >= 1f) {
             pending -= 1f;
             float size = random.nextFloat();
-            float r = snow ? 0.006f + 0.01f * size
-                    : (random.nextFloat() < 0.12f ? SLIDE_RADIUS + 0.006f * size   // grosse goutte : glisse aussitôt
+            float r = (random.nextFloat() < 0.12f ? SLIDE_RADIUS + 0.006f * size   // grosse goutte : glisse aussitôt
                     : 0.004f + 0.0085f * size * size) * st.rainSize.f();
             float x = random.nextFloat(), y = random.nextFloat() * 0.95f;
             // Un impact sur une goutte posée s'y fond : elle grossit
             Drop hit = null;
-            for (int i = 0; i < dropCount && !snow; i++) {
+            for (int i = 0; i < dropCount; i++) {
                 Drop o = drops[i];
                 if (o.trail || o.snow > 0) continue;
                 float dx = (o.x - x) * aspect, dy = o.y - y;
                 if (dx * dx + dy * dy < o.radius * o.radius) { hit = o; break; }
             }
             if (hit != null) hit.radius = Math.min((float) Math.sqrt(hit.radius * hit.radius + r * r), MAX_RADIUS);
-            else addDrop(x, y, r, snow, false);
+            else addDrop(x, y, r, false, false);
+        }
+        while (pendingSnow >= 1f) {
+            pendingSnow -= 1f;
+            addDrop(random.nextFloat(), random.nextFloat() * 0.95f, 0.006f + 0.01f * random.nextFloat(), true, false);
         }
         for (int i = 0; i < dropCount; i++) {
             Drop d = drops[i];
@@ -441,7 +459,7 @@ final class WeatherFx extends View {
     private void slide(Drop d, float aspect) {
         // L'humidité de l'air et la pluie fine font grossir lentement chaque goutte
         d.radius = Math.min(d.radius + 0.000008f * amount, MAX_RADIUS);
-        float windEffect = kind == SNOW ? st.snowWind.f() : st.rainWind.f();
+        float windEffect = has(RAIN) ? st.rainWind.f() : st.snowWind.f();
         if (d.radius < SLIDE_RADIUS) {
             d.vy = 0;
             d.vx = 0;
@@ -461,7 +479,6 @@ final class WeatherFx extends View {
             if (random.nextFloat() < 0.035f) d.vx = (random.nextFloat() - 0.5f) * d.vy * 0.9f;
         }
         d.vx *= 0.92f;
-        // Le vent la pousse de côté, plus fort pendant les rafales (deux oscillations lentes mêlées)
         // Vent moyen, plus la bourrasque : elle change net la direction de la goutte
         float push = (windX * 0.9f + gustNow() * 1.3f) * windEffect;
         float dx = d.vx + push * d.vy;

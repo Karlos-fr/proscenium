@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Öffnet die Bildschirmschoner-Einstellungen von Android. Google TV bietet dort nur seine eigenen an: Proscenium wird einmalig über einen Computer ausgewählt (siehe README).</string>
     <string name="dream_none">Keiner</string>
     <string name="set_weather_fx">Wetter auf dem Hintergrund</string>
-    <string name="help_weather_fx">Regen, Gewitter, Schnee oder Nebel ziehen vor dem Film vorbei, nach dem echten Wetter Ihrer Stadt oder immer gleich.</string>
+    <string name="help_weather_fx">Regen, Blitze, Schnee und Nebel vor dem Film: das echte Wetter Ihrer Stadt oder eine Mischung nach Wahl (Benutzerdefiniert).</string>
     <string name="fx_real">Echtes Wetter</string>
     <string name="fx_rain">Regen</string>
     <string name="fx_storm">Gewitter</string>
@@ -586,4 +586,14 @@
     <string name="act_random_values">Zufallswerte</string>
     <string name="help_random_glass_effect">Würfelt alle Einstellungen dieser Animation neu und schaltet sie ein.</string>
     <string name="help_random_weather">Würfelt alle Einstellungen dieses Wetters in glaubwürdigen Grenzen neu.</string>
+    <string name="fx_custom">Benutzerdefiniert</string>
+    <string name="fx_lightning">Blitze</string>
+    <string name="help_fx_layer">Bei benutzerdefiniertem Wetter: fügt dieses Wetter zu den anderen hier aktivierten hinzu; sie kombinieren sich.</string>
+    <string name="set_fx_wind">Wind</string>
+    <string name="help_fx_wind">Bei benutzerdefiniertem Wetter: der Wind Ihrer Stadt, keiner oder ein Westwind nach Wahl, mit Böen.</string>
+    <string name="wind_real">Echt</string>
+    <string name="wind_none">Keiner</string>
+    <string name="wind_light">Leicht</string>
+    <string name="wind_strong">Stark</string>
+    <string name="wind_storm">Sturm</string>
 </resources>
