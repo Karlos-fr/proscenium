@@ -45,7 +45,7 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   branching fractal bolts that strike, flicker and light up the picture.
 - "Random values" on each weather page, within believable limits.
 - Film details on the title card (cinema mode and screensaver): running time, genres and the TMDB
-  rating (a star with the score, or a coloured ring in percent) next to the year, and under them the
+  rating (a coloured ring in percent by default, or a star with the score) next to the year, and under them the
   synopsis on three lines, the tagline, or the whole synopsis scrolling slowly. Settings → Cinema mode
   → Title card. Packs now carry these details in six languages (packs version 2: "Update installed
   packs" adds them to films already downloaded); films of your own playlists get them from TMDB and

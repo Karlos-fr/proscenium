@@ -200,7 +200,7 @@ final class Settings {
     final Flag titleInfo = new Flag("title_info", R.string.set_title_info, R.string.help_title_info, true);
     static final int RATING_NONE = 0, RATING_STARS = 1, RATING_PERCENT = 2;
     final Choice titleRating = new Choice("title_rating", R.string.set_title_rating, R.string.help_title_rating,
-            RATING_STARS, Format.LABELS, seq(3), R.string.rating_none, R.string.rating_stars, R.string.rating_percent);
+            RATING_PERCENT, Format.LABELS, seq(3), R.string.rating_none, R.string.rating_stars, R.string.rating_percent);
     static final int SUMMARY_NONE = 0, SUMMARY_TAGLINE = 1, SUMMARY_SHORT = 2, SUMMARY_FULL = 3;
     final Choice titleSummary = new Choice("title_summary", R.string.set_title_summary, R.string.help_title_summary,
             SUMMARY_SHORT, Format.LABELS, seq(4), R.string.summary_none, R.string.summary_tagline,
