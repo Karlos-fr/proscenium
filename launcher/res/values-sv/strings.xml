@@ -480,7 +480,7 @@
     <string name="update_permission">Tillåt Proscenium att installera appar på sidan som just öppnades och tryck sedan på OK igen.</string>
     <string name="update_toast">Proscenium %1$s finns: Inställningar → System → Uppdatering</string>
     <string name="act_update_packs">Uppdatera installerade paket</string>
-    <string name="help_update_packs">Nya filmer har lagts till i några av dina paket. OK laddar ner dem; filmerna du redan har förblir oförändrade.</string>
+    <string name="help_update_packs">Några av dina paket har nyheter: nya filmer, eller uppgifter till titelkortet (handling, betyg …). OK laddar ner de nya filmerna och lägger till uppgifterna; inget laddas ner två gånger.</string>
     <string name="packs_update">uppdatering finns</string>
     <string name="welcome_title">Välkommen till Proscenium</string>
     <string name="hint_welcome">Några inställningar för att komma igång. Du kan ändra allt senare i inställningarna.</string>

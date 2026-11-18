@@ -479,7 +479,7 @@
     <string name="update_permission">Allow Proscenium to install apps in the page that has just opened, then press OK again.</string>
     <string name="update_toast">Proscenium %1$s is available: Settings → System → Update</string>
     <string name="act_update_packs">Update installed packs</string>
-    <string name="help_update_packs">New films have been added to some of your packs. OK downloads them; the films you already have stay as they are.</string>
+    <string name="help_update_packs">Some of your packs have news: new films, or details for the title card (synopsis, rating…). OK downloads the new films and adds the details; nothing is downloaded twice.</string>
     <string name="packs_update">update available</string>
     <string name="welcome_title">Welcome to Proscenium</string>
     <string name="hint_welcome">A few settings to get started. You can change everything later in the settings.</string>

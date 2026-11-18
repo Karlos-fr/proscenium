@@ -479,7 +479,7 @@
     <string name="update_permission">Autorisez Proscenium à installer des applis dans la page qui vient de s\'ouvrir, puis appuyez de nouveau sur OK.</string>
     <string name="update_toast">Proscenium %1$s est disponible : Réglages → Système → Mise à jour</string>
     <string name="act_update_packs">Mettre à jour les packs installés</string>
-    <string name="help_update_packs">Des films ont été ajoutés à certains de vos packs. OK les télécharge ; les films que vous avez déjà restent tels quels.</string>
+    <string name="help_update_packs">Certains de vos packs ont des nouveautés : nouveaux films, ou fiches pour la carte titre (résumé, note…). OK télécharge les nouveaux films et ajoute les fiches ; rien n\'est retéléchargé.</string>
     <string name="packs_update">mise à jour disponible</string>
     <string name="welcome_title">Bienvenue dans Proscenium</string>
     <string name="hint_welcome">Quelques réglages pour bien démarrer. Vous pourrez tout changer plus tard dans les réglages.</string>
