@@ -450,21 +450,34 @@ final class WeatherFx extends View {
             Drop d = drops[i];
             if (d.y > 2f) continue;
             // Impact : la goutte s'étale en quelques pas ; une gouttelette s'évapore en fin de vie
-            float spread = Math.min(0.55f + 0.09f * d.age, 1f);
+            float spread = d.trail ? Math.min(0.55f + 0.09f * d.age, 1f) : 1f;
             float opacity = d.trail ? Math.max(0f, Math.min(1f, (d.life - d.age) / (d.life * (d.film ? 0.75f : 0.4f)))) : 1f;
             if (opacity <= 0) continue;
             float radius = d.radius * h * spread * (d.trail ? 0.6f + 0.4f * opacity : 1f);
             if (d.film) {
                 // Pellicule : allongée, plus étroite en séchant
                 gpu.drawDrop(c, d.x * w, d.y * h, d.radius * h * (0.55f + 0.45f * opacity),
-                        d.radius * h * 1.7f, 0f, opacity, d.seed, 2f);
+                        d.radius * h * 1.7f, 0f, opacity, d.seed, 2f, 0f);
                 continue;
             }
             float run = Math.min(d.vy * 160f, 1f);
             // Une goutte qui glisse s'allonge : tête ronde en bas, plus fine en haut
             float sx = radius * (1f - 0.12f * run);
             float sy = radius * (1f + 0.35f * run);
-            gpu.drawDrop(c, d.x * w, d.y * h, sx, sy, d.snow, opacity, d.seed, run);
+            float blur = 0f;
+            if (!d.trail && d.age < 30) {
+                // Arrivée : floue et un peu plus grande, la mise au point se fait en 0,2 s ; en même temps
+                // l'impact l'écrase, puis elle reprend sa forme en oscillant comme de l'eau
+                float t = d.age / 60f;
+                float focus = Math.min(1f, t / 0.2f);
+                blur = (1f - focus) * (1f - focus);
+                float wob = (float) (Math.exp(-t * 14f) * Math.cos(t * 40f));
+                float grow = 1f + 0.25f * blur;
+                sx *= grow * (1f + 0.3f * wob);
+                sy *= grow * (1f - 0.22f * wob);
+                opacity *= 0.55f + 0.45f * focus;
+            }
+            gpu.drawDrop(c, d.x * w, d.y * h, sx, sy, d.snow, opacity, d.seed, run, blur);
         }
     }
 }

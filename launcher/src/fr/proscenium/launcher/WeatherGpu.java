@@ -109,6 +109,7 @@ final class WeatherGpu {
             "uniform float2 center;",
             "uniform float2 size;",
             "uniform float4 look;",   // x : neige ; y : opacité ; z : forme ; w : glissement (0 à 1), ou 2 : traînée
+            "uniform float blur;",    // mise au point à l'arrivée : 1 flou, 0 net
 
             "half4 main(float2 q) {",
             "  float2 local = (q - center) / size;",
@@ -131,20 +132,27 @@ final class WeatherGpu {
             "  float s = look.z;",
             "  float wave = (0.045 * sin(2.0 * a + s) + 0.03 * sin(3.0 * a + 2.0 * s)) * (1.0 - 0.6 * look.w);",
             "  float r = length(l) / (1.0 + wave);",
-            "  float aa = 1.4 / min(size.x, size.y);",
+            "  float aa = mix(1.4 / min(size.x, size.y), 0.7, blur);",
             "  float cover = 1.0 - smoothstep(1.0 - aa, 1.0, r);",
             "  if (cover <= 0.0) return half4(0.0);",
             "  float h = sqrt(max(0.0, 1.0 - r * r));",
             // La scène vue à travers : renversée, réduite, d'autant plus vers le bord
             "  float2 p = center - l * size * (3.2 + 2.5 * (1.0 - h));",
             "  float3 color = float3(image.eval(p).rgb);",
+            "  if (blur > 0.01) {",
+            "    float br = blur * min(size.x, size.y) * 1.2;",
+            "    color += float3(image.eval(p + float2(br, 0.0)).rgb) + float3(image.eval(p - float2(br, 0.0)).rgb)",
+            "           + float3(image.eval(p + float2(0.0, br)).rgb) + float3(image.eval(p - float2(0.0, br)).rgb);",
+            "    color /= 5.0;",
+            "  }",
+            "  float sharp = 1.0 - 0.85 * blur;",
             "  color = color * 1.06 + 0.035;",
             // Bord sombre, lumière concentrée en bas, reflet du ciel en haut à gauche
-            "  color *= 1.0 - 0.55 * smoothstep(0.72, 0.97, r);",
+            "  color *= 1.0 - 0.55 * sharp * smoothstep(0.72, 0.97, r);",
             "  color += float3(0.16) * smoothstep(0.55, 0.92, r) * smoothstep(0.1, 0.8, l.y);",
             "  float2 hp = l - float2(-0.3, -0.42);",
             "  float big = smoothstep(3.0, 16.0, min(size.x, size.y));",
-            "  color += float3(0.12 + 0.5 * big) * exp(-dot(hp, hp) * 90.0) + float3(0.1 * big) * exp(-dot(hp, hp) * 9.0);",
+            "  color += sharp * float3(0.12 + 0.5 * big) * exp(-dot(hp, hp) * 90.0) + float3(0.1 * big) * exp(-dot(hp, hp) * 9.0);",
             // Flocon : blanc givré, opaque au centre, qui redevient eau en fondant
             "  float3 frost = mix(color, float3(0.94, 0.96, 1.0), 0.75 * smoothstep(0.0, 0.8, h));",
             "  color = mix(color, frost, look.x);",
@@ -201,10 +209,11 @@ final class WeatherGpu {
      * (posée) à 1 (glisse vite).
      */
     void drawDrop(Canvas c, float cx, float cy, float sx, float sy, float snow, float opacity, float seed,
-                  float run) {
+                  float run, float blur) {
         drop.setFloatUniform("center", cx, cy);
         drop.setFloatUniform("size", sx, sy);
         drop.setFloatUniform("look", snow, opacity, seed, run);
+        drop.setFloatUniform("blur", blur);
         dropPaint.setShader(drop);
         c.drawRect(cx - sx * 1.15f, cy - sy * 1.15f, cx + sx * 1.15f, cy + sy * 1.15f, dropPaint);
     }
