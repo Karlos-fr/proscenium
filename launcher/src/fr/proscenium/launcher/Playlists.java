@@ -419,6 +419,9 @@ final class Playlists {
                 String title = Packs.pick(fo.opt("title"), lang);
                 report(app.getString(R.string.dl_progress, i + 1, films.length(), title));
                 int movie = fo.optInt("id");
+                synchronized (Playlists.class) {
+                    if (!all(app).contains(target)) break;   // pack supprimé entre-temps
+                }
                 if (target.find(movie) != null) continue;
                 try {
                     Film f = new Film();
@@ -443,6 +446,10 @@ final class Playlists {
                         }
                     }
                     synchronized (Playlists.class) {
+                        if (!all(app).contains(target)) {
+                            forget(app, f);
+                            break;
+                        }
                         target.films.add(f);
                         save(app);
                     }

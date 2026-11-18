@@ -449,7 +449,7 @@
     <string name="act_browse_packs">Sfoglia i pacchetti</string>
     <string name="help_browse_packs">Playlist a tema già pronte. Le immagini vengono scaricate direttamente da TMDB, senza chiave API.</string>
     <string name="packs_title">Pacchetti di sfondi</string>
-    <string name="hint_packs">OK installa un pacchetto, o lo apre se è già installato</string>
+    <string name="hint_packs">OK installa un pacchetto, o lo rimuove se è già installato</string>
     <string name="packs_error">Pacchetti non disponibili: controlla la connessione a internet.</string>
     <string name="packs_installed">installato</string>
     <string name="packs_notice">Un pacchetto contiene solo l\'elenco dei film e delle immagini scelte; le immagini provengono da TMDB. Questo prodotto usa l\'API di TMDB ma non è approvato né certificato da TMDB.</string>
@@ -509,4 +509,5 @@
     <string name="help_weather_fx_amount">Più o meno gocce, fiocchi e foschia.</string>
     <string name="set_weather_lens">Gocce sullo schermo</string>
     <string name="help_weather_lens">Come sull\'obiettivo di una cinepresa: le gocce si posano, scivolano e si asciugano, i fiocchi si sciolgono (Android 13 e successivi).</string>
+    <string name="packs_removed">Pacchetto rimosso: %1$s</string>
 </resources>

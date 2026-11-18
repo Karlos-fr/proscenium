@@ -449,7 +449,7 @@
     <string name="act_browse_packs">Pakete durchsuchen</string>
     <string name="help_browse_packs">Fertige Themen-Playlists. Die Bilder werden direkt von TMDB geladen, ohne API-Schlüssel.</string>
     <string name="packs_title">Hintergrundpakete</string>
-    <string name="hint_packs">OK installiert ein Paket oder öffnet es, wenn es installiert ist</string>
+    <string name="hint_packs">OK installiert ein Paket oder entfernt es, wenn es schon installiert ist</string>
     <string name="packs_error">Pakete nicht verfügbar: Internetverbindung prüfen.</string>
     <string name="packs_installed">installiert</string>
     <string name="packs_notice">Ein Paket enthält nur die Liste der Filme und der gewählten Bilder; die Bilder stammen von TMDB. Dieses Produkt nutzt die TMDB-API, ist aber weder von TMDB unterstützt noch zertifiziert.</string>
@@ -509,4 +509,5 @@
     <string name="help_weather_fx_amount">Mehr oder weniger Tropfen, Flocken und Dunst.</string>
     <string name="set_weather_lens">Tropfen auf dem Bildschirm</string>
     <string name="help_weather_lens">Wie auf einem Kameraobjektiv: Tropfen landen, rinnen herab und trocknen, Flocken schmelzen (ab Android 13).</string>
+    <string name="packs_removed">Paket entfernt: %1$s</string>
 </resources>

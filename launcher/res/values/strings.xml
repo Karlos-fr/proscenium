@@ -449,7 +449,7 @@
     <string name="act_browse_packs">Browse packs</string>
     <string name="help_browse_packs">Ready-made themed playlists. Images are downloaded straight from TMDB, no API key needed.</string>
     <string name="packs_title">Background packs</string>
-    <string name="hint_packs">OK installs a pack, or opens it once installed</string>
+    <string name="hint_packs">OK installs a pack, or removes it if it is already installed</string>
     <string name="packs_error">Packs unavailable: check the internet connection.</string>
     <string name="packs_installed">installed</string>
     <string name="packs_notice">A pack only lists films and the images chosen for them; the images themselves come from TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB.</string>
@@ -509,4 +509,5 @@
     <string name="help_weather_fx_amount">More or fewer drops, flakes and mist.</string>
     <string name="set_weather_lens">Drops on the screen</string>
     <string name="help_weather_lens">As on a camera lens: drops land, slide down and dry, flakes melt (Android 13 and later).</string>
+    <string name="packs_removed">Pack removed: %1$s</string>
 </resources>

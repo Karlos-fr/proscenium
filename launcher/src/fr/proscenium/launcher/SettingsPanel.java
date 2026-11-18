@@ -104,7 +104,7 @@ final class SettingsPanel extends PanelTabs {
         return s.tmdbLanguage(Lang.tag(ctx)).substring(0, 2);
     }
 
-    /** Packs de fonds thématiques : une tuile par pack, OK l'installe (ou ouvre sa playlist). */
+    /** Packs de fonds thématiques : une tuile par pack, OK l'installe, ou le supprime s'il l'est déjà. */
     void showPacks() {
         clearContent();
         pageTitle(ctx.getString(R.string.packs_title), R.string.hint_packs);
@@ -130,7 +130,7 @@ final class SettingsPanel extends PanelTabs {
         if (!outdated.isEmpty()) {
             content.addView(action(R.string.act_update_packs, R.string.help_update_packs,
                     () -> String.valueOf(outdated.size()), () -> {
-                        for (Packs.Pack pack : outdated) installPack(pack);
+                        for (Packs.Pack pack : outdated) downloadPack(pack);
                     }).badgeOf(R.string.badge_internet));
         }
         List<View> tiles = new ArrayList<>();
@@ -141,7 +141,7 @@ final class SettingsPanel extends PanelTabs {
                     : installed != null ? "  ·  " + ctx.getString(R.string.packs_installed) : "")
                     + (pack.description.isEmpty() ? "" : "  ·  " + pack.description);
             View t = tile("w300", pack.cover, BACKDROP_W, BACKDROP_H, pack.name, info,
-                    () -> Playlists.byPack(ctx, pack.id) != null, () -> installPack(pack));
+                    () -> Playlists.byPack(ctx, pack.id) != null, () -> togglePack(pack));
             t.setTag("pack:" + pack.id);
             tiles.add(t);
         }
@@ -158,15 +158,23 @@ final class SettingsPanel extends PanelTabs {
     }
 
     /**
-     * Pack déjà complet et à jour : on ouvre sa playlist. Sinon on l'installe, on le complète ou
-     * on le met à jour (seuls les films manquants sont téléchargés).
+     * OK sur la tuile d'un pack, comme une case à cocher : un pack absent est installé, un pack
+     * installé est supprimé (sa playlist et ses images ; un téléchargement en cours s'arrête).
      */
-    void installPack(Packs.Pack pack) {
+    void togglePack(Packs.Pack pack) {
         Playlists.Playlist installed = Playlists.byPack(ctx, pack.id);
-        if (installed != null && installed.films.size() >= pack.films && !hasUpdate(pack)) {
-            openPage(() -> showPlaylist(installed));
+        if (installed == null) {
+            downloadPack(pack);
             return;
         }
+        if (s.isActive(installed.id)) s.setActive(installed.id, false);
+        Playlists.delete(ctx, installed);
+        rebuildPage("pack:" + pack.id);
+        help.setText(ctx.getString(R.string.packs_removed, pack.name));
+    }
+
+    /** Installe un pack, le complète ou le met à jour (seuls les films manquants sont téléchargés). */
+    void downloadPack(Packs.Pack pack) {
         help.setText(R.string.loading);
         String lang = packLang();
         boolean original = original();

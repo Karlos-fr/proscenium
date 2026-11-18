@@ -350,11 +350,19 @@ abstract class PanelCore {
 
     /** Reconstruit la page affichée (après un changement), en gardant la sélection si possible. */
     void rebuildPage(Object focusTag) {
+        int y = scroll.getScrollY();
         if (pages.isEmpty()) showTab(currentTab);
         else pages.peek().run();
         if (focusTag == null) return;
         View v = content.findViewWithTag(focusTag);
-        if (v != null) v.requestFocus();
+        if (v == null) return;
+        v.requestFocus();
+        // La page reste où elle était (la reconstruction l'avait ramenée en haut) ; une fois mise en
+        // page, ce défilement remplace celui vers le haut, encore en cours
+        int gen = generation;
+        scroll.post(() -> {
+            if (gen == generation) scroll.smoothScrollTo(0, y);
+        });
     }
 
     void clearContent() {

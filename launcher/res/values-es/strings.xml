@@ -449,7 +449,7 @@
     <string name="act_browse_packs">Explorar los packs</string>
     <string name="help_browse_packs">Listas temáticas ya preparadas. Las imágenes se descargan directamente de TMDB, sin clave de API.</string>
     <string name="packs_title">Packs de fondos</string>
-    <string name="hint_packs">OK instala un pack, o lo abre si ya está instalado</string>
+    <string name="hint_packs">OK instala un pack, o lo elimina si ya está instalado</string>
     <string name="packs_error">Packs no disponibles: comprueba la conexión a internet.</string>
     <string name="packs_installed">instalado</string>
     <string name="packs_notice">Un pack solo contiene la lista de películas y de las imágenes elegidas; las imágenes vienen de TMDB. Este producto usa la API de TMDB pero no está avalado ni certificado por TMDB.</string>
@@ -509,4 +509,5 @@
     <string name="help_weather_fx_amount">Más o menos gotas, copos y bruma.</string>
     <string name="set_weather_lens">Gotas en la pantalla</string>
     <string name="help_weather_lens">Como en el objetivo de una cámara: las gotas caen, resbalan y se secan, los copos se derriten (Android 13 o posterior).</string>
+    <string name="packs_removed">Pack eliminado: %1$s</string>
 </resources>

@@ -21,6 +21,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   sagas.
 - Pack updates: each pack has a version. When films are added to a pack, it shows "update
   available" and "Update installed packs" downloads only the new films.
+- Packs work like check boxes: OK on an installed pack removes it (its playlist and images; a
+  download in progress stops), and the list stays where it was instead of jumping back to the top.
 - Anyone can suggest a pack by pull request or issue: see packs/README.md.
 - Getting started: on first launch, a screen helps choose the language, the town for the weather, a
   backdrop pack and the Home button service. It can be reopened from Settings → System.

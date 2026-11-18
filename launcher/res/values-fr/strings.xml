@@ -449,7 +449,7 @@
     <string name="act_browse_packs">Parcourir les packs</string>
     <string name="help_browse_packs">Des playlists thématiques toutes prêtes. Les images sont téléchargées directement depuis TMDB, sans clé d\'API.</string>
     <string name="packs_title">Packs de fonds</string>
-    <string name="hint_packs">OK installe un pack, ou l\'ouvre une fois installé</string>
+    <string name="hint_packs">OK installe un pack, ou le supprime s\'il est déjà installé</string>
     <string name="packs_error">Packs indisponibles : vérifiez la connexion internet.</string>
     <string name="packs_installed">installé</string>
     <string name="packs_notice">Un pack ne contient que la liste des films et des images choisies ; les images viennent de TMDB. Ce produit utilise l\'API TMDB mais n\'est ni approuvé ni certifié par TMDB.</string>
@@ -509,4 +509,5 @@
     <string name="help_weather_fx_amount">Plus ou moins de gouttes, de flocons et de brume.</string>
     <string name="set_weather_lens">Gouttes sur l\'écran</string>
     <string name="help_weather_lens">Comme sur l\'objectif d\'une caméra : des gouttes se posent, glissent et sèchent, les flocons fondent (Android 13 et plus).</string>
+    <string name="packs_removed">Pack supprimé : %1$s</string>
 </resources>
