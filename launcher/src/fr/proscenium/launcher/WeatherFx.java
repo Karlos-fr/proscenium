@@ -37,7 +37,7 @@ import java.util.Random;
  */
 final class WeatherFx extends View {
     /** Couches cumulables (masque de bits) : pluie, éclairs d'orage, neige, brouillard. */
-    static final int NONE = 0, RAIN = 1, STORM = 2, SNOW = 4, FOG = 8;
+    static final int NONE = 0, RAIN = 1, STORM = 2, SNOW = 4, FOG = 8, SUN = 16;
     private static final String TAG = "Proscenium";
 
     /** Plus grand nombre de gouttes, gouttelettes de traînée et flocons sur la vitre. */
@@ -106,7 +106,9 @@ final class WeatherFx extends View {
      * Couches d'un code météo WMO (Open-Meteo) : la bruine vient avec de la brume, la pluie ou la bruine
      * verglaçante avec du grésil, l'orage avec de la pluie, et de la grêle pour les orages violents.
      */
-    static int layersOf(int code) {
+    static int layersOf(int code, boolean day) {
+        // Ciel dégagé ou peu nuageux, de jour : des rayons de soleil
+        if (code <= 2) return day ? SUN : NONE;
         if (code == 45 || code == 48) return FOG;
         if (code == 51 || code == 53 || code == 55) return RAIN | FOG;
         if (code == 56 || code == 57 || code == 66 || code == 67) return RAIN | SNOW;
@@ -228,6 +230,7 @@ final class WeatherFx extends View {
         if (has(STORM)) veil(c, w, h, 0.24f * k * st.stormDim.f(), 0x050818);   // voile d'orage du studio
         if (has(SNOW)) veil(c, w, h, 0.07f * k * st.snowVeil.f(), 0xDCE6F2);
         if (has(FOG)) veil(c, w, h, 0.10f * k * st.fogVeil.f(), 0xC8CDD2);
+        if (has(SUN)) veil(c, w, h, 0.05f * k * st.sunWarmth.f(), 0xFFB05A);   // lumière chaude
 
         // Éclair : la scène elle-même s'illumine (fondu « écran »), surtout vers le ciel, puis l'éclair
         // est tracé par-dessus, derrière les gouttes (il est dehors, de l'autre côté de la vitre)
@@ -281,6 +284,13 @@ final class WeatherFx extends View {
                 float drift = -tilt / 0.32f * 45f * density * st.snowWind.f();
                 gpu.drawAir(c, w, h, time, has(SNOW), amount * st.snowFlakes.f(), drift,
                         flash, fog, st.snowSize.f(), st.snowFall.f(), st.fogDrift.f(), st.fogLow.f());
+            }
+            // Soleil : rayons dehors, devant le film et derrière les gouttes de la vitre
+            if (has(SUN)) {
+                gpu.drawSun(c, w, h, time, st.sunPosition.f(), 0.9f * amount * st.sunRays.f(),
+                        Math.max(0.88f, Math.min(0.995f, 0.88f + 0.055f * st.sunLength.f())),
+                        Math.max(0.05f, Math.min(0.9f, 0.45f * st.sunThreshold.f())),
+                        Math.min(1f, 0.5f * st.sunWarmth.f()), st.sunGlow.f(), st.sunShimmer.f(), st.sunDust.f());
             }
             if (lens && (has(RAIN) || has(SNOW))) {
                 stepLens(now, w / (float) h);

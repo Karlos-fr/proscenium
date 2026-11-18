@@ -497,7 +497,7 @@
     <string name="help_dream_settings">Öppnar Androids inställningar för skärmsläckare. Google TV erbjuder bara sina egna där: Proscenium väljs en gång från en dator (se README).</string>
     <string name="dream_none">Ingen</string>
     <string name="set_weather_fx">Väder på bakgrunden</string>
-    <string name="help_weather_fx">Regn, blixtar, snö och dimma framför filmen: det verkliga vädret i din stad, eller en blandning efter val (Anpassat).</string>
+    <string name="help_weather_fx">Sol, regn, blixtar, snö och dimma framför filmen: det verkliga vädret i din stad, eller en blandning efter val (Anpassat).</string>
     <string name="fx_real">Verkligt väder</string>
     <string name="fx_rain">Regn</string>
     <string name="fx_storm">Åska</string>
@@ -614,4 +614,27 @@
     <string name="help_title_text_size">Storlek på uppgifterna och handlingen under titeln.</string>
     <string name="runtime_hm">%1$d tim %2$02d min</string>
     <string name="runtime_m">%1$d min</string>
+    <string name="fx_sun">Sol</string>
+    <string name="help_wx_page_sun">Solstrålar genom bilden: styrka, längd, värme, gloria, svävande damm.</string>
+    <string name="wxp_sun_full">Full sol</string>
+    <string name="wxp_sun_morning">Gyllene morgon</string>
+    <string name="wxp_sun_sunset">Solnedgång</string>
+    <string name="wxp_sun_forest">Skogsglänta</string>
+    <string name="wxp_sun_soft">Diskret</string>
+    <string name="wx_sun_rays">Strålarnas styrka</string>
+    <string name="help_wx_sun_rays">Hur ljusa ljusstrålarna är.</string>
+    <string name="wx_sun_length">Strålarnas längd</string>
+    <string name="help_wx_sun_length">Hur långt strålarna når från solen.</string>
+    <string name="wx_sun_threshold">Ljuströskel</string>
+    <string name="help_wx_sun_threshold">Högre: bara de ljusaste delarna av bilden släpper igenom ljus, för skarpare strålar.</string>
+    <string name="wx_sun_position">Solens läge</string>
+    <string name="help_wx_sun_position" formatted="false">Var solen står ovanför skärmen, från vänster (0 %) till höger (100 %).</string>
+    <string name="wx_sun_warmth">Värme</string>
+    <string name="help_wx_sun_warmth">Från vitt middagsljus till solnedgångens orange.</string>
+    <string name="wx_sun_glow">Solens gloria</string>
+    <string name="help_wx_sun_glow">Mjukt sken runt solen, högst upp i bilden.</string>
+    <string name="wx_sun_shimmer">Rörelse</string>
+    <string name="help_wx_sun_shimmer">Hur snabbt strålarna skiftar och dammet driver (0: stilla).</string>
+    <string name="wx_sun_dust">Damm i ljuset</string>
+    <string name="help_wx_sun_dust">Dammkorn som svävar och glittrar i strålarna.</string>
 </resources>

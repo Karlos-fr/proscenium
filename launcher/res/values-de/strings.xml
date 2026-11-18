@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Öffnet die Bildschirmschoner-Einstellungen von Android. Google TV bietet dort nur seine eigenen an: Proscenium wird einmalig über einen Computer ausgewählt (siehe README).</string>
     <string name="dream_none">Keiner</string>
     <string name="set_weather_fx">Wetter auf dem Hintergrund</string>
-    <string name="help_weather_fx">Regen, Blitze, Schnee und Nebel vor dem Film: das echte Wetter Ihrer Stadt oder eine Mischung nach Wahl (Benutzerdefiniert).</string>
+    <string name="help_weather_fx">Sonne, Regen, Blitze, Schnee und Nebel vor dem Film: das echte Wetter Ihrer Stadt oder eine Mischung nach Wahl (Benutzerdefiniert).</string>
     <string name="fx_real">Echtes Wetter</string>
     <string name="fx_rain">Regen</string>
     <string name="fx_storm">Gewitter</string>
@@ -613,4 +613,27 @@
     <string name="help_title_text_size">Größe der Angaben und der Inhaltsangabe unter dem Titel.</string>
     <string name="runtime_hm">%1$d Std. %2$02d Min.</string>
     <string name="runtime_m">%1$d Min.</string>
+    <string name="fx_sun">Sonne</string>
+    <string name="help_wx_page_sun">Sonnenstrahlen durch das Bild: Stärke, Länge, Wärme, Lichthof, schwebender Staub.</string>
+    <string name="wxp_sun_full">Volle Sonne</string>
+    <string name="wxp_sun_morning">Goldener Morgen</string>
+    <string name="wxp_sun_sunset">Sonnenuntergang</string>
+    <string name="wxp_sun_forest">Unterholz</string>
+    <string name="wxp_sun_soft">Dezent</string>
+    <string name="wx_sun_rays">Strahlenstärke</string>
+    <string name="help_wx_sun_rays">Wie hell die Lichtstrahlen sind.</string>
+    <string name="wx_sun_length">Strahlenlänge</string>
+    <string name="help_wx_sun_length">Wie weit die Strahlen von der Sonne reichen.</string>
+    <string name="wx_sun_threshold">Lichtschwelle</string>
+    <string name="help_wx_sun_threshold">Höher: Nur die hellsten Bildteile lassen Licht durch, für schärfere Strahlen.</string>
+    <string name="wx_sun_position">Sonnenstand</string>
+    <string name="help_wx_sun_position" formatted="false">Wo die Sonne über dem Bildschirm steht, von links (0 %) bis rechts (100 %).</string>
+    <string name="wx_sun_warmth">Wärme</string>
+    <string name="help_wx_sun_warmth">Vom weißen Mittagslicht bis zum Orange des Sonnenuntergangs.</string>
+    <string name="wx_sun_glow">Lichthof der Sonne</string>
+    <string name="help_wx_sun_glow">Sanftes Leuchten um die Sonne, oben im Bild.</string>
+    <string name="wx_sun_shimmer">Bewegung</string>
+    <string name="help_wx_sun_shimmer">Wie schnell die Strahlen flimmern und der Staub treibt (0: still).</string>
+    <string name="wx_sun_dust">Staub im Licht</string>
+    <string name="help_wx_sun_dust">Staubkörnchen, die in den Strahlen schweben und glitzern.</string>
 </resources>

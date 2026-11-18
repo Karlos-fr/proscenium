@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Apre le impostazioni del salvaschermo di Android. Google TV vi propone solo i propri: Proscenium si sceglie una volta da un computer (vedi il README).</string>
     <string name="dream_none">Nessuno</string>
     <string name="set_weather_fx">Meteo sullo sfondo</string>
-    <string name="help_weather_fx">Pioggia, fulmini, neve e nebbia davanti al film: il meteo reale della tua città, o un mix a scelta (Personalizzato).</string>
+    <string name="help_weather_fx">Sole, pioggia, fulmini, neve e nebbia davanti al film: il meteo reale della tua città, o un mix a scelta (Personalizzato).</string>
     <string name="fx_real">Meteo reale</string>
     <string name="fx_rain">Pioggia</string>
     <string name="fx_storm">Temporale</string>
@@ -613,4 +613,27 @@
     <string name="help_title_text_size">Dimensione dei dettagli e della trama sotto il titolo.</string>
     <string name="runtime_hm">%1$d h %2$02d min</string>
     <string name="runtime_m">%1$d min</string>
+    <string name="fx_sun">Sole</string>
+    <string name="help_wx_page_sun">Raggi di sole attraverso l\'immagine: forza, lunghezza, calore, alone, pulviscolo.</string>
+    <string name="wxp_sun_full">Pieno sole</string>
+    <string name="wxp_sun_morning">Mattino dorato</string>
+    <string name="wxp_sun_sunset">Tramonto</string>
+    <string name="wxp_sun_forest">Sottobosco</string>
+    <string name="wxp_sun_soft">Discreto</string>
+    <string name="wx_sun_rays">Intensità dei raggi</string>
+    <string name="help_wx_sun_rays">Luminosità dei raggi di luce.</string>
+    <string name="wx_sun_length">Lunghezza dei raggi</string>
+    <string name="help_wx_sun_length">Fin dove si estendono i raggi dal sole.</string>
+    <string name="wx_sun_threshold">Soglia di luce</string>
+    <string name="help_wx_sun_threshold">Più alto: solo le zone più chiare dell\'immagine lasciano passare la luce, per raggi più netti.</string>
+    <string name="wx_sun_position">Posizione del sole</string>
+    <string name="help_wx_sun_position" formatted="false">Dove si trova il sole sopra lo schermo, da sinistra (0 %) a destra (100 %).</string>
+    <string name="wx_sun_warmth">Calore</string>
+    <string name="help_wx_sun_warmth">Dalla luce bianca di mezzogiorno all\'arancio del tramonto.</string>
+    <string name="wx_sun_glow">Alone del sole</string>
+    <string name="help_wx_sun_glow">Bagliore morbido intorno al sole, in alto nell\'immagine.</string>
+    <string name="wx_sun_shimmer">Movimento</string>
+    <string name="help_wx_sun_shimmer">Velocità con cui i raggi ondeggiano e il pulviscolo fluttua (0: fermo).</string>
+    <string name="wx_sun_dust">Pulviscolo</string>
+    <string name="help_wx_sun_dust">Granelli di polvere che fluttuano e brillano nei raggi.</string>
 </resources>

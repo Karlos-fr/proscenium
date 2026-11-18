@@ -292,6 +292,7 @@ final class Settings {
     final Flag fxLightning = new Flag("fx_lightning", R.string.fx_lightning, R.string.help_fx_layer, false);
     final Flag fxSnow = new Flag("fx_snow", R.string.fx_snow, R.string.help_fx_layer, false);
     final Flag fxFog = new Flag("fx_fog", R.string.fx_fog, R.string.help_fx_layer, false);
+    final Flag fxSun = new Flag("fx_sun", R.string.fx_sun, R.string.help_fx_layer, false);
     /** Vent de la météo personnalisée : celui de la ville, aucun, ou un vent d'ouest imposé. */
     static final int WIND_REAL = 0, WIND_NONE = 1, WIND_LIGHT = 2, WIND_STRONG = 3, WIND_STORM = 4;
     final Choice fxWind = new Choice("fx_wind", R.string.set_fx_wind, R.string.help_fx_wind, WIND_REAL,
@@ -345,7 +346,7 @@ final class Settings {
                 dockApps, inputShortcuts, bandMode, slimBand, visibleApps, tileSize, tileSpacing, centerZoom, tilt, shine, neighborDim, glowMode,
                 glowPower, glowAnim, glowAnimAmount, glowAnimSpeed, scrollSpeed,
                 scrollParallax, loop, glassEngine, rimWidth,
-                weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, weatherFx, fxRain, fxLightning, fxSnow, fxFog, fxWind, weatherFxAmount, weatherLens, headerScale,
+                weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, weatherFx, fxSun, fxRain, fxLightning, fxSnow, fxFog, fxWind, weatherFxAmount, weatherLens, headerScale,
                 language, economy, updateCheck, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
         for (Item i : items) all.add(i);
     }

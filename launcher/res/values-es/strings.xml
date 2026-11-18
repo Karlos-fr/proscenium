@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Abre los ajustes del salvapantallas de Android. Google TV solo ofrece los suyos: Proscenium se elige una vez desde un ordenador (ver el README).</string>
     <string name="dream_none">Ninguno</string>
     <string name="set_weather_fx">Tiempo en el fondo</string>
-    <string name="help_weather_fx">Lluvia, rayos, nieve y niebla delante de la película: el tiempo real de tu ciudad, o una mezcla a elegir (Personalizado).</string>
+    <string name="help_weather_fx">Sol, lluvia, rayos, nieve y niebla delante de la película: el tiempo real de tu ciudad, o una mezcla a elegir (Personalizado).</string>
     <string name="fx_real">Tiempo real</string>
     <string name="fx_rain">Lluvia</string>
     <string name="fx_storm">Tormenta</string>
@@ -613,4 +613,27 @@
     <string name="help_title_text_size">Tamaño de los datos y de la sinopsis bajo el título.</string>
     <string name="runtime_hm">%1$d h %2$02d min</string>
     <string name="runtime_m">%1$d min</string>
+    <string name="fx_sun">Sol</string>
+    <string name="help_wx_page_sun">Rayos de sol a través de la imagen: fuerza, longitud, calidez, halo, polvo en suspensión.</string>
+    <string name="wxp_sun_full">Pleno sol</string>
+    <string name="wxp_sun_morning">Mañana dorada</string>
+    <string name="wxp_sun_sunset">Atardecer</string>
+    <string name="wxp_sun_forest">Sotobosque</string>
+    <string name="wxp_sun_soft">Discreto</string>
+    <string name="wx_sun_rays">Intensidad de los rayos</string>
+    <string name="help_wx_sun_rays">Brillo de los rayos de luz.</string>
+    <string name="wx_sun_length">Longitud de los rayos</string>
+    <string name="help_wx_sun_length">Hasta dónde llegan los rayos desde el sol.</string>
+    <string name="wx_sun_threshold">Umbral de luz</string>
+    <string name="help_wx_sun_threshold">Más alto: solo las zonas más claras de la imagen dejan pasar la luz, para rayos más nítidos.</string>
+    <string name="wx_sun_position">Posición del sol</string>
+    <string name="help_wx_sun_position" formatted="false">Dónde está el sol sobre la pantalla, de izquierda (0 %) a derecha (100 %).</string>
+    <string name="wx_sun_warmth">Calidez</string>
+    <string name="help_wx_sun_warmth">De la luz blanca del mediodía al naranja del atardecer.</string>
+    <string name="wx_sun_glow">Halo del sol</string>
+    <string name="help_wx_sun_glow">Resplandor suave alrededor del sol, en la parte superior de la imagen.</string>
+    <string name="wx_sun_shimmer">Movimiento</string>
+    <string name="help_wx_sun_shimmer">Velocidad a la que ondulan los rayos y deriva el polvo (0: quieto).</string>
+    <string name="wx_sun_dust">Polvo en la luz</string>
+    <string name="help_wx_sun_dust">Motas de polvo que flotan y brillan en los rayos.</string>
 </resources>

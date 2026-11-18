@@ -406,7 +406,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         } else if (item == s.glowAnimAmount || item == s.glowAnimSpeed) {
             glow.setLiveness(s.glowAnimAmount.f(), s.glowAnimSpeed.f());
         } else if (item == s.weatherFx || item == s.weatherFxAmount || item == s.weatherLens || item == s.fxRain
-                || item == s.fxLightning || item == s.fxSnow || item == s.fxFog || item == s.fxWind) {
+                || item == s.fxLightning || item == s.fxSnow || item == s.fxFog || item == s.fxWind || item == s.fxSun) {
             applyWeatherFx();
         } else if (item == s.weatherAnim) {
             weatherIcon.setAnimated(s.weatherAnimOn());

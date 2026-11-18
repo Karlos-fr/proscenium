@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Opens Android\'s screensaver settings. Google TV only offers its own screensavers there: choosing Proscenium is done once from a computer (see the README).</string>
     <string name="dream_none">None</string>
     <string name="set_weather_fx">Weather on the backdrop</string>
-    <string name="help_weather_fx">Rain, lightning, snow and fog in front of the film: the real weather of your town, or a combination of your choice (Custom).</string>
+    <string name="help_weather_fx">Sun, rain, lightning, snow and fog in front of the film: the real weather of your town, or a combination of your choice (Custom).</string>
     <string name="fx_real">Real weather</string>
     <string name="fx_rain">Rain</string>
     <string name="fx_storm">Storm</string>
@@ -613,4 +613,27 @@
     <string name="help_title_text_size">Size of the details and the synopsis under the title.</string>
     <string name="runtime_hm">%1$dh %2$02dm</string>
     <string name="runtime_m">%1$d min</string>
+    <string name="fx_sun">Sun</string>
+    <string name="help_wx_page_sun">Sun rays through the picture: strength, length, warmth, halo, floating dust.</string>
+    <string name="wxp_sun_full">Full sun</string>
+    <string name="wxp_sun_morning">Golden morning</string>
+    <string name="wxp_sun_sunset">Sunset</string>
+    <string name="wxp_sun_forest">Woodland</string>
+    <string name="wxp_sun_soft">Subtle</string>
+    <string name="wx_sun_rays">Ray strength</string>
+    <string name="help_wx_sun_rays">How bright the rays of light are.</string>
+    <string name="wx_sun_length">Ray length</string>
+    <string name="help_wx_sun_length">How far the rays reach from the sun.</string>
+    <string name="wx_sun_threshold">Light threshold</string>
+    <string name="help_wx_sun_threshold">Higher: only the brightest parts of the picture let light through, for sharper rays.</string>
+    <string name="wx_sun_position">Sun position</string>
+    <string name="help_wx_sun_position" formatted="false">Where the sun stands above the screen, from left (0 %) to right (100 %).</string>
+    <string name="wx_sun_warmth">Warmth</string>
+    <string name="help_wx_sun_warmth">From white midday light to the orange of sunset.</string>
+    <string name="wx_sun_glow">Sun halo</string>
+    <string name="help_wx_sun_glow">Soft glow around the sun, at the top of the picture.</string>
+    <string name="wx_sun_shimmer">Movement</string>
+    <string name="help_wx_sun_shimmer">How fast the rays waver and the dust drifts (0: still).</string>
+    <string name="wx_sun_dust">Dust in the light</string>
+    <string name="help_wx_sun_dust">Specks of dust that float and sparkle in the rays.</string>
 </resources>

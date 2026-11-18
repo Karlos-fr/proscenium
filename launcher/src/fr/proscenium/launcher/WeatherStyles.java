@@ -167,7 +167,28 @@ final class WeatherStyles {
                     {170, 70, 80, 170},    // Purée de pois
             });
 
-    final Style[] all = {rain, storm, snow, fog};
+    // ---------------------------------------------------------------- Soleil : rayons de lumière
+    final Param sunRays = new Param("wx_sun_rays", R.string.wx_sun_rays, R.string.help_wx_sun_rays, 0, 250, 100);
+    final Param sunLength = new Param("wx_sun_length", R.string.wx_sun_length, R.string.help_wx_sun_length, 20, 200, 100);
+    final Param sunThreshold = new Param("wx_sun_threshold", R.string.wx_sun_threshold, R.string.help_wx_sun_threshold, 20, 200, 100);
+    final Param sunPosition = new Param("wx_sun_position", R.string.wx_sun_position, R.string.help_wx_sun_position, 0, 100, 70);
+    final Param sunWarmth = new Param("wx_sun_warmth", R.string.wx_sun_warmth, R.string.help_wx_sun_warmth, 0, 200, 100);
+    final Param sunGlow = new Param("wx_sun_glow", R.string.wx_sun_glow, R.string.help_wx_sun_glow, 0, 250, 100);
+    final Param sunShimmer = new Param("wx_sun_shimmer", R.string.wx_sun_shimmer, R.string.help_wx_sun_shimmer, 0, 300, 100);
+    final Param sunDust = new Param("wx_sun_dust", R.string.wx_sun_dust, R.string.help_wx_sun_dust, 0, 300, 60);
+    final Style sun = new Style(WeatherFx.SUN, R.string.fx_sun, R.string.help_wx_page_sun,
+            new Param[]{sunRays, sunLength, sunThreshold, sunPosition, sunWarmth, sunGlow, sunShimmer, sunDust}, 0,
+            new int[]{R.string.wxp_sun_full, R.string.wxp_sun_morning, R.string.wxp_sun_sunset, R.string.wxp_sun_forest,
+                    R.string.wxp_sun_soft},
+            new int[][]{
+                    {100, 100, 100, 70, 100, 100, 100, 60},   // Plein soleil
+                    {120, 140, 80, 20, 150, 120, 80, 120},    // Matin doré
+                    {140, 160, 70, 90, 200, 150, 60, 40},     // Coucher de soleil
+                    {170, 180, 130, 50, 90, 60, 120, 200},    // Sous-bois
+                    {50, 70, 120, 70, 60, 50, 60, 0},         // Discret
+            });
+
+    final Style[] all = {sun, rain, storm, snow, fog};
 
     /** Couleur de la lueur des éclairs (RGB). */
     int glowColor() {

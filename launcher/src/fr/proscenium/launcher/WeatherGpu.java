@@ -184,6 +184,107 @@ final class WeatherGpu {
             "  return half4(half3(color * alpha), half(alpha));",
             "}");
 
+    /**
+     * Rayons de soleil (« god rays ») : pour chaque pixel, on remonte vers le soleil, placé juste
+     * au-dessus de l'écran, en lisant l'image du film ; ses zones claires laissent passer la lumière,
+     * ses zones sombres (silhouettes, branches) la coupent. La lumière ainsi ramassée s'atténue avec la
+     * distance, varie selon l'angle (des rayons plus forts que d'autres, qui ondulent lentement), se
+     * teinte de chaud, s'ajoute à l'image avec un halo autour du soleil et des poussières qui brillent
+     * dans la lumière. Calculé au quart de la résolution : la lumière est douce par nature.
+     */
+    private static final String SUN = String.join("\n",
+            "uniform shader image;",
+            "uniform float2 size;",
+            "uniform float2 sun;",       // position du soleil (px)
+            "uniform float time;",
+            "uniform float unit;",
+            "uniform float4 ray;",       // force, atténuation par pas, seuil, chaleur (0 à 1)
+            "uniform float4 extra;",     // halo, mouvement, poussières, -
+            "float h11(float p) { p = fract(p * 0.1031); p *= p + 33.33; p *= p + p; return fract(p); }",
+            "float h21(float2 p) { float3 q = fract(float3(p.xyx) * 0.1031); q += dot(q, q.yzx + 33.33); return fract((q.x + q.y) * q.z); }",
+            "float vnoise(float2 p) {",
+            "  float2 i = floor(p); float2 f = fract(p);",
+            "  f = f * f * (3.0 - 2.0 * f);",
+            "  float a = h21(i); float b = h21(i + float2(1.0, 0.0));",
+            "  float c = h21(i + float2(0.0, 1.0)); float d = h21(i + float2(1.0, 1.0));",
+            "  return mix(mix(a, b, f.x), mix(c, d, f.x), f.y);",
+            "}",
+            "half4 main(float2 xy) {",
+            "  float2 dir = sun - xy;",
+            "  float dist = length(dir);",
+            "  float2 stepv = dir * (0.55 / 24.0);",
+            "  float2 p = xy;",
+            "  float3 acc = float3(0.0);",
+            "  float w = 1.0;",
+            "  for (int i = 0; i < 24; i++) {",
+            "    p += stepv;",
+            "    float3 c = float3(image.eval(p).rgb);",
+            "    float l = max(dot(c, float3(0.299, 0.587, 0.114)) - ray.z, 0.0) / (1.0 - ray.z);",
+            "    acc += c * l * w;",
+            "    w *= ray.y;",
+            "  }",
+            "  acc /= 24.0;",
+            // Des rayons plus forts que d'autres, qui ondulent lentement
+            "  float ang = atan(dir.y, dir.x);",
+            "  float t = time * extra.y;",
+            "  float shafts = 0.45 + 0.55 * vnoise(float2(ang * 22.0 + t * 0.06, t * 0.09));",
+            "  float3 warm = mix(float3(1.0, 0.97, 0.92), float3(1.0, 0.70, 0.36), ray.w);",
+            "  float3 rays = acc * shafts * warm * ray.x * 2.4;",
+            // Halo autour du soleil
+            "  float3 col = rays + warm * exp(-dist / (size.y * 0.33)) * extra.x * 0.45;",
+            // Poussières : de petits points flous qui flottent et brillent là où passe la lumière
+            "  if (extra.z > 0.0) {",
+            "    float cell = 52.0 * unit;",
+            "    float2 q = xy + float2(t * 7.0, -t * 4.0) * unit;",
+            "    float2 id = floor(q / cell);",
+            "    float r = h21(id + 3.7);",
+            "    if (r < 0.3 * extra.z) {",
+            "      float2 c = (id + 0.25 + 0.5 * float2(h11(r * 13.1), h11(r * 7.7))) * cell;",
+            "      c += float2(sin(t * 0.5 + r * 30.0), cos(t * 0.4 + r * 20.0)) * cell * 0.12;",
+            "      float d = length(q - c) / (4.0 * unit * (0.6 + r));",
+            "      float mote = (1.0 - smoothstep(0.2, 1.0, d)) * (0.6 + 0.4 * sin(t * (1.0 + r) + r * 40.0));",
+            "      col += warm * mote * min(1.0, dot(rays, float3(0.33)) * 4.0) * 0.8;",
+            "    }",
+            "  }",
+            // Alpha nul : la lumière s'ajoute à l'image
+            "  return half4(half3(col), 0.0);",
+            "}");
+
+    private final RuntimeShader sunShader = new RuntimeShader(SUN);
+    private final Paint sunPaint = new Paint();
+    private final RenderNode sunLayer = new RenderNode("soleil");
+
+    {
+        sunLayer.setUseCompositingLayer(true, null);
+    }
+
+    /**
+     * Rayons de soleil : {@code sunX} position du soleil (0 à 1 de la largeur), juste au-dessus de
+     * l'écran ; force, atténuation par pas, seuil, chaleur, halo, mouvement, poussières.
+     */
+    void drawSun(Canvas c, int w, int h, float time, float sunX, float strength, float decay, float threshold,
+                 float warmth, float glow, float motion, float dust) {
+        sunShader.setInputShader("image", currentImage);
+        sunShader.setFloatUniform("size", w, h);
+        sunShader.setFloatUniform("sun", sunX * w, -0.12f * h);
+        sunShader.setFloatUniform("time", time);
+        sunShader.setFloatUniform("unit", unit);
+        sunShader.setFloatUniform("ray", strength, decay, threshold, warmth);
+        sunShader.setFloatUniform("extra", glow, motion, dust, 0f);
+        float scale = FOG_SCALE;
+        int lw = (int) Math.ceil(w / scale), lh = (int) Math.ceil(h / scale);
+        sunLayer.setPosition(0, 0, lw, lh);
+        RecordingCanvas rc = sunLayer.beginRecording(lw, lh);
+        rc.scale(1f / scale, 1f / scale);
+        sunPaint.setShader(sunShader);
+        rc.drawRect(0, 0, w, h, sunPaint);
+        sunLayer.endRecording();
+        c.save();
+        c.scale(scale, scale);
+        c.drawRenderNode(sunLayer);
+        c.restore();
+    }
+
     private final RuntimeShader air = new RuntimeShader(AIR);
     private final RuntimeShader drop = new RuntimeShader(DROP);
     private final Paint airPaint = new Paint();
@@ -202,7 +303,10 @@ final class WeatherGpu {
         drop.setFloatUniform("haze", r, g, b, a);
     }
 
+    private BitmapShader currentImage;
+
     void setImage(BitmapShader image) {
+        currentImage = image;
         air.setInputShader("image", image);
         drop.setInputShader("image", image);
     }

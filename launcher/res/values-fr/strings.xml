@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Ouvre les réglages de l\'économiseur d\'écran d\'Android. Google TV n\'y propose que les siens : choisir Proscenium se fait une fois depuis un ordinateur (voir le README).</string>
     <string name="dream_none">Aucun</string>
     <string name="set_weather_fx">Météo sur le fond</string>
-    <string name="help_weather_fx">Pluie, éclairs, neige et brouillard devant le film : la météo réelle de votre ville, ou un mélange au choix (Personnalisée).</string>
+    <string name="help_weather_fx">Soleil, pluie, éclairs, neige et brouillard devant le film : la météo réelle de votre ville, ou un mélange au choix (Personnalisée).</string>
     <string name="fx_real">Météo réelle</string>
     <string name="fx_rain">Pluie</string>
     <string name="fx_storm">Orage</string>
@@ -613,4 +613,27 @@
     <string name="help_title_text_size">Taille des infos et du résumé sous le titre.</string>
     <string name="runtime_hm">%1$d h %2$02d</string>
     <string name="runtime_m">%1$d min</string>
+    <string name="fx_sun">Soleil</string>
+    <string name="help_wx_page_sun">Rayons de soleil à travers l\'image : force, longueur, chaleur, halo, poussières en suspension.</string>
+    <string name="wxp_sun_full">Plein soleil</string>
+    <string name="wxp_sun_morning">Matin doré</string>
+    <string name="wxp_sun_sunset">Coucher de soleil</string>
+    <string name="wxp_sun_forest">Sous-bois</string>
+    <string name="wxp_sun_soft">Discret</string>
+    <string name="wx_sun_rays">Intensité des rayons</string>
+    <string name="help_wx_sun_rays">Éclat des rayons de lumière.</string>
+    <string name="wx_sun_length">Longueur des rayons</string>
+    <string name="help_wx_sun_length">Jusqu\'où les rayons s\'étendent depuis le soleil.</string>
+    <string name="wx_sun_threshold">Seuil de lumière</string>
+    <string name="help_wx_sun_threshold">Plus haut : seules les zones les plus claires de l\'image laissent passer la lumière, pour des rayons plus nets.</string>
+    <string name="wx_sun_position">Position du soleil</string>
+    <string name="help_wx_sun_position" formatted="false">Où se trouve le soleil au-dessus de l\'écran, de gauche (0 %) à droite (100 %).</string>
+    <string name="wx_sun_warmth">Chaleur</string>
+    <string name="help_wx_sun_warmth">De la lumière blanche de midi à l\'orangé du couchant.</string>
+    <string name="wx_sun_glow">Halo du soleil</string>
+    <string name="help_wx_sun_glow">Lueur douce autour du soleil, en haut de l\'image.</string>
+    <string name="wx_sun_shimmer">Mouvement</string>
+    <string name="help_wx_sun_shimmer">Vitesse à laquelle les rayons ondulent et les poussières dérivent (0 : immobile).</string>
+    <string name="wx_sun_dust">Poussières</string>
+    <string name="help_wx_sun_dust">Grains de poussière qui flottent et brillent dans les rayons.</string>
 </resources>

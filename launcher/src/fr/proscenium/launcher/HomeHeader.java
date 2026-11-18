@@ -229,13 +229,16 @@ abstract class HomeHeader extends HomeBackdrop {
             amount = 1f;
         } else if (!s.economy.value) {
             if (s.weatherFx.index == Settings.FX_REAL && lastWeather != null) {
-                layers = WeatherFx.layersOf(lastWeather.code);
+                layers = WeatherFx.layersOf(lastWeather.code, lastWeather.day);
                 amount = WeatherFx.amountOf(lastWeather.code);
+                // Peu nuageux : un soleil plus discret
+                if (lastWeather.code == 2) amount *= 0.6f;
             } else if (custom) {
                 if (s.fxRain.value) layers |= WeatherFx.RAIN;
                 if (s.fxLightning.value) layers |= WeatherFx.STORM;
                 if (s.fxSnow.value) layers |= WeatherFx.SNOW;
                 if (s.fxFog.value) layers |= WeatherFx.FOG;
+                if (s.fxSun.value) layers |= WeatherFx.SUN;
                 if (s.fxLightning.value) amount = 1f;
             }
         }
