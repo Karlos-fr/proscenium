@@ -236,12 +236,14 @@ abstract class HomeHeader extends HomeBackdrop {
             }
         }
         // Vent : en mph avec les °F, ramené à des km/h
-        float tilt = -0.1f;
+        // Vent affiché dans le bandeau : il pousse les gouttes qui glissent, rafales comprises
+        float tilt = -0.1f, gust = 1f;
         if (lastWeather != null) {
             int wind = s.tempUnit.index == Settings.UNIT_F ? Math.round(lastWeather.wind * 1.609f) : lastWeather.wind;
             tilt = WeatherFx.tiltOf(wind, lastWeather.windFrom);
+            gust = Math.max(1f, lastWeather.gusts / (float) Math.max(1, lastWeather.wind));
         }
-        weatherFx.set(kind, amount * s.weatherFxAmount.f(), tilt, s.weatherLens.value);
+        weatherFx.set(kind, amount * s.weatherFxAmount.f(), tilt, gust, s.weatherLens.value);
     }
 
     void refreshWeather() {

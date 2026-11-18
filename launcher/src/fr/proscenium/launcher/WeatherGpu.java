@@ -110,14 +110,18 @@ final class WeatherGpu {
             "uniform float2 size;",
             "uniform float4 look;",   // x : neige ; y : opacité ; z : forme ; w : glissement (0 à 1), ou 2 : traînée
             "uniform float blur;",    // mise au point à l'arrivée : 1 flou, 0 net
+            "uniform float2 axis;",   // sens de la glisse (sinus, cosinus de l'angle depuis la verticale)
+            // Repère de la goutte (axe y dans le sens de la glisse) → écran
+            "float2 toScreen(float2 u) { return float2(u.x * axis.y + u.y * axis.x, -u.x * axis.x + u.y * axis.y); }",
 
             "half4 main(float2 q) {",
-            "  float2 local = (q - center) / size;",
+            "  float2 dv = q - center;",
+            "  float2 local = float2(dv.x * axis.y - dv.y * axis.x, dv.x * axis.x + dv.y * axis.y) / size;",
             "  if (look.w > 1.5) {",
             "    float rf = length(local);",
             "    if (rf >= 1.0) return half4(0.0);",
             "    float cf = 1.0 - smoothstep(0.45, 1.0, rf);",
-            "    float3 film = float3(image.eval(q - local * size * float2(0.35, 0.12)).rgb) * 1.01 + 0.008;",
+            "    float3 film = float3(image.eval(q - toScreen(local * size * float2(0.35, 0.12))).rgb) * 1.01 + 0.008;",
             // Bords de la pellicule : un liseré un peu sombre puis un filet de lumière
             "    float edge = smoothstep(0.35, 0.75, abs(local.x)) * (1.0 - smoothstep(0.75, 1.0, abs(local.x)));",
             "    film *= 1.0 - 0.22 * edge;",
@@ -137,7 +141,7 @@ final class WeatherGpu {
             "  if (cover <= 0.0) return half4(0.0);",
             "  float h = sqrt(max(0.0, 1.0 - r * r));",
             // La scène vue à travers : renversée, réduite, d'autant plus vers le bord
-            "  float2 p = center - l * size * (3.2 + 2.5 * (1.0 - h));",
+            "  float2 p = center - toScreen(l * size * (3.2 + 2.5 * (1.0 - h)));",
             "  float3 color = float3(image.eval(p).rgb);",
             "  if (blur > 0.01) {",
             "    float br = blur * min(size.x, size.y) * 1.2;",
@@ -209,12 +213,16 @@ final class WeatherGpu {
      * (posée) à 1 (glisse vite).
      */
     void drawDrop(Canvas c, float cx, float cy, float sx, float sy, float snow, float opacity, float seed,
-                  float run, float blur) {
+                  float run, float blur, float angle) {
         drop.setFloatUniform("center", cx, cy);
         drop.setFloatUniform("size", sx, sy);
         drop.setFloatUniform("look", snow, opacity, seed, run);
         drop.setFloatUniform("blur", blur);
+        drop.setFloatUniform("axis", (float) Math.sin(angle), (float) Math.cos(angle));
         dropPaint.setShader(drop);
-        c.drawRect(cx - sx * 1.15f, cy - sy * 1.15f, cx + sx * 1.15f, cy + sy * 1.15f, dropPaint);
+        // Penchée, la goutte tient dans un carré
+        float e = (angle == 0f ? 1f : 0f), hx = (e * sx + (1f - e) * Math.max(sx, sy)) * 1.15f,
+                hy = (e * sy + (1f - e) * Math.max(sx, sy)) * 1.15f;
+        c.drawRect(cx - hx, cy - hy, cx + hx, cy + hy, dropPaint);
     }
 }

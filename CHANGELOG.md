@@ -28,7 +28,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   a shortcut to Android's screensaver settings (ambient mode on Google TV, where a third-party
   screensaver is chosen once with adb, see the README).
 - Living weather (Settings → Home → Weather): when it rains at your town, drops land on the screen as
-  on a window, slide down in fits and starts and leave a wet trail; storms add lightning that lights
+  on a window, slide down in fits and starts, pushed sideways by the wind and its gusts, and leave
+  a wet trail; storms add lightning that lights
   the picture, snow falls and its flakes melt on the screen, fog drifts slowly. It can follow the real
   weather, always show the same weather, or be turned off (Android 13 and later for the drops).
 - TMDB logo next to the TMDB notice (Films (TMDB) tab and System → About), as TMDB's terms ask.

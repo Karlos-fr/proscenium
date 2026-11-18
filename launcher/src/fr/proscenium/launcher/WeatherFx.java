@@ -60,6 +60,13 @@ final class WeatherFx extends View {
 
     private int kind = NONE;
     private float amount = 1f, tilt;
+    /**
+     * Poussée du vent sur les gouttes qui glissent : de -1 (vers la gauche) à 1 (vers la droite), selon
+     * la flèche du vent du bandeau (vent d'ouest : vers la droite) ; rapport rafales / vent moyen.
+     */
+    private float windX, gust = 1f;
+    /** Horloge des rafales, en secondes. */
+    private float windClock;
     private boolean lens = true, running;
 
     WeatherFx(Context ctx, ImageView wall, View inner, View outer) {
@@ -121,7 +128,9 @@ final class WeatherFx extends View {
         return (float) Math.sin(Math.toRadians(windFrom)) * 0.32f * strength;
     }
 
-    void set(int kind, float amount, float tilt, boolean lens) {
+    void set(int kind, float amount, float tilt, float gust, boolean lens) {
+        this.windX = Math.max(-1f, Math.min(1f, -tilt / 0.32f));
+        this.gust = Math.max(1f, Math.min(3f, gust));
         if (kind != this.kind) {
             dropCount = 0;
             pending = 0;
@@ -291,6 +300,8 @@ final class WeatherFx extends View {
      */
     private static final class Drop {
         float x, y, radius, vx, vy, snow, seed, trailFrom, filmFrom;
+        /** Sens de la glisse, en radians depuis la verticale (positif : vers la droite). */
+        float angle;
         /** Gouttelette de traînée : elle ne glisse pas et s'évapore doucement. */
         boolean trail;
         /** Morceau de la pellicule d'eau laissée par une goutte qui glisse (avec trail). */
@@ -318,6 +329,7 @@ final class WeatherFx extends View {
         d.trailFrom = y;
         d.filmFrom = y;
         d.film = false;
+        d.angle = 0;
         d.stuck = 0;
         d.age = 0;
         d.life = trail ? 180 + random.nextInt(240) : snow ? 90 + random.nextInt(200) : 0;
@@ -349,6 +361,7 @@ final class WeatherFx extends View {
      * elle une traînée humide ; vidée de son eau, elle s'arrête. Les flocons se posent et fondent en gouttes.
      */
     private void step(float aspect) {
+        windClock += 1f / 60f;
         boolean snow = kind == SNOW;
         float rate = (snow ? 0.035f : 0.09f) * amount;
         if (kind == STORM) rate *= 1.6f;
@@ -412,8 +425,14 @@ final class WeatherFx extends View {
             if (random.nextFloat() < 0.035f) d.vx = (random.nextFloat() - 0.5f) * d.vy * 0.9f;
         }
         d.vx *= 0.92f;
+        // Le vent la pousse de côté, plus fort pendant les rafales (deux oscillations lentes mêlées)
+        float burst = Math.max(0f, (float) (Math.sin(windClock * 0.71f) * Math.sin(windClock * 1.93f + 1.3f)));
+        float push = windX * 0.9f * (1f + (gust - 1f) * burst);
+        float dx = d.vx + push * d.vy;
         d.y += d.vy;
-        d.x += d.vx / aspect;
+        d.x += dx / aspect;
+        // Sens de la glisse, lissé : la goutte et sa traînée s'orientent dans ce sens
+        if (d.vy > 0.0004f) d.angle += ((float) Math.atan2(dx, d.vy) - d.angle) * 0.15f;
         if (d.vy < 0.0004f) return;
         // Elle avale les gouttes et gouttelettes qu'elle touche
         for (int j = 0; j < dropCount; j++) {
@@ -428,9 +447,12 @@ final class WeatherFx extends View {
         // Elle laisse derrière elle une pellicule d'eau qui sèche peu à peu
         if (d.y - d.filmFrom > d.radius * 0.7f) {
             d.filmFrom = d.y;
-            Drop f = addDrop(d.x, d.y - d.radius * 0.9f, d.radius * 0.55f, false, true);
+            float back = d.radius * 0.9f;
+            Drop f = addDrop(d.x - (float) Math.sin(d.angle) * back / aspect, d.y - (float) Math.cos(d.angle) * back,
+                    d.radius * 0.55f, false, true);
             if (f != null) {
                 f.film = true;
+                f.angle = d.angle;
                 f.life = 70 + random.nextInt(70);
             }
         }
@@ -457,7 +479,7 @@ final class WeatherFx extends View {
             if (d.film) {
                 // Pellicule : allongée, plus étroite en séchant
                 gpu.drawDrop(c, d.x * w, d.y * h, d.radius * h * (0.55f + 0.45f * opacity),
-                        d.radius * h * 1.7f, 0f, opacity, d.seed, 2f, 0f);
+                        d.radius * h * 1.7f, 0f, opacity, d.seed, 2f, 0f, d.angle);
                 continue;
             }
             float run = Math.min(d.vy * 160f, 1f);
@@ -477,7 +499,7 @@ final class WeatherFx extends View {
                 sy *= grow * (1f - 0.22f * wob);
                 opacity *= 0.55f + 0.45f * focus;
             }
-            gpu.drawDrop(c, d.x * w, d.y * h, sx, sy, d.snow, opacity, d.seed, run, blur);
+            gpu.drawDrop(c, d.x * w, d.y * h, sx, sy, d.snow, opacity, d.seed, run, blur, run > 0.05f ? d.angle : 0f);
         }
     }
 }
