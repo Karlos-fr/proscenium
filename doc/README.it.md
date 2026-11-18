@@ -31,10 +31,12 @@ il telecomando.
 </p>
 
 <p align="center">
-  <img src="../images/screenshots/home.jpg" alt="" width="250" />
-  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
-  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
-  <br /><sub>Home · Modalità cinema · Impostazioni e vetro</sub>
+  <img src="../images/screenshots/home.jpg" alt="" width="380" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="380" />
+  <br />
+  <img src="../images/screenshots/settings.jpg" alt="" width="380" />
+  <img src="../images/screenshots/packs.jpg" alt="" width="380" />
+  <br /><sub>Home · Modalità cinema · Impostazioni e vetro · Pacchetti di sfondi</sub>
 </p>
 
 ## Installazione

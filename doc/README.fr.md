@@ -31,10 +31,12 @@ entièrement à la télécommande.
 </p>
 
 <p align="center">
-  <img src="../images/screenshots/home.jpg" alt="" width="250" />
-  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
-  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
-  <br /><sub>Accueil · Mode cinéma · Réglages et verre réfractant</sub>
+  <img src="../images/screenshots/home.jpg" alt="" width="380" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="380" />
+  <br />
+  <img src="../images/screenshots/settings.jpg" alt="" width="380" />
+  <img src="../images/screenshots/packs.jpg" alt="" width="380" />
+  <br /><sub>Accueil · Mode cinéma · Réglages et verre réfractant · Packs de fonds</sub>
 </p>
 
 ## Installation

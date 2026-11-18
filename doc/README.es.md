@@ -31,10 +31,12 @@ con el mando a distancia.
 </p>
 
 <p align="center">
-  <img src="../images/screenshots/home.jpg" alt="" width="250" />
-  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
-  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
-  <br /><sub>Inicio · Modo cine · Ajustes y cristal</sub>
+  <img src="../images/screenshots/home.jpg" alt="" width="380" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="380" />
+  <br />
+  <img src="../images/screenshots/settings.jpg" alt="" width="380" />
+  <img src="../images/screenshots/packs.jpg" alt="" width="380" />
+  <br /><sub>Inicio · Modo cine · Ajustes y cristal · Packs de fondos</sub>
 </p>
 
 ## Instalación

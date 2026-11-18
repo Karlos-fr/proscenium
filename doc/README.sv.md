@@ -31,10 +31,12 @@ helt med fjärrkontrollen.
 </p>
 
 <p align="center">
-  <img src="../images/screenshots/home.jpg" alt="" width="250" />
-  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
-  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
-  <br /><sub>Startskärm · Biografläge · Inställningar och glas</sub>
+  <img src="../images/screenshots/home.jpg" alt="" width="380" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="380" />
+  <br />
+  <img src="../images/screenshots/settings.jpg" alt="" width="380" />
+  <img src="../images/screenshots/packs.jpg" alt="" width="380" />
+  <br /><sub>Startskärm · Bioläge · Inställningar och glas · Bakgrundspaket</sub>
 </p>
 
 ## Installation
