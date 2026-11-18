@@ -8,6 +8,7 @@ launcher/build/
 # Secrets : clé TMDB et clé de signature de l'appli (à sauvegarder à part, jamais publier)
 tmdb.key
 *.keystore
+signing.properties
 
 # Images de films (TMDB, droits d'auteur), sauvegardes de la box, captures d'écran de test
 fonds/

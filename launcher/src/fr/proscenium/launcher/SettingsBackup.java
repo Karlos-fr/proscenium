@@ -32,7 +32,7 @@ final class SettingsBackup {
     /** Réglages propres à cette box ou passagers, jamais sauvegardés ni écrasés. */
     private static boolean local(String key) {
         return key.equals("tmdb_key") || key.equals("dock_selected") || key.startsWith("wall_")
-                || key.startsWith("reopen_") || key.equals("imported_at") || key.equals("trending_created");
+                || key.startsWith("reopen_") || key.startsWith("update_") || key.equals("imported_at") || key.equals("trending_created");
     }
 
     static void save(Context ctx, SharedPreferences prefs) throws Exception {

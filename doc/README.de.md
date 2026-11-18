@@ -40,6 +40,20 @@ komplett mit der Fernbedienung bedienen.
 Die Einstellungen öffnen Sie, indem Sie das Banner mit Uhrzeit und Wetter auswählen (Pfeil nach oben,
 dann OK) oder über das Menü einer App in der Leiste.
 
+### Updates
+
+Proscenium sucht einmal am Tag auf GitHub nach einer neuen Version und gibt dir Bescheid. Zum
+Installieren öffne **Einstellungen → System → Update** und drücke OK: Die neue Version wird
+heruntergeladen und Android bittet um Bestätigung. Deine Einstellungen bleiben erhalten. Beim ersten
+Mal fragt Android, ob Proscenium Apps installieren darf.
+
+Updates lassen sich auch mit [Obtainium](https://github.com/ImranR98/Obtainium) verfolgen: `https://github.com/Karlos-fr/proscenium` als Quelle hinzufügen.
+
+> **Du hast Version 1.0?** Version 1.1 ist mit einem neuen Schlüssel signiert und lässt sich nicht
+> über 1.0 installieren: Deinstalliere Proscenium und installiere dann 1.1. Einstellungen und
+> Playlists beginnen von vorn (Pakete sind mit einem Klick wieder installiert). Das ist nur einmal
+> nötig: Spätere Versionen werden direkt über 1.1 installiert.
+
 ## Der Startbildschirm
 
 - **Vollflächige Filmhintergründe**, die alle paar Sekunden wechseln, mit einem Übergang Ihrer Wahl
@@ -126,3 +140,4 @@ ihn und speichert ihn.
   Produkt verwendet die TMDB-API, wird aber von TMDB weder unterstützt noch zertifiziert. Die Bilder
   bleiben Eigentum ihrer jeweiligen Rechteinhaber.
 - Fotos des Tages: Bing. Wetter: [Open-Meteo](https://open-meteo.com).
+- Code unter der [MIT-Lizenz](../LICENSE).

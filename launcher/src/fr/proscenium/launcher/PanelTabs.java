@@ -205,9 +205,74 @@ abstract class PanelTabs extends PanelCore {
             host.glassChanged();
             s.resetAll();
         }));
+        updateSection();
         section(R.string.sec_about);
         content.addView(action(R.string.set_version, R.string.help_version, host::versionName, null));
         content.addView(action(R.string.set_credits, R.string.help_credits, () -> ctx.getString(R.string.credits_value), null));
+    }
+
+    // ---------------------------------------------------------------- Mises à jour
+
+    /** État affiché sur la ligne « Mise à jour » ; survit aux reconstructions de l'onglet. */
+    static volatile String updateStatus = "";
+    static volatile boolean updateBusy;
+
+    /**
+     * OK sur la ligne : cherche une nouvelle version ; si elle est connue, la télécharge puis la
+     * confie à l'installeur d'Android (qui demande confirmation).
+     */
+    void updateSection() {
+        android.content.SharedPreferences prefs = ctx.getSharedPreferences("proscenium", Context.MODE_PRIVATE);
+        Runnable refreshAll = () -> { for (Runnable x : new java.util.ArrayList<>(refreshers)) x.run(); };
+        section(R.string.sec_updates);
+        content.addView(action(R.string.act_update, R.string.help_update, () -> {
+            if (!updateStatus.isEmpty()) return updateStatus;
+            Updater.Release known = Updater.known(ctx, prefs);
+            return known != null ? ctx.getString(R.string.update_available, known.version) : "›";
+        }, () -> {
+            if (updateBusy) return;
+            Updater.Release known = Updater.known(ctx, prefs);
+            if (known == null) {
+                updateBusy = true;
+                updateStatus = ctx.getString(R.string.update_checking);
+                refreshAll.run();
+                async(() -> Updater.check(ctx, prefs), (r, err) -> {
+                    updateBusy = false;
+                    updateStatus = err != null ? ctx.getString(R.string.update_offline)
+                            : r == null ? ctx.getString(R.string.update_none, Updater.installedVersion(ctx)) : "";
+                    refreshAll.run();
+                });
+                return;
+            }
+            if (ctx instanceof android.app.Activity && !Updater.canInstall((android.app.Activity) ctx)) {
+                updateStatus = "";
+                help.setText(R.string.update_permission);
+                return;
+            }
+            updateBusy = true;
+            updateStatus = ctx.getString(R.string.update_downloading, 0);
+            refreshAll.run();
+            Context app = ctx.getApplicationContext();
+            String failed = ctx.getString(R.string.update_failed), installing = ctx.getString(R.string.update_installing);
+            new Thread(() -> {
+                try {
+                    java.io.File apk = Updater.download(app, known.apkUrl, p -> {
+                        updateStatus = ctx.getString(R.string.update_downloading, Math.max(0, p));
+                        ui.post(refreshAll);
+                    });
+                    updateStatus = installing;
+                    ui.post(refreshAll);
+                    Updater.install(app, apk);
+                } catch (Exception e) {
+                    android.util.Log.w(HomeBase.TAG, "Mise à jour impossible", e);
+                    updateStatus = failed;
+                    ui.post(refreshAll);
+                } finally {
+                    updateBusy = false;
+                }
+            }, "proscenium-update").start();
+        }).badgeOf(R.string.badge_internet));
+        content.addView(flag(s.updateCheck));
     }
 
     // ---------------------------------------------------------------- Sous-page : applis de la barre

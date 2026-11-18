@@ -279,6 +279,7 @@ final class Settings {
             Format.LABELS, seq(7), R.string.lang_auto, R.string.lang_fr, R.string.lang_en, R.string.lang_de,
             R.string.lang_it, R.string.lang_es, R.string.lang_sv);
     final Flag economy = new Flag("economy", R.string.set_economy, R.string.help_economy, false);
+    final Flag updateCheck = new Flag("update_check", R.string.set_update_check, R.string.help_update_check, true);
 
     // ---------------------------------------------------------------- Sons d'interface
     final Flag uiSounds = new Flag("ui_sounds", R.string.set_ui_sounds, R.string.help_ui_sounds, true);
@@ -315,7 +316,7 @@ final class Settings {
                 glowPower, glowAnim, glowAnimAmount, glowAnimSpeed, scrollSpeed,
                 scrollParallax, loop, glassEngine, rimWidth,
                 weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, headerScale,
-                language, economy, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
+                language, economy, updateCheck, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
         for (Item i : items) all.add(i);
     }
 

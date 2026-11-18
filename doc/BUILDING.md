@@ -16,6 +16,27 @@ cd launcher
 
 `python launcher/check-strings.py` vérifie que chaque texte existe dans toutes les langues.
 
+### Signature
+
+Les versions publiées sont signées avec la clé de release : `launcher/release.keystore`, décrite par
+`launcher/signing.properties` (chemin, alias, mot de passe). Ces deux fichiers ne sont jamais publiés
+(`.gitignore`) et doivent être sauvegardés ensemble hors du PC : sans eux, aucune mise à jour ne
+pourra plus s'installer par-dessus les versions publiées.
+
+Sans `signing.properties` (par exemple chez un contributeur), `build.ps1` crée et utilise une clé de
+développement `dev.keystore` : l'APK s'installe, mais pas par-dessus une version publiée.
+
+Empreinte SHA-256 du certificat de release (CN=Proscenium, à partir de la 1.1) :
+`e74f9c9aaff67c0f5ae1c5345e844edaa6af4faf42ce067038658a6f8c11a0cc`
+
+### Publier une version
+
+1. Monter `versionCode` et `versionName` dans `launcher/AndroidManifest.xml`, compléter `CHANGELOG.md`
+   et `fastlane/metadata/android/*/changelogs/<versionCode>.txt`.
+2. Compiler, puis créer la release GitHub `v<versionName>` avec `Proscenium.apk` en pièce jointe.
+   L'appli (et Obtainium) y cherchent la dernière version : le tag doit commencer par `v` suivi du
+   numéro, et l'APK doit être joint à la release.
+
 ## Packs de fonds
 
 Le dossier [`packs/`](../packs) contient des playlists thématiques prêtes à installer depuis l'appli

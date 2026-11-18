@@ -32,6 +32,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.text.Collator;
 import java.text.SimpleDateFormat;
@@ -209,6 +210,11 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
             prefs.edit().putBoolean("trending_created", true).apply();
         }
         net.execute(() -> Playlists.refreshDynamic(this, tmdb, logoLang, original, false));
+        // Nouvelle version sur GitHub : vérifiée au plus une fois par jour, annoncée une seule fois
+        if (settings.updateCheck.value) net.execute(() -> {
+            String v = Updater.dailyCheck(this, prefs);
+            if (v != null) ui.post(() -> Toast.makeText(this, getString(R.string.update_toast, v), Toast.LENGTH_LONG).show());
+        });
         importDroppedPlaylist(tmdb, logoLang, original);
         if (!cleanedUp) {
             cleanedUp = true;

@@ -38,6 +38,20 @@ helt med fjärrkontrollen.
 Inställningarna öppnar du genom att markera fältet med klockan och vädret (pil uppåt, sedan OK),
 eller från menyn för en app i fältet.
 
+### Uppdateringar
+
+Proscenium söker en gång om dagen efter en ny version på GitHub och säger till. Installera den via
+**Inställningar → System → Uppdatering** och tryck på OK: den nya versionen laddas ner och Android ber
+dig bekräfta. Dina inställningar behålls. Första gången ber Android dig tillåta att Proscenium
+installerar appar.
+
+Du kan också följa uppdateringarna med [Obtainium](https://github.com/ImranR98/Obtainium): lägg till `https://github.com/Karlos-fr/proscenium` som källa.
+
+> **Har du version 1.0?** Version 1.1 är signerad med en ny nyckel och kan inte installeras ovanpå
+> 1.0: avinstallera Proscenium och installera sedan 1.1. Inställningar och spellistor börjar om från
+> början (paketen installeras om med ett klick). Det behövs bara en gång: senare versioner installeras
+> direkt ovanpå 1.1.
+
 ## Startskärmen
 
 - **Filmbakgrunder i helskärm** som byts ut med några sekunders mellanrum, med en övergång som du
@@ -122,3 +136,4 @@ och klistra in nyckeln på sidan som öppnas: TV:n kontrollerar den och sparar d
   produkten använder TMDB:s API men är varken godkänd eller certifierad av TMDB. Bilderna tillhör
   fortfarande sina respektive rättighetsinnehavare.
 - Dagens foton: Bing. Väder: [Open-Meteo](https://open-meteo.com).
+- Koden är publicerad under [MIT-licensen](../LICENSE).

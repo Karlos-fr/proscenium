@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="fr.proscenium.launcher"
-    android:versionCode="100"
-    android:versionName="1.0">
+    android:versionCode="110"
+    android:versionName="1.1">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Mises à jour depuis GitHub : l'installeur d'Android demande toujours confirmation -->
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
     <uses-feature android:name="android.software.leanback" android:required="false" />
     <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
@@ -76,5 +78,6 @@
                 android:name="android.accessibilityservice"
                 android:resource="@xml/home_guard" />
         </service>
+        <receiver android:name=".Updater$Receiver" android:exported="false" />
     </application>
 </manifest>

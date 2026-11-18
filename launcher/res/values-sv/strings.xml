@@ -466,4 +466,20 @@
     <string name="key_page_ok">Nyckeln är kontrollerad och sparad på TV:n. Du kan stänga sidan.</string>
     <string name="key_page_bad">TMDB avvisade nyckeln. Kontrollera den och försök igen.</string>
     <string name="key_page_expired">Sidan har gått ut: visa QR-koden på TV:n igen.</string>
+    <string name="sec_updates">Uppdateringar</string>
+    <string name="act_update">Uppdatering</string>
+    <string name="help_update">Söker efter en ny version av Proscenium på GitHub. Om det finns en laddar OK ner den och Android ber dig bekräfta installationen. Dina inställningar behålls.</string>
+    <string name="set_update_check">Kontrollera varje dag</string>
+    <string name="help_update_check">Söker efter en ny version en gång om dagen och visar ett kort meddelande när en släpps. Inget installeras utan ditt godkännande.</string>
+    <string name="update_available">Version %1$s finns</string>
+    <string name="update_checking">Söker…</string>
+    <string name="update_none">Uppdaterad (%1$s)</string>
+    <string name="update_offline">GitHub kan inte nås</string>
+    <string name="update_downloading">Laddar ner %1$d %%</string>
+    <string name="update_installing">Installerar…</string>
+    <string name="update_failed">Uppdateringen misslyckades</string>
+    <string name="update_cancelled">Uppdateringen avbröts</string>
+    <string name="update_signature">Den här versionen är signerad med en annan nyckel: avinstallera Proscenium och installera den sedan från GitHub.</string>
+    <string name="update_permission">Tillåt Proscenium att installera appar på sidan som just öppnades och tryck sedan på OK igen.</string>
+    <string name="update_toast">Proscenium %1$s finns: Inställningar → System → Uppdatering</string>
 </resources>

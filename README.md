@@ -38,6 +38,18 @@ entirely with the remote.
 To open the settings, select the time and weather header (arrow up, then OK), or use the menu of
 an app in the bar.
 
+### Updates
+
+Proscenium checks GitHub for a new version once a day and lets you know. To install it, open
+**Settings → System → Update** and press OK: the new version is downloaded and Android asks you to
+confirm. Your settings are kept. The first time, Android asks you to allow Proscenium to install apps.
+
+You can also follow updates with [Obtainium](https://github.com/ImranR98/Obtainium): add `https://github.com/Karlos-fr/proscenium` as the app's source.
+
+> **Coming from version 1.0?** Version 1.1 is signed with a new key, so it cannot be installed over
+> 1.0: uninstall Proscenium, then install 1.1. Settings and playlists start from scratch (packs are
+> reinstalled in one click). This happens only once: later versions install over 1.1 directly.
+
 ## The home screen
 
 - **Full-screen film backdrops**, changing every few seconds, with the transition of your choice
@@ -118,5 +130,6 @@ page that opens: the TV checks it and saves it.
   uses the TMDB API but is not endorsed or certified by TMDB. The pictures remain the property of
   their rights holders.
 - Photos of the day: Bing. Weather: [Open-Meteo](https://open-meteo.com).
+- Code released under the [MIT licence](LICENSE).
 
 What's new: [CHANGELOG.md](CHANGELOG.md). To build the app or the packs yourself: [doc/BUILDING.md](doc/BUILDING.md) (in French).

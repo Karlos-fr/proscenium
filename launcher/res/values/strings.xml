@@ -465,4 +465,20 @@
     <string name="key_page_ok">Key verified and saved on the TV. You can close this page.</string>
     <string name="key_page_bad">TMDB refused this key. Check it and try again.</string>
     <string name="key_page_expired">This page has expired: show the QR code on the TV again.</string>
+    <string name="sec_updates">Updates</string>
+    <string name="act_update">Update</string>
+    <string name="help_update">Checks GitHub for a new version of Proscenium. When one is available, OK downloads it and Android asks you to confirm the installation. Your settings are kept.</string>
+    <string name="set_update_check">Check every day</string>
+    <string name="help_update_check">Looks for a new version once a day and shows a short message when one comes out. Nothing is installed without your OK.</string>
+    <string name="update_available">Version %1$s available</string>
+    <string name="update_checking">Checking…</string>
+    <string name="update_none">Up to date (%1$s)</string>
+    <string name="update_offline">GitHub unreachable</string>
+    <string name="update_downloading">Downloading %1$d %%</string>
+    <string name="update_installing">Installing…</string>
+    <string name="update_failed">Update failed</string>
+    <string name="update_cancelled">Update cancelled</string>
+    <string name="update_signature">This version is signed with a different key: uninstall Proscenium, then install it from GitHub.</string>
+    <string name="update_permission">Allow Proscenium to install apps in the page that has just opened, then press OK again.</string>
+    <string name="update_toast">Proscenium %1$s is available: Settings → System → Update</string>
 </resources>

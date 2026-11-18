@@ -1,0 +1,18 @@
+Proscenium remplace l'écran d'accueil de votre TV Android par une salle de cinéma.
+
+<ul>
+<li>Fonds de films en plein écran, avec un lent effet Ken Burns et des transitions douces</li>
+<li>Couleurs qui suivent chaque image : le verre, la lumière et les icônes en prennent la teinte</li>
+<li>Un carrousel de vos applis sur du verre réfractant, avec un halo coloré autour de l'appli choisie</li>
+<li>Raccourcis vers les entrées HDMI de la TV pour les consoles et lecteurs, avec 24 icônes de consoles</li>
+<li>Horloge à chiffres roulants et météo en direct avec vent et rafales</li>
+<li>Mode cinéma quand la télécommande est posée : bandes noires, logo officiel du film et année</li>
+<li>Packs de fonds tout prêts (Disney &amp; Pixar, Studio Ghibli, Classiques &amp; Marvel), sans clé</li>
+<li>Vos propres playlists The Movie Database, avec la clé saisie depuis le téléphone par QR code</li>
+<li>Économiseur d'écran Android, sons d'interface, mode économie, sauvegarde et restauration</li>
+<li>Six langues : français, anglais, allemand, italien, espagnol et suédois</li>
+</ul>
+
+Se pilote entièrement à la télécommande. Android TV / Google TV 7.1 ou plus récent.
+
+Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB.

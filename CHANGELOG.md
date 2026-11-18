@@ -2,6 +2,26 @@
 
 All notable changes to Proscenium are listed here, newest first.
 
+## [1.1] — 2026-11-18
+
+Download: [Proscenium 1.1](https://github.com/Karlos-fr/proscenium/releases/tag/v1.1).
+
+> **Coming from 1.0?** This version is signed with a new key and cannot be installed over 1.0:
+> uninstall Proscenium, then install 1.1. Settings and playlists start from scratch (packs are
+> reinstalled in one click). This happens only once.
+
+### Added
+
+- Updates: Proscenium checks GitHub for a new version once a day and shows a short message when one
+  comes out. Settings → System → Update downloads it and hands it to Android's installer, which asks
+  for confirmation. Settings are kept. The daily check can be turned off.
+- Obtainium support (the GitHub releases page is the source) and store metadata for IzzyOnDroid.
+- MIT licence.
+
+### Changed
+
+- New release signing key (CN=Proscenium). Later versions install over 1.1 directly.
+
 ## [1.0] — 2026-11-17
 
 First public release: a cinema-style home screen for Android TV / Google TV (Android 7.1 or later),

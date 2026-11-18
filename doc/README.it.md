@@ -39,6 +39,20 @@ il telecomando.
 Le impostazioni si aprono selezionando il banner con l'ora e il meteo (freccia su, poi OK), oppure
 dal menu di un'app della barra.
 
+### Aggiornamenti
+
+Proscenium controlla una volta al giorno se su GitHub c'è una nuova versione e ti avvisa. Per
+installarla apri **Impostazioni → Sistema → Aggiornamento** e premi OK: la nuova versione viene
+scaricata e Android ti chiede di confermare. Le impostazioni vengono mantenute. La prima volta Android
+ti chiede di consentire a Proscenium di installare app.
+
+Puoi anche seguire gli aggiornamenti con [Obtainium](https://github.com/ImranR98/Obtainium): aggiungi `https://github.com/Karlos-fr/proscenium` come sorgente.
+
+> **Hai la versione 1.0?** La versione 1.1 è firmata con una nuova chiave e non si installa sopra la
+> 1.0: disinstalla Proscenium, poi installa la 1.1. Impostazioni e playlist ripartono da zero (i pacchetti
+> si reinstallano con un clic). Succede una sola volta: le versioni successive si installeranno
+> direttamente sopra la 1.1.
+
 ## La Home
 
 - **Sfondi di film a tutto schermo**, che cambiano ogni pochi secondi, con una transizione a scelta
@@ -118,3 +132,4 @@ incolla la chiave nella pagina che si apre: la TV la verifica e la salva.
   utilizza l'API TMDB ma non è approvato né certificato da TMDB. Le immagini restano di proprietà dei
   rispettivi titolari dei diritti.
 - Foto del giorno: Bing. Meteo: [Open-Meteo](https://open-meteo.com).
+- Codice pubblicato con [licenza MIT](../LICENSE).

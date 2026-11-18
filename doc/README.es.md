@@ -39,6 +39,20 @@ con el mando a distancia.
 Los ajustes se abren seleccionando el banner de la hora y el tiempo (flecha hacia arriba, luego OK),
 o desde el menú de una app de la barra.
 
+### Actualizaciones
+
+Proscenium comprueba una vez al día si hay una nueva versión en GitHub y te avisa. Para instalarla,
+abre **Ajustes → Sistema → Actualización** y pulsa OK: la nueva versión se descarga y Android te pide
+que confirmes. Tus ajustes se conservan. La primera vez, Android te pide que permitas a Proscenium
+instalar aplicaciones.
+
+También puedes seguir las actualizaciones con [Obtainium](https://github.com/ImranR98/Obtainium): añade `https://github.com/Karlos-fr/proscenium` como fuente.
+
+> **¿Vienes de la versión 1.0?** La versión 1.1 está firmada con una nueva clave y no se puede instalar
+> encima de la 1.0: desinstala Proscenium y luego instala la 1.1. Los ajustes y las listas empiezan de
+> cero (los packs se reinstalan con un clic). Solo ocurre una vez: las versiones siguientes se
+> instalarán directamente encima de la 1.1.
+
 ## La pantalla de inicio
 
 - **Fondos de películas a pantalla completa**, que cambian cada pocos segundos, con una transición a
@@ -120,3 +134,4 @@ clave en la página que se abre: la TV la comprueba y la guarda.
   producto utiliza la API de TMDB pero no está respaldado ni certificado por TMDB. Las imágenes
   siguen siendo propiedad de sus respectivos titulares de derechos.
 - Fotos del día: Bing. Tiempo: [Open-Meteo](https://open-meteo.com).
+- Código publicado con [licencia MIT](../LICENSE).

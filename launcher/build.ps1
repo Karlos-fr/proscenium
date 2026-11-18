@@ -42,16 +42,31 @@ Step 'Ajout de classes.dex' {
 }
 Step 'Alignement (zipalign)' { & "$bt\zipalign.exe" -f 4 "$out\unsigned.apk" "$out\aligned.apk" }
 
-# Clé de signature locale, propre à ce projet (pas de mot de passe sensible)
-$ks = "$root\debug.keystore"
-if (-not (Test-Path $ks)) {
-    Step 'Création de la clé de signature' {
-        & keytool -genkeypair -keystore $ks -storepass android -keypass android -alias proscenium `
-            -keyalg RSA -keysize 2048 -validity 10000 -dname 'CN=Proscenium'
+# Signature. Les versions publiées utilisent la clé de release, décrite dans signing.properties
+# (fichier local, jamais publié). Sans ce fichier, par exemple chez un contributeur, une clé de
+# développement est créée : l'APK s'installe, mais pas par-dessus une version publiée.
+$props = "$root\signing.properties"
+if (Test-Path $props) {
+    $sp = @{}
+    foreach ($line in Get-Content $props -Encoding UTF8) {
+        if ($line -match '^\s*([^#=]+?)\s*=\s*(.*)$') { $sp[$Matches[1]] = $Matches[2].Trim() }
     }
+    $ks = Join-Path $root $sp['keystore']; $alias = $sp['alias']; $pass = $sp['password']
+    if (-not (Test-Path $ks)) { throw "Clé de release introuvable : $ks (voir signing.properties)" }
+    Write-Host "== Signature avec la clé de release"
+} else {
+    $ks = "$root\dev.keystore"; $alias = 'dev'; $pass = 'android'
+    if (-not (Test-Path $ks)) {
+        Step 'Création d''une clé de développement' {
+            & keytool -genkeypair -keystore $ks -storepass $pass -keypass $pass -alias $alias `
+                -keyalg RSA -keysize 2048 -validity 10000 -dname 'CN=Proscenium dev'
+        }
+    }
+    Write-Warning "signing.properties absent : APK signé avec une clé de développement"
 }
 Step 'Signature (apksigner)' {
-    & "$bt\apksigner.bat" sign --ks $ks --ks-pass pass:android --key-pass pass:android --out "$out\Proscenium.apk" "$out\aligned.apk"
+    & "$bt\apksigner.bat" sign --ks $ks --ks-key-alias $alias --ks-pass "pass:$pass" --key-pass "pass:$pass" `
+        --out "$out\Proscenium.apk" "$out\aligned.apk"
 }
 Write-Host ("APK : {0} ({1:N0} Ko)" -f "$out\Proscenium.apk", ((Get-Item "$out\Proscenium.apk").Length / 1KB))
 
