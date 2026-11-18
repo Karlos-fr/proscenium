@@ -636,4 +636,6 @@
     <string name="help_wx_sun_shimmer">Velocidad a la que ondulan los rayos y deriva el polvo (0: quieto).</string>
     <string name="wx_sun_dust">Polvo en la luz</string>
     <string name="help_wx_sun_dust">Motas de polvo que flotan y brillan en los rayos.</string>
+    <string name="wx_sun_clouds">Nubes que pasan</string>
+    <string name="help_wx_sun_clouds">De vez en cuando las nubes atenúan la luz, rayo tras rayo, y luego vuelve (0: siempre soleado).</string>
 </resources>

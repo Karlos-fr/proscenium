@@ -637,4 +637,6 @@
     <string name="help_wx_sun_shimmer">Hur snabbt strålarna skiftar och dammet driver (0: stilla).</string>
     <string name="wx_sun_dust">Damm i ljuset</string>
     <string name="help_wx_sun_dust">Dammkorn som svävar och glittrar i strålarna.</string>
+    <string name="wx_sun_clouds">Förbidragande moln</string>
+    <string name="help_wx_sun_clouds">Då och då dämpar moln ljuset, stråle för stråle, sedan kommer det tillbaka (0: alltid soligt).</string>
 </resources>

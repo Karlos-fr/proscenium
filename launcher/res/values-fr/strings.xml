@@ -636,4 +636,6 @@
     <string name="help_wx_sun_shimmer">Vitesse à laquelle les rayons ondulent et les poussières dérivent (0 : immobile).</string>
     <string name="wx_sun_dust">Poussières</string>
     <string name="help_wx_sun_dust">Grains de poussière qui flottent et brillent dans les rayons.</string>
+    <string name="wx_sun_clouds">Nuages qui passent</string>
+    <string name="help_wx_sun_clouds">De temps en temps, des nuages baissent la lumière, rayon après rayon, puis elle revient (0 : toujours ensoleillé).</string>
 </resources>

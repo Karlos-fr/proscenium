@@ -199,7 +199,7 @@ final class WeatherGpu {
             "uniform float time;",
             "uniform float unit;",
             "uniform float4 ray;",       // force, atténuation par pas, seuil, chaleur (0 à 1)
-            "uniform float4 extra;",     // halo, mouvement, poussières, -
+            "uniform float4 extra;",     // halo, mouvement, poussières, nuages qui passent
             "float h11(float p) { p = fract(p * 0.1031); p *= p + 33.33; p *= p + p; return fract(p); }",
             "float h21(float2 p) { float3 q = fract(float3(p.xyx) * 0.1031); q += dot(q, q.yzx + 33.33); return fract((q.x + q.y) * q.z); }",
             "float vnoise(float2 p) {",
@@ -227,11 +227,15 @@ final class WeatherGpu {
             // Des rayons plus forts que d'autres, qui ondulent lentement
             "  float ang = atan(dir.y, dir.x);",
             "  float t = time * extra.y;",
-            "  float shafts = 0.45 + 0.55 * vnoise(float2(ang * 22.0 + t * 0.06, t * 0.09));",
+            "  float shafts = 0.25 + 0.75 * vnoise(float2(ang * 22.0 + t * 0.15, t * 0.22));",
+            // Nuages qui passent : la lumière baisse puis revient, faisceau après faisceau
+            "  float cloud = vnoise(float2(ang * 3.5 - t * 0.05, t * 0.035)) * 0.6 + vnoise(float2(t * 0.021, 4.2)) * 0.4;",
+            "  shafts *= mix(1.0, smoothstep(0.25, 0.7, cloud), clamp(extra.w, 0.0, 1.0));",
             "  float3 warm = mix(float3(1.0, 0.97, 0.92), float3(1.0, 0.70, 0.36), ray.w);",
             "  float3 rays = acc * shafts * warm * ray.x * 2.4;",
             // Halo autour du soleil
-            "  float3 col = rays + warm * exp(-dist / (size.y * 0.33)) * extra.x * 0.45;",
+            "  float sky = mix(1.0, 0.35 + 0.65 * smoothstep(0.25, 0.7, vnoise(float2(t * 0.021, 4.2))), clamp(extra.w, 0.0, 1.0));",
+            "  float3 col = rays + warm * exp(-dist / (size.y * 0.33)) * extra.x * 0.45 * sky;",
             // Poussières : de petits points flous qui flottent et brillent là où passe la lumière
             "  if (extra.z > 0.0) {",
             "    float cell = 52.0 * unit;",
@@ -263,14 +267,18 @@ final class WeatherGpu {
      * l'écran ; force, atténuation par pas, seuil, chaleur, halo, mouvement, poussières.
      */
     void drawSun(Canvas c, int w, int h, float time, float sunX, float strength, float decay, float threshold,
-                 float warmth, float glow, float motion, float dust) {
+                 float warmth, float glow, float motion, float dust, float clouds) {
         sunShader.setInputShader("image", currentImage);
         sunShader.setFloatUniform("size", w, h);
-        sunShader.setFloatUniform("sun", sunX * w, -0.12f * h);
+        // Le soleil glisse lentement : les rayons pivotent et balaient l'image
+        float t = time * motion;
+        float sx = sunX + 0.06f * (float) Math.sin(t * 0.045) + 0.025f * (float) Math.sin(t * 0.11 + 1.3);
+        float sy = -0.12f + 0.03f * (float) Math.sin(t * 0.06 + 0.7);
+        sunShader.setFloatUniform("sun", sx * w, sy * h);
         sunShader.setFloatUniform("time", time);
         sunShader.setFloatUniform("unit", unit);
         sunShader.setFloatUniform("ray", strength, decay, threshold, warmth);
-        sunShader.setFloatUniform("extra", glow, motion, dust, 0f);
+        sunShader.setFloatUniform("extra", glow, motion, dust, clouds);
         float scale = FOG_SCALE;
         int lw = (int) Math.ceil(w / scale), lh = (int) Math.ceil(h / scale);
         sunLayer.setPosition(0, 0, lw, lh);

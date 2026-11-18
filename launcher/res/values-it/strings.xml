@@ -636,4 +636,6 @@
     <string name="help_wx_sun_shimmer">Velocità con cui i raggi ondeggiano e il pulviscolo fluttua (0: fermo).</string>
     <string name="wx_sun_dust">Pulviscolo</string>
     <string name="help_wx_sun_dust">Granelli di polvere che fluttuano e brillano nei raggi.</string>
+    <string name="wx_sun_clouds">Nuvole di passaggio</string>
+    <string name="help_wx_sun_clouds">Di tanto in tanto le nuvole attenuano la luce, raggio dopo raggio, poi torna (0: sempre soleggiato).</string>
 </resources>

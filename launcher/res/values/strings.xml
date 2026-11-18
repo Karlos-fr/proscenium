@@ -636,4 +636,6 @@
     <string name="help_wx_sun_shimmer">How fast the rays waver and the dust drifts (0: still).</string>
     <string name="wx_sun_dust">Dust in the light</string>
     <string name="help_wx_sun_dust">Specks of dust that float and sparkle in the rays.</string>
+    <string name="wx_sun_clouds">Passing clouds</string>
+    <string name="help_wx_sun_clouds">Now and then clouds dim the light, ray after ray, then it comes back (0: always sunny).</string>
 </resources>

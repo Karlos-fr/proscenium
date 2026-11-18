@@ -176,16 +176,17 @@ final class WeatherStyles {
     final Param sunGlow = new Param("wx_sun_glow", R.string.wx_sun_glow, R.string.help_wx_sun_glow, 0, 250, 100);
     final Param sunShimmer = new Param("wx_sun_shimmer", R.string.wx_sun_shimmer, R.string.help_wx_sun_shimmer, 0, 300, 100);
     final Param sunDust = new Param("wx_sun_dust", R.string.wx_sun_dust, R.string.help_wx_sun_dust, 0, 300, 60);
+    final Param sunClouds = new Param("wx_sun_clouds", R.string.wx_sun_clouds, R.string.help_wx_sun_clouds, 0, 140, 100);
     final Style sun = new Style(WeatherFx.SUN, R.string.fx_sun, R.string.help_wx_page_sun,
-            new Param[]{sunRays, sunLength, sunThreshold, sunPosition, sunWarmth, sunGlow, sunShimmer, sunDust}, 0,
+            new Param[]{sunRays, sunLength, sunThreshold, sunPosition, sunWarmth, sunGlow, sunShimmer, sunDust, sunClouds}, 0,
             new int[]{R.string.wxp_sun_full, R.string.wxp_sun_morning, R.string.wxp_sun_sunset, R.string.wxp_sun_forest,
                     R.string.wxp_sun_soft},
             new int[][]{
-                    {100, 100, 100, 70, 100, 100, 100, 60},   // Plein soleil
-                    {120, 140, 80, 20, 150, 120, 80, 120},    // Matin doré
-                    {140, 160, 70, 90, 200, 150, 60, 40},     // Coucher de soleil
-                    {170, 180, 130, 50, 90, 60, 120, 200},    // Sous-bois
-                    {50, 70, 120, 70, 60, 50, 60, 0},         // Discret
+                    {100, 100, 100, 70, 100, 100, 100, 60, 100},   // Plein soleil
+                    {120, 140, 80, 20, 150, 120, 80, 120, 60},     // Matin doré
+                    {140, 160, 70, 90, 200, 150, 60, 40, 120},     // Coucher de soleil
+                    {170, 180, 130, 50, 90, 60, 120, 200, 80},     // Sous-bois
+                    {50, 70, 120, 70, 60, 50, 60, 0, 40},          // Discret
             });
 
     final Style[] all = {sun, rain, storm, snow, fog};

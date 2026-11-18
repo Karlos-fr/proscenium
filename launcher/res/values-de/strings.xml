@@ -636,4 +636,6 @@
     <string name="help_wx_sun_shimmer">Wie schnell die Strahlen flimmern und der Staub treibt (0: still).</string>
     <string name="wx_sun_dust">Staub im Licht</string>
     <string name="help_wx_sun_dust">Staubkörnchen, die in den Strahlen schweben und glitzern.</string>
+    <string name="wx_sun_clouds">Vorbeiziehende Wolken</string>
+    <string name="help_wx_sun_clouds">Ab und zu dämpfen Wolken das Licht, Strahl für Strahl, dann kehrt es zurück (0: immer sonnig).</string>
 </resources>

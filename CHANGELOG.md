@@ -33,7 +33,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   on a window (out of focus at first, then sharp, squashed by the impact), slide down in fits and
   starts, pushed sideways by the wind, with sudden gusts that change their direction, and leave a wet
   trail; storms add lightning that lights the picture, sun rays stream through the bright parts of
-  the picture with a warm halo and dust sparkling in the light (on clear days), snow falls and its
+  the picture with a warm halo and dust sparkling in the light, the sun drifting slowly and passing
+  clouds dimming the rays now and then (on clear days), snow falls and its
   flakes melt on the screen, fog veils the picture with banks that drift, swirl and thicken or clear.
   Sun, rain, lightning, snow and fog combine: the real weather turns on the layers it needs (a storm brings rain and lightning,
   drizzle comes with mist, freezing rain with sleet), and Custom lets you tick any mix and choose
@@ -46,7 +47,7 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   branching fractal bolts that strike, flicker and light up the picture.
 - Sun page in the weather settings: presets (full sun, golden morning, sunset, woodland, subtle) and
   settings for the rays, their length, the light threshold, the sun's position, warmth, halo,
-  movement and dust.
+  movement, dust and passing clouds.
 - "Random values" on each weather page, within believable limits.
 - Film details on the title card (cinema mode and screensaver): running time, genres and the TMDB
   rating (a coloured ring in percent by default, or a star with the score) next to the year, and under them the
