@@ -52,6 +52,8 @@ final class Wallpaper {
         final String title, copyright, url;
         /** Logo du film (PNG transparent), ou null. */
         final File logo;
+        /** Film de la playlist (fiche de la carte titre), ou null (photo Bing…). */
+        Playlists.Film film;
 
         Item(File file, String title, String copyright, String url, File logo) {
             this.file = file;
@@ -66,6 +68,8 @@ final class Wallpaper {
         final Bitmap sharp, blurred, logo;
         final String title, copyright;
         final int accent;
+        /** Film de la playlist, ou null. */
+        Playlists.Film film;
         /** Luminosité moyenne (0 à 1) du haut (heure, bandeau) et du bas (dock) de l'image. */
         final float lumTop, lumBottom;
 
@@ -166,7 +170,9 @@ final class Wallpaper {
                     for (String b : f.backdrops) {
                         File img = new File(b);
                         if (img.exists() && seen.add(b)) {
-                            out.add(new Item(img, title, "TMDB", null, logo != null && logo.exists() ? logo : null));
+                            Item item = new Item(img, title, "TMDB", null, logo != null && logo.exists() ? logo : null);
+                            item.film = f;
+                            out.add(item);
                         }
                     }
                 }
@@ -215,7 +221,9 @@ final class Wallpaper {
         Bitmap small = Bitmap.createScaledBitmap(sharp, 192, 108, true).copy(Bitmap.Config.ARGB_8888, true);
         Blur.box(small, 3, 3);
         Bitmap logo = it.logo != null ? BitmapFactory.decodeFile(it.logo.getPath()) : null;
-        return new Frame(sharp, small, logo, it.title, it.copyright, Palette.accentOf(small));
+        Frame frame = new Frame(sharp, small, logo, it.title, it.copyright, Palette.accentOf(small));
+        frame.film = it.film;
+        return frame;
     }
 
     private static void download(File f, String url) throws Exception {

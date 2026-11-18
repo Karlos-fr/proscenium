@@ -108,6 +108,8 @@ abstract class HomeBase extends Activity {
     LinearLayout titleCard;
     ImageView titleLogo;
     TextView titleText, titleSub;
+    /** Fiche du film sous le titre : infos, note, résumé. */
+    FilmCard filmCard;
     // Plan du milieu
     FrameLayout mid;
     GlassView dock;

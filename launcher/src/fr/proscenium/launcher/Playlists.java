@@ -35,6 +35,14 @@ final class Playlists {
         final List<String> backdrops = new CopyOnWriteArrayList<>();
         /** Chemin absolu du logo, ou "" (titre affiché en texte). */
         String logo = "";
+        /**
+         * Fiche pour la carte titre du mode cinéma : résumé, accroche, genres (« Drame, Crime »), note
+         * TMDB sur 10, nombre de votes, durée en minutes, et date de la fiche (ms, 0 : pas de fiche).
+         */
+        String overview = "", tagline = "", genres = "";
+        double rating;
+        int votes, runtime;
+        long infoAt;
 
         String shownTitle() {
             return customTitle.isEmpty() ? title : customTitle;
@@ -164,7 +172,9 @@ final class Playlists {
                     for (String s : f.backdrops) b.put(s);
                     films.put(new JSONObject().put("tmdbId", f.tmdbId).put("title", f.title).put("year", f.year)
                             .put("poster", f.poster).put("customTitle", f.customTitle).put("logo", f.logo)
-                            .put("backdrops", b));
+                            .put("overview", f.overview).put("tagline", f.tagline).put("genres", f.genres)
+                            .put("rating", f.rating).put("votes", f.votes).put("runtime", f.runtime)
+                            .put("infoAt", f.infoAt).put("backdrops", b));
                 }
                 JSONObject po = new JSONObject().put("id", p.id).put("name", p.name).put("films", films);
                 if (p.isDynamic()) po.put("dynamic", p.dynamic).put("updated", p.updated).put("limit", p.limit);
@@ -208,6 +218,13 @@ final class Playlists {
                     fi.poster = fo.optString("poster");
                     fi.customTitle = fo.optString("customTitle");
                     fi.logo = fo.optString("logo");
+                    fi.overview = fo.optString("overview");
+                    fi.tagline = fo.optString("tagline");
+                    fi.genres = fo.optString("genres");
+                    fi.rating = fo.optDouble("rating", 0);
+                    fi.votes = fo.optInt("votes");
+                    fi.runtime = fo.optInt("runtime");
+                    fi.infoAt = fo.optLong("infoAt");
                     JSONArray b = fo.optJSONArray("backdrops");
                     for (int k = 0; b != null && k < b.length(); k++) fi.backdrops.add(b.getString(k));
                     p.films.add(fi);
@@ -320,6 +337,60 @@ final class Playlists {
         if (changed) save(ctx);
     }
 
+    /** Une fiche de film est rafraîchie au plus une fois par mois (la note évolue). */
+    static final long INFO_EVERY_MS = 30L * 24 * 3600_000L;
+
+    /**
+     * Résumé, accroche, genres, note et durée des films de tes playlists (pas des packs, qui les
+     * apportent), dans la langue des titres TMDB. Hors du fil principal.
+     */
+    static void fillInfo(Context ctx, Tmdb tmdb) {
+        if (!tmdb.hasKey()) return;
+        long now = System.currentTimeMillis();
+        int done = 0;
+        for (Playlist p : all(ctx)) {
+            if (!p.pack.isEmpty()) continue;
+            for (Film f : p.films) {
+                if (f.tmdbId <= 0 || now - f.infoAt < INFO_EVERY_MS) continue;
+                try {
+                    JSONObject d = tmdb.details(f.tmdbId);
+                    List<String> names = new ArrayList<>();
+                    JSONArray g = d.optJSONArray("genres");
+                    for (int i = 0; g != null && i < g.length(); i++) {
+                        String n = g.getJSONObject(i).optString("name");
+                        if (!n.isEmpty()) names.add(n);
+                    }
+                    synchronized (Playlists.class) {
+                        f.overview = d.optString("overview").trim();
+                        f.tagline = d.optString("tagline").trim();
+                        f.genres = android.text.TextUtils.join(", ", names);
+                        f.rating = d.optDouble("vote_average", 0);
+                        f.votes = d.optInt("vote_count");
+                        f.runtime = d.optInt("runtime");
+                        f.infoAt = now;
+                    }
+                    if (++done % 20 == 0) save(ctx);
+                } catch (Exception e) {
+                    Log.w(TAG, "Fiche du film non récupérée : " + f.title, e);
+                    break;
+                }
+            }
+        }
+        if (done > 0) save(ctx);
+    }
+
+    /** Fiche d'un film d'un pack (résumé, accroche, genres… dans la langue {@code lang}, sinon l'anglais). */
+    static void applyPackInfo(Film f, JSONObject fo, String lang) {
+        if (!fo.has("overview")) return;
+        f.overview = Packs.pick(fo.opt("overview"), lang).trim();
+        f.tagline = Packs.pick(fo.opt("tagline"), lang).trim();
+        f.genres = Packs.pickList(fo.opt("genres"), lang);
+        f.rating = fo.optDouble("rating", 0);
+        f.votes = fo.optInt("votes");
+        f.runtime = fo.optInt("runtime");
+        f.infoAt = System.currentTimeMillis();
+    }
+
     // ---------------------------------------------------------------- Téléchargements
 
     static void setProgress(Progress p) {
@@ -422,11 +493,20 @@ final class Playlists {
                 synchronized (Playlists.class) {
                     if (!all(app).contains(target)) break;   // pack supprimé entre-temps
                 }
-                if (target.find(movie) != null) continue;
+                Film known = target.find(movie);
+                if (known != null) {
+                    // Film déjà là : seule sa fiche est mise à jour (nouvelle version du pack)
+                    synchronized (Playlists.class) {
+                        applyPackInfo(known, fo, lang);
+                        if (i == films.length() - 1 || i % 10 == 9) save(app);
+                    }
+                    continue;
+                }
                 try {
                     Film f = new Film();
                     f.tmdbId = movie;
                     f.title = title;
+                    applyPackInfo(f, fo, lang);
                     f.year = fo.optString("year");
                     JSONArray backdrops = fo.optJSONArray("backdrops");
                     for (int k = 0; backdrops != null && k < backdrops.length(); k++) {

@@ -196,6 +196,17 @@ final class Settings {
     final Choice titleSide = new Choice("title_side", R.string.set_title_side, R.string.help_title_side, SIDE_RIGHT,
             Format.LABELS, seq(2), R.string.side_right, R.string.side_left);
     final Flag showYear = new Flag("show_year", R.string.set_show_year, R.string.help_show_year, true);
+    /** Fiche du film sous le titre (FilmCard) : durée et genres, note, accroche ou résumé, taille du texte. */
+    final Flag titleInfo = new Flag("title_info", R.string.set_title_info, R.string.help_title_info, true);
+    static final int RATING_NONE = 0, RATING_STARS = 1, RATING_PERCENT = 2;
+    final Choice titleRating = new Choice("title_rating", R.string.set_title_rating, R.string.help_title_rating,
+            RATING_STARS, Format.LABELS, seq(3), R.string.rating_none, R.string.rating_stars, R.string.rating_percent);
+    static final int SUMMARY_NONE = 0, SUMMARY_TAGLINE = 1, SUMMARY_SHORT = 2, SUMMARY_FULL = 3;
+    final Choice titleSummary = new Choice("title_summary", R.string.set_title_summary, R.string.help_title_summary,
+            SUMMARY_SHORT, Format.LABELS, seq(4), R.string.summary_none, R.string.summary_tagline,
+            R.string.summary_short, R.string.summary_full);
+    final Num titleTextSize = new Num("title_text_size", R.string.set_title_text_size, R.string.help_title_text_size,
+            100, 70, 150, 10, Format.PERCENT);
     final Flag clockSeconds = new Flag("clock_seconds", R.string.set_clock_seconds, R.string.help_clock_seconds, true);
     final Flag hideHeader = new Flag("hide_header", R.string.set_hide_header, R.string.help_hide_header, true);
 
@@ -330,7 +341,7 @@ final class Settings {
     Settings() {
         Item[] items = {bgSource, bgDelay, bgOrder, bgTransition, bgTransitionMs, kenBurns, kbAmplitude, kbCycle,
                 vignette, vignetteIntensity, themeAuto, themeColor, entrance, parallax,
-                cinemaDelay, cinemaBars, barOpacity, cinemaKeepZoom, titleMode, titleSide, showYear, clockSeconds, hideHeader,
+                cinemaDelay, cinemaBars, barOpacity, cinemaKeepZoom, titleMode, titleSide, showYear, titleInfo, titleRating, titleSummary, titleTextSize, clockSeconds, hideHeader,
                 dockApps, inputShortcuts, bandMode, slimBand, visibleApps, tileSize, tileSpacing, centerZoom, tilt, shine, neighborDim, glowMode,
                 glowPower, glowAnim, glowAnimAmount, glowAnimSpeed, scrollSpeed,
                 scrollParallax, loop, glassEngine, rimWidth,

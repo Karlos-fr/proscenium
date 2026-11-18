@@ -596,4 +596,21 @@
     <string name="wind_light">Leicht</string>
     <string name="wind_strong">Stark</string>
     <string name="wind_storm">Sturm</string>
+    <string name="set_title_info">Filmangaben</string>
+    <string name="help_title_info">Laufzeit und Genres neben dem Jahr, unter dem Titel.</string>
+    <string name="set_title_rating">Bewertung</string>
+    <string name="help_title_rating">Bewertung der TMDB-Nutzer: ein Stern mit der Note von 10 oder ein farbiger Ring in Prozent.</string>
+    <string name="rating_none">Keine</string>
+    <string name="rating_stars">★ 8,4</string>
+    <string name="rating_percent" formatted="true">Ring 84 %</string>
+    <string name="set_title_summary">Text unter dem Titel</string>
+    <string name="help_title_summary">Der Werbeslogan des Films, seine Inhaltsangabe in drei Zeilen oder die ganze, die langsam scrollt.</string>
+    <string name="summary_none">Keiner</string>
+    <string name="summary_tagline">Slogan</string>
+    <string name="summary_short">Kurze Inhaltsangabe</string>
+    <string name="summary_full">Ganze Inhaltsangabe</string>
+    <string name="set_title_text_size">Textgröße</string>
+    <string name="help_title_text_size">Größe der Angaben und der Inhaltsangabe unter dem Titel.</string>
+    <string name="runtime_hm">%1$d Std. %2$02d Min.</string>
+    <string name="runtime_m">%1$d Min.</string>
 </resources>

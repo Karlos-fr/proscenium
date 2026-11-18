@@ -201,7 +201,11 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         if (System.currentTimeMillis() - weatherAt > WEATHER_EVERY_MS) refreshWeather();
         // Films migrés sans fiche TMDB : on la retrouve en arrière-plan (une seule fois par film)
         Tmdb tmdb = tmdb();
-        net.execute(() -> Playlists.identify(this, tmdb));
+        net.execute(() -> {
+            Playlists.identify(this, tmdb);
+            // Résumé, accroche, genres, note et durée des films de tes playlists (une fois par mois)
+            Playlists.fillInfo(this, tmdb);
+        });
         // Tendances du jour (au plus une mise à jour par 24 h), puis ménage des images inutilisées
         String logoLang = settings.tmdbLanguage(Lang.tag(this)).substring(0, 2);
         boolean original = settings.tmdbQuality.index == Settings.QUALITY_ORIGINAL;
@@ -360,7 +364,8 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
             if (!s.kenBurnsOn()) setKenBurns(0.5f);
         } else if (item == s.cinemaBars || item == s.barOpacity || item == s.titleSide) {
             applyCinemaLayout();
-        } else if (item == s.titleMode || item == s.showYear) {
+        } else if (item == s.titleMode || item == s.showYear || item == s.titleInfo || item == s.titleRating
+                || item == s.titleSummary || item == s.titleTextSize) {
             if (frame != null) fillTitleCard(frame);
         } else if (item == s.dockApps) {
             // Après un déplacement à la télécommande, les tuiles sont déjà dans le bon ordre

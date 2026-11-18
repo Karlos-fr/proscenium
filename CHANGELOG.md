@@ -44,6 +44,12 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   mist to pea-souper) and fine settings, previewed live on the backdrop. Lightning is drawn as
   branching fractal bolts that strike, flicker and light up the picture.
 - "Random values" on each weather page, within believable limits.
+- Film details on the title card (cinema mode and screensaver): running time, genres and the TMDB
+  rating (a star with the score, or a coloured ring in percent) next to the year, and under them the
+  synopsis on three lines, the tagline, or the whole synopsis scrolling slowly. Settings → Cinema mode
+  → Title card. Packs now carry these details in six languages (packs version 2: "Update installed
+  packs" adds them to films already downloaded); films of your own playlists get them from TMDB and
+  are refreshed once a month.
 - TMDB logo next to the TMDB notice (Films (TMDB) tab and System → About), as TMDB's terms ask.
 - README: demo video, screenshots and a short FAQ (Fire TV, Home button, TMDB key, data use).
 - Obtainium support (the GitHub releases page is the source) and store metadata for IzzyOnDroid.

@@ -49,6 +49,7 @@ public final class CinemaDream extends DreamService {
     private View shadeTop;
     private LinearLayout titleCard;
     private TextView titleText, titleSub, dateText;
+    private FilmCard filmCard;
     private RollingClock clock;
     private Wallpaper.Frame frame;
     private boolean running;
@@ -186,6 +187,8 @@ public final class CinemaDream extends DreamService {
             clp.gravity = side;
             titleCard.addView(child, clp);
         }
+        filmCard = new FilmCard(this);
+        filmCard.attach(titleCard, side);
         FrameLayout.LayoutParams tlp = new FrameLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
         tlp.gravity = Gravity.BOTTOM | side;
         tlp.setMargins(dp(56), 0, dp(56), Math.max(bar, dp(30)) + dp(22));
@@ -318,7 +321,8 @@ public final class CinemaDream extends DreamService {
         String sub = hasYear ? (settings.showYear.value ? year.group(2) : "") : (f.title.isEmpty() ? "" : f.copyright);
         if (mode == Settings.TITLE_NONE) sub = "";
         titleSub.setText(sub.toUpperCase(Lang.locale(this)));
-        titleSub.setVisibility(sub.isEmpty() ? View.GONE : View.VISIBLE);
+        boolean infoLine = filmCard.fill(f.film, hasYear ? year.group(2) : "", settings);
+        titleSub.setVisibility(sub.isEmpty() || infoLine ? View.GONE : View.VISIBLE);
     }
 
     // ---------------------------------------------------------------- Aides

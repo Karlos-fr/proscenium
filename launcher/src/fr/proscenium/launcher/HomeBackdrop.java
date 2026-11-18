@@ -116,6 +116,8 @@ abstract class HomeBackdrop extends HomeBase {
         titleSub.setLetterSpacing(0.15f);
         titleSub.setPadding(dp(2), dp(8), dp(2), 0);
         titleCard.addView(titleSub);
+        filmCard = new FilmCard(this);
+        filmCard.attach(titleCard, settings.titleSide.index == Settings.SIDE_LEFT ? Gravity.START : Gravity.END);
         root.addView(titleCard, at(Gravity.BOTTOM | Gravity.END, 0, 0, 56, 52));
     }
 
@@ -140,6 +142,7 @@ abstract class HomeBackdrop extends HomeBase {
             clp.gravity = side;
             child.setLayoutParams(clp);
         }
+        filmCard.setSide(side);
         FrameLayout.LayoutParams lp = (FrameLayout.LayoutParams) titleCard.getLayoutParams();
         lp.gravity = Gravity.BOTTOM | side;
         lp.setMargins(dp(56), 0, dp(56), Math.max(h, dp(30)) + dp(22));
@@ -169,7 +172,9 @@ abstract class HomeBackdrop extends HomeBase {
         String sub = hasYear ? (settings.showYear.value ? year.group(2) : "") : (f.title.isEmpty() ? "" : f.copyright);
         if (mode == Settings.TITLE_NONE) sub = "";
         titleSub.setText(sub.toUpperCase(Lang.locale(this)));
-        titleSub.setVisibility(sub.isEmpty() ? View.GONE : View.VISIBLE);
+        // Fiche du film : sa ligne d'infos remplace celle de l'année
+        boolean infoLine = filmCard.fill(f.film, hasYear ? year.group(2) : "", settings);
+        titleSub.setVisibility(sub.isEmpty() || infoLine ? View.GONE : View.VISIBLE);
     }
 
     /** Entrée (au repos) ou sortie du mode cinéma. */

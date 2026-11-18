@@ -597,4 +597,21 @@
     <string name="wind_light">Svag</string>
     <string name="wind_strong">Stark</string>
     <string name="wind_storm">Storm</string>
+    <string name="set_title_info">Filmuppgifter</string>
+    <string name="help_title_info">Speltid och genrer bredvid året, under titeln.</string>
+    <string name="set_title_rating">Betyg</string>
+    <string name="help_title_rating">Betyg från TMDB:s användare: en stjärna med betyget av 10, eller en färgad ring i procent.</string>
+    <string name="rating_none">Inget</string>
+    <string name="rating_stars">★ 8,4</string>
+    <string name="rating_percent" formatted="true">Ring 84 %</string>
+    <string name="set_title_summary">Text under titeln</string>
+    <string name="help_title_summary">Filmens slogan, handlingen på tre rader, eller hela handlingen, som rullar långsamt.</string>
+    <string name="summary_none">Ingen</string>
+    <string name="summary_tagline">Slogan</string>
+    <string name="summary_short">Kort handling</string>
+    <string name="summary_full">Hela handlingen</string>
+    <string name="set_title_text_size">Textstorlek</string>
+    <string name="help_title_text_size">Storlek på uppgifterna och handlingen under titeln.</string>
+    <string name="runtime_hm">%1$d tim %2$02d min</string>
+    <string name="runtime_m">%1$d min</string>
 </resources>

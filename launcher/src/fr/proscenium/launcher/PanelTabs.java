@@ -123,7 +123,8 @@ abstract class PanelTabs extends PanelCore {
         section(R.string.sec_bars);
         add(r, choice(s.cinemaBars), num(s.barOpacity), flag(s.cinemaKeepZoom));
         section(R.string.sec_title_card);
-        add(r, choice(s.titleMode), choice(s.titleSide), flag(s.showYear));
+        add(r, choice(s.titleMode), choice(s.titleSide), flag(s.showYear), flag(s.titleInfo), choice(s.titleRating),
+                choice(s.titleSummary), num(s.titleTextSize));
         section(R.string.sec_clock_header);
         add(r, flag(s.clockSeconds), flag(s.hideHeader));
         screensaverSection();

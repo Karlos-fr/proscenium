@@ -79,6 +79,11 @@ final class Tmdb {
         return base == null ? null : new File(base, "tmdb.key");
     }
 
+    /** Fiche complète d'un film (résumé, accroche, genres, note, durée), dans la langue des titres. */
+    JSONObject details(int id) throws Exception {
+        return call("/movie/" + id, "language=" + language);
+    }
+
     private JSONObject call(String path, String query) throws Exception {
         return call(path, query, true);
     }

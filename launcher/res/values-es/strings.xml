@@ -596,4 +596,21 @@
     <string name="wind_light">Suave</string>
     <string name="wind_strong">Fuerte</string>
     <string name="wind_storm">Temporal</string>
+    <string name="set_title_info">Datos de la película</string>
+    <string name="help_title_info">Duración y géneros junto al año, bajo el título.</string>
+    <string name="set_title_rating">Nota</string>
+    <string name="help_title_rating">Nota de los usuarios de TMDB: una estrella con la nota sobre 10, o un anillo de color en porcentaje.</string>
+    <string name="rating_none">Ninguna</string>
+    <string name="rating_stars">★ 8,4</string>
+    <string name="rating_percent" formatted="true">Anillo 84 %</string>
+    <string name="set_title_summary">Texto bajo el título</string>
+    <string name="help_title_summary">El eslogan de la película, su sinopsis en tres líneas, o la sinopsis completa, que se desplaza despacio.</string>
+    <string name="summary_none">Ninguno</string>
+    <string name="summary_tagline">Eslogan</string>
+    <string name="summary_short">Sinopsis breve</string>
+    <string name="summary_full">Sinopsis completa</string>
+    <string name="set_title_text_size">Tamaño del texto</string>
+    <string name="help_title_text_size">Tamaño de los datos y de la sinopsis bajo el título.</string>
+    <string name="runtime_hm">%1$d h %2$02d min</string>
+    <string name="runtime_m">%1$d min</string>
 </resources>

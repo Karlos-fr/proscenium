@@ -53,6 +53,26 @@ final class Packs {
     }
 
     /** Texte dans la langue voulue, sinon en anglais, sinon le premier venu ; accepte aussi un simple texte. */
+    /** Liste dans la langue {@code lang} (sinon l'anglais, sinon la première), jointe par « , ». */
+    static String pickList(Object value, String lang) {
+        if (!(value instanceof JSONObject)) return "";
+        JSONObject o = (JSONObject) value;
+        org.json.JSONArray a = o.optJSONArray(lang);
+        if (a == null || a.length() == 0) a = o.optJSONArray("en");
+        if (a == null || a.length() == 0) {
+            Iterator<String> keys = o.keys();
+            while (keys.hasNext() && (a == null || a.length() == 0)) a = o.optJSONArray(keys.next());
+        }
+        StringBuilder b = new StringBuilder();
+        for (int i = 0; a != null && i < a.length(); i++) {
+            String s = a.optString(i);
+            if (s.isEmpty()) continue;
+            if (b.length() > 0) b.append(", ");
+            b.append(s);
+        }
+        return b.toString();
+    }
+
     static String pick(Object value, String lang) {
         if (value instanceof String) return (String) value;
         if (!(value instanceof JSONObject)) return "";

@@ -596,4 +596,21 @@
     <string name="wind_light">Light</string>
     <string name="wind_strong">Strong</string>
     <string name="wind_storm">Gale</string>
+    <string name="set_title_info">Film details</string>
+    <string name="help_title_info">Running time and genres next to the year, under the title.</string>
+    <string name="set_title_rating">Rating</string>
+    <string name="help_title_rating">TMDB users\' rating: a star with the score out of 10, or a coloured ring in percent.</string>
+    <string name="rating_none">None</string>
+    <string name="rating_stars">★ 8.4</string>
+    <string name="rating_percent" formatted="true">Ring 84 %</string>
+    <string name="set_title_summary">Text under the title</string>
+    <string name="help_title_summary">The film\'s tagline, its synopsis on three lines, or the whole synopsis, which scrolls slowly.</string>
+    <string name="summary_none">None</string>
+    <string name="summary_tagline">Tagline</string>
+    <string name="summary_short">Short synopsis</string>
+    <string name="summary_full">Full synopsis</string>
+    <string name="set_title_text_size">Text size</string>
+    <string name="help_title_text_size">Size of the details and the synopsis under the title.</string>
+    <string name="runtime_hm">%1$dh %2$02dm</string>
+    <string name="runtime_m">%1$d min</string>
 </resources>

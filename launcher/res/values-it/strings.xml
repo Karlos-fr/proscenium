@@ -596,4 +596,21 @@
     <string name="wind_light">Leggero</string>
     <string name="wind_strong">Forte</string>
     <string name="wind_storm">Burrasca</string>
+    <string name="set_title_info">Dettagli del film</string>
+    <string name="help_title_info">Durata e generi accanto all\'anno, sotto il titolo.</string>
+    <string name="set_title_rating">Voto</string>
+    <string name="help_title_rating">Voto degli utenti di TMDB: una stella con il voto su 10, o un anello colorato in percentuale.</string>
+    <string name="rating_none">Nessuno</string>
+    <string name="rating_stars">★ 8,4</string>
+    <string name="rating_percent" formatted="true">Anello 84 %</string>
+    <string name="set_title_summary">Testo sotto il titolo</string>
+    <string name="help_title_summary">Lo slogan del film, la trama su tre righe, o la trama completa, che scorre lentamente.</string>
+    <string name="summary_none">Nessuno</string>
+    <string name="summary_tagline">Slogan</string>
+    <string name="summary_short">Trama breve</string>
+    <string name="summary_full">Trama completa</string>
+    <string name="set_title_text_size">Dimensione del testo</string>
+    <string name="help_title_text_size">Dimensione dei dettagli e della trama sotto il titolo.</string>
+    <string name="runtime_hm">%1$d h %2$02d min</string>
+    <string name="runtime_m">%1$d min</string>
 </resources>

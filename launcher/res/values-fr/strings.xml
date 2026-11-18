@@ -596,4 +596,21 @@
     <string name="wind_light">Léger</string>
     <string name="wind_strong">Fort</string>
     <string name="wind_storm">Tempête</string>
+    <string name="set_title_info">Infos du film</string>
+    <string name="help_title_info">Durée et genres à côté de l\'année, sous le titre.</string>
+    <string name="set_title_rating">Note</string>
+    <string name="help_title_rating">Note des utilisateurs de TMDB : une étoile et la note sur 10, ou un anneau coloré en pourcentage.</string>
+    <string name="rating_none">Aucune</string>
+    <string name="rating_stars">★ 8,4</string>
+    <string name="rating_percent" formatted="true">Anneau 84 %</string>
+    <string name="set_title_summary">Texte sous le titre</string>
+    <string name="help_title_summary">L\'accroche du film, son résumé sur trois lignes, ou le résumé complet, qui défile lentement.</string>
+    <string name="summary_none">Aucun</string>
+    <string name="summary_tagline">Accroche</string>
+    <string name="summary_short">Résumé court</string>
+    <string name="summary_full">Résumé complet</string>
+    <string name="set_title_text_size">Taille du texte</string>
+    <string name="help_title_text_size">Taille des infos et du résumé sous le titre.</string>
+    <string name="runtime_hm">%1$d h %2$02d</string>
+    <string name="runtime_m">%1$d min</string>
 </resources>
