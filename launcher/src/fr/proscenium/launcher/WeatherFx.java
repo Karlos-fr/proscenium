@@ -256,6 +256,23 @@ final class WeatherFx extends View {
             smallToScreen.postConcat(toScreen);
             smallShader.setLocalMatrix(smallToScreen);
             gpu.setImage(smallShader);
+            // Les gouttes sont sur la vitre, le brouillard et les voiles dehors : elles les montrent aussi
+            float hr = 0, hg = 0, hb = 0, ha = 0;
+            float[][] layersVeil = {
+                    {has(RAIN) ? 0.10f * k * st.rainDim.f() : 0, 0x0A / 255f, 0x14 / 255f, 0x20 / 255f},
+                    {has(STORM) ? 0.24f * k * st.stormDim.f() : 0, 0x05 / 255f, 0x08 / 255f, 0x18 / 255f},
+                    {has(SNOW) ? 0.07f * k * st.snowVeil.f() + 0.06f * amount * st.snowVeil.f() : 0, 0.90f, 0.93f, 0.96f},
+                    {has(FOG) ? 0.10f * k * st.fogVeil.f() + Math.min(0.85f, 0.5f * amount * st.fogDensity.f()) : 0,
+                            0.84f, 0.86f, 0.89f}};
+            for (float[] v : layersVeil) {
+                float a = Math.max(0f, Math.min(0.9f, v[0]));
+                hr = hr * (1 - a) + v[1] * a;
+                hg = hg * (1 - a) + v[2] * a;
+                hb = hb * (1 - a) + v[3] * a;
+                ha = ha + a * (1 - ha);
+            }
+            if (ha > 0.001f) gpu.setHaze(hr / ha, hg / ha, hb / ha, ha);
+            else gpu.setHaze(0, 0, 0, 0);
             // Pas de pluie dans l'air : seulement les gouttes sur l'objectif. Brume pour le brouillard,
             // un léger voile sous la neige
             if (has(FOG) || has(SNOW)) {

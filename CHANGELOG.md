@@ -36,7 +36,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   fog veils the picture with banks that drift, swirl and thicken or clear. Rain, lightning, snow and
   fog combine: the real weather turns on the layers it needs (a storm brings rain and lightning,
   drizzle comes with mist, freezing rain with sleet), and Custom lets you tick any mix and choose
-  the wind (real, none, light, strong, gale). It can also be turned off (Android 13 and later for
+  the wind (real, none, light, strong, gale); drops on the screen show the scene through the fog
+  and veils outside. It can also be turned off (Android 13 and later for
   the drops).
 - Weather settings (Settings → Home → Weather → Weather settings): a page per weather with presets
   (drizzle to downpour, four storms from the Platformer lightning studio, light flurries to blizzard,

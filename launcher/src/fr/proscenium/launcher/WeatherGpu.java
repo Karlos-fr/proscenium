@@ -128,6 +128,8 @@ final class WeatherGpu {
             "uniform float4 look;",   // x : neige ; y : opacité ; z : forme ; w : glissement (0 à 1), ou 2 : traînée
             "uniform float blur;",    // mise au point à l'arrivée : 1 flou, 0 net
             "uniform float2 axis;",   // sens de la glisse (sinus, cosinus de l'angle depuis la verticale)
+            // Voile du dehors (brouillard, neige, ciel couvert) : la goutte montre la scène voilée
+            "uniform float4 haze;",
             // Repère de la goutte (axe y dans le sens de la glisse) → écran
             "float2 toScreen(float2 u) { return float2(u.x * axis.y + u.y * axis.x, -u.x * axis.x + u.y * axis.y); }",
 
@@ -138,7 +140,7 @@ final class WeatherGpu {
             "    float rf = length(local);",
             "    if (rf >= 1.0) return half4(0.0);",
             "    float cf = 1.0 - smoothstep(0.45, 1.0, rf);",
-            "    float3 film = float3(image.eval(q - toScreen(local * size * float2(0.35, 0.12))).rgb) * 1.01 + 0.008;",
+            "    float3 film = mix(float3(image.eval(q - toScreen(local * size * float2(0.35, 0.12))).rgb), haze.rgb, haze.a) * 1.01 + 0.008;",
             // Bords de la pellicule : un liseré un peu sombre puis un filet de lumière
             "    float edge = smoothstep(0.35, 0.75, abs(local.x)) * (1.0 - smoothstep(0.75, 1.0, abs(local.x)));",
             "    film *= 1.0 - 0.22 * edge;",
@@ -166,6 +168,7 @@ final class WeatherGpu {
             "           + float3(image.eval(p + float2(0.0, br)).rgb) + float3(image.eval(p - float2(0.0, br)).rgb);",
             "    color /= 5.0;",
             "  }",
+            "  color = mix(color, haze.rgb, haze.a);",
             "  float sharp = 1.0 - 0.85 * blur;",
             "  color = color * 1.06 + 0.035;",
             // Bord sombre, lumière concentrée en bas, reflet du ciel en haut à gauche
@@ -194,6 +197,11 @@ final class WeatherGpu {
     }
 
     /** Prend la photo réduite du fond, placée à l'écran (une fois par image). */
+    /** Voile du dehors (couleur, opacité) que les gouttes doivent montrer, lui aussi. */
+    void setHaze(float r, float g, float b, float a) {
+        drop.setFloatUniform("haze", r, g, b, a);
+    }
+
     void setImage(BitmapShader image) {
         air.setInputShader("image", image);
         drop.setInputShader("image", image);
