@@ -32,9 +32,10 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
 - Living weather (Settings → Home → Weather): when it rains at your town, drops land on the screen as
   on a window (out of focus at first, then sharp, squashed by the impact), slide down in fits and
   starts, pushed sideways by the wind, with sudden gusts that change their direction, and leave a wet
-  trail; storms add lightning that lights the picture, snow falls and its flakes melt on the screen,
-  fog veils the picture with banks that drift, swirl and thicken or clear. Rain, lightning, snow and
-  fog combine: the real weather turns on the layers it needs (a storm brings rain and lightning,
+  trail; storms add lightning that lights the picture, sun rays stream through the bright parts of
+  the picture with a warm halo and dust sparkling in the light (on clear days), snow falls and its
+  flakes melt on the screen, fog veils the picture with banks that drift, swirl and thicken or clear.
+  Sun, rain, lightning, snow and fog combine: the real weather turns on the layers it needs (a storm brings rain and lightning,
   drizzle comes with mist, freezing rain with sleet), and Custom lets you tick any mix and choose
   the wind (real, none, light, strong, gale); drops on the screen show the scene through the fog
   and veils outside. It can also be turned off (Android 13 and later for
@@ -43,6 +44,9 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   (drizzle to downpour, four storms from the Platformer lightning studio, light flurries to blizzard,
   mist to pea-souper) and fine settings, previewed live on the backdrop. Lightning is drawn as
   branching fractal bolts that strike, flicker and light up the picture.
+- Sun page in the weather settings: presets (full sun, golden morning, sunset, woodland, subtle) and
+  settings for the rays, their length, the light threshold, the sun's position, warmth, halo,
+  movement and dust.
 - "Random values" on each weather page, within believable limits.
 - Film details on the title card (cinema mode and screensaver): running time, genres and the TMDB
   rating (a coloured ring in percent by default, or a star with the score) next to the year, and under them the
