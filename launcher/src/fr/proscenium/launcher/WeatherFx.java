@@ -290,7 +290,7 @@ final class WeatherFx extends View {
                 gpu.drawSun(c, w, h, time, st.sunPosition.f(), 0.9f * amount * st.sunRays.f(),
                         Math.max(0.88f, Math.min(0.995f, 0.88f + 0.055f * st.sunLength.f())),
                         Math.max(0.05f, Math.min(0.9f, 0.45f * st.sunThreshold.f())),
-                        Math.min(1f, 0.5f * st.sunWarmth.f()), st.sunGlow.f(), st.sunShimmer.f(), st.sunDust.f(),
+                        Math.min(1f, 0.5f * st.sunWarmth.f()), st.sunGlow.f(), 2f * st.sunShimmer.f(), st.sunDust.f(),
                         st.sunClouds.f() * 0.7f);
             }
             if (lens && (has(RAIN) || has(SNOW))) {
