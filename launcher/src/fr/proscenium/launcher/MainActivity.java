@@ -131,6 +131,10 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         root.addView(shadeBottom, bottomShadeLp);
         shadeTop.setAlpha(0.5f);
         shadeBottom.setAlpha(0.6f);
+        // Météo vivante : devant le film, derrière l'interface
+        weatherFx = new WeatherFx(this, wallImg, wallInner, wallOuter);
+        root.addView(weatherFx, match());
+        applyWeatherFx();
 
         mid = new FrameLayout(this);
         mid.setClipChildren(false);
@@ -192,6 +196,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         ui.post(clockTick);
         ui.post(kenBurns);
         scheduleRotate();
+        weatherFx.start();
         if (System.currentTimeMillis() - weatherAt > WEATHER_EVERY_MS) refreshWeather();
         // Films migrés sans fiche TMDB : on la retrouve en arrière-plan (une seule fois par film)
         Tmdb tmdb = tmdb();
@@ -253,6 +258,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         super.onPause();
         // Rien ne tourne pendant qu'une appli est ouverte
         glassCtl.stop();
+        weatherFx.stop();
         ui.removeCallbacks(statsTick);
         ui.removeCallbacks(clockTick);
         ui.removeCallbacks(kenBurns);
@@ -343,6 +349,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
             if (frame != null) animateAccent(themeColor(frame));
         } else if (item == s.kenBurns || item == s.kbAmplitude || item == s.economy) {
             if (item == s.economy) {
+                applyWeatherFx();
                 glassCtl.setAnimationsAllowed(!s.economy.value);
                 weatherIcon.setAnimated(s.weatherAnimOn());
                 glow.setAnimated(s.glowAnimOn());
@@ -392,6 +399,8 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
             glow.setAnimated(s.glowAnimOn());
         } else if (item == s.glowAnimAmount || item == s.glowAnimSpeed) {
             glow.setLiveness(s.glowAnimAmount.f(), s.glowAnimSpeed.f());
+        } else if (item == s.weatherFx || item == s.weatherFxAmount || item == s.weatherLens) {
+            applyWeatherFx();
         } else if (item == s.weatherAnim) {
             weatherIcon.setAnimated(s.weatherAnimOn());
         }

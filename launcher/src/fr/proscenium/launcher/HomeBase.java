@@ -122,6 +122,9 @@ abstract class HomeBase extends Activity {
     int accent = GlassView.accent;
     ValueAnimator accentAnim;
     long weatherAt;
+    /** Météo vivante devant le fond, et la dernière météo reçue (null tant qu'il n'y en a pas). */
+    WeatherFx weatherFx;
+    Weather.Now lastWeather;
     boolean focusedOnce, idle, swallowKeyUp, longPressed, cleanedUp;
 
     float kenBurnsT = 0.5f, kenBurnsAmount = 1f;

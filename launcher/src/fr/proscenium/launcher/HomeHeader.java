@@ -214,6 +214,36 @@ abstract class HomeHeader extends HomeBackdrop {
         }
     };
 
+    /** Météo sur le fond : réelle (dernier relevé), coupée (réglage, mode économie) ou imposée. */
+    void applyWeatherFx() {
+        if (weatherFx == null) return;
+        Settings s = settings;
+        int kind = WeatherFx.NONE;
+        float amount = 0.85f;
+        if (!s.economy.value) {
+            switch (s.weatherFx.index) {
+                case Settings.FX_REAL:
+                    if (lastWeather != null) {
+                        kind = WeatherFx.kindOf(lastWeather.code);
+                        amount = WeatherFx.amountOf(lastWeather.code);
+                    }
+                    break;
+                case Settings.FX_RAIN: kind = WeatherFx.RAIN; break;
+                case Settings.FX_STORM: kind = WeatherFx.STORM; amount = 1f; break;
+                case Settings.FX_SNOW: kind = WeatherFx.SNOW; break;
+                case Settings.FX_FOG: kind = WeatherFx.FOG; break;
+                default: break;
+            }
+        }
+        // Vent : en mph avec les °F, ramené à des km/h
+        float tilt = -0.1f;
+        if (lastWeather != null) {
+            int wind = s.tempUnit.index == Settings.UNIT_F ? Math.round(lastWeather.wind * 1.609f) : lastWeather.wind;
+            tilt = WeatherFx.tiltOf(wind, lastWeather.windFrom);
+        }
+        weatherFx.set(kind, amount * s.weatherFxAmount.f(), tilt, s.weatherLens.value);
+    }
+
     void refreshWeather() {
         weatherAt = System.currentTimeMillis();
         String coords = settings.weatherCoords.value;
@@ -222,6 +252,8 @@ abstract class HomeHeader extends HomeBackdrop {
             try {
                 Weather.Now w = Weather.fetch(coords, fahrenheit);
                 ui.post(() -> {
+                    lastWeather = w;
+                    applyWeatherFx();
                     weatherIcon.setKind(w.icon());
                     tempText.setText(w.temp + (fahrenheit ? "°F" : "°C"));
                     windText.setText(w.wind + (fahrenheit ? " mph" : " km/h"));

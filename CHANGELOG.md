@@ -27,6 +27,10 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
 - Screensaver option (Settings → Cinema mode): offer Proscenium as Android's screensaver or not, and
   a shortcut to Android's screensaver settings (ambient mode on Google TV, where a third-party
   screensaver is chosen once with adb, see the README).
+- Living weather (Settings → Home → Weather): when it rains at your town, drops land on the screen as
+  on a window, slide down in fits and starts and leave a wet trail; storms add lightning that lights
+  the picture, snow falls and its flakes melt on the screen, fog drifts slowly. It can follow the real
+  weather, always show the same weather, or be turned off (Android 13 and later for the drops).
 - TMDB logo next to the TMDB notice (Films (TMDB) tab and System → About), as TMDB's terms ask.
 - README: demo video, screenshots and a short FAQ (Fire TV, Home button, TMDB key, data use).
 - Obtainium support (the GitHub releases page is the source) and store metadata for IzzyOnDroid.

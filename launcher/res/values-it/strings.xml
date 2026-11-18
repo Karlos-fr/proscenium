@@ -498,4 +498,15 @@
     <string name="act_dream_settings">Salvaschermo di Android</string>
     <string name="help_dream_settings">Apre le impostazioni del salvaschermo di Android. Google TV vi propone solo i propri: Proscenium si sceglie una volta da un computer (vedi il README).</string>
     <string name="dream_none">Nessuno</string>
+    <string name="set_weather_fx">Meteo sullo sfondo</string>
+    <string name="help_weather_fx">Pioggia, temporale, neve o nebbia passano davanti al film, secondo il meteo reale della tua città o sempre lo stesso.</string>
+    <string name="fx_real">Meteo reale</string>
+    <string name="fx_rain">Pioggia</string>
+    <string name="fx_storm">Temporale</string>
+    <string name="fx_snow">Neve</string>
+    <string name="fx_fog">Nebbia</string>
+    <string name="set_weather_fx_amount">Intensità del meteo</string>
+    <string name="help_weather_fx_amount">Più o meno gocce, fiocchi e foschia.</string>
+    <string name="set_weather_lens">Gocce sullo schermo</string>
+    <string name="help_weather_lens">Come sull\'obiettivo di una cinepresa: le gocce si posano, scivolano e si asciugano, i fiocchi si sciolgono (Android 13 e successivi).</string>
 </resources>

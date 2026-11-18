@@ -270,6 +270,14 @@ final class Settings {
     /** Icône météo animée (soleil qui tourne, pluie qui tombe…), coupée en mode économie. */
     final Flag showWind = new Flag("show_wind", R.string.set_show_wind, R.string.help_show_wind, true);
     final Flag weatherAnim = new Flag("weather_anim", R.string.set_weather_anim, R.string.help_weather_anim, true);
+    /** Météo vivante sur le fond (WeatherFx) : réelle, coupée, ou toujours la même. */
+    static final int FX_REAL = 0, FX_OFF = 1, FX_RAIN = 2, FX_STORM = 3, FX_SNOW = 4, FX_FOG = 5;
+    final Choice weatherFx = (Choice) new Choice("weather_fx", R.string.set_weather_fx, R.string.help_weather_fx, FX_REAL,
+            Format.LABELS, seq(6), R.string.fx_real, R.string.val_off, R.string.fx_rain, R.string.fx_storm,
+            R.string.fx_snow, R.string.fx_fog).badge(R.string.badge_cpu);
+    final Num weatherFxAmount = new Num("weather_fx_amount", R.string.set_weather_fx_amount,
+            R.string.help_weather_fx_amount, 100, 30, 200, 10, Format.PERCENT);
+    final Flag weatherLens = new Flag("weather_lens", R.string.set_weather_lens, R.string.help_weather_lens, true);
     final Num headerScale = new Num("header_scale", R.string.set_header_scale, R.string.help_header_scale,
             75, 50, 120, 5, Format.PERCENT);
 
@@ -315,7 +323,7 @@ final class Settings {
                 dockApps, inputShortcuts, bandMode, slimBand, visibleApps, tileSize, tileSpacing, centerZoom, tilt, shine, neighborDim, glowMode,
                 glowPower, glowAnim, glowAnimAmount, glowAnimSpeed, scrollSpeed,
                 scrollParallax, loop, glassEngine, rimWidth,
-                weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, headerScale,
+                weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, weatherFx, weatherFxAmount, weatherLens, headerScale,
                 language, economy, updateCheck, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
         for (Item i : items) all.add(i);
     }

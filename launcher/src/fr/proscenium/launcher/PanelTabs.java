@@ -273,7 +273,7 @@ abstract class PanelTabs extends PanelCore {
                 this::askCity).badgeOf(R.string.badge_internet));
         r.add(s.weatherCity);
         r.add(s.weatherCoords);
-        add(r, choice(s.tempUnit));
+        add(r, choice(s.tempUnit), choice(s.weatherFx), num(s.weatherFxAmount), flag(s.weatherLens));
         section(R.string.sec_time);
         add(r, choice(s.timeFormat), num(s.clockSize), num(s.dateSize));
         section(R.string.sec_header);

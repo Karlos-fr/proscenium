@@ -499,4 +499,15 @@
     <string name="act_dream_settings">Androids skärmsläckare</string>
     <string name="help_dream_settings">Öppnar Androids inställningar för skärmsläckare. Google TV erbjuder bara sina egna där: Proscenium väljs en gång från en dator (se README).</string>
     <string name="dream_none">Ingen</string>
+    <string name="set_weather_fx">Väder på bakgrunden</string>
+    <string name="help_weather_fx">Regn, åska, snö eller dimma drar förbi framför filmen, efter det verkliga vädret i din stad eller alltid samma.</string>
+    <string name="fx_real">Verkligt väder</string>
+    <string name="fx_rain">Regn</string>
+    <string name="fx_storm">Åska</string>
+    <string name="fx_snow">Snö</string>
+    <string name="fx_fog">Dimma</string>
+    <string name="set_weather_fx_amount">Väderintensitet</string>
+    <string name="help_weather_fx_amount">Fler eller färre droppar, flingor och dis.</string>
+    <string name="set_weather_lens">Droppar på skärmen</string>
+    <string name="help_weather_lens">Som på en kameralins: droppar landar, rinner ner och torkar, flingor smälter (Android 13 och senare).</string>
 </resources>

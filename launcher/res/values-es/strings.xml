@@ -498,4 +498,15 @@
     <string name="act_dream_settings">Salvapantallas de Android</string>
     <string name="help_dream_settings">Abre los ajustes del salvapantallas de Android. Google TV solo ofrece los suyos: Proscenium se elige una vez desde un ordenador (ver el README).</string>
     <string name="dream_none">Ninguno</string>
+    <string name="set_weather_fx">Tiempo en el fondo</string>
+    <string name="help_weather_fx">Lluvia, tormenta, nieve o niebla pasan delante de la película, según el tiempo real de tu ciudad o siempre el mismo.</string>
+    <string name="fx_real">Tiempo real</string>
+    <string name="fx_rain">Lluvia</string>
+    <string name="fx_storm">Tormenta</string>
+    <string name="fx_snow">Nieve</string>
+    <string name="fx_fog">Niebla</string>
+    <string name="set_weather_fx_amount">Intensidad del tiempo</string>
+    <string name="help_weather_fx_amount">Más o menos gotas, copos y bruma.</string>
+    <string name="set_weather_lens">Gotas en la pantalla</string>
+    <string name="help_weather_lens">Como en el objetivo de una cámara: las gotas caen, resbalan y se secan, los copos se derriten (Android 13 o posterior).</string>
 </resources>

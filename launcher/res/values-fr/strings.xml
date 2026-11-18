@@ -498,4 +498,15 @@
     <string name="act_dream_settings">Économiseur d\'Android</string>
     <string name="help_dream_settings">Ouvre les réglages de l\'économiseur d\'écran d\'Android. Google TV n\'y propose que les siens : choisir Proscenium se fait une fois depuis un ordinateur (voir le README).</string>
     <string name="dream_none">Aucun</string>
+    <string name="set_weather_fx">Météo sur le fond</string>
+    <string name="help_weather_fx">Pluie, orage, neige ou brouillard passent devant le film, selon la météo réelle de votre ville ou toujours le même temps.</string>
+    <string name="fx_real">Météo réelle</string>
+    <string name="fx_rain">Pluie</string>
+    <string name="fx_storm">Orage</string>
+    <string name="fx_snow">Neige</string>
+    <string name="fx_fog">Brouillard</string>
+    <string name="set_weather_fx_amount">Intensité de la météo</string>
+    <string name="help_weather_fx_amount">Plus ou moins de gouttes, de flocons et de brume.</string>
+    <string name="set_weather_lens">Gouttes sur l\'écran</string>
+    <string name="help_weather_lens">Comme sur l\'objectif d\'une caméra : des gouttes se posent, glissent et sèchent, les flocons fondent (Android 13 et plus).</string>
 </resources>

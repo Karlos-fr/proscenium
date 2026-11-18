@@ -498,4 +498,15 @@
     <string name="act_dream_settings">Android screensaver</string>
     <string name="help_dream_settings">Opens Android\'s screensaver settings. Google TV only offers its own screensavers there: choosing Proscenium is done once from a computer (see the README).</string>
     <string name="dream_none">None</string>
+    <string name="set_weather_fx">Weather on the backdrop</string>
+    <string name="help_weather_fx">Rain, storms, snow or fog pass in front of the film, following the real weather of your town or always the same.</string>
+    <string name="fx_real">Real weather</string>
+    <string name="fx_rain">Rain</string>
+    <string name="fx_storm">Storm</string>
+    <string name="fx_snow">Snow</string>
+    <string name="fx_fog">Fog</string>
+    <string name="set_weather_fx_amount">Weather intensity</string>
+    <string name="help_weather_fx_amount">More or fewer drops, flakes and mist.</string>
+    <string name="set_weather_lens">Drops on the screen</string>
+    <string name="help_weather_lens">As on a camera lens: drops land, slide down and dry, flakes melt (Android 13 and later).</string>
 </resources>

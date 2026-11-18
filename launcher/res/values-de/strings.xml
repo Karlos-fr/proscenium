@@ -498,4 +498,15 @@
     <string name="act_dream_settings">Android-Bildschirmschoner</string>
     <string name="help_dream_settings">Öffnet die Bildschirmschoner-Einstellungen von Android. Google TV bietet dort nur seine eigenen an: Proscenium wird einmalig über einen Computer ausgewählt (siehe README).</string>
     <string name="dream_none">Keiner</string>
+    <string name="set_weather_fx">Wetter auf dem Hintergrund</string>
+    <string name="help_weather_fx">Regen, Gewitter, Schnee oder Nebel ziehen vor dem Film vorbei, nach dem echten Wetter Ihrer Stadt oder immer gleich.</string>
+    <string name="fx_real">Echtes Wetter</string>
+    <string name="fx_rain">Regen</string>
+    <string name="fx_storm">Gewitter</string>
+    <string name="fx_snow">Schnee</string>
+    <string name="fx_fog">Nebel</string>
+    <string name="set_weather_fx_amount">Wetterintensität</string>
+    <string name="help_weather_fx_amount">Mehr oder weniger Tropfen, Flocken und Dunst.</string>
+    <string name="set_weather_lens">Tropfen auf dem Bildschirm</string>
+    <string name="help_weather_lens">Wie auf einem Kameraobjektiv: Tropfen landen, rinnen herab und trocknen, Flocken schmelzen (ab Android 13).</string>
 </resources>
