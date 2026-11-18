@@ -445,7 +445,7 @@
     <string name="act_clear_cache">Clear the cache</string>
     <string name="help_clear_cache">Deletes thumbnails and saved searches. Press OK twice.</string>
     <string name="tmdb_notice">This product uses the TMDB API but is not endorsed or certified by TMDB.</string>
-    <string name="sec_packs">Background packs</string>
+    <string name="sec_packs">BACKGROUND PACKS</string>
     <string name="act_browse_packs">Browse packs</string>
     <string name="help_browse_packs">Ready-made themed playlists. Images are downloaded straight from TMDB, no API key needed.</string>
     <string name="packs_title">Background packs</string>

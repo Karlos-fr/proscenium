@@ -25,6 +25,18 @@ that takes over when the remote is put down.
 It runs on Android TV / Google TV televisions and boxes (Android 7.1 or later) and is driven
 entirely with the remote.
 
+<p align="center">
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="images/video-thumbnail.jpg" alt="Demo video (55 s)" width="760" /></a>
+  <br /><sub>▶ Demo video (55 s)</sub>
+</p>
+
+<p align="center">
+  <img src="images/screenshots/home.jpg" alt="" width="250" />
+  <img src="images/screenshots/cinema.jpg" alt="" width="250" />
+  <img src="images/screenshots/settings.jpg" alt="" width="250" />
+  <br /><sub>Home screen · Cinema mode · Settings and refractive glass</sub>
+</p>
+
 ## Installation
 
 1. Download `Proscenium.apk` from the [Releases](https://github.com/Karlos-fr/proscenium/releases)
@@ -135,7 +147,28 @@ page that opens: the TV checks it and saves it.
 - **Economy mode**: turns off the most demanding effects at once, for small boxes.
 - **Backup and restore** of all settings.
 
+## FAQ
+
+**Does it work on Fire TV?** Probably as an app, but not as the home screen: Amazon prevents
+replacing its home screen, so the remote's Home button always brings back Amazon's. It has not been
+tested. The newest Fire TV models running Vega OS cannot install Android apps at all.
+
+**Why does the Home button still open Google's home screen?** On Google TV, the Home button is
+handled by Google. Turn on the service made for this (**Settings → System → Home button service**,
+then Proscenium in Android's accessibility page): the Home button then opens Proscenium.
+
+**Why a TMDB key?** It is only needed to search for films yourself. Packs, Bing's photos and the
+weather work without it. TMDB gives keys for free to personal projects, and each user has their
+own: Proscenium does not share one key between everyone.
+
+**How much data does it use?** Each film takes about 0.5 MB (a backdrop of about 400 KB and its
+logo), downloaded once and then kept on the TV: about 20 MB for a pack of 40 films. After that,
+only new films, Bing's photo of the day (if chosen), the weather (a few KB) and a daily update check
+use the network.
+
 ## Credits
+
+<img src="images/tmdb-logo.svg" alt="TMDB" width="160" />
 
 - Films, backdrops and logos: [The Movie Database (TMDB)](https://www.themoviedb.org). This product
   uses the TMDB API but is not endorsed or certified by TMDB. The pictures remain the property of

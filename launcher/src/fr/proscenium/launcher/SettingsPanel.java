@@ -554,6 +554,7 @@ final class SettingsPanel extends PanelTabs {
         }));
         statusRow();
         section(R.string.sec_about);
+        tmdbLogo();
         note(ctx.getString(R.string.tmdb_notice));
     }
 }

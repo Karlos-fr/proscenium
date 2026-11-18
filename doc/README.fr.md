@@ -25,6 +25,18 @@ la météo, et un mode cinéma qui prend le relais quand la télécommande reste
 Il fonctionne sur les TV et boîtiers Android TV / Google TV (Android 7.1 ou plus récent) et se pilote
 entièrement à la télécommande.
 
+<p align="center">
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Vidéo de démonstration (55 s)" width="760" /></a>
+  <br /><sub>▶ Vidéo de démonstration (55 s)</sub>
+</p>
+
+<p align="center">
+  <img src="../images/screenshots/home.jpg" alt="" width="250" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
+  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
+  <br /><sub>Accueil · Mode cinéma · Réglages et verre réfractant</sub>
+</p>
+
 ## Installation
 
 1. Téléchargez `Proscenium.apk` sur la page [Releases](https://github.com/Karlos-fr/proscenium/releases)
@@ -140,7 +152,28 @@ collez la clé dans la page qui s'ouvre : la TV la vérifie et l'enregistre.
 - **Mode économie** : coupe d'un coup les effets les plus gourmands, pour les petits boîtiers.
 - **Sauvegarde et restauration** de tous les réglages.
 
+## FAQ
+
+**Ça marche sur Fire TV ?** Probablement comme une appli, mais pas comme écran d'accueil : Amazon
+empêche de remplacer le sien, donc le bouton Accueil ramène toujours l'accueil d'Amazon. Ce n'est pas
+testé. Les Fire TV les plus récents, sous Vega OS, ne peuvent pas du tout installer d'applis Android.
+
+**Pourquoi le bouton Accueil ouvre-t-il encore l'accueil Google ?** Sur Google TV, ce bouton est géré
+par Google. Activez le service prévu pour ça (**Réglages → Système → Service du bouton Accueil**,
+puis Proscenium dans la page d'accessibilité d'Android) : le bouton Accueil ouvre alors Proscenium.
+
+**Pourquoi une clé TMDB ?** Elle ne sert qu'à chercher des films vous-même. Les packs, les photos
+Bing et la météo s'en passent. TMDB donne gratuitement des clés aux projets personnels, et chaque
+utilisateur a la sienne : Proscenium ne partage pas une même clé entre tout le monde.
+
+**Combien de données ça consomme ?** Environ 0,5 Mo par film (un fond d'environ 400 Ko et son logo),
+téléchargés une seule fois puis gardés sur la TV : environ 20 Mo pour un pack de 40 films. Ensuite,
+seuls les nouveaux films, la photo Bing du jour (si vous l'avez choisie), la météo (quelques Ko) et
+une vérification quotidienne des mises à jour passent par le réseau.
+
 ## Crédits
+
+<img src="../images/tmdb-logo.svg" alt="TMDB" width="160" />
 
 - Films, fonds et logos : [The Movie Database (TMDB)](https://www.themoviedb.org). Ce produit utilise
   l'API TMDB mais n'est ni approuvé ni certifié par TMDB. Les images restent la propriété de leurs

@@ -445,7 +445,7 @@
     <string name="act_clear_cache">Svuota la cache</string>
     <string name="help_clear_cache">Elimina le miniature e le ricerche salvate. Premi OK due volte.</string>
     <string name="tmdb_notice">Questo prodotto usa l\'API di TMDB ma non è approvato né certificato da TMDB.</string>
-    <string name="sec_packs">Pacchetti di sfondi</string>
+    <string name="sec_packs">PACCHETTI DI SFONDI</string>
     <string name="act_browse_packs">Sfoglia i pacchetti</string>
     <string name="help_browse_packs">Playlist a tema già pronte. Le immagini vengono scaricate direttamente da TMDB, senza chiave API.</string>
     <string name="packs_title">Pacchetti di sfondi</string>

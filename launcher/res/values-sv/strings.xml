@@ -446,7 +446,7 @@
     <string name="act_clear_cache">Rensa cachen</string>
     <string name="help_clear_cache">Tar bort miniatyrer och sparade sökningar. Tryck på OK två gånger.</string>
     <string name="tmdb_notice">Den här produkten använder TMDB:s API men är inte godkänd eller certifierad av TMDB.</string>
-    <string name="sec_packs">Bakgrundspaket</string>
+    <string name="sec_packs">BAKGRUNDSPAKET</string>
     <string name="act_browse_packs">Bläddra bland paket</string>
     <string name="help_browse_packs">Färdiga temaspellistor. Bilderna hämtas direkt från TMDB, utan API-nyckel.</string>
     <string name="packs_title">Bakgrundspaket</string>

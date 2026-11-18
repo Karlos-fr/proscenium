@@ -445,7 +445,7 @@
     <string name="act_clear_cache">Vider le cache</string>
     <string name="help_clear_cache">Supprime les miniatures et les recherches gardées. OK deux fois.</string>
     <string name="tmdb_notice">Ce produit utilise l\'API TMDB mais n\'est ni approuvé ni certifié par TMDB.</string>
-    <string name="sec_packs">Packs de fonds</string>
+    <string name="sec_packs">PACKS DE FONDS</string>
     <string name="act_browse_packs">Parcourir les packs</string>
     <string name="help_browse_packs">Des playlists thématiques toutes prêtes. Les images sont téléchargées directement depuis TMDB, sans clé d\'API.</string>
     <string name="packs_title">Packs de fonds</string>

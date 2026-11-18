@@ -445,7 +445,7 @@
     <string name="act_clear_cache">Cache leeren</string>
     <string name="help_clear_cache">Löscht Vorschaubilder und gespeicherte Suchen. Zweimal OK drücken.</string>
     <string name="tmdb_notice">Dieses Produkt verwendet die TMDB-API, wird aber von TMDB weder unterstützt noch zertifiziert.</string>
-    <string name="sec_packs">Hintergrundpakete</string>
+    <string name="sec_packs">HINTERGRUNDPAKETE</string>
     <string name="act_browse_packs">Pakete durchsuchen</string>
     <string name="help_browse_packs">Fertige Themen-Playlists. Die Bilder werden direkt von TMDB geladen, ohne API-Schlüssel.</string>
     <string name="packs_title">Hintergrundpakete</string>

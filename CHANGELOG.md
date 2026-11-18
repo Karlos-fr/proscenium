@@ -27,6 +27,8 @@ Download: [Proscenium 1.1](https://github.com/Karlos-fr/proscenium/releases/tag/
 - Screensaver option (Settings → Cinema mode): offer Proscenium as Android's screensaver or not, and
   a shortcut to Android's screensaver settings (ambient mode on Google TV, where a third-party
   screensaver is chosen once with adb, see the README).
+- TMDB logo next to the TMDB notice (Films (TMDB) tab and System → About), as TMDB's terms ask.
+- README: demo video, screenshots and a short FAQ (Fire TV, Home button, TMDB key, data use).
 - Obtainium support (the GitHub releases page is the source) and store metadata for IzzyOnDroid.
 - MIT licence.
 

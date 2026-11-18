@@ -25,6 +25,18 @@ meteo e una modalità cinema che subentra quando il telecomando resta fermo.
 Funziona su TV e box Android TV / Google TV (Android 7.1 o successivo) e si controlla interamente con
 il telecomando.
 
+<p align="center">
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Video dimostrativo (55 s)" width="760" /></a>
+  <br /><sub>▶ Video dimostrativo (55 s)</sub>
+</p>
+
+<p align="center">
+  <img src="../images/screenshots/home.jpg" alt="" width="250" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
+  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
+  <br /><sub>Home · Modalità cinema · Impostazioni e vetro</sub>
+</p>
+
 ## Installazione
 
 1. Scarica `Proscenium.apk` dalla pagina [Releases](https://github.com/Karlos-fr/proscenium/releases)
@@ -137,7 +149,28 @@ incolla la chiave nella pagina che si apre: la TV la verifica e la salva.
 - **Modalità risparmio**: disattiva in un colpo solo gli effetti più pesanti, per i box più piccoli.
 - **Backup e ripristino** di tutte le impostazioni.
 
+## FAQ
+
+**Funziona su Fire TV?** Probabilmente come app, ma non come schermata Home: Amazon impedisce di
+sostituire la sua, quindi il tasto Home riporta sempre a quella di Amazon. Non è stato testato. I Fire
+TV più recenti con Vega OS non possono installare app Android.
+
+**Perché il tasto Home apre ancora la Home di Google?** Su Google TV questo tasto è gestito da Google.
+Attiva il servizio previsto (**Impostazioni → Sistema → Servizio tasto Home**, poi Proscenium
+nella pagina di accessibilità di Android): il tasto Home aprirà Proscenium.
+
+**Perché una chiave TMDB?** Serve solo per cercare film da soli. Pacchetti, foto Bing e meteo
+funzionano senza. TMDB dà chiavi gratuite ai progetti personali e ogni utente ha la sua: Proscenium
+non condivide un'unica chiave tra tutti.
+
+**Quanti dati consuma?** Circa 0,5 MB per film (uno sfondo di circa 400 KB e il suo logo), scaricati
+una sola volta e poi conservati sul televisore: circa 20 MB per un pacchetto di 40 film. Dopo, usano
+la rete solo i nuovi film, la foto Bing del giorno (se scelta), il meteo (pochi KB) e un controllo
+quotidiano degli aggiornamenti.
+
 ## Crediti
+
+<img src="../images/tmdb-logo.svg" alt="TMDB" width="160" />
 
 - Film, sfondi e loghi: [The Movie Database (TMDB)](https://www.themoviedb.org). Questo prodotto
   utilizza l'API TMDB ma non è approvato né certificato da TMDB. Le immagini restano di proprietà dei

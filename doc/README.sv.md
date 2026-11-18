@@ -25,6 +25,18 @@ fjärrkontrollen får ligga still.
 Det fungerar på Android TV- och Google TV-apparater och -boxar (Android 7.1 eller senare) och styrs
 helt med fjärrkontrollen.
 
+<p align="center">
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Demovideo (55 s)" width="760" /></a>
+  <br /><sub>▶ Demovideo (55 s)</sub>
+</p>
+
+<p align="center">
+  <img src="../images/screenshots/home.jpg" alt="" width="250" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
+  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
+  <br /><sub>Startskärm · Biografläge · Inställningar och glas</sub>
+</p>
+
 ## Installation
 
 1. Ladda ner `Proscenium.apk` från sidan [Releases](https://github.com/Karlos-fr/proscenium/releases)
@@ -99,7 +111,7 @@ under Skärmsläckare.
 
 På Google TV visar Android bara Googles egna skärmsläckare. Välj Proscenium en gång från en
 dator, med [adb](https://developer.android.com/tools/adb) anslutet till tv:n:
-`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Inställningar → Biografläge → Skärmsläckare** slår på eller av den.
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Inställningar → Bioläge → Skärmsläckare** slår på eller av den.
 
 ## Dina bakgrunder: spellistor och paket
 
@@ -141,7 +153,28 @@ och klistra in nyckeln på sidan som öppnas: TV:n kontrollerar den och sparar d
 - **Sparläge**: stänger av de mest krävande effekterna med ett enda klick, för små boxar.
 - **Säkerhetskopiering och återställning** av alla inställningar.
 
+## Vanliga frågor
+
+**Fungerar det på Fire TV?** Troligen som app, men inte som startskärm: Amazon hindrar att deras
+startskärm ersätts, så hemknappen leder alltid tillbaka till Amazon. Det är inte testat. De nyaste
+Fire TV-modellerna med Vega OS kan inte installera Android-appar alls.
+
+**Varför öppnar hemknappen fortfarande Googles startskärm?** På Google TV hanteras knappen av Google.
+Slå på tjänsten som finns för detta (**Inställningar → System → Hem-knappstjänst**, sedan Proscenium på
+Androids tillgänglighetssida): då öppnar hemknappen Proscenium.
+
+**Varför en TMDB-nyckel?** Den behövs bara för att söka filmer själv. Paket, Bing-foton och vädret
+fungerar utan. TMDB ger gratis nycklar till personliga projekt och varje användare har sin egen:
+Proscenium delar inte en gemensam nyckel.
+
+**Hur mycket data används?** Ungefär 0,5 MB per film (en bakgrund på cirka 400 KB och dess logotyp),
+nedladdade en gång och sedan sparade på tv:n: cirka 20 MB för ett paket med 40 filmer. Därefter
+använder bara nya filmer, dagens Bing-foto (om du valt det), vädret (några KB) och en daglig
+uppdateringskontroll nätet.
+
 ## Tack till
+
+<img src="../images/tmdb-logo.svg" alt="TMDB" width="160" />
 
 - Filmer, bakgrunder och logotyper: [The Movie Database (TMDB)](https://www.themoviedb.org). Den här
   produkten använder TMDB:s API men är varken godkänd eller certifierad av TMDB. Bilderna tillhör

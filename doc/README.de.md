@@ -25,6 +25,18 @@ Kinomodus, der übernimmt, wenn die Fernbedienung eine Weile liegen bleibt.
 Es läuft auf Android-TV- und Google-TV-Fernsehern und -Boxen (Android 7.1 oder neuer) und lässt sich
 komplett mit der Fernbedienung bedienen.
 
+<p align="center">
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Demo-Video (55 s)" width="760" /></a>
+  <br /><sub>▶ Demo-Video (55 s)</sub>
+</p>
+
+<p align="center">
+  <img src="../images/screenshots/home.jpg" alt="" width="250" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
+  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
+  <br /><sub>Startbildschirm · Kinomodus · Einstellungen und Glas</sub>
+</p>
+
 ## Installation
 
 1. Laden Sie `Proscenium.apk` auf der Seite [Releases](https://github.com/Karlos-fr/proscenium/releases)
@@ -146,7 +158,29 @@ ihn und speichert ihn.
 - **Sparmodus**: schaltet mit einem Schlag die rechenintensivsten Effekte ab, für kleine Boxen.
 - **Sicherung und Wiederherstellung** aller Einstellungen.
 
+## FAQ
+
+**Funktioniert es auf Fire TV?** Wahrscheinlich als App, aber nicht als Startbildschirm: Amazon
+verhindert, dass sein Startbildschirm ersetzt wird, die Home-Taste führt also immer zu Amazon zurück.
+Nicht getestet. Die neuesten Fire-TV-Modelle mit Vega OS können überhaupt keine Android-Apps
+installieren.
+
+**Warum öffnet die Home-Taste noch den Google-Startbildschirm?** Auf Google TV steuert Google diese
+Taste. Schalten Sie den dafür vorgesehenen Dienst ein (**Einstellungen → System → Home-Tasten-Dienst**,
+dann Proscenium auf der Bedienungshilfen-Seite von Android): Die Home-Taste öffnet dann Proscenium.
+
+**Warum ein TMDB-Schlüssel?** Er wird nur gebraucht, um selbst nach Filmen zu suchen. Pakete,
+Bing-Fotos und Wetter funktionieren ohne. TMDB vergibt Schlüssel für private Projekte kostenlos, und
+jeder Nutzer hat seinen eigenen: Proscenium teilt keinen gemeinsamen Schlüssel.
+
+**Wie viele Daten verbraucht es?** Etwa 0,5 MB pro Film (ein Hintergrund von etwa 400 KB und sein
+Logo), einmal heruntergeladen und dann auf dem Fernseher gespeichert: etwa 20 MB für ein Paket mit
+40 Filmen. Danach nutzen nur neue Filme, das Bing-Foto des Tages (falls gewählt), das Wetter (wenige
+KB) und eine tägliche Update-Prüfung das Netz.
+
 ## Danksagungen
+
+<img src="../images/tmdb-logo.svg" alt="TMDB" width="160" />
 
 - Filme, Hintergründe und Logos: [The Movie Database (TMDB)](https://www.themoviedb.org). Dieses
   Produkt verwendet die TMDB-API, wird aber von TMDB weder unterstützt noch zertifiziert. Die Bilder

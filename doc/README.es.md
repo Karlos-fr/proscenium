@@ -25,6 +25,18 @@ hora, el tiempo y un modo cine que toma el relevo cuando el mando se queda quiet
 Funciona en TV y cajas Android TV / Google TV (Android 7.1 o más reciente) y se maneja por completo
 con el mando a distancia.
 
+<p align="center">
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Vídeo de demostración (55 s)" width="760" /></a>
+  <br /><sub>▶ Vídeo de demostración (55 s)</sub>
+</p>
+
+<p align="center">
+  <img src="../images/screenshots/home.jpg" alt="" width="250" />
+  <img src="../images/screenshots/cinema.jpg" alt="" width="250" />
+  <img src="../images/screenshots/settings.jpg" alt="" width="250" />
+  <br /><sub>Inicio · Modo cine · Ajustes y cristal</sub>
+</p>
+
 ## Instalación
 
 1. Descarga `Proscenium.apk` en la página [Releases](https://github.com/Karlos-fr/proscenium/releases)
@@ -139,7 +151,28 @@ clave en la página que se abre: la TV la comprueba y la guarda.
 - **Modo ahorro**: desactiva de golpe los efectos más exigentes, para las cajas pequeñas.
 - **Copia de seguridad y restauración** de todos los ajustes.
 
+## Preguntas frecuentes
+
+**¿Funciona en Fire TV?** Probablemente como aplicación, pero no como pantalla de inicio: Amazon
+impide sustituir la suya, así que el botón de inicio siempre vuelve a la de Amazon. No está probado.
+Los Fire TV más recientes con Vega OS no pueden instalar aplicaciones Android.
+
+**¿Por qué el botón de inicio sigue abriendo la pantalla de Google?** En Google TV, ese botón lo
+gestiona Google. Activa el servicio previsto (**Ajustes → Sistema → Servicio del botón Inicio**, y
+luego Proscenium en la página de accesibilidad de Android): el botón de inicio abrirá Proscenium.
+
+**¿Por qué una clave de TMDB?** Solo sirve para buscar películas por tu cuenta. Los packs, las fotos
+de Bing y el tiempo funcionan sin ella. TMDB da claves gratuitas a proyectos personales y cada usuario
+tiene la suya: Proscenium no comparte una misma clave entre todos.
+
+**¿Cuántos datos consume?** Unos 0,5 MB por película (un fondo de unos 400 KB y su logo), descargados
+una sola vez y guardados en el televisor: unos 20 MB para un pack de 40 películas. Después, solo usan
+la red las películas nuevas, la foto de Bing del día (si la eliges), el tiempo (pocos KB) y una
+comprobación diaria de actualizaciones.
+
 ## Créditos
+
+<img src="../images/tmdb-logo.svg" alt="TMDB" width="160" />
 
 - Películas, fondos y logotipos: [The Movie Database (TMDB)](https://www.themoviedb.org). Este
   producto utiliza la API de TMDB pero no está respaldado ni certificado por TMDB. Las imágenes

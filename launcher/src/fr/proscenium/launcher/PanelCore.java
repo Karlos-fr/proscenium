@@ -381,6 +381,17 @@ abstract class PanelCore {
         content.addView(h);
     }
 
+    /** Logo TMDB, exigé par les conditions de l'API à côté de la mention (onglet Films, crédits). */
+    void tmdbLogo() {
+        android.widget.ImageView iv = new android.widget.ImageView(ctx);
+        iv.setImageResource(R.drawable.tmdb_logo);
+        iv.setAdjustViewBounds(true);
+        iv.setContentDescription("TMDB");
+        LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(dp(123), dp(16));
+        lp.setMargins(dp(14), dp(10), dp(14), 0);
+        content.addView(iv, lp);
+    }
+
     /** Ligne de texte simple (message, mention), non sélectionnable. */
     TextView note(String message) {
         TextView t = text(13, 0xB3FFFFFF, false);

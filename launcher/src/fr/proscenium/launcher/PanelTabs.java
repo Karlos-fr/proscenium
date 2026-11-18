@@ -310,6 +310,8 @@ abstract class PanelTabs extends PanelCore {
         content.addView(action(R.string.act_welcome, R.string.help_welcome, () -> "›", this::openWelcome));
         content.addView(action(R.string.set_version, R.string.help_version, host::versionName, null));
         content.addView(action(R.string.set_credits, R.string.help_credits, () -> ctx.getString(R.string.credits_value), null));
+        tmdbLogo();
+        note(ctx.getString(R.string.tmdb_notice));
     }
 
     // ---------------------------------------------------------------- Mises à jour
