@@ -1,0 +1,748 @@
+{
+ "id": "spielberg",
+ "version": 1,
+ "name": {
+  "fr": "Steven Spielberg",
+  "en": "Steven Spielberg",
+  "de": "Steven Spielberg",
+  "it": "Steven Spielberg",
+  "es": "Steven Spielberg",
+  "sv": "Steven Spielberg"
+ },
+ "description": {
+  "fr": "Les films de Steven Spielberg",
+  "en": "The films of Steven Spielberg",
+  "de": "Die Filme von Steven Spielberg",
+  "it": "I film di Steven Spielberg",
+  "es": "Las películas de Steven Spielberg",
+  "sv": "Steven Spielbergs filmer"
+ },
+ "films": [
+  {
+   "id": 5121,
+   "year": "1974",
+   "title": {
+    "fr": "Sugarland Express",
+    "en": "The Sugarland Express",
+    "de": "Sugarland Express",
+    "it": "Sugarland Express",
+    "es": "Loca evasión",
+    "sv": "Sugarland Express"
+   },
+   "backdrops": [
+    "/cssKLoKClpgqaaGD2z3cjXgzPSM.jpg"
+   ],
+   "logo": {
+    "en": "/o98rvbcqm19QsH4aEYEUOGfdi3p.png"
+   }
+  },
+  {
+   "id": 578,
+   "year": "1975",
+   "title": {
+    "fr": "Les Dents de la Mer",
+    "en": "Jaws",
+    "de": "Der weiße Hai",
+    "it": "Lo squalo",
+    "es": "Tiburón",
+    "sv": "Hajen"
+   },
+   "backdrops": [
+    "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg"
+   ],
+   "logo": {
+    "fr": "/chaMdavWwiwgGXaXf7qfPawYzEf.png",
+    "en": "/ldEdyu47fbiVl4vwdYMuPYYp4po.png",
+    "de": "/w1JzVOJcm66WeocdcJrl6bs8pvt.png",
+    "it": "/cUDi5HNKapaVHK0HPd9PGfIupGF.png",
+    "es": "/4Cnu0SvBTJmJvUHBXBmA6jYNOkU.png",
+    "sv": "/2Zqoydhsdvxz0J91NIbx3H4iJds.png"
+   }
+  },
+  {
+   "id": 840,
+   "year": "1977",
+   "title": {
+    "fr": "Rencontres du troisième type",
+    "en": "Close Encounters of the Third Kind",
+    "de": "Unheimliche Begegnung der dritten Art",
+    "it": "Incontri ravvicinati del terzo tipo",
+    "es": "Encuentros en la tercera fase",
+    "sv": "Närkontakt av tredje graden"
+   },
+   "backdrops": [
+    "/yBCekmb7vK70xUhtsRQBcTu65sB.jpg"
+   ],
+   "logo": {
+    "fr": "/lT6VhsandleMEyowI6btthYg8ic.png",
+    "en": "/73m5LNJNmhg7aPqcUvTHBgfCkKT.png",
+    "de": "/kstJc6VOmSKH554nPM0DAsDzgLY.png",
+    "it": "/28X7JZyywB3KgDOMi4tpLkEGgtt.png",
+    "es": "/hnVMgIAOAsJwEmMxF7oOhZWD58U.png",
+    "sv": "/4l2LP9CVXKXlajyKkmVPnt3Aess.png"
+   }
+  },
+  {
+   "id": 11519,
+   "year": "1979",
+   "title": {
+    "fr": "1941",
+    "en": "1941",
+    "de": "1941 - Wo bitte geht's nach Hollywood",
+    "it": "1941 - Allarme a Hollywood",
+    "es": "1941",
+    "sv": "1941 - ursäkta var är Hollywood?"
+   },
+   "backdrops": [
+    "/nxj4DaBe9bvoZWLFpB5wLM8mPaY.jpg"
+   ],
+   "logo": {
+    "en": "/jNNQ2QO6h5t4LT9Pg0lluJGqIvl.png"
+   }
+  },
+  {
+   "id": 85,
+   "year": "1981",
+   "title": {
+    "fr": "Les Aventuriers de l'arche perdue",
+    "en": "Raiders of the Lost Ark",
+    "de": "Jäger des verlorenen Schatzes",
+    "it": "I predatori dell'arca perduta",
+    "es": "En busca del arca perdida",
+    "sv": "Jakten på den försvunna skatten"
+   },
+   "backdrops": [
+    "/zPACwR32amTNvzId9qyapCWXYDJ.jpg"
+   ],
+   "logo": {
+    "fr": "/7xCuK6sEVCupDWwnw7khvC88BC9.png",
+    "en": "/pQwAK7zj1tU8bYdVI47v7bUpv5B.png",
+    "de": "/6UkVejM8Y3AbD3eLHPb7BZWg8iZ.png",
+    "it": "/jIwN17u4X89hE7yYqa5yKYdwR1l.png",
+    "es": "/ql6eKGJhaovo0QnJLnwtebddSGq.png",
+    "sv": "/gbx2Dy5pSuFtSAccTHYh50p52L6.png"
+   }
+  },
+  {
+   "id": 601,
+   "year": "1982",
+   "title": {
+    "fr": "E.T. l'extra-terrestre",
+    "en": "E.T. the Extra-Terrestrial",
+    "de": "E.T. – Der Außerirdische",
+    "it": "E.T. l'extra-terrestre",
+    "es": "E.T., el extraterrestre",
+    "sv": "E.T. the Extra-Terrestrial"
+   },
+   "backdrops": [
+    "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg"
+   ],
+   "logo": {
+    "fr": "/4IUWmiRIvPzTM8LnLRgr4p5Xh65.png",
+    "en": "/cj5vQJiJ9ByXNNeVy3mG5exM1BA.png",
+    "de": "/jZ7JwXj3YMNG6YELeAiKHOUBQYN.png",
+    "it": "/oeeYwbJat46xeWhisVDUxtkbMoD.png",
+    "es": "/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+   }
+  },
+  {
+   "id": 87,
+   "year": "1984",
+   "title": {
+    "fr": "Indiana Jones et le Temple maudit",
+    "en": "Indiana Jones and the Temple of Doom",
+    "de": "Indiana Jones und der Tempel des Todes",
+    "it": "Indiana Jones e il tempio maledetto",
+    "es": "Indiana Jones y el templo maldito",
+    "sv": "Indiana Jones och de fördömdas tempel"
+   },
+   "backdrops": [
+    "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg"
+   ],
+   "logo": {
+    "fr": "/qQHsBo2Jv7dUSiQ8hzIwdyDJe5J.png",
+    "en": "/qrcg92Ps9YATpetzILW60qgolNT.png",
+    "de": "/7A1yPPIK107BiVznZrgfg5pP68k.png",
+    "it": "/fm6WMKkZK4zTIxRj3cm2ncc6voN.png",
+    "es": "/rUqugZkR5R55Z0mVcb3uu3IOYbY.png",
+    "sv": "/oRH9NxOqh7In3tEcVooDyNVs0pp.png"
+   }
+  },
+  {
+   "id": 873,
+   "year": "1985",
+   "title": {
+    "fr": "La Couleur pourpre",
+    "en": "The Color Purple",
+    "de": "Die Farbe Lila",
+    "it": "Il colore viola",
+    "es": "El color púrpura",
+    "sv": "Purpurfärgen"
+   },
+   "backdrops": [
+    "/lh6MbyxwCribn3hdAo81xLdPGoV.jpg"
+   ],
+   "logo": {
+    "fr": "/6tmOCwiBDNbZWCCxw3Sz0WkK6Mt.png",
+    "en": "/mwcTKAMNF6MRHmCxnMdmHw2dm9D.png",
+    "de": "/sKCofC2CP6lPYXpuygXUnsXf3fG.png",
+    "it": "/ySnX43BkibYPXAlRPpXVmAcmF2F.png",
+    "es": "/nTi3emLoMUjMKJaR1DZDrmMU2r5.png"
+   }
+  },
+  {
+   "id": 10110,
+   "year": "1987",
+   "title": {
+    "fr": "Empire du soleil",
+    "en": "Empire of the Sun",
+    "de": "Das Reich der Sonne",
+    "it": "L'impero del sole",
+    "es": "El imperio del sol",
+    "sv": "Solens rike"
+   },
+   "backdrops": [
+    "/oHRRAl7AZ2WDZ22BnkJCtuKQHss.jpg"
+   ],
+   "logo": {
+    "fr": "/fCuAONVnOuRQ9BVG7nkX09msu1p.png",
+    "en": "/5wgOZN37iv1s8s4FInueNlj8SXK.png",
+    "it": "/4Z3mt7ro8eDXXv7wTjVRRpCmPJl.png",
+    "es": "/jdmFbIgwJ9uB7uUOq5IlYBMTrjp.png"
+   }
+  },
+  {
+   "id": 89,
+   "year": "1989",
+   "title": {
+    "fr": "Indiana Jones et la dernière croisade",
+    "en": "Indiana Jones and the Last Crusade",
+    "de": "Indiana Jones und der letzte Kreuzzug",
+    "it": "Indiana Jones e l'ultima crociata",
+    "es": "Indiana Jones y la última cruzada",
+    "sv": "Indiana Jones och det sista korståget"
+   },
+   "backdrops": [
+    "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg"
+   ],
+   "logo": {
+    "fr": "/9fFHjJudBcKyvsGexC9C8Zq3OMn.png",
+    "en": "/AoXnr773qvewCqQ5OnD8sSA1s0l.png",
+    "de": "/eomKJY6enLPViN5WroJN93f6BkE.png",
+    "it": "/rJr0XT6QGZphozXqCLmryfGq8R6.png",
+    "es": "/zSlO3CnCdLq7vZUmRDrk9WRk9Z.png",
+    "sv": "/lvQZxs5Srj8UXMKTT4vziJrQMHs.png"
+   }
+  },
+  {
+   "id": 11352,
+   "year": "1989",
+   "title": {
+    "fr": "Always",
+    "en": "Always",
+    "de": "Always - Der Feuerengel von Montana",
+    "it": "Always - Per sempre",
+    "es": "Always (Para Siempre)",
+    "sv": "Always"
+   },
+   "backdrops": [
+    "/pIb1CLl08DxciZXJr7AK4qmkArA.jpg"
+   ],
+   "logo": {
+    "en": "/b0a3OFDGfuPFrkSwZm8nwSnksZJ.png",
+    "it": "/l6gj72rnoKwhxSRyoLEIAk9uv4b.png",
+    "es": "/e09saJp5anHkiSOp7v9bHN2U1ez.png"
+   }
+  },
+  {
+   "id": 879,
+   "year": "1991",
+   "title": {
+    "fr": "Hook ou la Revanche du capitaine Crochet",
+    "en": "Hook",
+    "de": "Hook",
+    "it": "Hook - Capitan Uncino",
+    "es": "Hook (El capitán Garfio)",
+    "sv": "Hook"
+   },
+   "backdrops": [
+    "/39OxcFZjX4uc6vYzexUh5qXghxE.jpg"
+   ],
+   "logo": {
+    "fr": "/ehR9N1Fkb0P0kgpGBoPU2M55mbX.png",
+    "en": "/hDOd76RiUwHuGe5GDTrYImhDYg6.png",
+    "it": "/8DzHy40KFoVW8drml9yZdo2doS6.png",
+    "es": "/vDVwX9GknQM1aXKQLZzbiyLTJiZ.png"
+   }
+  },
+  {
+   "id": 329,
+   "year": "1993",
+   "title": {
+    "fr": "Jurassic Park",
+    "en": "Jurassic Park",
+    "de": "Jurassic Park",
+    "it": "Jurassic Park",
+    "es": "Jurassic Park (Parque Jurásico)",
+    "sv": "Jurassic Park"
+   },
+   "backdrops": [
+    "/f082quUW2kAtZXFZVGEfhwacZoG.jpg"
+   ],
+   "logo": {
+    "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
+    "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
+    "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
+   }
+  },
+  {
+   "id": 424,
+   "year": "1993",
+   "title": {
+    "fr": "La Liste de Schindler",
+    "en": "Schindler's List",
+    "de": "Schindlers Liste",
+    "it": "Schindler's List",
+    "es": "La lista de Schindler",
+    "sv": "Schindler's List"
+   },
+   "backdrops": [
+    "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
+   ],
+   "logo": {
+    "fr": "/pB0OrouW51LGauEjOY0JegWGPOm.png",
+    "en": "/krEC3MIxUbiZy2uM0TemRio2Z2E.png",
+    "de": "/3dIeH9CDgAE8qfVeWu1NBr73Sv1.png",
+    "es": "/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
+   }
+  },
+  {
+   "id": 330,
+   "year": "1997",
+   "title": {
+    "fr": "Le monde perdu : Jurassic Park",
+    "en": "The Lost World: Jurassic Park",
+    "de": "Vergessene Welt: Jurassic Park",
+    "it": "Il mondo perduto - Jurassic Park",
+    "es": "El mundo perdido: Jurassic Park",
+    "sv": "The Lost World: Jurassic Park"
+   },
+   "backdrops": [
+    "/A4rYaPdzgocCjQ0n9LUSYUxyvpS.jpg"
+   ],
+   "logo": {
+    "fr": "/ryMRxGYQdeb3gf9Exad9sjEr0Mc.png",
+    "en": "/nS98j1pAPCkHxOfgmN6YPHhZ6Hm.png",
+    "de": "/7cEZvIZkYAZdQJzza5BKamQkCZy.png",
+    "it": "/knelNX3dFI5dLh1IbLkck1gC27a.png",
+    "es": "/5QMKyZYsiph25a1iJybP7ANgsGX.png"
+   }
+  },
+  {
+   "id": 11831,
+   "year": "1997",
+   "title": {
+    "fr": "Amistad",
+    "en": "Amistad",
+    "de": "Amistad - Das Sklavenschiff",
+    "it": "Amistad",
+    "es": "Amistad",
+    "sv": "Amistad"
+   },
+   "backdrops": [
+    "/AmTrqk910ot3aYLBGyIG78Xfa18.jpg"
+   ],
+   "logo": {
+    "en": "/qUVrON8uD7mPqkNxq07mxVmb5ki.png",
+    "de": "/mDC76B7RVIgrG0NaPpDaxMzm5wn.png",
+    "it": "/nqq08n9kF0oRy7CvWCsyflmH2xq.png"
+   }
+  },
+  {
+   "id": 857,
+   "year": "1998",
+   "title": {
+    "fr": "Il faut sauver le soldat Ryan",
+    "en": "Saving Private Ryan",
+    "de": "Der Soldat James Ryan",
+    "it": "Salvate il soldato Ryan",
+    "es": "Salvar al soldado Ryan",
+    "sv": "Rädda menige Ryan"
+   },
+   "backdrops": [
+    "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg"
+   ],
+   "logo": {
+    "fr": "/Acfr0s5zTzGSCaKHiEHIvrhunea.png",
+    "en": "/emQLFPKLJJZn7cJZveKcV0jPGaB.png",
+    "de": "/1ezcvF3YceTQafnjmgKdlT8ntgL.png",
+    "it": "/vmCRS2dabKSMjb45eGKv1miokIU.png",
+    "es": "/ykrOjR8kwwQ03QPfHSHkfetw8vu.png",
+    "sv": "/scjVTuPQttcyFbNLpaNDpoVsjDb.png"
+   }
+  },
+  {
+   "id": 644,
+   "year": "2001",
+   "title": {
+    "fr": "A.I. Intelligence artificielle",
+    "en": "A.I. Artificial Intelligence",
+    "de": "A.I. - Künstliche Intelligenz",
+    "it": "A.I. - Intelligenza Artificiale",
+    "es": "A.I. Inteligencia Artificial",
+    "sv": "A.I. Artificiell intelligens"
+   },
+   "backdrops": [
+    "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg"
+   ],
+   "logo": {
+    "fr": "/1yyiWycBNIljCxg6dFSDMS115g2.png",
+    "en": "/xBtDksUd6ez4NQ04RWyaqUWYIwM.png",
+    "de": "/g8sk4qlCteZeTSIH5AGSikI4ojd.png",
+    "it": "/eA9jC4YEPRrOkKw5WRkfwnBzPXa.png",
+    "es": "/kTqe7OKZeuZVAOW69M1CjySw041.png",
+    "sv": "/gEg7P4Uzh8GBgtc4pjHvUmGhN9a.png"
+   }
+  },
+  {
+   "id": 180,
+   "year": "2002",
+   "title": {
+    "fr": "Minority Report",
+    "en": "Minority Report",
+    "de": "Minority Report",
+    "it": "Minority Report",
+    "es": "Minority Report",
+    "sv": "Minority Report"
+   },
+   "backdrops": [
+    "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg"
+   ],
+   "logo": {
+    "fr": "/eo1F4lAmtvaXehuwKSUikH0Md9U.png",
+    "en": "/1nCg8xpWmsPipB93a4ht8ZUYemh.png",
+    "it": "/5w5ACHkwqebpk1g9xrs8F0Lc6CL.png",
+    "es": "/pVXdpAHVg1kTS4nuUxHtkXEDyzx.png"
+   }
+  },
+  {
+   "id": 640,
+   "year": "2002",
+   "title": {
+    "fr": "Arrête-moi si tu peux",
+    "en": "Catch Me If You Can",
+    "de": "Catch Me If You Can",
+    "it": "Prova a prendermi",
+    "es": "Atrápame si puedes",
+    "sv": "Catch Me If You Can"
+   },
+   "backdrops": [
+    "/eS3xZQ1C8lt6mm4K5lTmjbYn2HE.jpg"
+   ],
+   "logo": {
+    "fr": "/aNeWNklGaYdTQntyQfXD2MAcmug.png",
+    "en": "/7Cbekp4ijme78TICVYBsR211GL3.png",
+    "it": "/hQT7gjRGVnr9AiOhCGxpuvzLlZo.png",
+    "es": "/7w3bs2ep4yEWJnjm5Us2NnWQk0a.png"
+   }
+  },
+  {
+   "id": 594,
+   "year": "2004",
+   "title": {
+    "fr": "Le Terminal",
+    "en": "The Terminal",
+    "de": "Terminal",
+    "it": "The Terminal",
+    "es": "La terminal",
+    "sv": "The Terminal"
+   },
+   "backdrops": [
+    "/zywtNiaZ9r7azrcNdl2j0jOgrkw.jpg"
+   ],
+   "logo": {
+    "fr": "/s7Al6SSNZg8WiEyk27OiUHFXjZ9.png",
+    "en": "/q3RB5V8jW1z0kN9qDK7WpKQjhyh.png",
+    "de": "/i5VRP5aTLlz9ar85uWaSZLEzdry.png",
+    "es": "/31LPPI1ZPB6DvC4amKqx3q89sxb.png"
+   }
+  },
+  {
+   "id": 74,
+   "year": "2005",
+   "title": {
+    "fr": "La Guerre des mondes",
+    "en": "War of the Worlds",
+    "de": "Krieg der Welten",
+    "it": "La guerra dei mondi",
+    "es": "La guerra de los mundos",
+    "sv": "Världarnas krig"
+   },
+   "backdrops": [
+    "/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg"
+   ],
+   "logo": {
+    "fr": "/yGYo9WT68dYW9J6hYMzk07wvWVo.png",
+    "en": "/uoc6Y77GtrLNgYzAlZCPkAHrlvI.png",
+    "de": "/7y53lNcQLIqZXLt1fvGwWnyeOBg.png",
+    "it": "/rM3GKjHvQAiaRcTcm30sBAbh4cr.png",
+    "es": "/bzNoJBoQqeBGKEfbzbBo4dZ661J.png",
+    "sv": "/hHFrurD6OvLSR7n5ieH3171UPRZ.png"
+   }
+  },
+  {
+   "id": 612,
+   "year": "2005",
+   "title": {
+    "fr": "Munich",
+    "en": "Munich",
+    "de": "München",
+    "it": "Munich",
+    "es": "Munich",
+    "sv": "München"
+   },
+   "backdrops": [
+    "/titl6uMe5u974sLAA2Zy1kFi4sC.jpg"
+   ],
+   "logo": {
+    "fr": "/821SOxgp3XCmlFhxskSNBmWHJrV.png",
+    "en": "/6Rzuck3vBuxWJINLzSx3ACngQlj.png",
+    "de": "/cwbuaZ1wZVWA7p5PolOcyXNJbTi.png"
+   }
+  },
+  {
+   "id": 217,
+   "year": "2008",
+   "title": {
+    "fr": "Indiana Jones et le royaume du crâne de cristal",
+    "en": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "de": "Indiana Jones und das Königreich des Kristallschädels",
+    "it": "Indiana Jones e il regno del teschio di cristallo",
+    "es": "Indiana Jones y el reino de la calavera de cristal",
+    "sv": "Indiana Jones och kristalldödskallens rike"
+   },
+   "backdrops": [
+    "/p96949hcwUG2BwE6MgKmw0uYNCx.jpg"
+   ],
+   "logo": {
+    "fr": "/9QH29VbMpAVhEjYJbVtE7hVxbam.png",
+    "en": "/uTiuAYkarl6GU8iOgqVnEjd2kb0.png",
+    "de": "/tby2lArMHUC2RNhHg5JpJK70kVP.png",
+    "it": "/niAGcIth4giy1kIh04Xe4H5ZAJm.png",
+    "es": "/cqOjP9jcWl7e73JD69TRDqsvHgp.png",
+    "sv": "/zpHARQ0tFqskXOXKCmGA3yVADUq.png"
+   }
+  },
+  {
+   "id": 17578,
+   "year": "2011",
+   "title": {
+    "fr": "Les Aventures de Tintin : Le Secret de la licorne",
+    "en": "The Adventures of Tintin",
+    "de": "Die Abenteuer von Tim und Struppi - Das Geheimnis der Einhorn",
+    "it": "Le avventure di Tintin - Il segreto dell'Unicorno",
+    "es": "Las aventuras de Tintín: El secreto del unicornio",
+    "sv": "Tintins äventyr: Enhörningens hemlighet"
+   },
+   "backdrops": [
+    "/6mqgl2szMLRYj4lhlXOjju5Tpeo.jpg"
+   ],
+   "logo": {
+    "fr": "/vImXnOJzz6h9G7TuQqwO5gPuS9M.png",
+    "en": "/kZ4CFusx1gy1bomvqIaZOXCTfiz.png",
+    "de": "/oiHpIkopNRv0KELlmP0xbWSGVJT.png",
+    "it": "/t53gHA5kYv47tZsAsRRF5iE1A4v.png",
+    "sv": "/vbXHHRPHMtfmb46GRNly82gyMAJ.png"
+   }
+  },
+  {
+   "id": 57212,
+   "year": "2011",
+   "title": {
+    "fr": "Cheval de guerre",
+    "en": "War Horse",
+    "de": "Gefährten",
+    "it": "War Horse",
+    "es": "War Horse (Caballo de batalla)",
+    "sv": "War Horse"
+   },
+   "backdrops": [
+    "/tcx15vswrQJCGET5lGxESQ4J5LG.jpg"
+   ],
+   "logo": {
+    "fr": "/xE2B8Njb4mhaNSXfk1BtGs2KRsB.png",
+    "en": "/cHVMkHiZFuzECBmDJvPJbRssKoS.png",
+    "de": "/sNZr4mj4r76fdJ3fd7EbNQnxezK.png"
+   }
+  },
+  {
+   "id": 72976,
+   "year": "2012",
+   "title": {
+    "fr": "Lincoln",
+    "en": "Lincoln",
+    "de": "Lincoln",
+    "it": "Lincoln",
+    "es": "Lincoln",
+    "sv": "Lincoln"
+   },
+   "backdrops": [
+    "/hwOFrwHladQ8FktYn3aJNAt8KA1.jpg"
+   ],
+   "logo": {
+    "fr": "/A2rm1z5XhuS4LKFg0j0EU0mCyzy.png",
+    "en": "/3kXdpWqqxrmtZyWCvc9vyw4saB8.png",
+    "de": "/xLZ5gQSvRLehYdjH1Is9n2qwJNa.png"
+   }
+  },
+  {
+   "id": 296098,
+   "year": "2015",
+   "title": {
+    "fr": "Le Pont des espions",
+    "en": "Bridge of Spies",
+    "de": "Bridge of Spies: Der Unterhändler",
+    "it": "Il ponte delle spie",
+    "es": "El puente de los espías",
+    "sv": "Spionernas bro"
+   },
+   "backdrops": [
+    "/12M3SvYO4WMdlXCajWklz1zUAly.jpg"
+   ],
+   "logo": {
+    "fr": "/A1BCoKAADexy3IklcSD8zGlBZcD.png",
+    "en": "/y17aIeyX7bQdvaQq991q8FGoVbi.png",
+    "it": "/Avdt8RZWE1YX7JZMsdgsjDyR9WN.png",
+    "es": "/cAd5h92YucbhUP8YtQoOLNjv74M.png",
+    "sv": "/2jHbosNIoVNsEO2RaHcJuRCSLTh.png"
+   }
+  },
+  {
+   "id": 267935,
+   "year": "2016",
+   "title": {
+    "fr": "Le BGG : Le Bon Gros Géant",
+    "en": "The BFG",
+    "de": "BFG - Big Friendly Giant",
+    "it": "Il GGG - Il Grande Gigante Gentile",
+    "es": "Mi amigo el gigante",
+    "sv": "SVJ - Stora vänliga jätten"
+   },
+   "backdrops": [
+    "/tOTtJelsPKX0bvSdvDVL2ou3cGS.jpg"
+   ],
+   "logo": {
+    "fr": "/kDZfV5rmGf2SqsVfQj3p6Z7OtRp.png",
+    "en": "/8186b2NL4WP2CstMqlB2jAMoKml.png",
+    "de": "/niNNCYhuZR6VQcWaWY2qGCQ5o7Q.png",
+    "it": "/dUJwnQ3ubxfHF69gk0syxk5DW3v.png",
+    "es": "/quImDqvVzINAFYdOSvjvcAFVWRk.png",
+    "sv": "/wphcXHucQKRPiXSD6mdxRwUuRpv.png"
+   }
+  },
+  {
+   "id": 446354,
+   "year": "2017",
+   "title": {
+    "fr": "Pentagon Papers",
+    "en": "The Post",
+    "de": "Die Verlegerin",
+    "it": "The Post",
+    "es": "Los archivos del Pentágono",
+    "sv": "The Post"
+   },
+   "backdrops": [
+    "/8sb4aBST28vN3rBz704XJczS0Ld.jpg"
+   ],
+   "logo": {
+    "fr": "/npXUNgnyaOJVvTF8gPRmB5iVeax.png",
+    "en": "/557BNNs5y3Ru2lEQHAX1rBS8TRS.png",
+    "de": "/gI0Yd4SXAev3mbkPXKLFQHuscg8.png",
+    "es": "/oAvVpaIuPfAaT2oQpynrGhPVCnG.png"
+   }
+  },
+  {
+   "id": 333339,
+   "year": "2018",
+   "title": {
+    "fr": "Ready Player One",
+    "en": "Ready Player One",
+    "de": "Ready Player One",
+    "it": "Ready Player One",
+    "es": "Ready Player One",
+    "sv": "Ready Player One"
+   },
+   "backdrops": [
+    "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg"
+   ],
+   "logo": {
+    "fr": "/qp3Fgk3U1I65QX1axdnCsLuXTQP.png",
+    "en": "/sKLqXYCvWdbMM91CVMXEVZqYE6Z.png",
+    "it": "/dNCnC9weMY4GUFj28TN9C0I22D.png",
+    "es": "/wdiisVU4A6qMsncRI64awp9TrwK.png"
+   }
+  },
+  {
+   "id": 511809,
+   "year": "2021",
+   "title": {
+    "fr": "West Side Story",
+    "en": "West Side Story",
+    "de": "West Side Story",
+    "it": "West Side Story",
+    "es": "West Side Story",
+    "sv": "West Side Story"
+   },
+   "backdrops": [
+    "/tHnHTp50qDx7br1i9ulh74MUW0A.jpg"
+   ],
+   "logo": {
+    "fr": "/riqFjeyz1U3J6cEamJnQq3BOD2g.png",
+    "en": "/kM1lOQcZKpsD0l6O1JVsVOdhHQE.png",
+    "es": "/dLwTyLxneYKLsBOSn04CQTwTTMQ.png"
+   }
+  },
+  {
+   "id": 804095,
+   "year": "2022",
+   "title": {
+    "fr": "The Fabelmans",
+    "en": "The Fabelmans",
+    "de": "Die Fabelmans",
+    "it": "The Fabelmans",
+    "es": "Los Fabelman",
+    "sv": "The Fabelmans"
+   },
+   "backdrops": [
+    "/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg"
+   ],
+   "logo": {
+    "fr": "/jzVpkX4rEXFngqia0MnGrCO8o03.png",
+    "en": "/viYCRC7q4KK1tzCGZMTW7QHYbXX.png",
+    "de": "/5wLYrjY1OtX8Pow5zP8MuhtSbA5.png",
+    "es": "/vhDk2hNnB1CkewSMr1PwbzI7ZdR.png"
+   }
+  },
+  {
+   "id": 1275779,
+   "year": "2026",
+   "title": {
+    "fr": "Disclosure Day",
+    "en": "Disclosure Day",
+    "de": "Disclosure Day – Der Tag der Wahrheit",
+    "it": "Disclosure Day",
+    "es": "El día de la revelación",
+    "sv": "Disclosure Day"
+   },
+   "backdrops": [
+    "/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg"
+   ],
+   "logo": {
+    "fr": "/wvsmMujFEO6p7dmxfFIFSDI1zEQ.png",
+    "en": "/v05SwcbdADZsf9I54w68i6OmYTR.png",
+    "de": "/gYQrBuyETYhocR4v43YfWtD1nV4.png",
+    "es": "/4LrAI6KiktRwVXbt0s3wxThYroN.png"
+   }
+  }
+ ]
+}

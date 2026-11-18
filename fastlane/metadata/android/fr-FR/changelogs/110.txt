@@ -1,3 +1,6 @@
+17 nouveaux packs de fonds (20 en tout) et mises à jour des packs.
+Écran Premiers pas au premier lancement.
+Option pour activer ou non l'économiseur d'écran.
 Mises à jour : Proscenium cherche une nouvelle version sur GitHub une fois par jour et l'installe depuis Réglages → Système → Mise à jour.
 Nouvelle clé de signature : désinstallez la 1.0 avant d'installer la 1.1 (une seule fois).
 Licence MIT.

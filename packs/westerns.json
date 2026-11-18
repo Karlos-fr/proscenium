@@ -1,0 +1,653 @@
+{
+ "id": "westerns",
+ "version": 1,
+ "name": {
+  "fr": "Westerns",
+  "en": "Westerns",
+  "de": "Western",
+  "it": "Western",
+  "es": "Wésterns",
+  "sv": "Western"
+ },
+ "description": {
+  "fr": "Les grands westerns, de John Ford à Sergio Leone",
+  "en": "Great westerns, from John Ford to Sergio Leone",
+  "de": "Große Western von John Ford bis Sergio Leone",
+  "it": "I grandi western, da John Ford a Sergio Leone",
+  "es": "Los grandes wésterns, de John Ford a Sergio Leone",
+  "sv": "Stora westernfilmer, från John Ford till Sergio Leone"
+ },
+ "films": [
+  {
+   "id": 995,
+   "year": "1939",
+   "title": {
+    "fr": "La Chevauchée fantastique",
+    "en": "Stagecoach",
+    "de": "Höllenfahrt nach Santa Fé",
+    "it": "Ombre rosse",
+    "es": "La diligencia",
+    "sv": "Diligensen"
+   },
+   "backdrops": [
+    "/7SYNEG50fKODsTP6h9phYM3BueV.jpg"
+   ],
+   "logo": {
+    "en": "/3sRSaXQsW6JdTVS1OiGBW2HYEdN.png",
+    "it": "/uaK7tcI8jg9KrSWrR2VuCWOsjXC.png",
+    "es": "/1ilFAsf6TPmUzQjMhc9kyBV66I6.png"
+   }
+  },
+  {
+   "id": 3090,
+   "year": "1948",
+   "title": {
+    "fr": "Le Trésor de la Sierra Madre",
+    "en": "The Treasure of the Sierra Madre",
+    "de": "Der Schatz der Sierra Madre",
+    "it": "Il tesoro della Sierra Madre",
+    "es": "El tesoro de Sierra Madre",
+    "sv": "Sierra Madres skatt"
+   },
+   "backdrops": [
+    "/osytHgkv86CTFKxo46l9P7ACEjm.jpg"
+   ],
+   "logo": {
+    "fr": "/7Rop6eDwlnF6Xqb50mHxr2Bq1ZA.png",
+    "en": "/dDoibh2I5EObxOO3aMENI18GY82.png",
+    "de": "/aCQsaiWH7gAzYwIwBpswGame1FK.png",
+    "it": "/q6CwMPCZhM6Cpcp3zR5kNFnxLdi.png",
+    "es": "/7BchCsONkVkFquAlQ1oU3KQOnPL.png"
+   }
+  },
+  {
+   "id": 288,
+   "year": "1952",
+   "title": {
+    "fr": "Le train sifflera trois fois",
+    "en": "High Noon",
+    "de": "Zwölf Uhr mittags",
+    "it": "Mezzogiorno di Fuoco",
+    "es": "Solo ante el peligro",
+    "sv": "Sheriffen"
+   },
+   "backdrops": [
+    "/qsDcQVqok01YIcT0zWhe1CNNz1h.jpg"
+   ],
+   "logo": {
+    "fr": "/ealvAJNfAJAZBckHxbNXxHiQVrd.png",
+    "en": "/w4kznO2nFItRDyHSkxKhohtXyGB.png",
+    "de": "/fPJrekDl8jrcj2gvtckr6DxI9Rm.png",
+    "it": "/sGskQxkoQefPT4oT7FPaNqviT6t.png"
+   }
+  },
+  {
+   "id": 3114,
+   "year": "1956",
+   "title": {
+    "fr": "La Prisonnière du désert",
+    "en": "The Searchers",
+    "de": "Der schwarze Falke",
+    "it": "Sentieri selvaggi",
+    "es": "Centauros del desierto",
+    "sv": "Förföljaren"
+   },
+   "backdrops": [
+    "/gQpNejv8i1MUasARDIHAJ7wdBMu.jpg"
+   ],
+   "logo": {
+    "fr": "/v7AHYo9OmYv5xJROYfwpcGMFelz.png",
+    "en": "/19cmfhyJca0WMv7sDRObpjA7r4r.png",
+    "it": "/k0jRb7Fc3besAMSpTTBka4jNUj9.png"
+   }
+  },
+  {
+   "id": 301,
+   "year": "1959",
+   "title": {
+    "fr": "Rio Bravo",
+    "en": "Rio Bravo",
+    "de": "Rio Bravo",
+    "it": "Un dollaro d'onore",
+    "es": "Río Bravo",
+    "sv": "Rio Bravo"
+   },
+   "backdrops": [
+    "/38uM6QuI06znUCELfOSiVQy05CX.jpg"
+   ],
+   "logo": {
+    "fr": "/3g7rff9eKl9In5bO35kepMrNhlk.png",
+    "en": "/hDa8yHV4F68J9SxCGQE1Te4SwWE.png",
+    "it": "/z2uQUIuHw94JfJYU7tyDBu67luH.png"
+   }
+  },
+  {
+   "id": 966,
+   "year": "1960",
+   "title": {
+    "fr": "Les Sept Mercenaires",
+    "en": "The Magnificent Seven",
+    "de": "Die glorreichen Sieben",
+    "it": "I magnifici sette",
+    "es": "Los siete magníficos",
+    "sv": "7 vågade livet"
+   },
+   "backdrops": [
+    "/x0JQBBfK68gHm8rmyKk60bnnyw9.jpg"
+   ],
+   "logo": {
+    "fr": "/kkUK1Bo6fXxTvaPa5zy40cqWMV9.png",
+    "en": "/rHPrh4Pe7ZjdkBEEF4OHPcBvD6W.png",
+    "de": "/ktbHyDf16ZpL1KT5TcpwKCGNg9r.png",
+    "it": "/8gFyRvzXL74yz9EC168QTEn48Er.png"
+   }
+  },
+  {
+   "id": 11697,
+   "year": "1962",
+   "title": {
+    "fr": "L'Homme qui tua Liberty Valance",
+    "en": "The Man Who Shot Liberty Valance",
+    "de": "Der Mann, der Liberty Valance erschoß",
+    "it": "L'uomo che uccise Liberty Valance",
+    "es": "El hombre que mató a Liberty Valance",
+    "sv": "Mannen som sköt Liberty Valance"
+   },
+   "backdrops": [
+    "/f6gTJLQ950dPHfFRnxQdaA6OlXJ.jpg"
+   ],
+   "logo": {
+    "fr": "/pyuzupYPAFxsCdyEnoxyKqOHzDH.png",
+    "en": "/vHdkdknFP8qw7j9fL1lEjJJtriv.png",
+    "de": "/a95NQZjb6V3CzEqEHtyJn0Kq7v2.png",
+    "it": "/2MD5E42rM5XBM8EBDkoUE9P6F9.png"
+   }
+  },
+  {
+   "id": 391,
+   "year": "1964",
+   "title": {
+    "fr": "Pour une poignée de dollars",
+    "en": "A Fistful of Dollars",
+    "de": "Für eine Handvoll Dollar",
+    "it": "Per un pugno di dollari",
+    "es": "Por un puñado de dólares",
+    "sv": "För en handfull dollar"
+   },
+   "backdrops": [
+    "/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg"
+   ],
+   "logo": {
+    "fr": "/p3QAqzVMqn2VW4fHTNix2n1zPtN.png",
+    "en": "/dkg4P8OTyZzNOTCF0H6bHuz1hj9.png",
+    "de": "/qWXtvwn8U0ypFcM0iwtPike24AZ.png",
+    "it": "/eY8oeIl7ibH4dRJVcRIeDQiGml2.png"
+   }
+  },
+  {
+   "id": 938,
+   "year": "1965",
+   "title": {
+    "fr": "…Et pour quelques dollars de plus",
+    "en": "For a Few Dollars More",
+    "de": "Für ein paar Dollar mehr",
+    "it": "Per qualche dollaro in più",
+    "es": "La muerte tenía un precio",
+    "sv": "För några få dollar mer"
+   },
+   "backdrops": [
+    "/hs6OPto38fF589ScpGhl7uSU4MI.jpg"
+   ],
+   "logo": {
+    "fr": "/zuV5Pu1qM7s3H2mnrZ9n2ETgMO5.png",
+    "en": "/a6bvqMJrjJEx2GtK4bdVxJ78WpV.png",
+    "de": "/8SH7x3LpeeUcDXaXc1ssrieJcRu.png",
+    "it": "/kDO0wUAFEXmdz0wvHwr8JwL5ktW.png"
+   }
+  },
+  {
+   "id": 429,
+   "year": "1966",
+   "title": {
+    "fr": "Le Bon, la Brute et le Truand",
+    "en": "The Good, the Bad and the Ugly",
+    "de": "Zwei glorreiche Halunken",
+    "it": "Il buono, il brutto, il cattivo",
+    "es": "El bueno, el feo y el malo",
+    "sv": "Den gode, den onde, den fule"
+   },
+   "backdrops": [
+    "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg"
+   ],
+   "logo": {
+    "fr": "/1725nQ9tXqGWJ2J638V8c3jNXSP.png",
+    "en": "/erPCnjGRzF75SfEDXIQEaYxkjka.png",
+    "de": "/sxC403ZrRhrXvfymYTZF4Tm81S1.png",
+    "it": "/AawzZc1jNWgELesrQeLMEuaVuVD.png",
+    "es": "/e0brYd78ykMjc6r2i0R46cEuPSW.png",
+    "sv": "/kCBAYXXjkZwiioAojClp9mfkGUp.png"
+   }
+  },
+  {
+   "id": 335,
+   "year": "1968",
+   "title": {
+    "fr": "Il était une fois dans l'Ouest",
+    "en": "Once Upon a Time in the West",
+    "de": "Spiel mir das Lied vom Tod",
+    "it": "C'era una volta il West",
+    "es": "Hasta que llegó su hora",
+    "sv": "Harmonica - en hämnare"
+   },
+   "backdrops": [
+    "/u5IhDThM1SClL4pkCUp8hOmsDQJ.jpg"
+   ],
+   "logo": {
+    "fr": "/fdMtejTGSV1bxNGfcKfj1wMzNtR.png",
+    "en": "/zzeuiICeo39b3Xang5CysgmXrtP.png",
+    "de": "/jEzrmpZZLPLzCkzQ3NAsORiUN8h.png",
+    "it": "/nsXdRN2iiA7ZM9xV6wBBtcoGYDO.png",
+    "es": "/8bi78Y5k2PUbbONdJHLRU7qIgJK.png",
+    "sv": "/zxDW6j2sJ82RNQKk1peWrcAj6EH.png"
+   }
+  },
+  {
+   "id": 576,
+   "year": "1969",
+   "title": {
+    "fr": "La Horde sauvage",
+    "en": "The Wild Bunch",
+    "de": "The Wild Bunch - Sie kannten kein Gesetz",
+    "it": "Il mucchio selvaggio",
+    "es": "Grupo salvaje",
+    "sv": "Det vilda gänget"
+   },
+   "backdrops": [
+    "/nkgWcfOeQnVnxak5xCKvkRDLt5H.jpg"
+   ],
+   "logo": {
+    "fr": "/9jiL119yvyiZSwHQLxZF70LUY7L.png",
+    "en": "/bnAUv1S7iagjnfDYcC1OKTGmEPO.png",
+    "it": "/5OavZmdUFRSzspme0O3yWRKBNBd.png"
+   }
+  },
+  {
+   "id": 642,
+   "year": "1969",
+   "title": {
+    "fr": "Butch Cassidy et le Kid",
+    "en": "Butch Cassidy and the Sundance Kid",
+    "de": "Zwei Banditen",
+    "it": "Butch Cassidy",
+    "es": "Dos hombres y un destino",
+    "sv": "Butch Cassidy och Sundance Kid"
+   },
+   "backdrops": [
+    "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg"
+   ],
+   "logo": {
+    "fr": "/klDVzYDTbd7foDzXiRtkzToAovw.png",
+    "en": "/4iiay2Nw6MBUOK82Hzc5mkbMFz9.png",
+    "de": "/pIGa77ou1wk502y93J1eEod66Gb.png",
+    "it": "/19xP1llUG2wwNEQqNFup5S62AiY.png",
+    "es": "/zqFEuwiNMPuEaDQgiDveDqbraQ3.png"
+   }
+  },
+  {
+   "id": 9394,
+   "year": "1970",
+   "title": {
+    "fr": "On l'appelle Trinita",
+    "en": "They Call Me Trinity",
+    "de": "Die Rechte und die Linke Hand des Teufels",
+    "it": "Lo chiamavano Trinità...",
+    "es": "Le llamaban Trinidad",
+    "sv": "Dom kallar mig Trinity - djävulens högra hand"
+   },
+   "backdrops": [
+    "/z2EYbXNON8bQDgE0YY1SdRe5C4j.jpg"
+   ],
+   "logo": {
+    "fr": "/tGOsWUwVdIq3oKqnARVDiqFmSGs.png",
+    "en": "/k5j5t01uQYnZLY2x6rbqooEDrdH.png",
+    "de": "/idsvUFjUZ4QGvAXH5drooGCh0wA.png",
+    "it": "/zp7RvPzLXGtRumeIBtAGd8I1pFy.png",
+    "es": "/usumcnPeEKElnWlKGpdEa790RZb.png"
+   }
+  },
+  {
+   "id": 11901,
+   "year": "1973",
+   "title": {
+    "fr": "L'Homme des hautes plaines",
+    "en": "High Plains Drifter",
+    "de": "Ein Fremder ohne Namen",
+    "it": "Lo straniero senza nome",
+    "es": "Infierno de cobardes",
+    "sv": "Mannen med oxpiskan"
+   },
+   "backdrops": [
+    "/gDrgpDJHi0ZwH69KfMIiuBMt0Ja.jpg"
+   ],
+   "logo": {
+    "fr": "/tpdDxRSyvhONJXLVlYVspnhytKP.png",
+    "en": "/6VxsvRXMSpgN9R7S4tXIoBkdP1d.png",
+    "de": "/ver0WU93ZFsj2rYkxxiXGrpOlaL.png",
+    "it": "/7Sx06gQEWU5REhsbD6iWD7VWhjP.png",
+    "es": "/pnNqIYoed11a7q8gIsgCJNU3iev.png"
+   }
+  },
+  {
+   "id": 11072,
+   "year": "1974",
+   "title": {
+    "fr": "Le shérif est en prison",
+    "en": "Blazing Saddles",
+    "de": "Der Wilde Wilde Westen",
+    "it": "Mezzogiorno e mezzo di fuoco",
+    "es": "Sillas de montar calientes",
+    "sv": "Det våras för sheriffen"
+   },
+   "backdrops": [
+    "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg"
+   ],
+   "logo": {
+    "en": "/fRQvjlEs8bcSx5d9W9lr0aI7IY8.png",
+    "de": "/rqtSjt9e0HOuFGu7o2eB3a5Q5PE.png",
+    "it": "/va2yXpkAvSHmlw3YOa5HemYzmEt.png"
+   }
+  },
+  {
+   "id": 10747,
+   "year": "1976",
+   "title": {
+    "fr": "Josey Wales : hors-la-loi",
+    "en": "The Outlaw Josey Wales",
+    "de": "Der Texaner",
+    "it": "Il texano dagli occhi di ghiaccio",
+    "es": "El fuera de la ley",
+    "sv": "Mannen utanför lagen"
+   },
+   "backdrops": [
+    "/nEe0ziWyVhGTtuoXe2msdkz6NlO.jpg"
+   ],
+   "logo": {
+    "fr": "/nTdQbnFHcPULGsVZBhkYu0SawR8.png",
+    "en": "/yzaQMCmdOq6BEoOdRNynO7yyP3c.png",
+    "de": "/feVGTJtQkSXHeaJR0eUb7TKW3lN.png",
+    "it": "/5t782OtRH57Lvasc7vmTggtPvhN.png",
+    "es": "/ttzgVaYGkfwmlphldsXBqlQLrZY.png"
+   }
+  },
+  {
+   "id": 8879,
+   "year": "1985",
+   "title": {
+    "fr": "Pale Rider, le cavalier solitaire",
+    "en": "Pale Rider",
+    "de": "Pale Rider - Der namenlose Reiter",
+    "it": "Il cavaliere pallido",
+    "es": "El jinete pálido",
+    "sv": "Pale Rider"
+   },
+   "backdrops": [
+    "/lSH1j2uChyuxKmslXRf1AGyi43p.jpg"
+   ],
+   "logo": {
+    "fr": "/wSEBXlpyq4ouLbYcKAZ3xIMKZ1c.png",
+    "en": "/mgj09CmRBG3A08gF3D5sbVynIRy.png",
+    "de": "/eYuZBkhMI8XGttCZ19xODF4u9lQ.png",
+    "it": "/kOZmkzZ2B0NVGB1JjaIAdSQxdti.png",
+    "es": "/5DSPP6yFNwlLWzTXdZyrQUy0Pfr.png"
+   }
+  },
+  {
+   "id": 581,
+   "year": "1990",
+   "title": {
+    "fr": "Danse avec les loups",
+    "en": "Dances with Wolves",
+    "de": "Der mit dem Wolf tanzt",
+    "it": "Balla coi lupi",
+    "es": "Bailando con lobos",
+    "sv": "Dansar med vargar"
+   },
+   "backdrops": [
+    "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg"
+   ],
+   "logo": {
+    "fr": "/xbNUHraZkGLHH0ULWmVlx4nCrhY.png",
+    "en": "/hviktiZiXwSe8hdvat8TP1G5LjN.png",
+    "de": "/r9o8oRE77SNojUqszsGXzlveSTu.png",
+    "it": "/xpf02XGud0LYmiK8frYCyRe9uxb.png",
+    "es": "/viT6FO1cswwu1LYqbqNN1kdtJeP.png"
+   }
+  },
+  {
+   "id": 33,
+   "year": "1992",
+   "title": {
+    "fr": "Impitoyable",
+    "en": "Unforgiven",
+    "de": "Erbarmungslos",
+    "it": "Gli spietati",
+    "es": "Sin perdón",
+    "sv": "De skoningslösa"
+   },
+   "backdrops": [
+    "/rvRGFevvZK48onX0PYI1eQLbuJd.jpg"
+   ],
+   "logo": {
+    "fr": "/jkbMNOfdc42U9Ivv54rrwYdUZG8.png",
+    "en": "/btqmI69IZwfdIVKxys3UhkW7coZ.png",
+    "de": "/5WrGu0m1cDmxNdpJI1wO3TwGZdT.png",
+    "it": "/d3A7udxBiAN1jJs4hpABnJvUTqm.png",
+    "es": "/zTTDcO243IfEgLzm3MRgBb1dgVO.png"
+   }
+  },
+  {
+   "id": 11969,
+   "year": "1993",
+   "title": {
+    "fr": "Tombstone",
+    "en": "Tombstone",
+    "de": "Tombstone",
+    "it": "Tombstone",
+    "es": "Tombstone: La leyenda de Wyatt Earp",
+    "sv": "Tombstone"
+   },
+   "backdrops": [
+    "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg"
+   ],
+   "logo": {
+    "fr": "/sjCKAhURlD8rY2eNsfAiT01LAQ.png",
+    "en": "/zaSgOaMTVFMABcZOcUqmdstXYCi.png"
+   }
+  },
+  {
+   "id": 922,
+   "year": "1995",
+   "title": {
+    "fr": "Dead Man",
+    "en": "Dead Man",
+    "de": "Dead Man",
+    "it": "Dead Man",
+    "es": "Dead Man",
+    "sv": "Dead Man"
+   },
+   "backdrops": [
+    "/a7DtgKB187dUm9n81IlvNzVXsK1.jpg"
+   ],
+   "logo": {
+    "en": "/iSgg8kNcytMWnVPyNkfcNNue0gh.png",
+    "de": "/lAaNGupNQDsLMUdJ5ILjavzieAg.png"
+   }
+  },
+  {
+   "id": 2055,
+   "year": "2003",
+   "title": {
+    "fr": "Open Range",
+    "en": "Open Range",
+    "de": "Open Range - Weites Land",
+    "it": "Terra di confine - Open Range",
+    "es": "Open Range",
+    "sv": "Open Range"
+   },
+   "backdrops": [
+    "/e65E7jH5bKMSgHJnWLw4ex02Dyu.jpg"
+   ],
+   "logo": {
+    "en": "/lyLFLJ3TdfnQPpyCIhRctNcDfe.png",
+    "de": "/v9RwRVNzRMnjkOCzleTBR4uRQHP.png",
+    "it": "/bU3oFRZfSgPBOMZFdErKIoKXaAA.png"
+   }
+  },
+  {
+   "id": 5176,
+   "year": "2007",
+   "title": {
+    "fr": "3h10 pour Yuma",
+    "en": "3:10 to Yuma",
+    "de": "Todeszug nach Yuma",
+    "it": "Quel treno per Yuma",
+    "es": "El tren de las 3:10",
+    "sv": "3:10 to Yuma"
+   },
+   "backdrops": [
+    "/2eznGndOi8s9CGReAvcQ8PEULwm.jpg"
+   ],
+   "logo": {
+    "fr": "/cNx9Gc5xFr2SoMS63EIXh8DsGkz.png",
+    "en": "/oF0ScP3ntxLwyCETbebhwDB3rW.png",
+    "de": "/68XMS91SeAOZaDXtz6DNnXKb216.png",
+    "it": "/1QhzvdEAEHnyNo9AisFT3T2jDAa.png",
+    "es": "/rXohNmo6iK8LjTJCYxOYmnMVGeB.png"
+   }
+  },
+  {
+   "id": 4512,
+   "year": "2007",
+   "title": {
+    "fr": "L'Assassinat de Jesse James par le lâche Robert Ford",
+    "en": "The Assassination of Jesse James by the Coward Robert Ford",
+    "de": "Die Ermordung des Jesse James durch den Feigling Robert Ford",
+    "it": "L'assassinio di Jesse James per mano del codardo Robert Ford",
+    "es": "El asesinato de Jesse James por el cobarde Robert Ford",
+    "sv": "Mordet på Jesse James av ynkryggen Robert Ford"
+   },
+   "backdrops": [
+    "/3HvQ5PaxwQJEiRSZD5AyVuqEiNn.jpg"
+   ],
+   "logo": {
+    "en": "/2g1VYYw86cLcjFFGpiSAu6K2Hst.png",
+    "de": "/d3OgFydQDREjHHwIiYR4G9gneR2.png",
+    "it": "/4SrtXeD6rHXzelLM1iiKWcDN6od.png",
+    "es": "/d9YS5x8hacJoXt1eS1aFWZCqdNH.png"
+   }
+  },
+  {
+   "id": 44264,
+   "year": "2010",
+   "title": {
+    "fr": "True Grit",
+    "en": "True Grit",
+    "de": "True Grit",
+    "it": "Il Grinta",
+    "es": "Valor de ley",
+    "sv": "True Grit"
+   },
+   "backdrops": [
+    "/5dwlH8Krm2bsuc2Pubw2cBb03g5.jpg"
+   ],
+   "logo": {
+    "en": "/cSuegYH1wOfvLkurN3Kh4Q3kkW3.png",
+    "it": "/bLxoAg5vavvRxpBjnfrx7OZeUOL.png",
+    "es": "/nrBIbIyGnNrJSPkxCmV2dhYqW6U.png"
+   }
+  },
+  {
+   "id": 68718,
+   "year": "2012",
+   "title": {
+    "fr": "Django Unchained",
+    "en": "Django Unchained",
+    "de": "Django Unchained",
+    "it": "Django Unchained",
+    "es": "Django desencadenado",
+    "sv": "Django Unchained"
+   },
+   "backdrops": [
+    "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg"
+   ],
+   "logo": {
+    "fr": "/5bTWzFG9ND6eNTMw65HJN81ZuTK.png",
+    "en": "/uqFqJ9j5hQ7QLx0mmxGohTVqOb6.png",
+    "es": "/sCMKyeWYXxJdFqYw0A0rypo98u7.png"
+   }
+  },
+  {
+   "id": 281957,
+   "year": "2015",
+   "title": {
+    "fr": "The Revenant",
+    "en": "The Revenant",
+    "de": "The Revenant - Der Rückkehrer",
+    "it": "Revenant - Redivivo",
+    "es": "El renacido",
+    "sv": "The Revenant"
+   },
+   "backdrops": [
+    "/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg"
+   ],
+   "logo": {
+    "fr": "/6jCak7wVCDF2iEgry4FoOtDs6Uz.png",
+    "en": "/7CUlDF2JgKppdApJeuZX31j6nhS.png",
+    "de": "/ynK524wbylFyuLE1uf0fipQaJYP.png",
+    "it": "/6BAGWUxCY9JD2lKZjpOnkjZllF6.png",
+    "es": "/nzYyHKLYv8o81LuVE7YwiL1ixk3.png"
+   }
+  },
+  {
+   "id": 273248,
+   "year": "2015",
+   "title": {
+    "fr": "Les Huit Salopards",
+    "en": "The Hateful Eight",
+    "de": "The Hateful 8",
+    "it": "The Hateful Eight",
+    "es": "Los odiosos ocho",
+    "sv": "The Hateful Eight"
+   },
+   "backdrops": [
+    "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg"
+   ],
+   "logo": {
+    "fr": "/tqKnUCkWO7svZB9WmC6G5YnhAtA.png",
+    "en": "/dhkWUiFU6wvwkVhwKae5FO57AP6.png",
+    "de": "/8ZygdIGsXF0yRFgxfCQrVuyXAwI.png",
+    "es": "/338mAFyedvIBm6UC8xslBF8phO4.png"
+   }
+  },
+  {
+   "id": 537996,
+   "year": "2018",
+   "title": {
+    "fr": "La Ballade de Buster Scruggs",
+    "en": "The Ballad of Buster Scruggs",
+    "de": "The Ballad of Buster Scruggs",
+    "it": "La ballata di Buster Scruggs",
+    "es": "La balada de Buster Scruggs",
+    "sv": "The Ballad of Buster Scruggs"
+   },
+   "backdrops": [
+    "/12RXkIWUXwOHXgAmlxJNIWRGrri.jpg"
+   ],
+   "logo": {
+    "fr": "/xI8D5JTzLxFICAUUUv9WE3cVw24.png",
+    "en": "/i3YtcfDTEh7tINVHCl1JSesW4TL.png",
+    "es": "/zRYtdQTW8rTBswPvayCojqKUZ0S.png"
+   }
+  }
+ ]
+}

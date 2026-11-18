@@ -1,0 +1,468 @@
+{
+ "id": "dc",
+ "version": 1,
+ "name": {
+  "fr": "Super-héros DC",
+  "en": "DC Superheroes",
+  "de": "DC-Superhelden",
+  "it": "Supereroi DC",
+  "es": "Superhéroes de DC",
+  "sv": "DC:s superhjältar"
+ },
+ "description": {
+  "fr": "Batman, Superman, Wonder Woman et les héros DC au cinéma",
+  "en": "Batman, Superman, Wonder Woman and DC heroes on the big screen",
+  "de": "Batman, Superman, Wonder Woman und die DC-Helden im Kino",
+  "it": "Batman, Superman, Wonder Woman e gli eroi DC al cinema",
+  "es": "Batman, Superman, Wonder Woman y los héroes de DC en el cine",
+  "sv": "Batman, Stålmannen, Wonder Woman och DC:s hjältar på bio"
+ },
+ "films": [
+  {
+   "id": 1924,
+   "year": "1978",
+   "title": {
+    "fr": "Superman",
+    "en": "Superman",
+    "de": "Superman",
+    "it": "Superman",
+    "es": "Superman",
+    "sv": "Superman the Movie"
+   },
+   "backdrops": [
+    "/5PfHGXosySGs0l1JfeREspy3v6G.jpg"
+   ],
+   "logo": {
+    "fr": "/nMGacOphygrjyGhMyATOJoLJyce.png",
+    "en": "/oRXlsX6MoZBydSoMRfW3AKRd3lJ.png",
+    "es": "/tDMt43hQXXVkvCQdQLLLTt25BvB.png"
+   }
+  },
+  {
+   "id": 8536,
+   "year": "1980",
+   "title": {
+    "fr": "Superman II",
+    "en": "Superman II",
+    "de": "Superman II - Allein gegen alle",
+    "it": "Superman II",
+    "es": "Superman II. La aventura continúa",
+    "sv": "Superman II"
+   },
+   "backdrops": [
+    "/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg"
+   ],
+   "logo": {
+    "en": "/1GLHsiZQJd1vrvWwilDRyRWhS9l.png"
+   }
+  },
+  {
+   "id": 268,
+   "year": "1989",
+   "title": {
+    "fr": "Batman",
+    "en": "Batman",
+    "de": "Batman",
+    "it": "Batman",
+    "es": "Batman",
+    "sv": "Batman"
+   },
+   "backdrops": [
+    "/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg"
+   ],
+   "logo": {
+    "fr": "/vhdPjXTFTHgbJqr4pkO7lDY1yO9.png",
+    "en": "/wW1ZNNd1wrGErQ5bWmyxZymytDy.png",
+    "de": "/2wAHlVl7mK91qyq0Baqy1QGxHMa.png",
+    "it": "/5oEV92Nuun6bFjjR08G5YX4hUCd.png"
+   }
+  },
+  {
+   "id": 364,
+   "year": "1992",
+   "title": {
+    "fr": "Batman : Le Défi",
+    "en": "Batman Returns",
+    "de": "Batmans Rückkehr",
+    "it": "Batman - Il ritorno",
+    "es": "Batman vuelve",
+    "sv": "Batman - återkomsten"
+   },
+   "backdrops": [
+    "/9vYIWoJ3EoD8UoCiZOCTszrkRVZ.jpg"
+   ],
+   "logo": {
+    "fr": "/ih15OMUU7G3RFYNy8JbEZ8vkfGd.png",
+    "en": "/o2vEIaJfStJMiikZfpvs92XkOz1.png",
+    "de": "/cKJHXOFSbYyZGvcmtuOfgITJ0qK.png",
+    "it": "/xgi6exmTnF0F4poL7WiVORQ1pQZ.png",
+    "es": "/57LOzjJkiq6HSf2lLzQLMTrMZAu.png",
+    "sv": "/eie1LDRCRGnoPAVoaZOFwmemkI.png"
+   }
+  },
+  {
+   "id": 272,
+   "year": "2005",
+   "title": {
+    "fr": "Batman Begins",
+    "en": "Batman Begins",
+    "de": "Batman Begins",
+    "it": "Batman Begins",
+    "es": "Batman Begins",
+    "sv": "Batman Begins"
+   },
+   "backdrops": [
+    "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg"
+   ],
+   "logo": {
+    "fr": "/a6x2vcajK1vWIa7gY1BptEi5cRO.png",
+    "en": "/kmqIeEVaVfbBCgV9WFPuLUl84uW.png",
+    "es": "/tsPuQ6zskYUFBF9migOLUmTRTBS.png"
+   }
+  },
+  {
+   "id": 155,
+   "year": "2008",
+   "title": {
+    "fr": "The Dark Knight : Le Chevalier noir",
+    "en": "The Dark Knight",
+    "de": "The Dark Knight",
+    "it": "Il cavaliere oscuro",
+    "es": "El caballero oscuro",
+    "sv": "The Dark Knight"
+   },
+   "backdrops": [
+    "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
+   ],
+   "logo": {
+    "fr": "/yfEQdFlPdtFjGxZkaAdpmscb88x.png",
+    "en": "/nO5Uix3Qr4WjOyU1BMPv0okyNWm.png",
+    "it": "/46WNMfeaIOqFS5xYgpxEFGg3SRm.png",
+    "es": "/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
+   }
+  },
+  {
+   "id": 13183,
+   "year": "2009",
+   "title": {
+    "fr": "Watchmen : Les Gardiens",
+    "en": "Watchmen",
+    "de": "Watchmen - Die Wächter",
+    "it": "Watchmen",
+    "es": "Watchmen",
+    "sv": "Watchmen"
+   },
+   "backdrops": [
+    "/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg"
+   ],
+   "logo": {
+    "fr": "/9xMVl59evwBW6RtLY4CQTPIqW5F.png",
+    "en": "/k9lFXOoVKHCQePRVewYYcvvGK5G.png",
+    "de": "/5CoMdMOmfkGfYGrWq88AsnxjLP.png"
+   }
+  },
+  {
+   "id": 49026,
+   "year": "2012",
+   "title": {
+    "fr": "The Dark Knight Rises",
+    "en": "The Dark Knight Rises",
+    "de": "The Dark Knight Rises",
+    "it": "Il cavaliere oscuro - Il ritorno",
+    "es": "El caballero oscuro: La leyenda renace",
+    "sv": "The Dark Knight Rises"
+   },
+   "backdrops": [
+    "/c3OHQncTAnKFhdOTX7D3LTW6son.jpg"
+   ],
+   "logo": {
+    "fr": "/duVBk0j4I2oA9mc6mNWkGuKICR7.png",
+    "en": "/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
+    "it": "/fqaVAxLAgmbQjzLaCF7dvDXsDmA.png",
+    "es": "/l0huPqya0L6yDRlMB3wgkCqJAUh.png"
+   }
+  },
+  {
+   "id": 49521,
+   "year": "2013",
+   "title": {
+    "fr": "Man of Steel",
+    "en": "Man of Steel",
+    "de": "Man of Steel",
+    "it": "L'uomo d'acciaio",
+    "es": "El hombre de acero",
+    "sv": "Man of Steel"
+   },
+   "backdrops": [
+    "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg"
+   ],
+   "logo": {
+    "fr": "/kI7SFn8PKRkcR3zsaed0XdaYNOq.png",
+    "en": "/qBtAryVKg11iEOmxeb31fxIHuvN.png",
+    "it": "/cpnFOHIfDBh92jsGJuQomikHZ8T.png",
+    "es": "/kwyAkKZUGx9c2f9U53dYEOHJvPT.png"
+   }
+  },
+  {
+   "id": 297762,
+   "year": "2017",
+   "title": {
+    "fr": "Wonder Woman",
+    "en": "Wonder Woman",
+    "de": "Wonder Woman",
+    "it": "Wonder Woman",
+    "es": "Wonder Woman",
+    "sv": "Wonder Woman"
+   },
+   "backdrops": [
+    "/AaABt75ZzfMGrscUR2seabz4PEX.jpg"
+   ],
+   "logo": {
+    "fr": "/wgdnfOcuGZpWfIJcZb8iHtx8EsD.png",
+    "en": "/triPIUVt1WIIoT8R6lRLUwC0F4F.png",
+    "it": "/5lWpFgJq6fEOtmhujc05BGTByER.png",
+    "es": "/1cm8ANRoeWxhOtKGdufz92dYlFE.png"
+   }
+  },
+  {
+   "id": 297802,
+   "year": "2018",
+   "title": {
+    "fr": "Aquaman",
+    "en": "Aquaman",
+    "de": "Aquaman",
+    "it": "Aquaman",
+    "es": "Aquaman",
+    "sv": "Aquaman"
+   },
+   "backdrops": [
+    "/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg"
+   ],
+   "logo": {
+    "fr": "/ogBuOjh5koX7MJDx5ysuLtrHiuS.png",
+    "en": "/nH5kYObK3brjcuUS9mkG6DEK9ht.png",
+    "es": "/e8452pv1Gi3FYFvjAIO1gPv48tr.png"
+   }
+  },
+  {
+   "id": 287947,
+   "year": "2019",
+   "title": {
+    "fr": "Shazam!",
+    "en": "Shazam!",
+    "de": "Shazam!",
+    "it": "Shazam!",
+    "es": "¡Shazam!",
+    "sv": "Shazam!"
+   },
+   "backdrops": [
+    "/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg"
+   ],
+   "logo": {
+    "fr": "/wab2q3ASorn64L4huOfRzToMzkj.png",
+    "en": "/nMdTehFJ30XAz9MLIk96kKYuPfy.png",
+    "es": "/dKErsxa5t6sepft4Xnr0lvDhtSX.png"
+   }
+  },
+  {
+   "id": 475557,
+   "year": "2019",
+   "title": {
+    "fr": "Joker",
+    "en": "Joker",
+    "de": "Joker",
+    "it": "Joker",
+    "es": "Joker",
+    "sv": "Joker"
+   },
+   "backdrops": [
+    "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg"
+   ],
+   "logo": {
+    "en": "/uACD19MjHdpLBlzmFSztlwsW5Q6.png",
+    "es": "/eqtHkaMOUmjEaSd2kccCMT4NQoA.png"
+   }
+  },
+  {
+   "id": 495764,
+   "year": "2020",
+   "title": {
+    "fr": "Birds of Prey et la fantabuleuse histoire de Harley Quinn",
+    "en": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "de": "Birds of Prey - The Emancipation of Harley Quinn",
+    "it": "Birds of Prey e la fantasmagorica rinascita di Harley Quinn",
+    "es": "Aves de Presa y la fantabulosa emancipación de Harley Quinn",
+    "sv": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)"
+   },
+   "backdrops": [
+    "/3zBjU7mXlzxJKAStRzlNDZRGT0m.jpg"
+   ],
+   "logo": {
+    "fr": "/ypT8f7MUruOy7feKbC65eEuu5HU.png",
+    "en": "/y8MlJajhJHJZLgEe3HsWyitMQ7B.png",
+    "it": "/hbK7y5i1DRmSYEkDfvPalNMiaWd.png",
+    "es": "/lzAGFJ1JIGlJCYC3TqWzKjj9cf3.png"
+   }
+  },
+  {
+   "id": 791373,
+   "year": "2021",
+   "title": {
+    "fr": "Zack Snyder's Justice League",
+    "en": "Zack Snyder's Justice League",
+    "de": "Zack Snyder's Justice League",
+    "it": "Zack Snyder's Justice League",
+    "es": "La Liga de la Justicia de Zack Snyder",
+    "sv": "Zack Snyder's Justice League"
+   },
+   "backdrops": [
+    "/9WoLTsRgrupkvCgs3bhsl2EjLhs.jpg"
+   ],
+   "logo": {
+    "fr": "/tn8kfjpgKNahbbej77Z94JEqd1W.png",
+    "en": "/uosU4DrIglyYXy5ZtTswZQE4pi3.png",
+    "it": "/oecgHXNKDIRO2jMaUTLeHkfaHLU.png",
+    "es": "/ncNxJiqd2Lx8XHN44hwiPj4k10k.png"
+   }
+  },
+  {
+   "id": 436969,
+   "year": "2021",
+   "title": {
+    "fr": "The Suicide Squad",
+    "en": "The Suicide Squad",
+    "de": "The Suicide Squad",
+    "it": "The Suicide Squad - Missione suicida",
+    "es": "El Escuadrón Suicida",
+    "sv": "The Suicide Squad"
+   },
+   "backdrops": [
+    "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg"
+   ],
+   "logo": {
+    "fr": "/dWwpsK3IaPzWW7nY7pUraP5raBW.png",
+    "en": "/zzNbOhqPqqadyMHcKYSPoE1wFC0.png",
+    "it": "/kIdUjU77xlQB5KqKc4e5hEOWFc2.png",
+    "es": "/vbZlf0EuqBBRPcj18Gil8ViLzEu.png"
+   }
+  },
+  {
+   "id": 414906,
+   "year": "2022",
+   "title": {
+    "fr": "The Batman",
+    "en": "The Batman",
+    "de": "The Batman",
+    "it": "The Batman",
+    "es": "The Batman",
+    "sv": "The Batman"
+   },
+   "backdrops": [
+    "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg"
+   ],
+   "logo": {
+    "fr": "/zbykxhEAuSCbJReOs8MWOhwTFZW.png",
+    "en": "/haibnO2TycgulXD1Fj7b94L9m9E.png",
+    "it": "/eNdqSfIJauxfdsz5AeefMbPiIjk.png",
+    "es": "/y4qPUApGYo3LqdrgB9RZ6cr66hb.png"
+   }
+  },
+  {
+   "id": 436270,
+   "year": "2022",
+   "title": {
+    "fr": "Black Adam",
+    "en": "Black Adam",
+    "de": "Black Adam",
+    "it": "Black Adam",
+    "es": "Black Adam",
+    "sv": "Black Adam"
+   },
+   "backdrops": [
+    "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg"
+   ],
+   "logo": {
+    "fr": "/zVTX4ZgI6S77okkdeZXPUGVPOGN.png",
+    "en": "/x7xe0iHRZ0zLVAIJPiBDDwixsuv.png"
+   }
+  },
+  {
+   "id": 298618,
+   "year": "2023",
+   "title": {
+    "fr": "The Flash",
+    "en": "The Flash",
+    "de": "The Flash",
+    "it": "The Flash",
+    "es": "Flash",
+    "sv": "The Flash"
+   },
+   "backdrops": [
+    "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg"
+   ],
+   "logo": {
+    "fr": "/a838SBlPhVMBscA4UBcGRKWQZbp.png",
+    "en": "/9DvA4oKaco5b0DlZOIkEXKAGinj.png"
+   }
+  },
+  {
+   "id": 565770,
+   "year": "2023",
+   "title": {
+    "fr": "Blue Beetle",
+    "en": "Blue Beetle",
+    "de": "Blue Beetle",
+    "it": "Blue Beetle",
+    "es": "Blue Beetle",
+    "sv": "Blue Beetle"
+   },
+   "backdrops": [
+    "/bVyFGnX8kt0XtJXdx2F1HyOkIic.jpg"
+   ],
+   "logo": {
+    "fr": "/kOHZTXt7BRBr4MUK35owbuhhtya.png",
+    "en": "/zanKFaGoXMI5p22vj4VB3rvM5Eg.png"
+   }
+  },
+  {
+   "id": 1061474,
+   "year": "2025",
+   "title": {
+    "fr": "Superman",
+    "en": "Superman",
+    "de": "Superman",
+    "it": "Superman",
+    "es": "Superman",
+    "sv": "Superman"
+   },
+   "backdrops": [
+    "/eGX66zonvc4bXg3rM08RUxdYSDx.jpg"
+   ],
+   "logo": {
+    "fr": "/olSey4ko6PXcBldDOU6MoAJDj5U.png",
+    "en": "/7gQc9y2EORn9pZhGtAEdlEbpcpz.png",
+    "es": "/2P25kW8Ij0oGPrwfUHessZl76LJ.png"
+   }
+  },
+  {
+   "id": 1081003,
+   "year": "2026",
+   "title": {
+    "fr": "Supergirl",
+    "en": "Supergirl",
+    "de": "Supergirl",
+    "it": "Supergirl",
+    "es": "Supergirl",
+    "sv": "Supergirl"
+   },
+   "backdrops": [
+    "/heZQmyNvkH236ha2M3JckdUQQqb.jpg"
+   ],
+   "logo": {
+    "fr": "/gSBiWAnsf7IvMCrQfgRgX16W627.png",
+    "en": "/meaS9BFxMDY334YWKpMKoZDNBFO.png",
+    "es": "/y5IQmJgJvqUDl5WIYW7GUvVyiMx.png"
+   }
+  }
+ ]
+}

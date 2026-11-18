@@ -1,0 +1,275 @@
+{
+ "id": "harry-potter",
+ "version": 1,
+ "name": {
+  "fr": "Harry Potter",
+  "en": "Harry Potter",
+  "de": "Harry Potter",
+  "it": "Harry Potter",
+  "es": "Harry Potter",
+  "sv": "Harry Potter"
+ },
+ "description": {
+  "fr": "Les films Harry Potter et Les Animaux fantastiques",
+  "en": "The Harry Potter and Fantastic Beasts films",
+  "de": "Die Filme von Harry Potter und Phantastische Tierwesen",
+  "it": "I film di Harry Potter e Animali fantastici",
+  "es": "Las películas de Harry Potter y Animales fantásticos",
+  "sv": "Filmerna om Harry Potter och Fantastiska vidunder"
+ },
+ "films": [
+  {
+   "id": 671,
+   "year": "2001",
+   "title": {
+    "fr": "Harry Potter à l'école des sorciers",
+    "en": "Harry Potter and the Philosopher's Stone",
+    "de": "Harry Potter und der Stein der Weisen",
+    "it": "Harry Potter e la pietra filosofale",
+    "es": "Harry Potter y la piedra filosofal",
+    "sv": "Harry Potter och de vises sten"
+   },
+   "backdrops": [
+    "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg"
+   ],
+   "logo": {
+    "fr": "/yca5BCwAnHm7hJfJx8QVbMMaTLR.png",
+    "en": "/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png",
+    "de": "/3a6QYhVX0jpgRYwnPaEpPSk56Z9.png",
+    "it": "/3jGhFLZmjEQP4VGYW1JMNWs4mG9.png",
+    "es": "/unFarpNzmr8gKlvki8t7ELat2rs.png",
+    "sv": "/ghtWTTUcp8Ro42LxTq5LjhTx1r6.png"
+   }
+  },
+  {
+   "id": 672,
+   "year": "2002",
+   "title": {
+    "fr": "Harry Potter et la Chambre des secrets",
+    "en": "Harry Potter and the Chamber of Secrets",
+    "de": "Harry Potter und die Kammer des Schreckens",
+    "it": "Harry Potter e la camera dei segreti",
+    "es": "Harry Potter y la cámara secreta",
+    "sv": "Harry Potter och hemligheternas kammare"
+   },
+   "backdrops": [
+    "/7tbeoSTWW2cWPecjQo9fcdf0Hzv.jpg"
+   ],
+   "logo": {
+    "fr": "/mtC645tcdSq4cOhdlmwKuR2G3oq.png",
+    "en": "/oa1vehKKhNbiyfNUvH1uzOpu2of.png",
+    "de": "/3svdxqGS4kavuddLgI4gIsiT56w.png",
+    "it": "/kYFknRVS4857XuAwGZi4hYYxSUr.png",
+    "es": "/sgXA5M8gHmF8wI1yxQdey8JAGNR.png",
+    "sv": "/zGcS3Vyhap412lMlZ98eCcxn4ZK.png"
+   }
+  },
+  {
+   "id": 673,
+   "year": "2004",
+   "title": {
+    "fr": "Harry Potter et le Prisonnier d'Azkaban",
+    "en": "Harry Potter and the Prisoner of Azkaban",
+    "de": "Harry Potter und der Gefangene von Askaban",
+    "it": "Harry Potter e il prigioniero di Azkaban",
+    "es": "Harry Potter y el prisionero de Azkaban",
+    "sv": "Harry Potter och fången från Azkaban"
+   },
+   "backdrops": [
+    "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg"
+   ],
+   "logo": {
+    "fr": "/1ARqQGBqojxawoh4P772wdlNsq7.png",
+    "en": "/y08e9oToQuGU818IjBrAdpB0AVL.png",
+    "de": "/ofI4eZ5wrsJCinSyQJuUio5anpC.png",
+    "it": "/ivKdts8ULcwGWV8RCFHdF2F2EtC.png",
+    "es": "/mLd8k9hOvs6TELSV5PVpu3w7BVq.png",
+    "sv": "/j0bJlMDrjfH0kMEMOmDsf7qvb4Q.png"
+   }
+  },
+  {
+   "id": 674,
+   "year": "2005",
+   "title": {
+    "fr": "Harry Potter et la Coupe de feu",
+    "en": "Harry Potter and the Goblet of Fire",
+    "de": "Harry Potter und der Feuerkelch",
+    "it": "Harry Potter e il calice di fuoco",
+    "es": "Harry Potter y el cáliz de fuego",
+    "sv": "Harry Potter och den flammande bägaren"
+   },
+   "backdrops": [
+    "/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg"
+   ],
+   "logo": {
+    "fr": "/ejDa3FsHQ5tI6An7y3gPRDi1xrl.png",
+    "en": "/deaw0ZqB4AS5sUJnQGfiySQy5vp.png",
+    "de": "/kHFTUu25eTUx5xsSQqwohFNMy52.png",
+    "it": "/foLKZOlmlIVeggDYCqEQJOkj1Gz.png",
+    "es": "/rWHcIwC1oANflXcJ9VExJM2G4tx.png",
+    "sv": "/yr1BFDWJPICx1UkbZjdiUHDQCHA.png"
+   }
+  },
+  {
+   "id": 675,
+   "year": "2007",
+   "title": {
+    "fr": "Harry Potter et l'Ordre du Phénix",
+    "en": "Harry Potter and the Order of the Phoenix",
+    "de": "Harry Potter und der Orden des Phönix",
+    "it": "Harry Potter e l'ordine della fenice",
+    "es": "Harry Potter y la Orden del Fénix",
+    "sv": "Harry Potter och Fenixorden"
+   },
+   "backdrops": [
+    "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg"
+   ],
+   "logo": {
+    "fr": "/dBFWCNCLSldxH1nxyfceLTrmVrb.png",
+    "en": "/zumi4t98VB09Xsq99AKimF5kKMA.png",
+    "de": "/oOdyXQQ44N01doTSj36lNAeNJDF.png",
+    "it": "/8YdrfsVa4MGGR0IsMvEvJ4GsOuX.png",
+    "es": "/kanujojNPUAE6gMyUvBQu8ckxUA.png",
+    "sv": "/jpfiyVo1RXnD8PFd4qF5nZftJ92.png"
+   }
+  },
+  {
+   "id": 767,
+   "year": "2009",
+   "title": {
+    "fr": "Harry Potter et le Prince de sang-mêlé",
+    "en": "Harry Potter and the Half-Blood Prince",
+    "de": "Harry Potter und der Halbblutprinz",
+    "it": "Harry Potter e il principe mezzosangue",
+    "es": "Harry Potter y el misterio del príncipe",
+    "sv": "Harry Potter och Halvblodsprinsen"
+   },
+   "backdrops": [
+    "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg"
+   ],
+   "logo": {
+    "fr": "/opgAfM8A5WJ5eiPKVGS5SBV0G2L.png",
+    "en": "/lrYMQm87y5lj8PN4BAfKnNZijt0.png",
+    "de": "/rDjDzLkd7Zk95akjz48H7lcgjjP.png",
+    "it": "/8foVAJkcyGmQl2a4tQsrqAd47Lk.png",
+    "es": "/c35xQgOgux52F0D2vec4E1EAII8.png",
+    "sv": "/Apwuh6LJQm4uolNKFTiRk08jl9s.png"
+   }
+  },
+  {
+   "id": 12444,
+   "year": "2010",
+   "title": {
+    "fr": "Harry Potter et les Reliques de la Mort - 1ère partie",
+    "en": "Harry Potter and the Deathly Hallows: Part 1",
+    "de": "Harry Potter und die Heiligtümer des Todes - Teil 1",
+    "it": "Harry Potter e i Doni della Morte - Parte 1",
+    "es": "Harry Potter y las Reliquias de la Muerte - Parte 1",
+    "sv": "Harry Potter och dödsrelikerna, del 1"
+   },
+   "backdrops": [
+    "/slW0M2G9txC0aUbftCTm1nYX1K8.jpg"
+   ],
+   "logo": {
+    "fr": "/oUhwLS7wQjnY7p3ujKWH4WpQUoP.png",
+    "en": "/jIR5aWOBsjPVoCwDMQcrY4iaxcd.png",
+    "de": "/yHPl1AknaEM2fbZAp4BHsavlnY5.png",
+    "it": "/uIcDFBvDKDUiR1dduo92V5JRHJ4.png",
+    "es": "/eF3dSBpL5kToDF7XUYUx9hWtmtV.png",
+    "sv": "/f3Ti8sf3kJhqK0gVUFj5PpdqCI2.png"
+   }
+  },
+  {
+   "id": 12445,
+   "year": "2011",
+   "title": {
+    "fr": "Harry Potter et les Reliques de la Mort - 2ème partie",
+    "en": "Harry Potter and the Deathly Hallows: Part 2",
+    "de": "Harry Potter und die Heiligtümer des Todes - Teil 2",
+    "it": "Harry Potter e i Doni della Morte - Parte 2",
+    "es": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+    "sv": "Harry Potter och dödsrelikerna, del 2"
+   },
+   "backdrops": [
+    "/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg"
+   ],
+   "logo": {
+    "fr": "/gZ1eCvXdrYFQm0bW42plFUkV2nG.png",
+    "en": "/gBrlHtCEOljXlJiVme4YfbsAk4k.png",
+    "de": "/5GdqEpD0HHZckL8oe0qI5HtZ17i.png",
+    "it": "/4u4XRNSdIkpLe9B58MwJQ6GZQGE.png",
+    "es": "/sAQfRcQZZizy9IJcknSg6n5FWHW.png",
+    "sv": "/uQBcddnGHjnlekqR0wSkVnFMXQm.png"
+   }
+  },
+  {
+   "id": 259316,
+   "year": "2016",
+   "title": {
+    "fr": "Les Animaux Fantastiques",
+    "en": "Fantastic Beasts and Where to Find Them",
+    "de": "Phantastische Tierwesen und wo sie zu finden sind",
+    "it": "Animali fantastici e dove trovarli",
+    "es": "Animales fantásticos y dónde encontrarlos",
+    "sv": "Fantastiska vidunder och var man hittar dem"
+   },
+   "backdrops": [
+    "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg"
+   ],
+   "logo": {
+    "fr": "/a4zgg7Ccgy2Y6Hmr2hqcMyBpMG7.png",
+    "en": "/oXIpV1oAPjx5az5laFsCPmcCZfS.png",
+    "de": "/wg9rzHDiIX3k2q65v2SjaGzKZ7R.png",
+    "it": "/npyLYJgqVbumeLwGTaNjBYqbURO.png",
+    "es": "/rmp2liwukQW85tuAb9hF4wMAscJ.png",
+    "sv": "/tmpkQse4IOO1u3yk1a7k972RgYy.png"
+   }
+  },
+  {
+   "id": 338952,
+   "year": "2018",
+   "title": {
+    "fr": "Les Animaux Fantastiques : Les Crimes de Grindelwald",
+    "en": "Fantastic Beasts: The Crimes of Grindelwald",
+    "de": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+    "it": "Animali fantastici - I crimini di Grindelwald",
+    "es": "Animales fantásticos II. Los crímenes de Grindelwald",
+    "sv": "Fantastiska vidunder: Grindelwalds brott"
+   },
+   "backdrops": [
+    "/i3rRY0EKYhSpyOLRAQ7iB05zhAp.jpg"
+   ],
+   "logo": {
+    "fr": "/jZfBXNfrss5nNhOli0lvmfneBkQ.png",
+    "en": "/ekZfK5O9Kq5dtL4PD2NCGdL3XME.png",
+    "de": "/cV5L3EhpJD67Sz0HowEeXokRSiK.png",
+    "it": "/qNxifmrPJFCnxvwMNYieOpkV04r.png",
+    "es": "/h7OvZAahEfrTFSDFgzH17hENPa.png",
+    "sv": "/587T7VAxjRAIcrELDjJxJaCbqJo.png"
+   }
+  },
+  {
+   "id": 338953,
+   "year": "2022",
+   "title": {
+    "fr": "Les Animaux fantastiques : Les Secrets de Dumbledore",
+    "en": "Fantastic Beasts: The Secrets of Dumbledore",
+    "de": "Phantastische Tierwesen: Dumbledores Geheimnisse",
+    "it": "Animali fantastici - I segreti di Silente",
+    "es": "Animales fantásticos III. Los secretos de Dumbledore",
+    "sv": "Fantastiska vidunder: Dumbledores hemligheter"
+   },
+   "backdrops": [
+    "/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg"
+   ],
+   "logo": {
+    "fr": "/mbbFibblJj4xToPvROWteZLzx7.png",
+    "en": "/guuPvAB0qHEPe1KQtzfxsLRvlSI.png",
+    "de": "/iCtbnKV38La0SKyOBC8Ydfpwr6H.png",
+    "it": "/wgowYbiQWi88MonOHAQOEK3WAWc.png",
+    "es": "/uQ3G9IFHcBsts67ifZQAiIOaUg3.png",
+    "sv": "/q8JmPHpk5RWuEv8TznX0P2KiAwr.png"
+   }
+  }
+ ]
+}

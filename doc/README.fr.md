@@ -106,8 +106,8 @@ depuis un ordinateur, avec [adb](https://developer.android.com/tools/adb) connec
 
 Les images de l'accueil viennent soit des **photos Bing du jour**, soit de **vos playlists** de films.
 
-- **Packs de fonds** : des playlists thématiques toutes prêtes (Disney & Pixar, Studio Ghibli,
-  Classiques & Marvel…), à installer en un clic depuis **Réglages → Playlists → Parcourir les packs**.
+- **Packs de fonds** : des playlists thématiques toutes prêtes (20 packs : Star Wars,
+  Studio Ghibli, Christopher Nolan, horreur, années 80, James Bond, westerns…), à installer en un clic depuis **Réglages → Playlists → Parcourir les packs**.
   Elles ne demandent aucune clé TMDB. Titres et logos sont dans votre langue quand ils existent.
 - **Vos propres playlists** : cherchez un film par son titre, au clavier ou à la voix, ou importez
   d'un coup les films populaires ou en tendance. Pour chaque film, choisissez le ou les fonds qui

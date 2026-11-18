@@ -7,7 +7,7 @@ Proscenium remplace l'écran d'accueil de votre TV Android par une salle de cin�
 <li>Raccourcis vers les entrées HDMI de la TV pour les consoles et lecteurs, avec 24 icônes de consoles</li>
 <li>Horloge à chiffres roulants et météo en direct avec vent et rafales</li>
 <li>Mode cinéma quand la télécommande est posée : bandes noires, logo officiel du film et année</li>
-<li>Packs de fonds tout prêts (Disney &amp; Pixar, Studio Ghibli, Classiques &amp; Marvel), sans clé</li>
+<li>Packs de fonds tout prêts (20 packs : Star Wars, Studio Ghibli, Christopher Nolan, horreur, années 80…), sans clé</li>
 <li>Vos propres playlists The Movie Database, avec la clé saisie depuis le téléphone par QR code</li>
 <li>Économiseur d'écran Android, sons d'interface, mode économie, sauvegarde et restauration</li>
 <li>Six langues : français, anglais, allemand, italien, espagnol et suédois</li>

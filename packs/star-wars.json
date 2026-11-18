@@ -1,0 +1,300 @@
+{
+ "id": "star-wars",
+ "version": 1,
+ "name": {
+  "fr": "Star Wars",
+  "en": "Star Wars",
+  "de": "Star Wars",
+  "it": "Star Wars",
+  "es": "Star Wars",
+  "sv": "Star Wars"
+ },
+ "description": {
+  "fr": "La saga Skywalker et ses films dérivés",
+  "en": "The Skywalker saga and its spin-off films",
+  "de": "Die Skywalker-Saga und ihre Ablegerfilme",
+  "it": "La saga degli Skywalker e i suoi film spin-off",
+  "es": "La saga Skywalker y sus películas derivadas",
+  "sv": "Skywalkersagan och dess fristående filmer"
+ },
+ "films": [
+  {
+   "id": 11,
+   "year": "1977",
+   "title": {
+    "fr": "La Guerre des étoiles",
+    "en": "Star Wars",
+    "de": "Krieg der Sterne",
+    "it": "Guerre stellari",
+    "es": "La guerra de las galaxias",
+    "sv": "Stjärnornas krig"
+   },
+   "backdrops": [
+    "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg"
+   ],
+   "logo": {
+    "fr": "/aj27iLLhAcmKyCHhwt3kwONNXnI.png",
+    "en": "/vswPivs3yuUsk5aW6DbnyeNQ4GX.png",
+    "de": "/fODbPT1ALJcOSFfcAyJehCkrlwQ.png",
+    "it": "/n9PCMQtJzcHTwjmVjFRWOj6TBQK.png",
+    "es": "/dLgwXopLDtvZ3pn7GbMbSsckKuc.png"
+   }
+  },
+  {
+   "id": 1891,
+   "year": "1980",
+   "title": {
+    "fr": "L'Empire contre-attaque",
+    "en": "The Empire Strikes Back",
+    "de": "Das Imperium schlägt zurück",
+    "it": "L'Impero colpisce ancora",
+    "es": "El imperio contraataca",
+    "sv": "Rymdimperiet slår tillbaka"
+   },
+   "backdrops": [
+    "/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
+   ],
+   "logo": {
+    "fr": "/vHjIGQUmf0Glxlj3RnonJK8PhQy.png",
+    "en": "/bNgZMOcEqdtJejjvZOlfE7W0HQI.png",
+    "de": "/bjp6mY4D3jlYBdebedEyg9m9w3y.png",
+    "it": "/ms0pZRAHJAwE9uURAoklLP4ZJFa.png",
+    "es": "/9cfYSldHZmPukaatZRS4Ren3QX8.png"
+   }
+  },
+  {
+   "id": 1892,
+   "year": "1983",
+   "title": {
+    "fr": "Le Retour du Jedi",
+    "en": "Return of the Jedi",
+    "de": "Die Rückkehr der Jedi-Ritter",
+    "it": "Il ritorno dello Jedi",
+    "es": "El retorno del Jedi",
+    "sv": "Jedins återkomst"
+   },
+   "backdrops": [
+    "/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
+   ],
+   "logo": {
+    "fr": "/syXVQAuBRxA7SAUYTr1Tc7WUvah.png",
+    "en": "/p6UVRBp1Hveqf5nrHAIlIq2LZk0.png",
+    "de": "/p401Gv0Voko2VsHk7XxZEIwPTEN.png",
+    "it": "/1s613zRcu9ANXVKaUSn83AZpMyB.png",
+    "es": "/bOB6lRH8Y0j1Z1g3bDqbGHKBobS.png"
+   }
+  },
+  {
+   "id": 1893,
+   "year": "1999",
+   "title": {
+    "fr": "Star Wars, épisode I - La Menace fantôme",
+    "en": "Star Wars: Episode I - The Phantom Menace",
+    "de": "Star Wars: Episode I - Die dunkle Bedrohung",
+    "it": "Star Wars: Episodio I - La minaccia fantasma",
+    "es": "La guerra de las galaxias. Episodio I: La amenaza fantasma",
+    "sv": "Det mörka hotet"
+   },
+   "backdrops": [
+    "/3TeGmKJfkik1D1rIoqGb1aR4k9c.jpg"
+   ],
+   "logo": {
+    "fr": "/kew3bmV7a0HCnuGJFpgOoJJhi5Q.png",
+    "en": "/ng7NyKidNO3tpngil1jW6DNMPVx.png",
+    "de": "/s2OPnklfUDQExrhgMAHDrx27JOY.png",
+    "it": "/leivDqFnLgAkw5Cqh9mjPtsR4DE.png",
+    "es": "/b3W3Yqm7FGiNC1TFtkiJ3i6BJF4.png"
+   }
+  },
+  {
+   "id": 1894,
+   "year": "2002",
+   "title": {
+    "fr": "Star Wars, épisode II - L'Attaque des clones",
+    "en": "Star Wars: Episode II - Attack of the Clones",
+    "de": "Star Wars: Episode II - Angriff der Klonkrieger",
+    "it": "Star Wars: Episodio II - L'attacco dei cloni",
+    "es": "La guerra de las galaxias. Episodio II: El ataque de los clones",
+    "sv": "Klonerna anfaller"
+   },
+   "backdrops": [
+    "/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg"
+   ],
+   "logo": {
+    "fr": "/pxY7vRs7aOXU2tWIVvGKYRk02PY.png",
+    "en": "/xj4sihWTwI2JxrwsT3SeeIHK073.png",
+    "de": "/jn9pLsVWJqYUPJ9JA79Bb079kZU.png",
+    "it": "/nruYRYOj7nvaciHkIziCcL3IVIj.png",
+    "es": "/75YJJCWdVN8x8yrna4MSG6uLaKl.png"
+   }
+  },
+  {
+   "id": 1895,
+   "year": "2005",
+   "title": {
+    "fr": "Star Wars, épisode III - La Revanche des Sith",
+    "en": "Star Wars: Episode III - Revenge of the Sith",
+    "de": "Star Wars: Episode III - Die Rache der Sith",
+    "it": "Star Wars: Episodio III - La vendetta dei Sith",
+    "es": "La guerra de las galaxias. Episodio III: La venganza de los Sith",
+    "sv": "Mörkrets hämnd"
+   },
+   "backdrops": [
+    "/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg"
+   ],
+   "logo": {
+    "fr": "/eJicvNyOLz0OXHNqY2tSZxfx1Us.png",
+    "en": "/uqVHXsqPzsLyq1M4xfsglaZSN7l.png",
+    "de": "/vBcHZEcE3qhAFXIPvURB9Y1XBHd.png",
+    "it": "/2sKXDi4NDTchIIY3iIzmTMiFBSR.png",
+    "es": "/4FseIXgsvT63DPC9k4QdzF6MM6t.png"
+   }
+  },
+  {
+   "id": 12180,
+   "year": "2008",
+   "title": {
+    "fr": "Star Wars : The Clone Wars",
+    "en": "Star Wars: The Clone Wars",
+    "de": "Star Wars: The Clone Wars",
+    "it": "Star Wars: The Clone Wars",
+    "es": "Star Wars: Clone Wars",
+    "sv": "Star Wars: The Clone Wars"
+   },
+   "backdrops": [
+    "/eVA4ztLIuPEsokkgQ3NRt9rTRVh.jpg"
+   ],
+   "logo": {
+    "fr": "/9HJZv6T8UhERWArKqdpjbHUCR07.png",
+    "en": "/9M3okCNPKGZYaEzl9N5sv7azqjA.png",
+    "es": "/aaiQ14XfMtxKO8bxfB3ptOBSDyp.png"
+   }
+  },
+  {
+   "id": 140607,
+   "year": "2015",
+   "title": {
+    "fr": "Star Wars : Le Réveil de la Force",
+    "en": "Star Wars: The Force Awakens",
+    "de": "Star Wars: Das Erwachen der Macht",
+    "it": "Star Wars: Il risveglio della Forza",
+    "es": "Star Wars: El despertar de la fuerza",
+    "sv": "Star Wars: The Force Awakens"
+   },
+   "backdrops": [
+    "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg"
+   ],
+   "logo": {
+    "fr": "/5t3QYGQb6daxUlSt4z2hv92KICu.png",
+    "en": "/iu2iY3tHVf1osTXTtCgVXjyzU1T.png",
+    "de": "/eYviQfy3IvjRIldoBXz0BbhO3VM.png",
+    "it": "/4yvGEzl7Ji5eIdrjNQ5B5ZJXxVS.png",
+    "es": "/1ub5OjVoJ93fwI3Gs83632Wh1XI.png"
+   }
+  },
+  {
+   "id": 330459,
+   "year": "2016",
+   "title": {
+    "fr": "Rogue One : A Star Wars Story",
+    "en": "Rogue One: A Star Wars Story",
+    "de": "Rogue One: A Star Wars Story",
+    "it": "Rogue One: A Star Wars Story",
+    "es": "Rogue One: Una historia de Star Wars",
+    "sv": "Rogue One: A Star Wars Story"
+   },
+   "backdrops": [
+    "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg"
+   ],
+   "logo": {
+    "en": "/dOTDLwFfew3CDPv8tmlHIcOtCqi.png",
+    "it": "/hRnYNoYSiXmGQ22sFI68kupALk2.png",
+    "es": "/dDGw5Dfqgn128az8o0cdXtAcwbG.png"
+   }
+  },
+  {
+   "id": 181808,
+   "year": "2017",
+   "title": {
+    "fr": "Star Wars : Les Derniers Jedi",
+    "en": "Star Wars: The Last Jedi",
+    "de": "Star Wars: Die letzten Jedi",
+    "it": "Star Wars: Gli ultimi Jedi",
+    "es": "Star Wars: Los últimos Jedi",
+    "sv": "Star Wars: The Last Jedi"
+   },
+   "backdrops": [
+    "/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg"
+   ],
+   "logo": {
+    "fr": "/vk924FbGNjkRZrswDFVCFAieLOo.png",
+    "en": "/mAfZf0UEaSFjWNzIgYS9OPeUuXr.png",
+    "de": "/bdHlDaPOooxPmLqYccu9xPRhUom.png",
+    "it": "/ut3RuBkpw3nmvMK3I5m17TzT0Zd.png",
+    "es": "/sKU6BRiZsbBOG68VosP2VKhIKlt.png"
+   }
+  },
+  {
+   "id": 348350,
+   "year": "2018",
+   "title": {
+    "fr": "Solo: A Star Wars Story",
+    "en": "Solo: A Star Wars Story",
+    "de": "Solo: A Star Wars Story",
+    "it": "Solo: A Star Wars Story",
+    "es": "Han Solo: Una historia de Star Wars",
+    "sv": "Solo: A Star Wars Story"
+   },
+   "backdrops": [
+    "/y9jGaGNn1dQDhPkhMumXaLize73.jpg"
+   ],
+   "logo": {
+    "en": "/2c7QT4VXeJDmHPa0pb0CHCAIcAq.png",
+    "it": "/zFGJF6AFa4Y3wnwrcSfZCPifgkT.png",
+    "es": "/7b7HiLVYF6oZz0FLtGH97WBB4CM.png"
+   }
+  },
+  {
+   "id": 181812,
+   "year": "2019",
+   "title": {
+    "fr": "Star Wars : L'Ascension de Skywalker",
+    "en": "Star Wars: The Rise of Skywalker",
+    "de": "Star Wars: Der Aufstieg Skywalkers",
+    "it": "Star Wars: L'ascesa di Skywalker",
+    "es": "Star Wars: El ascenso de Skywalker",
+    "sv": "Star Wars: The Rise of Skywalker"
+   },
+   "backdrops": [
+    "/auJKGst3vXpJozHZh4nMFs0xWIU.jpg"
+   ],
+   "logo": {
+    "fr": "/7pGiApdMCbyKLBSETJcIEqyxqL1.png",
+    "en": "/9J11DB6FnmhofyPyaYouR8Powse.png",
+    "de": "/cYgX31VQPnAVYt6d68ZxBSF8Ce4.png",
+    "it": "/2a0vEekTIo05Jn8Kyb5LHPG00F9.png",
+    "es": "/eC99nNEGwR3DpqiKs20DyXeDL2H.png"
+   }
+  },
+  {
+   "id": 1228710,
+   "year": "2026",
+   "title": {
+    "fr": "The Mandalorian and Grogu",
+    "en": "The Mandalorian and Grogu",
+    "de": "Star Wars: The Mandalorian and Grogu",
+    "it": "Star Wars: The Mandalorian and Grogu",
+    "es": "The Mandalorian and Grogu",
+    "sv": "The Mandalorian and Grogu"
+   },
+   "backdrops": [
+    "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg"
+   ],
+   "logo": {
+    "fr": "/oEtm1nmkNGoGon4lDObfXZPuFWf.png",
+    "en": "/xSj9QrjsR8fZnSuEt6e7QZvrqSy.png",
+    "es": "/eKidr499bFyOOB5Z3dQcsXzaCnE.png"
+   }
+  }
+ ]
+}

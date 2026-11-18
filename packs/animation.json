@@ -1,0 +1,902 @@
+{
+ "id": "animation",
+ "version": 1,
+ "name": {
+  "fr": "Animation",
+  "en": "Animation",
+  "de": "Animation",
+  "it": "Animazione",
+  "es": "Animación",
+  "sv": "Animation"
+ },
+ "description": {
+  "fr": "DreamWorks, Illumination, Aardman, Laika, Sony et d'autres studios d'animation",
+  "en": "DreamWorks, Illumination, Aardman, Laika, Sony and other animation studios",
+  "de": "DreamWorks, Illumination, Aardman, Laika, Sony und weitere Animationsstudios",
+  "it": "DreamWorks, Illumination, Aardman, Laika, Sony e altri studi d'animazione",
+  "es": "DreamWorks, Illumination, Aardman, Laika, Sony y otros estudios de animación",
+  "sv": "DreamWorks, Illumination, Aardman, Laika, Sony och andra animationsstudior"
+ },
+ "films": [
+  {
+   "id": 9837,
+   "year": "1998",
+   "title": {
+    "fr": "Le Prince d'Égypte",
+    "en": "The Prince of Egypt",
+    "de": "Der Prinz von Ägypten",
+    "it": "Il principe d'Egitto",
+    "es": "El príncipe de Egipto",
+    "sv": "Prinsen av Egypten"
+   },
+   "backdrops": [
+    "/t99yoXMRlGlaFslMYTP2bXlQDqb.jpg"
+   ],
+   "logo": {
+    "fr": "/99g7zwWMyYuvfT1aToQ658HrrY6.png",
+    "en": "/4JQEFnvRG7pi83jpF6RuOh9ZNgY.png",
+    "de": "/eOEmcGUlkiwmeHy2gX8klWng1Kp.png",
+    "it": "/qJiGHrjQhCLZXT1nGtVjXc1CtRH.png",
+    "es": "/f8gfYJDZDDgJ54Kq9IhttjPgx08.png",
+    "sv": "/zuqICkNZJG7PfTD21vZ57Hjg8Zh.png"
+   }
+  },
+  {
+   "id": 10501,
+   "year": "2000",
+   "title": {
+    "fr": "La Route d'El Dorado",
+    "en": "The Road to El Dorado",
+    "de": "Der Weg nach El Dorado",
+    "it": "La strada per El Dorado",
+    "es": "La ruta hacia El Dorado",
+    "sv": "Vägen till El Dorado"
+   },
+   "backdrops": [
+    "/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg"
+   ],
+   "logo": {
+    "fr": "/rgiD04cPr8bW0P5qqdBZIk2SPWK.png",
+    "en": "/8fURGFm2Xd1dh9FZWM8Wafdsg52.png",
+    "de": "/y2WdEo0kczt0ayK3pZaJ4S6zT1T.png",
+    "it": "/IewkCrdcOCpp4ZEy1ZDQXhkScZ.png",
+    "es": "/xPYcdlAeDBY5pKDxMa74iaDwtGl.png",
+    "sv": "/nqYRdaaifupJLIX8TdA2T79qMV2.png"
+   }
+  },
+  {
+   "id": 7443,
+   "year": "2000",
+   "title": {
+    "fr": "Chicken Run",
+    "en": "Chicken Run",
+    "de": "Chicken Run - Hennen rennen",
+    "it": "Galline in fuga",
+    "es": "Chicken Run: Evasión en la granja",
+    "sv": "Flykten från hönsgården"
+   },
+   "backdrops": [
+    "/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg"
+   ],
+   "logo": {
+    "fr": "/wfWM4vtzdEzxRJHO9c1BDe0tpX7.png",
+    "en": "/2QGUE6u4M7sddXKpttgS4AP2GBC.png",
+    "de": "/y6KG7Gu3WctpZMWbqVvXcReKlFb.png",
+    "it": "/3B950ZutfuPAk5RiUp6jjS3XeEv.png",
+    "es": "/3EK52fuwy5Jofuy8q7kDI23WShE.png"
+   }
+  },
+  {
+   "id": 808,
+   "year": "2001",
+   "title": {
+    "fr": "Shrek",
+    "en": "Shrek",
+    "de": "Shrek - Der tollkühne Held",
+    "it": "Shrek",
+    "es": "Shrek",
+    "sv": "Shrek"
+   },
+   "backdrops": [
+    "/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg"
+   ],
+   "logo": {
+    "en": "/mEtAnquVJzgMwmBeZNw4fhccj2s.png",
+    "de": "/rwNqxCz8323hEKx0Q9uTgPNCVhR.png",
+    "it": "/6KfJHuQC6pp5FhjoYPZ0zx1amgD.png",
+    "es": "/cG7OAQ70wQHI3Ala2fen5r3hOlY.png"
+   }
+  },
+  {
+   "id": 425,
+   "year": "2002",
+   "title": {
+    "fr": "L'Âge de glace",
+    "en": "Ice Age",
+    "de": "Ice Age",
+    "it": "L'era glaciale",
+    "es": "Ice Age: La edad de hielo",
+    "sv": "Ice Age"
+   },
+   "backdrops": [
+    "/tyVAGH1vw9JDgxPyTUQPn91nIYc.jpg"
+   ],
+   "logo": {
+    "fr": "/4UuXS1nt0rgiqpUENZGUtneCeUB.png",
+    "en": "/o2dJGLPODV3jz9rWsX1hERFAh7X.png",
+    "it": "/4i3qYsFaTFcq0NVm2B6G5fDUc0L.png",
+    "es": "/dvXYwZTtngcjdps0NKjggntW1Ak.png"
+   }
+  },
+  {
+   "id": 9023,
+   "year": "2002",
+   "title": {
+    "fr": "Spirit, l'étalon des plaines",
+    "en": "Spirit: Stallion of the Cimarron",
+    "de": "Spirit - Der Wilde Mustang",
+    "it": "Spirit - Cavallo selvaggio",
+    "es": "Spirit: El corcel indomable",
+    "sv": "Spirit: Hästen från vildmarken"
+   },
+   "backdrops": [
+    "/b8hPBW0NJmiIVzvQjT3CwIpAdzl.jpg"
+   ],
+   "logo": {
+    "fr": "/xZyPTyxu3mZwNlzSSTBu0248iwV.png",
+    "en": "/cnbcE3T2DsCKWcZD7sp4FOYH7B7.png",
+    "de": "/51H5Tw75Ga8ZCs2LI49lX8elEyY.png",
+    "it": "/jzbTlOevmu4LreFaW0L8dAS9Hgd.png",
+    "es": "/9Kg5DkaU516cCYJ7jetbAV38lCx.png",
+    "sv": "/j5jkKYPipEbIzVnBtwKrL98Gt3a.png"
+   }
+  },
+  {
+   "id": 809,
+   "year": "2004",
+   "title": {
+    "fr": "Shrek 2",
+    "en": "Shrek 2",
+    "de": "Shrek 2 - Der tollkühne Held kehrt zurück",
+    "it": "Shrek 2",
+    "es": "Shrek 2",
+    "sv": "Shrek 2"
+   },
+   "backdrops": [
+    "/8ohobj5lAIbl5XWw11FywS3IRrS.jpg"
+   ],
+   "logo": {
+    "en": "/3xIgLhQhqQOeRXbYIOi4rYkFulH.png",
+    "de": "/oQcLdRFpUtnlCRKL9oJ9cXoQMQt.png",
+    "it": "/wwpQ0J8cAQGV3rBWgBEDdpBum6Q.png"
+   }
+  },
+  {
+   "id": 3933,
+   "year": "2005",
+   "title": {
+    "fr": "Les Noces funèbres",
+    "en": "Corpse Bride",
+    "de": "Corpse Bride - Hochzeit mit einer Leiche",
+    "it": "La sposa cadavere",
+    "es": "La novia cadáver",
+    "sv": "Tim Burton's Corpse Bride"
+   },
+   "backdrops": [
+    "/v23fWgJUEt8EMmvn19btIacxP8E.jpg"
+   ],
+   "logo": {
+    "fr": "/nXp2uKra7LQx7mmtUUwfpjZOdOR.png",
+    "en": "/hrTz8M55rwC08IBf0MoW8BBBAfc.png",
+    "de": "/sTWfqL1CsLjGf8CvR1OB2yfu1si.png",
+    "it": "/o9j5SanKXznegoVNUNG13lHVSdf.png",
+    "es": "/ziA8XAfgm07oHkwuMxA71tyP4yl.png"
+   }
+  },
+  {
+   "id": 533,
+   "year": "2005",
+   "title": {
+    "fr": "Wallace & Gromit : Le Mystère du lapin-garou",
+    "en": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "de": "Wallace & Gromit - Auf der Jagd nach dem Riesenkaninchen",
+    "it": "Wallace & Gromit - La maledizione del coniglio mannaro",
+    "es": "Wallace y Gromit: La maldición de las verduras",
+    "sv": "Wallace & Gromit - varulvskaninens förbannelse"
+   },
+   "backdrops": [
+    "/Aqvtwgu1G4eEwIf8nSIxiCN5ewC.jpg"
+   ],
+   "logo": {
+    "fr": "/dhZXaBuViku91l4r395jVRikMjv.png",
+    "en": "/xaW0oUbSzoOC4YlO0mVVMbL4GYM.png",
+    "de": "/sEUU2nvdLOABqzkuHj8H3uCHFDM.png",
+    "es": "/tkbW9I7AqmSnruB3OQTLwmWAJfL.png"
+   }
+  },
+  {
+   "id": 9502,
+   "year": "2008",
+   "title": {
+    "fr": "Kung Fu Panda",
+    "en": "Kung Fu Panda",
+    "de": "Kung Fu Panda",
+    "it": "Kung Fu Panda",
+    "es": "Kung Fu Panda",
+    "sv": "Kung Fu Panda"
+   },
+   "backdrops": [
+    "/qdthf9WrRDSaIkGVQGhhJ9pz1hn.jpg"
+   ],
+   "logo": {
+    "fr": "/qxSIApnsfBlefUsSgWzvr1Aiywp.png",
+    "en": "/gkpcd4k3IrkqIAqRBNLLjBHGYyr.png",
+    "es": "/8WKDWnKfoG0IdhBikwif9XWlRrX.png"
+   }
+  },
+  {
+   "id": 14836,
+   "year": "2009",
+   "title": {
+    "fr": "Coraline",
+    "en": "Coraline",
+    "de": "Coraline",
+    "it": "Coraline e la porta magica",
+    "es": "Los mundos de Coraline",
+    "sv": "Coraline och spegelns hemlighet"
+   },
+   "backdrops": [
+    "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg"
+   ],
+   "logo": {
+    "fr": "/aiaEjJFEKMKlXllQ38E7adK40wU.png",
+    "en": "/9Aqk9kpuUfHAyPrALsTmcht5W6s.png",
+    "it": "/iPFIo2iNaSm2sm1b31rsAph0GqB.png",
+    "es": "/quxALlwYhgQjDO05nusMqUO99J9.png"
+   }
+  },
+  {
+   "id": 10191,
+   "year": "2010",
+   "title": {
+    "fr": "Dragons",
+    "en": "How to Train Your Dragon",
+    "de": "Drachenzähmen leicht gemacht",
+    "it": "Dragon Trainer",
+    "es": "Cómo entrenar a tu dragón",
+    "sv": "Draktränaren"
+   },
+   "backdrops": [
+    "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg"
+   ],
+   "logo": {
+    "fr": "/sSOVATjGATVSWpjCab3kd6tuRy2.png",
+    "en": "/fVx8L4UnxrgRjiyJFPfDt9XU6Nt.png",
+    "de": "/kA90aYG1FNKvQ95Gl0J7ZV3Qmr0.png",
+    "it": "/p1dNASbuCazeRyVCfKqgW4PNjV2.png",
+    "es": "/kApyKGMzbhUybpdBZf2GUZJC4my.png",
+    "sv": "/bJfqSgpCxSNwzOSaBd7DcV1gMHy.png"
+   }
+  },
+  {
+   "id": 20352,
+   "year": "2010",
+   "title": {
+    "fr": "Moi, moche et méchant",
+    "en": "Despicable Me",
+    "de": "Ich - Einfach unverbesserlich",
+    "it": "Cattivissimo me",
+    "es": "Gru Mi villano favorito",
+    "sv": "Dumma mej"
+   },
+   "backdrops": [
+    "/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg"
+   ],
+   "logo": {
+    "fr": "/rHq2j055Md5J1BgWIuFP0zUXa1g.png",
+    "en": "/hrAeReyKsy89ue9bMWKuTJ57GGz.png",
+    "de": "/3Z9hg2ZImfkmgggkmm2ZQXZHfb0.png",
+    "it": "/4JuPEVt3q7tMH9OF76m44zRDwqc.png",
+    "es": "/cYAsvh3Ju1nEUH799ePguv7ltq.png",
+    "sv": "/yPtnhbKZo276wvzhQ1cT0gtTYFV.png"
+   }
+  },
+  {
+   "id": 81188,
+   "year": "2012",
+   "title": {
+    "fr": "Les Cinq Légendes",
+    "en": "Rise of the Guardians",
+    "de": "Die Hüter des Lichts",
+    "it": "Le 5 leggende",
+    "es": "El origen de los guardianes",
+    "sv": "De fem legenderna"
+   },
+   "backdrops": [
+    "/46IGtYNjpIvQYRIQlb2X493Wh8x.jpg"
+   ],
+   "logo": {
+    "fr": "/yLrgUMeKOSlsnWYuYZZ2aIuuas1.png",
+    "en": "/iXUUbShdaBm4dklLK2kUmFRahId.png",
+    "de": "/98KEIOYulyGsliGGaC6A12YMeMp.png",
+    "it": "/bISn97Q5sY81uJp03UKn5PhnSvP.png",
+    "es": "/7MzYKrGYTuglmtOCKhooNf7zNyx.png",
+    "sv": "/5bBiIyFfOJyrzb8sxSfMpharAZG.png"
+   }
+  },
+  {
+   "id": 137106,
+   "year": "2014",
+   "title": {
+    "fr": "La Grande Aventure LEGO",
+    "en": "The Lego Movie",
+    "de": "The Lego Movie",
+    "it": "The Lego Movie",
+    "es": "La LEGO película",
+    "sv": "Lego filmen"
+   },
+   "backdrops": [
+    "/6gI1dAkOaUQ6659OdRPsTLlsem5.jpg"
+   ],
+   "logo": {
+    "fr": "/bqHZqQ2OzlgHUGcYnqycTTeRpnG.png",
+    "en": "/2kTDt0uOb4xQzvw1h8ZRufoXNCX.png",
+    "es": "/qZfk4HtK7hHuEzRTEPGKfHtrO5N.png",
+    "sv": "/6xNhf3lRsGBUcxw0d3l3kFhnS19.png"
+   }
+  },
+  {
+   "id": 82702,
+   "year": "2014",
+   "title": {
+    "fr": "Dragons 2",
+    "en": "How to Train Your Dragon 2",
+    "de": "Drachenzähmen leicht gemacht 2",
+    "it": "Dragon Trainer 2",
+    "es": "Cómo entrenar a tu dragón 2",
+    "sv": "Draktränaren 2"
+   },
+   "backdrops": [
+    "/8AAuJtCzaibYkbE0QVHc8EBsELB.jpg"
+   ],
+   "logo": {
+    "fr": "/pio6tRNIny5Ni4ZwQjrxsTddfTw.png",
+    "en": "/4yfkRsREJQGXQtlbfccJNsmM4jw.png",
+    "de": "/jygKv5V7OLAzKNFTzJqOXBGmsZV.png",
+    "it": "/8zBWtFh3saBMk3MUJjRat2MtlNQ.png",
+    "es": "/9yFM0X9eZjN3Ughx80IhtEyT9Bu.png",
+    "sv": "/GItCi9uXh5tqAxj3UlCencDPCr.png"
+   }
+  },
+  {
+   "id": 110416,
+   "year": "2014",
+   "title": {
+    "fr": "Le Chant de la mer",
+    "en": "Song of the Sea",
+    "de": "Die Melodie des Meeres",
+    "it": "La canzone del mare",
+    "es": "La canción del mar",
+    "sv": "Havets sång"
+   },
+   "backdrops": [
+    "/mVLZvSe1Aa8CFKx0cInTamVZJrW.jpg"
+   ],
+   "logo": {
+    "fr": "/5fz424VogemKqQBHQ1jcFIttqD.png",
+    "en": "/xTJotZ5ZSYukBPBVrdYmtUCelXT.png",
+    "de": "/jOCpuBoBviBYJfQBi3Xl6Om2Mg1.png",
+    "it": "/xOHLsWU2TXmAuhuzsVv02lrUkZp.png",
+    "es": "/exoFRUx9Ow3612CFpFaLxVfnBnW.png"
+   }
+  },
+  {
+   "id": 313297,
+   "year": "2016",
+   "title": {
+    "fr": "Kubo et l'armure magique",
+    "en": "Kubo and the Two Strings",
+    "de": "Kubo - Der tapfere Samurai",
+    "it": "Kubo e la spada magica",
+    "es": "Kubo y las dos cuerdas mágicas",
+    "sv": "Kubo och de två strängarna"
+   },
+   "backdrops": [
+    "/m0IAseOXdRhbGXO1pKZlnOEvNeQ.jpg"
+   ],
+   "logo": {
+    "fr": "/nN56YnQGGW5NNBRMhHLqgZQuy3v.png",
+    "en": "/eP8USUQHpN4pdYXfXycF4PmCwbf.png",
+    "it": "/Ac9X0xmCz98kRlSitZpzt7j6WkP.png",
+    "es": "/frdebhj3FvHxvz2qeSUD4uevok7.png",
+    "sv": "/fV8xyHurs134467MIZfa9VTjKg4.png"
+   }
+  },
+  {
+   "id": 324849,
+   "year": "2017",
+   "title": {
+    "fr": "Lego Batman, le film",
+    "en": "The Lego Batman Movie",
+    "de": "The Lego Batman Movie",
+    "it": "LEGO Batman: Il film",
+    "es": "Batman: La LEGO película",
+    "sv": "The Lego Batman Movie"
+   },
+   "backdrops": [
+    "/rzRJJ6wxSG5bEmcBpQ3guvAF0eJ.jpg"
+   ],
+   "logo": {
+    "fr": "/f0NtG8RM3gtulmZxXA6eO0WR0kD.png",
+    "en": "/l1ly31zDxwiLMWWTcjyOyV93dRe.png",
+    "es": "/gv8OgZN7nkuuYlvYkxP20qzmoH5.png"
+   }
+  },
+  {
+   "id": 364689,
+   "year": "2017",
+   "title": {
+    "fr": "Ferdinand",
+    "en": "Ferdinand",
+    "de": "Ferdinand - Geht STIERisch ab!",
+    "it": "Ferdinand",
+    "es": "Ferdinand",
+    "sv": "Tjuren Ferdinand"
+   },
+   "backdrops": [
+    "/sTOhZruocNubL0HxjvdouwCEL9I.jpg"
+   ],
+   "logo": {
+    "en": "/kpEm1tQm49inMh757sjvx0LVX6t.png",
+    "es": "/wHhnBsVmMck5ESFB6XxOeNWEOn1.png",
+    "sv": "/gT145X1tDqqxhQufSAZBKxPaqMQ.png"
+   }
+  },
+  {
+   "id": 324857,
+   "year": "2018",
+   "title": {
+    "fr": "Spider-Man : New Generation",
+    "en": "Spider-Man: Into the Spider-Verse",
+    "de": "Spider-Man: A New Universe",
+    "it": "Spider-Man: Un nuovo universo",
+    "es": "Spider-Man: un nuevo universo",
+    "sv": "Spider-Man: Into the Spider-Verse"
+   },
+   "backdrops": [
+    "/1ntePsIqeklfmrQJqZPncCydsqY.jpg"
+   ],
+   "logo": {
+    "fr": "/lc4DScyqH4hk8vRyK5fDBMLG8FS.png",
+    "en": "/xrM5rEtoW0Hd0QXmy5b4WBGZuHd.png",
+    "de": "/8UtU22xcx9BXee95xh9p2GfQ7QS.png",
+    "it": "/1hsYJDlnlvMhEWkK3mAQTYQ9Mws.png",
+    "es": "/wBc4RJcRvvt8fMW27V346Kb7Wm9.png"
+   }
+  },
+  {
+   "id": 166428,
+   "year": "2019",
+   "title": {
+    "fr": "Dragons 3 : Le monde caché",
+    "en": "How to Train Your Dragon: The Hidden World",
+    "de": "Drachenzähmen leicht gemacht 3: Die geheime Welt",
+    "it": "Dragon Trainer - Il mondo nascosto",
+    "es": "Cómo entrenar a tu dragón 3",
+    "sv": "Draktränaren 3"
+   },
+   "backdrops": [
+    "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg"
+   ],
+   "logo": {
+    "fr": "/kvBrl9tj7SSxdLVcHpYplGKuSpW.png",
+    "en": "/xtEU2VCn3j3zBKSI74qCEs6CUYf.png",
+    "de": "/sZ5WNoHnFoSbWHMD7k7LBL7QvFT.png",
+    "it": "/wFEDKCVl7N3L4tpuDdGceN1D7cc.png",
+    "es": "/dnCCeM9t7cShxrbNmmSIw1S8LwR.png",
+    "sv": "/b36xEXUNiPSMKZ5eTxzPBept9Wc.png"
+   }
+  },
+  {
+   "id": 431580,
+   "year": "2019",
+   "title": {
+    "fr": "Abominable",
+    "en": "Abominable",
+    "de": "Everest - Ein Yeti will hoch hinaus",
+    "it": "Il piccolo yeti",
+    "es": "Abominable",
+    "sv": "Förfärliga snömannen"
+   },
+   "backdrops": [
+    "/jXk3ZMq7n4ugOqKYq0CtMn3gia8.jpg"
+   ],
+   "logo": {
+    "fr": "/xSB7XfjhbD8wwGq33tyr7gbd720.png",
+    "en": "/d24UmuiXhAEkfQRvXce1Pr6U4K9.png",
+    "de": "/2nBmmISCYoskM52tKtcGaNKfLrd.png",
+    "it": "/4mbAk5SDbiAeVwV0TGid7gO6uYd.png",
+    "es": "/7pwQeaKRDaA3zr58a4eKpv9mI4s.png",
+    "sv": "/4VVKJoZEV0UuucZTLqZDnSGwPUZ.png"
+   }
+  },
+  {
+   "id": 431693,
+   "year": "2019",
+   "title": {
+    "fr": "Les Incognitos",
+    "en": "Spies in Disguise",
+    "de": "Spione Undercover - Eine wilde Verwandlung",
+    "it": "Spie sotto copertura",
+    "es": "Espías con disfraz",
+    "sv": "Spies in Disguise"
+   },
+   "backdrops": [
+    "/uG1v9Hk1XKICd6IJChRR20mBh8i.jpg"
+   ],
+   "logo": {
+    "fr": "/k0bdsywRPPGZkFGjKdtC7f4ncyf.png",
+    "en": "/cSl9BDN12akpIZz3hGUAJZC2Yfk.png",
+    "de": "/7LUaci7JDzu0tvUaufdkefmXtc1.png",
+    "it": "/aastTtnXnQiwjnCkWgkXblUmsLy.png",
+    "es": "/5lPZVzxJijhRGvOPUE9elpS9Zw0.png"
+   }
+  },
+  {
+   "id": 441130,
+   "year": "2020",
+   "title": {
+    "fr": "Le Peuple Loup",
+    "en": "Wolfwalkers",
+    "de": "Wolfwalkers",
+    "it": "Wolfwalkers - Il popolo dei lupi",
+    "es": "Wolfwalkers",
+    "sv": "Wolfwalkers"
+   },
+   "backdrops": [
+    "/3zTbERSBLh7waK9811RTKGAcG86.jpg"
+   ],
+   "logo": {
+    "fr": "/vCwA8DwpeHe64QVHxuZPMINxq8J.png",
+    "en": "/7t3DeQf1boeuog3dqqVULQSJJ8C.png",
+    "it": "/AsAyFJBf3MmbafleX1TPk6fHFe6.png",
+    "es": "/1XjM98TpYMaSTIx74ufyVSokHAL.png"
+   }
+  },
+  {
+   "id": 529203,
+   "year": "2020",
+   "title": {
+    "fr": "Les Croods 2 : Une nouvelle ère",
+    "en": "The Croods: A New Age",
+    "de": "Die Croods - Alles auf Anfang",
+    "it": "I Croods 2 - Una nuova era",
+    "es": "Los Croods: Una nueva era",
+    "sv": "Croodarna 2: En ny tid"
+   },
+   "backdrops": [
+    "/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg"
+   ],
+   "logo": {
+    "fr": "/m8SDX2NUAjs9kmgBLksQiicyt77.png",
+    "en": "/qRm9iVYcj3SaFJhmb7u5BbWhiDF.png",
+    "de": "/niedpUIEfuerV3uDjVr3mkvIbmZ.png",
+    "it": "/akyZB6Cp80o2m5BgrzOkTlXq0Ok.png",
+    "es": "/qqXQfpe27jYM8h7SmvLk3qWvcJ7.png",
+    "sv": "/k4pLfi52ElN9N9XRDIamjJ5ibQa.png"
+   }
+  },
+  {
+   "id": 550205,
+   "year": "2021",
+   "title": {
+    "fr": "Le Dragon-Génie",
+    "en": "Wish Dragon",
+    "de": "Der Wunschdrache",
+    "it": "Il drago dei desideri",
+    "es": "El dragón de los deseos",
+    "sv": "Önskedraken"
+   },
+   "backdrops": [
+    "/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg"
+   ],
+   "logo": {
+    "fr": "/hvnX7yF9PQAF4gSf8PrJw5xm1Kf.png",
+    "en": "/9e0KwCrgqmUPQ9oviUh4I8uGKtD.png",
+    "de": "/oC1Lwk6qgsD7NJb95WeMcEaTdkx.png",
+    "it": "/w8TmMZN9RAWJyj5ZChWGlx4F0bb.png",
+    "sv": "/vYgKzfPG7WyDBzWBJVZLCSpQy3.png"
+   }
+  },
+  {
+   "id": 501929,
+   "year": "2021",
+   "title": {
+    "fr": "Les Mitchell contre les machines",
+    "en": "The Mitchells vs. the Machines",
+    "de": "Die Mitchells gegen die Maschinen",
+    "it": "I Mitchell contro le macchine",
+    "es": "Los Mitchell contra las máquinas",
+    "sv": "Familjen Mitchell mot maskinerna"
+   },
+   "backdrops": [
+    "/vsZLf5uog08pAnfsMuDWrsLWUUF.jpg"
+   ],
+   "logo": {
+    "fr": "/rniJdvpbnRlubnu5liiaVaHe4wW.png",
+    "en": "/2dBK8tGVO7E3usWVbXNzJl3h7WB.png",
+    "de": "/uvieDa6HoaGgjgRtZNd7twOLRo0.png",
+    "es": "/actGFu0UUNvD55nW1fLZRD2d4ny.png",
+    "sv": "/D5bqD40enZrqH1NYUHDEvP1fvB.png"
+   }
+  },
+  {
+   "id": 438695,
+   "year": "2021",
+   "title": {
+    "fr": "Tous en scène 2",
+    "en": "Sing 2",
+    "de": "Sing - Die Show deines Lebens",
+    "it": "Sing 2 - Sempre più forte",
+    "es": "¡Canta! 2",
+    "sv": "Sing 2"
+   },
+   "backdrops": [
+    "/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg"
+   ],
+   "logo": {
+    "fr": "/tiK7cy1NXOHEhS9UEDQhfofZCev.png",
+    "en": "/mJOSpa211NCNxBKKn7UzZDJsSBP.png",
+    "de": "/jb9gJYVtWrWI6cCvGMGjUN5IgR4.png",
+    "es": "/woGQe4Hd3XQMrevHr1rYM1TmdDL.png"
+   }
+  },
+  {
+   "id": 629542,
+   "year": "2022",
+   "title": {
+    "fr": "Les Bad Guys",
+    "en": "The Bad Guys",
+    "de": "Die Gangster Gang",
+    "it": "Troppo cattivi",
+    "es": "Los tipos malos",
+    "sv": "Tuffa gänget"
+   },
+   "backdrops": [
+    "/a8w3luV9uCjveB8v7grHfvXVOFJ.jpg"
+   ],
+   "logo": {
+    "fr": "/oDk7LwpCOrivXFtubi5YMzQvKg1.png",
+    "en": "/5Jap6B3vU2ZhK2N7rfN3ueMWKTT.png",
+    "de": "/qnMrRkQPJMK60plihd0fbk3NF1b.png",
+    "it": "/mCpx6sOFjKq9dp5sVKkfGEWFdI.png",
+    "es": "/4DcFM0WmiSPJpzxlMgQc96Y9Vlu.png",
+    "sv": "/7FO6qh7eCdOb0AoslK1bDHnv6oB.png"
+   }
+  },
+  {
+   "id": 438148,
+   "year": "2022",
+   "title": {
+    "fr": "Les Minions 2 : Il était une fois Gru",
+    "en": "Minions: The Rise of Gru",
+    "de": "Minions - Auf der Suche nach dem Mini-Boss",
+    "it": "Minions 2 - Come Gru diventa cattivissimo",
+    "es": "Minions: El origen de Gru",
+    "sv": "Minioner: Berättelsen om Gru"
+   },
+   "backdrops": [
+    "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg"
+   ],
+   "logo": {
+    "fr": "/dRkQHOc6Ekg4zWTKP1tICSCV5Cs.png",
+    "en": "/9BhZxOTEspLkXTPQaMuzZVEvmlL.png",
+    "de": "/opTDAvOtQGhBIUVN4ddeS9QGKwW.png",
+    "it": "/jKWsA6dNTGLSYkPy67528u1aTkr.png",
+    "es": "/tG9O2cPqB7WobSdw8ZDVnBDmzAt.png",
+    "sv": "/pHBcsZaHzT07f4zJg0B3iwKUFST.png"
+   }
+  },
+  {
+   "id": 315162,
+   "year": "2022",
+   "title": {
+    "fr": "Le Chat Potté 2 : la dernière quête",
+    "en": "Puss in Boots: The Last Wish",
+    "de": "Der gestiefelte Kater: Der letzte Wunsch",
+    "it": "Il gatto con gli stivali 2 - L'ultimo desiderio",
+    "es": "El Gato con Botas: El último deseo",
+    "sv": "Mästerkatten 2"
+   },
+   "backdrops": [
+    "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg"
+   ],
+   "logo": {
+    "fr": "/62PjA7LKo4TROqrPYQ8gILrWKMI.png",
+    "en": "/j6x6l51OWbqN5Vsc7o6fLoqaHJR.png",
+    "de": "/3CIyGV7wDVZzan1oI0v2UsPKjrG.png",
+    "it": "/ppctbuTQUzDUgORXrvReYPw0noT.png",
+    "es": "/6d8TgK0yVhky2Q09ZVj3Yzoe9AA.png",
+    "sv": "/2ZI6Gsd3kNADj7Vyb4xtuFwnzS.png"
+   }
+  },
+  {
+   "id": 502356,
+   "year": "2023",
+   "title": {
+    "fr": "Super Mario Bros., le film",
+    "en": "The Super Mario Bros. Movie",
+    "de": "Der Super Mario Bros. Film",
+    "it": "Super Mario Bros. Il Film",
+    "es": "Super Mario Bros: La película",
+    "sv": "Super Mario Bros. Filmen"
+   },
+   "backdrops": [
+    "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg"
+   ],
+   "logo": {
+    "fr": "/1UIHwvFP26VYWQb8T3BgZOoDdSc.png",
+    "en": "/sst2kO7ySyAm3z5haWXUszOVWi2.png",
+    "de": "/wcMIcCkKTqeKIHmmTaoKjvwYjod.png",
+    "it": "/n9YkJJabwWKMLwtDPhdaHSr7qyj.png",
+    "es": "/6Fr8xbEmQe9XXmuoNi5atUxoa5U.png",
+    "sv": "/8SlJ5vlEXwh3K7SUYR6Xgvl8e1b.png"
+   }
+  },
+  {
+   "id": 569094,
+   "year": "2023",
+   "title": {
+    "fr": "Spider-Man : Across the Spider-Verse",
+    "en": "Spider-Man: Across the Spider-Verse",
+    "de": "Spider-Man: Across the Spider-Verse",
+    "it": "Spider-Man: Across the Spider-Verse",
+    "es": "Spider-Man: Cruzando el Multiverso",
+    "sv": "Spider-Man: Across the Spider-Verse"
+   },
+   "backdrops": [
+    "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg"
+   ],
+   "logo": {
+    "fr": "/amcmkst5ixKQoofrI5j38UeUctN.png",
+    "en": "/cmE0j3mQQe6xrzLryxGF9rF2KC8.png",
+    "de": "/mqd3Qquzm1BJFARfSVYRUKRPaqF.png",
+    "es": "/kFV7w6AfJogA5io4UyhGD4eNgyJ.png"
+   }
+  },
+  {
+   "id": 940551,
+   "year": "2023",
+   "title": {
+    "fr": "Migration",
+    "en": "Migration",
+    "de": "Raus aus dem Teich",
+    "it": "Prendi il volo",
+    "es": "Migración. Un viaje patas arriba",
+    "sv": "Änder!"
+   },
+   "backdrops": [
+    "/d1ECsrOqB17DamTMPtiUTd6HdXd.jpg"
+   ],
+   "logo": {
+    "fr": "/3Y0ucfovPLyQaZ6Ri8lgQt29mDX.png",
+    "en": "/zs0BkqSQ9XWd0z0euvpu5SyJCfo.png",
+    "de": "/qIL6Lzx7u2izd3dx0VfwV2njUXF.png",
+    "it": "/iaAbJKNYo0mIPGpLNnoQ5cy8W1x.png",
+    "es": "/kKPan5JIDecYT9BbcGhyTlCtR6w.png",
+    "sv": "/6FCJmhgnNsB2UH3RrJcTcViYvQa.png"
+   }
+  },
+  {
+   "id": 1184918,
+   "year": "2024",
+   "title": {
+    "fr": "Le Robot sauvage",
+    "en": "The Wild Robot",
+    "de": "Der wilde Roboter",
+    "it": "Il robot selvaggio",
+    "es": "Robot salvaje",
+    "sv": "Den vilda roboten"
+   },
+   "backdrops": [
+    "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg"
+   ],
+   "logo": {
+    "fr": "/nwAnY7hBWwdJeg9oPMN828puWxn.png",
+    "en": "/xvXJfGKjHHe1m4Usye198DCw7iJ.png",
+    "de": "/74OUNEJyMkfNUUyzViowsCsA7zZ.png",
+    "it": "/5oMFO6sC6SMcOI7f1UjHppcgTtM.png",
+    "es": "/cBgbMZxdmcImD4Al8sq0pffOQ4T.png",
+    "sv": "/sIC1as86fiZtlQ3qRKGl52iPB9z.png"
+   }
+  },
+  {
+   "id": 803796,
+   "year": "2025",
+   "title": {
+    "fr": "KPop Demon Hunters",
+    "en": "KPop Demon Hunters",
+    "de": "KPop Demon Hunters",
+    "it": "KPop Demon Hunters",
+    "es": "Las guerreras k-pop",
+    "sv": "K-Pop: Demonjägarna"
+   },
+   "backdrops": [
+    "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg"
+   ],
+   "logo": {
+    "fr": "/wFV4hRWHzleSa67MhNB7FLkxcMA.png",
+    "en": "/mzHotrzOHHvGN4B8fyVQ55h7Z25.png",
+    "es": "/9cM22kiLT7GthfbYj88mEBeKjqK.png",
+    "sv": "/4c7epqJqJJoOu50Hy6RYVZsP1BF.png"
+   }
+  },
+  {
+   "id": 1297842,
+   "year": "2026",
+   "title": {
+    "fr": "GOAT : Rêver plus haut",
+    "en": "GOAT",
+    "de": "G.O.A.T. - Bock auf grosse Sprünge",
+    "it": "GOAT - Sogna in grande",
+    "es": "GOAT: Como cabras",
+    "sv": "GOAT - bäst i världen"
+   },
+   "backdrops": [
+    "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg"
+   ],
+   "logo": {
+    "fr": "/8HrbMSWS9jmTIAAGnR3kJDQyWPl.png",
+    "en": "/5mTk37Pa6LCMgCwDp2wl4AE3eA9.png",
+    "de": "/45L7TvMidqs3gFAQzOyC4LHS69u.png",
+    "it": "/A9s1xAknnqhTvAUtr0d7gPyUN2p.png",
+    "es": "/zQbdlH52zvg4ONxOrMQ3S32EDGe.png",
+    "sv": "/nYdOujsQZV4Wjng88zqCSHz3kpy.png"
+   }
+  },
+  {
+   "id": 1226863,
+   "year": "2026",
+   "title": {
+    "fr": "Super Mario Galaxy, le film",
+    "en": "The Super Mario Galaxy Movie",
+    "de": "Der Super Mario Galaxy Film",
+    "it": "Super Mario Galaxy - Il film",
+    "es": "Super Mario Galaxy la película",
+    "sv": "Super Mario Galaxy Filmen"
+   },
+   "backdrops": [
+    "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg"
+   ],
+   "logo": {
+    "fr": "/6Wuovl0A7y90YW9DNHG65bBLwF7.png",
+    "en": "/pwZhO2AYoZfq9pwxahTTSuxbVhn.png",
+    "de": "/lQp4m5Rj9H1Nhg0xuAfwzkedpq0.png",
+    "it": "/j27xyyMsSTeAABYg5xM1BYX7kAz.png",
+    "es": "/6iBGJAaGKJ0xDhsnowxKDROLqyK.png",
+    "sv": "/dvWydJyVravnrNGMIphG1P88ILt.png"
+   }
+  },
+  {
+   "id": 1204680,
+   "year": "2026",
+   "title": {
+    "fr": "Coyote vs. Acme",
+    "en": "Coyote vs. Acme",
+    "de": "Coyote vs. ACME",
+    "it": "Coyote vs. Acme",
+    "es": "Coyote vs. Acme",
+    "sv": "Gråben vs Acme"
+   },
+   "backdrops": [
+    "/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg"
+   ],
+   "logo": {
+    "fr": "/hooXnQ4jZBf4MljKMOe9uWyxVrA.png",
+    "en": "/3m1raTve2RWZ0jfnUwHSnRtjVK3.png",
+    "es": "/gjfY4S1CTJuPe3BE8i3flhfQDYY.png",
+    "sv": "/o42jmqq5lqjCoZV0iVnhbqUkTmy.png"
+   }
+  }
+ ]
+}

@@ -106,8 +106,8 @@ dator, med [adb](https://developer.android.com/tools/adb) anslutet till tv:n:
 Bilderna på startskärmen kommer antingen från **Bings dagliga foton** eller från **dina spellistor**
 med filmer.
 
-- **Bakgrundspaket**: färdiga tematiska spellistor (Disney & Pixar, Studio Ghibli,
-  Klassiker & Marvel …) som du installerar med ett klick från
+- **Bakgrundspaket**: färdiga tematiska spellistor (20 paket: Star Wars,
+  Studio Ghibli, Christopher Nolan, skräck, 80-talet, James Bond, westernfilmer …) som du installerar med ett klick från
   **Inställningar → Spellistor → Bläddra bland paket**. De kräver ingen TMDB-nyckel. Titlar och logotyper
   visas på ditt språk när de finns.
 - **Dina egna spellistor**: sök efter en film på titel, med tangentbordet eller rösten, eller

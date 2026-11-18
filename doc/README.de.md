@@ -109,8 +109,8 @@ oder aus.
 Die Bilder des Startbildschirms stammen entweder von den **Bing-Fotos des Tages** oder aus **Ihren
 Playlists** mit Filmen.
 
-- **Hintergrundpakete**: fertige Playlists zu bestimmten Themen (Disney & Pixar, Studio Ghibli,
-  Klassiker & Marvel …), die Sie mit einem Klick installieren unter
+- **Hintergrundpakete**: fertige Playlists zu bestimmten Themen (20 Pakete: Star Wars,
+  Studio Ghibli, Christopher Nolan, Horror, die 80er, James Bond, Western …), die Sie mit einem Klick installieren unter
   **Einstellungen → Playlists → Pakete durchsuchen**. Dafür ist kein TMDB-Schlüssel nötig. Titel und
   Logos erscheinen in Ihrer Sprache, sofern verfügbar.
 - **Eigene Playlists**: Suchen Sie einen Film per Titel, mit der Tastatur oder per Sprache, oder

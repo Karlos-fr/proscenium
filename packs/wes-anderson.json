@@ -1,0 +1,261 @@
+{
+ "id": "wes-anderson",
+ "version": 1,
+ "name": {
+  "fr": "Wes Anderson",
+  "en": "Wes Anderson",
+  "de": "Wes Anderson",
+  "it": "Wes Anderson",
+  "es": "Wes Anderson",
+  "sv": "Wes Anderson"
+ },
+ "description": {
+  "fr": "Les films de Wes Anderson",
+  "en": "The films of Wes Anderson",
+  "de": "Die Filme von Wes Anderson",
+  "it": "I film di Wes Anderson",
+  "es": "Las películas de Wes Anderson",
+  "sv": "Wes Andersons filmer"
+ },
+ "films": [
+  {
+   "id": 13685,
+   "year": "1996",
+   "title": {
+    "fr": "Tête brûlée",
+    "en": "Bottle Rocket",
+    "de": "Durchgeknallt",
+    "it": "Un colpo da dilettanti",
+    "es": "Bottle Rocket (Ladrón que roba a ladrón)",
+    "sv": "Bottle Rocket"
+   },
+   "backdrops": [
+    "/6RE6TbRfsMB6eymXgeuPEjILP7u.jpg"
+   ],
+   "logo": {
+    "en": "/9cEuRPcucNstfehSEcncTArX2sF.png"
+   }
+  },
+  {
+   "id": 11545,
+   "year": "1998",
+   "title": {
+    "fr": "Rushmore",
+    "en": "Rushmore",
+    "de": "Rushmore",
+    "it": "Rushmore",
+    "es": "Academia Rushmore",
+    "sv": "Rushmore"
+   },
+   "backdrops": [
+    "/m6AI69LyhJu4o7auQNTmjyMHBVT.jpg"
+   ],
+   "logo": {
+    "en": "/qJN68kGAW0YOtTpMPR4gRDxrZDT.png"
+   }
+  },
+  {
+   "id": 9428,
+   "year": "2001",
+   "title": {
+    "fr": "La Famille Tenenbaum",
+    "en": "The Royal Tenenbaums",
+    "de": "Die Royal Tenenbaums",
+    "it": "I Tenenbaum",
+    "es": "Los Tenenbaums. Una familia de genios",
+    "sv": "The Royal Tenenbaums"
+   },
+   "backdrops": [
+    "/cbuX448RKetr5Y5cZkmJEfu3xji.jpg"
+   ],
+   "logo": {
+    "fr": "/pPNZKNty7AKS3Pd1Je55Cz2LFJU.png",
+    "en": "/9sKehxiVROAo2LamHYdI2VOsin.png",
+    "it": "/qfYOmOnh0RyGfiNCyL48LVYzZwH.png",
+    "es": "/8A0i6Q67NWNUkzyzON4JmMK0Y7n.png"
+   }
+  },
+  {
+   "id": 421,
+   "year": "2004",
+   "title": {
+    "fr": "La Vie aquatique",
+    "en": "The Life Aquatic with Steve Zissou",
+    "de": "Die Tiefseetaucher",
+    "it": "Le avventure acquatiche di Steve Zissou",
+    "es": "Life Aquatic",
+    "sv": "Life Aquatic"
+   },
+   "backdrops": [
+    "/7tWktnLQ81G8pHUkhuTebcTkcB3.jpg"
+   ],
+   "logo": {
+    "fr": "/kSv6snzxhJl2H8Acwla2nN7gIKJ.png",
+    "en": "/az1v2V9NHAd97UDQyXdb7T9gloW.png",
+    "de": "/7iKKagRdw3EGD1vtOFLax10BRbM.png"
+   }
+  },
+  {
+   "id": 4538,
+   "year": "2007",
+   "title": {
+    "fr": "À bord du Darjeeling Limited",
+    "en": "The Darjeeling Limited",
+    "de": "Darjeeling Limited",
+    "it": "Il treno per il Darjeeling",
+    "es": "Viaje a Darjeeling",
+    "sv": "The Darjeeling Limited"
+   },
+   "backdrops": [
+    "/hKJ513GbmTSmTXJU1uCXclh5Wkh.jpg"
+   ],
+   "logo": {
+    "fr": "/3aG41BmiQJxcHoOygt0HjLRKqi9.png",
+    "en": "/gHEnRHurs4cz1F9hz04hwr3OLOj.png"
+   }
+  },
+  {
+   "id": 10315,
+   "year": "2009",
+   "title": {
+    "fr": "Fantastic Mr. Fox",
+    "en": "Fantastic Mr. Fox",
+    "de": "Der fantastische Mr. Fox",
+    "it": "Fantastic Mr. Fox",
+    "es": "Fantástico Sr. Fox",
+    "sv": "Den fantastiska räven"
+   },
+   "backdrops": [
+    "/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg"
+   ],
+   "logo": {
+    "en": "/rEji5POc62GE9NsC3TjLYc8Q09v.png",
+    "de": "/6pge7H6NxBY42onkY48kyoCezsW.png",
+    "es": "/8DqsLbYeD98VRsRNqercXCoT2qJ.png",
+    "sv": "/6c2dqP1lwOiz6SVokiMn8Y9EiGq.png"
+   }
+  },
+  {
+   "id": 83666,
+   "year": "2012",
+   "title": {
+    "fr": "Moonrise Kingdom",
+    "en": "Moonrise Kingdom",
+    "de": "Moonrise Kingdom",
+    "it": "Moonrise Kingdom - Una fuga d'amore",
+    "es": "Moonrise Kingdom",
+    "sv": "Moonrise Kingdom"
+   },
+   "backdrops": [
+    "/nv0WuVVLR3D5FYiJCJUQue7qjd3.jpg"
+   ],
+   "logo": {
+    "fr": "/jgfR2uhn2uGAI6ddsCGAVp4Xk4y.png",
+    "en": "/rMROETV7jYPi01iSUAkE3HPFGX2.png"
+   }
+  },
+  {
+   "id": 120467,
+   "year": "2014",
+   "title": {
+    "fr": "The Grand Budapest Hotel",
+    "en": "The Grand Budapest Hotel",
+    "de": "Grand Budapest Hotel",
+    "it": "Grand Budapest Hotel",
+    "es": "El gran hotel Budapest",
+    "sv": "The Grand Budapest Hotel"
+   },
+   "backdrops": [
+    "/jK65srQczOKTpW62wPxwwKztGgE.jpg"
+   ],
+   "logo": {
+    "fr": "/wx8NG0CDqrclHcp1llFV60Cw87D.png",
+    "en": "/9vBhDzMH8u43ekW2x45cAn2HNlZ.png",
+    "de": "/9IUtAloQ867fzMDcb87pdP4RkgO.png",
+    "es": "/hG8PaN0YDbEsIgtBCn35F2UcnLv.png"
+   }
+  },
+  {
+   "id": 399174,
+   "year": "2018",
+   "title": {
+    "fr": "L'Île aux chiens",
+    "en": "Isle of Dogs",
+    "de": "Isle of Dogs - Ataris Reise",
+    "it": "L'isola dei cani",
+    "es": "Isla de perros",
+    "sv": "Isle of Dogs"
+   },
+   "backdrops": [
+    "/goMGTcitprGu7YD6VZS4lUUwzRA.jpg"
+   ],
+   "logo": {
+    "fr": "/fftif53yhN1Q8dBecL8GRAxpL43.png",
+    "en": "/3wjTSGzfxVqUlkdmXsXJ4g1CX4y.png",
+    "de": "/ek6Bl3cUZBw5kBHbzecE6slFlrJ.png",
+    "it": "/iSxUcqNthwiQE138xj2XmJNFL3.png",
+    "es": "/pwPDW01AapXvVa5sI0xKAto1OeD.png"
+   }
+  },
+  {
+   "id": 542178,
+   "year": "2021",
+   "title": {
+    "fr": "The French Dispatch",
+    "en": "The French Dispatch of the Liberty, Kansas Evening Sun",
+    "de": "The French Dispatch",
+    "it": "The French Dispatch of the Liberty, Kansas Evening Sun",
+    "es": "La crónica francesa",
+    "sv": "The French Dispatch of the Liberty, Kansas Evening Sun"
+   },
+   "backdrops": [
+    "/xS0rl1YrVt51ztzjRf6qoIPZ7TA.jpg"
+   ],
+   "logo": {
+    "en": "/lYWwJG50e78A6WZutr1bicu7Zp7.png",
+    "es": "/eWqEeFracHAbQN2NFP9oyFhLcP1.png"
+   }
+  },
+  {
+   "id": 747188,
+   "year": "2023",
+   "title": {
+    "fr": "Asteroid City",
+    "en": "Asteroid City",
+    "de": "Asteroid City",
+    "it": "Asteroid City",
+    "es": "Asteroid City",
+    "sv": "Asteroid City"
+   },
+   "backdrops": [
+    "/dExUxMWt0UjS93waeCGYeDr1D7m.jpg"
+   ],
+   "logo": {
+    "en": "/ssvYRmIAtGh2UjMsyv3kaIWI4No.png",
+    "de": "/abvMoSpqs2ep3Lj2zjeZYaUne25.png"
+   }
+  },
+  {
+   "id": 1137350,
+   "year": "2025",
+   "title": {
+    "fr": "The Phoenician Scheme",
+    "en": "The Phoenician Scheme",
+    "de": "Der phönizische Meisterstreich",
+    "it": "La trama fenicia",
+    "es": "La trama fenicia",
+    "sv": "The Phoenician Scheme"
+   },
+   "backdrops": [
+    "/bajke0ThKJ2V2iHE9DDYOJGdS7a.jpg"
+   ],
+   "logo": {
+    "fr": "/5d99itxM29cmbP9sd5w0N1CHjaR.png",
+    "en": "/1fI9ynXBijl3PVcF2HXRTTkeEqh.png",
+    "de": "/m38AiDjtipykewB1JLKTa0TJaxj.png",
+    "it": "/qzZXrnl0MFHcAlyOvdbsxueTNQm.png",
+    "es": "/xfmmXlnSsVk0b4umaSpG7Tfnlxk.png"
+   }
+  }
+ ]
+}

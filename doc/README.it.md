@@ -104,8 +104,8 @@ computer, con [adb](https://developer.android.com/tools/adb) collegato al televi
 
 Le immagini della Home provengono dalle **foto Bing del giorno** oppure dalle **tue playlist** di film.
 
-- **Pacchetti di sfondi**: playlist tematiche già pronte (Disney & Pixar, Studio Ghibli,
-  Classici & Marvel…), da installare con un clic da **Impostazioni → Playlist → Sfoglia i pacchetti**.
+- **Pacchetti di sfondi**: playlist tematiche già pronte (20 pacchetti: Star Wars,
+  Studio Ghibli, Christopher Nolan, horror, anni '80, James Bond, western…), da installare con un clic da **Impostazioni → Playlist → Sfoglia i pacchetti**.
   Non richiedono alcuna chiave TMDB. Titoli e loghi sono nella tua lingua quando esistono.
 - **Le tue playlist**: cerca un film per titolo, con la tastiera o con la voce, oppure importa in un
   colpo solo i film popolari o di tendenza. Per ogni film, scegli lo sfondo o gli sfondi che ti

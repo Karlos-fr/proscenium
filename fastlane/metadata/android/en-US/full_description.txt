@@ -7,7 +7,7 @@ Proscenium turns the home screen of your Android TV into a movie theatre.
 <li>Shortcuts to the TV's HDMI inputs for consoles and players, with 24 console icons</li>
 <li>Clock with rolling digits and live weather with wind and gusts</li>
 <li>Cinema mode when the remote is put down: letterbox bars, the film's official logo and year</li>
-<li>Ready-made backdrop packs (Disney &amp; Pixar, Studio Ghibli, Classics &amp; Marvel), no key needed</li>
+<li>Ready-made backdrop packs (20 packs: Star Wars, Studio Ghibli, Christopher Nolan, horror, the 80s…), no key needed</li>
 <li>Your own playlists from The Movie Database, with the API key entered from your phone by QR code</li>
 <li>Android screensaver, interface sounds, economy mode, backup and restore</li>
 <li>Six languages: English, French, German, Italian, Spanish and Swedish</li>

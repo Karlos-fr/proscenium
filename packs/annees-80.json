@@ -1,0 +1,883 @@
+{
+ "id": "annees-80",
+ "version": 1,
+ "name": {
+  "fr": "Années 80",
+  "en": "The 80s",
+  "de": "Die 80er",
+  "it": "Anni '80",
+  "es": "Años 80",
+  "sv": "80-talet"
+ },
+ "description": {
+  "fr": "Les films marquants des années 1980",
+  "en": "Landmark films of the 1980s",
+  "de": "Prägende Filme der 1980er-Jahre",
+  "it": "I film che hanno segnato gli anni Ottanta",
+  "es": "Las películas más destacadas de los años 80",
+  "sv": "1980-talets mest minnesvärda filmer"
+ },
+ "films": [
+  {
+   "id": 1891,
+   "year": "1980",
+   "title": {
+    "fr": "L'Empire contre-attaque",
+    "en": "The Empire Strikes Back",
+    "de": "Das Imperium schlägt zurück",
+    "it": "L'Impero colpisce ancora",
+    "es": "El imperio contraataca",
+    "sv": "Rymdimperiet slår tillbaka"
+   },
+   "backdrops": [
+    "/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg"
+   ],
+   "logo": {
+    "fr": "/vHjIGQUmf0Glxlj3RnonJK8PhQy.png",
+    "en": "/bNgZMOcEqdtJejjvZOlfE7W0HQI.png",
+    "de": "/bjp6mY4D3jlYBdebedEyg9m9w3y.png",
+    "it": "/ms0pZRAHJAwE9uURAoklLP4ZJFa.png",
+    "es": "/9cfYSldHZmPukaatZRS4Ren3QX8.png"
+   }
+  },
+  {
+   "id": 694,
+   "year": "1980",
+   "title": {
+    "fr": "Shining",
+    "en": "The Shining",
+    "de": "Shining",
+    "it": "Shining",
+    "es": "El resplandor",
+    "sv": "The Shining"
+   },
+   "backdrops": [
+    "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg"
+   ],
+   "logo": {
+    "fr": "/7hm5KVthfhdtzCmblvnXK7TPOEL.png",
+    "en": "/7Qc7geNI4C4i9A1OFk0aPe5VYzn.png",
+    "de": "/5CXbyXWzAdtmF0Jg5fAfsZL1cx0.png",
+    "it": "/i3YxZV9zc869yNT6bp0sFVrVrTS.png",
+    "es": "/x5je6H1AI7IkRF6fkhgGWiRAtEA.png"
+   }
+  },
+  {
+   "id": 813,
+   "year": "1980",
+   "title": {
+    "fr": "Y a-t-il un pilote dans l'avion ?",
+    "en": "Airplane!",
+    "de": "Die unglaubliche Reise in einem verrückten Flugzeug",
+    "it": "L'aereo più pazzo del mondo",
+    "es": "Aterriza como puedas",
+    "sv": "Titta vi flyger"
+   },
+   "backdrops": [
+    "/wQyvrsNSTzFVEGgarZbFkFyIciy.jpg"
+   ],
+   "logo": {
+    "fr": "/w2iS0HmHRjOPtoLZlV3lUNQ7dU0.png",
+    "en": "/8ZHSWF6XRgLmybObWNiFbUCOzvx.png",
+    "de": "/q49NAYFslPRf9l4z4WxJZbykGBe.png",
+    "it": "/9jC1fV0WbeNhBM1TyD7Tf3HNbwE.png",
+    "es": "/9xUv1u9uPRBS2UFbB6yVt7NKx4Q.png"
+   }
+  },
+  {
+   "id": 85,
+   "year": "1981",
+   "title": {
+    "fr": "Les Aventuriers de l'arche perdue",
+    "en": "Raiders of the Lost Ark",
+    "de": "Jäger des verlorenen Schatzes",
+    "it": "I predatori dell'arca perduta",
+    "es": "En busca del arca perdida",
+    "sv": "Jakten på den försvunna skatten"
+   },
+   "backdrops": [
+    "/zPACwR32amTNvzId9qyapCWXYDJ.jpg"
+   ],
+   "logo": {
+    "fr": "/7xCuK6sEVCupDWwnw7khvC88BC9.png",
+    "en": "/pQwAK7zj1tU8bYdVI47v7bUpv5B.png",
+    "de": "/6UkVejM8Y3AbD3eLHPb7BZWg8iZ.png",
+    "it": "/jIwN17u4X89hE7yYqa5yKYdwR1l.png",
+    "es": "/ql6eKGJhaovo0QnJLnwtebddSGq.png",
+    "sv": "/gbx2Dy5pSuFtSAccTHYh50p52L6.png"
+   }
+  },
+  {
+   "id": 601,
+   "year": "1982",
+   "title": {
+    "fr": "E.T. l'extra-terrestre",
+    "en": "E.T. the Extra-Terrestrial",
+    "de": "E.T. – Der Außerirdische",
+    "it": "E.T. l'extra-terrestre",
+    "es": "E.T., el extraterrestre",
+    "sv": "E.T. the Extra-Terrestrial"
+   },
+   "backdrops": [
+    "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg"
+   ],
+   "logo": {
+    "fr": "/4IUWmiRIvPzTM8LnLRgr4p5Xh65.png",
+    "en": "/cj5vQJiJ9ByXNNeVy3mG5exM1BA.png",
+    "de": "/jZ7JwXj3YMNG6YELeAiKHOUBQYN.png",
+    "it": "/oeeYwbJat46xeWhisVDUxtkbMoD.png",
+    "es": "/jlgA3wk1zxCdsCZHWFpaR1KzBci.png"
+   }
+  },
+  {
+   "id": 78,
+   "year": "1982",
+   "title": {
+    "fr": "Blade Runner",
+    "en": "Blade Runner",
+    "de": "Der Blade Runner",
+    "it": "Blade Runner",
+    "es": "Blade Runner",
+    "sv": "Blade Runner"
+   },
+   "backdrops": [
+    "/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg"
+   ],
+   "logo": {
+    "fr": "/3Nhf4kbh3gUr2inscKYFbftxvVj.png",
+    "en": "/9X5SIveaQ3zRdjfNoUbnGrKAfET.png",
+    "es": "/jTsTm7VGsYAjHphXRuLdFq54CJQ.png"
+   }
+  },
+  {
+   "id": 1091,
+   "year": "1982",
+   "title": {
+    "fr": "The Thing",
+    "en": "The Thing",
+    "de": "Das Ding aus einer anderen Welt",
+    "it": "La cosa",
+    "es": "La cosa (El enigma de otro mundo)",
+    "sv": "The Thing"
+   },
+   "backdrops": [
+    "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg"
+   ],
+   "logo": {
+    "fr": "/nDMDieLEwU4GoVTKC5NFpy6CRIQ.png",
+    "en": "/g5ny5fyIxZownMZjJi23oolMsCg.png",
+    "de": "/zuUjPhnpEWyJWf1FaXu5GkXPP0t.png",
+    "it": "/wqEvwwQCNjbxEYT0cf6pE0fcRh9.png",
+    "es": "/cmriRydEcCNux47zsfd1JvD3ER1.png"
+   }
+  },
+  {
+   "id": 1368,
+   "year": "1982",
+   "title": {
+    "fr": "Rambo",
+    "en": "First Blood",
+    "de": "Rambo",
+    "it": "Rambo",
+    "es": "Acorralado",
+    "sv": "First Blood"
+   },
+   "backdrops": [
+    "/hCxxOJojCUFyuahDx167glJgp7E.jpg"
+   ],
+   "logo": {
+    "fr": "/5XSaFHz0u4B81yF9LAeVLjVMFmN.png",
+    "en": "/8JpnH7IznCSmXXBMMRKhlc8OQRw.png",
+    "de": "/877jfjFnGvwOH7I5cKMnaBxy7SQ.png",
+    "es": "/yAZUxdJ9tZHvNoSONu1JKvfRNw2.png"
+   }
+  },
+  {
+   "id": 1892,
+   "year": "1983",
+   "title": {
+    "fr": "Le Retour du Jedi",
+    "en": "Return of the Jedi",
+    "de": "Die Rückkehr der Jedi-Ritter",
+    "it": "Il ritorno dello Jedi",
+    "es": "El retorno del Jedi",
+    "sv": "Jedins återkomst"
+   },
+   "backdrops": [
+    "/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg"
+   ],
+   "logo": {
+    "fr": "/syXVQAuBRxA7SAUYTr1Tc7WUvah.png",
+    "en": "/p6UVRBp1Hveqf5nrHAIlIq2LZk0.png",
+    "de": "/p401Gv0Voko2VsHk7XxZEIwPTEN.png",
+    "it": "/1s613zRcu9ANXVKaUSn83AZpMyB.png",
+    "es": "/bOB6lRH8Y0j1Z1g3bDqbGHKBobS.png"
+   }
+  },
+  {
+   "id": 111,
+   "year": "1983",
+   "title": {
+    "fr": "Scarface",
+    "en": "Scarface",
+    "de": "Scarface",
+    "it": "Scarface",
+    "es": "El precio del poder",
+    "sv": "Scarface"
+   },
+   "backdrops": [
+    "/cCvp5Sni75agCtyJkNOMapORUQV.jpg"
+   ],
+   "logo": {
+    "fr": "/ygqjxPcroICvGBqPEKMAa4RTFg.png",
+    "en": "/zQGDFzjfXC47foVucagHYIxRUfW.png",
+    "it": "/pJxAWkYSLqLvYjDVPgINsY8sPNO.png",
+    "es": "/cqicmDZG6mh6lE3w2hFbYta9c0H.png"
+   }
+  },
+  {
+   "id": 87,
+   "year": "1984",
+   "title": {
+    "fr": "Indiana Jones et le Temple maudit",
+    "en": "Indiana Jones and the Temple of Doom",
+    "de": "Indiana Jones und der Tempel des Todes",
+    "it": "Indiana Jones e il tempio maledetto",
+    "es": "Indiana Jones y el templo maldito",
+    "sv": "Indiana Jones och de fördömdas tempel"
+   },
+   "backdrops": [
+    "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg"
+   ],
+   "logo": {
+    "fr": "/qQHsBo2Jv7dUSiQ8hzIwdyDJe5J.png",
+    "en": "/qrcg92Ps9YATpetzILW60qgolNT.png",
+    "de": "/7A1yPPIK107BiVznZrgfg5pP68k.png",
+    "it": "/fm6WMKkZK4zTIxRj3cm2ncc6voN.png",
+    "es": "/rUqugZkR5R55Z0mVcb3uu3IOYbY.png",
+    "sv": "/oRH9NxOqh7In3tEcVooDyNVs0pp.png"
+   }
+  },
+  {
+   "id": 311,
+   "year": "1984",
+   "title": {
+    "fr": "Il était une fois en Amérique",
+    "en": "Once Upon a Time in America",
+    "de": "Es war einmal in Amerika",
+    "it": "C'era una volta in America",
+    "es": "Érase una vez en América",
+    "sv": "Once Upon a Time in America"
+   },
+   "backdrops": [
+    "/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg"
+   ],
+   "logo": {
+    "fr": "/tcblfdLwwl7bZDioiQiSTj9fQwa.png",
+    "en": "/iTtbvK91URikjtxJzu7dxRqin43.png",
+    "de": "/svMsKMwX5OJK0nG798jgiiVYQOV.png",
+    "it": "/4mZtOgKuiI86US30hCZj1V01jE7.png"
+   }
+  },
+  {
+   "id": 620,
+   "year": "1984",
+   "title": {
+    "fr": "S.O.S. Fantômes",
+    "en": "Ghostbusters",
+    "de": "Ghostbusters - Die Geisterjäger",
+    "it": "Ghostbusters (Acchiappafantasmi)",
+    "es": "Los Cazafantasmas",
+    "sv": "Ghostbusters - Spökligan"
+   },
+   "backdrops": [
+    "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg"
+   ],
+   "logo": {
+    "fr": "/sI3X7H9jVazCRROUCYbmwTNVVJy.png",
+    "en": "/zZaNFDIURV51vMsNYGKc7Uguymj.png",
+    "de": "/t2IAruxMzX1hj9R35rTXYCjFEpM.png",
+    "it": "/zgSi2oybhVaoE7qBPIOoQa7lZjM.png",
+    "es": "/kJADnzciFbQXNT3CWUUSxa4ywcq.png",
+    "sv": "/rq0ZUSMBIxUkjk7qMwpyv1jGCMf.png"
+   }
+  },
+  {
+   "id": 927,
+   "year": "1984",
+   "title": {
+    "fr": "Gremlins",
+    "en": "Gremlins",
+    "de": "Gremlins - Kleine Monster",
+    "it": "Gremlins",
+    "es": "Gremlins",
+    "sv": "Gremlins"
+   },
+   "backdrops": [
+    "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg"
+   ],
+   "logo": {
+    "fr": "/bcndK5CHQrUfIGmMSgwe3wwQEjZ.png",
+    "en": "/pC4yMTDailjuGZO6JOqG5Ot0G63.png",
+    "de": "/x2tcB2nKX71qQZhL8Weychu6dlj.png",
+    "es": "/fbFJ5SVajGly1kCLdSjOUCM1wAA.png"
+   }
+  },
+  {
+   "id": 218,
+   "year": "1984",
+   "title": {
+    "fr": "Terminator",
+    "en": "The Terminator",
+    "de": "Terminator",
+    "it": "Terminator",
+    "es": "Terminator",
+    "sv": "Terminator"
+   },
+   "backdrops": [
+    "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg"
+   ],
+   "logo": {
+    "fr": "/v6upMZ5WreKh6asWk5uSQyNLc0o.png",
+    "en": "/6hBVMofGYDOC20yYiQeOnuHmK9d.png",
+    "de": "/p3Hst9MxQ4JdnuHO1PW064eYFbB.png",
+    "it": "/fgs8tgVrUkJiArogncxxu2GbcJ0.png",
+    "es": "/q4wdswLUVVrl8OSjYXPqjihRHXs.png"
+   }
+  },
+  {
+   "id": 377,
+   "year": "1984",
+   "title": {
+    "fr": "Les Griffes de la nuit",
+    "en": "A Nightmare on Elm Street",
+    "de": "Nightmare - Mörderische Träume",
+    "it": "Nightmare - Dal profondo della notte",
+    "es": "Pesadilla en Elm Street",
+    "sv": "Terror på Elm Street"
+   },
+   "backdrops": [
+    "/nzSjTiecdosBfwMGAdpt9CxltCI.jpg"
+   ],
+   "logo": {
+    "fr": "/wk5NcLoMebGzfOhUJPUhqEm27SW.png",
+    "en": "/5imuR4m3p8BOHgzhuGKDb5vXdvN.png",
+    "de": "/l7cuxIgkULtZfTZKVzub1nZUlnr.png",
+    "es": "/36ISV2Gj1JwwJwy6REviGiAVEKT.png"
+   }
+  },
+  {
+   "id": 2108,
+   "year": "1985",
+   "title": {
+    "fr": "Breakfast Club",
+    "en": "The Breakfast Club",
+    "de": "The Breakfast Club",
+    "it": "Breakfast Club",
+    "es": "El club de los cinco",
+    "sv": "Breakfast Club"
+   },
+   "backdrops": [
+    "/s5HDOmFZaPVQFjk9BxxDrLu1T0g.jpg"
+   ],
+   "logo": {
+    "fr": "/yvpKxolHMhbZpbVe0rnQeZmOFzJ.png",
+    "en": "/2CZwo7UM88DGWWIkdDsIyegRhBW.png",
+    "es": "/srAPT2i79Ergqcl2mHJu2MlLJoC.png"
+   }
+  },
+  {
+   "id": 9340,
+   "year": "1985",
+   "title": {
+    "fr": "Les Goonies",
+    "en": "The Goonies",
+    "de": "Die Goonies",
+    "it": "I Goonies",
+    "es": "Los Goonies",
+    "sv": "The Goonies - dödskallegänget"
+   },
+   "backdrops": [
+    "/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg"
+   ],
+   "logo": {
+    "fr": "/mFhGWiadxBCUHTKjpan70vrhs2l.png",
+    "en": "/pjBLobqECI8tEKjM6BL88nLOL4j.png",
+    "de": "/4H7pC9UfagGjer04tucIF9ZxROL.png",
+    "it": "/hCbYfrxmBHg2ScoYjCeqsNcx6j7.png",
+    "es": "/xtpE3IYtl1gz5l8at7SvdVuPHDE.png",
+    "sv": "/9Q7QFfZ7ppbdCaUfIzmCrl5sd6A.png"
+   }
+  },
+  {
+   "id": 105,
+   "year": "1985",
+   "title": {
+    "fr": "Retour vers le futur",
+    "en": "Back to the Future",
+    "de": "Zurück in die Zukunft",
+    "it": "Ritorno al futuro",
+    "es": "Regreso al futuro",
+    "sv": "Tillbaka till framtiden"
+   },
+   "backdrops": [
+    "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg"
+   ],
+   "logo": {
+    "fr": "/qBgFS7Lln11vQ3zRtISUmKCDyrL.png",
+    "en": "/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "de": "/hERkSr0EYaKNv3wLJo4bgIBpYyV.png",
+    "it": "/n5odobvL1L56AQVStx53eIRv5Mh.png",
+    "es": "/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
+    "sv": "/x6UqUDCC6wbutLCCFyaHvPNcaKj.png"
+   }
+  },
+  {
+   "id": 1374,
+   "year": "1985",
+   "title": {
+    "fr": "Rocky IV",
+    "en": "Rocky IV",
+    "de": "Rocky IV - Der Kampf des Jahrhunderts",
+    "it": "Rocky IV",
+    "es": "Rocky IV",
+    "sv": "Rocky IV"
+   },
+   "backdrops": [
+    "/uiUb4KJ6tadldqlJme49TW1r3jA.jpg"
+   ],
+   "logo": {
+    "fr": "/qGen1tMdbPpN28Wweu0XoRSEr11.png",
+    "en": "/jEB5GnZBmvC69U7bsWFO3lE8r7b.png"
+   }
+  },
+  {
+   "id": 744,
+   "year": "1986",
+   "title": {
+    "fr": "Top Gun",
+    "en": "Top Gun",
+    "de": "Top Gun - Sie fürchten weder Tod noch Teufel",
+    "it": "Top Gun",
+    "es": "Top Gun: Ídolos del aire",
+    "sv": "Top Gun"
+   },
+   "backdrops": [
+    "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg"
+   ],
+   "logo": {
+    "fr": "/iUVKR05MBzbSjIMVM9kBXIayJG3.png",
+    "en": "/xNgCQCtuho9cezrE925hjMtio4G.png",
+    "es": "/wfZCqteye4nQttmHszgxkqAMSTw.png"
+   }
+  },
+  {
+   "id": 9377,
+   "year": "1986",
+   "title": {
+    "fr": "La Folle Journée de Ferris Bueller",
+    "en": "Ferris Bueller's Day Off",
+    "de": "Ferris macht Blau",
+    "it": "Una pazza giornata di vacanza",
+    "es": "Todo en un día",
+    "sv": "Fira med Ferris"
+   },
+   "backdrops": [
+    "/jehzP4JKiFzgTWIaASLFOJocJke.jpg"
+   ],
+   "logo": {
+    "fr": "/tmoWXzWiCirU19l4YhqRZLsxiGl.png",
+    "en": "/qAM6edsw94eLVw6XyvmgAC2IKvb.png",
+    "de": "/6sIvxAK2lqrps5Js272RElHVn0h.png",
+    "it": "/jE6Oof8SatODalxVd5iGfN51CgB.png",
+    "es": "/1YFLgp6oAj7ATYlc2w4tCDr59nx.png"
+   }
+  },
+  {
+   "id": 679,
+   "year": "1986",
+   "title": {
+    "fr": "Aliens, le retour",
+    "en": "Aliens",
+    "de": "Aliens - Die Rückkehr",
+    "it": "Aliens - Scontro finale",
+    "es": "Aliens: El regreso",
+    "sv": "Aliens - återkomsten"
+   },
+   "backdrops": [
+    "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg"
+   ],
+   "logo": {
+    "fr": "/oPfIWgFGftL9hXPLbz8U85Y5TZ9.png",
+    "en": "/8VjEUUn7MS61ZzeeQTuo0otOCWC.png",
+    "de": "/f2inHWJi2BOU3YQfNtl1HY7gcNu.png",
+    "it": "/isMgyJ7ykKFOYHwXEwAF300dhnC.png",
+    "es": "/b9rfPHx7qURf8uUo0CvQeTpJ8vJ.png",
+    "sv": "/ltxmSb5nZl4GDN0YcbhXtG7lio8.png"
+   }
+  },
+  {
+   "id": 235,
+   "year": "1986",
+   "title": {
+    "fr": "Stand by Me",
+    "en": "Stand by Me",
+    "de": "Stand By Me - Das Geheimnis eines Sommers",
+    "it": "Stand by Me - Ricordo di un'estate",
+    "es": "Cuenta conmigo",
+    "sv": "Stand by Me"
+   },
+   "backdrops": [
+    "/yjGllQUm28R4X9xD9T5xMszirgw.jpg"
+   ],
+   "logo": {
+    "en": "/dh5eww9722uMnS6AyaEf04J95M2.png",
+    "de": "/A1a9XyZgXcYozfYmyWK27TE5HNX.png",
+    "es": "/4e4mO3oTP4bfCVGEvkvEHl0Pybk.png"
+   }
+  },
+  {
+   "id": 9426,
+   "year": "1986",
+   "title": {
+    "fr": "La Mouche",
+    "en": "The Fly",
+    "de": "Die Fliege",
+    "it": "La mosca",
+    "es": "La mosca",
+    "sv": "Flugan"
+   },
+   "backdrops": [
+    "/g1FzhbtWYKk9WMJYi1X26kf2Q4Q.jpg"
+   ],
+   "logo": {
+    "fr": "/aQax2GtWXrpXIlYPO3sexA9qKMk.png",
+    "en": "/j86WM842jJ0U8b2sJxS9eqZX10C.png",
+    "de": "/fvrKja0hb2j23qFBxRRrUONqqke.png",
+    "it": "/iHZVK6edrQKHiEUhNrrEHIvDuFz.png",
+    "es": "/vpEfYGLEY7re9hY3n2Zq6Xj3QlM.png"
+   }
+  },
+  {
+   "id": 792,
+   "year": "1986",
+   "title": {
+    "fr": "Platoon",
+    "en": "Platoon",
+    "de": "Platoon",
+    "it": "Platoon",
+    "es": "Platoon",
+    "sv": "Plutonen"
+   },
+   "backdrops": [
+    "/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg"
+   ],
+   "logo": {
+    "fr": "/22YBbjojyb3gvqoTlD1EXaXfY9b.png",
+    "en": "/104cnXJEg5405iAVQj3m5Id1LZZ.png",
+    "es": "/pqEOGF6Pg5eBUoSBAhZEhWr0eHD.png"
+   }
+  },
+  {
+   "id": 941,
+   "year": "1987",
+   "title": {
+    "fr": "L'Arme fatale",
+    "en": "Lethal Weapon",
+    "de": "Zwei stahlharte Profis - Lethal Weapon",
+    "it": "Arma letale",
+    "es": "Arma letal",
+    "sv": "Dödligt vapen"
+   },
+   "backdrops": [
+    "/xinJKZQiqkdJhoYc2SXuEnhehXz.jpg"
+   ],
+   "logo": {
+    "fr": "/eWHgr7wy1RYTbSoS8DKpf5cHoKI.png",
+    "en": "/tPYL1f9Gi6PHLufrpEb8t6AdYyO.png",
+    "de": "/8eUd19YAQrKtpGlc6SiZatPtv25.png",
+    "it": "/5qEtOCQ1ClD0h6dPysRKTH4QFud.png",
+    "es": "/hRJrtGrXGwnusEw3ZefE0Ca9gWx.png",
+    "sv": "/buh6zBc51CAAZrWLMB60wzUDIRY.png"
+   }
+  },
+  {
+   "id": 117,
+   "year": "1987",
+   "title": {
+    "fr": "Les Incorruptibles",
+    "en": "The Untouchables",
+    "de": "The Untouchables - Die Unbestechlichen",
+    "it": "The Untouchables - Gli intoccabili",
+    "es": "Los intocables de Eliot Ness",
+    "sv": "De omutbara"
+   },
+   "backdrops": [
+    "/i1oWUGVDNBhGBykcCRBlX326udb.jpg"
+   ],
+   "logo": {
+    "fr": "/asO4rfQboDFWGeznuDYk1oV1esT.png",
+    "en": "/9L1NnPb1kseqtmbjqDvOeStOjZX.png",
+    "de": "/xBoK6mHTcJaIrDGJ2SPZVzcm9tx.png",
+    "it": "/vrAIIfuk8vxLNa6Uqa1dJJH3Buj.png",
+    "es": "/tP9S9tQqag7O4e9YqDGZORJO27I.png"
+   }
+  },
+  {
+   "id": 106,
+   "year": "1987",
+   "title": {
+    "fr": "Predator",
+    "en": "Predator",
+    "de": "Predator",
+    "it": "Predator",
+    "es": "Depredador",
+    "sv": "Rovdjuret"
+   },
+   "backdrops": [
+    "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg"
+   ],
+   "logo": {
+    "en": "/wnGqljuqb2KBNJQ0GCEoUjcAnTU.png",
+    "es": "/e4dOUF9wnKgRGglTsozEPOee9U4.png",
+    "sv": "/cDKFVmambQvdzKKXv3EuInc99i1.png"
+   }
+  },
+  {
+   "id": 600,
+   "year": "1987",
+   "title": {
+    "fr": "Full Metal Jacket",
+    "en": "Full Metal Jacket",
+    "de": "Full Metal Jacket",
+    "it": "Full Metal Jacket",
+    "es": "La chaqueta metálica",
+    "sv": "Full Metal Jacket"
+   },
+   "backdrops": [
+    "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg"
+   ],
+   "logo": {
+    "fr": "/qXsNpeRDUbL08KgjBlSugHYrvOt.png",
+    "en": "/uV88kjcBGZvG24X4QFJlXh0RKCy.png",
+    "it": "/eBQCNIG7tyLyThp55WbCEye3cG7.png",
+    "es": "/fFrBwauqpdj4q2emU6VmErvqrG9.png"
+   }
+  },
+  {
+   "id": 5548,
+   "year": "1987",
+   "title": {
+    "fr": "RoboCop",
+    "en": "RoboCop",
+    "de": "RoboCop",
+    "it": "RoboCop",
+    "es": "RoboCop",
+    "sv": "RoboCop"
+   },
+   "backdrops": [
+    "/xcaX6BZ1JUPSVMH2gBkWIckLLaA.jpg"
+   ],
+   "logo": {
+    "en": "/7YIzeiHb7lFlXk3mrPqqnKZfKLG.png",
+    "it": "/iKvUkAXLqELcAbLaUyx9BmZ9g74.png",
+    "es": "/kk3qw6QpkvnHItqDqAxQwnuednI.png"
+   }
+  },
+  {
+   "id": 2493,
+   "year": "1987",
+   "title": {
+    "fr": "Princess Bride",
+    "en": "The Princess Bride",
+    "de": "Die Braut des Prinzen",
+    "it": "La storia fantastica",
+    "es": "La princesa prometida",
+    "sv": "Bleka dödens minut"
+   },
+   "backdrops": [
+    "/onACwa3TjpeaY7EVHSZZbeNkd2q.jpg"
+   ],
+   "logo": {
+    "fr": "/t6kGxGYXm7GPKoVnj1beN3yKLfH.png",
+    "en": "/dOxe2Jeyol7u9pUDqd4iVq2KLIV.png",
+    "de": "/zAJFT908b4oivL8GvZAg0753CFM.png",
+    "it": "/xjMmGVUonvUCQorOJ5kAIuBEbl0.png",
+    "es": "/qXFpMxTlPJ7kztOPCAAiPOSjL1V.png"
+   }
+  },
+  {
+   "id": 4011,
+   "year": "1988",
+   "title": {
+    "fr": "Beetlejuice",
+    "en": "Beetlejuice",
+    "de": "Beetlejuice",
+    "it": "Beetlejuice - Spiritello porcello",
+    "es": "Bitelchús",
+    "sv": "Beetlejuice"
+   },
+   "backdrops": [
+    "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg"
+   ],
+   "logo": {
+    "fr": "/j7JNM3yhdzInWwX8uOp7eyqvur0.png",
+    "en": "/1BycXicZhKZa8qVTuNkPtaMvM9t.png",
+    "it": "/rrh6DE07kJZCN2XBc2J51vZTITN.png",
+    "es": "/4QexYP92sCpGK1PeBwN3mhyrD6H.png"
+   }
+  },
+  {
+   "id": 562,
+   "year": "1988",
+   "title": {
+    "fr": "Piège de cristal",
+    "en": "Die Hard",
+    "de": "Stirb langsam",
+    "it": "Trappola di cristallo",
+    "es": "Jungla de cristal",
+    "sv": "Die Hard"
+   },
+   "backdrops": [
+    "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg"
+   ],
+   "logo": {
+    "fr": "/taW4Bu1ndiqSdwRyDiN4wBaPQcZ.png",
+    "en": "/elYpRiF6dJbnkB5yMvoWolidLvj.png",
+    "de": "/rnz9gQWE1OnwyuQjEGJ0Jdi828W.png",
+    "it": "/waBN3K8WbresEsXsmef1o4qlhSM.png",
+    "es": "/w8DyM4j0cGVfSvrDqf3AtgEkdqr.png"
+   }
+  },
+  {
+   "id": 11216,
+   "year": "1988",
+   "title": {
+    "fr": "Cinema Paradiso",
+    "en": "Cinema Paradiso",
+    "de": "Cinema Paradiso",
+    "it": "Nuovo Cinema Paradiso",
+    "es": "Cinema Paradiso",
+    "sv": "Cinema Paradiso"
+   },
+   "backdrops": [
+    "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg"
+   ],
+   "logo": {
+    "fr": "/wQx9qrvYgWe0Ftdk8TLJSgtb66g.png",
+    "en": "/ai7T0EYyCL2guG3o62jwuECvEjK.png",
+    "it": "/eZ7IQQLkiMQco0OS3bOchIVlZBv.png"
+   }
+  },
+  {
+   "id": 380,
+   "year": "1988",
+   "title": {
+    "fr": "Rain Man",
+    "en": "Rain Man",
+    "de": "Rain Man",
+    "it": "Rain Man - L'uomo della pioggia",
+    "es": "Rain Man",
+    "sv": "Rain Man"
+   },
+   "backdrops": [
+    "/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg"
+   ],
+   "logo": {
+    "fr": "/rYKX9NUy2LC0bhFCVWF2Lnd8iAe.png",
+    "en": "/7NJRk12w2vILXJ4w9mP8vUh7KX.png",
+    "it": "/z43C85X02mudSUriZVsAdDJ1TcC.png"
+   }
+  },
+  {
+   "id": 89,
+   "year": "1989",
+   "title": {
+    "fr": "Indiana Jones et la dernière croisade",
+    "en": "Indiana Jones and the Last Crusade",
+    "de": "Indiana Jones und der letzte Kreuzzug",
+    "it": "Indiana Jones e l'ultima crociata",
+    "es": "Indiana Jones y la última cruzada",
+    "sv": "Indiana Jones och det sista korståget"
+   },
+   "backdrops": [
+    "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg"
+   ],
+   "logo": {
+    "fr": "/9fFHjJudBcKyvsGexC9C8Zq3OMn.png",
+    "en": "/AoXnr773qvewCqQ5OnD8sSA1s0l.png",
+    "de": "/eomKJY6enLPViN5WroJN93f6BkE.png",
+    "it": "/rJr0XT6QGZphozXqCLmryfGq8R6.png",
+    "es": "/zSlO3CnCdLq7vZUmRDrk9WRk9Z.png",
+    "sv": "/lvQZxs5Srj8UXMKTT4vziJrQMHs.png"
+   }
+  },
+  {
+   "id": 207,
+   "year": "1989",
+   "title": {
+    "fr": "Le Cercle des poètes disparus",
+    "en": "Dead Poets Society",
+    "de": "Der Club der toten Dichter",
+    "it": "L'attimo fuggente",
+    "es": "El club de los poetas muertos",
+    "sv": "Döda poeters sällskap"
+   },
+   "backdrops": [
+    "/8Lt9ljQ5IruNXtci03Hm7VcDZKe.jpg"
+   ],
+   "logo": {
+    "fr": "/r7vblqle07yBDMJBcH6VutTYq3q.png",
+    "en": "/jQCFF99eWL73VVxEaqputGtyBGQ.png",
+    "de": "/igjFfJt2lm1fxTkFMjCuB1whwcS.png",
+    "it": "/nHvejh5ywr5WPiZMXQXWTGNbx2Q.png",
+    "es": "/4QWNLscmn6T7jxlRFblQddBKEAu.png",
+    "sv": "/fkaIf8eY5EOBXc5XyBH0qAkBQKs.png"
+   }
+  },
+  {
+   "id": 268,
+   "year": "1989",
+   "title": {
+    "fr": "Batman",
+    "en": "Batman",
+    "de": "Batman",
+    "it": "Batman",
+    "es": "Batman",
+    "sv": "Batman"
+   },
+   "backdrops": [
+    "/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg"
+   ],
+   "logo": {
+    "fr": "/vhdPjXTFTHgbJqr4pkO7lDY1yO9.png",
+    "en": "/wW1ZNNd1wrGErQ5bWmyxZymytDy.png",
+    "de": "/2wAHlVl7mK91qyq0Baqy1QGxHMa.png",
+    "it": "/5oEV92Nuun6bFjjR08G5YX4hUCd.png"
+   }
+  },
+  {
+   "id": 165,
+   "year": "1989",
+   "title": {
+    "fr": "Retour vers le futur II",
+    "en": "Back to the Future Part II",
+    "de": "Zurück in die Zukunft II",
+    "it": "Ritorno al futuro - Parte II",
+    "es": "Regreso al futuro II",
+    "sv": "Tillbaka till framtiden del II"
+   },
+   "backdrops": [
+    "/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg"
+   ],
+   "logo": {
+    "fr": "/maqUxsuLKjFGv8mFic4aIym15rL.png",
+    "en": "/hcMAuJFNVfEKjdBsWg5XIOSdTZa.png",
+    "de": "/jEGRNqdXTIOje732jMnPJrbOldz.png",
+    "it": "/bO4fQjzoayBDqYGAxonf8RBpKKh.png",
+    "es": "/hJOIF2KVRgdTonfyLkCdyq6buo5.png",
+    "sv": "/37co8tfzQaCv7cBJvnvPqkZO9ug.png"
+   }
+  }
+ ]
+}

@@ -3,6 +3,7 @@
  "packs": [
   {
    "id": "disney-pixar",
+   "version": 1,
    "name": {
     "fr": "Disney & Pixar",
     "en": "Disney & Pixar",
@@ -24,6 +25,7 @@
   },
   {
    "id": "classiques-marvel",
+   "version": 1,
    "name": {
     "fr": "Classiques & Marvel",
     "en": "Classics & Marvel",
@@ -45,6 +47,7 @@
   },
   {
    "id": "ghibli",
+   "version": 1,
    "name": {
     "fr": "Studio Ghibli",
     "en": "Studio Ghibli",
@@ -63,6 +66,380 @@
    },
    "films": 25,
    "cover": "/z2jsAbXWGdJvadhovznjGg33VND.jpg"
+  },
+  {
+   "id": "star-wars",
+   "version": 1,
+   "name": {
+    "fr": "Star Wars",
+    "en": "Star Wars",
+    "de": "Star Wars",
+    "it": "Star Wars",
+    "es": "Star Wars",
+    "sv": "Star Wars"
+   },
+   "description": {
+    "fr": "La saga Skywalker et ses films dérivés",
+    "en": "The Skywalker saga and its spin-off films",
+    "de": "Die Skywalker-Saga und ihre Ablegerfilme",
+    "it": "La saga degli Skywalker e i suoi film spin-off",
+    "es": "La saga Skywalker y sus películas derivadas",
+    "sv": "Skywalkersagan och dess fristående filmer"
+   },
+   "films": 13,
+   "cover": "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg"
+  },
+  {
+   "id": "nolan",
+   "version": 1,
+   "name": {
+    "fr": "Christopher Nolan",
+    "en": "Christopher Nolan",
+    "de": "Christopher Nolan",
+    "it": "Christopher Nolan",
+    "es": "Christopher Nolan",
+    "sv": "Christopher Nolan"
+   },
+   "description": {
+    "fr": "Les films de Christopher Nolan",
+    "en": "The films of Christopher Nolan",
+    "de": "Die Filme von Christopher Nolan",
+    "it": "I film di Christopher Nolan",
+    "es": "Las películas de Christopher Nolan",
+    "sv": "Christopher Nolans filmer"
+   },
+   "films": 13,
+   "cover": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
+  },
+  {
+   "id": "horreur",
+   "version": 1,
+   "name": {
+    "fr": "Horreur",
+    "en": "Horror",
+    "de": "Horror",
+    "it": "Horror",
+    "es": "Terror",
+    "sv": "Skräck"
+   },
+   "description": {
+    "fr": "Les grands classiques du cinéma d'horreur",
+    "en": "Great classics of horror cinema",
+    "de": "Große Klassiker des Horrorfilms",
+    "it": "I grandi classici del cinema horror",
+    "es": "Los grandes clásicos del cine de terror",
+    "sv": "Skräckfilmens stora klassiker"
+   },
+   "films": 40,
+   "cover": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg"
+  },
+  {
+   "id": "annees-80",
+   "version": 1,
+   "name": {
+    "fr": "Années 80",
+    "en": "The 80s",
+    "de": "Die 80er",
+    "it": "Anni '80",
+    "es": "Años 80",
+    "sv": "80-talet"
+   },
+   "description": {
+    "fr": "Les films marquants des années 1980",
+    "en": "Landmark films of the 1980s",
+    "de": "Prägende Filme der 1980er-Jahre",
+    "it": "I film che hanno segnato gli anni Ottanta",
+    "es": "Las películas más destacadas de los años 80",
+    "sv": "1980-talets mest minnesvärda filmer"
+   },
+   "films": 40,
+   "cover": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg"
+  },
+  {
+   "id": "annees-90",
+   "version": 1,
+   "name": {
+    "fr": "Années 90",
+    "en": "The 90s",
+    "de": "Die 90er",
+    "it": "Anni '90",
+    "es": "Años 90",
+    "sv": "90-talet"
+   },
+   "description": {
+    "fr": "Les films marquants des années 1990",
+    "en": "Landmark films of the 1990s",
+    "de": "Prägende Filme der 1990er-Jahre",
+    "it": "I film che hanno segnato gli anni Novanta",
+    "es": "Las películas más destacadas de los años 90",
+    "sv": "1990-talets mest minnesvärda filmer"
+   },
+   "films": 40,
+   "cover": "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg"
+  },
+  {
+   "id": "animation",
+   "version": 1,
+   "name": {
+    "fr": "Animation",
+    "en": "Animation",
+    "de": "Animation",
+    "it": "Animazione",
+    "es": "Animación",
+    "sv": "Animation"
+   },
+   "description": {
+    "fr": "DreamWorks, Illumination, Aardman, Laika, Sony et d'autres studios d'animation",
+    "en": "DreamWorks, Illumination, Aardman, Laika, Sony and other animation studios",
+    "de": "DreamWorks, Illumination, Aardman, Laika, Sony und weitere Animationsstudios",
+    "it": "DreamWorks, Illumination, Aardman, Laika, Sony e altri studi d'animazione",
+    "es": "DreamWorks, Illumination, Aardman, Laika, Sony y otros estudios de animación",
+    "sv": "DreamWorks, Illumination, Aardman, Laika, Sony och andra animationsstudior"
+   },
+   "films": 40,
+   "cover": "/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg"
+  },
+  {
+   "id": "harry-potter",
+   "version": 1,
+   "name": {
+    "fr": "Harry Potter",
+    "en": "Harry Potter",
+    "de": "Harry Potter",
+    "it": "Harry Potter",
+    "es": "Harry Potter",
+    "sv": "Harry Potter"
+   },
+   "description": {
+    "fr": "Les films Harry Potter et Les Animaux fantastiques",
+    "en": "The Harry Potter and Fantastic Beasts films",
+    "de": "Die Filme von Harry Potter und Phantastische Tierwesen",
+    "it": "I film di Harry Potter e Animali fantastici",
+    "es": "Las películas de Harry Potter y Animales fantásticos",
+    "sv": "Filmerna om Harry Potter och Fantastiska vidunder"
+   },
+   "films": 11,
+   "cover": "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg"
+  },
+  {
+   "id": "terre-du-milieu",
+   "version": 1,
+   "name": {
+    "fr": "La Terre du Milieu",
+    "en": "Middle-earth",
+    "de": "Mittelerde",
+    "it": "La Terra di Mezzo",
+    "es": "La Tierra Media",
+    "sv": "Midgård"
+   },
+   "description": {
+    "fr": "Le Seigneur des anneaux et Le Hobbit de Peter Jackson",
+    "en": "Peter Jackson's The Lord of the Rings and The Hobbit",
+    "de": "Peter Jacksons Der Herr der Ringe und Der Hobbit",
+    "it": "Il Signore degli Anelli e Lo Hobbit di Peter Jackson",
+    "es": "El Señor de los Anillos y El Hobbit de Peter Jackson",
+    "sv": "Peter Jacksons Sagan om ringen och Hobbit"
+   },
+   "films": 6,
+   "cover": "/oiwc338EoBgS4sEI2ixAny4KQKg.jpg"
+  },
+  {
+   "id": "james-bond",
+   "version": 1,
+   "name": {
+    "fr": "James Bond 007",
+    "en": "James Bond 007",
+    "de": "James Bond 007",
+    "it": "James Bond 007",
+    "es": "James Bond 007",
+    "sv": "James Bond 007"
+   },
+   "description": {
+    "fr": "Les films officiels de l'agent 007",
+    "en": "The official 007 films",
+    "de": "Die offiziellen 007-Filme",
+    "it": "I film ufficiali dell'agente 007",
+    "es": "Las películas oficiales del agente 007",
+    "sv": "De officiella 007-filmerna"
+   },
+   "films": 25,
+   "cover": "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg"
+  },
+  {
+   "id": "science-fiction",
+   "version": 1,
+   "name": {
+    "fr": "Science-fiction",
+    "en": "Science Fiction",
+    "de": "Science-Fiction",
+    "it": "Fantascienza",
+    "es": "Ciencia ficción",
+    "sv": "Science fiction"
+   },
+   "description": {
+    "fr": "Les films cultes de la science-fiction",
+    "en": "Cult science fiction films",
+    "de": "Kultfilme der Science-Fiction",
+    "it": "I film cult della fantascienza",
+    "es": "Las películas de culto de la ciencia ficción",
+    "sv": "Kultförklarade science fiction-filmer"
+   },
+   "films": 40,
+   "cover": "/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg"
+  },
+  {
+   "id": "spielberg",
+   "version": 1,
+   "name": {
+    "fr": "Steven Spielberg",
+    "en": "Steven Spielberg",
+    "de": "Steven Spielberg",
+    "it": "Steven Spielberg",
+    "es": "Steven Spielberg",
+    "sv": "Steven Spielberg"
+   },
+   "description": {
+    "fr": "Les films de Steven Spielberg",
+    "en": "The films of Steven Spielberg",
+    "de": "Die Filme von Steven Spielberg",
+    "it": "I film di Steven Spielberg",
+    "es": "Las películas de Steven Spielberg",
+    "sv": "Steven Spielbergs filmer"
+   },
+   "films": 34,
+   "cover": "/f082quUW2kAtZXFZVGEfhwacZoG.jpg"
+  },
+  {
+   "id": "tarantino",
+   "version": 1,
+   "name": {
+    "fr": "Quentin Tarantino",
+    "en": "Quentin Tarantino",
+    "de": "Quentin Tarantino",
+    "it": "Quentin Tarantino",
+    "es": "Quentin Tarantino",
+    "sv": "Quentin Tarantino"
+   },
+   "description": {
+    "fr": "Les films de Quentin Tarantino",
+    "en": "The films of Quentin Tarantino",
+    "de": "Die Filme von Quentin Tarantino",
+    "it": "I film di Quentin Tarantino",
+    "es": "Las películas de Quentin Tarantino",
+    "sv": "Quentin Tarantinos filmer"
+   },
+   "films": 10,
+   "cover": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+  },
+  {
+   "id": "dc",
+   "version": 1,
+   "name": {
+    "fr": "Super-héros DC",
+    "en": "DC Superheroes",
+    "de": "DC-Superhelden",
+    "it": "Supereroi DC",
+    "es": "Superhéroes de DC",
+    "sv": "DC:s superhjältar"
+   },
+   "description": {
+    "fr": "Batman, Superman, Wonder Woman et les héros DC au cinéma",
+    "en": "Batman, Superman, Wonder Woman and DC heroes on the big screen",
+    "de": "Batman, Superman, Wonder Woman und die DC-Helden im Kino",
+    "it": "Batman, Superman, Wonder Woman e gli eroi DC al cinema",
+    "es": "Batman, Superman, Wonder Woman y los héroes de DC en el cine",
+    "sv": "Batman, Stålmannen, Wonder Woman och DC:s hjältar på bio"
+   },
+   "films": 22,
+   "cover": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
+  },
+  {
+   "id": "westerns",
+   "version": 1,
+   "name": {
+    "fr": "Westerns",
+    "en": "Westerns",
+    "de": "Western",
+    "it": "Western",
+    "es": "Wésterns",
+    "sv": "Western"
+   },
+   "description": {
+    "fr": "Les grands westerns, de John Ford à Sergio Leone",
+    "en": "Great westerns, from John Ford to Sergio Leone",
+    "de": "Große Western von John Ford bis Sergio Leone",
+    "it": "I grandi western, da John Ford a Sergio Leone",
+    "es": "Los grandes wésterns, de John Ford a Sergio Leone",
+    "sv": "Stora westernfilmer, från John Ford till Sergio Leone"
+   },
+   "films": 30,
+   "cover": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg"
+  },
+  {
+   "id": "villeneuve",
+   "version": 1,
+   "name": {
+    "fr": "Denis Villeneuve",
+    "en": "Denis Villeneuve",
+    "de": "Denis Villeneuve",
+    "it": "Denis Villeneuve",
+    "es": "Denis Villeneuve",
+    "sv": "Denis Villeneuve"
+   },
+   "description": {
+    "fr": "Les films de Denis Villeneuve",
+    "en": "The films of Denis Villeneuve",
+    "de": "Die Filme von Denis Villeneuve",
+    "it": "I film di Denis Villeneuve",
+    "es": "Las películas de Denis Villeneuve",
+    "sv": "Denis Villeneuves filmer"
+   },
+   "films": 11,
+   "cover": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg"
+  },
+  {
+   "id": "wes-anderson",
+   "version": 1,
+   "name": {
+    "fr": "Wes Anderson",
+    "en": "Wes Anderson",
+    "de": "Wes Anderson",
+    "it": "Wes Anderson",
+    "es": "Wes Anderson",
+    "sv": "Wes Anderson"
+   },
+   "description": {
+    "fr": "Les films de Wes Anderson",
+    "en": "The films of Wes Anderson",
+    "de": "Die Filme von Wes Anderson",
+    "it": "I film di Wes Anderson",
+    "es": "Las películas de Wes Anderson",
+    "sv": "Wes Andersons filmer"
+   },
+   "films": 12,
+   "cover": "/jK65srQczOKTpW62wPxwwKztGgE.jpg"
+  },
+  {
+   "id": "sagas-aventure",
+   "version": 1,
+   "name": {
+    "fr": "Sagas d'aventure",
+    "en": "Adventure Sagas",
+    "de": "Abenteuer-Sagas",
+    "it": "Saghe d'avventura",
+    "es": "Sagas de aventuras",
+    "sv": "Äventyrssagor"
+   },
+   "description": {
+    "fr": "Indiana Jones, Jurassic Park, Pirates des Caraïbes, Matrix et d'autres grandes sagas",
+    "en": "Indiana Jones, Jurassic Park, Pirates of the Caribbean, The Matrix and more great sagas",
+    "de": "Indiana Jones, Jurassic Park, Fluch der Karibik, Matrix und weitere große Sagas",
+    "it": "Indiana Jones, Jurassic Park, Pirati dei Caraibi, Matrix e altre grandi saghe",
+    "es": "Indiana Jones, Jurassic Park, Piratas del Caribe, Matrix y otras grandes sagas",
+    "sv": "Indiana Jones, Jurassic Park, Pirates of the Caribbean, Matrix och fler stora sagor"
+   },
+   "films": 32,
+   "cover": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
   }
  ]
 }

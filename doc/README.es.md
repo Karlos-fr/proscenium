@@ -105,8 +105,8 @@ un ordenador, con [adb](https://developer.android.com/tools/adb) conectado al te
 Las imágenes de la pantalla de inicio vienen de las **fotos de Bing del día** o de **tus listas** de
 películas.
 
-- **Packs de fondos**: listas temáticas ya preparadas (Disney & Pixar, Studio Ghibli,
-  Clásicos y Marvel…), que se instalan con un clic desde **Ajustes → Listas → Explorar los packs**.
+- **Packs de fondos**: listas temáticas ya preparadas (20 packs: Star Wars,
+  Studio Ghibli, Christopher Nolan, terror, los 80, James Bond, wésterns…), que se instalan con un clic desde **Ajustes → Listas → Explorar los packs**.
   No requieren ninguna clave de TMDB. Los títulos y logotipos están en tu idioma cuando existen.
 - **Tus propias listas**: busca una película por su título, con el teclado o con la voz, o importa de
   una vez las películas populares o en tendencia. Para cada película, elige el fondo o los fondos que

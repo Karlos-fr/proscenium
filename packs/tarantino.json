@@ -1,0 +1,228 @@
+{
+ "id": "tarantino",
+ "version": 1,
+ "name": {
+  "fr": "Quentin Tarantino",
+  "en": "Quentin Tarantino",
+  "de": "Quentin Tarantino",
+  "it": "Quentin Tarantino",
+  "es": "Quentin Tarantino",
+  "sv": "Quentin Tarantino"
+ },
+ "description": {
+  "fr": "Les films de Quentin Tarantino",
+  "en": "The films of Quentin Tarantino",
+  "de": "Die Filme von Quentin Tarantino",
+  "it": "I film di Quentin Tarantino",
+  "es": "Las películas de Quentin Tarantino",
+  "sv": "Quentin Tarantinos filmer"
+ },
+ "films": [
+  {
+   "id": 500,
+   "year": "1992",
+   "title": {
+    "fr": "Reservoir Dogs",
+    "en": "Reservoir Dogs",
+    "de": "Reservoir Dogs - Wilde Hunde",
+    "it": "Le iene",
+    "es": "Reservoir Dogs",
+    "sv": "De hänsynslösa"
+   },
+   "backdrops": [
+    "/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg"
+   ],
+   "logo": {
+    "fr": "/gP5FQGzt6ta8rA6te9KoH4WBcB6.png",
+    "en": "/gBtwDC7oE4R4TbkUJpEWlBsxwOm.png",
+    "de": "/bT7JuEfq04gLQSL9vOlY2FY7vYx.png",
+    "it": "/p5nv3BwTL3S8nNp6kCtkEdz3nsV.png",
+    "es": "/zKOKdpLLwVf1ab015NjgghYskEP.png"
+   }
+  },
+  {
+   "id": 680,
+   "year": "1994",
+   "title": {
+    "fr": "Pulp Fiction",
+    "en": "Pulp Fiction",
+    "de": "Pulp Fiction",
+    "it": "Pulp Fiction",
+    "es": "Pulp Fiction",
+    "sv": "Pulp Fiction"
+   },
+   "backdrops": [
+    "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+   ],
+   "logo": {
+    "fr": "/aPh3YUmSLaEmlbDSCi4jByZV1aF.png",
+    "en": "/kpuNKsIzVbK3LDVo4iOJDAY0y7d.png",
+    "es": "/wfHK380gK8XNKY7Xps4X1IhDE71.png"
+   }
+  },
+  {
+   "id": 184,
+   "year": "1997",
+   "title": {
+    "fr": "Jackie Brown",
+    "en": "Jackie Brown",
+    "de": "Jackie Brown",
+    "it": "Jackie Brown",
+    "es": "Jackie Brown",
+    "sv": "Jackie Brown"
+   },
+   "backdrops": [
+    "/gvaeY5kz3wHrMU6xLdnybziwYXw.jpg"
+   ],
+   "logo": {
+    "fr": "/4RBglKB0J46MCHwfktyifiIOjz2.png",
+    "en": "/g5OBF5irVpLqFI4xgWA9zCnM7Am.png"
+   }
+  },
+  {
+   "id": 24,
+   "year": "2003",
+   "title": {
+    "fr": "Kill Bill : Volume 1",
+    "en": "Kill Bill: Vol. 1",
+    "de": "Kill Bill - Volume 1",
+    "it": "Kill Bill: Volume 1",
+    "es": "Kill Bill: Volumen 1",
+    "sv": "Kill Bill: Vol. 1"
+   },
+   "backdrops": [
+    "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg"
+   ],
+   "logo": {
+    "fr": "/dvdglKNKGk43p4jiA3FnTQ3oB75.png",
+    "en": "/mIiJMgtGAIbQVrIElG0s7lCBs50.png",
+    "es": "/qeD9IJRJM3nZy4Et9OimS5B7p1k.png"
+   }
+  },
+  {
+   "id": 393,
+   "year": "2004",
+   "title": {
+    "fr": "Kill Bill : Volume 2",
+    "en": "Kill Bill: Vol. 2",
+    "de": "Kill Bill - Volume 2",
+    "it": "Kill Bill: Volume 2",
+    "es": "Kill Bill: Volumen 2",
+    "sv": "Kill Bill: Vol. 2"
+   },
+   "backdrops": [
+    "/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg"
+   ],
+   "logo": {
+    "fr": "/tXRj5Rk184V0VMieZZQHVRzw8bg.png",
+    "en": "/oWnoYWltTGSfTcUZrXYHwJ3Fl9j.png",
+    "es": "/jun0UtokvC3Azh9UxRSmTDNfRSx.png"
+   }
+  },
+  {
+   "id": 1991,
+   "year": "2007",
+   "title": {
+    "fr": "Boulevard de la mort",
+    "en": "Death Proof",
+    "de": "Death Proof - Todsicher",
+    "it": "Grindhouse - A prova di morte",
+    "es": "Death Proof",
+    "sv": "Death Proof"
+   },
+   "backdrops": [
+    "/qbVCChwbGWDAgsCXKZxyjBrRiWx.jpg"
+   ],
+   "logo": {
+    "fr": "/6UDtnWR38KB41J75rzYwtJD99rr.png",
+    "en": "/rHrUq9oOu77cYzMmFr5qMma5qQs.png",
+    "de": "/AaMuXkZsLfPPLIbjua6tbGcoSEo.png",
+    "it": "/r71Hd3dGk0EEJmxndvBcHgFXT0S.png"
+   }
+  },
+  {
+   "id": 16869,
+   "year": "2009",
+   "title": {
+    "fr": "Inglourious Basterds",
+    "en": "Inglourious Basterds",
+    "de": "Inglourious Basterds",
+    "it": "Bastardi senza gloria",
+    "es": "Malditos bastardos",
+    "sv": "Inglourious Basterds"
+   },
+   "backdrops": [
+    "/bMJxwgLyD47CDQ6BFCT2AMMlID7.jpg"
+   ],
+   "logo": {
+    "fr": "/opiSuqEVPidJnBNhfjnyOZBnGv8.png",
+    "en": "/4hvZyon2TzS511LVG3xAiNU2d4P.png",
+    "de": "/onWObwHSbJdUjwzpir980NcHRZe.png",
+    "it": "/yHH4jFrUSs4UI548v2qddG6ODRo.png",
+    "es": "/ynL1F2jvOnimVDulMvaHKHzxNw1.png"
+   }
+  },
+  {
+   "id": 68718,
+   "year": "2012",
+   "title": {
+    "fr": "Django Unchained",
+    "en": "Django Unchained",
+    "de": "Django Unchained",
+    "it": "Django Unchained",
+    "es": "Django desencadenado",
+    "sv": "Django Unchained"
+   },
+   "backdrops": [
+    "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg"
+   ],
+   "logo": {
+    "fr": "/5bTWzFG9ND6eNTMw65HJN81ZuTK.png",
+    "en": "/uqFqJ9j5hQ7QLx0mmxGohTVqOb6.png",
+    "es": "/sCMKyeWYXxJdFqYw0A0rypo98u7.png"
+   }
+  },
+  {
+   "id": 273248,
+   "year": "2015",
+   "title": {
+    "fr": "Les Huit Salopards",
+    "en": "The Hateful Eight",
+    "de": "The Hateful 8",
+    "it": "The Hateful Eight",
+    "es": "Los odiosos ocho",
+    "sv": "The Hateful Eight"
+   },
+   "backdrops": [
+    "/7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg"
+   ],
+   "logo": {
+    "fr": "/tqKnUCkWO7svZB9WmC6G5YnhAtA.png",
+    "en": "/dhkWUiFU6wvwkVhwKae5FO57AP6.png",
+    "de": "/8ZygdIGsXF0yRFgxfCQrVuyXAwI.png",
+    "es": "/338mAFyedvIBm6UC8xslBF8phO4.png"
+   }
+  },
+  {
+   "id": 466272,
+   "year": "2019",
+   "title": {
+    "fr": "Once Upon a Time in... Hollywood",
+    "en": "Once Upon a Time in... Hollywood",
+    "de": "Once Upon a Time in... Hollywood",
+    "it": "C'era una volta a… Hollywood",
+    "es": "Érase una vez en… Hollywood",
+    "sv": "Once Upon a Time in... Hollywood"
+   },
+   "backdrops": [
+    "/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
+   ],
+   "logo": {
+    "fr": "/6pPZOAWfR5NlSyVal4ynjY7Ue2X.png",
+    "en": "/qero0DT6FKsoCThCyAzxZgczdCK.png",
+    "it": "/3yF3QZM9xZhyVz6pSY7OhrtZVwi.png",
+    "es": "/iGI91eIha7BV5qeHI3hIqY2bcIh.png"
+   }
+  }
+ ]
+}

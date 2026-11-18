@@ -1,0 +1,560 @@
+{
+ "id": "james-bond",
+ "version": 1,
+ "name": {
+  "fr": "James Bond 007",
+  "en": "James Bond 007",
+  "de": "James Bond 007",
+  "it": "James Bond 007",
+  "es": "James Bond 007",
+  "sv": "James Bond 007"
+ },
+ "description": {
+  "fr": "Les films officiels de l'agent 007",
+  "en": "The official 007 films",
+  "de": "Die offiziellen 007-Filme",
+  "it": "I film ufficiali dell'agente 007",
+  "es": "Las películas oficiales del agente 007",
+  "sv": "De officiella 007-filmerna"
+ },
+ "films": [
+  {
+   "id": 646,
+   "year": "1962",
+   "title": {
+    "fr": "James Bond 007 contre Dr. No",
+    "en": "Dr. No",
+    "de": "James Bond 007 jagt Dr. No",
+    "it": "Agente 007 - Licenza di uccidere",
+    "es": "Agente 007 contra el Dr. No",
+    "sv": "Agent 007 med rätt att döda"
+   },
+   "backdrops": [
+    "/srgq7bzZsuDw7NoGXdazRXp7Hl6.jpg"
+   ],
+   "logo": {
+    "fr": "/98Yui8TNl7bKD8nbauOtTgeTwgy.png",
+    "en": "/nZSDiH90ltUz86TfRSJVVhSJtXc.png",
+    "de": "/kok8uO2xMNqdkp2a08nzajyxV6U.png",
+    "it": "/mjT4OBDRwkkwijSbsyfoxnUavw1.png",
+    "es": "/iRfs9pvDqXVMKNCoME2xCQV0qZG.png"
+   }
+  },
+  {
+   "id": 657,
+   "year": "1963",
+   "title": {
+    "fr": "Bons baisers de Russie",
+    "en": "From Russia with Love",
+    "de": "James Bond 007 - Liebesgrüße aus Moskau",
+    "it": "A 007, dalla Russia con amore",
+    "es": "Desde Rusia con amor",
+    "sv": "Agent 007 ser rött"
+   },
+   "backdrops": [
+    "/8JMiQa0OqsCYvbNUrQIrMzwV7g2.jpg"
+   ],
+   "logo": {
+    "fr": "/9tFZqC39wgcVegzF0dv7KPcWMLV.png",
+    "en": "/tdAtQ165ruPHf52hvtflQ6izx0L.png",
+    "de": "/5jvj0JhWRhLwXHKsNu17AcRyaeH.png",
+    "it": "/42cguXWaU9Ae8WlmyS8w5yHMccW.png",
+    "es": "/xQ07sUGKppXhpj46H64EgpGugXQ.png"
+   }
+  },
+  {
+   "id": 658,
+   "year": "1964",
+   "title": {
+    "fr": "Goldfinger",
+    "en": "Goldfinger",
+    "de": "James Bond 007 - Goldfinger",
+    "it": "Agente 007 - Missione Goldfinger",
+    "es": "James Bond contra Goldfinger",
+    "sv": "Goldfinger"
+   },
+   "backdrops": [
+    "/mM4WeXqJd2tu1gCF5GYyAZf2Npl.jpg"
+   ],
+   "logo": {
+    "fr": "/pJ7ndIGfl2Z0vZMDBNjWI8SdMGH.png",
+    "en": "/cLK12LI1uJx77dTGnkb6ZNUxUcV.png",
+    "it": "/xEPjIqZGKmYZHrQiuEupmuYXol9.png",
+    "es": "/j4IhXYbcB79kbIgkhiOXzonC8oW.png"
+   }
+  },
+  {
+   "id": 660,
+   "year": "1965",
+   "title": {
+    "fr": "Opération Tonnerre",
+    "en": "Thunderball",
+    "de": "James Bond 007 - Feuerball",
+    "it": "Agente 007 - Thunderball - Operazione tuono",
+    "es": "Operación Trueno",
+    "sv": "Åskbollen"
+   },
+   "backdrops": [
+    "/yQCaNJpqPtfMMvKt51rHghG1J2w.jpg"
+   ],
+   "logo": {
+    "fr": "/bGDD8MsTKi6HqsKgNi3zDb6PBrY.png",
+    "en": "/oGAo9cO0gvnoEeppFk2YjgTmASo.png",
+    "de": "/1k8ZR1dq9uZKFpAeJaNrMUnuEWW.png",
+    "it": "/aOHeDf3zl3eWAu85uvcMTiIxuJ4.png",
+    "es": "/kNtKvi3blT9UG9gfGLRY6LdJWnw.png"
+   }
+  },
+  {
+   "id": 667,
+   "year": "1967",
+   "title": {
+    "fr": "On ne vit que deux fois",
+    "en": "You Only Live Twice",
+    "de": "James Bond 007 - Man lebt nur zweimal",
+    "it": "Agente 007 - Si vive solo due volte",
+    "es": "Sólo se vive dos veces",
+    "sv": "Man lever bara två gånger"
+   },
+   "backdrops": [
+    "/cpZAXIYA0lkZMpAt7d1MmH8ojNV.jpg"
+   ],
+   "logo": {
+    "fr": "/fxoiGkzul3jQG5TLpW48pl5RDlA.png",
+    "en": "/4ab6bNdyeoyVT8FZ8XL7taS1AJ7.png",
+    "de": "/pmsQixgSwANtbCuTSSiGns7xkRX.png",
+    "it": "/jPyn8k775Rl4CUDF30kqDjjfIAu.png",
+    "es": "/hkCB9HDNHEW0ei0s6bFY9GOjS7k.png"
+   }
+  },
+  {
+   "id": 668,
+   "year": "1969",
+   "title": {
+    "fr": "Au service secret de Sa Majesté",
+    "en": "On Her Majesty's Secret Service",
+    "de": "James Bond 007 - Im Geheimdienst Ihrer Majestät",
+    "it": "Agente 007 - Al servizio segreto di Sua Maestà",
+    "es": "007 al servicio secreto de su Majestad",
+    "sv": "I hennes majestäts hemliga tjänst"
+   },
+   "backdrops": [
+    "/58pMrmwwcKamJIdjUlinE6QX1Fs.jpg"
+   ],
+   "logo": {
+    "fr": "/8a9p7UdKYxazXRi90PScceq2WiR.png",
+    "en": "/ubM0UFvbIJs50rhFKqI02pvbz2W.png",
+    "de": "/vACbVOtlGK9e3jGMorjGg44dNSg.png",
+    "it": "/bWQaSy8jxJfsOJc7zGm7aaPgSp6.png",
+    "es": "/hC7FTs2kEyeNozOCX3udIEkm5bc.png"
+   }
+  },
+  {
+   "id": 681,
+   "year": "1971",
+   "title": {
+    "fr": "Les diamants sont éternels",
+    "en": "Diamonds Are Forever",
+    "de": "James Bond 007 - Diamantenfieber",
+    "it": "Agente 007 - Una cascata di diamanti",
+    "es": "Diamantes para la eternidad",
+    "sv": "Diamantfeber"
+   },
+   "backdrops": [
+    "/pyTDtQCn5sG8gi2zkM5ZylSNmtJ.jpg"
+   ],
+   "logo": {
+    "fr": "/8YyFHz2TipKmTWInxaCNEu27K7J.png",
+    "en": "/nMYKB9QVawAzUO6d8VUhamUgqOJ.png",
+    "de": "/ua44HO5tb0AEOybwi0zxH1mkzR3.png",
+    "it": "/9WNxDZNU0J738K9KhwoMUKQOf59.png",
+    "es": "/dBerImYFGUypFJTPwbu4XCGmvOc.png"
+   }
+  },
+  {
+   "id": 253,
+   "year": "1973",
+   "title": {
+    "fr": "Vivre et laisser mourir",
+    "en": "Live and Let Die",
+    "de": "James Bond 007 - Leben und sterben lassen",
+    "it": "Agente 007 - Vivi e lascia morire",
+    "es": "Vive y deja morir",
+    "sv": "Leva och låta dö"
+   },
+   "backdrops": [
+    "/hzmmXx6UeYQeylioNbliFKjSbV7.jpg"
+   ],
+   "logo": {
+    "fr": "/4v76KiGQRnrSOlbvs694ELuyyCe.png",
+    "en": "/dixRLiHxOMJTfHfIhUzdyTDQJby.png",
+    "de": "/fsZCZbjAn0koRcWhn0a11Qx9M64.png",
+    "it": "/5acUnSw2uXNXvMcauzfm5rUMSDc.png",
+    "es": "/zqDfmFjK1omkiHAqvojKi2pEtWY.png"
+   }
+  },
+  {
+   "id": 682,
+   "year": "1974",
+   "title": {
+    "fr": "L'Homme au pistolet d'or",
+    "en": "The Man with the Golden Gun",
+    "de": "James Bond 007 - Der Mann mit dem goldenen Colt",
+    "it": "Agente 007 - L'uomo dalla pistola d'oro",
+    "es": "El hombre de la pistola de oro",
+    "sv": "Mannen med den gyllene pistolen"
+   },
+   "backdrops": [
+    "/vcj47nTm1fDlkxUwDb2GgYbKDDW.jpg"
+   ],
+   "logo": {
+    "fr": "/tIZr2WvyVVFek4OwUsEAqpFqfsR.png",
+    "en": "/8FHae6sMlb4O3CV0BrszKpvCqk9.png",
+    "de": "/yEemS0H18cT6LxoNYwcqSkwuI4s.png",
+    "it": "/4B6mfPbMaMThk1IL4am8MyMuhMb.png",
+    "es": "/arDZAtnPgendD0qaN6cRsto6wJ2.png"
+   }
+  },
+  {
+   "id": 691,
+   "year": "1977",
+   "title": {
+    "fr": "L'Espion qui m'aimait",
+    "en": "The Spy Who Loved Me",
+    "de": "James Bond 007 - Der Spion, der mich liebte",
+    "it": "La spia che mi amava",
+    "es": "La espía que me amó",
+    "sv": "Älskade spion"
+   },
+   "backdrops": [
+    "/lhPq8R8qgoyLNWvVTiqZSkYGLPX.jpg"
+   ],
+   "logo": {
+    "fr": "/4yKbieDpG4rtKoXEko6PUJK47eG.png",
+    "en": "/qek0TZmoZjBXyhIqZ59aLUyk5AZ.png",
+    "de": "/h9nygUa2xCDdMGm3wzbwww1qA5R.png",
+    "it": "/vnwS4KLfuO6ziEeVmxUuSzjFFWI.png",
+    "es": "/8WGVrwdBbWjAx11yXCW69wnfjyH.png"
+   }
+  },
+  {
+   "id": 698,
+   "year": "1979",
+   "title": {
+    "fr": "Moonraker",
+    "en": "Moonraker",
+    "de": "James Bond 007 - Moonraker - Streng geheim",
+    "it": "Moonraker - Operazione spazio",
+    "es": "Moonraker",
+    "sv": "Moonraker"
+   },
+   "backdrops": [
+    "/mrDC5DLx2wljt4HZGwgkmqlzfcF.jpg"
+   ],
+   "logo": {
+    "en": "/tETXtcyI4pj19rRtn6y8dNUagbl.png",
+    "it": "/yTLtb9IM9YFlPioYflJLi0rLjIw.png",
+    "es": "/bTQIHrNWq5iifJnztcbidQLr8kx.png"
+   }
+  },
+  {
+   "id": 699,
+   "year": "1981",
+   "title": {
+    "fr": "Rien que pour vos yeux",
+    "en": "For Your Eyes Only",
+    "de": "James Bond 007 - In tödlicher Mission",
+    "it": "Solo per i tuoi occhi",
+    "es": "Sólo para sus ojos",
+    "sv": "Ur dödlig synvinkel"
+   },
+   "backdrops": [
+    "/z7Jp7HAsY7MqXzPYzTjJnmOQk2r.jpg"
+   ],
+   "logo": {
+    "fr": "/dArkyOIy1CjaRu65X4GLzjkwB7s.png",
+    "en": "/msRUopmpo8qmcmWz3MhGDCb82DA.png",
+    "de": "/wWJCe4jaJZuRc9qS11y1DqLqv6S.png",
+    "it": "/7gjYrcA0eAUeslFZcZeHHkmT5SA.png",
+    "es": "/xuIYoEHIRcZqumldChW6puzDkKV.png"
+   }
+  },
+  {
+   "id": 700,
+   "year": "1983",
+   "title": {
+    "fr": "Octopussy",
+    "en": "Octopussy",
+    "de": "James Bond 007 - Octopussy",
+    "it": "Octopussy - Operazione piovra",
+    "es": "Octopussy",
+    "sv": "Octopussy"
+   },
+   "backdrops": [
+    "/xTS1qCmhzH3vq7cuextO5vQA6eW.jpg"
+   ],
+   "logo": {
+    "en": "/qoF45d0PgyqZdu4AAVAuqdXBT6g.png",
+    "de": "/h4Gwm1LLngGc3Ovql7zLgK3PeMY.png",
+    "it": "/r2Z9YOON9EhaUPkhqMze5Gxv1Ss.png",
+    "es": "/eqf0IEv0GrtqRlWaGgc3jUYer40.png"
+   }
+  },
+  {
+   "id": 707,
+   "year": "1985",
+   "title": {
+    "fr": "Dangereusement vôtre",
+    "en": "A View to a Kill",
+    "de": "James Bond 007 - Im Angesicht des Todes",
+    "it": "007 - Bersaglio mobile",
+    "es": "Panorama para matar",
+    "sv": "Levande måltavla"
+   },
+   "backdrops": [
+    "/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg"
+   ],
+   "logo": {
+    "fr": "/6RtcAUjHo0NI6Al82o5A3pf8sEF.png",
+    "en": "/dUmInAmml2ozs4jm7h2ek9VhsB8.png",
+    "de": "/hBTqBQFaMVnHK2FL2hWO3iPESAh.png",
+    "it": "/2O7G0qRieOnilErUAXqzRkgnDYa.png",
+    "es": "/bI3OiiszU4ruNqUfIMvCH4QSTUn.png"
+   }
+  },
+  {
+   "id": 708,
+   "year": "1987",
+   "title": {
+    "fr": "Tuer n'est pas jouer",
+    "en": "The Living Daylights",
+    "de": "James Bond 007 - Der Hauch des Todes",
+    "it": "007 - Zona pericolo",
+    "es": "Alta tensión",
+    "sv": "Iskallt uppdrag"
+   },
+   "backdrops": [
+    "/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg"
+   ],
+   "logo": {
+    "fr": "/7YUoKiplrhgmA6Ar3b8YKGOAbRk.png",
+    "en": "/zl8ACFPi1eljXRtb4KWWo0g7D9z.png",
+    "de": "/n03GzjTGbuydbBlq4NrAo3NSLFn.png",
+    "it": "/9v3m8zJWw4mmpTr0qvgmCpT0R6A.png",
+    "es": "/hJBGReNXc9zWfGEDdEpUlL5OD6e.png"
+   }
+  },
+  {
+   "id": 709,
+   "year": "1989",
+   "title": {
+    "fr": "Permis de tuer",
+    "en": "Licence to Kill",
+    "de": "James Bond 007 - Lizenz zum Töten",
+    "it": "007 - Vendetta privata",
+    "es": "Licencia para matar",
+    "sv": "Tid för hämnd"
+   },
+   "backdrops": [
+    "/p6VFbg5lhWj0RCgXf5dj6IDMPvt.jpg"
+   ],
+   "logo": {
+    "fr": "/7LxW6D0GzLQzFPMVJHFcmM0ISTQ.png",
+    "en": "/pQYS6uqfjcZU2yCiwMfGWryOEgC.png",
+    "de": "/cZMjmei7useTP2DXMPW94Ft0AjP.png",
+    "it": "/wVwrdOMlC3NPUizIxYN0dj9YqPu.png",
+    "es": "/56RVRzPcLBwE5NqE3sQd3h2e8to.png"
+   }
+  },
+  {
+   "id": 710,
+   "year": "1995",
+   "title": {
+    "fr": "GoldenEye",
+    "en": "GoldenEye",
+    "de": "James Bond 007 - GoldenEye",
+    "it": "GoldenEye",
+    "es": "Goldeneye",
+    "sv": "GoldenEye"
+   },
+   "backdrops": [
+    "/fIWsCpYR9iGDMSbMTSAzy8L7Kg5.jpg"
+   ],
+   "logo": {
+    "fr": "/gvjqkp2PMWhIJxAcoQQvg4gv0HC.png",
+    "en": "/ksZCINsy2GbB9n5UT5B9SQO9zSZ.png",
+    "es": "/iaZznmzIXXkTwjr2ZjY1GZL9Syf.png"
+   }
+  },
+  {
+   "id": 714,
+   "year": "1997",
+   "title": {
+    "fr": "Demain ne meurt jamais",
+    "en": "Tomorrow Never Dies",
+    "de": "James Bond 007 - Der Morgen stirbt nie",
+    "it": "Il domani non muore mai",
+    "es": "El mañana nunca muere",
+    "sv": "Tomorrow Never Dies"
+   },
+   "backdrops": [
+    "/fesAgiKA0pc04vScDTAQe1f9nd4.jpg"
+   ],
+   "logo": {
+    "fr": "/yZsJSP10zivFepJizrarSsk7TGH.png",
+    "en": "/lM7zGjqQFnlDHlBI5boLtH9HEwk.png",
+    "de": "/4aOp1J2OIU21taU9bBNhK5rG982.png",
+    "it": "/jSr2gsumnZZVn5MIdfa9cVeq3Ir.png",
+    "es": "/gLIRezh2TaZiZCtYbh0vd3dqJH4.png"
+   }
+  },
+  {
+   "id": 36643,
+   "year": "1999",
+   "title": {
+    "fr": "Le monde ne suffit pas",
+    "en": "The World Is Not Enough",
+    "de": "James Bond 007 - Die Welt ist nicht genug",
+    "it": "Il mondo non basta",
+    "es": "El mundo nunca es suficiente",
+    "sv": "Världen räcker inte till"
+   },
+   "backdrops": [
+    "/n2jVDMcBEWsLFooO7W1ZkcMUtWS.jpg"
+   ],
+   "logo": {
+    "fr": "/3W4YuBpx18N9frQNuVyysOh5vZn.png",
+    "en": "/AoPAJZrSRVTORk5Pa0Ds31ztbr3.png",
+    "de": "/50k2aNDaboAT0MUlKscBqCcHLco.png",
+    "it": "/kh6apTHd1idpnBiDTJ4qRpFdxmE.png",
+    "es": "/9878tJEsiT06CxL2GLXcjG0YGaF.png"
+   }
+  },
+  {
+   "id": 36669,
+   "year": "2002",
+   "title": {
+    "fr": "Meurs un autre jour",
+    "en": "Die Another Day",
+    "de": "James Bond 007 - Stirb an einem anderen Tag",
+    "it": "La morte può attendere",
+    "es": "Muere otro día",
+    "sv": "Die Another Day"
+   },
+   "backdrops": [
+    "/orI5mvpksYIlhJqzdmeipys6sHQ.jpg"
+   ],
+   "logo": {
+    "fr": "/8rwew23TLaVvExGIQlxXuZ6ulww.png",
+    "en": "/nHPOxoY3aX6vL7hI70vsvKaBohf.png",
+    "de": "/wc1JbqsxqB7pqFHuPdgsCi1uhyp.png",
+    "it": "/mFJwqySV01wCUsQgA8mmoHulyLO.png",
+    "es": "/z2z7FHaccXId6wnNjJFpImILxXP.png"
+   }
+  },
+  {
+   "id": 36557,
+   "year": "2006",
+   "title": {
+    "fr": "Casino Royale",
+    "en": "Casino Royale",
+    "de": "James Bond 007 - Casino Royale",
+    "it": "Casino Royale",
+    "es": "Casino Royale",
+    "sv": "Casino Royale"
+   },
+   "backdrops": [
+    "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg"
+   ],
+   "logo": {
+    "en": "/pxvf5usDNAzPEc9j0yluQA2I2Ud.png",
+    "it": "/iSwXvATA3t6QhgDORRDyQn6vlvA.png",
+    "es": "/zfgvcK09wSbBTAIRsbAKOQvrm6A.png"
+   }
+  },
+  {
+   "id": 10764,
+   "year": "2008",
+   "title": {
+    "fr": "Quantum of Solace",
+    "en": "Quantum of Solace",
+    "de": "James Bond 007 - Ein Quantum Trost",
+    "it": "Quantum of Solace",
+    "es": "Quantum of Solace",
+    "sv": "Quantum of Solace"
+   },
+   "backdrops": [
+    "/uGs5Z7dMguf7kxWubGFcp9EhKcy.jpg"
+   ],
+   "logo": {
+    "en": "/5AtI8ZOsdPQsxwEHFqq5FYObTcJ.png",
+    "de": "/6kzvBJ7vI3szN9XUH9u0zdVESJV.png",
+    "it": "/68Kki13kVDrpWQZ6K4AeVn51r6E.png",
+    "es": "/zR4y940O4kzd049RqocHNSTTyp5.png"
+   }
+  },
+  {
+   "id": 37724,
+   "year": "2012",
+   "title": {
+    "fr": "Skyfall",
+    "en": "Skyfall",
+    "de": "James Bond 007 - Skyfall",
+    "it": "Skyfall",
+    "es": "Skyfall",
+    "sv": "Skyfall"
+   },
+   "backdrops": [
+    "/wkA622CCN2X0uwpgqYEOnUYEDf5.jpg"
+   ],
+   "logo": {
+    "en": "/wy9HCJuqbyBcKJt1mZrzhxnghDI.png",
+    "it": "/5bU3Lbju1ryM6gxMc4eQ8e79jXV.png",
+    "es": "/q2S7azWUlj2DnyPbBe8vNCGBpUK.png"
+   }
+  },
+  {
+   "id": 206647,
+   "year": "2015",
+   "title": {
+    "fr": "Spectre",
+    "en": "Spectre",
+    "de": "James Bond 007 - Spectre",
+    "it": "Spectre",
+    "es": "Spectre",
+    "sv": "Spectre"
+   },
+   "backdrops": [
+    "/cCKU3EuiSKt6xsOI6gg5kiFgZYm.jpg"
+   ],
+   "logo": {
+    "fr": "/w3Uy0ozdqtAXJuixUQvte3dIjwe.png",
+    "en": "/kzoXn4oeb7P9wdyg62Kb7PR23Bu.png",
+    "it": "/pmGbmSzLpRKaDfmZSowKXY77nDc.png",
+    "es": "/glEEEjVX4gE0iJv7E9O1QkJZHQe.png"
+   }
+  },
+  {
+   "id": 370172,
+   "year": "2021",
+   "title": {
+    "fr": "Mourir peut attendre",
+    "en": "No Time to Die",
+    "de": "James Bond 007 - Keine Zeit zu sterben",
+    "it": "No Time to Die",
+    "es": "Sin tiempo para morir",
+    "sv": "No Time to Die"
+   },
+   "backdrops": [
+    "/bz7pwNGCbV576COsDcYN9MbEACC.jpg"
+   ],
+   "logo": {
+    "fr": "/8ZubIPqONO35fF7MY0L3wxqC9cJ.png",
+    "en": "/h02wT4F1aPBkQ94NlSx3ypOI5xl.png",
+    "de": "/4n3ru9OS4Qbw6pFYPLCY7nfOK74.png",
+    "it": "/hg8vyNMgj3zdof3Qs0pExTfPK9o.png",
+    "es": "/dXclpDiyUJZDSRmxW7s3Ixaf5iB.png"
+   }
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "id": "nolan",
+ "version": 1,
+ "name": {
+  "fr": "Christopher Nolan",
+  "en": "Christopher Nolan",
+  "de": "Christopher Nolan",
+  "it": "Christopher Nolan",
+  "es": "Christopher Nolan",
+  "sv": "Christopher Nolan"
+ },
+ "description": {
+  "fr": "Les films de Christopher Nolan",
+  "en": "The films of Christopher Nolan",
+  "de": "Die Filme von Christopher Nolan",
+  "it": "I film di Christopher Nolan",
+  "es": "Las películas de Christopher Nolan",
+  "sv": "Christopher Nolans filmer"
+ },
+ "films": [
+  {
+   "id": 11660,
+   "year": "1999",
+   "title": {
+    "fr": "Following : le suiveur",
+    "en": "Following",
+    "de": "Following",
+    "it": "Following",
+    "es": "Following",
+    "sv": "Following"
+   },
+   "backdrops": [
+    "/yf5I5VHllK4h5VdbxHfQ40RBTe8.jpg"
+   ],
+   "logo": {
+    "en": "/vKRGsJH0da9xY62R7RgimsFtyul.png"
+   }
+  },
+  {
+   "id": 77,
+   "year": "2000",
+   "title": {
+    "fr": "Memento",
+    "en": "Memento",
+    "de": "Memento",
+    "it": "Memento",
+    "es": "Memento",
+    "sv": "Memento"
+   },
+   "backdrops": [
+    "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg"
+   ],
+   "logo": {
+    "fr": "/tjaqBEkFb9P8rso4OV519Zf8Vel.png",
+    "en": "/hlh8G7r8iOqJmpRbN8j9IvtMgc9.png"
+   }
+  },
+  {
+   "id": 320,
+   "year": "2002",
+   "title": {
+    "fr": "Insomnia",
+    "en": "Insomnia",
+    "de": "Insomnia - Schlaflos",
+    "it": "Insomnia",
+    "es": "Insomnio",
+    "sv": "Insomnia"
+   },
+   "backdrops": [
+    "/jU8MC5uSgBkZXyZYGtZgMsMsfeN.jpg"
+   ],
+   "logo": {
+    "en": "/mv8eIgUxfPDk7cDNL2JKg2icvNB.png",
+    "de": "/gwvcHkHbr90R8bknGu5ZxGmEVXI.png",
+    "es": "/mDy2fmfGOmqZUM1wWF4AY3dahrL.png"
+   }
+  },
+  {
+   "id": 272,
+   "year": "2005",
+   "title": {
+    "fr": "Batman Begins",
+    "en": "Batman Begins",
+    "de": "Batman Begins",
+    "it": "Batman Begins",
+    "es": "Batman Begins",
+    "sv": "Batman Begins"
+   },
+   "backdrops": [
+    "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg"
+   ],
+   "logo": {
+    "fr": "/a6x2vcajK1vWIa7gY1BptEi5cRO.png",
+    "en": "/kmqIeEVaVfbBCgV9WFPuLUl84uW.png",
+    "es": "/tsPuQ6zskYUFBF9migOLUmTRTBS.png"
+   }
+  },
+  {
+   "id": 1124,
+   "year": "2006",
+   "title": {
+    "fr": "Le Prestige",
+    "en": "The Prestige",
+    "de": "Prestige - Die Meister der Magie",
+    "it": "The Prestige",
+    "es": "El truco final (El prestigio)",
+    "sv": "The Prestige"
+   },
+   "backdrops": [
+    "/yaExZh6qE2cfyK3o4kAMEq0mkgy.jpg"
+   ],
+   "logo": {
+    "fr": "/vNBagZgwowElIvFQrxzukWXtL7G.png",
+    "en": "/spOKEWc2HsfVJWCicr5CXCCVRil.png",
+    "de": "/a7ViJzg6UY2dHz8pMSQrSoEXb2y.png",
+    "es": "/l8dyRmmIzS4rZi9rxIZxahWa0cy.png"
+   }
+  },
+  {
+   "id": 155,
+   "year": "2008",
+   "title": {
+    "fr": "The Dark Knight : Le Chevalier noir",
+    "en": "The Dark Knight",
+    "de": "The Dark Knight",
+    "it": "Il cavaliere oscuro",
+    "es": "El caballero oscuro",
+    "sv": "The Dark Knight"
+   },
+   "backdrops": [
+    "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
+   ],
+   "logo": {
+    "fr": "/yfEQdFlPdtFjGxZkaAdpmscb88x.png",
+    "en": "/nO5Uix3Qr4WjOyU1BMPv0okyNWm.png",
+    "it": "/46WNMfeaIOqFS5xYgpxEFGg3SRm.png",
+    "es": "/lkKtbXQTyo99IS5WwU6xOLxaqVI.png"
+   }
+  },
+  {
+   "id": 27205,
+   "year": "2010",
+   "title": {
+    "fr": "Inception",
+    "en": "Inception",
+    "de": "Inception",
+    "it": "Inception",
+    "es": "Origen",
+    "sv": "Inception"
+   },
+   "backdrops": [
+    "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg"
+   ],
+   "logo": {
+    "fr": "/dK9XgpUTF7UtT0lHXOKLlgmrKdu.png",
+    "en": "/eS5TjZsO30LTfZISyBbPiXshAKd.png",
+    "es": "/rHWUWJXC83KfqiSSAogV1YYTZHf.png"
+   }
+  },
+  {
+   "id": 49026,
+   "year": "2012",
+   "title": {
+    "fr": "The Dark Knight Rises",
+    "en": "The Dark Knight Rises",
+    "de": "The Dark Knight Rises",
+    "it": "Il cavaliere oscuro - Il ritorno",
+    "es": "El caballero oscuro: La leyenda renace",
+    "sv": "The Dark Knight Rises"
+   },
+   "backdrops": [
+    "/c3OHQncTAnKFhdOTX7D3LTW6son.jpg"
+   ],
+   "logo": {
+    "fr": "/duVBk0j4I2oA9mc6mNWkGuKICR7.png",
+    "en": "/A0QGz3heDFbLT3YCXa2jUKfWnbx.png",
+    "it": "/fqaVAxLAgmbQjzLaCF7dvDXsDmA.png",
+    "es": "/l0huPqya0L6yDRlMB3wgkCqJAUh.png"
+   }
+  },
+  {
+   "id": 157336,
+   "year": "2014",
+   "title": {
+    "fr": "Interstellar",
+    "en": "Interstellar",
+    "de": "Interstellar",
+    "it": "Interstellar",
+    "es": "Interstellar",
+    "sv": "Interstellar"
+   },
+   "backdrops": [
+    "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
+   ],
+   "logo": {
+    "fr": "/e81YnyUwNs9YO8ljpPMMjrzHsgM.png",
+    "en": "/4Hu4w5p0mwL2Wvyk3gqu2JRDGHl.png",
+    "es": "/xBmWKbXWEgRn69x7qma4uiPgE1N.png"
+   }
+  },
+  {
+   "id": 374720,
+   "year": "2017",
+   "title": {
+    "fr": "Dunkerque",
+    "en": "Dunkirk",
+    "de": "Dunkirk",
+    "it": "Dunkirk",
+    "es": "Dunkerque",
+    "sv": "Dunkirk"
+   },
+   "backdrops": [
+    "/pTwF9hLkqAtuOqXMdOyPwz4AgnI.jpg"
+   ],
+   "logo": {
+    "fr": "/43IBxkqn9qi4DIBpGeYKymyw1IU.png",
+    "en": "/d23hHJ9S84b1vtXXOCE0VI17ckD.png",
+    "it": "/fsIBJqFFnJJpwn4HcbvYm6vkdDf.png",
+    "es": "/5pKy6F8qrnLoor1NXiQD8bQcli6.png"
+   }
+  },
+  {
+   "id": 577922,
+   "year": "2020",
+   "title": {
+    "fr": "Tenet",
+    "en": "Tenet",
+    "de": "Tenet",
+    "it": "Tenet",
+    "es": "Tenet",
+    "sv": "Tenet"
+   },
+   "backdrops": [
+    "/mQOUyqDybTqxl73hO5LujCZsM1o.jpg"
+   ],
+   "logo": {
+    "fr": "/ud8Fp6DEAmJcUPXfivqkrLdJsXv.png",
+    "en": "/kzG6oo1JhVapC8kMQHdNVGI9ROp.png"
+   }
+  },
+  {
+   "id": 872585,
+   "year": "2023",
+   "title": {
+    "fr": "Oppenheimer",
+    "en": "Oppenheimer",
+    "de": "Oppenheimer",
+    "it": "Oppenheimer",
+    "es": "Oppenheimer",
+    "sv": "Oppenheimer"
+   },
+   "backdrops": [
+    "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg"
+   ],
+   "logo": {
+    "en": "/b07VisHvZb0WzUpA8VB77wfMXwg.png",
+    "it": "/eW4WghVLfLBjj96Uz0Cm6bZRf0c.png",
+    "es": "/jNBHnHaJfzBRkUHfVzVj0nswpTh.png"
+   }
+  },
+  {
+   "id": 1368337,
+   "year": "2026",
+   "title": {
+    "fr": "L'Odyssée",
+    "en": "The Odyssey",
+    "de": "Die Odyssee",
+    "it": "Odissea",
+    "es": "La Odisea",
+    "sv": "The Odyssey"
+   },
+   "backdrops": [
+    "/c7btGYblBnfAaw713WvFM0Kimc7.jpg"
+   ],
+   "logo": {
+    "fr": "/jn9FzZNy7r22HTGiywp5mGqjiGW.png",
+    "en": "/kX6ZX4GL7km04332caiOVapR2lb.png",
+    "de": "/oUYtFVUHl32RGyKwBSdDhToZ5Yv.png",
+    "it": "/vttCFyRSF8KoHdO1nmDM5PhSmcs.png",
+    "es": "/is9LO2rtFM2T43XOYw2HGQ2ECo2.png"
+   }
+  }
+ ]
+}

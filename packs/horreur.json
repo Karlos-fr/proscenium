@@ -1,0 +1,859 @@
+{
+ "id": "horreur",
+ "version": 1,
+ "name": {
+  "fr": "Horreur",
+  "en": "Horror",
+  "de": "Horror",
+  "it": "Horror",
+  "es": "Terror",
+  "sv": "Skräck"
+ },
+ "description": {
+  "fr": "Les grands classiques du cinéma d'horreur",
+  "en": "Great classics of horror cinema",
+  "de": "Große Klassiker des Horrorfilms",
+  "it": "I grandi classici del cinema horror",
+  "es": "Los grandes clásicos del cine de terror",
+  "sv": "Skräckfilmens stora klassiker"
+ },
+ "films": [
+  {
+   "id": 539,
+   "year": "1960",
+   "title": {
+    "fr": "Psychose",
+    "en": "Psycho",
+    "de": "Psycho",
+    "it": "Psyco",
+    "es": "Psicosis",
+    "sv": "Psycho"
+   },
+   "backdrops": [
+    "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg"
+   ],
+   "logo": {
+    "fr": "/gtsnLQQD0l6R8Ai1sojaxokoZrJ.png",
+    "en": "/3TLppfrmhnuldfXozpCmUIK6iXV.png",
+    "es": "/tbDsTlf1M37hAMPvfJwiDMP0tbl.png"
+   }
+  },
+  {
+   "id": 805,
+   "year": "1968",
+   "title": {
+    "fr": "Rosemary's Baby",
+    "en": "Rosemary's Baby",
+    "de": "Rosemaries Baby",
+    "it": "Rosemary's baby: nastro rosso a New York",
+    "es": "La semilla del diablo",
+    "sv": "Rosemarys baby"
+   },
+   "backdrops": [
+    "/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg"
+   ],
+   "logo": {
+    "en": "/sAeSmbOHEQwQZBU3bReCspLHlDv.png",
+    "es": "/zl7VYJZPEigM3ZWJ5vu3Lf5TWoz.png"
+   }
+  },
+  {
+   "id": 9552,
+   "year": "1973",
+   "title": {
+    "fr": "L'Exorciste",
+    "en": "The Exorcist",
+    "de": "Der Exorzist",
+    "it": "L'esorcista",
+    "es": "El exorcista",
+    "sv": "Exorcisten"
+   },
+   "backdrops": [
+    "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg"
+   ],
+   "logo": {
+    "fr": "/2kF6UcX8ldvZCBXLD0uPuw0du0t.png",
+    "en": "/fZQ6n1VcrOAGxRVLkfhP41CjBQ2.png",
+    "de": "/8F4QoBqFIBiffIYp9F2Gtbfhp3o.png",
+    "it": "/ufVtldGVHM02L2WLUEohIOsnTnH.png",
+    "es": "/9peD0W7QLQPojo9A4adgLnbVSEM.png",
+    "sv": "/8879Vpdwl0TkBoAoThGWVKSeiVx.png"
+   }
+  },
+  {
+   "id": 30497,
+   "year": "1974",
+   "title": {
+    "fr": "Massacre à la tronçonneuse",
+    "en": "The Texas Chain Saw Massacre",
+    "de": "Blutgericht in Texas",
+    "it": "Non aprite quella porta",
+    "es": "La matanza de Texas",
+    "sv": "Motorsågsmassakern"
+   },
+   "backdrops": [
+    "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg"
+   ],
+   "logo": {
+    "fr": "/rA8wcUL6QJBHyzZIXhbqWP2Umqa.png",
+    "en": "/dPUyeb14tl7QBOhP5z4eHnwN38w.png",
+    "de": "/hxkJhLXFy0kxehI9ZerO4e0ch9h.png",
+    "es": "/v4DIMTtgCyeheO4uQ4LJhMvRY8J.png"
+   }
+  },
+  {
+   "id": 578,
+   "year": "1975",
+   "title": {
+    "fr": "Les Dents de la Mer",
+    "en": "Jaws",
+    "de": "Der weiße Hai",
+    "it": "Lo squalo",
+    "es": "Tiburón",
+    "sv": "Hajen"
+   },
+   "backdrops": [
+    "/i1yf91svRHX45l9BXL8rVFzLoPH.jpg"
+   ],
+   "logo": {
+    "fr": "/chaMdavWwiwgGXaXf7qfPawYzEf.png",
+    "en": "/ldEdyu47fbiVl4vwdYMuPYYp4po.png",
+    "de": "/w1JzVOJcm66WeocdcJrl6bs8pvt.png",
+    "it": "/cUDi5HNKapaVHK0HPd9PGfIupGF.png",
+    "es": "/4Cnu0SvBTJmJvUHBXBmA6jYNOkU.png",
+    "sv": "/2Zqoydhsdvxz0J91NIbx3H4iJds.png"
+   }
+  },
+  {
+   "id": 11906,
+   "year": "1977",
+   "title": {
+    "fr": "Suspiria",
+    "en": "Suspiria",
+    "de": "Suspiria - In den Krallen des Bösen",
+    "it": "Suspiria",
+    "es": "Suspiria",
+    "sv": "Flykten från helvetet"
+   },
+   "backdrops": [
+    "/9uXGLBPIJkPqmVwiyh3FI0iAe6n.jpg"
+   ],
+   "logo": {
+    "en": "/4lDTTpBrL7Ux1x4BdKPYu2XtDGR.png",
+    "it": "/m1dqwyl6kgOfKH659PjvU6Yb59d.png"
+   }
+  },
+  {
+   "id": 948,
+   "year": "1978",
+   "title": {
+    "fr": "La Nuit des masques",
+    "en": "Halloween",
+    "de": "Halloween - Die Nacht des Grauens",
+    "it": "Halloween - La notte delle streghe",
+    "es": "La noche de Halloween",
+    "sv": "Alla helgons blodiga natt"
+   },
+   "backdrops": [
+    "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg"
+   ],
+   "logo": {
+    "fr": "/1iOQVrzYhv8Uoqkx1ldGEpqnHuv.png",
+    "en": "/8diaqIjnZbpQupgtsv9Dun1HmLq.png",
+    "de": "/znwu9bK5pokDGSniEXqW6KxkQqF.png",
+    "sv": "/s7ZzKFIlIBLp80jntkE39pqCIXY.png"
+   }
+  },
+  {
+   "id": 348,
+   "year": "1979",
+   "title": {
+    "fr": "Alien, le huitième passager",
+    "en": "Alien",
+    "de": "Alien - Das unheimliche Wesen aus einer fremden Welt",
+    "it": "Alien",
+    "es": "Alien: El octavo pasajero",
+    "sv": "Alien"
+   },
+   "backdrops": [
+    "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg"
+   ],
+   "logo": {
+    "fr": "/eKASEfCtFlFRJfQZc1Cubxf8WDk.png",
+    "en": "/riI33EA1vYQ1szTtMe0NR7TwV1p.png",
+    "de": "/7FQswmBcaNonbceixn2A4lMyiK4.png",
+    "es": "/vVxHP9OfHBXLSVU2pePQ4T1IOPz.png"
+   }
+  },
+  {
+   "id": 694,
+   "year": "1980",
+   "title": {
+    "fr": "Shining",
+    "en": "The Shining",
+    "de": "Shining",
+    "it": "Shining",
+    "es": "El resplandor",
+    "sv": "The Shining"
+   },
+   "backdrops": [
+    "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg"
+   ],
+   "logo": {
+    "fr": "/7hm5KVthfhdtzCmblvnXK7TPOEL.png",
+    "en": "/7Qc7geNI4C4i9A1OFk0aPe5VYzn.png",
+    "de": "/5CXbyXWzAdtmF0Jg5fAfsZL1cx0.png",
+    "it": "/i3YxZV9zc869yNT6bp0sFVrVrTS.png",
+    "es": "/x5je6H1AI7IkRF6fkhgGWiRAtEA.png"
+   }
+  },
+  {
+   "id": 1091,
+   "year": "1982",
+   "title": {
+    "fr": "The Thing",
+    "en": "The Thing",
+    "de": "Das Ding aus einer anderen Welt",
+    "it": "La cosa",
+    "es": "La cosa (El enigma de otro mundo)",
+    "sv": "The Thing"
+   },
+   "backdrops": [
+    "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg"
+   ],
+   "logo": {
+    "fr": "/nDMDieLEwU4GoVTKC5NFpy6CRIQ.png",
+    "en": "/g5ny5fyIxZownMZjJi23oolMsCg.png",
+    "de": "/zuUjPhnpEWyJWf1FaXu5GkXPP0t.png",
+    "it": "/wqEvwwQCNjbxEYT0cf6pE0fcRh9.png",
+    "es": "/cmriRydEcCNux47zsfd1JvD3ER1.png"
+   }
+  },
+  {
+   "id": 764,
+   "year": "1983",
+   "title": {
+    "fr": "Evil Dead",
+    "en": "The Evil Dead",
+    "de": "Tanz der Teufel",
+    "it": "La casa",
+    "es": "Posesión infernal",
+    "sv": "Evil Dead"
+   },
+   "backdrops": [
+    "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg"
+   ],
+   "logo": {
+    "fr": "/10q1zprWbuYwsbEVkLY8e8dk40s.png",
+    "en": "/rTdIHuwLUyJhg9u4ElU7LWHIp2Y.png",
+    "de": "/rIi5M2arU6oZTAs17YUl4OS8qFM.png",
+    "it": "/fs6rzHpq6ojI54iVTZ7zfql6ZSQ.png",
+    "es": "/yiOhKNWtnEHY8mX5VKm72wGeAyW.png"
+   }
+  },
+  {
+   "id": 377,
+   "year": "1984",
+   "title": {
+    "fr": "Les Griffes de la nuit",
+    "en": "A Nightmare on Elm Street",
+    "de": "Nightmare - Mörderische Träume",
+    "it": "Nightmare - Dal profondo della notte",
+    "es": "Pesadilla en Elm Street",
+    "sv": "Terror på Elm Street"
+   },
+   "backdrops": [
+    "/nzSjTiecdosBfwMGAdpt9CxltCI.jpg"
+   ],
+   "logo": {
+    "fr": "/wk5NcLoMebGzfOhUJPUhqEm27SW.png",
+    "en": "/5imuR4m3p8BOHgzhuGKDb5vXdvN.png",
+    "de": "/l7cuxIgkULtZfTZKVzub1nZUlnr.png",
+    "es": "/36ISV2Gj1JwwJwy6REviGiAVEKT.png"
+   }
+  },
+  {
+   "id": 9426,
+   "year": "1986",
+   "title": {
+    "fr": "La Mouche",
+    "en": "The Fly",
+    "de": "Die Fliege",
+    "it": "La mosca",
+    "es": "La mosca",
+    "sv": "Flugan"
+   },
+   "backdrops": [
+    "/g1FzhbtWYKk9WMJYi1X26kf2Q4Q.jpg"
+   ],
+   "logo": {
+    "fr": "/aQax2GtWXrpXIlYPO3sexA9qKMk.png",
+    "en": "/j86WM842jJ0U8b2sJxS9eqZX10C.png",
+    "de": "/fvrKja0hb2j23qFBxRRrUONqqke.png",
+    "it": "/iHZVK6edrQKHiEUhNrrEHIvDuFz.png",
+    "es": "/vpEfYGLEY7re9hY3n2Zq6Xj3QlM.png"
+   }
+  },
+  {
+   "id": 6114,
+   "year": "1992",
+   "title": {
+    "fr": "Dracula",
+    "en": "Bram Stoker's Dracula",
+    "de": "Bram Stokers Dracula",
+    "it": "Dracula di Bram Stoker",
+    "es": "Drácula de Bram Stoker",
+    "sv": "Dracula"
+   },
+   "backdrops": [
+    "/fGuhbAlDpvmNuC0vkz1vsIzYwsq.jpg"
+   ],
+   "logo": {
+    "en": "/AkB5Ll0QwZjL7QRb61ExOZLlzr1.png",
+    "it": "/5D0tVg1z2uXyBEP71PhCokPIs6P.png",
+    "es": "/heVlNo8BTfyHj5VMIBXcMqgEEtW.png"
+   }
+  },
+  {
+   "id": 628,
+   "year": "1994",
+   "title": {
+    "fr": "Entretien avec un vampire",
+    "en": "Interview with the Vampire",
+    "de": "Interview mit einem Vampir",
+    "it": "Intervista col vampiro",
+    "es": "Entrevista con el vampiro",
+    "sv": "En vampyrs bekännelse"
+   },
+   "backdrops": [
+    "/3fChciF2G1wXHsyTfJD9y7uN6Il.jpg"
+   ],
+   "logo": {
+    "fr": "/fhcsAwF8HcMSzBBY417dYOonIdN.png",
+    "en": "/wdAFWXuCB3icokg7VrvYYRJA651.png",
+    "de": "/iiXX0UWGwQkyNmCTSN7J0XG8T5v.png",
+    "it": "/elDds4y0RfKyHXgojvblfqtACSI.png",
+    "es": "/eNrADMZ7YNceGBgOgx4w6GCQj0b.png"
+   }
+  },
+  {
+   "id": 755,
+   "year": "1996",
+   "title": {
+    "fr": "Une Nuit en enfer",
+    "en": "From Dusk Till Dawn",
+    "de": "From Dusk Till Dawn",
+    "it": "Dal tramonto all'alba",
+    "es": "Abierto hasta el amanecer",
+    "sv": "From Dusk Till Dawn"
+   },
+   "backdrops": [
+    "/phiRQhfwZZeMMn3osvQUmGYmJbp.jpg"
+   ],
+   "logo": {
+    "fr": "/3kC6996tNImEUf00FyZv3vgB2Zj.png",
+    "en": "/zm8mX7BkxxEtjNieuG6JrNfRjTh.png",
+    "it": "/7q9wETPNAnAWXTtyyAumM8sHUNp.png",
+    "es": "/qYtu6DXUDeKBCjZt02UUC35F61Q.png"
+   }
+  },
+  {
+   "id": 4232,
+   "year": "1996",
+   "title": {
+    "fr": "Scream",
+    "en": "Scream",
+    "de": "Scream - Schrei!",
+    "it": "Scream",
+    "es": "Scream. Vigila quién llama",
+    "sv": "Scream"
+   },
+   "backdrops": [
+    "/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg"
+   ],
+   "logo": {
+    "en": "/xj4tbUx6p1EFoWdrkZkAGMktgT6.png",
+    "it": "/39g4wMUC8UkqHjxcz4wpY5YnqrA.png",
+    "es": "/lWEBXjjzQBzGBCwziUI8ir5ZIcR.png"
+   }
+  },
+  {
+   "id": 2668,
+   "year": "1999",
+   "title": {
+    "fr": "Sleepy Hollow, la légende du cavalier sans tête",
+    "en": "Sleepy Hollow",
+    "de": "Sleepy Hollow",
+    "it": "Il mistero di Sleepy Hollow",
+    "es": "Sleepy Hollow",
+    "sv": "Sleepy Hollow"
+   },
+   "backdrops": [
+    "/m8t7K3LcAY7bpyQ7iQ5kGsrcjnh.jpg"
+   ],
+   "logo": {
+    "fr": "/aCgYwGjvFmNJtIUVYzbdmrYv2xS.png",
+    "en": "/w17InZtGh60JHNojnVYnkq4781c.png",
+    "it": "/orXEO8QQHrijBu0Z0pFc8O7HyLY.png",
+    "es": "/h3xHD8VB1ObGBZ76TZHLlvOJgRx.png"
+   }
+  },
+  {
+   "id": 1933,
+   "year": "2001",
+   "title": {
+    "fr": "Les Autres",
+    "en": "The Others",
+    "de": "The Others",
+    "it": "The Others",
+    "es": "Los otros",
+    "sv": "The Others"
+   },
+   "backdrops": [
+    "/FY0NvzWMeCZeF3xdHIu0GtFHj7.jpg"
+   ],
+   "logo": {
+    "fr": "/pL9GRjp4HYDrMSMjoHh7ngE8N2J.png",
+    "en": "/yHZF7JczlTxscrTc3uO8PricPt4.png",
+    "es": "/cAfDGFvGvHqW29rjN2RDuTOfJsm.png"
+   }
+  },
+  {
+   "id": 170,
+   "year": "2002",
+   "title": {
+    "fr": "28 Jours plus tard",
+    "en": "28 Days Later",
+    "de": "28 Days Later",
+    "it": "28 giorni dopo",
+    "es": "28 días después",
+    "sv": "28 dagar senare"
+   },
+   "backdrops": [
+    "/aJFwk1clMal1prxAvKAgHxKPAf.jpg"
+   ],
+   "logo": {
+    "fr": "/5hCMB39SGwkhgLaESbBbwvHLCOk.png",
+    "en": "/2KQ8K6tqGrPa0VQtJelClHiIbQi.png",
+    "de": "/jHzRT8iYHvkjYM2Xrh75RnFLrjz.png",
+    "it": "/5df3r2XwSyLlauJI8GDuMP3IglM.png",
+    "es": "/wroSBngqUpcZVUIFPtbVjsREJQ3.png",
+    "sv": "/jN76vAIb2MMDdULElOLgHh7kM6U.png"
+   }
+  },
+  {
+   "id": 924,
+   "year": "2004",
+   "title": {
+    "fr": "L'Armée des Morts",
+    "en": "Dawn of the Dead",
+    "de": "Dawn of the Dead",
+    "it": "L'alba dei morti viventi",
+    "es": "Amanecer de los muertos",
+    "sv": "Dawn of the Dead"
+   },
+   "backdrops": [
+    "/c1bejD7jTTf8qSUkcv32Gmv8N50.jpg"
+   ],
+   "logo": {
+    "fr": "/jQnEbDDYBXi9Pjw0l94DmgmSshX.png",
+    "en": "/ixdeNOoBif4DY3p6WsI32rKAiRi.png",
+    "it": "/o9aPrjUA7stj5UFC489rS6WrXtv.png",
+    "es": "/iEQfSEf9fimlihwxy2xlcNMedVN.png"
+   }
+  },
+  {
+   "id": 176,
+   "year": "2004",
+   "title": {
+    "fr": "Saw",
+    "en": "Saw",
+    "de": "Saw",
+    "it": "Saw - L'enigmista",
+    "es": "Saw",
+    "sv": "Saw"
+   },
+   "backdrops": [
+    "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg"
+   ],
+   "logo": {
+    "fr": "/bBmH8MuzbPVrDTTXrnvGNM7MBvs.png",
+    "en": "/13rAAMcYMfBt8VugNE80QMIfWRB.png",
+    "es": "/rvZkzOQqQosUIqupBsCdYQxpOf1.png"
+   }
+  },
+  {
+   "id": 8329,
+   "year": "2007",
+   "title": {
+    "fr": "[REC]",
+    "en": "[REC]",
+    "de": "[REC]",
+    "it": "[REC]",
+    "es": "[•REC]",
+    "sv": "[REC]"
+   },
+   "backdrops": [
+    "/xfrguTH6maYiGsC8FXiQ9N3lZXw.jpg"
+   ],
+   "logo": {
+    "en": "/8MTHVfhHBgXrqTNHs83rQiSfBYh.png"
+   }
+  },
+  {
+   "id": 13310,
+   "year": "2008",
+   "title": {
+    "fr": "Morse",
+    "en": "Let the Right One In",
+    "de": "So finster die Nacht",
+    "it": "Lasciami entrare",
+    "es": "Déjame entrar",
+    "sv": "Låt den rätte komma in"
+   },
+   "backdrops": [
+    "/t4KHDaLHjPmBlnMLuN4Ohq01bh2.jpg"
+   ],
+   "logo": {
+    "fr": "/9p5YAurcffbpfl7WLmgbcXPBjPB.png",
+    "en": "/1uvpiqtgjsTQbYrMtKK80VIr9sU.png",
+    "de": "/pPqWlQVMsZHAm1sUHcXRslULOAJ.png",
+    "es": "/ikAttApSg3EI0JL14E6LtqHWhap.png",
+    "sv": "/8Jx9DRg09okRkM5DcwILoMlMHws.png"
+   }
+  },
+  {
+   "id": 138843,
+   "year": "2013",
+   "title": {
+    "fr": "Conjuring : Les Dossiers Warren",
+    "en": "The Conjuring",
+    "de": "Conjuring - Die Heimsuchung",
+    "it": "L'evocazione - The Conjuring",
+    "es": "Expediente Warren",
+    "sv": "The Conjuring"
+   },
+   "backdrops": [
+    "/ecKQlAEG95k62SMGhvX83oEqANK.jpg"
+   ],
+   "logo": {
+    "fr": "/a7prnszJEAlNmc4xurVWy9p6KK7.png",
+    "en": "/5qjvxFhRZtvm4mcV90X9QNYLZVj.png",
+    "de": "/x6y0dehXXEbrGeTYTjix8WbwDOc.png",
+    "it": "/lryjsI8oUGjq0t92ARhWAieZwjP.png",
+    "es": "/gJATvO2SJTKVka1s3Ku6dGtInIU.png"
+   }
+  },
+  {
+   "id": 310131,
+   "year": "2016",
+   "title": {
+    "fr": "The Witch",
+    "en": "The Witch",
+    "de": "The Witch",
+    "it": "The Witch",
+    "es": "La bruja",
+    "sv": "The Witch"
+   },
+   "backdrops": [
+    "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg"
+   ],
+   "logo": {
+    "en": "/fZaMSa3L82AiPHHhO11Sv6tgi4y.png",
+    "es": "/A3NbxtaXNOTMwZcdZvUCcTl25vj.png"
+   }
+  },
+  {
+   "id": 259693,
+   "year": "2016",
+   "title": {
+    "fr": "Conjuring 2 : Le Cas Enfield",
+    "en": "The Conjuring 2",
+    "de": "Conjuring 2",
+    "it": "The Conjuring - Il caso Enfield",
+    "es": "Expediente Warren: El caso Enfield",
+    "sv": "The Conjuring 2"
+   },
+   "backdrops": [
+    "/hD9zZYKYb1xBgcm8XIfyvclSkjs.jpg"
+   ],
+   "logo": {
+    "fr": "/xam7eGlDvKVhfmvKkAzKPEf9vrQ.png",
+    "en": "/cjUE0nmgPsCENYSXLFvlSbzV7BL.png",
+    "de": "/t1jcBhWWd62ex5INWKCetmriIM0.png",
+    "it": "/xxbqHinvIMZQYBvOGnvgIc1Yu0e.png",
+    "es": "/u6eAzXyIYEy8Kj2Wi3pnE658N60.png"
+   }
+  },
+  {
+   "id": 300669,
+   "year": "2016",
+   "title": {
+    "fr": "Don't Breathe : La Maison des ténèbres",
+    "en": "Don't Breathe",
+    "de": "Don't Breathe",
+    "it": "Man in the Dark",
+    "es": "No respires",
+    "sv": "Don't Breathe"
+   },
+   "backdrops": [
+    "/3mIVOqDbYeucnw09TpjgHvSjXfu.jpg"
+   ],
+   "logo": {
+    "fr": "/cthyuOH9yU6sth8WyP9ul4Qedk4.png",
+    "en": "/bqnvbz9AwiBc4Dot2I9efmBk9qf.png",
+    "es": "/3iG7XyYgos6K96FeI4W3rSDbskq.png"
+   }
+  },
+  {
+   "id": 396535,
+   "year": "2016",
+   "title": {
+    "fr": "Dernier train pour Busan",
+    "en": "Train to Busan",
+    "de": "Train to Busan",
+    "it": "Train to Busan",
+    "es": "Train to Busan",
+    "sv": "Train to Busan"
+   },
+   "backdrops": [
+    "/brnfCYyz8EMbBrHgmh8sCwBi5i1.jpg"
+   ],
+   "logo": {
+    "fr": "/nKb49k9QZ6cNfac6KJXbOhASNQo.png",
+    "en": "/hXhqtH9VbM375bWeIWyDeV4ygFE.png",
+    "es": "/kutSxzzZDC46d4Gwkjm7buSauV8.png"
+   }
+  },
+  {
+   "id": 381288,
+   "year": "2017",
+   "title": {
+    "fr": "Split",
+    "en": "Split",
+    "de": "Split",
+    "it": "Split",
+    "es": "Múltiple",
+    "sv": "Split"
+   },
+   "backdrops": [
+    "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg"
+   ],
+   "logo": {
+    "fr": "/nfCmADEdRma3yHTyCrDXfUH0czK.png",
+    "en": "/zFeVDHnWBCbrMLqsIO9LtBSNhAK.png",
+    "it": "/aaKQaF7vfWyNc6qoPzN8ixisL0e.png",
+    "es": "/AkANrqenrS0tOi4hYyOp5Qz9GwJ.png"
+   }
+  },
+  {
+   "id": 419430,
+   "year": "2017",
+   "title": {
+    "fr": "Get Out",
+    "en": "Get Out",
+    "de": "Get Out",
+    "it": "Scappa - Get Out",
+    "es": "Déjame salir",
+    "sv": "Get Out"
+   },
+   "backdrops": [
+    "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg"
+   ],
+   "logo": {
+    "fr": "/xVVLyv6ZGc5HcSesm2DqmY6iTTZ.png",
+    "en": "/dJ3LNGrU9Mav7xkpcQb8N53ggWY.png",
+    "it": "/umayC267MFt2h8gZDFg21jZwwWG.png",
+    "es": "/cG21XcsSGnwuwbARB1dkZjTIG30.png"
+   }
+  },
+  {
+   "id": 346364,
+   "year": "2017",
+   "title": {
+    "fr": "Ça",
+    "en": "It",
+    "de": "Es",
+    "it": "It - Capitolo uno",
+    "es": "It (Eso)",
+    "sv": "Det"
+   },
+   "backdrops": [
+    "/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg"
+   ],
+   "logo": {
+    "fr": "/orpkQDCphLW8nLRopfuEbPMZr1T.png",
+    "en": "/cPiNTussFYDw6O3IUjpZdvPSuZa.png",
+    "de": "/l1yo4COJRprcQn7Pfkhd1FCKdMt.png",
+    "it": "/zpk5KziILprRAXJPZfwQUSigdt.png",
+    "es": "/rR1a56IWF4dfEFJHhuYb8LYV9YJ.png"
+   }
+  },
+  {
+   "id": 447332,
+   "year": "2018",
+   "title": {
+    "fr": "Sans un bruit",
+    "en": "A Quiet Place",
+    "de": "A Quiet Place",
+    "it": "A Quiet Place - Un posto tranquillo",
+    "es": "Un lugar tranquilo",
+    "sv": "A Quiet Place"
+   },
+   "backdrops": [
+    "/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg"
+   ],
+   "logo": {
+    "fr": "/hseRlNfkvzOfzzg8hMZRkqWk20U.png",
+    "en": "/lQLam7R8VgaRoZzyarMJmLoVrFb.png",
+    "it": "/mK4JQEifvMXG0EaPydBINONy9fK.png",
+    "es": "/eec0d8gk2grBE8qmTOOEMNgU3ft.png"
+   }
+  },
+  {
+   "id": 493922,
+   "year": "2018",
+   "title": {
+    "fr": "Hérédité",
+    "en": "Hereditary",
+    "de": "Hereditary - Das Vermächtnis",
+    "it": "Hereditary - Le radici del male",
+    "es": "Hereditary",
+    "sv": "Hereditary"
+   },
+   "backdrops": [
+    "/4DUoPZOHdPuROP4nyEIsPaMIiQl.jpg"
+   ],
+   "logo": {
+    "en": "/Vgm9366X76r8URpJ92VZEq5YKG.png",
+    "de": "/mkBu2GEfRGVSFFIxmJSieqBljv3.png",
+    "es": "/7Wlazf1mZk3Pizu4vhUZUUAMBA4.png"
+   }
+  },
+  {
+   "id": 530385,
+   "year": "2019",
+   "title": {
+    "fr": "Midsommar",
+    "en": "Midsommar",
+    "de": "Midsommar",
+    "it": "Midsommar - Il villaggio dei dannati",
+    "es": "Midsommar",
+    "sv": "Midsommar"
+   },
+   "backdrops": [
+    "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg"
+   ],
+   "logo": {
+    "en": "/vOvRZEAeAHOT2bzb6Z5jvVPmZSW.png",
+    "de": "/nz5SDyrAbWJAsicEVCz4CjhdeK2.png",
+    "es": "/mjf2CyGrMqjUjsjXsaEsakBrOdA.png",
+    "sv": "/7CQXgAhJskZuiNAsUTIZXslmsKq.png"
+   }
+  },
+  {
+   "id": 501170,
+   "year": "2019",
+   "title": {
+    "fr": "Doctor Sleep",
+    "en": "Doctor Sleep",
+    "de": "Doctor Sleeps Erwachen",
+    "it": "Doctor Sleep",
+    "es": "Doctor Sueño",
+    "sv": "Doctor Sleep"
+   },
+   "backdrops": [
+    "/ap6Zc5NDOfbZaMhkRDyghbGeLf0.jpg"
+   ],
+   "logo": {
+    "en": "/uEaXfOUEfhFXq2Vm8ExhuUs6uMp.png",
+    "de": "/5XhLtyMRlkmbfX0LhCUTIxw769F.png",
+    "es": "/s6CZc3ZbYYfFIkkxYJTq5VGtsij.png"
+   }
+  },
+  {
+   "id": 570670,
+   "year": "2020",
+   "title": {
+    "fr": "Invisible Man",
+    "en": "The Invisible Man",
+    "de": "Der Unsichtbare",
+    "it": "L'uomo invisibile",
+    "es": "El hombre invisible",
+    "sv": "The Invisible Man"
+   },
+   "backdrops": [
+    "/tweDJNQzBGgsWVF5MC8JhSAk07p.jpg"
+   ],
+   "logo": {
+    "fr": "/nX57W6yUeg9UrZohGNJMuvY8Z1.png",
+    "en": "/uhCrTWK0SiZ1XkuW7ruUuzTJGhh.png",
+    "de": "/8zL9CMa6pyjr9LzQs3pzG8MDzq5.png",
+    "es": "/4NMNkDJQH0kHBSdAerT9QFFkYrW.png"
+   }
+  },
+  {
+   "id": 756999,
+   "year": "2022",
+   "title": {
+    "fr": "Black Phone",
+    "en": "The Black Phone",
+    "de": "The Black Phone - Sprich nie mit Fremden",
+    "it": "Black Phone",
+    "es": "Black Phone",
+    "sv": "The Black Phone"
+   },
+   "backdrops": [
+    "/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg"
+   ],
+   "logo": {
+    "fr": "/aWxJNzlwlLz2z42OBDx3N6fwYL3.png",
+    "en": "/1mKqTRD3Cq42FhqGIJYUT2CmFmF.png",
+    "it": "/s9gtFpaykVzL225EbF6AEorak2L.png",
+    "es": "/d7bmgr8qDdD2VQ8enLMIV328nsD.png"
+   }
+  },
+  {
+   "id": 933260,
+   "year": "2024",
+   "title": {
+    "fr": "The Substance",
+    "en": "The Substance",
+    "de": "The Substance",
+    "it": "The Substance",
+    "es": "La sustancia",
+    "sv": "The Substance"
+   },
+   "backdrops": [
+    "/9Whl7RAzes0oMaFAeSqD8ttN3fl.jpg"
+   ],
+   "logo": {
+    "fr": "/jEoHxIdGBUzVqYM4Xg0YUrozyFF.png",
+    "en": "/k9fURtkjgotj8RdqlzhynFnecxC.png",
+    "es": "/bVnwy0nR5RLvQ2vDPo5VLO9nCsj.png"
+   }
+  },
+  {
+   "id": 1233413,
+   "year": "2025",
+   "title": {
+    "fr": "Sinners",
+    "en": "Sinners",
+    "de": "Blood & Sinners",
+    "it": "I peccatori",
+    "es": "Los pecadores",
+    "sv": "Sinners"
+   },
+   "backdrops": [
+    "/j7KqDRzjbvIjDv7cdHz9G3ZYEQy.jpg"
+   ],
+   "logo": {
+    "fr": "/neXtMz4lQTtACTSldvNa4ZbujKe.png",
+    "en": "/kPUKvxsGgQBZMThi8VbMrTeznX0.png",
+    "de": "/c6EQxRUJv1wSbPXh3klaDnVO3gI.png",
+    "it": "/gLbiMNklZHGqxFOZACghAwt14Gc.png",
+    "es": "/bZJu9gI33snO5F0l7UoaRlLClhT.png"
+   }
+  }
+ ]
+}

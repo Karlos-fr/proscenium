@@ -15,6 +15,18 @@ Download: [Proscenium 1.1](https://github.com/Karlos-fr/proscenium/releases/tag/
 - Updates: Proscenium checks GitHub for a new version once a day and shows a short message when one
   comes out. Settings → System → Update downloads it and hands it to Android's installer, which asks
   for confirmation. Settings are kept. The daily check can be turned off.
+- 17 new backdrop packs, 20 in all: Star Wars, Christopher Nolan, horror, the 80s, the 90s,
+  animation (beyond Disney and Ghibli), Harry Potter, Middle-earth, James Bond, science fiction,
+  Steven Spielberg, Quentin Tarantino, DC, westerns, Denis Villeneuve, Wes Anderson and adventure
+  sagas.
+- Pack updates: each pack has a version. When films are added to a pack, it shows "update
+  available" and "Update installed packs" downloads only the new films.
+- Anyone can suggest a pack by pull request or issue: see packs/README.md.
+- Getting started: on first launch, a screen helps choose the language, the town for the weather, a
+  backdrop pack and the Home button service. It can be reopened from Settings → System.
+- Screensaver option (Settings → Cinema mode): offer Proscenium as Android's screensaver or not, and
+  a shortcut to Android's screensaver settings (ambient mode on Google TV, where a third-party
+  screensaver is chosen once with adb, see the README).
 - Obtainium support (the GitHub releases page is the source) and store metadata for IzzyOnDroid.
 - MIT licence.
 

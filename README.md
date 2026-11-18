@@ -102,8 +102,8 @@ computer, with [adb](https://developer.android.com/tools/adb) connected to the T
 The home screen pictures come either from **Bing's photos of the day** or from **your playlists**
 of films.
 
-- **Background packs**: ready-made themed playlists (Disney & Pixar, Studio Ghibli,
-  Classics & Marvel…), installed in one click from **Settings → Playlists → Browse packs**. They
+- **Background packs**: ready-made themed playlists (20 packs: Star Wars,
+  Studio Ghibli, Christopher Nolan, horror, the 80s, James Bond, westerns…), installed in one click from **Settings → Playlists → Browse packs**. They
   need no TMDB key. Titles and logos are in your language when they exist.
 - **Your own playlists**: search for a film by its title, with the keyboard or by voice, or import
   the popular or trending films at once. For each film, choose the backdrops you like and the logo

@@ -1,0 +1,876 @@
+{
+ "id": "annees-90",
+ "version": 1,
+ "name": {
+  "fr": "Années 90",
+  "en": "The 90s",
+  "de": "Die 90er",
+  "it": "Anni '90",
+  "es": "Años 90",
+  "sv": "90-talet"
+ },
+ "description": {
+  "fr": "Les films marquants des années 1990",
+  "en": "Landmark films of the 1990s",
+  "de": "Prägende Filme der 1990er-Jahre",
+  "it": "I film che hanno segnato gli anni Novanta",
+  "es": "Las películas más destacadas de los años 90",
+  "sv": "1990-talets mest minnesvärda filmer"
+ },
+ "films": [
+  {
+   "id": 114,
+   "year": "1990",
+   "title": {
+    "fr": "Pretty Woman",
+    "en": "Pretty Woman",
+    "de": "Pretty Woman",
+    "it": "Pretty Woman",
+    "es": "Pretty Woman",
+    "sv": "Pretty Woman"
+   },
+   "backdrops": [
+    "/rleTwPqymtOpeD2bR7asJGEmldV.jpg"
+   ],
+   "logo": {
+    "fr": "/eRtDZtCNGNuIwrC8wGQPa6rpI3k.png",
+    "en": "/gLplRCdW39uV13yna7Hf1vcPRjQ.png",
+    "es": "/n1T8aCc9IujPPspPK0YdS4Qo7Xa.png"
+   }
+  },
+  {
+   "id": 196,
+   "year": "1990",
+   "title": {
+    "fr": "Retour vers le futur III",
+    "en": "Back to the Future Part III",
+    "de": "Zurück in die Zukunft III",
+    "it": "Ritorno al futuro - Parte III",
+    "es": "Regreso al futuro III",
+    "sv": "Tillbaka till framtiden del III"
+   },
+   "backdrops": [
+    "/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg"
+   ],
+   "logo": {
+    "fr": "/1kwCQTsVUKAGkLXrz1FJrFZgzQb.png",
+    "en": "/vfJybPoKmZzOVypmOMOzvXxTHky.png",
+    "de": "/37DrkP8EmvozullWYEBPtY4Z8AY.png",
+    "it": "/yArZzQAxPC7aZi5sfEsiTGRjRoc.png",
+    "es": "/R7CCAaWeyYu15jtXHAjEDejGY1.png",
+    "sv": "/4LfM0XfewM9JnMl7X1Xbu0ETnss.png"
+   }
+  },
+  {
+   "id": 769,
+   "year": "1990",
+   "title": {
+    "fr": "Les Affranchis",
+    "en": "GoodFellas",
+    "de": "GoodFellas",
+    "it": "Quei bravi ragazzi",
+    "es": "Uno de los nuestros",
+    "sv": "Maffiabröder"
+   },
+   "backdrops": [
+    "/6qgSKYgkHLL0vAVbsqRfo8KmZgL.jpg"
+   ],
+   "logo": {
+    "fr": "/y3uMg4x3wLnTpv8wRfL4qABr3Uq.png",
+    "en": "/jsRyKKKYLPU4vUmlRJPlRFrKNN0.png",
+    "de": "/tYczVI2biaYSD2NRUgeIexpViCJ.png",
+    "it": "/od3n2lMgsUAmcqysUkx3HipUprG.png",
+    "es": "/zDaNBOixW4EzEsX3MEhd2AJQpfC.png"
+   }
+  },
+  {
+   "id": 771,
+   "year": "1990",
+   "title": {
+    "fr": "Maman, j'ai raté l'avion !",
+    "en": "Home Alone",
+    "de": "Kevin - Allein zu Haus",
+    "it": "Mamma, ho perso l'aereo",
+    "es": "Solo en casa",
+    "sv": "Ensam hemma"
+   },
+   "backdrops": [
+    "/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg"
+   ],
+   "logo": {
+    "fr": "/78j52kyhjUSGYZybNmrrw5JIUyO.png",
+    "en": "/iBtfiGQXX1p52i2jzsYixKxZEyF.png",
+    "de": "/2RKJV7ZIzRzwYd9ebc57N6EEJaN.png",
+    "it": "/7SOez3bAjvEmzD7Vta9spFOYxM3.png",
+    "es": "/5yS4TWGKVXOcpzaq55eQKDwmiVX.png",
+    "sv": "/xM3is3kQdgFs0ZMHC9MsY87eYlo.png"
+   }
+  },
+  {
+   "id": 162,
+   "year": "1990",
+   "title": {
+    "fr": "Edward aux mains d'argent",
+    "en": "Edward Scissorhands",
+    "de": "Edward mit den Scherenhänden",
+    "it": "Edward mani di forbice",
+    "es": "Eduardo Manostijeras",
+    "sv": "Edward Scissorhands"
+   },
+   "backdrops": [
+    "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg"
+   ],
+   "logo": {
+    "fr": "/nWxxkFE9rwkMxrtwMSLrvoDOziN.png",
+    "en": "/dQfhcIX2TePsmvkUmafZJJbR6SK.png",
+    "de": "/6blntNMzsY6TZNJaTPprdafFa0s.png",
+    "it": "/yf7Xabqbvr0w4kI0PBSQUzzyzF5.png",
+    "es": "/ekfdox6JukcoJeHIrKgHWLrntMl.png"
+   }
+  },
+  {
+   "id": 274,
+   "year": "1991",
+   "title": {
+    "fr": "Le Silence des agneaux",
+    "en": "The Silence of the Lambs",
+    "de": "Das Schweigen der Lämmer",
+    "it": "Il silenzio degli innocenti",
+    "es": "El silencio de los corderos",
+    "sv": "När lammen tystnar"
+   },
+   "backdrops": [
+    "/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg"
+   ],
+   "logo": {
+    "fr": "/ziQvs1zjNr4UhVLYeXnKTgfMZFg.png",
+    "en": "/6dR8wDGToUpEfPg9GVynSrOSemz.png",
+    "de": "/oTrTcsBEwKUmUBp01bSZjP1Y7sI.png",
+    "it": "/i2914xolUMcdqrloYSwaiT33rmX.png",
+    "es": "/hOy9ZfuWxZ7tM2i0GyCBVDNSbAa.png"
+   }
+  },
+  {
+   "id": 280,
+   "year": "1991",
+   "title": {
+    "fr": "Terminator 2 : Le Jugement dernier",
+    "en": "Terminator 2: Judgment Day",
+    "de": "Terminator 2 - Tag der Abrechnung",
+    "it": "Terminator 2 - Il giorno del giudizio",
+    "es": "Terminator 2: El juicio final",
+    "sv": "Terminator 2: Domedagen"
+   },
+   "backdrops": [
+    "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg"
+   ],
+   "logo": {
+    "fr": "/m1gAZv4QigKC2kxxVRsJjrBUCd1.png",
+    "en": "/xlnwUwRjB5u1E4jLjV1dEVc5lqS.png",
+    "de": "/mT6lmHuoWeoYZZYkjoZvoJROzFI.png",
+    "it": "/pnDA3ZSNhJKGquiyatI7ipTZXoJ.png",
+    "es": "/J7vIMfYlrTepIGhUX4IrniPyxU.png"
+   }
+  },
+  {
+   "id": 500,
+   "year": "1992",
+   "title": {
+    "fr": "Reservoir Dogs",
+    "en": "Reservoir Dogs",
+    "de": "Reservoir Dogs - Wilde Hunde",
+    "it": "Le iene",
+    "es": "Reservoir Dogs",
+    "sv": "De hänsynslösa"
+   },
+   "backdrops": [
+    "/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg"
+   ],
+   "logo": {
+    "fr": "/gP5FQGzt6ta8rA6te9KoH4WBcB6.png",
+    "en": "/gBtwDC7oE4R4TbkUJpEWlBsxwOm.png",
+    "de": "/bT7JuEfq04gLQSL9vOlY2FY7vYx.png",
+    "it": "/p5nv3BwTL3S8nNp6kCtkEdz3nsV.png",
+    "es": "/zKOKdpLLwVf1ab015NjgghYskEP.png"
+   }
+  },
+  {
+   "id": 137,
+   "year": "1993",
+   "title": {
+    "fr": "Un jour sans fin",
+    "en": "Groundhog Day",
+    "de": "Und täglich grüßt das Murmeltier",
+    "it": "Ricomincio da capo",
+    "es": "Atrapado en el tiempo",
+    "sv": "Måndag hela veckan"
+   },
+   "backdrops": [
+    "/4W6RYDNe4OByNryOCvJprrutm9h.jpg"
+   ],
+   "logo": {
+    "fr": "/4vH0x7G6C5zOGoqDPcqxPlMuoQ5.png",
+    "en": "/Aa5BqXOtD2RpCONT2gyeY3vGq1E.png",
+    "de": "/30WlQyPrSs6zfAbvwITAWstpwbI.png",
+    "it": "/biNwyW2U9PJmd0gBkeXFnMpBUwI.png",
+    "es": "/1LzsIiQ53Ilk5tgMxZnsna2kXXR.png",
+    "sv": "/to8El19jUhSN5k1GI32vXrpmfmQ.png"
+   }
+  },
+  {
+   "id": 329,
+   "year": "1993",
+   "title": {
+    "fr": "Jurassic Park",
+    "en": "Jurassic Park",
+    "de": "Jurassic Park",
+    "it": "Jurassic Park",
+    "es": "Jurassic Park (Parque Jurásico)",
+    "sv": "Jurassic Park"
+   },
+   "backdrops": [
+    "/f082quUW2kAtZXFZVGEfhwacZoG.jpg"
+   ],
+   "logo": {
+    "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
+    "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
+    "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
+   }
+  },
+  {
+   "id": 424,
+   "year": "1993",
+   "title": {
+    "fr": "La Liste de Schindler",
+    "en": "Schindler's List",
+    "de": "Schindlers Liste",
+    "it": "Schindler's List",
+    "es": "La lista de Schindler",
+    "sv": "Schindler's List"
+   },
+   "backdrops": [
+    "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
+   ],
+   "logo": {
+    "fr": "/pB0OrouW51LGauEjOY0JegWGPOm.png",
+    "en": "/krEC3MIxUbiZy2uM0TemRio2Z2E.png",
+    "de": "/3dIeH9CDgAE8qfVeWu1NBr73Sv1.png",
+    "es": "/3zYgwmVJgV0rz7aIlVFREEJuxbm.png"
+   }
+  },
+  {
+   "id": 13,
+   "year": "1994",
+   "title": {
+    "fr": "Forrest Gump",
+    "en": "Forrest Gump",
+    "de": "Forrest Gump",
+    "it": "Forrest Gump",
+    "es": "Forrest Gump",
+    "sv": "Forrest Gump"
+   },
+   "backdrops": [
+    "/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg"
+   ],
+   "logo": {
+    "fr": "/lIMKTW3C88tBbkr7NTSUrfKDi5v.png",
+    "en": "/as10mpHSWebQVXwMbwQfWYfR27F.png",
+    "es": "/tcEgFz24Evw3CPdPTBi1EQv7IyC.png"
+   }
+  },
+  {
+   "id": 854,
+   "year": "1994",
+   "title": {
+    "fr": "The Mask",
+    "en": "The Mask",
+    "de": "Die Maske",
+    "it": "The Mask: Da zero a mito",
+    "es": "La máscara",
+    "sv": "The Mask"
+   },
+   "backdrops": [
+    "/bQlw59HncOXX9alFlOYKHAvSnm.jpg"
+   ],
+   "logo": {
+    "fr": "/gmdU6dqqK3OjZAATWH43UylWsyk.png",
+    "en": "/bGz2KRRj4NMJ0M8SdydzMEb0u5M.png",
+    "de": "/dxm2kCDbEptlORZ8e1pxAlu5rtH.png",
+    "it": "/6fr4l29u4ANQS3BhiTZmtjDIp1t.png",
+    "es": "/epjWNX4THom04vDPv54MJtg8Uam.png"
+   }
+  },
+  {
+   "id": 680,
+   "year": "1994",
+   "title": {
+    "fr": "Pulp Fiction",
+    "en": "Pulp Fiction",
+    "de": "Pulp Fiction",
+    "it": "Pulp Fiction",
+    "es": "Pulp Fiction",
+    "sv": "Pulp Fiction"
+   },
+   "backdrops": [
+    "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+   ],
+   "logo": {
+    "fr": "/aPh3YUmSLaEmlbDSCi4jByZV1aF.png",
+    "en": "/kpuNKsIzVbK3LDVo4iOJDAY0y7d.png",
+    "es": "/wfHK380gK8XNKY7Xps4X1IhDE71.png"
+   }
+  },
+  {
+   "id": 101,
+   "year": "1994",
+   "title": {
+    "fr": "Léon",
+    "en": "Léon: The Professional",
+    "de": "Léon - Der Profi",
+    "it": "Léon",
+    "es": "El profesional (Léon)",
+    "sv": "Léon"
+   },
+   "backdrops": [
+    "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg"
+   ],
+   "logo": {
+    "fr": "/2BHg0eOTo98nR8yQelAfNYFUSih.png",
+    "en": "/2HzRM8xrGjMKJlBFimIlJ43JXbL.png",
+    "de": "/tUrT9YvWuBigZBrrSNDSofHhr6j.png",
+    "es": "/qqDin4W2ghhwLA1od1BcN46ZLMa.png"
+   }
+  },
+  {
+   "id": 278,
+   "year": "1994",
+   "title": {
+    "fr": "Les Évadés",
+    "en": "The Shawshank Redemption",
+    "de": "Die Verurteilten",
+    "it": "Le ali della libertà",
+    "es": "Cadena perpetua",
+    "sv": "Nyckeln till frihet"
+   },
+   "backdrops": [
+    "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg"
+   ],
+   "logo": {
+    "fr": "/eblAEOleGuhR4xWAGXBTr0rbptu.png",
+    "en": "/1K53E8WXQW76Scg8upBObXSrbgN.png",
+    "de": "/m01p4bi3FEjQ9VQHkG5lJfvxvhC.png",
+    "it": "/hEJz2la3V7w3yMjNWHwIWr5Hp0e.png",
+    "es": "/kWaSYmbGzkuln9nK4tmJBLEV0Tt.png",
+    "sv": "/sJ1re8cI0H0hOLMhcNxmsIm59ps.png"
+   }
+  },
+  {
+   "id": 197,
+   "year": "1995",
+   "title": {
+    "fr": "Braveheart",
+    "en": "Braveheart",
+    "de": "Braveheart",
+    "it": "Braveheart - Cuore impavido",
+    "es": "Braveheart",
+    "sv": "Braveheart"
+   },
+   "backdrops": [
+    "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg"
+   ],
+   "logo": {
+    "fr": "/sPCE2ZXvtD9fyZXxAsptJuutWe6.png",
+    "en": "/qkh7u6JaZaj5ZI3pZBsQaBSoIjy.png",
+    "it": "/wpJWtgwMGMtk8eDc6nntsSusRJK.png",
+    "es": "/pcGknK3xkl3uPsy6zA1szaBFxEW.png"
+   }
+  },
+  {
+   "id": 629,
+   "year": "1995",
+   "title": {
+    "fr": "Usual Suspects",
+    "en": "The Usual Suspects",
+    "de": "Die üblichen Verdächtigen",
+    "it": "I soliti sospetti",
+    "es": "Sospechosos habituales",
+    "sv": "De misstänkta"
+   },
+   "backdrops": [
+    "/9jrHaaXWB37VcA4KGemP8iF7bFB.jpg"
+   ],
+   "logo": {
+    "fr": "/nsHg0j6ctzeGT5I96lQjw6hPz17.png",
+    "en": "/jrF5KwT6iYF8kbXcOmjWwpY4WS0.png",
+    "de": "/nB29ONu0YdOdWffS4T2In8rBhuj.png",
+    "it": "/nYUgIKFMp1IcNsk76mIluQ0WcZh.png",
+    "es": "/q3Q63qN3ihW09rCvu7WH0akRRMA.png"
+   }
+  },
+  {
+   "id": 807,
+   "year": "1995",
+   "title": {
+    "fr": "Seven",
+    "en": "Se7en",
+    "de": "Sieben",
+    "it": "Seven",
+    "es": "Seven",
+    "sv": "Seven"
+   },
+   "backdrops": [
+    "/jwBs4djVIe9Kz3Vu9rsI9aEEKWU.jpg"
+   ],
+   "logo": {
+    "fr": "/8DfvUgzaTfoXgMEgq9XcQJ610rJ.png",
+    "en": "/zVyZvT1zVO7GIk65RlcOx5KdAN.png",
+    "de": "/rI5WPXGxXk9JX1U4vbExj8FKqMD.png",
+    "es": "/9Jwo35pcCztc5FNmJpeI1EMRCye.png"
+   }
+  },
+  {
+   "id": 8844,
+   "year": "1995",
+   "title": {
+    "fr": "Jumanji",
+    "en": "Jumanji",
+    "de": "Jumanji",
+    "it": "Jumanji",
+    "es": "Jumanji",
+    "sv": "Jumanji"
+   },
+   "backdrops": [
+    "/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg"
+   ],
+   "logo": {
+    "en": "/fLql26sxSt0lwVdKUujzPWBL3H6.png"
+   }
+  },
+  {
+   "id": 63,
+   "year": "1995",
+   "title": {
+    "fr": "L'Armée des 12 singes",
+    "en": "Twelve Monkeys",
+    "de": "12 Monkeys",
+    "it": "L'esercito delle 12 scimmie",
+    "es": "12 monos",
+    "sv": "De 12 apornas armé"
+   },
+   "backdrops": [
+    "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg"
+   ],
+   "logo": {
+    "fr": "/zA5V3E7DDq1UzNSD4JRc6SjK6V1.png",
+    "en": "/sKqLvWBKIYiUbK7N4R5pbB20jNo.png",
+    "de": "/lo9nrBVYRBQqAfKtdSG17F2Bd2g.png",
+    "it": "/27Y4W0MoEnZByvtBMZ8RLMXfPmU.png",
+    "es": "/inoIB8ScY82zpZmaKProMbUfinP.png",
+    "sv": "/oI1t4dxpOj3CV72w6d7KrzvqMvL.png"
+   }
+  },
+  {
+   "id": 627,
+   "year": "1996",
+   "title": {
+    "fr": "Trainspotting",
+    "en": "Trainspotting",
+    "de": "Trainspotting - Neue Helden",
+    "it": "Trainspotting",
+    "es": "Trainspotting",
+    "sv": "Trainspotting"
+   },
+   "backdrops": [
+    "/Aw0z8bUhGljT0ots6udf1MTLEMi.jpg"
+   ],
+   "logo": {
+    "en": "/ukJF0aSXy9FqJMAkpcglKHsNzJW.png"
+   }
+  },
+  {
+   "id": 275,
+   "year": "1996",
+   "title": {
+    "fr": "Fargo",
+    "en": "Fargo",
+    "de": "Fargo",
+    "it": "Fargo",
+    "es": "Fargo",
+    "sv": "Fargo"
+   },
+   "backdrops": [
+    "/vLhRkMOjdRIA6tdcQrGr8jyvtkf.jpg"
+   ],
+   "logo": {
+    "fr": "/b7uDnKFHUpRleDkiQywBv2EUA8E.png",
+    "en": "/33niNRK7JDLcaGy2pcJsYkVTeq7.png",
+    "it": "/3z79TEMBjzbdoHnyoAEXMiqkyVg.png",
+    "es": "/nwxvnN6Gs2NZk4nrk5SVc1Vec7I.png"
+   }
+  },
+  {
+   "id": 954,
+   "year": "1996",
+   "title": {
+    "fr": "Mission : Impossible",
+    "en": "Mission: Impossible",
+    "de": "Mission: Impossible",
+    "it": "Mission: Impossible",
+    "es": "Misión imposible",
+    "sv": "Mission: Impossible"
+   },
+   "backdrops": [
+    "/sra8XnL96OyLHENcglmZJg6HA8z.jpg"
+   ],
+   "logo": {
+    "fr": "/5YMw9NPI4CTS4rdv14SJyKs0xlo.png",
+    "en": "/d4Nk4FAlEoHLNEny88SQ7Jk9ZsZ.png",
+    "de": "/oo5rOYfWarrSIPtppfL57w7XPYL.png",
+    "es": "/xmEO3geekHkjfWSdcQaWDnSIpto.png"
+   }
+  },
+  {
+   "id": 18,
+   "year": "1997",
+   "title": {
+    "fr": "Le Cinquième Élément",
+    "en": "The Fifth Element",
+    "de": "Das fünfte Element",
+    "it": "Il quinto elemento",
+    "es": "El quinto elemento",
+    "sv": "Det femte elementet"
+   },
+   "backdrops": [
+    "/jW21PoKwqs79wk6bfiYezox63mK.jpg"
+   ],
+   "logo": {
+    "fr": "/wrV8ixHZfqJI6AqhXUUJGpyebZG.png",
+    "en": "/msVBaxnGvE57AOLDvFDVpaIZqaV.png",
+    "de": "/wYuNdkoHDYnyio3yqQHXIWWwV43.png",
+    "it": "/kXWkXffqxIK2ODEeNKm4Nf9YkdM.png",
+    "es": "/xmSfmWcRZ4saSya42cuyL25ZM7j.png",
+    "sv": "/u1bPoiDo22tcxGrUL66OBgEqYVC.png"
+   }
+  },
+  {
+   "id": 607,
+   "year": "1997",
+   "title": {
+    "fr": "Men in Black",
+    "en": "Men in Black",
+    "de": "Men in Black",
+    "it": "Men in Black",
+    "es": "Hombres de negro",
+    "sv": "Men in Black"
+   },
+   "backdrops": [
+    "/o9puyKpayQoX8ikIaYtf2PfKv3.jpg"
+   ],
+   "logo": {
+    "en": "/mTevhilEOa7dqILrE9YQnNhkIQ7.png",
+    "es": "/cq62bmRBBQDnEaWQ6OuIZGVCW2d.png"
+   }
+  },
+  {
+   "id": 489,
+   "year": "1997",
+   "title": {
+    "fr": "Will Hunting",
+    "en": "Good Will Hunting",
+    "de": "Good Will Hunting",
+    "it": "Will Hunting - Genio ribelle",
+    "es": "El indomable Will Hunting",
+    "sv": "Will Hunting"
+   },
+   "backdrops": [
+    "/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg"
+   ],
+   "logo": {
+    "fr": "/8D2OndqcRpIte3Fx6AYRTf8Uls8.png",
+    "en": "/m5e8QvfjfmMmTvh39oj3rLIZUri.png",
+    "it": "/Hkfbl6rFODLmy742ZsVv7vru1H.png",
+    "es": "/ckzfDl27l5UThXy1GUO5G3PQmlq.png"
+   }
+  },
+  {
+   "id": 597,
+   "year": "1997",
+   "title": {
+    "fr": "Titanic",
+    "en": "Titanic",
+    "de": "Titanic",
+    "it": "Titanic",
+    "es": "Titanic",
+    "sv": "Titanic"
+   },
+   "backdrops": [
+    "/sCzcYW9h55WcesOqA12cgEr9Exw.jpg"
+   ],
+   "logo": {
+    "fr": "/m73D0BWDcJs53TjuFwHxlWZux9i.png",
+    "en": "/rLzHguwcdni9Jam8rMtMlg5XG2D.png",
+    "es": "/ce9WIzV5NkPWUxA4ZCQ3HWEhAEv.png"
+   }
+  },
+  {
+   "id": 637,
+   "year": "1997",
+   "title": {
+    "fr": "La vie est belle",
+    "en": "Life Is Beautiful",
+    "de": "Das Leben ist schön",
+    "it": "La vita è bella",
+    "es": "La vida es bella",
+    "sv": "Livet är underbart"
+   },
+   "backdrops": [
+    "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg"
+   ],
+   "logo": {
+    "fr": "/lqxmxiTrPqSVV5tQFOmXs3avYrK.png",
+    "en": "/xgLlkGCfUWxhAVocl7Jvb9qhY1s.png",
+    "de": "/a2tFOQOWN7MWdmIkeBMZUUMFacf.png",
+    "it": "/th95PpJA6rAEc28XvbU1RNSKadc.png",
+    "es": "/mq5wwAcWOIiWorPQzSu4R2OrdWe.png"
+   }
+  },
+  {
+   "id": 115,
+   "year": "1998",
+   "title": {
+    "fr": "The Big Lebowski",
+    "en": "The Big Lebowski",
+    "de": "The Big Lebowski",
+    "it": "Il grande Lebowski",
+    "es": "El gran Lebowski",
+    "sv": "The Big Lebowski"
+   },
+   "backdrops": [
+    "/77ElMccPnTMPouRxSdbJ4nEjf69.jpg"
+   ],
+   "logo": {
+    "fr": "/AvIStLz4ZRoZBHUIewbt4Xjggim.png",
+    "en": "/9y7SHMO5WvyEWBbfG0TibeWszYX.png",
+    "it": "/b6X3tj52Q4SsplUIZpCtr0DQg0A.png",
+    "es": "/fjGn6VaEXrTAlmeuDeTTejxPMvM.png"
+   }
+  },
+  {
+   "id": 37165,
+   "year": "1998",
+   "title": {
+    "fr": "The Truman Show",
+    "en": "The Truman Show",
+    "de": "Die Truman Show",
+    "it": "The Truman Show",
+    "es": "El show de Truman",
+    "sv": "Truman Show"
+   },
+   "backdrops": [
+    "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg"
+   ],
+   "logo": {
+    "en": "/dD0oQGYGTm4oJqte5eCuRtjQtV7.png",
+    "de": "/fN7Y8auZVpqmqW6CXiDjQXbclnJ.png",
+    "es": "/ml6vSJ8tKa9aHGyBw18OSu9UAki.png"
+   }
+  },
+  {
+   "id": 73,
+   "year": "1998",
+   "title": {
+    "fr": "American History X",
+    "en": "American History X",
+    "de": "American History X",
+    "it": "American History X",
+    "es": "American History X",
+    "sv": "American History X"
+   },
+   "backdrops": [
+    "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg"
+   ],
+   "logo": {
+    "en": "/oWlah6rcT3M5ZxGKQSWdcIpQ0iW.png",
+    "de": "/6ex9RJ1I6aU3xp1i2z3jZtsHzbw.png",
+    "it": "/5BDZdHbMXlJcGEGFX1XGCdQzH3O.png",
+    "es": "/vf3wG3XOkIaaZ4NefXUIcRdF8Ct.png"
+   }
+  },
+  {
+   "id": 857,
+   "year": "1998",
+   "title": {
+    "fr": "Il faut sauver le soldat Ryan",
+    "en": "Saving Private Ryan",
+    "de": "Der Soldat James Ryan",
+    "it": "Salvate il soldato Ryan",
+    "es": "Salvar al soldado Ryan",
+    "sv": "Rädda menige Ryan"
+   },
+   "backdrops": [
+    "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg"
+   ],
+   "logo": {
+    "fr": "/Acfr0s5zTzGSCaKHiEHIvrhunea.png",
+    "en": "/emQLFPKLJJZn7cJZveKcV0jPGaB.png",
+    "de": "/1ezcvF3YceTQafnjmgKdlT8ntgL.png",
+    "it": "/vmCRS2dabKSMjb45eGKv1miokIU.png",
+    "es": "/ykrOjR8kwwQ03QPfHSHkfetw8vu.png",
+    "sv": "/scjVTuPQttcyFbNLpaNDpoVsjDb.png"
+   }
+  },
+  {
+   "id": 4951,
+   "year": "1999",
+   "title": {
+    "fr": "10 bonnes raisons de te larguer",
+    "en": "10 Things I Hate About You",
+    "de": "10 Dinge, die ich an Dir hasse",
+    "it": "10 cose che odio di te",
+    "es": "10 razones para odiarte",
+    "sv": "10 orsaker att hata dig"
+   },
+   "backdrops": [
+    "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg"
+   ],
+   "logo": {
+    "fr": "/eiMMZtjdH8TD04txP83ai676hns.png",
+    "en": "/8EQd8fS16sRyhlCYMNrpoTyxQQM.png",
+    "de": "/9WkGEypRK9GyQNEejl25YtsjzS3.png",
+    "it": "/32p9I7fjj5xvc0lcYWHi2pQjFsF.png",
+    "es": "/hAZgiJM9MyGT2RFAMdzj4uRlcVf.png",
+    "sv": "/6qYEaZCbIJSKSIiVArUQLFVg0k5.png"
+   }
+  },
+  {
+   "id": 603,
+   "year": "1999",
+   "title": {
+    "fr": "Matrix",
+    "en": "The Matrix",
+    "de": "Matrix",
+    "it": "Matrix",
+    "es": "Matrix",
+    "sv": "Matrix"
+   },
+   "backdrops": [
+    "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
+   ],
+   "logo": {
+    "fr": "/iBrE6JgSbNbWjLuYKdDpEDl9rlU.png",
+    "en": "/iWxxHjuJ1vCLQcg3iiOMucvbrF1.png",
+    "de": "/vI6oPPFZjfr4jOu21NHyoZmfsn2.png",
+    "it": "/7tg7ZTv0AbO5afJaUZguvqK5O4g.png",
+    "es": "/kA8phmxG7h4BIN061fiutckq9Ho.png"
+   }
+  },
+  {
+   "id": 564,
+   "year": "1999",
+   "title": {
+    "fr": "La Momie",
+    "en": "The Mummy",
+    "de": "Die Mumie",
+    "it": "La mummia",
+    "es": "La momia",
+    "sv": "Mumien"
+   },
+   "backdrops": [
+    "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg"
+   ],
+   "logo": {
+    "fr": "/rVmm2c9pukWERbfqrxXShluz4R7.png",
+    "en": "/3UGycN6SP7PPmB5ZWIf9bphm2UM.png",
+    "de": "/401fm3OLvT8mpogzRma348jqcta.png",
+    "it": "/yzG7e1KC8wqHWSWa5QwXd3eS1NA.png",
+    "es": "/wN5ECzhPYnphWKPvqrVVmQnGUrC.png",
+    "sv": "/s2zhx7RnIkyZDwydYsIu0Rz8E8L.png"
+   }
+  },
+  {
+   "id": 745,
+   "year": "1999",
+   "title": {
+    "fr": "Sixième Sens",
+    "en": "The Sixth Sense",
+    "de": "The Sixth Sense",
+    "it": "The Sixth Sense - Il sesto senso",
+    "es": "El sexto sentido",
+    "sv": "Sjätte sinnet"
+   },
+   "backdrops": [
+    "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg"
+   ],
+   "logo": {
+    "fr": "/iszpWfOVhqSVIE4OuN7Wg0SeMKJ.png",
+    "en": "/lrkzMNWdbk2o0ddLyqSxN3GSjRd.png",
+    "it": "/5ZRZZlReKsjn2VNN4I1rhIgEiKv.png",
+    "es": "/zFDyPiKJLwfWsIJa6cMtWz6fED5.png",
+    "sv": "/iRLhR03K4e4OXIVeZ9ZZZBiGSjl.png"
+   }
+  },
+  {
+   "id": 14,
+   "year": "1999",
+   "title": {
+    "fr": "American Beauty",
+    "en": "American Beauty",
+    "de": "American Beauty",
+    "it": "American Beauty",
+    "es": "American Beauty",
+    "sv": "American Beauty"
+   },
+   "backdrops": [
+    "/kEA3iOrV1DpHQ3Z01Q28y2Qoc89.jpg"
+   ],
+   "logo": {
+    "fr": "/xyMU68ZIaeIBGqRrJJGphJeyDpw.png",
+    "en": "/1BGhlMmKjZKPGAmGzL1XPSj95b1.png",
+    "it": "/rXDaHKXZ2ckXwXb4ilajK1qUSag.png",
+    "es": "/uGtzozJfIw8FEUF53ym0TssBdPT.png"
+   }
+  },
+  {
+   "id": 550,
+   "year": "1999",
+   "title": {
+    "fr": "Fight Club",
+    "en": "Fight Club",
+    "de": "Fight Club",
+    "it": "Fight Club",
+    "es": "El club de la lucha",
+    "sv": "Fight Club"
+   },
+   "backdrops": [
+    "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg"
+   ],
+   "logo": {
+    "fr": "/4qaXec1TKGA34J8JjOqEuXH1waE.png",
+    "en": "/7Uqhv24pGJs4Ns31NoOPWFJGWNG.png",
+    "de": "/ayYwAnf7WQoOE7npYuBxat9jfhv.png",
+    "es": "/5bqbW2Ktz3GjMHD3KYkSBRb5IAk.png"
+   }
+  },
+  {
+   "id": 497,
+   "year": "1999",
+   "title": {
+    "fr": "La Ligne verte",
+    "en": "The Green Mile",
+    "de": "The Green Mile",
+    "it": "Il miglio verde",
+    "es": "La milla verde",
+    "sv": "Den gröna milen"
+   },
+   "backdrops": [
+    "/amZavErrjrdgDwhsIdpWxHNenIx.jpg"
+   ],
+   "logo": {
+    "fr": "/xl8vdI5NX4Yl0ncXnbYSee6n8zb.png",
+    "en": "/zvl6GTeDHTpA3VQfaJH3Pw5MUjC.png",
+    "it": "/9GXyXqIpm8cOhHfzrWkeTkp5ai7.png",
+    "es": "/n5TXES9Y0NmyjbueDaD6tgrsA80.png"
+   }
+  }
+ ]
+}

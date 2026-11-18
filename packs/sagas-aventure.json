@@ -1,0 +1,722 @@
+{
+ "id": "sagas-aventure",
+ "version": 1,
+ "name": {
+  "fr": "Sagas d'aventure",
+  "en": "Adventure Sagas",
+  "de": "Abenteuer-Sagas",
+  "it": "Saghe d'avventura",
+  "es": "Sagas de aventuras",
+  "sv": "Äventyrssagor"
+ },
+ "description": {
+  "fr": "Indiana Jones, Jurassic Park, Pirates des Caraïbes, Matrix et d'autres grandes sagas",
+  "en": "Indiana Jones, Jurassic Park, Pirates of the Caribbean, The Matrix and more great sagas",
+  "de": "Indiana Jones, Jurassic Park, Fluch der Karibik, Matrix und weitere große Sagas",
+  "it": "Indiana Jones, Jurassic Park, Pirati dei Caraibi, Matrix e altre grandi saghe",
+  "es": "Indiana Jones, Jurassic Park, Piratas del Caribe, Matrix y otras grandes sagas",
+  "sv": "Indiana Jones, Jurassic Park, Pirates of the Caribbean, Matrix och fler stora sagor"
+ },
+ "films": [
+  {
+   "id": 85,
+   "year": "1981",
+   "title": {
+    "fr": "Les Aventuriers de l'arche perdue",
+    "en": "Raiders of the Lost Ark",
+    "de": "Jäger des verlorenen Schatzes",
+    "it": "I predatori dell'arca perduta",
+    "es": "En busca del arca perdida",
+    "sv": "Jakten på den försvunna skatten"
+   },
+   "backdrops": [
+    "/zPACwR32amTNvzId9qyapCWXYDJ.jpg"
+   ],
+   "logo": {
+    "fr": "/7xCuK6sEVCupDWwnw7khvC88BC9.png",
+    "en": "/pQwAK7zj1tU8bYdVI47v7bUpv5B.png",
+    "de": "/6UkVejM8Y3AbD3eLHPb7BZWg8iZ.png",
+    "it": "/jIwN17u4X89hE7yYqa5yKYdwR1l.png",
+    "es": "/ql6eKGJhaovo0QnJLnwtebddSGq.png",
+    "sv": "/gbx2Dy5pSuFtSAccTHYh50p52L6.png"
+   }
+  },
+  {
+   "id": 87,
+   "year": "1984",
+   "title": {
+    "fr": "Indiana Jones et le Temple maudit",
+    "en": "Indiana Jones and the Temple of Doom",
+    "de": "Indiana Jones und der Tempel des Todes",
+    "it": "Indiana Jones e il tempio maledetto",
+    "es": "Indiana Jones y el templo maldito",
+    "sv": "Indiana Jones och de fördömdas tempel"
+   },
+   "backdrops": [
+    "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg"
+   ],
+   "logo": {
+    "fr": "/qQHsBo2Jv7dUSiQ8hzIwdyDJe5J.png",
+    "en": "/qrcg92Ps9YATpetzILW60qgolNT.png",
+    "de": "/7A1yPPIK107BiVznZrgfg5pP68k.png",
+    "it": "/fm6WMKkZK4zTIxRj3cm2ncc6voN.png",
+    "es": "/rUqugZkR5R55Z0mVcb3uu3IOYbY.png",
+    "sv": "/oRH9NxOqh7In3tEcVooDyNVs0pp.png"
+   }
+  },
+  {
+   "id": 105,
+   "year": "1985",
+   "title": {
+    "fr": "Retour vers le futur",
+    "en": "Back to the Future",
+    "de": "Zurück in die Zukunft",
+    "it": "Ritorno al futuro",
+    "es": "Regreso al futuro",
+    "sv": "Tillbaka till framtiden"
+   },
+   "backdrops": [
+    "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg"
+   ],
+   "logo": {
+    "fr": "/qBgFS7Lln11vQ3zRtISUmKCDyrL.png",
+    "en": "/jyhwiYJ05nhIkgx9UDVpUCrQ8Hm.png",
+    "de": "/hERkSr0EYaKNv3wLJo4bgIBpYyV.png",
+    "it": "/n5odobvL1L56AQVStx53eIRv5Mh.png",
+    "es": "/5JXadtO0qMHVfyec6ixR9Tmge3x.png",
+    "sv": "/x6UqUDCC6wbutLCCFyaHvPNcaKj.png"
+   }
+  },
+  {
+   "id": 89,
+   "year": "1989",
+   "title": {
+    "fr": "Indiana Jones et la dernière croisade",
+    "en": "Indiana Jones and the Last Crusade",
+    "de": "Indiana Jones und der letzte Kreuzzug",
+    "it": "Indiana Jones e l'ultima crociata",
+    "es": "Indiana Jones y la última cruzada",
+    "sv": "Indiana Jones och det sista korståget"
+   },
+   "backdrops": [
+    "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg"
+   ],
+   "logo": {
+    "fr": "/9fFHjJudBcKyvsGexC9C8Zq3OMn.png",
+    "en": "/AoXnr773qvewCqQ5OnD8sSA1s0l.png",
+    "de": "/eomKJY6enLPViN5WroJN93f6BkE.png",
+    "it": "/rJr0XT6QGZphozXqCLmryfGq8R6.png",
+    "es": "/zSlO3CnCdLq7vZUmRDrk9WRk9Z.png",
+    "sv": "/lvQZxs5Srj8UXMKTT4vziJrQMHs.png"
+   }
+  },
+  {
+   "id": 165,
+   "year": "1989",
+   "title": {
+    "fr": "Retour vers le futur II",
+    "en": "Back to the Future Part II",
+    "de": "Zurück in die Zukunft II",
+    "it": "Ritorno al futuro - Parte II",
+    "es": "Regreso al futuro II",
+    "sv": "Tillbaka till framtiden del II"
+   },
+   "backdrops": [
+    "/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg"
+   ],
+   "logo": {
+    "fr": "/maqUxsuLKjFGv8mFic4aIym15rL.png",
+    "en": "/hcMAuJFNVfEKjdBsWg5XIOSdTZa.png",
+    "de": "/jEGRNqdXTIOje732jMnPJrbOldz.png",
+    "it": "/bO4fQjzoayBDqYGAxonf8RBpKKh.png",
+    "es": "/hJOIF2KVRgdTonfyLkCdyq6buo5.png",
+    "sv": "/37co8tfzQaCv7cBJvnvPqkZO9ug.png"
+   }
+  },
+  {
+   "id": 196,
+   "year": "1990",
+   "title": {
+    "fr": "Retour vers le futur III",
+    "en": "Back to the Future Part III",
+    "de": "Zurück in die Zukunft III",
+    "it": "Ritorno al futuro - Parte III",
+    "es": "Regreso al futuro III",
+    "sv": "Tillbaka till framtiden del III"
+   },
+   "backdrops": [
+    "/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg"
+   ],
+   "logo": {
+    "fr": "/1kwCQTsVUKAGkLXrz1FJrFZgzQb.png",
+    "en": "/vfJybPoKmZzOVypmOMOzvXxTHky.png",
+    "de": "/37DrkP8EmvozullWYEBPtY4Z8AY.png",
+    "it": "/yArZzQAxPC7aZi5sfEsiTGRjRoc.png",
+    "es": "/R7CCAaWeyYu15jtXHAjEDejGY1.png",
+    "sv": "/4LfM0XfewM9JnMl7X1Xbu0ETnss.png"
+   }
+  },
+  {
+   "id": 329,
+   "year": "1993",
+   "title": {
+    "fr": "Jurassic Park",
+    "en": "Jurassic Park",
+    "de": "Jurassic Park",
+    "it": "Jurassic Park",
+    "es": "Jurassic Park (Parque Jurásico)",
+    "sv": "Jurassic Park"
+   },
+   "backdrops": [
+    "/f082quUW2kAtZXFZVGEfhwacZoG.jpg"
+   ],
+   "logo": {
+    "fr": "/h0QaOA4GFGXs5zRvKXqOM4wqjHu.png",
+    "en": "/lThzYhRgeiwo3FrEof7ORltEwAv.png",
+    "es": "/zej50ECKl9otrLX78RMcnnPRoIb.png"
+   }
+  },
+  {
+   "id": 954,
+   "year": "1996",
+   "title": {
+    "fr": "Mission : Impossible",
+    "en": "Mission: Impossible",
+    "de": "Mission: Impossible",
+    "it": "Mission: Impossible",
+    "es": "Misión imposible",
+    "sv": "Mission: Impossible"
+   },
+   "backdrops": [
+    "/sra8XnL96OyLHENcglmZJg6HA8z.jpg"
+   ],
+   "logo": {
+    "fr": "/5YMw9NPI4CTS4rdv14SJyKs0xlo.png",
+    "en": "/d4Nk4FAlEoHLNEny88SQ7Jk9ZsZ.png",
+    "de": "/oo5rOYfWarrSIPtppfL57w7XPYL.png",
+    "es": "/xmEO3geekHkjfWSdcQaWDnSIpto.png"
+   }
+  },
+  {
+   "id": 330,
+   "year": "1997",
+   "title": {
+    "fr": "Le monde perdu : Jurassic Park",
+    "en": "The Lost World: Jurassic Park",
+    "de": "Vergessene Welt: Jurassic Park",
+    "it": "Il mondo perduto - Jurassic Park",
+    "es": "El mundo perdido: Jurassic Park",
+    "sv": "The Lost World: Jurassic Park"
+   },
+   "backdrops": [
+    "/A4rYaPdzgocCjQ0n9LUSYUxyvpS.jpg"
+   ],
+   "logo": {
+    "fr": "/ryMRxGYQdeb3gf9Exad9sjEr0Mc.png",
+    "en": "/nS98j1pAPCkHxOfgmN6YPHhZ6Hm.png",
+    "de": "/7cEZvIZkYAZdQJzza5BKamQkCZy.png",
+    "it": "/knelNX3dFI5dLh1IbLkck1gC27a.png",
+    "es": "/5QMKyZYsiph25a1iJybP7ANgsGX.png"
+   }
+  },
+  {
+   "id": 603,
+   "year": "1999",
+   "title": {
+    "fr": "Matrix",
+    "en": "The Matrix",
+    "de": "Matrix",
+    "it": "Matrix",
+    "es": "Matrix",
+    "sv": "Matrix"
+   },
+   "backdrops": [
+    "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg"
+   ],
+   "logo": {
+    "fr": "/iBrE6JgSbNbWjLuYKdDpEDl9rlU.png",
+    "en": "/iWxxHjuJ1vCLQcg3iiOMucvbrF1.png",
+    "de": "/vI6oPPFZjfr4jOu21NHyoZmfsn2.png",
+    "it": "/7tg7ZTv0AbO5afJaUZguvqK5O4g.png",
+    "es": "/kA8phmxG7h4BIN061fiutckq9Ho.png"
+   }
+  },
+  {
+   "id": 955,
+   "year": "2000",
+   "title": {
+    "fr": "Mission : Impossible 2",
+    "en": "Mission: Impossible II",
+    "de": "Mission: Impossible II",
+    "it": "Mission: Impossible II",
+    "es": "Misión imposible II",
+    "sv": "M:I-2"
+   },
+   "backdrops": [
+    "/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg"
+   ],
+   "logo": {
+    "fr": "/4PqgjG0iNOD6mypMdPH8hqdvukF.png",
+    "en": "/eTFeeWhxZy931ZskcekdsxwxfhQ.png",
+    "de": "/hLljwbqxr7TTi3eM2AQgNzxyxhK.png",
+    "es": "/3jkbG2FwimAyPaVxpWCKdrCUMoj.png"
+   }
+  },
+  {
+   "id": 331,
+   "year": "2001",
+   "title": {
+    "fr": "Jurassic Park III",
+    "en": "Jurassic Park III",
+    "de": "Jurassic Park III",
+    "it": "Jurassic Park III",
+    "es": "Jurassic Park III (Parque Jurásico III)",
+    "sv": "Jurassic Park III"
+   },
+   "backdrops": [
+    "/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg"
+   ],
+   "logo": {
+    "fr": "/4HPHgTwrs3BHb82NoWfwV4AEwM7.png",
+    "en": "/4FtcsSLKmuTKlL9IlHM5O0N8mFn.png",
+    "es": "/xYWfGnzRxJtYUaulKEeX8zQKpO3.png"
+   }
+  },
+  {
+   "id": 604,
+   "year": "2003",
+   "title": {
+    "fr": "Matrix Reloaded",
+    "en": "The Matrix Reloaded",
+    "de": "Matrix Reloaded",
+    "it": "Matrix Reloaded",
+    "es": "Matrix Reloaded",
+    "sv": "Matrix Reloaded"
+   },
+   "backdrops": [
+    "/ihOJcrorpDQtHTzIOrobbOhpJsj.jpg"
+   ],
+   "logo": {
+    "fr": "/A72EMFqY8CeYPzH3bUUx7TIT06Y.png",
+    "en": "/77AxkB2i2L9cI87LFGP0PncDN6j.png",
+    "de": "/ystptU9cA95DjaYxgiKmBstzYyu.png",
+    "it": "/jPIxfAhUQXb9lbb5FDy9Im2TKBU.png",
+    "es": "/k4bfmiVhruxPnBVnKQWJVTqJL2V.png"
+   }
+  },
+  {
+   "id": 22,
+   "year": "2003",
+   "title": {
+    "fr": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "en": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "de": "Fluch der Karibik",
+    "it": "La maledizione della prima luna",
+    "es": "Piratas del Caribe: La maldición de la Perla Negra",
+    "sv": "Pirates of the Caribbean - Svarta Pärlans förbannelse"
+   },
+   "backdrops": [
+    "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg"
+   ],
+   "logo": {
+    "fr": "/x38S7rdz13RSAvMuzdwltgozxvV.png",
+    "en": "/o0s0xqUcaWWv0Kh3QYmfxSQjmPD.png",
+    "de": "/bleiuJVNUnHBLJyMdIh4oOkhyZ0.png",
+    "it": "/6JDyUFDJltdnct3LiTOUSlZQHuT.png",
+    "es": "/bgH4fgvP0nyw1BprzXmguT3an7v.png",
+    "sv": "/qkGVj4HZ4dGjinuec4GwcIEfPsD.png"
+   }
+  },
+  {
+   "id": 605,
+   "year": "2003",
+   "title": {
+    "fr": "Matrix Revolutions",
+    "en": "The Matrix Revolutions",
+    "de": "Matrix Revolutions",
+    "it": "Matrix Revolutions",
+    "es": "Matrix Revolutions",
+    "sv": "Matrix Revolutions"
+   },
+   "backdrops": [
+    "/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg"
+   ],
+   "logo": {
+    "fr": "/2ffzvW3yd1vR821a2CZ5A6RuJlk.png",
+    "en": "/4rDr2YbPGhNDRd6qfL6fjhOIQJJ.png",
+    "de": "/19vdcyARonQzbLUuL1OwVUVjEC2.png",
+    "it": "/kc1KW2N5opHtjfh3s9G1anUk6yk.png",
+    "es": "/sGSh2Ct0YvodIJMxOHOlGLBcyRt.png"
+   }
+  },
+  {
+   "id": 956,
+   "year": "2006",
+   "title": {
+    "fr": "Mission : Impossible 3",
+    "en": "Mission: Impossible III",
+    "de": "Mission: Impossible III",
+    "it": "Mission: Impossible III",
+    "es": "Misión imposible III",
+    "sv": "Mission: Impossible III"
+   },
+   "backdrops": [
+    "/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg"
+   ],
+   "logo": {
+    "fr": "/1KPoC31CbTB6jBPgCU16ACqzExr.png",
+    "en": "/6F2Wm5iC2czD5YfL7fMuQbuHXDS.png",
+    "de": "/qHKPBl7xpUbeeKQHQzQu5yKXv0j.png",
+    "es": "/jVOxeAy3xkmRBsck2hozcnbkqdK.png"
+   }
+  },
+  {
+   "id": 58,
+   "year": "2006",
+   "title": {
+    "fr": "Pirates des Caraïbes : Le Secret du coffre maudit",
+    "en": "Pirates of the Caribbean: Dead Man's Chest",
+    "de": "Pirates of the Caribbean - Fluch der Karibik 2",
+    "it": "Pirati dei Caraibi - La maledizione del forziere fantasma",
+    "es": "Piratas del Caribe: El cofre del hombre muerto",
+    "sv": "Pirates of the Caribbean - Död mans kista"
+   },
+   "backdrops": [
+    "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg"
+   ],
+   "logo": {
+    "fr": "/yJ23g63QY3GHtXAI61wqcPmw2C5.png",
+    "en": "/vEQROv1sAh6K2RWN1J59ZM7HduQ.png",
+    "de": "/sTUJsxCMoSAYJetpK4c6i5H24Kn.png",
+    "it": "/pBYHkk5kCu8f8ojGy7l2J8BLuZM.png",
+    "es": "/xvGm4FFJs6IDChZp491IbFVNHEw.png",
+    "sv": "/r3CVDwl5uK4aOVAzzG5AMFqxhxl.png"
+   }
+  },
+  {
+   "id": 285,
+   "year": "2007",
+   "title": {
+    "fr": "Pirates des Caraïbes : Jusqu'au bout du monde",
+    "en": "Pirates of the Caribbean: At World's End",
+    "de": "Pirates of the Caribbean - Am Ende der Welt",
+    "it": "Pirati dei Caraibi - Ai confini del mondo",
+    "es": "Piratas del Caribe: En el fin del mundo",
+    "sv": "Pirates of the Caribbean - Vid världens ände"
+   },
+   "backdrops": [
+    "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg"
+   ],
+   "logo": {
+    "fr": "/rartoKbzD4VZxKJAURXNiCRjIzI.png",
+    "en": "/qxtGuZEnRXT1uqWe0Xsmxgsj8Hy.png",
+    "de": "/A5GvDomeBLsmgbuyppPy1f5335C.png",
+    "it": "/nbsKnri2WIYYOztc6pE5TMlVFU3.png",
+    "es": "/qvfBqKrcarW0NoLoH41zsErtoAJ.png",
+    "sv": "/9CTl2IkzRR5i0ddWP0jP6o5j0i.png"
+   }
+  },
+  {
+   "id": 217,
+   "year": "2008",
+   "title": {
+    "fr": "Indiana Jones et le royaume du crâne de cristal",
+    "en": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "de": "Indiana Jones und das Königreich des Kristallschädels",
+    "it": "Indiana Jones e il regno del teschio di cristallo",
+    "es": "Indiana Jones y el reino de la calavera de cristal",
+    "sv": "Indiana Jones och kristalldödskallens rike"
+   },
+   "backdrops": [
+    "/p96949hcwUG2BwE6MgKmw0uYNCx.jpg"
+   ],
+   "logo": {
+    "fr": "/9QH29VbMpAVhEjYJbVtE7hVxbam.png",
+    "en": "/uTiuAYkarl6GU8iOgqVnEjd2kb0.png",
+    "de": "/tby2lArMHUC2RNhHg5JpJK70kVP.png",
+    "it": "/niAGcIth4giy1kIh04Xe4H5ZAJm.png",
+    "es": "/cqOjP9jcWl7e73JD69TRDqsvHgp.png",
+    "sv": "/zpHARQ0tFqskXOXKCmGA3yVADUq.png"
+   }
+  },
+  {
+   "id": 1865,
+   "year": "2011",
+   "title": {
+    "fr": "Pirates des Caraïbes : La Fontaine de jouvence",
+    "en": "Pirates of the Caribbean: On Stranger Tides",
+    "de": "Pirates of the Caribbean - Fremde Gezeiten",
+    "it": "Pirati dei Caraibi - Oltre i confini del mare",
+    "es": "Piratas del Caribe: En mareas misteriosas",
+    "sv": "Pirates of the Caribbean: I främmande farvatten"
+   },
+   "backdrops": [
+    "/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg"
+   ],
+   "logo": {
+    "fr": "/4RrDRJ48HPOPclts4lZTi0ofGD6.png",
+    "en": "/2cytTnfRgqzYHWbLrLAlvBD7mZd.png",
+    "de": "/82oRLuDbRC8u71V01XJ1DavVASL.png",
+    "it": "/cn398mEcRI5Om7QyzLG7JjZWEJC.png",
+    "es": "/ujiQflWydWCq1nPgKD8x1t3pFAW.png",
+    "sv": "/iaRpoA2CjxlJALIoHi6UsEmZWxR.png"
+   }
+  },
+  {
+   "id": 56292,
+   "year": "2011",
+   "title": {
+    "fr": "Mission : Impossible - Protocole Fantôme",
+    "en": "Mission: Impossible - Ghost Protocol",
+    "de": "Mission: Impossible - Phantom Protokoll",
+    "it": "Mission: Impossible - Protocollo fantasma",
+    "es": "Misión imposible: Protocolo fantasma",
+    "sv": "Mission: Impossible - Ghost Protocol"
+   },
+   "backdrops": [
+    "/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg"
+   ],
+   "logo": {
+    "fr": "/9ZkOlbmHXpr1DJTEPlpuK23Vkry.png",
+    "en": "/i20GzuIiLg4xnBPmxa7QptLDq4I.png",
+    "de": "/yx80cLnnn1m3x2WZDozpK89trPc.png",
+    "it": "/lyOBftNfKvQnB1CumywQvW27sJE.png",
+    "es": "/pngSXzFrcwRfnuFH6cTBy5L3kj5.png"
+   }
+  },
+  {
+   "id": 135397,
+   "year": "2015",
+   "title": {
+    "fr": "Jurassic World",
+    "en": "Jurassic World",
+    "de": "Jurassic World",
+    "it": "Jurassic World",
+    "es": "Jurassic World",
+    "sv": "Jurassic World"
+   },
+   "backdrops": [
+    "/dF6FjTZzRTENfB4R17HDN20jLT2.jpg"
+   ],
+   "logo": {
+    "fr": "/AcV8YB7t79dkOxayO0POpd13Wns.png",
+    "en": "/vleUbBFlEGdxaazvzBMoZ5dHDoY.png",
+    "es": "/4IKkOzdAOz6LZWmPjEHlpufblYH.png"
+   }
+  },
+  {
+   "id": 177677,
+   "year": "2015",
+   "title": {
+    "fr": "Mission : Impossible - Rogue Nation",
+    "en": "Mission: Impossible - Rogue Nation",
+    "de": "Mission: Impossible - Rogue Nation",
+    "it": "Mission: Impossible - Rogue Nation",
+    "es": "Misión imposible: Nación secreta",
+    "sv": "Mission: Impossible - Rogue Nation"
+   },
+   "backdrops": [
+    "/vYIUN5rrCncHFY8WvcuXQlM4hk5.jpg"
+   ],
+   "logo": {
+    "en": "/tRwySKvciecGLk7C3A7e3WmF1dU.png",
+    "de": "/sUlDfCyOvIbhmqRVtprk0wa8kpq.png",
+    "es": "/6NmUcfuRfzHaSnS1SEZc6g27q4A.png"
+   }
+  },
+  {
+   "id": 166426,
+   "year": "2017",
+   "title": {
+    "fr": "Pirates des Caraïbes : La Vengeance de Salazar",
+    "en": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "de": "Pirates of the Caribbean - Salazars Rache",
+    "it": "Pirati dei Caraibi - La vendetta di Salazar",
+    "es": "Piratas del Caribe: La venganza de Salazar",
+    "sv": "Pirates of the Caribbean: Salazar's Revenge"
+   },
+   "backdrops": [
+    "/7C921eWK06n12c1miRXnYoEu5Yv.jpg"
+   ],
+   "logo": {
+    "fr": "/8NsMhTSiX4MjcXeIhQ7vAOJ4HyZ.png",
+    "en": "/jiImysP1u08DQThGo8i5v8oTIml.png",
+    "de": "/x7S7CpFoo9jXLmTJoULqnjIOsI9.png",
+    "it": "/dnTumW1FBJ8InOS5ZYnEPphtWw8.png",
+    "es": "/klKI0Kil5Yhd8r4QYCM7EPdzgxL.png",
+    "sv": "/konR0P6lzWXPwitYR9QGpoC0k5h.png"
+   }
+  },
+  {
+   "id": 351286,
+   "year": "2018",
+   "title": {
+    "fr": "Jurassic World : Fallen Kingdom",
+    "en": "Jurassic World: Fallen Kingdom",
+    "de": "Jurassic World - Das gefallene Königreich",
+    "it": "Jurassic World – Il regno distrutto",
+    "es": "Jurassic World: El reino caído",
+    "sv": "Jurassic World: Fallen Kingdom"
+   },
+   "backdrops": [
+    "/gBmrsugfWpiXRh13Vo3j0WW55qD.jpg"
+   ],
+   "logo": {
+    "fr": "/aYVji3qcOUpGFfzWXZXMnztvDiB.png",
+    "en": "/bKnaQuhUqXM9OxdaSPpYNm0ufLu.png",
+    "de": "/2HxQRIXNi4qY5LDhIo8XfGmNCP7.png",
+    "it": "/uJbbpr7hq091NxlXPg7A1CDSNzH.png",
+    "es": "/p3p1L8acukXzeE1kEMNxG44WZHf.png"
+   }
+  },
+  {
+   "id": 353081,
+   "year": "2018",
+   "title": {
+    "fr": "Mission : Impossible - Fallout",
+    "en": "Mission: Impossible - Fallout",
+    "de": "Mission: Impossible - Fallout",
+    "it": "Mission: Impossible - Fallout",
+    "es": "Misión: Imposible - Fallout",
+    "sv": "Mission: Impossible - Fallout"
+   },
+   "backdrops": [
+    "/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg"
+   ],
+   "logo": {
+    "en": "/w8Rdtneqi5xi5xNA1mzr5iZbRWv.png",
+    "de": "/VxtdubE8aiCzR9Yck8ByXbz2hb.png",
+    "es": "/49BHz6Yik2BWtZBxk2XQx7LfQQz.png"
+   }
+  },
+  {
+   "id": 624860,
+   "year": "2021",
+   "title": {
+    "fr": "Matrix Resurrections",
+    "en": "The Matrix Resurrections",
+    "de": "Matrix Resurrections",
+    "it": "Matrix Resurrections",
+    "es": "Matrix Resurrections",
+    "sv": "The Matrix Resurrections"
+   },
+   "backdrops": [
+    "/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg"
+   ],
+   "logo": {
+    "fr": "/gBrQCHsG0xQFedqA3gtOlHwdrjU.png",
+    "en": "/yjxeUjfIWeyIZxhNXs8TAP8kij2.png",
+    "it": "/xsdLy4gEKgP90TfBjtgzKuUhWCP.png",
+    "es": "/9wMyO0wE0ajkj7MuGoGJeDmzpTm.png"
+   }
+  },
+  {
+   "id": 507086,
+   "year": "2022",
+   "title": {
+    "fr": "Jurassic World : Le Monde d’après",
+    "en": "Jurassic World Dominion",
+    "de": "Jurassic World - Ein neues Zeitalter",
+    "it": "Jurassic World - Il dominio",
+    "es": "Jurassic World: Dominion",
+    "sv": "Jurassic World Dominion"
+   },
+   "backdrops": [
+    "/9hk5iiycq7ukRAAXQiJT9HZX3SX.jpg"
+   ],
+   "logo": {
+    "fr": "/tUNsB5v2Oj49sMZVTAeYqXS2HIn.png",
+    "en": "/1GiPcBx5rRh3F2PH4RtOQckVWw4.png",
+    "de": "/7v8DFdDd11PKDCTGCFUmUEfo5f.png",
+    "it": "/4Y0AQLAOswkl2IWR2RIAo8ecfNk.png",
+    "es": "/va5NU8qdUhy0tgwiqubC7jopEdU.png"
+   }
+  },
+  {
+   "id": 335977,
+   "year": "2023",
+   "title": {
+    "fr": "Indiana Jones et le Cadran de la destinée",
+    "en": "Indiana Jones and the Dial of Destiny",
+    "de": "Indiana Jones und das Rad des Schicksals",
+    "it": "Indiana Jones e il quadrante del destino",
+    "es": "Indiana Jones y el dial del destino",
+    "sv": "Indiana Jones and the Dial of Destiny"
+   },
+   "backdrops": [
+    "/57JocxmicOoAMhkUSmdKBlpZWMT.jpg"
+   ],
+   "logo": {
+    "fr": "/4MH3uuZ85Mxf9gXtm1mxFYLmmoa.png",
+    "en": "/sv1yS0w4Ylk1A9AvAZzMwrp2wna.png",
+    "de": "/fRi7xH6FEQ0sBlhuFQptXXOGFnc.png",
+    "it": "/dj1T9l1joqXBtGimAUPcRE4M9uQ.png",
+    "es": "/epOOxRKlKG0tfqRL8lTfZmPICNZ.png"
+   }
+  },
+  {
+   "id": 575264,
+   "year": "2023",
+   "title": {
+    "fr": "Mission : Impossible - Dead Reckoning Partie 1",
+    "en": "Mission: Impossible - Dead Reckoning Part One",
+    "de": "Mission: Impossible - Dead Reckoning Teil Eins",
+    "it": "Mission: Impossible - Dead Reckoning Parte uno",
+    "es": "Misión: Imposible - Sentencia mortal parte uno",
+    "sv": "Mission: Impossible - Dead Reckoning Part One"
+   },
+   "backdrops": [
+    "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg"
+   ],
+   "logo": {
+    "fr": "/aTDaFKvrw1fMXHE58pmCJDHd74z.png",
+    "en": "/5nhr1VPcWA8mlNDdLQ3iSYSOL5E.png",
+    "de": "/ze7Y8jSJwgpyYcb9hyExdQkoBvX.png",
+    "it": "/vNx5rzi0GmvaMJ9iibcUy1PmxtX.png",
+    "es": "/oYqZ43RXHV4F9a8TTjMK29dF8iK.png"
+   }
+  },
+  {
+   "id": 575265,
+   "year": "2025",
+   "title": {
+    "fr": "Mission : Impossible - The Final Reckoning",
+    "en": "Mission: Impossible - The Final Reckoning",
+    "de": "Mission: Impossible - The Final Reckoning",
+    "it": "Mission: Impossible - The Final Reckoning",
+    "es": "Misión: Imposible - Sentencia final",
+    "sv": "Mission: Impossible - The Final Reckoning"
+   },
+   "backdrops": [
+    "/538U9snNc2fpnOmYXAPUh3zn31H.jpg"
+   ],
+   "logo": {
+    "fr": "/yAPRkheBWvNJdXEENjIs7pkyGe7.png",
+    "en": "/7yXEfWFDGpqIfq9wdpMOHcHbi8g.png",
+    "es": "/o1aU23QSknj0xIKs9OE6W4Uhj1v.png"
+   }
+  },
+  {
+   "id": 1234821,
+   "year": "2025",
+   "title": {
+    "fr": "Jurassic World : Renaissance",
+    "en": "Jurassic World Rebirth",
+    "de": "Jurassic World: Die Wiedergeburt",
+    "it": "Jurassic World - La rinascita",
+    "es": "Jurassic World: El renacer",
+    "sv": "Jurassic World Rebirth"
+   },
+   "backdrops": [
+    "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg"
+   ],
+   "logo": {
+    "fr": "/wJOGhvce3vpkvWr1gZuMCaKNbAO.png",
+    "en": "/tO2Y6RlJuXKtzVMsRRYCGUwgP39.png",
+    "de": "/rmIgvHnNBx0USb5nC1DhbqtKfeq.png",
+    "it": "/6xjYzuWRwHV3I5cb8KcGU6zIe9G.png",
+    "es": "/aSdhD1eDGbWN0sd6IedxFBEY4cc.png"
+   }
+  }
+ ]
+}

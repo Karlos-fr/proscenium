@@ -1,0 +1,240 @@
+{
+ "id": "villeneuve",
+ "version": 1,
+ "name": {
+  "fr": "Denis Villeneuve",
+  "en": "Denis Villeneuve",
+  "de": "Denis Villeneuve",
+  "it": "Denis Villeneuve",
+  "es": "Denis Villeneuve",
+  "sv": "Denis Villeneuve"
+ },
+ "description": {
+  "fr": "Les films de Denis Villeneuve",
+  "en": "The films of Denis Villeneuve",
+  "de": "Die Filme von Denis Villeneuve",
+  "it": "I film di Denis Villeneuve",
+  "es": "Las películas de Denis Villeneuve",
+  "sv": "Denis Villeneuves filmer"
+ },
+ "films": [
+  {
+   "id": 59482,
+   "year": "1999",
+   "title": {
+    "fr": "Un 32 août sur terre",
+    "en": "August 32nd on Earth",
+    "de": "Der 32. August auf Erden",
+    "it": "Un 32 août sur terre",
+    "es": "Un 32 de agosto en la Tierra",
+    "sv": "Un 32 août sur terre"
+   },
+   "backdrops": [
+    "/2bN6fETbG97PtqI5c5XnAxFQeLA.jpg"
+   ],
+   "logo": {
+    "en": "/rVxgsxiuA9QfurjjHSJTuv29YqS.png"
+   }
+  },
+  {
+   "id": 35650,
+   "year": "2000",
+   "title": {
+    "fr": "Maelström",
+    "en": "Maelström",
+    "de": "Maelström",
+    "it": "Maelström",
+    "es": "Maelström",
+    "sv": "Maelström"
+   },
+   "backdrops": [
+    "/rxaga3bJXuwgHidnTcdwVHifLpH.jpg"
+   ],
+   "logo": {
+    "en": "/dtzNZynZVRxJJsDCQz9CisRWbyX.png"
+   }
+  },
+  {
+   "id": 22302,
+   "year": "2009",
+   "title": {
+    "fr": "Polytechnique",
+    "en": "Polytechnique",
+    "de": "Polytechnique",
+    "it": "Polytechnique",
+    "es": "Polytechnique",
+    "sv": "Polytechnique"
+   },
+   "backdrops": [
+    "/rD6VVei45TLnkCdDucJDDUmb3e3.jpg"
+   ],
+   "logo": {
+    "en": "/3lufpbP6jV0Wy39S3wPjc83kjtE.png"
+   }
+  },
+  {
+   "id": 46738,
+   "year": "2010",
+   "title": {
+    "fr": "Incendies",
+    "en": "Incendies",
+    "de": "Die Frau die singt - Incendies",
+    "it": "La donna che canta",
+    "es": "Incendios",
+    "sv": "Nawals hemlighet"
+   },
+   "backdrops": [
+    "/f3ATwil5vmUeTsogBaMEKbBYBth.jpg"
+   ],
+   "logo": {
+    "fr": "/ccep1iMPX7ma1MCli8Xg7q3BeJY.png",
+    "en": "/jDADVUZdWCTArACWXIdiedbfi1i.png",
+    "de": "/fyjbvyxt3fivqXcJc3Kfbgn6p88.png",
+    "es": "/1CaM9Z0U2KrBSns6hixWQkTzpyQ.png",
+    "sv": "/xXDihkX40bzEq1uRGMSJMvJdBQI.png"
+   }
+  },
+  {
+   "id": 146233,
+   "year": "2013",
+   "title": {
+    "fr": "Prisoners",
+    "en": "Prisoners",
+    "de": "Prisoners",
+    "it": "Prisoners",
+    "es": "Prisioneros",
+    "sv": "Prisoners"
+   },
+   "backdrops": [
+    "/3RFmTz5h2UuFWEV4oH00XICBR9y.jpg"
+   ],
+   "logo": {
+    "fr": "/kyeFmQReM4CAl5lUujiIX4aOErI.png",
+    "en": "/aKZAoC9PYqAu6auDHhi9iryj6D5.png",
+    "es": "/qGqq5zwljVKv8KIWpAwCZh5h52H.png"
+   }
+  },
+  {
+   "id": 181886,
+   "year": "2014",
+   "title": {
+    "fr": "Enemy",
+    "en": "Enemy",
+    "de": "Enemy",
+    "it": "Enemy",
+    "es": "Enemy",
+    "sv": "Enemy"
+   },
+   "backdrops": [
+    "/deYWtXTc56YdXyIuuMuA8dvBY16.jpg"
+   ],
+   "logo": {
+    "fr": "/ctMZYlBHPDk3YmE6fz4Jq053fH2.png",
+    "en": "/g8AWU6iSltRMJaa82PSOfXGglxD.png",
+    "es": "/oW5dVDKoQSHtVVvUW5AFh7WUQFM.png"
+   }
+  },
+  {
+   "id": 273481,
+   "year": "2015",
+   "title": {
+    "fr": "Sicario",
+    "en": "Sicario",
+    "de": "Sicario",
+    "it": "Sicario",
+    "es": "Sicario",
+    "sv": "Sicario"
+   },
+   "backdrops": [
+    "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg"
+   ],
+   "logo": {
+    "en": "/995VQDIxH5nKRLt5qXqmMdPj0kz.png",
+    "es": "/et8fJOy6GaxMw4MYuXdDk31PuDa.png"
+   }
+  },
+  {
+   "id": 329865,
+   "year": "2016",
+   "title": {
+    "fr": "Premier Contact",
+    "en": "Arrival",
+    "de": "Arrival",
+    "it": "Arrival",
+    "es": "La llegada",
+    "sv": "Arrival"
+   },
+   "backdrops": [
+    "/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg"
+   ],
+   "logo": {
+    "fr": "/5MVJFQdsTHIaBB9erygF3HfySju.png",
+    "en": "/rcPtxYkZ2mXmKdD0NKLzjsHxL3V.png",
+    "de": "/wlDZ8re34VOog1jVLLt8wfipQW3.png",
+    "es": "/loT4liMF2lVP9E695LGQDeLqQzP.png"
+   }
+  },
+  {
+   "id": 335984,
+   "year": "2017",
+   "title": {
+    "fr": "Blade Runner 2049",
+    "en": "Blade Runner 2049",
+    "de": "Blade Runner 2049",
+    "it": "Blade Runner 2049",
+    "es": "Blade Runner 2049",
+    "sv": "Blade Runner 2049"
+   },
+   "backdrops": [
+    "/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg"
+   ],
+   "logo": {
+    "fr": "/zHEjlHHWLK2GZX0Di1F7eKleovY.png",
+    "en": "/gUoDt6GggEFXVzdyDTyF8ggrEm8.png",
+    "es": "/ojKJKVgQ1S4ycPILfTLN5S79Fc1.png"
+   }
+  },
+  {
+   "id": 438631,
+   "year": "2021",
+   "title": {
+    "fr": "Dune",
+    "en": "Dune",
+    "de": "Dune",
+    "it": "Dune",
+    "es": "Dune",
+    "sv": "Dune"
+   },
+   "backdrops": [
+    "/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg"
+   ],
+   "logo": {
+    "fr": "/zVpR9hgzpTisBffuIVEyHoRntoa.png",
+    "en": "/hlnyMaUxeFJTb3QL1hKpHwhWowC.png",
+    "it": "/6rJJKCfcGIwiZAg7NegVocYvKK0.png",
+    "es": "/df7iykrBvhHcDE38CNXOb8WcSuP.png"
+   }
+  },
+  {
+   "id": 693134,
+   "year": "2024",
+   "title": {
+    "fr": "Dune : Deuxième partie",
+    "en": "Dune: Part Two",
+    "de": "Dune: Part Two",
+    "it": "Dune - Parte due",
+    "es": "Dune: Parte dos",
+    "sv": "Dune: Part Two"
+   },
+   "backdrops": [
+    "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg"
+   ],
+   "logo": {
+    "fr": "/tzMKt98RSQFzQ3yuVqCEhAqcM3K.png",
+    "en": "/eYvF1LhPKuoBxOAmWjFTAK7EPWl.png",
+    "it": "/6FliKORjKubakqXp3STAVSH2CXe.png",
+    "es": "/fRTIOPWDHS2fgfcYJTsQlHsO1Z3.png"
+   }
+  }
+ ]
+}

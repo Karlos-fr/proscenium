@@ -1,3 +1,6 @@
+17 new backdrop packs (20 in all) and pack updates.
+Getting started screen on first launch.
+Screensaver on/off option.
 Update check: Proscenium looks for a new version on GitHub once a day and installs it from Settings → System → Update.
 New signing key: uninstall version 1.0 before installing 1.1 (once only).
 MIT licence.
