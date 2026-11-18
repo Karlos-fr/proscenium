@@ -466,7 +466,7 @@
     <string name="key_page_ok">Nyckeln är kontrollerad och sparad på TV:n. Du kan stänga sidan.</string>
     <string name="key_page_bad">TMDB avvisade nyckeln. Kontrollera den och försök igen.</string>
     <string name="key_page_expired">Sidan har gått ut: visa QR-koden på TV:n igen.</string>
-    <string name="sec_updates">Uppdateringar</string>
+    <string name="sec_updates">UPPDATERINGAR</string>
     <string name="act_update">Uppdatering</string>
     <string name="help_update">Söker efter en ny version av Proscenium på GitHub. Om det finns en laddar OK ner den och Android ber dig bekräfta installationen. Dina inställningar behålls.</string>
     <string name="set_update_check">Kontrollera varje dag</string>

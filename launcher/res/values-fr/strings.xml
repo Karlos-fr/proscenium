@@ -465,7 +465,7 @@
     <string name="key_page_ok">Clé vérifiée et enregistrée sur la TV. Vous pouvez fermer cette page.</string>
     <string name="key_page_bad">TMDB a refusé cette clé. Vérifiez-la et réessayez.</string>
     <string name="key_page_expired">Cette page a expiré : affichez de nouveau le QR code sur la TV.</string>
-    <string name="sec_updates">Mises à jour</string>
+    <string name="sec_updates">MISES À JOUR</string>
     <string name="act_update">Mise à jour</string>
     <string name="help_update">Cherche une nouvelle version de Proscenium sur GitHub. Quand il y en a une, OK la télécharge et Android vous demande de confirmer l\'installation. Vos réglages sont conservés.</string>
     <string name="set_update_check">Vérifier chaque jour</string>

@@ -465,7 +465,7 @@
     <string name="key_page_ok">Chiave verificata e salvata sulla TV. Puoi chiudere questa pagina.</string>
     <string name="key_page_bad">TMDB ha rifiutato questa chiave. Controllala e riprova.</string>
     <string name="key_page_expired">Questa pagina è scaduta: mostra di nuovo il codice QR sulla TV.</string>
-    <string name="sec_updates">Aggiornamenti</string>
+    <string name="sec_updates">AGGIORNAMENTI</string>
     <string name="act_update">Aggiornamento</string>
     <string name="help_update">Cerca su GitHub una nuova versione di Proscenium. Se ce n\'è una, OK la scarica e Android chiede di confermare l\'installazione. Le impostazioni vengono mantenute.</string>
     <string name="set_update_check">Controlla ogni giorno</string>

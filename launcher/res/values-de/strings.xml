@@ -465,7 +465,7 @@
     <string name="key_page_ok">Schlüssel geprüft und auf dem Fernseher gespeichert. Sie können diese Seite schließen.</string>
     <string name="key_page_bad">TMDB hat diesen Schlüssel abgelehnt. Bitte prüfen und erneut versuchen.</string>
     <string name="key_page_expired">Diese Seite ist abgelaufen: QR-Code auf dem Fernseher erneut anzeigen.</string>
-    <string name="sec_updates">Updates</string>
+    <string name="sec_updates">UPDATES</string>
     <string name="act_update">Update</string>
     <string name="help_update">Sucht auf GitHub nach einer neuen Version von Proscenium. Ist eine verfügbar, lädt OK sie herunter und Android fragt nach einer Bestätigung der Installation. Deine Einstellungen bleiben erhalten.</string>
     <string name="set_update_check">Täglich prüfen</string>
