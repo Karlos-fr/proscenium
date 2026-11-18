@@ -80,13 +80,17 @@ final class WeatherGpu {
             "  float3 col = float3(0.0); float a = 0.0;",
             // Brume : deux nappes qui dérivent à des vitesses différentes, plus denses vers le bas
             "  if (fog > 0.0) {",
-            "    float2 q = xy / (420.0 * unit);",
+            "    float2 q = xy / (520.0 * unit);",
             "    float ft = time * fogSpeed;",
-            "    float n = fbm(q + float2(ft * 0.018, ft * 0.004)) * 0.6 + fbm(q * 1.9 - float2(ft * 0.031, 0.0)) * 0.4;",
+            // Deux nappes : au loin, lente et fine ; devant, plus large, plus rapide et plus contrastée
+            "    float n1 = fbm(q * 0.8 + float2(ft * 0.035, ft * 0.006));",
+            "    float n2 = fbm(q * 0.45 - float2(ft * 0.07, -ft * 0.01) + float2(7.3, 2.1));",
+            "    float wisps = smoothstep(0.3, 0.75, n1) * 0.55 + smoothstep(0.35, 0.8, n2) * 0.65;",
             "    float lowAmt = clamp(0.65 * fogLow, 0.0, 1.0);",
             "    float low = 1.0 - lowAmt + lowAmt * smoothstep(0.1, 1.0, xy.y / size.y);",
-            "    float fa = clamp(fog * low * smoothstep(0.22, 0.8, n), 0.0, 0.85);",
-            "    float3 fc = mix(float3(0.74, 0.77, 0.80), scene + 0.25, 0.35) * (0.55 + 0.6 * lum) + flash * 0.8;",
+            // Un voile uniforme baisse le contraste et les couleurs partout, les nappes passent devant
+            "    float fa = clamp(fog * (0.28 + wisps) * low, 0.0, 0.9);",
+            "    float3 fc = mix(float3(0.80, 0.83, 0.86), float3(lum) + 0.3, 0.3) + flash * 0.8;",
             "    col = fc * fa; a = fa;",
             "  }",
             // Neige : petits flocons nets au loin, gros flocons flous tout près (hors de la mise au point)

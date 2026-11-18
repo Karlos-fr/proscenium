@@ -67,6 +67,11 @@ final class WeatherFx extends View {
     private float windX, gust = 1f;
     /** Horloge des rafales, en secondes. */
     private float windClock;
+    /**
+     * Bourrasque en cours : poussée de côté (signée), instant de début, durées de montée, de maintien
+     * et de retombée (secondes), et délai avant la suivante.
+     */
+    private float gustAmp, gustStart = -100f, gustRise, gustHold, gustFall, nextGust = 2f;
     private boolean lens = true, running;
 
     /** Réglages fins de chaque météo (sous-menu Réglages de la météo), lus à chaque image. */
@@ -357,6 +362,7 @@ final class WeatherFx extends View {
      */
     private void step(float aspect) {
         windClock += 1f / 60f;
+        updateGust();
         boolean snow = kind == SNOW;
         float rate = (snow ? 0.035f * st.snowLens.f() : 0.09f * (kind == STORM ? st.stormDrops.f() : st.rainDrops.f()))
                 * amount;
@@ -401,12 +407,46 @@ final class WeatherFx extends View {
         }
     }
 
+    /**
+     * Bourrasques : de brusques coups de vent, d'autant plus forts et fréquents que les rafales
+     * annoncées dépassent le vent moyen. Montée en un dixième de seconde, maintien, retombée, avec un
+     * léger battement ; le plus souvent dans le sens du vent, parfois à contresens (tourbillon).
+     */
+    private void updateGust() {
+        if (windClock < nextGust) return;
+        float strength = Math.max(0.25f, Math.min(2f, gust - 1f));
+        float dir = Math.abs(windX) > 0.05f ? Math.signum(windX) : (random.nextBoolean() ? 1f : -1f);
+        if (random.nextFloat() < 0.25f) dir = -dir;
+        gustAmp = dir * strength * (0.6f + 0.8f * random.nextFloat());
+        gustStart = windClock;
+        gustRise = 0.08f + 0.08f * random.nextFloat();
+        gustHold = 0.2f + 0.6f * random.nextFloat();
+        gustFall = 0.3f + 0.4f * random.nextFloat();
+        // Plus les rafales sont fortes, plus elles se suivent de près
+        nextGust = windClock + gustRise + gustHold + gustFall + (2f + 7f * random.nextFloat()) / (0.6f + strength);
+    }
+
+    /** Poussée de la bourrasque à cet instant (0 hors bourrasque). */
+    private float gustNow() {
+        float t = windClock - gustStart;
+        float env;
+        if (t < 0) return 0f;
+        if (t < gustRise) env = t / gustRise;
+        else if (t < gustRise + gustHold) env = 1f;
+        else if (t < gustRise + gustHold + gustFall) env = 1f - (t - gustRise - gustHold) / gustFall;
+        else return 0f;
+        return gustAmp * env * (1f + 0.25f * (float) Math.sin(t * 57f));
+    }
+
     private void slide(Drop d, float aspect) {
         // L'humidité de l'air et la pluie fine font grossir lentement chaque goutte
         d.radius = Math.min(d.radius + 0.000008f * amount, MAX_RADIUS);
+        float windEffect = kind == SNOW ? st.snowWind.f() : st.rainWind.f();
         if (d.radius < SLIDE_RADIUS) {
             d.vy = 0;
             d.vx = 0;
+            // Une bourrasque fait frémir et décale un peu les gouttes moyennes posées
+            if (d.radius > SLIDE_RADIUS * 0.6f) d.x += gustNow() * windEffect * 0.0012f / aspect;
             return;
         }
         if (d.stuck > 0) {
@@ -422,13 +462,13 @@ final class WeatherFx extends View {
         }
         d.vx *= 0.92f;
         // Le vent la pousse de côté, plus fort pendant les rafales (deux oscillations lentes mêlées)
-        float burst = Math.max(0f, (float) (Math.sin(windClock * 0.71f) * Math.sin(windClock * 1.93f + 1.3f)));
-        float push = windX * 0.9f * (1f + (gust - 1f) * burst) * (kind == SNOW ? st.snowWind.f() : st.rainWind.f());
+        // Vent moyen, plus la bourrasque : elle change net la direction de la goutte
+        float push = (windX * 0.9f + gustNow() * 1.3f) * windEffect;
         float dx = d.vx + push * d.vy;
         d.y += d.vy;
         d.x += dx / aspect;
         // Sens de la glisse, lissé : la goutte et sa traînée s'orientent dans ce sens
-        if (d.vy > 0.0004f) d.angle += ((float) Math.atan2(dx, d.vy) - d.angle) * 0.15f;
+        if (d.vy > 0.0004f) d.angle += ((float) Math.atan2(dx, d.vy) - d.angle) * 0.3f;
         if (d.vy < 0.0004f) return;
         // Elle avale les gouttes et gouttelettes qu'elle touche
         for (int j = 0; j < dropCount; j++) {
