@@ -79,6 +79,21 @@ final class WeatherStyles {
         void reset() {
             applyPreset(reference);
         }
+
+        /**
+         * Valeurs au hasard, dans une plage qui reste crédible (de 30 à 220 %, par pas de 10) ;
+         * une couleur au hasard parmi celles proposées.
+         */
+        void randomize(java.util.Random r) {
+            for (Param p : params) {
+                if (p.labels.length > 0) {
+                    p.value = r.nextInt(p.labels.length);
+                } else {
+                    int lo = Math.max(p.min, 30), hi = Math.min(p.max, 220);
+                    p.value = lo + r.nextInt((hi - lo) / 10 + 1) * 10;
+                }
+            }
+        }
     }
 
     // ---------------------------------------------------------------- Pluie : gouttes sur l'écran

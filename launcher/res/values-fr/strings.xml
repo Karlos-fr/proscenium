@@ -50,9 +50,6 @@
     <string name="sec_scroll">DÉFILEMENT</string>
     <string name="sec_glass_engine">VERRE RÉFRACTIF</string>
     <string name="sec_glass_appearance">APPARENCE</string>
-    <string name="sec_calm">EAU CALME</string>
-    <string name="sec_liquid">LIQUIDE</string>
-    <string name="sec_rain">PLUIE</string>
     <string name="sec_weather">MÉTÉO</string>
     <string name="sec_time">HEURE</string>
     <string name="sec_header">BANDEAU</string>
@@ -580,4 +577,13 @@
     <string name="help_wx_drift">Vitesse à laquelle la brume traverse l\'écran.</string>
     <string name="wx_low">Au ras du sol</string>
     <string name="help_wx_low">Plus haut : la brume se rassemble en bas de l\'image.</string>
+    <string name="sec_glass_anims">ANIMATIONS</string>
+    <string name="glass_calm">Eau calme</string>
+    <string name="glass_liquid">Liquide</string>
+    <string name="help_glass_calm">Ondulations lentes et douces sur le verre.</string>
+    <string name="help_glass_liquid">Vagues plus fortes et fluides, comme si le verre était liquide.</string>
+    <string name="help_glass_rain">Gouttes qui tombent sur le verre, avec des anneaux autour de chaque impact.</string>
+    <string name="act_random_values">Valeurs aléatoires</string>
+    <string name="help_random_glass_effect">Tire au hasard tous les réglages de cette animation et l\'active.</string>
+    <string name="help_random_weather">Tire au hasard tous les réglages de cette météo, dans des limites crédibles.</string>
 </resources>

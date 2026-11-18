@@ -123,7 +123,12 @@ final class GlassSettings {
     }
 
     void randomizeAppearance(Random r) {
-        for (Param p : appearance) p.set(p.min + r.nextInt(p.max - p.min + 1));
+        randomize(appearance, r);
+    }
+
+    /** Valeurs au hasard pour un groupe de réglages (apparence ou une animation). */
+    static void randomize(Param[] group, Random r) {
+        for (Param p : group) p.set(p.min + r.nextInt(p.max - p.min + 1));
     }
 
     void resetAll() {

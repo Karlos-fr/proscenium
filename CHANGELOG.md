@@ -30,14 +30,15 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   a shortcut to Android's screensaver settings (ambient mode on Google TV, where a third-party
   screensaver is chosen once with adb, see the README).
 - Living weather (Settings → Home → Weather): when it rains at your town, drops land on the screen as
-  on a window, slide down in fits and starts, pushed sideways by the wind and its gusts, and leave
-  a wet trail; storms add lightning that lights
-  the picture, snow falls and its flakes melt on the screen, fog drifts slowly. It can follow the real
-  weather, always show the same weather, or be turned off (Android 13 and later for the drops).
+  on a window (out of focus at first, then sharp, squashed by the impact), slide down in fits and
+  starts, pushed sideways by the wind and its gusts, and leave a wet trail; storms add lightning that
+  lights the picture, snow falls and its flakes melt on the screen, fog drifts slowly. It can follow
+  the real weather, always show the same weather, or be turned off (Android 13 and later for the drops).
 - Weather settings (Settings → Home → Weather → Weather settings): a page per weather with presets
   (drizzle to downpour, four storms from the Platformer lightning studio, light flurries to blizzard,
   mist to pea-souper) and fine settings, previewed live on the backdrop. Lightning is drawn as
   branching fractal bolts that strike, flicker and light up the picture.
+- "Random values" on each weather page, within believable limits.
 - TMDB logo next to the TMDB notice (Films (TMDB) tab and System → About), as TMDB's terms ask.
 - README: demo video, screenshots and a short FAQ (Fire TV, Home button, TMDB key, data use).
 - Obtainium support (the GitHub releases page is the source) and store metadata for IzzyOnDroid.
@@ -46,6 +47,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
 ### Changed
 
 - New release signing key (CN=Proscenium). Later versions install over 1.1 directly.
+- Glass: the three animations (calm water, liquid, rain) each have their own sub-menu, with a
+  "Random values" button that also turns the animation on.
 
 ## [1.0] — 2026-11-17
 

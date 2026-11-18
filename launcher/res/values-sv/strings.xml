@@ -50,9 +50,6 @@
     <string name="sec_scroll">BLÄDDRING</string>
     <string name="sec_glass_engine">BRYTANDE GLAS</string>
     <string name="sec_glass_appearance">UTSEENDE</string>
-    <string name="sec_calm">STILLA VATTEN</string>
-    <string name="sec_liquid">VÄTSKA</string>
-    <string name="sec_rain">REGN</string>
     <string name="sec_weather">VÄDER</string>
     <string name="sec_time">TID</string>
     <string name="sec_header">TOPPFÄLT</string>
@@ -581,4 +578,13 @@
     <string name="help_wx_drift">Hur snabbt dimman driver över skärmen.</string>
     <string name="wx_low">Marknära</string>
     <string name="help_wx_low">Högre: dimman samlas längst ner i bilden.</string>
+    <string name="sec_glass_anims">ANIMATIONER</string>
+    <string name="glass_calm">Stilla vatten</string>
+    <string name="glass_liquid">Flytande</string>
+    <string name="help_glass_calm">Långsamma, mjuka krusningar över glaset.</string>
+    <string name="help_glass_liquid">Starkare, flytande vågor, som om glaset vore flytande.</string>
+    <string name="help_glass_rain">Droppar som faller på glaset, med ringar kring varje nedslag.</string>
+    <string name="act_random_values">Slumpvärden</string>
+    <string name="help_random_glass_effect">Slumpar alla inställningar för denna animation och slår på den.</string>
+    <string name="help_random_weather">Slumpar alla inställningar för detta väder, inom trovärdiga gränser.</string>
 </resources>

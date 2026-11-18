@@ -50,9 +50,6 @@
     <string name="sec_scroll">DESPLAZAMIENTO</string>
     <string name="sec_glass_engine">CRISTAL REFRACTANTE</string>
     <string name="sec_glass_appearance">APARIENCIA</string>
-    <string name="sec_calm">AGUA EN CALMA</string>
-    <string name="sec_liquid">LÍQUIDO</string>
-    <string name="sec_rain">LLUVIA</string>
     <string name="sec_weather">TIEMPO</string>
     <string name="sec_time">HORA</string>
     <string name="sec_header">CABECERA</string>
@@ -580,4 +577,13 @@
     <string name="help_wx_drift">Velocidad a la que la niebla cruza la pantalla.</string>
     <string name="wx_low">A ras de suelo</string>
     <string name="help_wx_low">Más alto: la niebla se acumula en la parte baja de la imagen.</string>
+    <string name="sec_glass_anims">ANIMACIONES</string>
+    <string name="glass_calm">Agua en calma</string>
+    <string name="glass_liquid">Líquido</string>
+    <string name="help_glass_calm">Ondulaciones lentas y suaves sobre el cristal.</string>
+    <string name="help_glass_liquid">Ondas más fuertes y fluidas, como si el cristal fuera líquido.</string>
+    <string name="help_glass_rain">Gotas que caen sobre el cristal, con anillos alrededor de cada impacto.</string>
+    <string name="act_random_values">Valores aleatorios</string>
+    <string name="help_random_glass_effect">Sortea todos los ajustes de esta animación y la activa.</string>
+    <string name="help_random_weather">Sortea todos los ajustes de este tiempo, dentro de límites creíbles.</string>
 </resources>

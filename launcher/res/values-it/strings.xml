@@ -50,9 +50,6 @@
     <string name="sec_scroll">SCORRIMENTO</string>
     <string name="sec_glass_engine">VETRO RIFRATTIVO</string>
     <string name="sec_glass_appearance">ASPETTO</string>
-    <string name="sec_calm">ACQUA CALMA</string>
-    <string name="sec_liquid">LIQUIDO</string>
-    <string name="sec_rain">PIOGGIA</string>
     <string name="sec_weather">METEO</string>
     <string name="sec_time">ORA</string>
     <string name="sec_header">INTESTAZIONE</string>
@@ -580,4 +577,13 @@
     <string name="help_wx_drift">Velocità con cui la nebbia attraversa lo schermo.</string>
     <string name="wx_low">Rasoterra</string>
     <string name="help_wx_low">Più alto: la nebbia si raccoglie in basso nell\'immagine.</string>
+    <string name="sec_glass_anims">ANIMAZIONI</string>
+    <string name="glass_calm">Acqua calma</string>
+    <string name="glass_liquid">Liquido</string>
+    <string name="help_glass_calm">Ondulazioni lente e delicate sul vetro.</string>
+    <string name="help_glass_liquid">Onde più forti e fluide, come se il vetro fosse liquido.</string>
+    <string name="help_glass_rain">Gocce che cadono sul vetro, con anelli intorno a ogni impatto.</string>
+    <string name="act_random_values">Valori casuali</string>
+    <string name="help_random_glass_effect">Estrae a caso tutte le impostazioni di questa animazione e la attiva.</string>
+    <string name="help_random_weather">Estrae a caso tutte le impostazioni di questo meteo, entro limiti credibili.</string>
 </resources>

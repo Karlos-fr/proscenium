@@ -50,9 +50,6 @@
     <string name="sec_scroll">SCROLLING</string>
     <string name="sec_glass_engine">REFRACTIVE GLASS</string>
     <string name="sec_glass_appearance">APPEARANCE</string>
-    <string name="sec_calm">CALM WATER</string>
-    <string name="sec_liquid">LIQUID</string>
-    <string name="sec_rain">RAIN</string>
     <string name="sec_weather">WEATHER</string>
     <string name="sec_time">TIME</string>
     <string name="sec_header">HEADER</string>
@@ -580,4 +577,13 @@
     <string name="help_wx_drift">How fast the mist drifts across the screen.</string>
     <string name="wx_low">Low-lying</string>
     <string name="help_wx_low">Higher: the mist gathers at the bottom of the picture.</string>
+    <string name="sec_glass_anims">ANIMATIONS</string>
+    <string name="glass_calm">Calm water</string>
+    <string name="glass_liquid">Liquid</string>
+    <string name="help_glass_calm">Slow, gentle ripples across the glass.</string>
+    <string name="help_glass_liquid">Stronger, flowing waves, as if the glass were liquid.</string>
+    <string name="help_glass_rain">Drops falling on the glass, with rings spreading from each impact.</string>
+    <string name="act_random_values">Random values</string>
+    <string name="help_random_glass_effect">Draws random values for every setting of this animation and turns it on.</string>
+    <string name="help_random_weather">Draws random values for every setting of this weather, within believable limits.</string>
 </resources>

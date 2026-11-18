@@ -50,9 +50,6 @@
     <string name="sec_scroll">SCROLLEN</string>
     <string name="sec_glass_engine">BRECHENDES GLAS</string>
     <string name="sec_glass_appearance">ERSCHEINUNGSBILD</string>
-    <string name="sec_calm">RUHIGES WASSER</string>
-    <string name="sec_liquid">FLÜSSIGKEIT</string>
-    <string name="sec_rain">REGEN</string>
     <string name="sec_weather">WETTER</string>
     <string name="sec_time">ZEIT</string>
     <string name="sec_header">KOPFZEILE</string>
@@ -580,4 +577,13 @@
     <string name="help_wx_drift">Wie schnell der Nebel über den Bildschirm zieht.</string>
     <string name="wx_low">Bodennah</string>
     <string name="help_wx_low">Höher: Der Nebel sammelt sich unten im Bild.</string>
+    <string name="sec_glass_anims">ANIMATIONEN</string>
+    <string name="glass_calm">Ruhiges Wasser</string>
+    <string name="glass_liquid">Flüssig</string>
+    <string name="help_glass_calm">Langsame, sanfte Wellen über das Glas.</string>
+    <string name="help_glass_liquid">Stärkere, fließende Wellen, als wäre das Glas flüssig.</string>
+    <string name="help_glass_rain">Tropfen, die auf das Glas fallen, mit Ringen um jeden Aufprall.</string>
+    <string name="act_random_values">Zufallswerte</string>
+    <string name="help_random_glass_effect">Würfelt alle Einstellungen dieser Animation neu und schaltet sie ein.</string>
+    <string name="help_random_weather">Würfelt alle Einstellungen dieses Wetters in glaubwürdigen Grenzen neu.</string>
 </resources>

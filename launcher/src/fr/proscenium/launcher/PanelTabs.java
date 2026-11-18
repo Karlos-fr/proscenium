@@ -256,15 +256,35 @@ abstract class PanelTabs extends PanelCore {
             g.randomizeAppearance(random);
             glassChanged();
         }));
-        section(R.string.sec_calm);
-        content.addView(glassToggle(() -> g.calmOn, v -> g.calmOn = v));
-        for (GlassSettings.Param p : g.calm) content.addView(glassParam(p));
-        section(R.string.sec_liquid);
-        content.addView(glassToggle(() -> g.liquidOn, v -> g.liquidOn = v));
-        for (GlassSettings.Param p : g.liquid) content.addView(glassParam(p));
-        section(R.string.sec_rain);
-        content.addView(glassToggle(() -> g.rainOn, v -> g.rainOn = v));
-        for (GlassSettings.Param p : g.rain) content.addView(glassParam(p));
+        // Les trois animations, chacune dans son sous-menu
+        section(R.string.sec_glass_anims);
+        glassEffectRow("glass:calm", R.string.glass_calm, R.string.help_glass_calm, () -> g.calmOn, v -> g.calmOn = v, g.calm);
+        glassEffectRow("glass:liquid", R.string.glass_liquid, R.string.help_glass_liquid, () -> g.liquidOn,
+                v -> g.liquidOn = v, g.liquid);
+        glassEffectRow("glass:rain", R.string.fx_rain, R.string.help_glass_rain, () -> g.rainOn, v -> g.rainOn = v, g.rain);
+    }
+
+    /** Ligne d'une animation du verre : son état, et OK ouvre son sous-menu. */
+    void glassEffectRow(String tag, int name, int help, BoolGet get, BoolSet set, GlassSettings.Param[] params) {
+        Row r = row(name, help, R.string.badge_cpu, () -> onOff(get.get()) + "  ›", null,
+                () -> openPage(() -> showGlassEffect(name, get, set, params)), null);
+        r.setTag(tag);
+        content.addView(r);
+    }
+
+    /** Sous-menu d'une animation du verre : marche / arrêt, ses réglages, des valeurs au hasard. */
+    void showGlassEffect(int name, BoolGet get, BoolSet set, GlassSettings.Param[] params) {
+        clearContent();
+        pageTitle(ctx.getString(name), 0);
+        content.addView(glassToggle(get, set));
+        for (GlassSettings.Param p : params) content.addView(glassParam(p));
+        section(0);
+        content.addView(action(R.string.act_random_values, R.string.help_random_glass_effect, null, () -> {
+            GlassSettings.randomize(params, random);
+            set.set(true);
+            glassChanged();
+        }));
+        focusFirstRow();
     }
 
     void buildHome(List<Settings.Item> r) {
@@ -533,6 +553,8 @@ abstract class PanelTabs extends PanelCore {
             content.addView(r);
         }
         section(0);
+        content.addView(action(R.string.act_random_values, R.string.help_random_weather, null,
+                () -> { w.randomize(random); weatherStylesChanged(); }));
         content.addView(action(R.string.act_reset_weather, R.string.help_reset_weather, null,
                 () -> { w.reset(); weatherStylesChanged(); }));
         focusFirstRow();
