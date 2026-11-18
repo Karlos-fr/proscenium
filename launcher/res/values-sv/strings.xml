@@ -482,4 +482,21 @@
     <string name="update_signature">Den här versionen är signerad med en annan nyckel: avinstallera Proscenium och installera den sedan från GitHub.</string>
     <string name="update_permission">Tillåt Proscenium att installera appar på sidan som just öppnades och tryck sedan på OK igen.</string>
     <string name="update_toast">Proscenium %1$s finns: Inställningar → System → Uppdatering</string>
+    <string name="act_update_packs">Uppdatera installerade paket</string>
+    <string name="help_update_packs">Nya filmer har lagts till i några av dina paket. OK laddar ner dem; filmerna du redan har förblir oförändrade.</string>
+    <string name="packs_update">uppdatering finns</string>
+    <string name="welcome_title">Välkommen till Proscenium</string>
+    <string name="hint_welcome">Några inställningar för att komma igång. Du kan ändra allt senare i inställningarna.</string>
+    <string name="act_welcome_packs">Välj bakgrunder</string>
+    <string name="help_welcome_packs">Installera ett filmpaket med ett klick: dess bilder fyller startskärmen. Ingen TMDB-nyckel behövs.</string>
+    <string name="act_welcome_done">Sätt igång</string>
+    <string name="help_welcome_done">Stänger den här skärmen. Du hittar den igen under Inställningar → System → Kom igång.</string>
+    <string name="act_welcome">Kom igång</string>
+    <string name="help_welcome">Öppnar startskärmen från första starten igen: språk, ort, bakgrunder och hemknappen.</string>
+    <string name="sec_screensaver">SKÄRMSLÄCKARE</string>
+    <string name="set_screensaver">Proscenium som skärmsläckare</string>
+    <string name="help_screensaver">Erbjuder Proscenium som Androids skärmsläckare (bakgrunder, titel och klocka). Avstängd försvinner den ur Androids lista och Android använder sin egen.</string>
+    <string name="act_dream_settings">Androids skärmsläckare</string>
+    <string name="help_dream_settings">Öppnar Androids inställningar för skärmsläckare. Google TV erbjuder bara sina egna där: Proscenium väljs en gång från en dator (se README).</string>
+    <string name="dream_none">Ingen</string>
 </resources>

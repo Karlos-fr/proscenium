@@ -38,6 +38,10 @@ entirely with the remote.
 To open the settings, select the time and weather header (arrow up, then OK), or use the menu of
 an app in the bar.
 
+The first time, a **Getting started** screen helps you choose the language, the town for the
+weather, a backdrop pack and the Home button service. It is still there later, in
+**Settings → System → Getting started**.
+
 ### Updates
 
 Proscenium checks GitHub for a new version once a day and lets you know. To install it, open
@@ -89,6 +93,10 @@ title and the header can all be adjusted.
 Proscenium can also be used as the **Android screensaver**: pick it in Android's settings, under
 Screen saver.
 
+On Google TV, Android only lists Google's own screensavers. Choose Proscenium once from a
+computer, with [adb](https://developer.android.com/tools/adb) connected to the TV:
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Settings → Cinema mode → Screensaver** turns it on or off.
+
 ## Your backdrops: playlists and packs
 
 The home screen pictures come either from **Bing's photos of the day** or from **your playlists**
@@ -102,6 +110,9 @@ of films.
   to show.
 - **Trending now**: a playlist that updates itself every day with the films of the moment.
 - Several playlists can be active at the same time: their backdrops are mixed.
+- **Pack updates**: when films are added to a pack, the pack shows "update available" and
+  **Update installed packs** downloads the new films. Anyone can suggest a pack: see
+  [packs/README.md](packs/README.md).
 
 The pictures come from [The Movie Database (TMDB)](https://www.themoviedb.org). You can show only
 backdrops without text and in Full HD.

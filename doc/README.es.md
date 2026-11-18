@@ -39,6 +39,10 @@ con el mando a distancia.
 Los ajustes se abren seleccionando el banner de la hora y el tiempo (flecha hacia arriba, luego OK),
 o desde el menú de una app de la barra.
 
+La primera vez, una pantalla de **Primeros pasos** ayuda a elegir el idioma, la ciudad del
+tiempo, un pack de fondos y el servicio del botón de inicio. Sigue disponible después en
+**Ajustes → Sistema → Primeros pasos**.
+
 ### Actualizaciones
 
 Proscenium comprueba una vez al día si hay una nueva versión en GitHub y te avisa. Para instalarla,
@@ -92,6 +96,10 @@ bandas, el título y el banner son ajustables.
 Proscenium también puede servir de **salvapantallas de Android**: elígelo en los ajustes de Android,
 en el apartado Salvapantallas.
 
+En Google TV, Android solo muestra los salvapantallas de Google. Elige Proscenium una vez desde
+un ordenador, con [adb](https://developer.android.com/tools/adb) conectado al televisor:
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Ajustes → Modo cine → Salvapantallas** lo activa o lo desactiva.
+
 ## Tus fondos: listas y packs
 
 Las imágenes de la pantalla de inicio vienen de las **fotos de Bing del día** o de **tus listas** de
@@ -106,6 +114,9 @@ películas.
 - **Tendencias del momento**: una lista que se actualiza sola cada día con las películas del
   momento.
 - Varias listas pueden estar activas a la vez: sus fondos se mezclan.
+- **Actualizaciones de packs**: cuando se añaden películas a un pack, muestra "actualización
+  disponible" y **Actualizar los packs instalados** descarga las nuevas películas. Cualquiera puede
+  proponer un pack: ver [packs/README.md](../packs/README.md).
 
 Las imágenes vienen de [The Movie Database (TMDB)](https://www.themoviedb.org). Puedes mostrar solo
 los fondos sin texto y en Full HD.

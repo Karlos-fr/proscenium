@@ -227,9 +227,24 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         dock.post(this::updateGlassLenses);
         // Après un changement de langue ou de structure, on revient dans le panneau, sur le même onglet
         int reopen = prefs.getInt(PREF_REOPEN_TAB, -1);
+        boolean welcome = prefs.getBoolean(PREF_REOPEN_WELCOME, false);
         if (reopen >= 0) {
-            prefs.edit().remove(PREF_REOPEN_TAB).apply();
-            ui.postDelayed(() -> openPanel(reopen), 300);
+            prefs.edit().remove(PREF_REOPEN_TAB).remove(PREF_REOPEN_WELCOME).apply();
+            ui.postDelayed(() -> {
+                openPanel(reopen);
+                if (welcome) panel.openWelcome();
+            }, 300);
+        } else if (!prefs.getBoolean(PanelTabs.PREF_WELCOME_DONE, false)) {
+            // Premier lancement : les Premiers pas. Une installation déjà garnie (mise à jour,
+            // réglages importés) n'en a pas besoin.
+            boolean configured = prefs.contains("imported_at");
+            for (Playlists.Playlist p : Playlists.all(this)) configured |= !p.films.isEmpty();
+            if (configured) prefs.edit().putBoolean(PanelTabs.PREF_WELCOME_DONE, true).apply();
+            else ui.postDelayed(() -> {
+                if (panel.isOpen()) return;
+                openPanel(PanelCore.TAB_SYSTEM);
+                panel.openWelcome();
+            }, 1500);
         }
     }
 
@@ -459,7 +474,8 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
     }
 
     void reopenAfterRecreate() {
-        prefs.edit().putInt(PREF_REOPEN_TAB, panel.isOpen() ? panel.currentTab() : -1).apply();
+        prefs.edit().putInt(PREF_REOPEN_TAB, panel.isOpen() ? panel.currentTab() : -1)
+                .putBoolean(PREF_REOPEN_WELCOME, panel.onWelcome()).apply();
         if (!panel.isOpen()) prefs.edit().remove(PREF_REOPEN_TAB).apply();
         ui.post(this::recreate);
     }

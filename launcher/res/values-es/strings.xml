@@ -481,4 +481,21 @@
     <string name="update_signature">Esta versión está firmada con otra clave: desinstala Proscenium y luego instálala desde GitHub.</string>
     <string name="update_permission">Permite que Proscenium instale aplicaciones en la página que se acaba de abrir y vuelve a pulsar OK.</string>
     <string name="update_toast">Proscenium %1$s está disponible: Ajustes → Sistema → Actualización</string>
+    <string name="act_update_packs">Actualizar los packs instalados</string>
+    <string name="help_update_packs">Se han añadido películas a algunos de tus packs. OK las descarga; las películas que ya tienes no cambian.</string>
+    <string name="packs_update">actualización disponible</string>
+    <string name="welcome_title">Bienvenido a Proscenium</string>
+    <string name="hint_welcome">Unos ajustes para empezar. Podrás cambiarlo todo más tarde en los ajustes.</string>
+    <string name="act_welcome_packs">Elegir fondos</string>
+    <string name="help_welcome_packs">Instala un pack de películas con un clic: sus imágenes llenan la pantalla de inicio. No hace falta clave de TMDB.</string>
+    <string name="act_welcome_done">Empezar</string>
+    <string name="help_welcome_done">Cierra esta pantalla. La encontrarás de nuevo en Ajustes → Sistema → Primeros pasos.</string>
+    <string name="act_welcome">Primeros pasos</string>
+    <string name="help_welcome">Vuelve a abrir la pantalla del primer inicio: idioma, ciudad, fondos y botón de inicio.</string>
+    <string name="sec_screensaver">SALVAPANTALLAS</string>
+    <string name="set_screensaver">Salvapantallas Proscenium</string>
+    <string name="help_screensaver">Ofrece Proscenium como salvapantallas de Android (fondos, título y reloj). Desactivado, desaparece de la lista de Android, que usa su propio salvapantallas.</string>
+    <string name="act_dream_settings">Salvapantallas de Android</string>
+    <string name="help_dream_settings">Abre los ajustes del salvapantallas de Android. Google TV solo ofrece los suyos: Proscenium se elige una vez desde un ordenador (ver el README).</string>
+    <string name="dream_none">Ninguno</string>
 </resources>

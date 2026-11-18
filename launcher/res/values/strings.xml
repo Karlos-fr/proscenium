@@ -481,4 +481,21 @@
     <string name="update_signature">This version is signed with a different key: uninstall Proscenium, then install it from GitHub.</string>
     <string name="update_permission">Allow Proscenium to install apps in the page that has just opened, then press OK again.</string>
     <string name="update_toast">Proscenium %1$s is available: Settings → System → Update</string>
+    <string name="act_update_packs">Update installed packs</string>
+    <string name="help_update_packs">New films have been added to some of your packs. OK downloads them; the films you already have stay as they are.</string>
+    <string name="packs_update">update available</string>
+    <string name="welcome_title">Welcome to Proscenium</string>
+    <string name="hint_welcome">A few settings to get started. You can change everything later in the settings.</string>
+    <string name="act_welcome_packs">Choose backdrops</string>
+    <string name="help_welcome_packs">Install a pack of films in one click: its pictures fill the home screen. No TMDB key needed.</string>
+    <string name="act_welcome_done">Let\'s go</string>
+    <string name="help_welcome_done">Closes this screen. You will find it again in Settings → System → Getting started.</string>
+    <string name="act_welcome">Getting started</string>
+    <string name="help_welcome">Opens the first-launch screen again: language, town, backdrops and Home button.</string>
+    <string name="sec_screensaver">SCREENSAVER</string>
+    <string name="set_screensaver">Proscenium screensaver</string>
+    <string name="help_screensaver">Offers Proscenium as Android\'s screensaver (backdrops, title and clock). Turned off, it disappears from Android\'s list and Android uses its own screensaver.</string>
+    <string name="act_dream_settings">Android screensaver</string>
+    <string name="help_dream_settings">Opens Android\'s screensaver settings. Google TV only offers its own screensavers there: choosing Proscenium is done once from a computer (see the README).</string>
+    <string name="dream_none">None</string>
 </resources>

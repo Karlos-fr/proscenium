@@ -70,6 +70,7 @@ abstract class HomeBase extends Activity {
     static final float SLOT_DP = 152;
     static final int TILE_W_DP = 128, TILE_H_DP = 72;
     static final String PREF_REOPEN_TAB = "reopen_settings_tab";
+    static final String PREF_REOPEN_WELCOME = "reopen_welcome";
 
     final Handler ui = new Handler(Looper.getMainLooper());
     /** Fonds d'écran : lecture et décodage des images, rien d'autre. */

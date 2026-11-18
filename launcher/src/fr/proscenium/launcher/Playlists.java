@@ -56,6 +56,8 @@ final class Playlists {
         int limit = 20;
         /** Pack de fonds d'où vient la playlist (voir Packs), ou "". */
         String pack = "";
+        /** Version du pack installée (1 pour les packs installés avant les numéros de version). */
+        int packVersion = 1;
 
         boolean isDynamic() {
             return !dynamic.isEmpty();
@@ -166,7 +168,7 @@ final class Playlists {
                 }
                 JSONObject po = new JSONObject().put("id", p.id).put("name", p.name).put("films", films);
                 if (p.isDynamic()) po.put("dynamic", p.dynamic).put("updated", p.updated).put("limit", p.limit);
-                if (!p.pack.isEmpty()) po.put("pack", p.pack);
+                if (!p.pack.isEmpty()) po.put("pack", p.pack).put("packVersion", p.packVersion);
                 root.put(po);
             }
             File f = file(ctx), tmp = new File(f.getPath() + ".tmp");
@@ -195,6 +197,7 @@ final class Playlists {
                 p.updated = o.optLong("updated");
                 p.limit = o.optInt("limit", 20);
                 p.pack = o.optString("pack", "");
+                p.packVersion = o.optInt("packVersion", 1);
                 JSONArray films = o.optJSONArray("films");
                 for (int j = 0; films != null && j < films.length(); j++) {
                     JSONObject fo = films.getJSONObject(j);
@@ -398,8 +401,11 @@ final class Playlists {
             if (p == null) {
                 p = create(app, Packs.pick(pack.opt("name"), lang));
                 p.pack = id;
-                save(app);
             }
+            // Version retenue tout de suite : un téléchargement interrompu se complète ensuite
+            // en rouvrant le pack (il lui manque des films)
+            p.packVersion = Math.max(p.packVersion, pack.optInt("version", 1));
+            save(app);
         }
         JSONArray films = pack.getJSONArray("films");
         Playlist target = p;

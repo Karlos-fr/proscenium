@@ -97,6 +97,7 @@ final class SettingsPanel extends PanelTabs {
 
     /** Catalogue des packs, gardé tant que l'appli tourne. */
     static List<Packs.Pack> packCatalog;
+    static long packCatalogAt;
 
     /** Langue des titres et logos des packs : celle choisie pour TMDB. */
     String packLang() {
@@ -107,6 +108,8 @@ final class SettingsPanel extends PanelTabs {
     void showPacks() {
         clearContent();
         pageTitle(ctx.getString(R.string.packs_title), R.string.hint_packs);
+        // Le launcher tourne des jours entiers : le catalogue est relu au plus toutes les heures
+        if (packCatalog != null && System.currentTimeMillis() - packCatalogAt > 3600_000L) packCatalog = null;
         if (packCatalog == null) {
             TextView wait = note(ctx.getString(R.string.loading));
             String lang = packLang();
@@ -116,16 +119,26 @@ final class SettingsPanel extends PanelTabs {
                     return;
                 }
                 packCatalog = list;
+                packCatalogAt = System.currentTimeMillis();
                 rebuildPage(null);
                 focusFirstRow();
             });
             return;
         }
+        List<Packs.Pack> outdated = new ArrayList<>();
+        for (Packs.Pack pack : packCatalog) if (hasUpdate(pack)) outdated.add(pack);
+        if (!outdated.isEmpty()) {
+            content.addView(action(R.string.act_update_packs, R.string.help_update_packs,
+                    () -> String.valueOf(outdated.size()), () -> {
+                        for (Packs.Pack pack : outdated) installPack(pack);
+                    }).badgeOf(R.string.badge_internet));
+        }
         List<View> tiles = new ArrayList<>();
         for (Packs.Pack pack : packCatalog) {
             Playlists.Playlist installed = Playlists.byPack(ctx, pack.id);
             String info = ctx.getResources().getQuantityString(R.plurals.films, pack.films, pack.films)
-                    + (installed != null ? "  ·  " + ctx.getString(R.string.packs_installed) : "")
+                    + (hasUpdate(pack) ? "  ·  " + ctx.getString(R.string.packs_update)
+                    : installed != null ? "  ·  " + ctx.getString(R.string.packs_installed) : "")
                     + (pack.description.isEmpty() ? "" : "  ·  " + pack.description);
             View t = tile("w300", pack.cover, BACKDROP_W, BACKDROP_H, pack.name, info,
                     () -> Playlists.byPack(ctx, pack.id) != null, () -> installPack(pack));
@@ -138,10 +151,19 @@ final class SettingsPanel extends PanelTabs {
         focusFirstRow();
     }
 
-    /** Pack déjà complet : on ouvre sa playlist. Sinon on l'installe (ou on le complète) et on l'affiche. */
+    /** Pack installé dont une version plus récente est publiée (des films ont été ajoutés). */
+    boolean hasUpdate(Packs.Pack pack) {
+        Playlists.Playlist installed = Playlists.byPack(ctx, pack.id);
+        return installed != null && pack.version > installed.packVersion;
+    }
+
+    /**
+     * Pack déjà complet et à jour : on ouvre sa playlist. Sinon on l'installe, on le complète ou
+     * on le met à jour (seuls les films manquants sont téléchargés).
+     */
     void installPack(Packs.Pack pack) {
         Playlists.Playlist installed = Playlists.byPack(ctx, pack.id);
-        if (installed != null && installed.films.size() >= pack.films) {
+        if (installed != null && installed.films.size() >= pack.films && !hasUpdate(pack)) {
             openPage(() -> showPlaylist(installed));
             return;
         }

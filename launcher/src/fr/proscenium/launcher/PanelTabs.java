@@ -126,6 +126,106 @@ abstract class PanelTabs extends PanelCore {
         add(r, choice(s.titleMode), choice(s.titleSide), flag(s.showYear));
         section(R.string.sec_clock_header);
         add(r, flag(s.clockSeconds), flag(s.hideHeader));
+        screensaverSection();
+    }
+
+    // ---------------------------------------------------------------- Premiers pas
+
+    static final String PREF_WELCOME_DONE = "welcome_done";
+    /** Page « Premiers pas » (même instance : sert à savoir si elle est affichée). */
+    final Runnable welcomePage = this::showWelcome;
+
+    /** Catalogue des packs (SettingsPanel). */
+    abstract void showPacks();
+
+    boolean onWelcome() {
+        return open && !pages.isEmpty() && pages.peek() == welcomePage;
+    }
+
+    /** Ouvre les Premiers pas par-dessus l'onglet Système (premier lancement, ou à la demande). */
+    void openWelcome() {
+        ctx.getSharedPreferences("proscenium", Context.MODE_PRIVATE).edit().putBoolean(PREF_WELCOME_DONE, true).apply();
+        openPage(welcomePage);
+        focusFirstRow();
+    }
+
+    /** Premier lancement : langue, ville de la météo, un pack de fonds, service du bouton Accueil. */
+    void showWelcome() {
+        clearContent();
+        pageTitle(ctx.getString(R.string.welcome_title), R.string.hint_welcome);
+        content.addView(choice(s.language));
+        content.addView(action(R.string.set_weather_city, R.string.help_weather_city, () -> s.weatherCity.value,
+                this::askCity).badgeOf(R.string.badge_internet));
+        content.addView(action(R.string.act_welcome_packs, R.string.help_welcome_packs, () -> {
+            int n = 0;
+            for (Playlists.Playlist p : Playlists.all(ctx)) if (!p.pack.isEmpty()) n++;
+            return n > 0 ? ctx.getResources().getQuantityString(R.plurals.playlists, n, n) + "  ›" : "›";
+        }, () -> openPage(this::showPacks)).badgeOf(R.string.badge_internet));
+        content.addView(action(R.string.set_service, R.string.help_service,
+                () -> ctx.getString(host.homeServiceActive() ? R.string.service_on : R.string.service_off),
+                host::openAccessibility));
+        content.addView(action(R.string.act_welcome_done, R.string.help_welcome_done, null, this::close));
+    }
+
+    // ---------------------------------------------------------------- Économiseur d'écran
+
+    android.content.ComponentName dreamComponent() {
+        return new android.content.ComponentName(ctx, CinemaDream.class);
+    }
+
+    boolean dreamEnabled() {
+        int st = ctx.getPackageManager().getComponentEnabledSetting(dreamComponent());
+        return st != android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DISABLED;
+    }
+
+    /** Économiseur d'Android actuellement choisi : Proscenium, un autre, ou inconnu (réglage illisible). */
+    String currentDream() {
+        try {
+            String c = android.provider.Settings.Secure.getString(ctx.getContentResolver(), "screensaver_components");
+            if (c == null || c.isEmpty()) return ctx.getString(R.string.dream_none);
+            String first = c.split(",")[0];
+            if (first.startsWith(ctx.getPackageName() + "/")) return ctx.getString(R.string.app_name);
+            android.content.ComponentName cn = android.content.ComponentName.unflattenFromString(first);
+            if (cn == null) return "";
+            android.content.pm.PackageManager pm = ctx.getPackageManager();
+            return String.valueOf(pm.getApplicationLabel(pm.getApplicationInfo(cn.getPackageName(), 0)));
+        } catch (Exception e) {
+            return "";
+        }
+    }
+
+    /**
+     * Proscenium peut servir d'économiseur d'écran Android. Le désactiver retire Proscenium de la
+     * liste des économiseurs d'Android (qui reprend alors le sien) ; le choix de l'économiseur
+     * actif reste dans les paramètres d'Android, qu'on ouvre directement.
+     */
+    void screensaverSection() {
+        section(R.string.sec_screensaver);
+        content.addView(action(R.string.set_screensaver, R.string.help_screensaver,
+                () -> ctx.getString(dreamEnabled() ? R.string.val_on : R.string.val_off), () -> {
+                    ctx.getPackageManager().setComponentEnabledSetting(dreamComponent(), dreamEnabled()
+                                    ? android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DISABLED
+                                    : android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DEFAULT,
+                            android.content.pm.PackageManager.DONT_KILL_APP);
+                    for (Runnable x : new ArrayList<>(refreshers)) x.run();
+                }));
+        content.addView(action(R.string.act_dream_settings, R.string.help_dream_settings,
+                () -> currentDream() + "  ›", () -> {
+                    // Android TV : page des économiseurs. Google TV ne l'a plus et n'offre que son
+                    // mode ambiant (le choix d'un économiseur tiers s'y fait par adb, voir le README)
+                    for (String action : new String[]{android.provider.Settings.ACTION_DREAM_SETTINGS,
+                            "com.google.android.tv.settings.ambient"}) {
+                        android.content.Intent i = new android.content.Intent(action)
+                                .addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK);
+                        if (i.resolveActivity(ctx.getPackageManager()) == null) continue;
+                        try {
+                            ctx.startActivity(i);
+                            return;
+                        } catch (Exception ignored) {
+                        }
+                    }
+                    host.openAndroidSettings();
+                }));
     }
 
     void buildDock(List<Settings.Item> r) {
@@ -207,6 +307,7 @@ abstract class PanelTabs extends PanelCore {
         }));
         updateSection();
         section(R.string.sec_about);
+        content.addView(action(R.string.act_welcome, R.string.help_welcome, () -> "›", this::openWelcome));
         content.addView(action(R.string.set_version, R.string.help_version, host::versionName, null));
         content.addView(action(R.string.set_credits, R.string.help_credits, () -> ctx.getString(R.string.credits_value), null));
     }

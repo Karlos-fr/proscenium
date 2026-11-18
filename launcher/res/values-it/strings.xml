@@ -481,4 +481,21 @@
     <string name="update_signature">Questa versione è firmata con un\'altra chiave: disinstalla Proscenium, poi installala da GitHub.</string>
     <string name="update_permission">Consenti a Proscenium di installare app nella pagina appena aperta, poi premi di nuovo OK.</string>
     <string name="update_toast">Proscenium %1$s è disponibile: Impostazioni → Sistema → Aggiornamento</string>
+    <string name="act_update_packs">Aggiorna i pacchetti installati</string>
+    <string name="help_update_packs">Sono stati aggiunti nuovi film ad alcuni dei tuoi pacchetti. OK li scarica; i film che hai già restano invariati.</string>
+    <string name="packs_update">aggiornamento disponibile</string>
+    <string name="welcome_title">Benvenuto in Proscenium</string>
+    <string name="hint_welcome">Qualche impostazione per iniziare. Potrai cambiare tutto più tardi nelle impostazioni.</string>
+    <string name="act_welcome_packs">Scegli gli sfondi</string>
+    <string name="help_welcome_packs">Installa un pacchetto di film con un clic: le sue immagini riempiono la Home. Nessuna chiave TMDB necessaria.</string>
+    <string name="act_welcome_done">Iniziamo</string>
+    <string name="help_welcome_done">Chiude questa schermata. La ritroverai in Impostazioni → Sistema → Primi passi.</string>
+    <string name="act_welcome">Primi passi</string>
+    <string name="help_welcome">Riapre la schermata del primo avvio: lingua, città, sfondi e tasto Home.</string>
+    <string name="sec_screensaver">SALVASCHERMO</string>
+    <string name="set_screensaver">Salvaschermo Proscenium</string>
+    <string name="help_screensaver">Propone Proscenium come salvaschermo di Android (sfondi, titolo e orologio). Se disattivato, sparisce dall\'elenco di Android, che usa il proprio salvaschermo.</string>
+    <string name="act_dream_settings">Salvaschermo di Android</string>
+    <string name="help_dream_settings">Apre le impostazioni del salvaschermo di Android. Google TV vi propone solo i propri: Proscenium si sceglie una volta da un computer (vedi il README).</string>
+    <string name="dream_none">Nessuno</string>
 </resources>

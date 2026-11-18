@@ -481,4 +481,21 @@
     <string name="update_signature">Cette version est signée avec une autre clé : désinstallez Proscenium puis installez-la depuis GitHub.</string>
     <string name="update_permission">Autorisez Proscenium à installer des applis dans la page qui vient de s\'ouvrir, puis appuyez de nouveau sur OK.</string>
     <string name="update_toast">Proscenium %1$s est disponible : Réglages → Système → Mise à jour</string>
+    <string name="act_update_packs">Mettre à jour les packs installés</string>
+    <string name="help_update_packs">Des films ont été ajoutés à certains de vos packs. OK les télécharge ; les films que vous avez déjà restent tels quels.</string>
+    <string name="packs_update">mise à jour disponible</string>
+    <string name="welcome_title">Bienvenue dans Proscenium</string>
+    <string name="hint_welcome">Quelques réglages pour bien démarrer. Vous pourrez tout changer plus tard dans les réglages.</string>
+    <string name="act_welcome_packs">Choisir des fonds</string>
+    <string name="help_welcome_packs">Installez un pack de films en un clic : ses images remplissent l\'accueil. Aucune clé TMDB n\'est nécessaire.</string>
+    <string name="act_welcome_done">C\'est parti</string>
+    <string name="help_welcome_done">Ferme cet écran. Vous le retrouverez dans Réglages → Système → Premiers pas.</string>
+    <string name="act_welcome">Premiers pas</string>
+    <string name="help_welcome">Rouvre l\'écran du premier lancement : langue, ville, fonds et bouton Accueil.</string>
+    <string name="sec_screensaver">ÉCONOMISEUR D\'ÉCRAN</string>
+    <string name="set_screensaver">Économiseur Proscenium</string>
+    <string name="help_screensaver">Propose Proscenium comme économiseur d\'écran d\'Android (fonds, titre et horloge). Désactivé, il disparaît de la liste d\'Android, qui reprend son propre économiseur.</string>
+    <string name="act_dream_settings">Économiseur d\'Android</string>
+    <string name="help_dream_settings">Ouvre les réglages de l\'économiseur d\'écran d\'Android. Google TV n\'y propose que les siens : choisir Proscenium se fait une fois depuis un ordinateur (voir le README).</string>
+    <string name="dream_none">Aucun</string>
 </resources>

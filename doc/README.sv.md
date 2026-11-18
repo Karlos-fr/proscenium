@@ -38,6 +38,10 @@ helt med fjärrkontrollen.
 Inställningarna öppnar du genom att markera fältet med klockan och vädret (pil uppåt, sedan OK),
 eller från menyn för en app i fältet.
 
+Första gången hjälper skärmen **Kom igång** dig att välja språk, ort för vädret, ett
+bakgrundspaket och hemknappstjänsten. Den finns sedan kvar under
+**Inställningar → System → Kom igång**.
+
 ### Uppdateringar
 
 Proscenium söker en gång om dagen efter en ny version på GitHub och säger till. Installera den via
@@ -93,6 +97,10 @@ banner kan justeras.
 Proscenium kan också fungera som **Androids skärmsläckare**: välj den i Androids inställningar,
 under Skärmsläckare.
 
+På Google TV visar Android bara Googles egna skärmsläckare. Välj Proscenium en gång från en
+dator, med [adb](https://developer.android.com/tools/adb) anslutet till tv:n:
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Inställningar → Biografläge → Skärmsläckare** slår på eller av den.
+
 ## Dina bakgrunder: spellistor och paket
 
 Bilderna på startskärmen kommer antingen från **Bings dagliga foton** eller från **dina spellistor**
@@ -108,6 +116,9 @@ med filmer.
 - **Aktuella trender**: en spellista som uppdaterar sig själv varje dag med de filmer som är
   populära just nu.
 - Flera spellistor kan vara aktiva samtidigt: deras bakgrunder blandas.
+- **Paketuppdateringar**: när filmer läggs till i ett paket visar det "uppdatering finns" och
+  **Uppdatera installerade paket** laddar ner de nya filmerna. Vem som helst kan föreslå ett paket:
+  se [packs/README.md](../packs/README.md).
 
 Bilderna kommer från [The Movie Database (TMDB)](https://www.themoviedb.org). Du kan välja att bara
 visa bakgrunder utan text och i Full HD.

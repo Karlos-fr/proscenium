@@ -40,6 +40,10 @@ komplett mit der Fernbedienung bedienen.
 Die Einstellungen öffnen Sie, indem Sie das Banner mit Uhrzeit und Wetter auswählen (Pfeil nach oben,
 dann OK) oder über das Menü einer App in der Leiste.
 
+Beim ersten Start hilft ein Bildschirm **Erste Schritte** bei der Wahl der Sprache, des Orts für
+das Wetter, eines Hintergrundpakets und des Home-Tasten-Dienstes. Er bleibt danach unter
+**Einstellungen → System → Erste Schritte** erreichbar.
+
 ### Updates
 
 Proscenium sucht einmal am Tag auf GitHub nach einer neuen Version und gibt dir Bescheid. Zum
@@ -95,6 +99,11 @@ Erscheinungsjahr. Wartezeit, Balken, Titel und Banner sind einstellbar.
 Proscenium kann auch als **Android-Bildschirmschoner** dienen: Wählen Sie ihn in den
 Android-Einstellungen unter „Bildschirmschoner“ aus.
 
+Auf Google TV listet Android nur die Bildschirmschoner von Google auf. Wählen Sie Proscenium
+einmalig von einem Computer aus, mit [adb](https://developer.android.com/tools/adb) mit dem
+Fernseher verbunden: `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Einstellungen → Kinomodus → Bildschirmschoner** schaltet ihn ein
+oder aus.
+
 ## Ihre Hintergründe: Playlists und Pakete
 
 Die Bilder des Startbildschirms stammen entweder von den **Bing-Fotos des Tages** oder aus **Ihren
@@ -110,6 +119,9 @@ Playlists** mit Filmen.
 - **Aktuelle Trends**: eine Playlist, die sich jeden Tag von selbst mit den angesagten Filmen
   aktualisiert.
 - Mehrere Playlists können gleichzeitig aktiv sein: Ihre Hintergründe werden gemischt.
+- **Paket-Updates**: Werden einem Paket Filme hinzugefügt, zeigt es „Update verfügbar“ und
+  **Installierte Pakete aktualisieren** lädt die neuen Filme herunter. Jeder kann ein Paket
+  vorschlagen: siehe [packs/README.md](../packs/README.md).
 
 Die Bilder stammen von [The Movie Database (TMDB)](https://www.themoviedb.org). Sie können
 ausschließlich Hintergründe ohne Text und in Full HD anzeigen lassen.

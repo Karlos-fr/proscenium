@@ -481,4 +481,21 @@
     <string name="update_signature">Diese Version ist mit einem anderen Schlüssel signiert: Deinstalliere Proscenium und installiere sie dann von GitHub.</string>
     <string name="update_permission">Erlaube Proscenium auf der gerade geöffneten Seite, Apps zu installieren, und drücke dann erneut OK.</string>
     <string name="update_toast">Proscenium %1$s ist verfügbar: Einstellungen → System → Update</string>
+    <string name="act_update_packs">Installierte Pakete aktualisieren</string>
+    <string name="help_update_packs">Einigen deiner Pakete wurden neue Filme hinzugefügt. OK lädt sie herunter; deine vorhandenen Filme bleiben unverändert.</string>
+    <string name="packs_update">Update verfügbar</string>
+    <string name="welcome_title">Willkommen bei Proscenium</string>
+    <string name="hint_welcome">Ein paar Einstellungen für den Anfang. Alles lässt sich später in den Einstellungen ändern.</string>
+    <string name="act_welcome_packs">Hintergründe wählen</string>
+    <string name="help_welcome_packs">Installiere ein Filmpaket mit einem Klick: Seine Bilder füllen den Startbildschirm. Kein TMDB-Schlüssel nötig.</string>
+    <string name="act_welcome_done">Los geht\'s</string>
+    <string name="help_welcome_done">Schließt diesen Bildschirm. Du findest ihn wieder unter Einstellungen → System → Erste Schritte.</string>
+    <string name="act_welcome">Erste Schritte</string>
+    <string name="help_welcome">Öffnet den Bildschirm des ersten Starts erneut: Sprache, Ort, Hintergründe und Home-Taste.</string>
+    <string name="sec_screensaver">BILDSCHIRMSCHONER</string>
+    <string name="set_screensaver">Proscenium-Bildschirmschoner</string>
+    <string name="help_screensaver">Bietet Proscenium als Android-Bildschirmschoner an (Hintergründe, Titel und Uhr). Ausgeschaltet verschwindet er aus der Android-Liste und Android nutzt seinen eigenen.</string>
+    <string name="act_dream_settings">Android-Bildschirmschoner</string>
+    <string name="help_dream_settings">Öffnet die Bildschirmschoner-Einstellungen von Android. Google TV bietet dort nur seine eigenen an: Proscenium wird einmalig über einen Computer ausgewählt (siehe README).</string>
+    <string name="dream_none">Keiner</string>
 </resources>

@@ -25,6 +25,13 @@
         <intent>
             <action android:name="android.speech.action.RECOGNIZE_SPEECH" />
         </intent>
+        <!-- Réglages de l'économiseur d'écran (Android TV) ou du mode ambiant (Google TV) -->
+        <intent>
+            <action android:name="android.settings.DREAM_SETTINGS" />
+        </intent>
+        <intent>
+            <action android:name="com.google.android.tv.settings.ambient" />
+        </intent>
     </queries>
 
     <application

@@ -39,6 +39,10 @@ entièrement à la télécommande.
 Les réglages s'ouvrent en sélectionnant le bandeau de l'heure et de la météo (flèche vers le haut,
 puis OK), ou depuis le menu d'une appli de la barre.
 
+La première fois, un écran **Premiers pas** aide à choisir la langue, la ville de la météo, un
+pack de fonds et le service du bouton Accueil. Il reste disponible ensuite dans
+**Réglages → Système → Premiers pas**.
+
 ### Mises à jour
 
 Proscenium vérifie une fois par jour s'il existe une nouvelle version sur GitHub et vous prévient.
@@ -94,6 +98,10 @@ et le bandeau sont réglables.
 Proscenium peut aussi servir **d'économiseur d'écran Android** : choisissez-le dans les paramètres
 d'Android, rubrique Économiseur d'écran.
 
+Sur Google TV, Android ne liste que les économiseurs de Google. Choisissez Proscenium une fois
+depuis un ordinateur, avec [adb](https://developer.android.com/tools/adb) connecté à la TV :
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Réglages → Mode cinéma → Économiseur d'écran** l'active ou le désactive.
+
 ## Vos fonds : playlists et packs
 
 Les images de l'accueil viennent soit des **photos Bing du jour**, soit de **vos playlists** de films.
@@ -107,6 +115,9 @@ Les images de l'accueil viennent soit des **photos Bing du jour**, soit de **vos
 - **Tendances du moment** : une playlist qui se tient à jour toute seule chaque jour avec les films
   en vogue.
 - Plusieurs playlists peuvent être actives en même temps : leurs fonds se mélangent.
+- **Mises à jour des packs** : quand des films sont ajoutés à un pack, il affiche « mise à jour
+  disponible » et **Mettre à jour les packs installés** télécharge les nouveaux films. Tout le monde
+  peut proposer un pack : voir [packs/README.md](../packs/README.md).
 
 Les images viennent de [The Movie Database (TMDB)](https://www.themoviedb.org). Vous pouvez
 n'afficher que les fonds sans texte et en Full HD.

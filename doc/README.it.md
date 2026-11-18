@@ -39,6 +39,10 @@ il telecomando.
 Le impostazioni si aprono selezionando il banner con l'ora e il meteo (freccia su, poi OK), oppure
 dal menu di un'app della barra.
 
+Al primo avvio, una schermata **Primi passi** aiuta a scegliere la lingua, la città per il meteo,
+un pacchetto di sfondi e il servizio del tasto Home. Resta disponibile in seguito in
+**Impostazioni → Sistema → Primi passi**.
+
 ### Aggiornamenti
 
 Proscenium controlla una volta al giorno se su GitHub c'è una nuova versione e ti avvisa. Per
@@ -92,6 +96,10 @@ sono regolabili.
 Proscenium può anche fungere da **screensaver di Android**: sceglilo nelle impostazioni di Android,
 alla voce Screensaver.
 
+Su Google TV, Android elenca solo gli screensaver di Google. Scegli Proscenium una volta da un
+computer, con [adb](https://developer.android.com/tools/adb) collegato al televisore:
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Impostazioni → Modalità cinema → Salvaschermo** lo attiva o lo disattiva.
+
 ## I tuoi sfondi: playlist e pacchetti
 
 Le immagini della Home provengono dalle **foto Bing del giorno** oppure dalle **tue playlist** di film.
@@ -104,6 +112,9 @@ Le immagini della Home provengono dalle **foto Bing del giorno** oppure dalle **
   piacciono e il logo da mostrare.
 - **Tendenze del momento**: una playlist che si aggiorna da sola ogni giorno con i film del momento.
 - Più playlist possono essere attive contemporaneamente: i loro sfondi si mescolano.
+- **Aggiornamenti dei pacchetti**: quando a un pacchetto vengono aggiunti film, mostra
+  "aggiornamento disponibile" e **Aggiorna i pacchetti installati** scarica i nuovi film. Chiunque
+  può proporre un pacchetto: vedi [packs/README.md](../packs/README.md).
 
 Le immagini provengono da [The Movie Database (TMDB)](https://www.themoviedb.org). Puoi mostrare
 solo gli sfondi senza testo e in Full HD.

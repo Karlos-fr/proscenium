@@ -14,7 +14,9 @@ import java.util.List;
  * fonds et des logos choisis, titres dans chaque langue). Les images sont téléchargées directement
  * depuis le serveur d'images de TMDB, sans clé d'API, au moment de l'installation.
  *
- *  - packs/index.json : {"version":1,"packs":[{"id","name":{"fr":…},"description":{…},"films":89,"cover":"/….jpg"}]}
+ *  - packs/index.json : {"version":1,"packs":[{"id","version":2,"name":{"fr":…},"description":{…},"films":89,"cover":"/….jpg"}]}
+ *    « version » d'un pack augmente quand sa liste de films change : la playlist installée propose
+ *    alors une mise à jour, qui ajoute les nouveaux films.
  *  - packs/<id>.json  : {"id","name":{…},"films":[{"id":408,"year":"1937","title":{…},"backdrops":["/….jpg"],"logo":{"fr":"/….png"}}]}
  */
 final class Packs {
@@ -22,7 +24,7 @@ final class Packs {
 
     static final class Pack {
         String id, name, description, cover;
-        int films;
+        int films, version = 1;
     }
 
     private Packs() {}
@@ -39,6 +41,7 @@ final class Packs {
             p.description = pick(o.opt("description"), lang);
             p.cover = o.optString("cover");
             p.films = o.optInt("films");
+            p.version = o.optInt("version", 1);
             out.add(p);
         }
         return out;
