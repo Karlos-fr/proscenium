@@ -220,7 +220,11 @@ abstract class HomeHeader extends HomeBackdrop {
         Settings s = settings;
         int kind = WeatherFx.NONE;
         float amount = 0.85f;
-        if (!s.economy.value) {
+        if (weatherPreview >= 0) {
+            // Page de réglage d'une météo ouverte : elle s'affiche, quels que soient les réglages
+            kind = weatherPreview;
+            amount = 1f;
+        } else if (!s.economy.value) {
             switch (s.weatherFx.index) {
                 case Settings.FX_REAL:
                     if (lastWeather != null) {
@@ -243,7 +247,8 @@ abstract class HomeHeader extends HomeBackdrop {
             tilt = WeatherFx.tiltOf(wind, lastWeather.windFrom);
             gust = Math.max(1f, lastWeather.gusts / (float) Math.max(1, lastWeather.wind));
         }
-        weatherFx.set(kind, amount * s.weatherFxAmount.f(), tilt, gust, s.weatherLens.value);
+        weatherFx.set(kind, amount * (weatherPreview >= 0 ? 1f : s.weatherFxAmount.f()), tilt, gust,
+                weatherPreview >= 0 || s.weatherLens.value);
     }
 
     void refreshWeather() {

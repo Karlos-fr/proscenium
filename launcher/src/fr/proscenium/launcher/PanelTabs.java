@@ -274,6 +274,10 @@ abstract class PanelTabs extends PanelCore {
         r.add(s.weatherCity);
         r.add(s.weatherCoords);
         add(r, choice(s.tempUnit), choice(s.weatherFx), num(s.weatherFxAmount), flag(s.weatherLens));
+        Row styles = action(R.string.act_weather_styles, R.string.help_weather_styles, () -> "›",
+                () -> openPage(this::showWeatherStyles));
+        styles.badgeOf(R.string.badge_cpu).setTag("weather_styles");
+        content.addView(styles);
         section(R.string.sec_time);
         add(r, choice(s.timeFormat), num(s.clockSize), num(s.dateSize));
         section(R.string.sec_header);
@@ -492,6 +496,56 @@ abstract class PanelTabs extends PanelCore {
                     set.set(!get.get());
                     glassChanged();
                 }, null, null);
+    }
+
+    // ---------------------------------------------------------------- Réglages de la météo
+
+    /** Sous-menu : une ligne par météo, avec son préréglage. */
+    void showWeatherStyles() {
+        clearContent();
+        pageTitle(ctx.getString(R.string.act_weather_styles), R.string.hint_weather_styles);
+        for (WeatherStyles.Style w : host.weatherStyles().all) {
+            Row r = row(w.name, w.help, R.string.badge_cpu, () -> presetName(w) + "  ›", null,
+                    () -> openPage(() -> showWeatherStyle(w)), null);
+            r.setTag("wx:" + w.kind);
+            content.addView(r);
+        }
+        focusFirstRow();
+    }
+
+    /** Page d'une météo : préréglage, réglages, retour aux valeurs d'origine ; la météo s'affiche en direct. */
+    void showWeatherStyle(WeatherStyles.Style w) {
+        clearContent();
+        pageTitle(ctx.getString(w.name), R.string.hint_weather_style);
+        previewingWeather = true;
+        host.previewWeather(w.kind);
+        content.addView(row(R.string.wx_preset, R.string.help_wx_preset, 0, () -> presetName(w),
+                dir -> { w.nextPreset(dir); weatherStylesChanged(); },
+                () -> { w.nextPreset(1); weatherStylesChanged(); }, null));
+        for (WeatherStyles.Param p : w.params) {
+            Row r = row(p.label, p.help, R.string.badge_cpu,
+                    () -> p.labels.length > 0 ? ctx.getString(p.labels[p.value]) : p.value + " %",
+                    dir -> { p.step(dir); weatherStylesChanged(); }, null, null);
+            if (p.labels.length == 0) {
+                r.progressSource = () -> r.setProgress((p.value - p.min) / (float) (p.max - p.min));
+                r.progressSource.run();
+            }
+            content.addView(r);
+        }
+        section(0);
+        content.addView(action(R.string.act_reset_weather, R.string.help_reset_weather, null,
+                () -> { w.reset(); weatherStylesChanged(); }));
+        focusFirstRow();
+    }
+
+    String presetName(WeatherStyles.Style w) {
+        int p = w.preset();
+        return ctx.getString(p < 0 ? R.string.preset_custom : w.presetNames[p]);
+    }
+
+    void weatherStylesChanged() {
+        host.weatherStylesChanged();
+        for (Runnable r : refreshers) r.run();
     }
 
     void glassChanged() {

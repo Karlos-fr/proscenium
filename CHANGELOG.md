@@ -34,6 +34,10 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   a wet trail; storms add lightning that lights
   the picture, snow falls and its flakes melt on the screen, fog drifts slowly. It can follow the real
   weather, always show the same weather, or be turned off (Android 13 and later for the drops).
+- Weather settings (Settings → Home → Weather → Weather settings): a page per weather with presets
+  (drizzle to downpour, four storms from the Platformer lightning studio, light flurries to blizzard,
+  mist to pea-souper) and fine settings, previewed live on the backdrop. Lightning is drawn as
+  branching fractal bolts that strike, flicker and light up the picture.
 - TMDB logo next to the TMDB notice (Films (TMDB) tab and System → About), as TMDB's terms ask.
 - README: demo video, screenshots and a short FAQ (Fire TV, Home button, TMDB key, data use).
 - Obtainium support (the GitHub releases page is the source) and store metadata for IzzyOnDroid.

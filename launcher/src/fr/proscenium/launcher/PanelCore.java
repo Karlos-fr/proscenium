@@ -55,6 +55,11 @@ abstract class PanelCore {
         GlassView newGlass(float radiusPx);
         void nextBackdrop();
         void glassChanged();
+        /** Réglages fins de chaque météo, et leur sauvegarde après un changement. */
+        WeatherStyles weatherStyles();
+        void weatherStylesChanged();
+        /** Montre une météo sur le fond pendant le réglage de sa page ; -1 : la météo habituelle. */
+        void previewWeather(int kind);
         void openAccessibility();
         void openAndroidSettings();
         boolean homeServiceActive();
@@ -365,7 +370,14 @@ abstract class PanelCore {
         });
     }
 
+    /** Une page de réglage de la météo montre sa météo sur le fond ; elle s'arrête en la quittant. */
+    boolean previewingWeather;
+
     void clearContent() {
+        if (previewingWeather) {
+            previewingWeather = false;
+            host.previewWeather(-1);
+        }
         if (content.findFocus() != null) focusSink.requestFocus();
         generation++;
         content.removeAllViews();

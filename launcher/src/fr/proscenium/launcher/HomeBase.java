@@ -81,6 +81,10 @@ abstract class HomeBase extends Activity {
     final boolean cpuReadable = Stats.cpuReadable();
     final Settings settings = new Settings();
     final GlassSettings glassSettings = new GlassSettings();
+    /** Réglages fins de chaque météo du fond (sous-menu Réglages de la météo). */
+    final WeatherStyles weatherStyles = new WeatherStyles();
+    /** Météo montrée pendant le réglage de sa page (WeatherFx.RAIN…), ou -1. */
+    int weatherPreview = -1;
     final List<GlassView> glasses = new ArrayList<>();
     /** Liserés de sélection, teintés par la couleur d'accent. */
     final List<GradientDrawable> rings = new ArrayList<>();

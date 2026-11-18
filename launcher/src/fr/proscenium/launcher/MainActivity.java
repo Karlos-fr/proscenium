@@ -87,6 +87,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
             settings.changed(settings.activePlaylists);
         }
         glassSettings.load(prefs);
+        weatherStyles.load(prefs);
         Locale locale = Lang.locale(this);
         dateFormat = new SimpleDateFormat(getString(R.string.date_pattern), locale);
         clockFormat = new SimpleDateFormat(settings.timeFormat.index == 1 ? "hhmmss" : "HHmmss", locale);
@@ -132,7 +133,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         shadeTop.setAlpha(0.5f);
         shadeBottom.setAlpha(0.6f);
         // Météo vivante : devant le film, derrière l'interface
-        weatherFx = new WeatherFx(this, wallImg, wallInner, wallOuter);
+        weatherFx = new WeatherFx(this, wallImg, wallInner, wallOuter, weatherStyles);
         root.addView(weatherFx, match());
         applyWeatherFx();
 
@@ -503,6 +504,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
 
     @Override
     public void panelClosed() {
+        previewWeather(-1);
         menuBlur(false);
         track.setFocusable(true);
         header.setFocusable(true);
@@ -521,6 +523,23 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
     public void nextBackdrop() {
         loadWallpaper(NEXT);
         scheduleRotate();
+    }
+
+    @Override
+    public WeatherStyles weatherStyles() {
+        return weatherStyles;
+    }
+
+    @Override
+    public void weatherStylesChanged() {
+        weatherStyles.save(prefs);
+    }
+
+    @Override
+    public void previewWeather(int kind) {
+        if (kind == weatherPreview) return;
+        weatherPreview = kind;
+        applyWeatherFx();
     }
 
     @Override

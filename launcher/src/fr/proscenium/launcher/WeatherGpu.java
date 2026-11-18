@@ -36,6 +36,10 @@ final class WeatherGpu {
             "uniform float px;",       // taille d'un pixel calculé, en px de l'écran
             "uniform float flash;",    // éclair (0 à 1)
             "uniform float fog;",      // force de la brume
+            "uniform float snowSize;", // taille des flocons (1 : référence)
+            "uniform float snowSpeed;",// vitesse de chute des flocons
+            "uniform float fogSpeed;", // vitesse de dérive de la brume
+            "uniform float fogLow;",   // brume plus dense en bas (0 : partout pareille)
 
             "float h11(float p) { p = fract(p * 0.1031); p *= p + 33.33; p *= p + p; return fract(p); }",
             "float h21(float2 p) { float3 q = fract(float3(p.xyx) * 0.1031); q += dot(q, q.yzx + 33.33); return fract((q.x + q.y) * q.z); }",
@@ -56,6 +60,7 @@ final class WeatherGpu {
             // Une couche de neige : un flocon au plus par case, qui tombe en se balançant
             "float flake(float2 xy, float cell, float speed, float radius, float soft, float density, float seed) {",
             "  float2 p = xy;",
+            "  speed *= snowSpeed;",
             "  p.y -= time * speed;",
             "  p.x -= time * drift * speed / (70.0 * unit);",
             "  float2 id = floor(p / cell);",
@@ -63,7 +68,7 @@ final class WeatherGpu {
             "  if (r > density) return 0.0;",
             "  float2 c = (id + 0.3 + 0.4 * float2(h11(r * 31.1 + seed), h11(r * 57.7 + seed))) * cell;",
             "  c.x += sin(time * (0.7 + r) + r * 40.0) * cell * 0.15;",
-            "  float rad = max(radius * (0.6 + 0.6 * h11(r * 7.3)), px * 0.9);",
+            "  float rad = max(min(radius * snowSize * (0.6 + 0.6 * h11(r * 7.3)), cell * 0.13), px * 0.9);",
             "  float d = length(p - c) / rad;",
             "  if (d >= 1.0) return 0.0;",
             "  return (1.0 - smoothstep(soft, 1.0, d)) * (0.55 + 0.45 * h11(r * 3.7)) * min(1.0, radius / rad * 1.5);",
@@ -76,8 +81,10 @@ final class WeatherGpu {
             // Brume : deux nappes qui dérivent à des vitesses différentes, plus denses vers le bas
             "  if (fog > 0.0) {",
             "    float2 q = xy / (420.0 * unit);",
-            "    float n = fbm(q + float2(time * 0.018, time * 0.004)) * 0.6 + fbm(q * 1.9 - float2(time * 0.031, 0.0)) * 0.4;",
-            "    float low = 0.35 + 0.65 * smoothstep(0.1, 1.0, xy.y / size.y);",
+            "    float ft = time * fogSpeed;",
+            "    float n = fbm(q + float2(ft * 0.018, ft * 0.004)) * 0.6 + fbm(q * 1.9 - float2(ft * 0.031, 0.0)) * 0.4;",
+            "    float lowAmt = clamp(0.65 * fogLow, 0.0, 1.0);",
+            "    float low = 1.0 - lowAmt + lowAmt * smoothstep(0.1, 1.0, xy.y / size.y);",
             "    float fa = clamp(fog * low * smoothstep(0.22, 0.8, n), 0.0, 0.85);",
             "    float3 fc = mix(float3(0.74, 0.77, 0.80), scene + 0.25, 0.35) * (0.55 + 0.6 * lum) + flash * 0.8;",
             "    col = fc * fa; a = fa;",
@@ -184,7 +191,11 @@ final class WeatherGpu {
 
     /** L'air : pluie, neige, brume, dans un calque à mi-résolution agrandi avec lissage. */
     void drawAir(Canvas c, int w, int h, float time, int kind, float amount, float tilt, float drift, float flash,
-                 float fog) {
+                 float fog, float snowSize, float snowSpeed, float fogSpeed, float fogLow) {
+        air.setFloatUniform("snowSize", snowSize);
+        air.setFloatUniform("snowSpeed", snowSpeed);
+        air.setFloatUniform("fogSpeed", fogSpeed);
+        air.setFloatUniform("fogLow", fogLow);
         air.setFloatUniform("size", w, h);
         air.setFloatUniform("time", time);
         air.setFloatUniform("kind", kind);

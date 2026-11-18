@@ -29,8 +29,8 @@ import java.util.Random;
  * <li>l'objectif (render/ft_render_webgpu_lens.c) : des gouttes s'y posent, s'étalent, les plus lourdes
  * glissent en zigzaguant, avalent celles qu'elles touchent et laissent une traînée humide, puis sèchent ;
  * les flocons s'y posent et fondent en gouttes ;</li>
- * <li>l'orage (render/ft_render_webgpu_particles.c) : un éclair toutes les 5 à 17 secondes, en deux
- * sursauts, qui illumine la scène ; un sur trois, lointain, plus faible.</li>
+ * <li>l'orage (Lightning, d'après le studio de foudre de Platformer) : des éclairs fractals qui
+ * descendent, se ramifient, scintillent et éclairent la scène.</li>
  * </ul>
  * Android 13 et plus : la puce graphique calcule tout. Avant : neige simple et éclairs seulement.
  * Placé entre le fond et le dock : l'interface reste nette devant la météo.
@@ -69,8 +69,13 @@ final class WeatherFx extends View {
     private float windClock;
     private boolean lens = true, running;
 
-    WeatherFx(Context ctx, ImageView wall, View inner, View outer) {
+    /** Réglages fins de chaque météo (sous-menu Réglages de la météo), lus à chaque image. */
+    private final WeatherStyles st;
+
+    WeatherFx(Context ctx, ImageView wall, View inner, View outer, WeatherStyles styles) {
         super(ctx);
+        st = styles;
+        lightning = new Lightning(styles);
         this.wall = wall;
         this.inner = inner;
         this.outer = outer;
@@ -134,8 +139,7 @@ final class WeatherFx extends View {
         if (kind != this.kind) {
             dropCount = 0;
             pending = 0;
-            nextFlash = 0;
-            flashStart = -1;
+            lightning.reset();
         }
         this.kind = kind;
         this.amount = Math.max(0.1f, Math.min(2f, amount));
@@ -191,28 +195,35 @@ final class WeatherFx extends View {
         long now = SystemClock.uptimeMillis();
         // Temps ramené à dix minutes : les positions restent précises sur la puce graphique
         float time = ((now - start) % 600_000L) / 1000f;
-        float flash = flash(now);
+        // Orage : éclairs du studio de foudre de Platformer (voir Lightning)
+        float flash = 0f;
+        if (kind == STORM) {
+            lightning.update(now, Math.min(1f, amount), w, h);
+            flash = lightning.flash();
+        }
         Bitmap photo = photo();
 
         // Ciel couvert : la scène s'assombrit et bleuit un peu sous la pluie, s'éclaircit sous la neige
         float k = Math.min(amount, 1.4f);
         switch (kind) {
-            case RAIN: tint.setColor(argb(0.10f * k, 0x0A1420)); break;
-            case STORM: tint.setColor(argb(0.24f * k, 0x070D18)); break;
-            case SNOW: tint.setColor(argb(0.07f * k, 0xDCE6F2)); break;
-            default: tint.setColor(argb(0.10f * k, 0xC8CDD2)); break;
+            case RAIN: tint.setColor(argb(0.10f * k * st.rainDim.f(), 0x0A1420)); break;
+            case STORM: tint.setColor(argb(0.24f * k * st.stormDim.f(), 0x050818)); break;   // voile d'orage du studio
+            case SNOW: tint.setColor(argb(0.07f * k * st.snowVeil.f(), 0xDCE6F2)); break;
+            default: tint.setColor(argb(0.10f * k * st.fogVeil.f(), 0xC8CDD2)); break;
         }
         c.drawRect(0, 0, w, h, tint);
 
-        // Éclair : la scène elle-même s'illumine (fondu « écran »), surtout vers le ciel
+        // Éclair : la scène elle-même s'illumine (fondu « écran »), surtout vers le ciel, puis l'éclair
+        // est tracé par-dessus, derrière les gouttes (il est dehors, de l'autre côté de la vitre)
         if (flash > 0.01f) {
             if (photo != null) {
-                flashPaint.setAlpha((int) (Math.min(1f, flash * 0.75f) * 255));
+                flashPaint.setAlpha((int) (Math.min(1f, flash * 0.55f) * 255));
                 c.drawBitmap(photo, toScreen, flashPaint);
             }
-            sky.setShader(new LinearGradient(0, 0, 0, h, argb(0.45f * flash, 0xDDE8FF), 0, Shader.TileMode.CLAMP));
+            sky.setShader(new LinearGradient(0, 0, 0, h, argb(0.35f * flash, 0xC8D8FF), 0, Shader.TileMode.CLAMP));
             c.drawRect(0, 0, w, h, sky);
         }
+        if (kind == STORM) lightning.draw(c, h);
 
         boolean onGpu = gpu != null && photo != null;
         if (onGpu) {
@@ -232,9 +243,10 @@ final class WeatherFx extends View {
             // Pas de pluie dans l'air : seulement les gouttes sur l'objectif. Brume pour le brouillard,
             // un léger voile sous la neige
             if (kind == FOG || kind == SNOW) {
-                float fog = kind == FOG ? 0.75f * amount : 0.12f * amount;
-                float drift = -tilt / 0.32f * 45f * density;
-                gpu.drawAir(c, w, h, time, kind, amount, tilt, drift, flash, fog);
+                float fog = kind == FOG ? 0.75f * amount * st.fogDensity.f() : 0.12f * amount * st.snowVeil.f();
+                float drift = -tilt / 0.32f * 45f * density * st.snowWind.f();
+                gpu.drawAir(c, w, h, time, kind, kind == SNOW ? amount * st.snowFlakes.f() : amount, tilt, drift,
+                        flash, fog, st.snowSize.f(), st.snowFall.f(), st.fogDrift.f(), st.fogLow.f());
             }
             if (lens && kind != FOG) {
                 stepLens(now, w / (float) h);
@@ -273,24 +285,7 @@ final class WeatherFx extends View {
 
     // ---------------------------------------------------------------- Éclairs
 
-    private long nextFlash, flashStart = -1;
-    private boolean flashFar;
-
-    /** Intensité de l'éclair (0 hors éclair) : deux sursauts, puis la lueur s'éteint. */
-    private float flash(long now) {
-        if (kind != STORM) return 0;
-        if (nextFlash == 0) nextFlash = now + 2500 + random.nextInt(4000);
-        if (now >= nextFlash) {
-            flashStart = now;
-            flashFar = random.nextFloat() < 0.35f;
-            nextFlash = now + 5000 + random.nextInt(12000);
-        }
-        if (flashStart < 0) return 0;
-        long t = now - flashStart;
-        float f = t < 50 ? 1f : t < 110 ? 0.25f : t < 170 ? 0.85f : t < 230 ? 0.35f
-                : t < 600 ? 0.35f * (1f - (t - 230) / 370f) : 0f;
-        return f * (flashFar ? 0.35f : 1f);
-    }
+    private final Lightning lightning;
 
     // ---------------------------------------------------------------- Vitre
 
@@ -363,15 +358,16 @@ final class WeatherFx extends View {
     private void step(float aspect) {
         windClock += 1f / 60f;
         boolean snow = kind == SNOW;
-        float rate = (snow ? 0.035f : 0.09f) * amount;
+        float rate = (snow ? 0.035f * st.snowLens.f() : 0.09f * (kind == STORM ? st.stormDrops.f() : st.rainDrops.f()))
+                * amount;
         if (kind == STORM) rate *= 1.6f;
         pending += rate;
         while (pending >= 1f) {
             pending -= 1f;
             float size = random.nextFloat();
             float r = snow ? 0.006f + 0.01f * size
-                    : random.nextFloat() < 0.12f ? SLIDE_RADIUS + 0.006f * size   // grosse goutte : glisse aussitôt
-                    : 0.004f + 0.0085f * size * size;
+                    : (random.nextFloat() < 0.12f ? SLIDE_RADIUS + 0.006f * size   // grosse goutte : glisse aussitôt
+                    : 0.004f + 0.0085f * size * size) * st.rainSize.f();
             float x = random.nextFloat(), y = random.nextFloat() * 0.95f;
             // Un impact sur une goutte posée s'y fond : elle grossit
             Drop hit = null;
@@ -418,7 +414,7 @@ final class WeatherFx extends View {
             d.vy *= 0.6f;
         } else {
             float weight = d.radius / SLIDE_RADIUS;
-            d.vy = d.vy * 0.965f + 0.00011f * weight;
+            d.vy = d.vy * 0.965f + 0.00011f * weight * st.rainSlide.f();
             // Le verre la retient parfois un instant (d'autant plus qu'elle est légère)
             if (random.nextFloat() < 0.01f / weight) d.stuck = 4 + random.nextInt(30);
             // Elle dévie un peu de temps en temps
@@ -427,7 +423,7 @@ final class WeatherFx extends View {
         d.vx *= 0.92f;
         // Le vent la pousse de côté, plus fort pendant les rafales (deux oscillations lentes mêlées)
         float burst = Math.max(0f, (float) (Math.sin(windClock * 0.71f) * Math.sin(windClock * 1.93f + 1.3f)));
-        float push = windX * 0.9f * (1f + (gust - 1f) * burst);
+        float push = windX * 0.9f * (1f + (gust - 1f) * burst) * (kind == SNOW ? st.snowWind.f() : st.rainWind.f());
         float dx = d.vx + push * d.vy;
         d.y += d.vy;
         d.x += dx / aspect;
@@ -445,7 +441,7 @@ final class WeatherFx extends View {
             o.life = -1;
         }
         // Elle laisse derrière elle une pellicule d'eau qui sèche peu à peu
-        if (d.y - d.filmFrom > d.radius * 0.7f) {
+        if (st.rainTrails.value > 0 && d.y - d.filmFrom > d.radius * 0.7f) {
             d.filmFrom = d.y;
             float back = d.radius * 0.9f;
             Drop f = addDrop(d.x - (float) Math.sin(d.angle) * back / aspect, d.y - (float) Math.cos(d.angle) * back,
@@ -453,7 +449,7 @@ final class WeatherFx extends View {
             if (f != null) {
                 f.film = true;
                 f.angle = d.angle;
-                f.life = 70 + random.nextInt(70);
+                f.life = Math.max(10, Math.round((70 + random.nextInt(70)) * st.rainTrails.f()));
             }
         }
         // et, de loin en loin, de fines gouttelettes ; elle s'allège
