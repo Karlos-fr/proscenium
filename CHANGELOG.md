@@ -2,9 +2,9 @@
 
 All notable changes to Proscenium are listed here, newest first.
 
-## [1.1] — 2026-11-18
+## [1.1] — Unreleased
 
-Download: [Proscenium 1.1](https://github.com/Karlos-fr/proscenium/releases/tag/v1.1).
+In development: not released yet. The latest download is still [Proscenium 1.0](https://github.com/Karlos-fr/proscenium/releases/tag/v1.0).
 
 > **Coming from 1.0?** This version is signed with a new key and cannot be installed over 1.0:
 > uninstall Proscenium, then install 1.1. Settings and playlists start from scratch (packs are
