@@ -606,42 +606,52 @@ final class SettingsPanel extends PanelTabs {
 
     // ---------------------------------------------------------------- Onglet Films (TMDB)
 
-    void buildTmdb(List<Settings.Item> r) {
-        section(R.string.sec_tmdb_access);
-        content.addView(action(R.string.set_tmdb_key, R.string.help_tmdb_key, () -> ctx.getString(
-                !s.tmdbKey.value.isEmpty() ? R.string.key_entered
-                        : host.tmdb().hasKey() ? R.string.key_from_file : R.string.key_missing),
-                () -> askText(R.string.prompt_tmdb_key, "", k -> {
-                    s.tmdbKey.value = k.replaceAll("\\s", "");
-                    s.changed(s.tmdbKey);
+    @Override
+    void special(String id, List<Settings.Item> r) {
+        switch (id) {
+            case PanelLayout.TMDB_KEY:
+                content.addView(action(R.string.set_tmdb_key, R.string.help_tmdb_key, () -> ctx.getString(
+                        !s.tmdbKey.value.isEmpty() ? R.string.key_entered
+                                : host.tmdb().hasKey() ? R.string.key_from_file : R.string.key_missing),
+                        () -> askText(R.string.prompt_tmdb_key, "", k -> {
+                            s.tmdbKey.value = k.replaceAll("\\s", "");
+                            s.changed(s.tmdbKey);
+                            for (Runnable x : refreshers) x.run();
+                        })));
+                break;
+            case PanelLayout.TMDB_KEY_PHONE:
+                content.addView(action(R.string.act_key_phone, R.string.help_key_phone, () -> "›",
+                        () -> openPage(this::showKeyQr)));
+                break;
+            case PanelLayout.TMDB_TEST:
+                content.addView(action(R.string.act_test_tmdb, R.string.help_test_tmdb, () -> tmdbTest, () -> {
+                    tmdbTest = ctx.getString(R.string.loading);
+                    Tmdb tmdb = host.tmdb();
+                    async(tmdb::test, (ok, err) -> {
+                        tmdbTest = ctx.getString(Boolean.TRUE.equals(ok) ? R.string.test_ok : R.string.test_failed);
+                        for (Runnable x : refreshers) x.run();
+                    });
+                }).badgeOf(R.string.badge_internet));
+                break;
+            case PanelLayout.CACHE:
+                content.addView(action(R.string.set_cache, R.string.help_cache,
+                        () -> String.format(Lang.locale(ctx), "%.1f Mo", Tmdb.cacheSize(ctx) / 1048576f), null));
+                break;
+            case PanelLayout.CLEAR_CACHE:
+                content.addView(confirmAction(R.string.act_clear_cache, R.string.help_clear_cache, () -> {
+                    Tmdb.clearCache(ctx);
+                    thumbs.evictAll();
                     for (Runnable x : refreshers) x.run();
-                })));
-        content.addView(action(R.string.act_key_phone, R.string.help_key_phone, () -> "›",
-                () -> openPage(this::showKeyQr)));
-        final String[] test = {""};
-        content.addView(action(R.string.act_test_tmdb, R.string.help_test_tmdb, () -> test[0], () -> {
-            test[0] = ctx.getString(R.string.loading);
-            Tmdb tmdb = host.tmdb();
-            async(tmdb::test, (ok, err) -> {
-                test[0] = ctx.getString(Boolean.TRUE.equals(ok) ? R.string.test_ok : R.string.test_failed);
-                for (Runnable x : refreshers) x.run();
-            });
-        }).badgeOf(R.string.badge_internet));
-
-        section(R.string.sec_tmdb_images);
-        add(r, choice(s.tmdbLang), choice(s.tmdbQuality), flag(s.textlessOnly), flag(s.fullHdOnly));
-
-        section(R.string.sec_cache);
-        content.addView(action(R.string.set_cache, R.string.help_cache,
-                () -> String.format(Lang.locale(ctx), "%.1f Mo", Tmdb.cacheSize(ctx) / 1048576f), null));
-        content.addView(confirmAction(R.string.act_clear_cache, R.string.help_clear_cache, () -> {
-            Tmdb.clearCache(ctx);
-            thumbs.evictAll();
-            for (Runnable x : refreshers) x.run();
-        }));
-        statusRow();
-        section(R.string.sec_about);
-        tmdbLogo();
-        note(ctx.getString(R.string.tmdb_notice));
+                }));
+                break;
+            case PanelLayout.DOWNLOADS:
+                statusRow();
+                break;
+            default:
+                super.special(id, r);
+        }
     }
+
+    /** Résultat de « Tester la connexion » ; survit aux reconstructions de l'onglet. */
+    String tmdbTest = "";
 }

@@ -204,24 +204,9 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
     @Override
     public Screen screen(String id, TvRemote.Query q) {
         Settings s = act.settings;
+        int tab = tabOf(id);
+        if (tab >= 0) return layoutScreen(id, tab);
         switch (id) {
-            case "backdrops": {
-                Screen sc = tab(id, R.string.tab_backdrops, 0);
-                section(sc, R.string.sec_source);
-                sc.add(item(s.bgSource));
-                sc.add(Item.button("playlists", str(R.string.set_active_playlists)).opens("playlists")
-                        .help(str(R.string.help_active_playlists)).value(activeSummary()));
-                sc.add(Item.button("next", str(R.string.act_next_image)).help(str(R.string.help_next_image)));
-                section(sc, R.string.sec_rotation);
-                add(sc, s.bgDelay, s.bgOrder);
-                section(sc, R.string.sec_transition);
-                add(sc, s.bgTransition, s.bgTransitionMs);
-                section(sc, R.string.sec_ken_burns);
-                add(sc, s.kenBurns, s.kbAmplitude, s.kbCycle);
-                section(sc, R.string.sec_light);
-                add(sc, s.vignette, s.vignetteIntensity, s.themeAuto, s.themeColor, s.entrance, s.parallax);
-                return sc;
-            }
             case "playlists": {
                 Screen sc = tab(id, R.string.tab_playlists, 1);
                 Item grid = Item.grid("active", str(R.string.sec_my_playlists), Item.Check.MULTI)
@@ -238,100 +223,13 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
                 return sc;
             }
             case "packs": return packs();
-            case "cinema": {
-                Screen sc = tab(id, R.string.tab_cinema, 2);
-                section(sc, R.string.sec_activation);
-                add(sc, s.cinemaDelay, s.keepScreenOn);
-                section(sc, R.string.sec_bars);
-                add(sc, s.cinemaBars, s.barOpacity, s.cinemaKeepZoom);
-                section(sc, R.string.sec_title_card);
-                add(sc, s.titleMode, s.titleSide, s.showYear, s.titleInfo, s.titleRating, s.titleSummary, s.titleTextSize);
-                section(sc, R.string.sec_clock_header);
-                add(sc, s.clockSeconds, s.hideHeader);
-                section(sc, R.string.sec_screensaver);
-                sc.add(Item.toggle("screensaver", str(R.string.set_screensaver), dreamEnabled())
-                        .help(str(R.string.help_screensaver)));
-                return sc;
-            }
-            case "dock": {
-                Screen sc = tab(id, R.string.tab_dock, 3);
-                section(sc, R.string.sec_apps);
-                sc.add(Item.button("apps", str(R.string.set_dock_apps)).opens("dock_apps")
-                        .help(str(R.string.help_dock_apps)).value(String.valueOf(dockOrder().size())));
-                section(sc, R.string.sec_band);
-                add(sc, s.bandMode, s.slimBand);
-                section(sc, R.string.sec_tiles);
-                add(sc, s.visibleApps, s.tileSize, s.tileSpacing, s.centerZoom, s.tilt, s.shine, s.neighborDim);
-                section(sc, R.string.sec_glow);
-                add(sc, s.glowMode, s.glowPower, s.glowAnim, s.glowAnimAmount, s.glowAnimSpeed);
-                section(sc, R.string.sec_scroll);
-                add(sc, s.scrollSpeed, s.scrollParallax, s.loop);
-                return sc;
-            }
             case "dock_apps": return dockApps();
-            case "home": {
-                Screen sc = tab(id, R.string.tab_home, 4);
-                section(sc, R.string.sec_weather);
-                sc.add(Item.text("city", str(R.string.set_weather_city), s.weatherCity.value)
-                        .help(cityStatus.isEmpty() ? str(R.string.help_weather_city) : cityStatus)
-                        .badge(str(R.string.badge_internet), "internet"));
-                add(sc, s.tempUnit, s.weatherFx, s.fxSun, s.fxRain, s.fxLightning, s.fxSnow, s.fxFog, s.fxWind,
-                        s.weatherFxAmount, s.weatherLens);
-                sc.add(Item.button("styles", str(R.string.act_weather_styles)).opens("weather_styles")
-                        .help(str(R.string.help_weather_styles)).badge(str(R.string.badge_cpu), "cpu"));
-                section(sc, R.string.sec_time);
-                add(sc, s.timeFormat, s.clockSize, s.dateSize);
-                section(sc, R.string.sec_header);
-                add(sc, s.showCpu, s.showRam, s.showWeather, s.showWind, s.weatherAnim, s.headerScale);
-                section(sc, R.string.sec_sounds);
-                add(sc, s.uiSounds, s.uiVolume);
-                return sc;
-            }
             case "weather_styles": {
                 Screen sc = Screen.of(id, str(R.string.act_weather_styles)).subtitle(str(R.string.hint_weather_styles));
                 for (WeatherStyles.Style w : act.weatherStyles.all) {
                     sc.add(Item.button("wx" + w.kind, str(w.name)).opens("wx:" + w.kind).help(str(w.help))
                             .value(presetName(w)).badge(str(R.string.badge_cpu), "cpu"));
                 }
-                return sc;
-            }
-            case "tmdb": {
-                Screen sc = tab(id, R.string.tab_tmdb, 5);
-                section(sc, R.string.sec_tmdb_access);
-                Tmdb tmdb = act.tmdb();
-                sc.add(Item.secret("key", str(R.string.set_tmdb_key), tmdb.hasKey())
-                        .placeholder(str(R.string.prompt_tmdb_key))
-                        .help(keyStatus.isEmpty() ? str(R.string.help_tmdb_key) : keyStatus));
-                sc.add(Item.button("test", str(R.string.act_test_tmdb)).help(str(R.string.help_test_tmdb))
-                        .badge(str(R.string.badge_internet), "internet"));
-                section(sc, R.string.sec_tmdb_images);
-                add(sc, s.tmdbLang, s.tmdbQuality, s.textlessOnly, s.fullHdOnly);
-                section(sc, R.string.sec_cache);
-                sc.add(Item.info("cache", str(R.string.set_cache),
-                        String.format(Lang.locale(act), "%.1f Mo", Tmdb.cacheSize(act) / 1048576f)));
-                sc.add(Item.button("clear_cache", str(R.string.act_clear_cache)).help(str(R.string.help_clear_cache))
-                        .confirm(str(R.string.act_clear_cache) + " ?"));
-                downloads(sc);
-                return sc;
-            }
-            case "system": {
-                Screen sc = tab(id, R.string.tab_system, 6);
-                section(sc, R.string.sec_language);
-                add(sc, s.language);
-                section(sc, R.string.sec_performance);
-                add(sc, s.economy);
-                section(sc, R.string.sec_maintenance);
-                sc.add(Item.button("backup", str(R.string.act_backup)).help(str(R.string.help_backup)).value(backupStatus));
-                sc.add(Item.button("restore", str(R.string.act_restore)).help(str(R.string.help_restore))
-                        .confirm(str(R.string.act_restore) + " ?"));
-                sc.add(Item.button("reset_all", str(R.string.act_reset_all)).help(str(R.string.help_reset_all))
-                        .confirm(str(R.string.act_reset_all) + " ?"));
-                section(sc, R.string.sec_updates);
-                add(sc, s.updateCheck);
-                section(sc, R.string.sec_about);
-                sc.add(Item.info("version", str(R.string.set_version), act.versionName()));
-                sc.add(Item.info("credits", str(R.string.set_credits), str(R.string.credits_value)));
-                sc.add(Item.info("tmdb_notice", str(R.string.tmdb_notice), ""));
                 return sc;
             }
             case "live": {
@@ -345,6 +243,123 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
             return w == null ? null : weatherStyle(w);
         }
         return null;
+    }
+
+    // ---------------------------------------------------------------- Onglets décrits par PanelLayout
+
+    /** Onglets de la page lus dans PanelLayout (la description du panneau de la TV). */
+    private static final String[] LAYOUT_IDS = {"backdrops", "cinema", "dock", "home", "tmdb", "system"};
+    private static final int[] LAYOUT_TABS = {PanelCore.TAB_BACKDROPS, PanelCore.TAB_CINEMA, PanelCore.TAB_DOCK,
+            PanelCore.TAB_HOME, PanelCore.TAB_TMDB, PanelCore.TAB_SYSTEM};
+    private static final int[] LAYOUT_TITLES = {R.string.tab_backdrops, R.string.tab_cinema, R.string.tab_dock,
+            R.string.tab_home, R.string.tab_tmdb, R.string.tab_system};
+
+    /**
+     * Lignes de la TV seulement : saisie de la clé par QR code, paramètres et services d'Android,
+     * économiseur d'Android, mise à jour (l'installeur s'ouvre sur la TV), premiers pas, et la
+     * télécommande elle-même (la régler depuis le téléphone pourrait la couper).
+     */
+    private static final java.util.Set<String> TV_ONLY = new java.util.HashSet<>(java.util.Arrays.asList(
+            PanelLayout.TMDB_KEY_PHONE, PanelLayout.DREAM_SETTINGS, PanelLayout.WEB_REMOTE, PanelLayout.SERVICE,
+            PanelLayout.ANDROID_SETTINGS, PanelLayout.UPDATE, PanelLayout.WELCOME));
+
+    private static int tabOf(String id) {
+        for (int i = 0; i < LAYOUT_IDS.length; i++) if (LAYOUT_IDS[i].equals(id)) return i;
+        return -1;
+    }
+
+    /** Un onglet, entrée par entrée, comme sur la TV : un réglage ajouté à PanelLayout apparaît ici aussi. */
+    private Screen layoutScreen(String id, int i) {
+        Screen sc = Screen.of(id, str(LAYOUT_TITLES[i]));
+        // Une section ne s'affiche que si au moins une de ses lignes existe sur le téléphone
+        int pending = 0;
+        for (Object e : PanelLayout.of(LAYOUT_TABS[i], act.settings)) {
+            if (e instanceof PanelLayout.Section) {
+                pending = ((PanelLayout.Section) e).title;
+                continue;
+            }
+            if (e instanceof PanelLayout.Special && TV_ONLY.contains(((PanelLayout.Special) e).id)) continue;
+            if (pending != 0) {
+                section(sc, pending);
+                pending = 0;
+            }
+            if (e instanceof Settings.Item) sc.add(item((Settings.Item) e));
+            else if (e instanceof PanelLayout.Special) special(sc, ((PanelLayout.Special) e).id);
+        }
+        return sc;
+    }
+
+    /** Ligne particulière, version téléphone ; celles qui n'ont de sens que sur la TV sont omises. */
+    private void special(Screen sc, String id) {
+        Settings s = act.settings;
+        switch (id) {
+            case PanelLayout.ACTIVE_PLAYLISTS:
+                sc.add(Item.button("playlists", str(R.string.set_active_playlists)).opens("playlists")
+                        .help(str(R.string.help_active_playlists)).value(activeSummary()));
+                break;
+            case PanelLayout.NEXT_IMAGE:
+                sc.add(Item.button("next", str(R.string.act_next_image)).help(str(R.string.help_next_image)));
+                break;
+            case PanelLayout.SCREENSAVER:
+                sc.add(Item.toggle("screensaver", str(R.string.set_screensaver), dreamEnabled())
+                        .help(str(R.string.help_screensaver)));
+                break;
+            case PanelLayout.DOCK_APPS:
+                sc.add(Item.button("apps", str(R.string.set_dock_apps)).opens("dock_apps")
+                        .help(str(R.string.help_dock_apps)).value(String.valueOf(dockOrder().size())));
+                break;
+            case PanelLayout.CITY:
+                sc.add(Item.text("city", str(R.string.set_weather_city), s.weatherCity.value)
+                        .help(cityStatus.isEmpty() ? str(R.string.help_weather_city) : cityStatus)
+                        .badge(str(R.string.badge_internet), "internet"));
+                break;
+            case PanelLayout.WEATHER_STYLES:
+                sc.add(Item.button("styles", str(R.string.act_weather_styles)).opens("weather_styles")
+                        .help(str(R.string.help_weather_styles)).badge(str(R.string.badge_cpu), "cpu"));
+                break;
+            case PanelLayout.TMDB_KEY:
+                sc.add(Item.secret("key", str(R.string.set_tmdb_key), act.tmdb().hasKey())
+                        .placeholder(str(R.string.prompt_tmdb_key))
+                        .help(keyStatus.isEmpty() ? str(R.string.help_tmdb_key) : keyStatus));
+                break;
+            case PanelLayout.TMDB_TEST:
+                sc.add(Item.button("test", str(R.string.act_test_tmdb)).help(str(R.string.help_test_tmdb))
+                        .badge(str(R.string.badge_internet), "internet"));
+                break;
+            case PanelLayout.CACHE:
+                sc.add(Item.info("cache", str(R.string.set_cache),
+                        String.format(Lang.locale(act), "%.1f Mo", Tmdb.cacheSize(act) / 1048576f)));
+                break;
+            case PanelLayout.CLEAR_CACHE:
+                sc.add(Item.button("clear_cache", str(R.string.act_clear_cache)).help(str(R.string.help_clear_cache))
+                        .confirm(str(R.string.act_clear_cache) + " ?"));
+                break;
+            case PanelLayout.DOWNLOADS:
+                downloads(sc);
+                break;
+            case PanelLayout.BACKUP:
+                sc.add(Item.button("backup", str(R.string.act_backup)).help(str(R.string.help_backup)).value(backupStatus));
+                break;
+            case PanelLayout.RESTORE:
+                sc.add(Item.button("restore", str(R.string.act_restore)).help(str(R.string.help_restore))
+                        .confirm(str(R.string.act_restore) + " ?"));
+                break;
+            case PanelLayout.RESET_ALL:
+                sc.add(Item.button("reset_all", str(R.string.act_reset_all)).help(str(R.string.help_reset_all))
+                        .confirm(str(R.string.act_reset_all) + " ?"));
+                break;
+            case PanelLayout.VERSION:
+                sc.add(Item.info("version", str(R.string.set_version), act.versionName()));
+                break;
+            case PanelLayout.CREDITS:
+                sc.add(Item.info("credits", str(R.string.set_credits), str(R.string.credits_value)));
+                break;
+            case PanelLayout.TMDB_ABOUT:
+                sc.add(Item.info("tmdb_notice", str(R.string.tmdb_notice), ""));
+                break;
+            default:                                             // TV_ONLY
+                break;
+        }
     }
 
     // ---------------------------------------------------------------- Écrans particuliers

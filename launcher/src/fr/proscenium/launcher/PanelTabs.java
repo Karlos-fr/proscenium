@@ -52,7 +52,6 @@ abstract class PanelTabs extends PanelCore {
     /** Onglets Playlists et Films (TMDB), construits dans SettingsPanel. */
     abstract void buildPlaylists();
 
-    abstract void buildTmdb(List<Settings.Item> r);
 
 
     // ---------------------------------------------------------------- Contenu des onglets
@@ -65,14 +64,12 @@ abstract class PanelTabs extends PanelCore {
         clearContent();
         List<Settings.Item> resettable = new ArrayList<>();
         switch (tab) {
-            case TAB_BACKDROPS: buildBackdrops(resettable); break;
             case TAB_PLAYLISTS: buildPlaylists(); break;
-            case TAB_TMDB: buildTmdb(resettable); break;
-            case TAB_CINEMA: buildCinema(resettable); break;
-            case TAB_DOCK: buildDock(resettable); break;
             case TAB_GLASS: buildGlass(resettable); break;
-            case TAB_HOME: buildHome(resettable); break;
-            default: buildSystem(); return;
+            default:
+                buildLayout(tab, resettable);
+                if (!PanelLayout.resettable(tab)) return;
+                break;
         }
         if (!resettable.isEmpty() || tab == TAB_GLASS) {
             section(0);
@@ -91,43 +88,152 @@ abstract class PanelTabs extends PanelCore {
         }
     }
 
-    void buildBackdrops(List<Settings.Item> r) {
-        section(R.string.sec_source);
-        add(r, choice(s.bgSource));
-        content.addView(action(R.string.set_active_playlists, R.string.help_active_playlists, () -> {
-            List<String> names = new ArrayList<>();
-            for (String id : s.activeIds()) {
-                Playlists.Playlist p = Playlists.byId(ctx, id);
-                if (p != null) names.add(p.name);
+    // ---------------------------------------------------------------- Onglets décrits par PanelLayout
+
+    /** Construit un onglet depuis sa description (la même que celle de la télécommande web). */
+    void buildLayout(int tab, List<Settings.Item> r) {
+        for (Object e : PanelLayout.of(tab, s)) {
+            if (e instanceof PanelLayout.Section) {
+                section(((PanelLayout.Section) e).title);
+            } else if (e instanceof Settings.Flag) {
+                add(r, flag((Settings.Flag) e));
+            } else if (e instanceof Settings.Num) {
+                add(r, num((Settings.Num) e));
+            } else if (e instanceof Settings.Choice) {
+                add(r, choice((Settings.Choice) e));
+            } else if (e instanceof PanelLayout.Special) {
+                special(((PanelLayout.Special) e).id, r);
             }
-            String shown = names.isEmpty() ? ctx.getString(R.string.logo_none)
-                    : names.size() == 1 ? names.get(0)
-                    : ctx.getResources().getQuantityString(R.plurals.playlists, names.size(), names.size());
-            return shown + "  ›";
-        }, () -> tabViews.get(TAB_PLAYLISTS).requestFocus()));
-        content.addView(action(R.string.act_next_image, R.string.help_next_image, null, host::nextBackdrop));
-        section(R.string.sec_rotation);
-        add(r, choice(s.bgDelay), choice(s.bgOrder));
-        section(R.string.sec_transition);
-        add(r, choice(s.bgTransition), num(s.bgTransitionMs));
-        section(R.string.sec_ken_burns);
-        add(r, flag(s.kenBurns), num(s.kbAmplitude), choice(s.kbCycle));
-        section(R.string.sec_light);
-        add(r, flag(s.vignette), num(s.vignetteIntensity), flag(s.themeAuto), choice(s.themeColor),
-                flag(s.entrance), num(s.parallax));
+        }
     }
 
-    void buildCinema(List<Settings.Item> r) {
-        section(R.string.sec_activation);
-        add(r, choice(s.cinemaDelay), flag(s.keepScreenOn));
-        section(R.string.sec_bars);
-        add(r, choice(s.cinemaBars), num(s.barOpacity), flag(s.cinemaKeepZoom));
-        section(R.string.sec_title_card);
-        add(r, choice(s.titleMode), choice(s.titleSide), flag(s.showYear), flag(s.titleInfo), choice(s.titleRating),
-                choice(s.titleSummary), num(s.titleTextSize));
-        section(R.string.sec_clock_header);
-        add(r, flag(s.clockSeconds), flag(s.hideHeader));
-        screensaverSection();
+    /** État de la ligne « Sauvegarder les réglages » ; survit aux reconstructions de l'onglet. */
+    String backupStatus = "";
+
+    /**
+     * Ligne particulière d'un onglet (voir PanelLayout). Celles de l'onglet Films sont dans
+     * SettingsPanel, qui complète cette méthode.
+     */
+    void special(String id, List<Settings.Item> r) {
+        switch (id) {
+            case PanelLayout.ACTIVE_PLAYLISTS:
+                content.addView(action(R.string.set_active_playlists, R.string.help_active_playlists, () -> {
+                    List<String> names = new ArrayList<>();
+                    for (String pid : s.activeIds()) {
+                        Playlists.Playlist p = Playlists.byId(ctx, pid);
+                        if (p != null) names.add(p.name);
+                    }
+                    String shown = names.isEmpty() ? ctx.getString(R.string.logo_none)
+                            : names.size() == 1 ? names.get(0)
+                            : ctx.getResources().getQuantityString(R.plurals.playlists, names.size(), names.size());
+                    return shown + "  ›";
+                }, () -> tabViews.get(TAB_PLAYLISTS).requestFocus()));
+                break;
+            case PanelLayout.NEXT_IMAGE:
+                content.addView(action(R.string.act_next_image, R.string.help_next_image, null, host::nextBackdrop));
+                break;
+            // Proscenium peut servir d'économiseur d'écran Android. Le désactiver retire Proscenium de la
+            // liste des économiseurs d'Android (qui reprend alors le sien) ; le choix de l'économiseur
+            // actif reste dans les paramètres d'Android, qu'on ouvre directement
+            case PanelLayout.SCREENSAVER:
+                content.addView(action(R.string.set_screensaver, R.string.help_screensaver,
+                        () -> ctx.getString(dreamEnabled() ? R.string.val_on : R.string.val_off), () -> {
+                            ctx.getPackageManager().setComponentEnabledSetting(dreamComponent(), dreamEnabled()
+                                            ? android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DISABLED
+                                            : android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DEFAULT,
+                                    android.content.pm.PackageManager.DONT_KILL_APP);
+                            ProsceniumRemote.contentChanged();
+                            for (Runnable x : new ArrayList<>(refreshers)) x.run();
+                        }));
+                break;
+            case PanelLayout.DREAM_SETTINGS:
+                content.addView(action(R.string.act_dream_settings, R.string.help_dream_settings,
+                        () -> currentDream() + "  ›", () -> {
+                            // Android TV : page des économiseurs. Google TV ne l'a plus et n'offre que son
+                            // mode ambiant (le choix d'un économiseur tiers s'y fait par adb, voir le README)
+                            for (String action : new String[]{android.provider.Settings.ACTION_DREAM_SETTINGS,
+                                    "com.google.android.tv.settings.ambient"}) {
+                                android.content.Intent i = new android.content.Intent(action)
+                                        .addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK);
+                                if (i.resolveActivity(ctx.getPackageManager()) == null) continue;
+                                try {
+                                    ctx.startActivity(i);
+                                    return;
+                                } catch (Exception ignored) {
+                                }
+                            }
+                            host.openAndroidSettings();
+                        }));
+                break;
+            case PanelLayout.DOCK_APPS:
+                content.addView(action(R.string.set_dock_apps, R.string.help_dock_apps,
+                        () -> String.valueOf(s.dockApps.value.isEmpty() ? 0 : s.dockApps.value.split(",").length) + "  ›",
+                        () -> openPage(this::showDockApps)));
+                r.add(s.dockApps);
+                break;
+            case PanelLayout.CITY:
+                content.addView(action(R.string.set_weather_city, R.string.help_weather_city, () -> s.weatherCity.value,
+                        this::askCity).badgeOf(R.string.badge_internet));
+                r.add(s.weatherCity);
+                r.add(s.weatherCoords);
+                break;
+            case PanelLayout.WEATHER_STYLES: {
+                Row styles = action(R.string.act_weather_styles, R.string.help_weather_styles, () -> "›",
+                        () -> openPage(this::showWeatherStyles));
+                styles.badgeOf(R.string.badge_cpu).setTag("weather_styles");
+                content.addView(styles);
+                break;
+            }
+            case PanelLayout.WEB_REMOTE:
+                content.addView(action(R.string.set_web_remote, R.string.help_web_remote,
+                        () -> onOff(s.webRemote.value) + "  ›", () -> openPage(webRemotePage)));
+                break;
+            case PanelLayout.SERVICE:
+                content.addView(action(R.string.set_service, R.string.help_service,
+                        () -> ctx.getString(host.homeServiceActive() ? R.string.service_on : R.string.service_off),
+                        host::openAccessibility));
+                break;
+            case PanelLayout.ANDROID_SETTINGS:
+                content.addView(action(R.string.act_android_settings, R.string.help_android_settings, null,
+                        host::openAndroidSettings));
+                break;
+            case PanelLayout.BACKUP:
+                content.addView(action(R.string.act_backup, R.string.help_backup, () -> backupStatus, () -> {
+                    backupStatus = ctx.getString(host.backupSettings() ? R.string.backup_done : R.string.backup_failed);
+                }));
+                break;
+            case PanelLayout.RESTORE:
+                content.addView(confirmAction(R.string.act_restore, R.string.help_restore, () -> {
+                    if (!host.restoreSettings()) help.setText(R.string.restore_none);
+                }));
+                break;
+            case PanelLayout.RESET_ALL:
+                content.addView(confirmAction(R.string.act_reset_all, R.string.help_reset_all, () -> {
+                    g.resetAll();
+                    host.glassChanged();
+                    s.resetAll();
+                }));
+                break;
+            case PanelLayout.UPDATE:
+                updateRow();
+                break;
+            case PanelLayout.WELCOME:
+                content.addView(action(R.string.act_welcome, R.string.help_welcome, () -> "›", this::openWelcome));
+                break;
+            case PanelLayout.VERSION:
+                content.addView(action(R.string.set_version, R.string.help_version, host::versionName, null));
+                break;
+            case PanelLayout.CREDITS:
+                content.addView(action(R.string.set_credits, R.string.help_credits,
+                        () -> ctx.getString(R.string.credits_value), null));
+                break;
+            case PanelLayout.TMDB_ABOUT:
+                tmdbLogo();
+                note(ctx.getString(R.string.tmdb_notice));
+                break;
+            default:
+                break;
+        }
     }
 
     // ---------------------------------------------------------------- Premiers pas
@@ -206,57 +312,6 @@ abstract class PanelTabs extends PanelCore {
         }
     }
 
-    /**
-     * Proscenium peut servir d'économiseur d'écran Android. Le désactiver retire Proscenium de la
-     * liste des économiseurs d'Android (qui reprend alors le sien) ; le choix de l'économiseur
-     * actif reste dans les paramètres d'Android, qu'on ouvre directement.
-     */
-    void screensaverSection() {
-        section(R.string.sec_screensaver);
-        content.addView(action(R.string.set_screensaver, R.string.help_screensaver,
-                () -> ctx.getString(dreamEnabled() ? R.string.val_on : R.string.val_off), () -> {
-                    ctx.getPackageManager().setComponentEnabledSetting(dreamComponent(), dreamEnabled()
-                                    ? android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DISABLED
-                                    : android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DEFAULT,
-                            android.content.pm.PackageManager.DONT_KILL_APP);
-                    ProsceniumRemote.contentChanged();
-                    for (Runnable x : new ArrayList<>(refreshers)) x.run();
-                }));
-        content.addView(action(R.string.act_dream_settings, R.string.help_dream_settings,
-                () -> currentDream() + "  ›", () -> {
-                    // Android TV : page des économiseurs. Google TV ne l'a plus et n'offre que son
-                    // mode ambiant (le choix d'un économiseur tiers s'y fait par adb, voir le README)
-                    for (String action : new String[]{android.provider.Settings.ACTION_DREAM_SETTINGS,
-                            "com.google.android.tv.settings.ambient"}) {
-                        android.content.Intent i = new android.content.Intent(action)
-                                .addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK);
-                        if (i.resolveActivity(ctx.getPackageManager()) == null) continue;
-                        try {
-                            ctx.startActivity(i);
-                            return;
-                        } catch (Exception ignored) {
-                        }
-                    }
-                    host.openAndroidSettings();
-                }));
-    }
-
-    void buildDock(List<Settings.Item> r) {
-        section(R.string.sec_apps);
-        content.addView(action(R.string.set_dock_apps, R.string.help_dock_apps,
-                () -> String.valueOf(s.dockApps.value.isEmpty() ? 0 : s.dockApps.value.split(",").length) + "  ›",
-                () -> openPage(this::showDockApps)));
-        r.add(s.dockApps);
-        section(R.string.sec_band);
-        add(r, choice(s.bandMode), flag(s.slimBand));
-        section(R.string.sec_tiles);
-        add(r, choice(s.visibleApps), num(s.tileSize), num(s.tileSpacing), num(s.centerZoom), num(s.tilt), flag(s.shine), num(s.neighborDim));
-        section(R.string.sec_glow);
-        add(r, choice(s.glowMode), num(s.glowPower), flag(s.glowAnim), num(s.glowAnimAmount), num(s.glowAnimSpeed));
-        section(R.string.sec_scroll);
-        add(r, choice(s.scrollSpeed), flag(s.scrollParallax), flag(s.loop));
-    }
-
     void buildGlass(List<Settings.Item> r) {
         section(R.string.sec_glass_engine);
         add(r, flag(s.glassEngine), num(s.rimWidth));
@@ -300,61 +355,6 @@ abstract class PanelTabs extends PanelCore {
         focusFirstRow();
     }
 
-    void buildHome(List<Settings.Item> r) {
-        section(R.string.sec_weather);
-        content.addView(action(R.string.set_weather_city, R.string.help_weather_city, () -> s.weatherCity.value,
-                this::askCity).badgeOf(R.string.badge_internet));
-        r.add(s.weatherCity);
-        r.add(s.weatherCoords);
-        add(r, choice(s.tempUnit), choice(s.weatherFx), flag(s.fxSun), flag(s.fxRain), flag(s.fxLightning), flag(s.fxSnow),
-                flag(s.fxFog), choice(s.fxWind), num(s.weatherFxAmount), flag(s.weatherLens));
-        Row styles = action(R.string.act_weather_styles, R.string.help_weather_styles, () -> "›",
-                () -> openPage(this::showWeatherStyles));
-        styles.badgeOf(R.string.badge_cpu).setTag("weather_styles");
-        content.addView(styles);
-        section(R.string.sec_time);
-        add(r, choice(s.timeFormat), num(s.clockSize), num(s.dateSize));
-        section(R.string.sec_header);
-        add(r, flag(s.showCpu), flag(s.showRam), flag(s.showWeather), flag(s.showWind), flag(s.weatherAnim), num(s.headerScale));
-        section(R.string.sec_sounds);
-        add(r, flag(s.uiSounds), num(s.uiVolume));
-    }
-
-    void buildSystem() {
-        section(R.string.sec_language);
-        content.addView(choice(s.language));
-        section(R.string.sec_performance);
-        content.addView(flag(s.economy));
-        section(R.string.sec_web_remote);
-        content.addView(action(R.string.set_web_remote, R.string.help_web_remote,
-                () -> onOff(s.webRemote.value) + "  ›", () -> openPage(webRemotePage)));
-        section(R.string.sec_service);
-        content.addView(action(R.string.set_service, R.string.help_service,
-                () -> ctx.getString(host.homeServiceActive() ? R.string.service_on : R.string.service_off),
-                host::openAccessibility));
-        content.addView(action(R.string.act_android_settings, R.string.help_android_settings, null, host::openAndroidSettings));
-        section(R.string.sec_maintenance);
-        final String[] saved = {""};
-        content.addView(action(R.string.act_backup, R.string.help_backup, () -> saved[0], () -> {
-            saved[0] = ctx.getString(host.backupSettings() ? R.string.backup_done : R.string.backup_failed);
-        }));
-        content.addView(confirmAction(R.string.act_restore, R.string.help_restore, () -> {
-            if (!host.restoreSettings()) help.setText(R.string.restore_none);
-        }));
-        content.addView(confirmAction(R.string.act_reset_all, R.string.help_reset_all, () -> {
-            g.resetAll();
-            host.glassChanged();
-            s.resetAll();
-        }));
-        updateSection();
-        section(R.string.sec_about);
-        content.addView(action(R.string.act_welcome, R.string.help_welcome, () -> "›", this::openWelcome));
-        content.addView(action(R.string.set_version, R.string.help_version, host::versionName, null));
-        content.addView(action(R.string.set_credits, R.string.help_credits, () -> ctx.getString(R.string.credits_value), null));
-        tmdbLogo();
-        note(ctx.getString(R.string.tmdb_notice));
-    }
-
     // ---------------------------------------------------------------- Mises à jour
 
     /** État affiché sur la ligne « Mise à jour » ; survit aux reconstructions de l'onglet. */
@@ -365,10 +365,9 @@ abstract class PanelTabs extends PanelCore {
      * OK sur la ligne : cherche une nouvelle version ; si elle est connue, la télécharge puis la
      * confie à l'installeur d'Android (qui demande confirmation).
      */
-    void updateSection() {
+    void updateRow() {
         android.content.SharedPreferences prefs = ctx.getSharedPreferences("proscenium", Context.MODE_PRIVATE);
         Runnable refreshAll = () -> { for (Runnable x : new java.util.ArrayList<>(refreshers)) x.run(); };
-        section(R.string.sec_updates);
         content.addView(action(R.string.act_update, R.string.help_update, () -> {
             if (!updateStatus.isEmpty()) return updateStatus;
             Updater.Release known = Updater.known(ctx, prefs);
@@ -416,7 +415,6 @@ abstract class PanelTabs extends PanelCore {
                 }
             }, "proscenium-update").start();
         }).badgeOf(R.string.badge_internet));
-        content.addView(flag(s.updateCheck));
     }
 
     // ---------------------------------------------------------------- Sous-page : applis de la barre

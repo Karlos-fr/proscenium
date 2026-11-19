@@ -27,6 +27,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   passwords, the page says so instead of "connection lost".
   The page also refreshes when playlists, films or packs change on the TV, when a weather's own
   settings change, and when the screensaver is turned on or off.
+  The page's tabs are read from the same description as the TV's settings panel (PanelLayout), so a
+  setting added to the panel shows up on the page too.
   Built on [TV Remote](https://github.com/Karlos-fr/tvremote) v0.2.1, a core
   shared with Lactea.
 - Updates: Proscenium checks GitHub for a new version once a day and shows a short message when one
