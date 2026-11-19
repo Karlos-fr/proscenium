@@ -26,8 +26,8 @@ It runs on Android TV / Google TV televisions and boxes (Android 7.1 or later) a
 entirely with the remote.
 
 <p align="center">
-  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="images/video-thumbnail.jpg" alt="Demo video (55 s)" width="760" /></a>
-  <br /><sub>▶ Demo video (55 s)</sub>
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="images/video-thumbnail.jpg" alt="Demo video (1:29)" width="760" /></a>
+  <br /><sub>▶ Demo video (1:29)</sub>
 </p>
 
 <p align="center">

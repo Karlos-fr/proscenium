@@ -26,8 +26,8 @@ Funciona en TV y cajas Android TV / Google TV (Android 7.1 o más reciente) y se
 con el mando a distancia.
 
 <p align="center">
-  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Vídeo de demostración (55 s)" width="760" /></a>
-  <br /><sub>▶ Vídeo de demostración (55 s)</sub>
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Vídeo de demostración (1:29)" width="760" /></a>
+  <br /><sub>▶ Vídeo de demostración (1:29)</sub>
 </p>
 
 <p align="center">

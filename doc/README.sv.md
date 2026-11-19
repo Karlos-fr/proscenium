@@ -26,8 +26,8 @@ Det fungerar på Android TV- och Google TV-apparater och -boxar (Android 7.1 ell
 helt med fjärrkontrollen.
 
 <p align="center">
-  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Demovideo (55 s)" width="760" /></a>
-  <br /><sub>▶ Demovideo (55 s)</sub>
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Demovideo (1:29)" width="760" /></a>
+  <br /><sub>▶ Demovideo (1:29)</sub>
 </p>
 
 <p align="center">

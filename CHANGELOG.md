@@ -94,6 +94,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   "Random values" button that also turns the animation on.
 - README (in the six languages): new sections on the living weather and the web remote, and the
   film details of the cinema mode title card.
+- New demo video (1:29, recorded on the TV, English captions): app bar in glass, HDMI shortcuts and
+  their console logos, settings panel, web remote and its QR code, cinema mode and every weather.
 - Weather town: when several towns have the name typed (very common in Italy, for one), a list with
   province, region and country lets you pick yours, on the TV and on the web remote (20 results
   instead of the first one only).

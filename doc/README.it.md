@@ -26,8 +26,8 @@ Funziona su TV e box Android TV / Google TV (Android 7.1 o successivo) e si cont
 il telecomando.
 
 <p align="center">
-  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Video dimostrativo (55 s)" width="760" /></a>
-  <br /><sub>▶ Video dimostrativo (55 s)</sub>
+  <a href="https://github.com/Karlos-fr/proscenium/blob/main/video/proscenium-demo.mp4"><img src="../images/video-thumbnail.jpg" alt="Video dimostrativo (1:29)" width="760" /></a>
+  <br /><sub>▶ Video dimostrativo (1:29)</sub>
 </p>
 
 <p align="center">
