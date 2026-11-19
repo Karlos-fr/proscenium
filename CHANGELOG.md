@@ -17,7 +17,9 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   the glass), the playlists to show, the packs to install or remove, the apps of the bar in their
   order, the weather town and the weather pages (previewed live on the TV while one is open), the
   TMDB key (checked before it is saved, never sent back to the phone), and a bar with the film on
-  screen and "next backdrop". The page refreshes by itself when a setting changes on the TV. The
+  screen and "next backdrop". It works on a phone and in a computer's browser (tabs on the left,
+  mouse, Escape to go back, N for the next backdrop). The page refreshes by itself when a setting
+  changes on the TV. The
   address changes each time Proscenium starts. Built on a core shared with Lactea (fr.tvremote).
 - Updates: Proscenium checks GitHub for a new version once a day and shows a short message when one
   comes out. Settings → System → Update downloads it and hands it to Android's installer, which asks
