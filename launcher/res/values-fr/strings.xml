@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Ouvre les réglages de l\'économiseur d\'écran d\'Android. Google TV n\'y propose que les siens : choisir Proscenium se fait une fois depuis un ordinateur (voir le README).</string>
     <string name="dream_none">Aucun</string>
     <string name="set_weather_fx">Météo sur le fond</string>
-    <string name="help_weather_fx">Soleil, pluie, éclairs, neige et brouillard devant le film : la météo réelle de votre ville, ou un mélange au choix (Personnalisée).</string>
+    <string name="help_weather_fx">Soleil, pluie, éclairs, neige et brouillard devant le film : la météo réelle de votre ville, un mélange au choix (Personnalisée), un mélange tiré au sort de temps en temps (Aléatoire), ou un mélange choisi pour chaque fond d\'après les genres du film, son résumé et la lumière de l\'image (Selon le fond). Les couches se cumulent.</string>
     <string name="fx_real">Météo réelle</string>
     <string name="fx_rain">Pluie</string>
     <string name="fx_storm">Orage</string>
@@ -654,4 +654,6 @@
     <string name="web_remote_port_busy">Le port 8770 est pris par une autre appli : désactivez l\'adresse fixe, ou fermez cette appli.</string>
     <string name="web_remote_local">Aussi : %1$s (iPhone, Mac, PC)</string>
     <string name="web_remote_hint_fixed">Scannez ce code avec votre téléphone, sur le même Wi-Fi que la TV. L\'adresse reste la même : gardez-la en favori, ou ajoutez-la à l\'écran d\'accueil.</string>
+    <string name="fx_random">Aléatoire</string>
+    <string name="fx_smart">Selon le fond</string>
 </resources>

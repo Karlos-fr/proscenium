@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Öffnet die Bildschirmschoner-Einstellungen von Android. Google TV bietet dort nur seine eigenen an: Proscenium wird einmalig über einen Computer ausgewählt (siehe README).</string>
     <string name="dream_none">Keiner</string>
     <string name="set_weather_fx">Wetter auf dem Hintergrund</string>
-    <string name="help_weather_fx">Sonne, Regen, Blitze, Schnee und Nebel vor dem Film: das echte Wetter Ihrer Stadt oder eine Mischung nach Wahl (Benutzerdefiniert).</string>
+    <string name="help_weather_fx">Sonne, Regen, Blitze, Schnee und Nebel vor dem Film: das echte Wetter Ihrer Stadt, eine Mischung nach Wahl (Benutzerdefiniert), eine ab und zu ausgeloste Mischung (Zufällig) oder eine für jeden Hintergrund passend zu Genres, Inhalt und Licht des Bildes gewählte (Passend zum Hintergrund). Die Ebenen addieren sich.</string>
     <string name="fx_real">Echtes Wetter</string>
     <string name="fx_rain">Regen</string>
     <string name="fx_storm">Gewitter</string>
@@ -654,4 +654,6 @@
     <string name="web_remote_port_busy">Port 8770 wird von einer anderen App belegt: feste Adresse ausschalten oder diese App schließen.</string>
     <string name="web_remote_local">Auch: %1$s (iPhone, Mac, PC)</string>
     <string name="web_remote_hint_fixed">Scannen Sie diesen Code mit dem Handy im selben WLAN wie der Fernseher. Die Adresse bleibt gleich: als Lesezeichen speichern oder zum Startbildschirm hinzufügen.</string>
+    <string name="fx_random">Zufällig</string>
+    <string name="fx_smart">Passend zum Hintergrund</string>
 </resources>

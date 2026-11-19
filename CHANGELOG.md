@@ -57,6 +57,11 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   the wind (real, none, light, strong, gale); drops on the screen show the scene through the fog
   and veils outside. It can also be turned off (Android 13 and later for
   the drops).
+- Two more weather modes: Random draws a new mix of layers now and then (at most every two minutes,
+  when the backdrop changes), and Matching the backdrop picks one for each backdrop from the film's
+  genres, title and synopsis (in the six languages) and the light and colour of the picture, with a
+  little chance on top. Layers add up in both, a storm always comes with rain and hides the sun.
+  Layers now fade in and out over 2.5 s instead of switching at once, drops on the screen included.
 - Weather settings (Settings → Home → Weather → Weather settings): a page per weather with presets
   (drizzle to downpour, four storms from the Platformer lightning studio, light flurries to blizzard,
   mist to pea-souper) and fine settings, previewed live on the backdrop. Lightning is drawn as

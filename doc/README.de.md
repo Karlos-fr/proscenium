@@ -104,7 +104,11 @@ Das Wetter kann auf dem Bild lebendig werden, wie in einer Filmszene:
 
 **Echtes Wetter** zeigt das Wetter Ihrer Stadt (ein Gewitter bringt Regen und Blitze, Nieselregen
 bringt Regen und Nebel…). **Benutzerdefiniert** kombiniert die gewünschten Ebenen, mit dem Wind
-Ihrer Wahl. Jedes Wetter hat seine eigene Seite unter **Einstellungen → Startseite →
+Ihrer Wahl.
+**Zufällig** lost ab und zu eine neue Mischung aus, und **Passend zum Hintergrund** wählt eine für
+jeden Hintergrund nach den Genres des Films, seinem Inhalt und dem Licht des Bildes (Schnee für
+einen Winterfilm, Nebel für eine Geistergeschichte, Sonne für einen Western…). In allen Modi
+addieren sich die Ebenen, und das Wetter wechselt sanft von einem Hintergrund zum nächsten. Jedes Wetter hat seine eigene Seite unter **Einstellungen → Startseite →
 Wettereinstellungen**: Voreinstellungen, jede Einstellung live auf dem Bild, Zufallswerte und
 Rückkehr zu den ursprünglichen Einstellungen.
 

@@ -256,6 +256,9 @@ abstract class HomeBase extends Activity {
     /** Couleur de la lueur sous l'appli du centre (HomeDock). */
     abstract void updateGlowColor();
 
+    /** Nouveau fond à l'écran : les météos Aléatoire et Selon le fond peuvent changer avec lui. */
+    void frameWeather() { }
+
     /** Panneau de verre suivi par l'animation du fond (MainActivity). */
     public abstract GlassView newGlass(float radiusPx);
 

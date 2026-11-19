@@ -103,7 +103,11 @@ La météo peut s'animer sur l'image, comme dans une scène de film :
 
 **Météo réelle** montre le temps qu'il fait dans votre ville (un orage amène pluie et éclairs, la
 bruine amène pluie et brouillard…). **Personnalisée** permet de cumuler les couches voulues, avec le
-vent de votre choix. Chaque météo a sa page dans **Réglages → Accueil → Réglages de la météo** :
+vent de votre choix.
+**Aléatoire** tire un nouveau mélange de temps en temps, et **Selon le fond** en choisit un pour
+chaque fond d'après les genres du film, son résumé et la lumière de l'image (de la neige pour un
+film d'hiver, de la brume pour une histoire de fantômes, du soleil pour un western…). Dans tous les
+modes, les couches se cumulent et la météo passe en douceur d'un fond à l'autre. Chaque météo a sa page dans **Réglages → Accueil → Réglages de la météo** :
 préréglages, chaque réglage visible en direct sur l'image, valeurs aléatoires et retour aux réglages
 d'origine.
 

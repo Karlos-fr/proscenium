@@ -370,6 +370,7 @@ abstract class HomeBackdrop extends HomeBase {
         frame = f;
         ProsceniumRemote remote = ProsceniumRemote.get();
         if (remote != null) remote.frameChanged();
+        frameWeather();
         long ms = settings.bgTransitionMs.value;
         if (old == null) {
             wallImg.setImageBitmap(f.sharp);

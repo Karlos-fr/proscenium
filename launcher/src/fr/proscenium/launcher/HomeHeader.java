@@ -224,6 +224,8 @@ abstract class HomeHeader extends HomeBackdrop {
         int layers = WeatherFx.NONE;
         float amount = 0.85f;
         boolean custom = s.weatherFx.index == Settings.FX_CUSTOM;
+        boolean auto = s.weatherFx.index == Settings.FX_RANDOM || s.weatherFx.index == Settings.FX_SMART;
+        WeatherPicker.Pick pick = auto ? autoPick() : null;
         if (weatherPreview >= 0) {
             layers = weatherPreview;
             amount = 1f;
@@ -240,6 +242,9 @@ abstract class HomeHeader extends HomeBackdrop {
                 if (s.fxFog.value) layers |= WeatherFx.FOG;
                 if (s.fxSun.value) layers |= WeatherFx.SUN;
                 if (s.fxLightning.value) amount = 1f;
+            } else if (pick != null) {
+                layers = pick.layers;
+                amount = pick.amount;
             }
         }
         // Vent affiché dans le bandeau (en mph avec les °F, ramené à des km/h) : il pousse les gouttes
@@ -252,7 +257,12 @@ abstract class HomeHeader extends HomeBackdrop {
             gusts = mph ? Math.round(lastWeather.gusts * 1.609f) : lastWeather.gusts;
             from = lastWeather.windFrom;
         }
-        if (custom) {
+        if (pick != null) {
+            // Vent tiré avec la météo ; il souffle de la direction réelle, ou de l'ouest
+            wind = pick.wind;
+            gusts = pick.gusts;
+            if (lastWeather == null || Math.abs(Math.sin(Math.toRadians(from))) < 0.3) from = 270;
+        } else if (custom) {
             switch (s.fxWind.index) {
                 case Settings.WIND_NONE: wind = 0; gusts = 0; break;
                 case Settings.WIND_LIGHT: wind = 15; gusts = 25; break;
@@ -266,6 +276,45 @@ abstract class HomeHeader extends HomeBackdrop {
         float gust = wind > 0 ? Math.max(1f, gusts / (float) wind) : 1f;
         weatherFx.set(layers, amount * (weatherPreview >= 0 ? 1f : s.weatherFxAmount.f()), tilt, gust,
                 weatherPreview >= 0 || s.weatherLens.value);
+    }
+
+    // ---------------------------------------------------------------- Météo Aléatoire / Selon le fond
+
+    /** Météo choisie toute seule, le fond pour lequel elle l'a été, le mode et l'heure du choix. */
+    private WeatherPicker.Pick autoPick;
+    private Wallpaper.Frame autoFrame;
+    private int autoMode = -1;
+    private long autoAt;
+    private final java.util.Random autoRandom = new java.util.Random();
+    /** Aléatoire : un nouveau tirage au changement de fond, au plus toutes les deux minutes. */
+    private static final long RANDOM_EVERY_MS = 2 * 60_000L;
+
+    /** La météo du moment : gardée, ou choisie de nouveau pour ce fond. */
+    WeatherPicker.Pick autoPick() {
+        int mode = settings.weatherFx.index;
+        long now = System.currentTimeMillis();
+        boolean stale = autoPick == null || autoMode != mode
+                || (frame != autoFrame && (mode == Settings.FX_SMART || now - autoAt >= RANDOM_EVERY_MS));
+        if (!stale) return autoPick;
+        autoMode = mode;
+        autoFrame = frame;
+        autoAt = now;
+        if (mode == Settings.FX_RANDOM || frame == null) {
+            autoPick = WeatherPicker.random(autoRandom);
+        } else {
+            Playlists.Film film = frame.film;
+            String genres = film == null ? "" : film.genres;
+            String text = film == null ? frame.title
+                    : film.title + " " + film.customTitle + " " + film.tagline + " " + film.overview;
+            autoPick = WeatherPicker.smart(genres, text, frame.lumTop, frame.lumBottom, frame.accent, autoRandom);
+        }
+        return autoPick;
+    }
+
+    @Override
+    void frameWeather() {
+        int mode = settings.weatherFx.index;
+        if (mode == Settings.FX_RANDOM || mode == Settings.FX_SMART) applyWeatherFx();
     }
 
     void refreshWeather() {

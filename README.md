@@ -99,6 +99,10 @@ The weather can come to life on the picture, like a scene from a film:
 
 **Real weather** shows the weather of your town (a storm brings rain and lightning, drizzle brings
 rain and fog…). **Custom** lets you combine the layers you want, with the wind of your choice.
+**Random** draws a new mix now and then, and **Matching the backdrop** picks one for each
+backdrop from the film's genres, its synopsis and the light of the picture (snow for a winter film,
+mist for a ghost story, sun for a western…). In every mode the layers add up, and the weather
+changes smoothly from one backdrop to the next.
 Each weather has its own page in **Settings → Home → Weather settings**: presets, every setting
 shown live on the picture, random values, and back to the original settings.
 

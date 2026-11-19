@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Opens Android\'s screensaver settings. Google TV only offers its own screensavers there: choosing Proscenium is done once from a computer (see the README).</string>
     <string name="dream_none">None</string>
     <string name="set_weather_fx">Weather on the backdrop</string>
-    <string name="help_weather_fx">Sun, rain, lightning, snow and fog in front of the film: the real weather of your town, or a combination of your choice (Custom).</string>
+    <string name="help_weather_fx">Sun, rain, lightning, snow and fog in front of the film: the real weather of your town, a mix of your choice (Custom), a random mix that changes now and then (Random), or one chosen for each backdrop from the film\'s genres, its synopsis and the picture\'s light (Matching the backdrop). The layers add up.</string>
     <string name="fx_real">Real weather</string>
     <string name="fx_rain">Rain</string>
     <string name="fx_storm">Storm</string>
@@ -654,4 +654,6 @@
     <string name="web_remote_port_busy">Port 8770 is used by another app: turn off the fixed address, or close that app.</string>
     <string name="web_remote_local">Also: %1$s (iPhone, Mac, PC)</string>
     <string name="web_remote_hint_fixed">Scan this code with your phone, on the same Wi-Fi as the TV. The address stays the same: bookmark it, or add it to the home screen.</string>
+    <string name="fx_random">Random</string>
+    <string name="fx_smart">Matching the backdrop</string>
 </resources>

@@ -102,6 +102,10 @@ Il meteo può animarsi sull'immagine, come in una scena di film:
 
 **Meteo reale** mostra il tempo della tua città (un temporale porta pioggia e fulmini, la pioviggine
 porta pioggia e nebbia…). **Personalizzato** combina gli strati che vuoi, con il vento che scegli.
+**Casuale** estrae un nuovo mix ogni tanto, e **In base allo sfondo** ne sceglie uno per ogni
+sfondo in base ai generi del film, alla trama e alla luce dell'immagine (neve per un film
+invernale, nebbia per una storia di fantasmi, sole per un western…). In tutte le modalità gli
+strati si sommano e il meteo passa dolcemente da uno sfondo all'altro.
 Ogni meteo ha la sua pagina in **Impostazioni → Home → Impostazioni del meteo**: preimpostazioni,
 ogni impostazione visibile dal vivo sull'immagine, valori casuali e ritorno alle impostazioni
 originali.

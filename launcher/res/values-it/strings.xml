@@ -496,7 +496,7 @@
     <string name="help_dream_settings">Apre le impostazioni del salvaschermo di Android. Google TV vi propone solo i propri: Proscenium si sceglie una volta da un computer (vedi il README).</string>
     <string name="dream_none">Nessuno</string>
     <string name="set_weather_fx">Meteo sullo sfondo</string>
-    <string name="help_weather_fx">Sole, pioggia, fulmini, neve e nebbia davanti al film: il meteo reale della tua città, o un mix a scelta (Personalizzato).</string>
+    <string name="help_weather_fx">Sole, pioggia, fulmini, neve e nebbia davanti al film: il meteo reale della tua città, un mix a scelta (Personalizzato), un mix estratto a sorte ogni tanto (Casuale), o uno scelto per ogni sfondo in base ai generi del film, alla trama e alla luce dell\'immagine (In base allo sfondo). Gli strati si sommano.</string>
     <string name="fx_real">Meteo reale</string>
     <string name="fx_rain">Pioggia</string>
     <string name="fx_storm">Temporale</string>
@@ -654,4 +654,6 @@
     <string name="web_remote_port_busy">La porta 8770 è usata da un\'altra app: disattiva l\'indirizzo fisso, o chiudi quell\'app.</string>
     <string name="web_remote_local">Anche: %1$s (iPhone, Mac, PC)</string>
     <string name="web_remote_hint_fixed">Inquadra questo codice con il telefono, sullo stesso Wi-Fi della TV. L\'indirizzo resta lo stesso: salvalo nei preferiti, o aggiungilo alla schermata Home.</string>
+    <string name="fx_random">Casuale</string>
+    <string name="fx_smart">In base allo sfondo</string>
 </resources>

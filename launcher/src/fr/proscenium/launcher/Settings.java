@@ -285,9 +285,10 @@ final class Settings {
      * Météo vivante sur le fond (WeatherFx) : réelle, coupée, ou personnalisée (les couches cochées
      * ci-dessous, cumulables, et un vent au choix).
      */
-    static final int FX_REAL = 0, FX_OFF = 1, FX_CUSTOM = 2;
+    static final int FX_REAL = 0, FX_OFF = 1, FX_CUSTOM = 2, FX_RANDOM = 3, FX_SMART = 4;
     final Choice weatherFx = (Choice) new Choice("weather_fx", R.string.set_weather_fx, R.string.help_weather_fx, FX_REAL,
-            Format.LABELS, seq(3), R.string.fx_real, R.string.val_off, R.string.fx_custom).badge(R.string.badge_cpu);
+            Format.LABELS, seq(5), R.string.fx_real, R.string.val_off, R.string.fx_custom, R.string.fx_random,
+            R.string.fx_smart).badge(R.string.badge_cpu);
     final Flag fxRain = new Flag("fx_rain", R.string.fx_rain, R.string.help_fx_layer, true);
     final Flag fxLightning = new Flag("fx_lightning", R.string.fx_lightning, R.string.help_fx_layer, false);
     final Flag fxSnow = new Flag("fx_snow", R.string.fx_snow, R.string.help_fx_layer, false);

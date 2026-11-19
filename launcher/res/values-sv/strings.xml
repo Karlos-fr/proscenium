@@ -497,7 +497,7 @@
     <string name="help_dream_settings">Öppnar Androids inställningar för skärmsläckare. Google TV erbjuder bara sina egna där: Proscenium väljs en gång från en dator (se README).</string>
     <string name="dream_none">Ingen</string>
     <string name="set_weather_fx">Väder på bakgrunden</string>
-    <string name="help_weather_fx">Sol, regn, blixtar, snö och dimma framför filmen: det verkliga vädret i din stad, eller en blandning efter val (Anpassat).</string>
+    <string name="help_weather_fx">Sol, regn, blixtar, snö och dimma framför filmen: det verkliga vädret i din stad, en blandning efter val (Anpassat), en blandning som lottas då och då (Slumpmässig), eller en som väljs för varje bakgrund efter filmens genrer, handling och bildens ljus (Efter bakgrunden). Lagren läggs ihop.</string>
     <string name="fx_real">Verkligt väder</string>
     <string name="fx_rain">Regn</string>
     <string name="fx_storm">Åska</string>
@@ -655,4 +655,6 @@
     <string name="web_remote_port_busy">Port 8770 används av en annan app: stäng av den fasta adressen, eller stäng den appen.</string>
     <string name="web_remote_local">Även: %1$s (iPhone, Mac, PC)</string>
     <string name="web_remote_hint_fixed">Skanna koden med mobilen, i samma wifi som tv:n. Adressen ändras inte: spara den som bokmärke eller lägg till den på hemskärmen.</string>
+    <string name="fx_random">Slumpmässig</string>
+    <string name="fx_smart">Efter bakgrunden</string>
 </resources>

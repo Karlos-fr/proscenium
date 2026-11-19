@@ -101,7 +101,11 @@ El tiempo puede cobrar vida sobre la imagen, como en una escena de película:
 - **Niebla**: bancos de bruma que se desplazan, se arremolinan, se espesan y se disipan.
 
 **Tiempo real** muestra el tiempo de tu ciudad (una tormenta trae lluvia y rayos, la llovizna trae
-lluvia y niebla…). **Personalizado** combina las capas que quieras, con el viento que elijas. Cada
+lluvia y niebla…). **Personalizado** combina las capas que quieras, con el viento que elijas.
+**Aleatorio** sortea una mezcla nueva de vez en cuando, y **Según el fondo** elige una para cada
+fondo según los géneros de la película, su sinopsis y la luz de la imagen (nieve para una película
+de invierno, niebla para una historia de fantasmas, sol para un western…). En todos los modos las
+capas se suman y el tiempo pasa suavemente de un fondo a otro. Cada
 tiempo tiene su página en **Ajustes → Inicio → Ajustes del tiempo**: preajustes, cada ajuste
 visible en directo sobre la imagen, valores aleatorios y vuelta a los ajustes originales.
 

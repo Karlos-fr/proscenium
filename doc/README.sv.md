@@ -101,7 +101,11 @@ Vädret kan få liv i bilden, som i en filmscen:
 - **Dimma**: dimbankar som driver, virvlar, tätnar och lättar.
 
 **Verkligt väder** visar vädret i din stad (ett åskväder ger regn och blixtar, duggregn ger regn
-och dimma…). **Anpassat** kombinerar de lager du vill, med den vind du väljer. Varje väder har sin
+och dimma…). **Anpassat** kombinerar de lager du vill, med den vind du väljer.
+**Slumpmässig** lottar en ny blandning då och då, och **Efter bakgrunden** väljer en för varje
+bakgrund efter filmens genrer, handling och bildens ljus (snö för en vinterfilm, dimma för en
+spökhistoria, sol för en western…). I alla lägen läggs lagren ihop och vädret går mjukt över från
+en bakgrund till nästa. Varje väder har sin
 egen sida under **Inställningar → Hem → Väderinställningar**: förinställningar, varje inställning
 syns direkt i bilden, slumpvärden och återgång till ursprungsinställningarna.
 

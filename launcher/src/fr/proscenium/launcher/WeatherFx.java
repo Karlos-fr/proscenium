@@ -62,6 +62,13 @@ final class WeatherFx extends View {
     private int layers = NONE;
     private float amount = 1f, tilt;
     /**
+     * Présence de chaque couche (pluie, orage, neige, brouillard, soleil), de 0 à 1 : une couche
+     * ajoutée apparaît et une couche retirée s'efface en FADE_S secondes, au lieu d'un changement net.
+     */
+    private final float[] vis = new float[5];
+    private long fadeAt;
+    private static final float FADE_S = 2.5f;
+    /**
      * Poussée du vent sur les gouttes qui glissent : de -1 (vers la gauche) à 1 (vers la droite), selon
      * la flèche du vent du bandeau (vent d'ouest : vers la droite) ; rapport rafales / vent moyen.
      */
@@ -124,6 +131,30 @@ final class WeatherFx extends View {
         return (layers & layer) != 0;
     }
 
+    /** Présence actuelle d'une couche (fondu), de 0 à 1. */
+    private float v(int layer) {
+        return vis[Integer.numberOfTrailingZeros(layer)];
+    }
+
+    /** La couche se voit encore (elle arrive, est là, ou s'efface). */
+    private boolean on(int layer) {
+        return v(layer) > 0.002f;
+    }
+
+    /** Avance les fondus ; true tant qu'une couche se voit. */
+    private boolean stepFade(long now) {
+        float dt = fadeAt == 0 ? 0f : Math.min(0.25f, (now - fadeAt) / 1000f);
+        fadeAt = now;
+        boolean any = false;
+        for (int i = 0; i < vis.length; i++) {
+            float target = (layers & (1 << i)) != 0 ? 1f : 0f;
+            if (vis[i] < target) vis[i] = Math.min(target, vis[i] + dt / FADE_S);
+            else if (vis[i] > target) vis[i] = Math.max(target, vis[i] - dt / FADE_S);
+            any |= vis[i] > 0.002f;
+        }
+        return any;
+    }
+
     /** Force d'un code météo : bruine, pluie faible, modérée, forte… */
     static float amountOf(int code) {
         switch (code) {
@@ -155,11 +186,8 @@ final class WeatherFx extends View {
     void set(int layers, float amount, float tilt, float gust, boolean lens) {
         this.windX = Math.max(-1f, Math.min(1f, -tilt / 0.32f));
         this.gust = Math.max(1f, Math.min(3f, gust));
-        // Une couche retirée emporte ce qu'elle avait mis sur l'écran
-        if ((this.layers & ~layers & (RAIN | SNOW)) != 0) {
-            dropCount = 0;
-            pending = pendingSnow = 0;
-        }
+        // Une couche retirée cesse de poser des gouttes ; celles qui sont là s'effacent avec elle
+        if ((this.layers & ~layers & (RAIN | SNOW)) != 0) pending = pendingSnow = 0;
         if ((layers & STORM) != 0 && (this.layers & STORM) == 0) lightning.reset();
         this.layers = layers;
         this.amount = Math.max(0.1f, Math.min(2f, amount));
@@ -209,10 +237,18 @@ final class WeatherFx extends View {
 
     @Override
     protected void onDraw(Canvas c) {
-        if (layers == NONE) return;
-        int w = getWidth(), h = getHeight();
-        if (w == 0 || h == 0) return;
         long now = SystemClock.uptimeMillis();
+        boolean visible = stepFade(now);
+        if (!visible && layers == NONE) {
+            dropCount = 0;
+            fadeAt = 0;
+            return;
+        }
+        int w = getWidth(), h = getHeight();
+        if (w == 0 || h == 0) {
+            if (running) postInvalidateOnAnimation();
+            return;
+        }
         // Temps ramené à dix minutes : les positions restent précises sur la puce graphique
         float time = ((now - start) % 600_000L) / 1000f;
         // Orage : éclairs du studio de foudre de Platformer (voir Lightning)
@@ -226,11 +262,11 @@ final class WeatherFx extends View {
         // Ciel couvert : la scène s'assombrit et bleuit un peu sous la pluie, plus sous l'orage, et
         // s'éclaircit sous la neige et le brouillard ; les voiles des couches se superposent
         float k = Math.min(amount, 1.4f);
-        if (has(RAIN)) veil(c, w, h, 0.10f * k * st.rainDim.f(), 0x0A1420);
-        if (has(STORM)) veil(c, w, h, 0.24f * k * st.stormDim.f(), 0x050818);   // voile d'orage du studio
-        if (has(SNOW)) veil(c, w, h, 0.07f * k * st.snowVeil.f(), 0xDCE6F2);
-        if (has(FOG)) veil(c, w, h, 0.10f * k * st.fogVeil.f(), 0xC8CDD2);
-        if (has(SUN)) veil(c, w, h, 0.05f * k * st.sunWarmth.f(), 0xFFB05A);   // lumière chaude
+        if (on(RAIN)) veil(c, w, h, 0.10f * k * v(RAIN) * st.rainDim.f(), 0x0A1420);
+        if (on(STORM)) veil(c, w, h, 0.24f * k * v(STORM) * st.stormDim.f(), 0x050818);   // voile d'orage du studio
+        if (on(SNOW)) veil(c, w, h, 0.07f * k * v(SNOW) * st.snowVeil.f(), 0xDCE6F2);
+        if (on(FOG)) veil(c, w, h, 0.10f * k * v(FOG) * st.fogVeil.f(), 0xC8CDD2);
+        if (on(SUN)) veil(c, w, h, 0.05f * k * v(SUN) * st.sunWarmth.f(), 0xFFB05A);   // lumière chaude
 
         // Éclair : la scène elle-même s'illumine (fondu « écran »), surtout vers le ciel, puis l'éclair
         // est tracé par-dessus, derrière les gouttes (il est dehors, de l'autre côté de la vitre)
@@ -262,10 +298,10 @@ final class WeatherFx extends View {
             // Les gouttes sont sur la vitre, le brouillard et les voiles dehors : elles les montrent aussi
             float hr = 0, hg = 0, hb = 0, ha = 0;
             float[][] layersVeil = {
-                    {has(RAIN) ? 0.10f * k * st.rainDim.f() : 0, 0x0A / 255f, 0x14 / 255f, 0x20 / 255f},
-                    {has(STORM) ? 0.24f * k * st.stormDim.f() : 0, 0x05 / 255f, 0x08 / 255f, 0x18 / 255f},
-                    {has(SNOW) ? 0.07f * k * st.snowVeil.f() + 0.06f * amount * st.snowVeil.f() : 0, 0.90f, 0.93f, 0.96f},
-                    {has(FOG) ? 0.10f * k * st.fogVeil.f() + Math.min(0.85f, 0.5f * amount * st.fogDensity.f()) : 0,
+                    {0.10f * k * v(RAIN) * st.rainDim.f(), 0x0A / 255f, 0x14 / 255f, 0x20 / 255f},
+                    {0.24f * k * v(STORM) * st.stormDim.f(), 0x05 / 255f, 0x08 / 255f, 0x18 / 255f},
+                    {v(SNOW) * (0.07f * k * st.snowVeil.f() + 0.06f * amount * st.snowVeil.f()), 0.90f, 0.93f, 0.96f},
+                    {v(FOG) * (0.10f * k * st.fogVeil.f() + Math.min(0.85f, 0.5f * amount * st.fogDensity.f())),
                             0.84f, 0.86f, 0.89f}};
             for (float[] v : layersVeil) {
                 float a = Math.max(0f, Math.min(0.9f, v[0]));
@@ -278,24 +314,36 @@ final class WeatherFx extends View {
             else gpu.setHaze(0, 0, 0, 0);
             // Pas de pluie dans l'air : seulement les gouttes sur l'objectif. Brume pour le brouillard,
             // un léger voile sous la neige
-            if (has(FOG) || has(SNOW)) {
-                float fog = (has(FOG) ? 0.75f * amount * st.fogDensity.f() : 0f)
-                        + (has(SNOW) ? 0.12f * amount * st.snowVeil.f() : 0f);
+            if (on(FOG) || on(SNOW)) {
+                float fog = 0.75f * amount * v(FOG) * st.fogDensity.f() + 0.12f * amount * v(SNOW) * st.snowVeil.f();
                 float drift = -tilt / 0.32f * 45f * density * st.snowWind.f();
-                gpu.drawAir(c, w, h, time, has(SNOW), amount * st.snowFlakes.f(), drift,
+                gpu.drawAir(c, w, h, time, on(SNOW), amount * v(SNOW) * st.snowFlakes.f(), drift,
                         flash, fog, st.snowSize.f(), st.snowFall.f(), st.fogDrift.f(), st.fogLow.f());
             }
             // Soleil : rayons dehors, devant le film et derrière les gouttes de la vitre
-            if (has(SUN)) {
-                gpu.drawSun(c, w, h, time, st.sunPosition.f(), 0.9f * amount * st.sunRays.f(),
+            if (on(SUN)) {
+                float sv = v(SUN);
+                gpu.drawSun(c, w, h, time, st.sunPosition.f(), 0.9f * amount * sv * st.sunRays.f(),
                         Math.max(0.88f, Math.min(0.995f, 0.88f + 0.055f * st.sunLength.f())),
                         Math.max(0.05f, Math.min(0.9f, 0.45f * st.sunThreshold.f())),
-                        Math.min(1f, 0.5f * st.sunWarmth.f()), st.sunGlow.f(), 2f * st.sunShimmer.f(), st.sunDust.f(),
+                        Math.min(1f, 0.5f * st.sunWarmth.f()), sv * st.sunGlow.f(), 2f * st.sunShimmer.f(), sv * st.sunDust.f(),
                         st.sunClouds.f() * 0.7f);
             }
-            if (lens && (has(RAIN) || has(SNOW))) {
+            if (lens && (has(RAIN) || has(SNOW) || dropCount > 0)) {
                 stepLens(now, w / (float) h);
-                drawLens(c, w, h);
+                // Pluie et neige retirées : les gouttes de la vitre s'effacent avec elles
+                float lensFade = Math.max(v(RAIN), v(SNOW));
+                if (!has(RAIN) && !has(SNOW) && lensFade < 0.999f) {
+                    if (lensFade <= 0.002f) {
+                        dropCount = 0;
+                    } else {
+                        int save = c.saveLayerAlpha(0, 0, w, h, Math.round(255 * lensFade));
+                        drawLens(c, w, h);
+                        c.restoreToCount(save);
+                    }
+                } else {
+                    drawLens(c, w, h);
+                }
             }
         } else {
             drawFallback(c, w, h, time);
