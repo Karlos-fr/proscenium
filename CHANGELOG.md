@@ -25,6 +25,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   screen" on the phone; turning the fixed address off gives a secret address, new at each start.
   When the password changes, the page asks for it again; when the TV is busy or paused after wrong
   passwords, the page says so instead of "connection lost".
+  The page also refreshes when playlists, films or packs change on the TV, when a weather's own
+  settings change, and when the screensaver is turned on or off.
   Built on [TV Remote](https://github.com/Karlos-fr/tvremote) v0.2.1, a core
   shared with Lactea.
 - Updates: Proscenium checks GitHub for a new version once a day and shows a short message when one

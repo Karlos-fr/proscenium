@@ -189,6 +189,7 @@ final class Playlists {
         } catch (Exception e) {
             Log.w(TAG, "Playlists non enregistrées", e);
         }
+        ProsceniumRemote.contentChanged();
     }
 
     private static void read(File f) {
@@ -404,6 +405,7 @@ final class Playlists {
 
     private static void report(String s) {
         status = s;
+        ProsceniumRemote.contentChanged();                       // ligne « Téléchargements » de la page
         ui.post(() -> {
             Progress p = progress;
             if (p != null) p.update(s);

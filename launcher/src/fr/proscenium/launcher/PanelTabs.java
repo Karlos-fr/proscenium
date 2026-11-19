@@ -219,6 +219,7 @@ abstract class PanelTabs extends PanelCore {
                                     ? android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DISABLED
                                     : android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DEFAULT,
                             android.content.pm.PackageManager.DONT_KILL_APP);
+                    ProsceniumRemote.contentChanged();
                     for (Runnable x : new ArrayList<>(refreshers)) x.run();
                 }));
         content.addView(action(R.string.act_dream_settings, R.string.help_dream_settings,

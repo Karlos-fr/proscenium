@@ -127,6 +127,29 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
         if (!fromPhone && server != null) server.changed(null);
     }
 
+    /** Changements groupés : une seule relecture par les téléphones, au plus toutes les 800 ms. */
+    private static final android.os.Handler main = new android.os.Handler(android.os.Looper.getMainLooper());
+    private static boolean contentPending;
+
+    /**
+     * Quelque chose a changé hors des réglages (playlists, films, packs, réglages d'une météo,
+     * économiseur…) : les téléphones relisent leur écran. Appelable depuis n'importe quel fil ; un
+     * changement fait depuis le téléphone lui-même est ignoré (il a déjà le nouvel écran).
+     */
+    static void contentChanged() {
+        ProsceniumRemote r = instance;
+        if (r == null) return;
+        if (android.os.Looper.myLooper() == android.os.Looper.getMainLooper() && r.fromPhone) return;
+        synchronized (ProsceniumRemote.class) {
+            if (contentPending) return;
+            contentPending = true;
+        }
+        main.postDelayed(() -> {
+            synchronized (ProsceniumRemote.class) { contentPending = false; }
+            if (r.server != null) r.server.changed(null);
+        }, 800);
+    }
+
     /** Nouveau fond à l'écran : état en direct pour la barre « en cours » de la page. */
     void frameChanged() {
         if (server == null || act == null) return;
@@ -474,6 +497,15 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
 
     @Override
     public Result action(String screen, String id) {
+        fromPhone = true;
+        try {
+            return doAction(screen, id);
+        } finally {
+            fromPhone = false;
+        }
+    }
+
+    private Result doAction(String screen, String id) {
         Settings s = act.settings;
         switch (id) {
             case "next":

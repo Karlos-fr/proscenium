@@ -550,6 +550,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
     @Override
     public void weatherStylesChanged() {
         weatherStyles.save(prefs);
+        ProsceniumRemote.contentChanged();
     }
 
     @Override
