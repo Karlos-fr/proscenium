@@ -87,6 +87,24 @@ También puedes seguir las actualizaciones con [Obtainium](https://github.com/Im
   animado (sol que gira, lluvia, nieve, tormenta, niebla), la temperatura, el viento, su dirección y
   sus rachas. Cada elemento se puede ocultar.
 
+## El tiempo vivo
+
+El tiempo puede cobrar vida sobre la imagen, como en una escena de película:
+
+- **Sol**: rayos de luz atraviesan las zonas claras de la imagen, con un halo cálido y polvo que
+  brilla en la luz. En una imagen oscura, suaves haces salen del sol. El sol se desplaza despacio y
+  de vez en cuando las nubes atenúan la luz.
+- **Lluvia**: las gotas caen sobre la pantalla como sobre un cristal, crecen y luego se deslizan
+  dejando un rastro mojado. El viento de tu ciudad las empuja de lado, con ráfagas repentinas.
+- **Rayos**: rayos ramificados de verdad que iluminan la imagen.
+- **Nieve**: caen copos, y los que tocan la pantalla se funden en gotas.
+- **Niebla**: bancos de bruma que se desplazan, se arremolinan, se espesan y se disipan.
+
+**Tiempo real** muestra el tiempo de tu ciudad (una tormenta trae lluvia y rayos, la llovizna trae
+lluvia y niebla…). **Personalizado** combina las capas que quieras, con el viento que elijas. Cada
+tiempo tiene su página en **Ajustes → Inicio → Ajustes del tiempo**: preajustes, cada ajuste
+visible en directo sobre la imagen, valores aleatorios y vuelta a los ajustes originales.
+
 ## La barra de apps
 
 - **Un carrusel de tus apps**, con sus banners de TV. Elige cuáles aparecen y en qué orden.
@@ -106,6 +124,10 @@ Cuando el mando se queda quieto un rato, la pantalla de inicio pasa al **modo ci
 se desvanece, unas bandas negras recortan la imagen en formato cine (2:1 o Scope 2,39:1) y aparece
 el título de la película, con su logotipo oficial cuando existe y su año. El tiempo de espera, las
 bandas, el título y el banner son ajustables.
+
+La tarjeta del título también puede mostrar la **ficha de la película**: año, duración y géneros,
+la nota de TMDB (estrellas, un anillo en porcentaje o una nota sobre 10) y una sinopsis corta o
+completa que se desplaza despacio. Los packs traen estas fichas en seis idiomas.
 
 Proscenium también puede servir de **salvapantallas de Android**: elígelo en los ajustes de Android,
 en el apartado Salvapantallas.
@@ -144,6 +166,17 @@ clave en los ajustes de tu cuenta, en el apartado API.
 No hace falta escribirla con el mando: **Ajustes → Películas (TMDB) → Introducir la clave desde el
 móvil** muestra un código QR. Escanéalo con tu móvil (conectado a la misma red que la TV) y pega la
 clave en la página que se abre: la TV la comprueba y la guarda.
+
+## El mando web
+
+**Ajustes → Sistema → Mando web** lleva todos los ajustes a tu móvil o a tu ordenador: actívalo y
+escanea el código QR que muestra la TV (el móvil debe estar en la misma wifi). La página tiene las
+mismas pestañas que el panel de ajustes (salvo el cristal), funciona en el móvil y en el navegador
+de un ordenador, y muestra la película en pantalla con un botón para el siguiente fondo. Desde ella
+eliges las listas que se muestran, instalas o quitas packs, ordenas las apps de la barra, escribes
+la ciudad del tiempo o la clave de TMDB, y ajustas cada tiempo mientras se ve en directo en la TV.
+La página se actualiza sola cuando un ajuste cambia en la TV. La dirección cambia cada vez que se
+inicia Proscenium, y solo los aparatos de la red de casa pueden llegar a ella.
 
 ## Y además
 

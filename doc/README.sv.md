@@ -87,6 +87,24 @@ Du kan också följa uppdateringarna med [Obtainium](https://github.com/ImranR98
   (roterande sol, regn, snö, åska, dimma), temperatur, vind, vindriktning och byar. Varje element
   kan döljas.
 
+## Levande väder
+
+Vädret kan få liv i bilden, som i en filmscen:
+
+- **Sol**: ljusstrålar strömmar genom bildens ljusa delar, med en varm gloria och damm som glittrar
+  i ljuset. På en mörk bild tar mjuka strålar från solen över. Solen rör sig långsamt och moln
+  dämpar ljuset då och då.
+- **Regn**: droppar landar på skärmen som på en fönsterruta, växer och glider sedan ner med ett vått
+  spår. Vinden i din stad blåser dem åt sidan, med plötsliga byar.
+- **Blixtar**: riktiga förgrenade blixtar som lyser upp bilden.
+- **Snö**: flingor faller, och de som når skärmen smälter till droppar.
+- **Dimma**: dimbankar som driver, virvlar, tätnar och lättar.
+
+**Verkligt väder** visar vädret i din stad (ett åskväder ger regn och blixtar, duggregn ger regn
+och dimma…). **Anpassat** kombinerar de lager du vill, med den vind du väljer. Varje väder har sin
+egen sida under **Inställningar → Hem → Väderinställningar**: förinställningar, varje inställning
+syns direkt i bilden, slumpvärden och återgång till ursprungsinställningarna.
+
 ## Appfältet
 
 - **En karusell med dina appar**, med deras TV-banners. Välj vilka som ska visas och i vilken
@@ -107,6 +125,10 @@ När fjärrkontrollen får ligga still en stund går startskärmen över i **bio
 tonas bort, svarta fält beskär bilden till biografformat (2:1 eller Scope 2,39:1) och filmens titel
 visas, med sin officiella logotyp när det finns en, och utgivningsår. Väntetid, fält, titel och
 banner kan justeras.
+
+Titelkortet kan också visa **uppgifter om filmen**: år, speltid och genrer, TMDB-betyget (stjärnor,
+en procentring eller ett betyg av 10) och en kort eller fullständig handling som rullar långsamt.
+Paketen har dessa uppgifter på sex språk.
 
 Proscenium kan också fungera som **Androids skärmsläckare**: välj den i Androids inställningar,
 under Skärmsläckare.
@@ -146,6 +168,17 @@ kontots inställningar, under API.
 Du behöver inte skriva in den med fjärrkontrollen: **Inställningar → Filmer (TMDB) → Ange nyckeln
 från telefonen** visar en QR-kod. Skanna den med din telefon (ansluten till samma nätverk som TV:n)
 och klistra in nyckeln på sidan som öppnas: TV:n kontrollerar den och sparar den.
+
+## Webbfjärrkontroll
+
+**Inställningar → System → Webbfjärrkontroll** ger dig alla inställningar i mobilen eller datorn:
+slå på den och skanna QR-koden som tv:n visar (mobilen måste vara i samma wifi). Sidan har samma
+flikar som inställningspanelen (utom glaset), fungerar i mobilen och i en dators webbläsare, och
+visar filmen på skärmen med en knapp för nästa bakgrund. Där väljer du vilka spellistor som visas,
+installerar eller tar bort paket, ordnar apparna i fältet, skriver in väderstaden eller
+TMDB-nyckeln och ställer in varje väder medan det visas direkt på tv:n. Sidan uppdateras av sig
+själv när en inställning ändras på tv:n. Adressen ändras varje gång Proscenium startar, och bara
+enheter i hemnätverket når den.
 
 ## Och dessutom
 

@@ -75,6 +75,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
 - New release signing key (CN=Proscenium). Later versions install over 1.1 directly.
 - Glass: the three animations (calm water, liquid, rain) each have their own sub-menu, with a
   "Random values" button that also turns the animation on.
+- README (in the six languages): new sections on the living weather and the web remote, and the
+  film details of the cinema mode title card.
 
 ## [1.0] — 2026-11-17
 

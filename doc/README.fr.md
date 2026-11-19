@@ -88,6 +88,25 @@ Vous pouvez aussi suivre les mises à jour avec [Obtainium](https://github.com/I
   icône animée (soleil qui tourne, pluie, neige, orage, brouillard), la température, le vent, sa
   direction et ses rafales. Chaque élément peut être masqué.
 
+## La météo vivante
+
+La météo peut s'animer sur l'image, comme dans une scène de film :
+
+- **Soleil** : des rayons de lumière traversent les zones claires de l'image, avec un halo chaud et
+  des poussières qui scintillent dans la lumière. Sur une image sombre, de doux faisceaux partent du
+  soleil. Le soleil glisse lentement et des nuages baissent la lumière de temps en temps.
+- **Pluie** : des gouttes se posent sur l'écran comme sur une vitre, grossissent, puis glissent en
+  laissant une traînée mouillée. Le vent de votre ville les pousse de côté, avec des bourrasques.
+- **Éclairs** : de vrais éclairs ramifiés qui illuminent l'image.
+- **Neige** : des flocons tombent, et ceux qui touchent l'écran fondent en gouttes.
+- **Brouillard** : des nappes de brume qui dérivent, tourbillonnent, s'épaississent et se dissipent.
+
+**Météo réelle** montre le temps qu'il fait dans votre ville (un orage amène pluie et éclairs, la
+bruine amène pluie et brouillard…). **Personnalisée** permet de cumuler les couches voulues, avec le
+vent de votre choix. Chaque météo a sa page dans **Réglages → Accueil → Réglages de la météo** :
+préréglages, chaque réglage visible en direct sur l'image, valeurs aléatoires et retour aux réglages
+d'origine.
+
 ## La barre d'applications
 
 - **Un carrousel de vos applis**, avec leurs bannières TV. Choisissez lesquelles y figurent et dans
@@ -108,6 +127,10 @@ Quand la télécommande reste posée un moment, l'accueil passe en **mode ciném
 s'efface, des bandes noires recadrent l'image en format cinéma (2:1 ou Scope 2,39:1), et le titre du
 film s'affiche, avec son logo officiel quand il existe et son année. Le délai, les bandes, le titre
 et le bandeau sont réglables.
+
+La carte titre peut aussi afficher la **fiche du film** : année, durée et genres, la note TMDB
+(étoiles, anneau en pourcentage ou note sur 10), et un résumé court ou complet qui défile doucement.
+Les packs apportent ces fiches en six langues.
 
 Proscenium peut aussi servir **d'économiseur d'écran Android** : choisissez-le dans les paramètres
 d'Android, rubrique Économiseur d'écran.
@@ -145,6 +168,18 @@ clé dans les paramètres de votre compte, rubrique API.
 Pas besoin de la taper à la télécommande : **Réglages → Films (TMDB) → Saisir la clé depuis le
 téléphone** affiche un QR code. Scannez-le avec votre téléphone (connecté au même réseau que la TV),
 collez la clé dans la page qui s'ouvre : la TV la vérifie et l'enregistre.
+
+## La télécommande web
+
+**Réglages → Système → Télécommande web** met tous les réglages sur votre téléphone ou votre
+ordinateur : activez-la, puis scannez le QR code affiché par la TV (le téléphone doit être sur le
+même Wi-Fi). La page reprend les onglets du panneau de réglages (sauf le verre), fonctionne sur un
+téléphone comme dans le navigateur d'un ordinateur, et montre le film à l'écran avec un bouton pour
+passer au fond suivant. On y choisit les playlists affichées, on installe ou supprime des packs, on
+range les applis de la barre, on saisit la ville de la météo ou la clé TMDB, et on règle chaque
+météo pendant qu'elle s'affiche en direct sur la TV. La page se met à jour toute seule quand un
+réglage change sur la TV. L'adresse change à chaque démarrage de Proscenium, et seuls les appareils
+du réseau de la maison peuvent l'atteindre.
 
 ## Et aussi
 

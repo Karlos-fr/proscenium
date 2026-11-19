@@ -89,6 +89,25 @@ Updates lassen sich auch mit [Obtainium](https://github.com/ImranR98/Obtainium) 
   (drehende Sonne, Regen, Schnee, Gewitter, Nebel), Temperatur, Wind, Windrichtung und Böen. Jedes
   Element lässt sich ausblenden.
 
+## Lebendiges Wetter
+
+Das Wetter kann auf dem Bild lebendig werden, wie in einer Filmszene:
+
+- **Sonne**: Lichtstrahlen dringen durch die hellen Stellen des Bildes, mit einem warmen Lichthof und
+  Staub, der im Licht glitzert. Auf einem dunklen Bild übernehmen sanfte Strahlen von der Sonne. Die
+  Sonne wandert langsam, und ab und zu dämpfen Wolken das Licht.
+- **Regen**: Tropfen landen auf dem Bildschirm wie auf einer Fensterscheibe, wachsen und rinnen dann
+  mit einer nassen Spur hinab. Der Wind Ihrer Stadt treibt sie zur Seite, mit plötzlichen Böen.
+- **Blitze**: echte verzweigte Blitze, die das Bild erhellen.
+- **Schnee**: Flocken fallen, und die, die den Bildschirm berühren, schmelzen zu Tropfen.
+- **Nebel**: Nebelschwaden, die treiben, wirbeln, sich verdichten und auflösen.
+
+**Echtes Wetter** zeigt das Wetter Ihrer Stadt (ein Gewitter bringt Regen und Blitze, Nieselregen
+bringt Regen und Nebel…). **Benutzerdefiniert** kombiniert die gewünschten Ebenen, mit dem Wind
+Ihrer Wahl. Jedes Wetter hat seine eigene Seite unter **Einstellungen → Startseite →
+Wettereinstellungen**: Voreinstellungen, jede Einstellung live auf dem Bild, Zufallswerte und
+Rückkehr zu den ursprünglichen Einstellungen.
+
 ## Die App-Leiste
 
 - **Ein Karussell Ihrer Apps** mit ihren TV-Bannern. Sie bestimmen, welche Apps erscheinen und in
@@ -109,6 +128,10 @@ Wenn die Fernbedienung eine Weile liegen bleibt, wechselt der Startbildschirm in
 Die Oberfläche blendet sich aus, schwarze Balken beschneiden das Bild im Kinoformat (2:1 oder
 Scope 2,39:1), und der Filmtitel erscheint, mit seinem offiziellen Logo, sofern vorhanden, und dem
 Erscheinungsjahr. Wartezeit, Balken, Titel und Banner sind einstellbar.
+
+Die Titelkarte kann auch die **Angaben zum Film** zeigen: Jahr, Laufzeit und Genres, die
+TMDB-Bewertung (Sterne, ein Prozentring oder eine Note von 10) und eine kurze oder vollständige
+Inhaltsangabe, die langsam scrollt. Die Pakete liefern diese Angaben in sechs Sprachen.
 
 Proscenium kann auch als **Android-Bildschirmschoner** dienen: Wählen Sie ihn in den
 Android-Einstellungen unter „Bildschirmschoner“ aus.
@@ -151,6 +174,18 @@ Sie müssen ihn nicht mit der Fernbedienung eintippen: **Einstellungen → Filme
 Telefon eingeben** zeigt einen QR-Code an. Scannen Sie ihn mit Ihrem Telefon (im selben Netzwerk wie
 der Fernseher) und fügen Sie den Schlüssel auf der Seite ein, die sich öffnet: Der Fernseher prüft
 ihn und speichert ihn.
+
+## Web-Fernbedienung
+
+**Einstellungen → System → Web-Fernbedienung** bringt alle Einstellungen auf Ihr Handy oder Ihren
+Computer: einschalten, dann den QR-Code scannen, den der Fernseher zeigt (das Handy muss im selben
+WLAN sein). Die Seite hat dieselben Registerkarten wie das Einstellungsfenster (außer dem Glas),
+funktioniert auf dem Handy und im Browser eines Computers und zeigt den laufenden Film mit einer
+Taste für den nächsten Hintergrund. Dort wählen Sie die angezeigten Playlists, installieren oder
+entfernen Pakete, ordnen die Apps der Leiste, geben die Wetterstadt oder den TMDB-Schlüssel ein und
+stellen jedes Wetter ein, während es live auf dem Fernseher erscheint. Die Seite aktualisiert sich
+von selbst, wenn sich eine Einstellung am Fernseher ändert. Die Adresse ändert sich bei jedem Start
+von Proscenium, und nur Geräte in Ihrem Heimnetz erreichen sie.
 
 ## Und außerdem
 

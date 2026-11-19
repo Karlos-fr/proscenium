@@ -84,6 +84,24 @@ You can also follow updates with [Obtainium](https://github.com/ImranR98/Obtaini
   icon (spinning sun, rain, snow, storm, fog), the temperature, the wind, its direction and gusts.
   Each item can be hidden.
 
+## Living weather
+
+The weather can come to life on the picture, like a scene from a film:
+
+- **Sun**: rays of light stream through the bright parts of the picture, with a warm halo and dust
+  sparkling in the light. On a dark picture, soft beams from the sun take over. The sun drifts
+  slowly and passing clouds dim the light now and then.
+- **Rain**: drops land on the screen as on a window pane, grow, then slide down leaving a wet trail.
+  The wind of your town pushes them sideways, with sudden gusts.
+- **Lightning**: real branching bolts that light up the picture.
+- **Snow**: flakes fall, and those that touch the screen melt into drops.
+- **Fog**: banks of mist that drift, swirl, thicken and clear.
+
+**Real weather** shows the weather of your town (a storm brings rain and lightning, drizzle brings
+rain and fog…). **Custom** lets you combine the layers you want, with the wind of your choice.
+Each weather has its own page in **Settings → Home → Weather settings**: presets, every setting
+shown live on the picture, random values, and back to the original settings.
+
 ## The app bar
 
 - **A carousel of your apps**, with their TV banners. Choose which ones appear and in what order.
@@ -103,6 +121,10 @@ When the remote stays down for a while, the home screen switches to **cinema mod
 fades away, black bars frame the picture in a cinema format (2:1 or Scope 2.39:1), and the film's
 title appears, with its official logo when there is one and its year. The delay, the bars, the
 title and the header can all be adjusted.
+
+The title card can also show the **film's details**: year, running time and genres, the TMDB
+rating (stars, a percentage ring or a score out of 10), and a short or full synopsis that scrolls
+slowly. Packs bring these details in six languages.
 
 Proscenium can also be used as the **Android screensaver**: pick it in Android's settings, under
 Screen saver.
@@ -140,6 +162,17 @@ account settings, under API.
 No need to type it with the remote: **Settings → Films (TMDB) → Enter the key from your phone**
 shows a QR code. Scan it with your phone (on the same network as the TV) and paste the key in the
 page that opens: the TV checks it and saves it.
+
+## Web remote
+
+**Settings → System → Web remote** puts all the settings on your phone or computer: turn it on, then
+scan the QR code shown by the TV (the phone must be on the same Wi-Fi). The page has the same tabs
+as the settings panel (all but the glass), works on a phone and in a computer's browser, and shows
+the film on screen with a button for the next backdrop. From it you can choose the playlists to
+show, install or remove packs, arrange the apps of the bar, type the weather town or the TMDB key,
+and tune each weather while it shows live on the TV. The page updates by itself when a setting
+changes on the TV. The address changes each time Proscenium starts, and only devices on your home
+network can reach it.
 
 ## And also
 

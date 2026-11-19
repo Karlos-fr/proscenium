@@ -87,6 +87,25 @@ Puoi anche seguire gli aggiornamenti con [Obtainium](https://github.com/ImranR98
   animata (sole che ruota, pioggia, neve, temporale, nebbia), temperatura, vento, direzione e
   raffiche. Ogni elemento può essere nascosto.
 
+## Il meteo vivo
+
+Il meteo può animarsi sull'immagine, come in una scena di film:
+
+- **Sole**: raggi di luce attraversano le zone chiare dell'immagine, con un alone caldo e pulviscolo
+  che brilla nella luce. Su un'immagine scura, morbidi fasci partono dal sole. Il sole si sposta
+  lentamente e ogni tanto delle nuvole attenuano la luce.
+- **Pioggia**: le gocce si posano sullo schermo come su un vetro, crescono, poi scivolano lasciando
+  una scia bagnata. Il vento della tua città le spinge di lato, con raffiche improvvise.
+- **Fulmini**: veri fulmini ramificati che illuminano l'immagine.
+- **Neve**: i fiocchi cadono, e quelli che toccano lo schermo si sciolgono in gocce.
+- **Nebbia**: banchi di foschia che scorrono, turbinano, si addensano e si diradano.
+
+**Meteo reale** mostra il tempo della tua città (un temporale porta pioggia e fulmini, la pioviggine
+porta pioggia e nebbia…). **Personalizzato** combina gli strati che vuoi, con il vento che scegli.
+Ogni meteo ha la sua pagina in **Impostazioni → Home → Impostazioni del meteo**: preimpostazioni,
+ogni impostazione visibile dal vivo sull'immagine, valori casuali e ritorno alle impostazioni
+originali.
+
 ## La barra delle app
 
 - **Un carosello delle tue app**, con i loro banner TV. Scegli quali mostrare e in quale ordine.
@@ -106,6 +125,10 @@ Quando il telecomando resta fermo per un po', la Home passa alla **modalità cin
 sparisce, bande nere ritagliano l'immagine in formato cinematografico (2:1 o Scope 2,39:1) e compare
 il titolo del film, con il suo logo ufficiale quando esiste e l'anno. Attesa, bande, titolo e banner
 sono regolabili.
+
+La scheda del titolo può mostrare anche i **dettagli del film**: anno, durata e generi, il voto
+TMDB (stelle, un anello in percentuale o un voto su 10) e una trama breve o completa che scorre
+lentamente. I pacchetti portano questi dettagli in sei lingue.
 
 Proscenium può anche fungere da **screensaver di Android**: sceglilo nelle impostazioni di Android,
 alla voce Screensaver.
@@ -142,6 +165,17 @@ impostazioni del tuo account, alla voce API.
 Non serve digitarla con il telecomando: **Impostazioni → Film (TMDB) → Inserisci la chiave dal
 telefono** mostra un codice QR. Inquadralo con il telefono (collegato alla stessa rete della TV),
 incolla la chiave nella pagina che si apre: la TV la verifica e la salva.
+
+## Il telecomando web
+
+**Impostazioni → Sistema → Telecomando web** porta tutte le impostazioni sul telefono o sul
+computer: attivalo, poi inquadra il codice QR mostrato dalla TV (il telefono deve essere sullo
+stesso Wi-Fi). La pagina ha le stesse schede del pannello delle impostazioni (tranne il vetro),
+funziona sul telefono e nel browser di un computer, e mostra il film sullo schermo con un pulsante
+per lo sfondo successivo. Da lì scegli le playlist da mostrare, installi o rimuovi pacchetti, ordini
+le app della barra, scrivi la città del meteo o la chiave TMDB, e regoli ogni meteo mentre appare
+dal vivo sulla TV. La pagina si aggiorna da sola quando un'impostazione cambia sulla TV. L'indirizzo
+cambia a ogni avvio di Proscenium, e solo i dispositivi della rete di casa possono raggiungerlo.
 
 ## E inoltre
 
