@@ -12,7 +12,7 @@ import org.json.JSONObject;
  * <pre>
  * Item.slider("speed", "Speed", 40, 0, 100, 5).format("%d %%").help("How fast…")
  * Item.choice("mode", "Mode", 1).option(0, "Off").option(1, "Real")
- * Item.grid("packs", "Packs", Item.CHECK_MULTI).tile(Item.tile("films80", "80s").img("img/p80").checked(true))
+ * Item.grid("packs", "Packs", Item.Check.MULTI).tile(Item.tile("films80", "80s").img("img/p80").checked(true))
  * </pre>
  */
 public final class Item {
