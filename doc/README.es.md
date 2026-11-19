@@ -175,8 +175,12 @@ mismas pestañas que el panel de ajustes (salvo el cristal), funciona en el móv
 de un ordenador, y muestra la película en pantalla con un botón para el siguiente fondo. Desde ella
 eliges las listas que se muestran, instalas o quitas packs, ordenas las apps de la barra, escribes
 la ciudad del tiempo o la clave de TMDB, y ajustas cada tiempo mientras se ve en directo en la TV.
-La página se actualiza sola cuando un ajuste cambia en la TV. La dirección cambia cada vez que se
-inicia Proscenium, y solo los aparatos de la red de casa pueden llegar a ella.
+La página se actualiza sola cuando un ajuste cambia en la TV. La dirección no cambia:
+**http://proscenium.local:8770** en un iPhone, un Mac o un ordenador, o la dirección de la TV que
+aparece bajo el código QR; guárdala en favoritos o añádela a la pantalla de inicio. El nombre se
+puede cambiar, y el navegador puede pedir una contraseña (recomendada si otras personas usan tu
+wifi). Solo los aparatos de la red de casa pueden llegar a la página. Sin **Dirección fija**, la
+dirección es secreta y nueva cada vez que se inicia Proscenium.
 
 ## Y además
 

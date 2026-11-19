@@ -171,8 +171,11 @@ as the settings panel (all but the glass), works on a phone and in a computer's 
 the film on screen with a button for the next backdrop. From it you can choose the playlists to
 show, install or remove packs, arrange the apps of the bar, type the weather town or the TMDB key,
 and tune each weather while it shows live on the TV. The page updates by itself when a setting
-changes on the TV. The address changes each time Proscenium starts, and only devices on your home
-network can reach it.
+changes on the TV. The address stays the same: **http://proscenium.local:8770** on an iPhone, a Mac or a computer, or
+the TV's address shown under the QR code; bookmark it or add it to the home screen. The name can be
+changed, and a password can be asked by the browser (recommended if other people use your Wi-Fi).
+Only devices on your home network can reach the page. Turning off **Fixed address** gives a secret
+address instead, new each time Proscenium starts.
 
 ## And also
 

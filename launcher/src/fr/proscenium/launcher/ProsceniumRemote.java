@@ -34,6 +34,8 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
     private TvRemote server;
     /** Réglage en cours d'application depuis le téléphone : le téléphone a déjà le nouvel écran. */
     private boolean fromPhone;
+    /** Mode d'accès et nom du serveur en marche : les changer demande un redémarrage. */
+    private String serverKey = "", lastError;
     private final Random random = new Random();
     /** Messages d'état affichés sur la page (recherche de ville, test de la clé…). */
     private String cityStatus = "", keyStatus = "", backupStatus = "";
@@ -62,16 +64,47 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
 
     /** Démarre ou arrête le serveur selon le réglage. */
     void apply() {
-        boolean want = act.settings.webRemote.value;
-        if (want && (server == null || !server.running())) {
-            server = TvRemote.start(act, this, new TvRemote.Options().port(8770));
-            if (server == null) Log.w(TAG, "Télécommande web : pas de réseau local");
-            else Log.i(TAG, "Télécommande web : " + server.url());
-            frameChanged();
-        } else if (!want && server != null) {
+        Settings s = act.settings;
+        boolean want = s.webRemote.value;
+        String access = s.webRemoteFixed.value ? TvRemote.ACCESS_OPEN : TvRemote.ACCESS_TOKEN;
+        String name = TvRemote.cleanHostname(s.webRemoteName.value, "proscenium");
+        String key = access + "|" + name;
+        if (want && server != null && server.running() && key.equals(serverKey)) {
+            server.setPassword(s.webRemotePassword.value);     // changé à chaud, sans redémarrer
+            return;
+        }
+        if (server != null) {
             server.stop();
             server = null;
         }
+        lastError = null;
+        if (!want) return;
+        server = TvRemote.start(act, this, new TvRemote.Options().port(8770).access(access).hostname(name)
+                .password(s.webRemotePassword.value).realm(str(R.string.app_name))
+                .onAddressChanged(this::addressChanged));
+        serverKey = key;
+        if (server == null) {
+            lastError = TvRemote.lastError();
+            Log.w(TAG, "Télécommande web : " + lastError);
+        } else {
+            Log.i(TAG, "Télécommande web : " + server.url() + "  " + server.localName());
+            frameChanged();
+        }
+    }
+
+    /** Nouvelle adresse IP, ou nom .local pris par un autre appareil : la page du QR code se refait. */
+    private void addressChanged() {
+        if (act.panel != null) act.panel.webRemoteChanged();
+    }
+
+    /** Pourquoi le serveur n'a pas démarré (« port 8770 busy »…), ou null. */
+    String lastError() {
+        return lastError;
+    }
+
+    /** Adresse avec le nom .local, ou null. */
+    String localName() {
+        return server != null && server.running() ? server.localName() : null;
     }
 
     /** Adresse à ouvrir sur le téléphone, ou null (arrêtée, pas de réseau). */
@@ -85,7 +118,8 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
 
     @Override
     public void onSettingChanged(Settings.Item item) {
-        if (item == act.settings.webRemote) {
+        Settings s = act.settings;
+        if (item == s.webRemote || item == s.webRemoteFixed || item == s.webRemoteName || item == s.webRemotePassword) {
             apply();
             return;
         }
@@ -135,7 +169,7 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
     @Override
     public AppInfo info() {
         AppInfo info = new AppInfo(str(R.string.app_name), act.versionName(), "backdrops")
-                .lang(Lang.tag(act).substring(0, 2)).accent(act.accent);
+                .lang(Lang.tag(act).substring(0, 2)).accent(act.accent).theme("background", "#101826");
         String[][] tabs = {{"backdrops", "picture"}, {"playlists", "playlist"}, {"cinema", "cinema"},
                 {"dock", "dock"}, {"home", "home"}, {"tmdb", "film"}, {"system", "gear"}};
         int[] names = {R.string.tab_backdrops, R.string.tab_playlists, R.string.tab_cinema, R.string.tab_dock,

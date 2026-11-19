@@ -1,4 +1,4 @@
-/* TV Remote core 0.1.2 - do not edit here. */
+/* TV Remote core 0.2.0 - do not edit here. */
 /*
  * TV Remote — page core (format v1). No style here: each app's skin (CSS) gives the look.
  *

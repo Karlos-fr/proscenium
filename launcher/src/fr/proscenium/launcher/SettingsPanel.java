@@ -531,7 +531,10 @@ final class SettingsPanel extends PanelTabs {
 
     // ---------------------------------------------------------------- Télécommande web
 
-    /** Marche / arrêt de la télécommande web ; en marche, le QR code de sa page. */
+    /**
+     * Télécommande web : marche / arrêt, adresse fixe ou à jeton, nom sur le réseau, mot de passe ;
+     * en marche, le QR code (adresse IP : tous les téléphones l'ouvrent) et le nom .local.
+     */
     @Override
     void showWebRemote() {
         clearContent();
@@ -543,15 +546,60 @@ final class SettingsPanel extends PanelTabs {
         }, null, null);
         toggle.setTag("web_remote");
         content.addView(toggle);
-        if (s.webRemote.value) {
-            ProsceniumRemote remote = ProsceniumRemote.get();
-            String url = remote == null ? null : remote.url();
-            if (url == null) {
-                note(ctx.getString(R.string.key_qr_no_network));
-            } else {
-                qrImage(url);
-                note(ctx.getString(R.string.web_remote_hint));
+        if (!s.webRemote.value) {
+            focusFirstRow();
+            return;
+        }
+        Row fixed = row(s.webRemoteFixed.label, s.webRemoteFixed.help, 0, () -> onOff(s.webRemoteFixed.value), dir -> {
+            s.webRemoteFixed.value = !s.webRemoteFixed.value;
+            s.changed(s.webRemoteFixed);
+            rebuildPage("web_fixed");
+        }, null, null);
+        fixed.setTag("web_fixed");
+        content.addView(fixed);
+        if (s.webRemoteFixed.value) {
+            Row name = action(R.string.set_web_name, R.string.help_web_name,
+                    () -> fr.tvremote.core.TvRemote.cleanHostname(s.webRemoteName.value, "proscenium") + ".local",
+                    () -> askText(R.string.set_web_name, s.webRemoteName.value, n -> {
+                        s.webRemoteName.value = fr.tvremote.core.TvRemote.cleanHostname(n, "proscenium");
+                        s.changed(s.webRemoteName);
+                        rebuildPage("web_name");
+                    }));
+            name.setTag("web_name");
+            content.addView(name);
+        }
+        Row password = action(R.string.set_web_password, R.string.help_web_password,
+                () -> s.webRemotePassword.value.isEmpty() ? ctx.getString(R.string.web_password_none) : "••••••",
+                () -> askText(R.string.set_web_password, "", p -> {
+                    s.webRemotePassword.value = p;
+                    s.changed(s.webRemotePassword);
+                    rebuildPage("web_password");
+                }));
+        password.setTag("web_password");
+        content.addView(password);
+        if (!s.webRemotePassword.value.isEmpty()) {
+            Row clear = action(R.string.act_web_password_clear, R.string.help_web_password_clear, null, () -> {
+                s.webRemotePassword.value = "";
+                s.changed(s.webRemotePassword);
+                rebuildPage("web_password");
+            });
+            content.addView(clear);
+        }
+        ProsceniumRemote remote = ProsceniumRemote.get();
+        String url = remote == null ? null : remote.url();
+        if (url == null) {
+            String err = remote == null ? null : remote.lastError();
+            note(ctx.getString(err != null && err.contains("busy") ? R.string.web_remote_port_busy : R.string.key_qr_no_network));
+        } else {
+            qrImage(url);
+            String local = remote.localName();
+            if (local != null) {
+                TextView l = text(13, 0xB3FFFFFF, false);
+                l.setText(ctx.getString(R.string.web_remote_local, local));
+                l.setGravity(Gravity.CENTER_HORIZONTAL);
+                content.addView(l, new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
             }
+            note(ctx.getString(s.webRemoteFixed.value ? R.string.web_remote_hint_fixed : R.string.web_remote_hint));
         }
         focusFirstRow();
     }

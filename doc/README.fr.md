@@ -178,8 +178,12 @@ téléphone comme dans le navigateur d'un ordinateur, et montre le film à l'éc
 passer au fond suivant. On y choisit les playlists affichées, on installe ou supprime des packs, on
 range les applis de la barre, on saisit la ville de la météo ou la clé TMDB, et on règle chaque
 météo pendant qu'elle s'affiche en direct sur la TV. La page se met à jour toute seule quand un
-réglage change sur la TV. L'adresse change à chaque démarrage de Proscenium, et seuls les appareils
-du réseau de la maison peuvent l'atteindre.
+réglage change sur la TV. L'adresse reste la même : **http://proscenium.local:8770** sur un iPhone, un Mac ou un ordinateur,
+ou l'adresse de la TV affichée sous le QR code ; gardez-la en favori ou ajoutez-la à l'écran
+d'accueil. Le nom se change, et un mot de passe peut être demandé par le navigateur (conseillé si
+d'autres personnes utilisent votre Wi-Fi). Seuls les appareils du réseau de la maison peuvent
+atteindre la page. Sans **Adresse fixe**, l'adresse est secrète et neuve à chaque démarrage de
+Proscenium.
 
 ## Et aussi
 

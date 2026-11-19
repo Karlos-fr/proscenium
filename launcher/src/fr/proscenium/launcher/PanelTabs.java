@@ -142,6 +142,14 @@ abstract class PanelTabs extends PanelCore {
     /** Télécommande web : marche / arrêt et QR code vers la page (SettingsPanel). */
     abstract void showWebRemote();
 
+    /** Page de la télécommande web (même instance : sert à savoir si elle est affichée). */
+    final Runnable webRemotePage = this::showWebRemote;
+
+    /** Adresse de la télécommande changée (nouvelle IP, autre nom .local) : la page se refait si elle est ouverte. */
+    void webRemoteChanged() {
+        if (open && !pages.isEmpty() && pages.peek() == webRemotePage) rebuildPage("web_remote");
+    }
+
     boolean onWelcome() {
         return open && !pages.isEmpty() && pages.peek() == welcomePage;
     }
@@ -318,7 +326,7 @@ abstract class PanelTabs extends PanelCore {
         content.addView(flag(s.economy));
         section(R.string.sec_web_remote);
         content.addView(action(R.string.set_web_remote, R.string.help_web_remote,
-                () -> onOff(s.webRemote.value) + "  ›", () -> openPage(this::showWebRemote)));
+                () -> onOff(s.webRemote.value) + "  ›", () -> openPage(webRemotePage)));
         section(R.string.sec_service);
         content.addView(action(R.string.set_service, R.string.help_service,
                 () -> ctx.getString(host.homeServiceActive() ? R.string.service_on : R.string.service_off),

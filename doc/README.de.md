@@ -184,8 +184,12 @@ funktioniert auf dem Handy und im Browser eines Computers und zeigt den laufende
 Taste für den nächsten Hintergrund. Dort wählen Sie die angezeigten Playlists, installieren oder
 entfernen Pakete, ordnen die Apps der Leiste, geben die Wetterstadt oder den TMDB-Schlüssel ein und
 stellen jedes Wetter ein, während es live auf dem Fernseher erscheint. Die Seite aktualisiert sich
-von selbst, wenn sich eine Einstellung am Fernseher ändert. Die Adresse ändert sich bei jedem Start
-von Proscenium, und nur Geräte in Ihrem Heimnetz erreichen sie.
+von selbst, wenn sich eine Einstellung am Fernseher ändert. Die Adresse bleibt gleich:
+**http://proscenium.local:8770** auf iPhone, Mac oder Computer, oder die Adresse des Fernsehers
+unter dem QR-Code; speichern Sie sie als Lesezeichen oder auf dem Startbildschirm. Der Name lässt
+sich ändern, und der Browser kann ein Passwort abfragen (empfohlen, wenn andere Ihr WLAN nutzen).
+Nur Geräte in Ihrem Heimnetz erreichen die Seite. Ohne **Feste Adresse** ist die Adresse geheim und
+bei jedem Start von Proscenium neu.
 
 ## Und außerdem
 

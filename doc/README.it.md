@@ -175,7 +175,11 @@ funziona sul telefono e nel browser di un computer, e mostra il film sullo scher
 per lo sfondo successivo. Da lì scegli le playlist da mostrare, installi o rimuovi pacchetti, ordini
 le app della barra, scrivi la città del meteo o la chiave TMDB, e regoli ogni meteo mentre appare
 dal vivo sulla TV. La pagina si aggiorna da sola quando un'impostazione cambia sulla TV. L'indirizzo
-cambia a ogni avvio di Proscenium, e solo i dispositivi della rete di casa possono raggiungerlo.
+resta lo stesso: **http://proscenium.local:8770** su iPhone, Mac o computer, oppure l'indirizzo della
+TV mostrato sotto il codice QR; salvalo nei preferiti o aggiungilo alla schermata Home. Il nome si
+può cambiare, e il browser può chiedere una password (consigliata se altre persone usano il tuo
+Wi-Fi). Solo i dispositivi della rete di casa possono raggiungere la pagina. Senza **Indirizzo
+fisso**, l'indirizzo è segreto e nuovo a ogni avvio di Proscenium.
 
 ## E inoltre
 

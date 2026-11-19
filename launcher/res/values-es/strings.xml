@@ -642,4 +642,16 @@
     <string name="set_web_remote">Mando web</string>
     <string name="help_web_remote">Todos los ajustes en el móvil: una página servida por la TV en la red de casa, abierta con un código QR.</string>
     <string name="web_remote_hint">Escanea este código con el móvil, en la misma wifi que la TV. La dirección cambia cada vez que se inicia Proscenium.</string>
+    <string name="set_web_fixed">Dirección fija</string>
+    <string name="help_web_fixed">Sí: la misma dirección siempre (nombre.local y la IP de la TV), para guardar en favoritos. No: una dirección secreta, nueva cada vez que se inicia Proscenium.</string>
+    <string name="set_web_name">Nombre en la red</string>
+    <string name="help_web_name">La dirección en iPhone, Mac, PC: http://nombre.local:8770. Letras, cifras y guiones.</string>
+    <string name="set_web_password">Contraseña</string>
+    <string name="help_web_password">La pide el navegador antes de abrir la página (cualquier nombre de usuario). Recomendada si otras personas usan tu wifi.</string>
+    <string name="act_web_password_clear">Quitar la contraseña</string>
+    <string name="help_web_password_clear">La página vuelve a abrirse sin contraseña.</string>
+    <string name="web_password_none">Ninguna</string>
+    <string name="web_remote_port_busy">El puerto 8770 lo usa otra app: desactiva la dirección fija, o cierra esa app.</string>
+    <string name="web_remote_local">También: %1$s (iPhone, Mac, PC)</string>
+    <string name="web_remote_hint_fixed">Escanea este código con el móvil, en la misma wifi que la TV. La dirección no cambia: guárdala en favoritos o añádela a la pantalla de inicio.</string>
 </resources>

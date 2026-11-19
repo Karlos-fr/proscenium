@@ -177,8 +177,11 @@ flikar som inställningspanelen (utom glaset), fungerar i mobilen och i en dator
 visar filmen på skärmen med en knapp för nästa bakgrund. Där väljer du vilka spellistor som visas,
 installerar eller tar bort paket, ordnar apparna i fältet, skriver in väderstaden eller
 TMDB-nyckeln och ställer in varje väder medan det visas direkt på tv:n. Sidan uppdateras av sig
-själv när en inställning ändras på tv:n. Adressen ändras varje gång Proscenium startar, och bara
-enheter i hemnätverket når den.
+själv när en inställning ändras på tv:n. Adressen ändras inte: **http://proscenium.local:8770**
+på en iPhone, en Mac eller en dator, eller tv:ns adress under QR-koden; spara den som bokmärke eller
+lägg till den på hemskärmen. Namnet kan ändras, och webbläsaren kan fråga efter ett lösenord
+(rekommenderas om andra använder ditt wifi). Bara enheter i hemnätverket når sidan. Utan **Fast
+adress** är adressen hemlig och ny varje gång Proscenium startar.
 
 ## Och dessutom
 

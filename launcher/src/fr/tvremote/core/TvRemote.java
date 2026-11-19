@@ -1,4 +1,4 @@
-// TV Remote core 0.1.2 - copied by tvremote\sync.ps1, do not edit here.
+// TV Remote core 0.2.0 - copied by tvremote\sync.ps1, do not edit here.
 package fr.tvremote.core;
 
 import android.content.Context;
@@ -6,6 +6,7 @@ import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.os.Handler;
 import android.os.Looper;
+import android.util.Base64;
 import android.util.Log;
 
 import org.json.JSONObject;
@@ -21,6 +22,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.URLDecoder;
 import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
 import java.security.SecureRandom;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -45,8 +47,9 @@ import java.util.concurrent.TimeUnit;
  * Web remote served by the TV on the local network (format v1, see FORMAT.md).
  *
  * <pre>
- * TvRemote remote = TvRemote.start(context, app, new TvRemote.Options());
- * remote.url();                 // http://192.168.1.20:8770/3f…/  → QR code
+ * TvRemote remote = TvRemote.start(context, app, new TvRemote.Options().hostname("proscenium"));
+ * remote.url();                 // http://192.168.1.20:8770/  → QR code (with ACCESS_TOKEN: …/3f…/)
+ * remote.localName();           // http://proscenium.local:8770/
  * remote.changed("weather");    // a setting changed on the TV: the phones refresh this screen
  * remote.state(json);           // live state (now playing…), sent to every phone
  * remote.stop();
@@ -57,7 +60,7 @@ import java.util.concurrent.TimeUnit;
  */
 public final class TvRemote {
     public static final int FORMAT = 1;
-    public static final String VERSION = "0.1.2";
+    public static final String VERSION = "0.2.0";
     private static final String TAG = "TvRemote";
 
     /** What the app gives the remote. */
@@ -99,21 +102,57 @@ public final class TvRemote {
         }
     }
 
+    /** Fixed address http://&lt;name&gt;.local:&lt;port&gt;/ (and the IP), no token. */
+    public static final String ACCESS_OPEN = "open";
+    /** Address with a random token, new at each start: http://&lt;ip&gt;:&lt;port&gt;/&lt;token&gt;/. */
+    public static final String ACCESS_TOKEN = "token";
+
     public static final class Options {
-        /** Preferred port; a free one is taken if it is busy. */
+        /**
+         * Port. With {@link #ACCESS_OPEN} it is fixed: if it is busy, {@link #start} fails
+         * ({@link #lastError()}); with {@link #ACCESS_TOKEN} a free one is taken instead.
+         */
         public int port = 8770;
         /** 0: while the app runs (ALWAYS); otherwise the server stops after this many ms (WINDOW). */
         public long lifetimeMs = 0;
         /** Folder of the page in the app's assets: index.html, core.js, the skin. */
         public String assetDir = "tvremote";
+        public String access = ACCESS_OPEN;
+        /** Name on the local network, without ".local": a-z, 0-9, "-" (1 to 63); null: no mDNS. */
+        public String hostname = "tv";
+        /** HTTP Basic password (any user name); empty: none. Can change while running: {@link #setPassword}. */
+        public String password = "";
+        /** Shown by the browser's login box (the app's name). */
+        public String realm = "TV Remote";
+        /** Runs on the main thread when the address or the .local name changed (new QR code). */
+        public Runnable onAddressChanged;
 
         public Options port(int p) { port = p; return this; }
         public Options lifetime(long ms) { lifetimeMs = ms; return this; }
         public Options assetDir(String d) { assetDir = d; return this; }
+        public Options access(String a) { access = ACCESS_TOKEN.equals(a) ? ACCESS_TOKEN : ACCESS_OPEN; return this; }
+        public Options hostname(String h) { hostname = h; return this; }
+        public Options password(String p) { password = p == null ? "" : p; return this; }
+        public Options realm(String r) { realm = r; return this; }
+        public Options onAddressChanged(Runnable r) { onAddressChanged = r; return this; }
     }
 
+    /** A valid .local name made from {@code name} (lower case, a-z 0-9 -), or {@code fallback}. */
+    public static String cleanHostname(String name, String fallback) {
+        String h = name == null ? "" : name.trim().toLowerCase(Locale.ROOT);
+        boolean ok = h.length() >= 1 && h.length() <= 63 && h.matches("[a-z0-9-]+") && !h.startsWith("-") && !h.endsWith("-");
+        return ok ? h : fallback;
+    }
+
+    private static volatile String lastError;
+
+    /** Why the last {@link #start} returned null ("no network", "port 8770 busy"…), or null. */
+    public static String lastError() { return lastError; }
+
     private static final int MAX_BODY = 64 * 1024, MAX_SSE = 4;
-    private static final long MAIN_TIMEOUT_MS = 5000, PING_MS = 20_000;
+    private static final long MAIN_TIMEOUT_MS = 5000, PING_MS = 20_000, NET_CHECK_MS = 10_000;
+    private static final int FREE_FAILURES = 5;
+    private static final long MAX_PAUSE_MS = 60_000;
 
     private final AssetManager assets;
     private final App app;
@@ -126,48 +165,116 @@ public final class TvRemote {
     private final List<Client> clients = new ArrayList<>();          // SSE connections, oldest first; sse thread only
     private final Map<String, Set<String>> openedBy = new HashMap<>(); // client → screens it shows; main thread only
     private final Map<String, Integer> openCount = new HashMap<>();    // screen → number of clients; main thread only
+    private final Map<String, long[]> failures = new HashMap<>();      // ip → {failures, paused until}
     private ServerSocket socket;
+    private Mdns mdns;
     private volatile boolean closed;
     private volatile String state;                                    // last state, sent to new clients
-    private String url;
+    private volatile String ip, url, password;
 
     private TvRemote(Context ctx, App app, Options options) {
         this.assets = ctx.getApplicationContext().getAssets();
         this.app = app;
         this.options = options;
-        byte[] r = new byte[16];
-        new SecureRandom().nextBytes(r);
-        StringBuilder sb = new StringBuilder();
-        for (byte b : r) sb.append(String.format("%02x", b & 0xFF));
-        token = sb.toString();
-        prefix = "/" + token + "/";
+        this.password = options.password == null ? "" : options.password;
+        if (ACCESS_TOKEN.equals(options.access)) {
+            byte[] r = new byte[16];
+            new SecureRandom().nextBytes(r);
+            StringBuilder sb = new StringBuilder();
+            for (byte b : r) sb.append(String.format("%02x", b & 0xFF));
+            token = sb.toString();
+            prefix = "/" + token + "/";
+        } else {
+            token = "";
+            prefix = "/";
+        }
     }
 
-    /** Starts the server; null if the TV has no address on the local network or no port is free. */
+    /**
+     * Starts the server (and the .local name); null if the TV has no address on the local network
+     * or, with {@link #ACCESS_OPEN}, if the port is busy: see {@link #lastError()}.
+     */
     public static TvRemote start(Context ctx, App app, Options options) {
+        Options o = options == null ? new Options() : options;
+        lastError = null;
         String ip = localAddress();
-        if (ip == null) return null;
-        TvRemote s = new TvRemote(ctx, app, options == null ? new Options() : options);
+        if (ip == null) {
+            lastError = "no local network";
+            return null;
+        }
+        TvRemote s = new TvRemote(ctx, app, o);
         try {
             try {
-                s.socket = new ServerSocket(s.options.port);
+                s.socket = new ServerSocket(o.port);
             } catch (IOException busy) {
+                if (ACCESS_OPEN.equals(o.access)) {
+                    lastError = "port " + o.port + " busy";
+                    Log.w(TAG, lastError);
+                    return null;
+                }
                 s.socket = new ServerSocket(0);
             }
         } catch (IOException e) {
+            lastError = "no port";
             Log.w(TAG, "No port", e);
             return null;
         }
-        s.url = "http://" + ip + ":" + s.socket.getLocalPort() + s.prefix;
+        s.setIp(ip);
         Thread t = daemon(s::accept, "tvremote-accept");
         t.start();
         s.sse.scheduleAtFixedRate(s::ping, PING_MS, PING_MS, TimeUnit.MILLISECONDS);
+        s.sse.scheduleAtFixedRate(s::checkNetwork, NET_CHECK_MS, NET_CHECK_MS, TimeUnit.MILLISECONDS);
         if (s.options.lifetimeMs > 0) s.main.postDelayed(s::stop, s.options.lifetimeMs);
+        if (o.hostname != null) {
+            s.mdns = new Mdns(ctx, cleanHostname(o.hostname, "tv"), ip, name -> s.addressChanged());
+            s.mdns.start();
+        }
         return s;
     }
 
-    /** Address to open on the phone (also for the QR code). */
+    private void setIp(String newIp) {
+        ip = newIp;
+        url = "http://" + newIp + ":" + socket.getLocalPort() + prefix;
+    }
+
+    /** The TV changed address (new DHCP lease, Wi-Fi ↔ Ethernet): new URL, announced again. */
+    private void checkNetwork() {
+        String now = localAddress();
+        if (now == null || now.equals(ip)) return;
+        Log.i(TAG, "Address " + ip + " -> " + now);
+        setIp(now);
+        if (mdns != null) mdns.setAddress(now);
+        addressChanged();
+    }
+
+    private void addressChanged() {
+        Runnable r = options.onAddressChanged;
+        if (r != null && !closed) main.post(() -> safe(r));
+    }
+
+    /** Address to open on the phone, with the IP (also for the QR code: every phone opens it). */
     public String url() { return url; }
+
+    /** The same address with the .local name (null without one): to type or bookmark. */
+    public String localName() {
+        Mdns m = mdns;
+        return m == null ? null : "http://" + m.name() + ".local:" + socket.getLocalPort() + prefix;
+    }
+
+    /** The .local name in use, without ".local" (may differ from the one asked: "-2"…), or null. */
+    public String hostname() {
+        Mdns m = mdns;
+        return m == null ? null : m.name();
+    }
+
+    /** Port actually used. */
+    public int port() { return socket.getLocalPort(); }
+
+    /** Changes the password at once (empty: none). The access mode or the name need a new start. */
+    public void setPassword(String p) {
+        password = p == null ? "" : p;
+        synchronized (failures) { failures.clear(); }
+    }
 
     public boolean running() { return !closed; }
 
@@ -189,6 +296,7 @@ public final class TvRemote {
         if (closed) return;
         closed = true;
         main.removeCallbacksAndMessages(null);
+        if (mdns != null) mdns.stop();
         try { socket.close(); } catch (IOException ignored) { }
         try {
             sse.execute(() -> {
@@ -260,7 +368,7 @@ public final class TvRemote {
     }
 
     private static final class Request {
-        String method, path, query = "", contentType = "", ifNoneMatch;
+        String method, path, query = "", contentType = "", ifNoneMatch, host, authorization, remote = "";
         byte[] body = new byte[0];
     }
 
@@ -270,6 +378,7 @@ public final class TvRemote {
             c.setSoTimeout(10_000);
             Request rq = read(c.getInputStream());
             if (rq == null) return;
+            rq.remote = c.getInetAddress() == null ? "" : c.getInetAddress().getHostAddress();
             keep = route(rq, c);
         } catch (Exception e) {
             if (!closed) Log.w(TAG, "request", e);
@@ -310,6 +419,10 @@ public final class TvRemote {
                 rq.contentType = value.toLowerCase(Locale.ROOT);
             } else if (name.equals("if-none-match")) {
                 rq.ifNoneMatch = value;
+            } else if (name.equals("host")) {
+                rq.host = value.toLowerCase(Locale.ROOT);
+            } else if (name.equals("authorization")) {
+                rq.authorization = value;
             }
         }
         if (length < 0 || length > MAX_BODY) return null;
@@ -325,7 +438,12 @@ public final class TvRemote {
     /** @return true if the socket is kept (SSE). */
     private boolean route(Request rq, Socket c) throws Exception {
         OutputStream out = c.getOutputStream();
-        if (rq.path.equals("/" + token)) {                       // missing slash: relative URLs need it
+        if (!hostAllowed(rq.host)) {                             // DNS rebinding: only our own names
+            write(out, "421 Misdirected Request", null, null, "");
+            return false;
+        }
+        if (!authorized(rq, out)) return false;
+        if (!token.isEmpty() && rq.path.equals("/" + token)) {   // missing slash: relative URLs need it
             write(out, "302 Found", null, null, "Location: " + prefix + "\r\n");
             return false;
         }
@@ -341,6 +459,9 @@ public final class TvRemote {
         }
         if (get && path.isEmpty()) {
             asset(out, "index.html");
+        } else if (get && path.equals("manifest.webmanifest")) {
+            write(out, "200 OK", "application/manifest+json; charset=utf-8",
+                    onMain(this::manifest).getBytes(StandardCharsets.UTF_8), "Cache-Control: no-cache\r\n");
         } else if (get && path.startsWith("static/")) {
             asset(out, path.substring(7));
         } else if (get && path.equals("api/app")) {
@@ -377,6 +498,87 @@ public final class TvRemote {
             write(out, "404 Not Found", null, null, "");
         }
         return false;
+    }
+
+    // ================================================================== Access
+
+    /** Host header: the IP, the .local name, localhost; none (HTTP/1.0 tools) is allowed. */
+    private boolean hostAllowed(String host) {
+        if (host == null || host.isEmpty()) return true;
+        String h = host;
+        if (h.startsWith("[")) {
+            int end = h.indexOf(']');
+            h = end < 0 ? h : h.substring(0, end + 1);
+        } else {
+            int colon = h.indexOf(':');
+            if (colon >= 0) h = h.substring(0, colon);
+        }
+        if (h.equals(ip) || h.equals("localhost") || h.equals("127.0.0.1") || h.equals("[::1]")) return true;
+        Mdns m = mdns;
+        if (m != null && (h.equals(m.name() + ".local") || h.equals(cleanHostname(options.hostname, "tv") + ".local"))) return true;
+        return false;
+    }
+
+    /** HTTP Basic, when a password is set; failures from one address pause it (doubling, 60 s at most). */
+    private boolean authorized(Request rq, OutputStream out) throws IOException {
+        String pw = password;
+        if (pw.isEmpty()) return true;
+        long now = System.currentTimeMillis();
+        synchronized (failures) {
+            long[] f = failures.get(rq.remote);
+            if (f != null && f[1] > now) {
+                write(out, "429 Too Many Requests", null, null, "Retry-After: " + ((f[1] - now) / 1000 + 1) + "\r\n");
+                return false;
+            }
+        }
+        String given = null;
+        if (rq.authorization != null && rq.authorization.regionMatches(true, 0, "Basic ", 0, 6)) {
+            try {
+                String up = new String(Base64.decode(rq.authorization.substring(6).trim(), Base64.DEFAULT), StandardCharsets.UTF_8);
+                int colon = up.indexOf(':');
+                given = colon < 0 ? up : up.substring(colon + 1);
+            } catch (IllegalArgumentException ignored) { }
+        }
+        if (given != null && MessageDigest.isEqual(given.getBytes(StandardCharsets.UTF_8), pw.getBytes(StandardCharsets.UTF_8))) {
+            synchronized (failures) { failures.remove(rq.remote); }
+            return true;
+        }
+        if (given != null) {                                     // a wrong password (none yet: the first ask)
+            synchronized (failures) {
+                long[] f = failures.get(rq.remote);
+                if (f == null) failures.put(rq.remote, f = new long[2]);
+                f[0]++;
+                if (f[0] >= FREE_FAILURES) f[1] = now + Math.min(MAX_PAUSE_MS, 1000L << Math.min(16, f[0] - FREE_FAILURES));
+            }
+        }
+        String realm = options.realm == null ? "TV Remote" : options.realm.replace("\"", "");
+        write(out, "401 Unauthorized", null, null, "WWW-Authenticate: Basic realm=\"" + realm + "\", charset=\"UTF-8\"\r\n");
+        return false;
+    }
+
+    /** Web app manifest ("Add to home screen"): the app's name and colour; icons from the skin. */
+    private String manifest() throws org.json.JSONException {
+        JSONObject info = app.info().json;
+        String name = info.optString("app", "TV Remote");
+        JSONObject theme = info.optJSONObject("theme");
+        String accent = theme == null ? "#000000" : theme.optString("accent", "#000000");
+        JSONObject m = new JSONObject();
+        m.put("name", name);
+        m.put("short_name", name);
+        m.put("start_url", ".");
+        m.put("scope", ".");
+        m.put("display", "standalone");
+        m.put("theme_color", accent);
+        m.put("background_color", theme == null ? "#000000" : theme.optString("background", "#000000"));
+        org.json.JSONArray icons = new org.json.JSONArray();
+        for (int size : new int[]{192, 512}) {
+            String f = "icon-" + size + ".png";
+            try (InputStream in = assets.open(options.assetDir + "/" + f)) {
+                icons.put(new JSONObject().put("src", "static/" + f).put("sizes", size + "x" + size).put("type", "image/png"));
+            } catch (IOException missing) { /* the app has no icon of this size */ }
+        }
+        m.put("icons", icons);
+        return m.toString();
     }
 
     /** set or action: runs it on the main thread and answers with the screen, updated. */

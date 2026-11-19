@@ -643,4 +643,16 @@
     <string name="set_web_remote">Webbfjärrkontroll</string>
     <string name="help_web_remote">Alla inställningar i mobilen: en sida som tv:n visar i hemnätverket, öppnas med en QR-kod.</string>
     <string name="web_remote_hint">Skanna koden med mobilen, i samma wifi som tv:n. Adressen ändras varje gång Proscenium startar.</string>
+    <string name="set_web_fixed">Fast adress</string>
+    <string name="help_web_fixed">På: samma adress varje gång (namn.local och tv:ns IP), att spara som bokmärke. Av: en hemlig adress, ny varje gång Proscenium startar.</string>
+    <string name="set_web_name">Namn i nätverket</string>
+    <string name="help_web_name">Adressen på iPhone, Mac, PC: http://namn.local:8770. Bokstäver, siffror och bindestreck.</string>
+    <string name="set_web_password">Lösenord</string>
+    <string name="help_web_password">Efterfrågas av webbläsaren innan sidan öppnas (valfritt användarnamn). Rekommenderas om andra använder ditt wifi.</string>
+    <string name="act_web_password_clear">Ta bort lösenordet</string>
+    <string name="help_web_password_clear">Sidan öppnas igen utan lösenord.</string>
+    <string name="web_password_none">Inget</string>
+    <string name="web_remote_port_busy">Port 8770 används av en annan app: stäng av den fasta adressen, eller stäng den appen.</string>
+    <string name="web_remote_local">Även: %1$s (iPhone, Mac, PC)</string>
+    <string name="web_remote_hint_fixed">Skanna koden med mobilen, i samma wifi som tv:n. Adressen ändras inte: spara den som bokmärke eller lägg till den på hemskärmen.</string>
 </resources>

@@ -642,4 +642,16 @@
     <string name="set_web_remote">Web-Fernbedienung</string>
     <string name="help_web_remote">Alle Einstellungen auf dem Handy: eine Seite, die der Fernseher im Heimnetz bereitstellt, geöffnet per QR-Code.</string>
     <string name="web_remote_hint">Scannen Sie diesen Code mit dem Handy im selben WLAN wie der Fernseher. Die Adresse ändert sich bei jedem Start von Proscenium.</string>
+    <string name="set_web_fixed">Feste Adresse</string>
+    <string name="help_web_fixed">Ein: jedes Mal dieselbe Adresse (name.local und die IP des Fernsehers), als Lesezeichen. Aus: eine geheime Adresse, bei jedem Start von Proscenium neu.</string>
+    <string name="set_web_name">Name im Netzwerk</string>
+    <string name="help_web_name">Die Adresse auf iPhone, Mac, PC: http://name.local:8770. Buchstaben, Ziffern und Bindestriche.</string>
+    <string name="set_web_password">Passwort</string>
+    <string name="help_web_password">Wird vom Browser vor dem Öffnen der Seite abgefragt (beliebiger Benutzername). Empfohlen, wenn andere Ihr WLAN nutzen.</string>
+    <string name="act_web_password_clear">Passwort entfernen</string>
+    <string name="help_web_password_clear">Die Seite öffnet sich wieder ohne Passwort.</string>
+    <string name="web_password_none">Keins</string>
+    <string name="web_remote_port_busy">Port 8770 wird von einer anderen App belegt: feste Adresse ausschalten oder diese App schließen.</string>
+    <string name="web_remote_local">Auch: %1$s (iPhone, Mac, PC)</string>
+    <string name="web_remote_hint_fixed">Scannen Sie diesen Code mit dem Handy im selben WLAN wie der Fernseher. Die Adresse bleibt gleich: als Lesezeichen speichern oder zum Startbildschirm hinzufügen.</string>
 </resources>

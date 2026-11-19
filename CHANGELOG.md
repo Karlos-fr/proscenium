@@ -19,8 +19,11 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   TMDB key (checked before it is saved, never sent back to the phone), and a bar with the film on
   screen and "next backdrop". It works on a phone and in a computer's browser (tabs on the left,
   mouse, Escape to go back, N for the next backdrop). The page refreshes by itself when a setting
-  changes on the TV. The
-  address changes each time Proscenium starts. Built on a core shared with Lactea (fr.tvremote).
+  changes on the TV. Fixed address
+  http://proscenium.local:8770 (name on the network to choose; .local name answered by Proscenium
+  itself) or the TV's IP for the QR code, optional password asked by the browser, and "Add to home
+  screen" on the phone; turning the fixed address off gives a secret address, new at each start.
+  Built on a core shared with Lactea (fr.tvremote).
 - Updates: Proscenium checks GitHub for a new version once a day and shows a short message when one
   comes out. Settings → System → Update downloads it and hands it to Android's installer, which asks
   for confirmation. Settings are kept. The daily check can be turned off.

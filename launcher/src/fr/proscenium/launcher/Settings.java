@@ -337,6 +337,12 @@ final class Settings {
 
     /** Télécommande web : page de réglages servie au téléphone sur le réseau local (ProsceniumRemote). */
     final Flag webRemote = new Flag("web_remote", R.string.set_web_remote, R.string.help_web_remote, false);
+    /** Adresse fixe http://proscenium.local:8770/ (et l'IP) ; sinon une adresse à jeton, neuve à chaque démarrage. */
+    final Flag webRemoteFixed = new Flag("web_remote_fixed", R.string.set_web_fixed, R.string.help_web_fixed, true);
+    /** Nom sur le réseau local (sans « .local »). */
+    final Text webRemoteName = new Text("web_remote_name", R.string.set_web_name, R.string.help_web_name, "proscenium");
+    /** Mot de passe de la page (vide : aucun). Hors de « all » : ni réinitialisé ni écrit dans la sauvegarde. */
+    final Text webRemotePassword = new Text("web_remote_password", R.string.set_web_password, R.string.help_web_password, "");
 
     final List<Item> all = new ArrayList<>();
     private final List<Listener> listeners = new ArrayList<>();
@@ -350,7 +356,7 @@ final class Settings {
                 glowPower, glowAnim, glowAnimAmount, glowAnimSpeed, scrollSpeed,
                 scrollParallax, loop, glassEngine, rimWidth,
                 weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, weatherFx, fxSun, fxRain, fxLightning, fxSnow, fxFog, fxWind, weatherFxAmount, weatherLens, headerScale,
-                language, economy, webRemote, updateCheck, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
+                language, economy, webRemote, webRemoteFixed, webRemoteName, updateCheck, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
         for (Item i : items) all.add(i);
     }
 
@@ -385,6 +391,7 @@ final class Settings {
         }
         // Hors de « Réinitialiser tous les réglages » : la clé et le choix de playlist restent
         tmdbKey.load(p);
+        webRemotePassword.load(p);
         activePlaylists.load(p);
     }
 
