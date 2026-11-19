@@ -1,4 +1,4 @@
-// TV Remote core 0.2.0 - copied by tvremote\sync.ps1, do not edit here.
+// TV Remote core 0.2.1 - copied by tvremote\sync.ps1, do not edit here.
 package fr.tvremote.core;
 
 /** A picture served at img/&lt;key&gt;. */

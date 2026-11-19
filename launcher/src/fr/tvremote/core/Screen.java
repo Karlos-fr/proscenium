@@ -1,4 +1,4 @@
-// TV Remote core 0.2.0 - copied by tvremote\sync.ps1, do not edit here.
+// TV Remote core 0.2.1 - copied by tvremote\sync.ps1, do not edit here.
 package fr.tvremote.core;
 
 import org.json.JSONArray;
@@ -29,14 +29,12 @@ public final class Screen {
         return this;
     }
 
-    /** This screen is a top-level tab (also list it in {@link AppInfo#tab}). */
-    public Screen tab(String icon, int order) {
-        JSONObject t = new JSONObject();
-        Item.put(t, "icon", icon);
-        Item.put(t, "order", order);
-        Item.put(json, "tab", t);
-        return this;
-    }
+    /**
+     * @deprecated the tabs are listed by {@link AppInfo#tab} only (the page never read this);
+     * kept so that older code compiles, it does nothing.
+     */
+    @Deprecated
+    public Screen tab(String icon, int order) { return this; }
 
     public Screen add(Item item) {
         if (item != null) items.put(item.json);
@@ -61,6 +59,4 @@ public final class Screen {
         Item.put(json, key, value);
         return this;
     }
-
-    String id() { return json.optString("id"); }
 }

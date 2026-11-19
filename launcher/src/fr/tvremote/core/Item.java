@@ -1,4 +1,4 @@
-// TV Remote core 0.2.0 - copied by tvremote\sync.ps1, do not edit here.
+// TV Remote core 0.2.1 - copied by tvremote\sync.ps1, do not edit here.
 package fr.tvremote.core;
 
 import org.json.JSONArray;
@@ -16,11 +16,24 @@ import org.json.JSONObject;
  * </pre>
  */
 public final class Item {
-    public static final String CHECK_NONE = "none", CHECK_SINGLE = "single", CHECK_MULTI = "multi";
+    /** How the tiles of a grid or the rows of a list are ticked. */
+    public enum Check {
+        NONE("none"), SINGLE("single"), MULTI("multi");
+
+        final String json;
+
+        Check(String json) { this.json = json; }
+    }
+
+    /** @deprecated use {@link Check}. */
+    @Deprecated public static final String CHECK_NONE = "none", CHECK_SINGLE = "single", CHECK_MULTI = "multi";
 
     final JSONObject json = new JSONObject();
+    private final String type;
+    private boolean secret;
 
     private Item(String type, String id, String label) {
+        this.type = type;
         put(json, "type", type);
         if (id != null) put(json, "id", id);
         put(json, "label", label == null ? "" : label);
@@ -64,6 +77,7 @@ public final class Item {
      */
     public static Item secret(String id, String label, boolean isSet) {
         Item i = new Item("text", id, label);
+        i.secret = true;
         put(i.json, "secret", true);
         put(i.json, "value", "");
         put(i.json, "isSet", isSet);
@@ -72,20 +86,33 @@ public final class Item {
 
     public static Item button(String id, String label) { return new Item("button", id, label); }
 
-    /** Tiles with pictures; add them with {@link #tile}. {@code check}: CHECK_NONE, CHECK_SINGLE or CHECK_MULTI. */
-    public static Item grid(String id, String label, String check) {
+    /** Tiles with pictures; add them with {@link #tile}. */
+    public static Item grid(String id, String label, Check check) {
         Item i = new Item("grid", id, label);
-        put(i.json, "check", check);
+        put(i.json, "check", (check == null ? Check.NONE : check).json);
         put(i.json, "tiles", new JSONArray());
         return i;
     }
 
-    /** Rows; add them with {@link #row}. {@code check}: CHECK_NONE, CHECK_SINGLE or CHECK_MULTI. */
-    public static Item list(String id, String label, String check) {
+    /** Rows; add them with {@link #row}. */
+    public static Item list(String id, String label, Check check) {
         Item i = new Item("list", id, label);
-        put(i.json, "check", check);
+        put(i.json, "check", (check == null ? Check.NONE : check).json);
         put(i.json, "rows", new JSONArray());
         return i;
+    }
+
+    /** @deprecated use {@link #grid(String, String, Check)}. */
+    @Deprecated
+    public static Item grid(String id, String label, String check) { return grid(id, label, check(check)); }
+
+    /** @deprecated use {@link #list(String, String, Check)}. */
+    @Deprecated
+    public static Item list(String id, String label, String check) { return list(id, label, check(check)); }
+
+    private static Check check(String s) {
+        for (Check c : Check.values()) if (c.json.equals(s)) return c;
+        return Check.NONE;
     }
 
     /** A tile of a grid, or a row of a list. Its id must not contain '/'. */
@@ -113,7 +140,7 @@ public final class Item {
 
     /** Current value (also the text shown at right of a button). */
     public Item value(Object v) {
-        if (!"true".equals(String.valueOf(json.opt("secret")))) put(json, "value", v);
+        if (!secret) put(json, "value", v);                 // a secret's value never leaves the TV
         return this;
     }
 
@@ -121,6 +148,7 @@ public final class Item {
 
     /** choice: one option. */
     public Item option(Object value, String label) {
+        require("choice", "option");
         JSONObject o = new JSONObject();
         put(o, "value", value);
         put(o, "label", label);
@@ -130,12 +158,14 @@ public final class Item {
 
     /** slider: how the value is written, e.g. "%d %%", "%d s". */
     public Item format(String f) {
+        require("slider", "format");
         put(json, "format", f);
         return this;
     }
 
     /** text: hint shown in the empty field. */
     public Item placeholder(String p) {
+        require("text", "placeholder");
         put(json, "placeholder", p);
         return this;
     }
@@ -154,18 +184,21 @@ public final class Item {
 
     /** grid: one tile. */
     public Item tile(Entry t) {
+        require("grid", "tile");
         json.optJSONArray("tiles").put(t.json);
         return this;
     }
 
     /** list: one row. */
     public Item row(Entry r) {
+        require("list", "row");
         json.optJSONArray("rows").put(r.json);
         return this;
     }
 
     /** list: the rows can be moved; the page sends the new order as {@code set {id, value:[ids]}}. */
     public Item order(boolean movable) {
+        require("list", "order");
         if (movable) put(json, "order", true);
         return this;
     }
@@ -174,6 +207,11 @@ public final class Item {
     public Item extra(String key, Object value) {
         put(json, key, value);
         return this;
+    }
+
+    /** A setter of one type used on another: a clear error rather than a NullPointerException. */
+    private void require(String wanted, String setter) {
+        if (!type.equals(wanted)) throw new IllegalStateException(setter + "() is for a " + wanted + ", not a " + type);
     }
 
     // ------------------------------------------------------------------ tiles and rows

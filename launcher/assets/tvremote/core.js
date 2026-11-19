@@ -1,4 +1,4 @@
-/* TV Remote core 0.2.0 - do not edit here. */
+/* TV Remote core 0.2.1 - do not edit here. */
 /*
  * TV Remote — page core (format v1). No style here: each app's skin (CSS) gives the look.
  *
@@ -15,18 +15,19 @@
  *   .tr-toast (errors), .tr-offline (connection lost), .tr-dialog (confirm)
  *
  * Hooks (all optional): render[type](item, ctx) → element, state(json), screen(el, screen),
- * confirm(question) → Promise<bool>, words: {back, search, offline, more, ok, cancel, up, down, send}.
+ * confirm(question) → Promise<bool>, words: {back, search, offline, more, ok, cancel, up, down, send,
+ * paused, busy, mismatch}.
  */
 (function () {
   'use strict';
   var FORMAT = 1;
   var WORDS = {
-    en: { back: 'Back', search: 'Search', offline: 'Connection to the TV lost…', more: 'More', ok: 'OK', cancel: 'Cancel', up: 'Up', down: 'Down', send: 'OK', mismatch: 'This page does not match the app: reload it.' },
-    fr: { back: 'Retour', search: 'Rechercher', offline: 'Connexion à la TV perdue…', more: 'Plus', ok: 'OK', cancel: 'Annuler', up: 'Monter', down: 'Descendre', send: 'OK', mismatch: 'Cette page ne correspond pas à l’app : rechargez-la.' },
-    de: { back: 'Zurück', search: 'Suchen', offline: 'Verbindung zum Fernseher verloren…', more: 'Mehr', ok: 'OK', cancel: 'Abbrechen', up: 'Nach oben', down: 'Nach unten', send: 'OK', mismatch: 'Diese Seite passt nicht zur App: bitte neu laden.' },
-    it: { back: 'Indietro', search: 'Cerca', offline: 'Connessione alla TV persa…', more: 'Altro', ok: 'OK', cancel: 'Annulla', up: 'Su', down: 'Giù', send: 'OK', mismatch: 'Questa pagina non corrisponde all’app: ricaricala.' },
-    es: { back: 'Atrás', search: 'Buscar', offline: 'Conexión con la TV perdida…', more: 'Más', ok: 'OK', cancel: 'Cancelar', up: 'Subir', down: 'Bajar', send: 'OK', mismatch: 'Esta página no corresponde a la app: recárgala.' },
-    sv: { back: 'Tillbaka', search: 'Sök', offline: 'Anslutningen till TV:n bröts…', more: 'Mer', ok: 'OK', cancel: 'Avbryt', up: 'Upp', down: 'Ner', send: 'OK', mismatch: 'Sidan matchar inte appen: ladda om den.' }
+    en: { back: 'Back', search: 'Search', offline: 'Connection to the TV lost…', more: 'More', ok: 'OK', cancel: 'Cancel', up: 'Up', down: 'Down', send: 'OK', paused: 'Too many wrong passwords: wait a moment.', busy: 'The TV is busy: try again.', mismatch: 'This page does not match the app: reload it.' },
+    fr: { back: 'Retour', search: 'Rechercher', offline: 'Connexion à la TV perdue…', more: 'Plus', ok: 'OK', cancel: 'Annuler', up: 'Monter', down: 'Descendre', send: 'OK', paused: 'Trop de mots de passe erronés : patientez un instant.', busy: 'La TV est occupée : réessayez.', mismatch: 'Cette page ne correspond pas à l’app : rechargez-la.' },
+    de: { back: 'Zurück', search: 'Suchen', offline: 'Verbindung zum Fernseher verloren…', more: 'Mehr', ok: 'OK', cancel: 'Abbrechen', up: 'Nach oben', down: 'Nach unten', send: 'OK', paused: 'Zu viele falsche Passwörter: bitte kurz warten.', busy: 'Der Fernseher ist beschäftigt: bitte erneut versuchen.', mismatch: 'Diese Seite passt nicht zur App: bitte neu laden.' },
+    it: { back: 'Indietro', search: 'Cerca', offline: 'Connessione alla TV persa…', more: 'Altro', ok: 'OK', cancel: 'Annulla', up: 'Su', down: 'Giù', send: 'OK', paused: 'Troppe password errate: attendi un momento.', busy: 'La TV è occupata: riprova.', mismatch: 'Questa pagina non corrisponde all’app: ricaricala.' },
+    es: { back: 'Atrás', search: 'Buscar', offline: 'Conexión con la TV perdida…', more: 'Más', ok: 'OK', cancel: 'Cancelar', up: 'Subir', down: 'Bajar', send: 'OK', paused: 'Demasiadas contraseñas erróneas: espera un momento.', busy: 'La TV está ocupada: inténtalo de nuevo.', mismatch: 'Esta página no corresponde a la app: recárgala.' },
+    sv: { back: 'Tillbaka', search: 'Sök', offline: 'Anslutningen till TV:n bröts…', more: 'Mer', ok: 'OK', cancel: 'Avbryt', up: 'Upp', down: 'Ner', send: 'OK', paused: 'För många felaktiga lösenord: vänta en stund.', busy: 'TV:n är upptagen: försök igen.', mismatch: 'Sidan matchar inte appen: ladda om den.' }
   };
 
   var root, hooks, app, words;
@@ -53,9 +54,23 @@
       body: JSON.stringify(body), keepalive: true
     };
     return fetch(path, opt).then(function (r) {
+      if (r.status === 401) { location.reload(); throw handled(); }      // the browser asks the password again
+      if (r.status === 429) { toast(words.paused); throw handled(); }
+      if (r.status === 503) { toast(words.busy); throw handled(); }
       if (!r.ok) throw new Error(r.status);
       return r.json();
     });
+  }
+
+  /** An error already shown (or the page reloading): not a lost connection. */
+  function handled() {
+    var e = new Error('handled');
+    e.handled = true;
+    return e;
+  }
+
+  function failed(e) {
+    if (!e || !e.handled) toast(words.offline);
   }
 
   function toast(text) {
@@ -102,12 +117,12 @@
 
   function set(id, value) {
     var b = Object.assign({ client: client, screen: current.id, id: id, value: value }, query());
-    return api('api/set', b).then(answer, function () { toast(words.offline); });
+    return api('api/set', b).then(answer, failed);
   }
 
   function action(id) {
     var b = Object.assign({ client: client, screen: current.id, id: id }, query());
-    return api('api/action', b).then(answer, function () { toast(words.offline); });
+    return api('api/action', b).then(answer, failed);
   }
 
   function screenUrl(id, offset, limit) {
@@ -152,7 +167,7 @@
       var first = !current || current.id !== s.id;
       show(s, keepScroll);
       if (first) opened(s.id);
-    }, function () { toast(words.offline); });
+    }, failed);
   }
 
   function refresh() {
@@ -475,6 +490,8 @@
     };
     events.onerror = function () {
       if (!offline) offline = root.appendChild(el('div', 'tr-offline', words.offline));
+      // The password changed on the TV: EventSource cannot tell, a plain request can
+      fetch('api/app').then(function (r) { if (r.status === 401) location.reload(); }, function () {});
     };
     events.addEventListener('changed', function (ev) {
       var d = JSON.parse(ev.data);

@@ -66,7 +66,7 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
     void apply() {
         Settings s = act.settings;
         boolean want = s.webRemote.value;
-        String access = s.webRemoteFixed.value ? TvRemote.ACCESS_OPEN : TvRemote.ACCESS_TOKEN;
+        TvRemote.Access access = s.webRemoteFixed.value ? TvRemote.Access.OPEN : TvRemote.Access.TOKEN;
         String name = TvRemote.cleanHostname(s.webRemoteName.value, "proscenium");
         String key = access + "|" + name;
         if (want && server != null && server.running() && key.equals(serverKey)) {
@@ -201,7 +201,7 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
             }
             case "playlists": {
                 Screen sc = tab(id, R.string.tab_playlists, 1);
-                Item grid = Item.grid("active", str(R.string.sec_my_playlists), Item.CHECK_MULTI)
+                Item grid = Item.grid("active", str(R.string.sec_my_playlists), Item.Check.MULTI)
                         .help(str(R.string.help_active_playlists));
                 for (Playlists.Playlist p : Playlists.all(act)) {
                     grid.tile(Item.tile(p.id, p.name).img("img/playlist:" + p.id)
@@ -352,7 +352,7 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
             });
             return sc;
         }
-        Item grid = Item.grid("packs", "", Item.CHECK_MULTI);
+        Item grid = Item.grid("packs", "", Item.Check.MULTI);
         for (Packs.Pack pack : catalog) {
             Playlists.Playlist installed = Playlists.byPack(act, pack.id);
             boolean update = installed != null && pack.version > installed.packVersion;
@@ -375,12 +375,12 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
         for (InputShortcuts.Shortcut shortcut : InputShortcuts.load(act.settings)) {
             apps.add(0, new String[]{InputShortcuts.PREFIX + shortcut.id, shortcut.name + "  ·  HDMI"});
         }
-        Item in = Item.list("order", str(R.string.dock_apps_title), Item.CHECK_MULTI).order(true);
+        Item in = Item.list("order", str(R.string.dock_apps_title), Item.Check.MULTI).order(true);
         for (String pkg : order) {
             for (String[] a : apps) if (a[0].equals(pkg)) in.row(Item.row(id(pkg), a[1]).checked(true));
         }
         sc.add(in);
-        Item others = Item.list("others", "", Item.CHECK_MULTI);
+        Item others = Item.list("others", "", Item.Check.MULTI);
         for (String[] a : apps) if (!order.contains(a[0])) others.row(Item.row(id(a[0]), a[1]).checked(false));
         sc.add(others);
         return sc;
@@ -710,7 +710,7 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
     // ================================================================== Aides
 
     private Screen tab(String id, int title, int order) {
-        return Screen.of(id, str(title)).tab("static/icons/" + id + ".svg", order);
+        return Screen.of(id, str(title));          // les onglets viennent de AppInfo.tab()
     }
 
     private void section(Screen sc, int title) {

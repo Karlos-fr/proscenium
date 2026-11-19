@@ -1,15 +1,15 @@
-// TV Remote core 0.2.0 - copied by tvremote\sync.ps1, do not edit here.
+// TV Remote core 0.2.1 - copied by tvremote\sync.ps1, do not edit here.
 package fr.tvremote.core;
 
 import java.nio.charset.StandardCharsets;
 
 /**
- * Petit générateur de QR code (norme ISO/IEC 18004), juste ce qu'il faut pour une adresse web :
- * mode octets, correction d'erreurs niveau M, versions 1 à 6 (jusqu'à 106 octets).
- * Le masque retenu est celui qui obtient la meilleure note (règles de pénalité de la norme).
+ * Small QR code generator (ISO/IEC 18004), just what a web address needs: byte mode, error
+ * correction level M, versions 1 to 6 (up to 106 bytes). The mask kept is the one with the best
+ * score (penalty rules of the standard). Plain Java; tested on a PC (test/).
  */
 public final class QrCode {
-    /** Nombre total de mots de code, mots de correction par bloc et nombre de blocs, versions 1 à 6, niveau M. */
+    /** Total codewords, error correction codewords per block and number of blocks, versions 1 to 6, level M. */
     private static final int[] TOTAL = {0, 26, 44, 70, 100, 134, 172};
     private static final int[] EC_PER_BLOCK = {0, 10, 16, 26, 18, 24, 16};
     private static final int[] BLOCKS = {0, 1, 1, 1, 2, 2, 4};
@@ -23,7 +23,7 @@ public final class QrCode {
         function = new boolean[size][size];
     }
 
-    /** Module noir en (x, y) ? */
+    /** Is the module at (x, y) dark? */
     public boolean get(int x, int y) {
         return x >= 0 && y >= 0 && x < size && y < size && dark[y][x];
     }
@@ -32,9 +32,9 @@ public final class QrCode {
         byte[] data = text.getBytes(StandardCharsets.UTF_8);
         int version = 1;
         while (version <= 6 && capacity(version) < data.length + 2) version++;
-        if (version > 6) throw new IllegalArgumentException("Texte trop long pour le QR code");
+        if (version > 6) throw new IllegalArgumentException("Text too long for the QR code");
 
-        // Flux de bits : mode octets (0100), longueur sur 8 bits, données, fin, remplissage
+        // Bit stream: byte mode (0100), 8-bit length, data, terminator, padding
         int dataBytes = capacity(version);
         BitBuffer bb = new BitBuffer();
         bb.append(0b0100, 4);
@@ -57,7 +57,7 @@ public final class QrCode {
                 bestPenalty = p;
                 best = m;
             }
-            qr.applyMask(m); // le masque est son propre inverse
+            qr.applyMask(m); // a mask is its own inverse
         }
         qr.applyMask(best);
         qr.drawFormat(best);
@@ -68,7 +68,7 @@ public final class QrCode {
         return TOTAL[version] - EC_PER_BLOCK[version] * BLOCKS[version];
     }
 
-    // ---------------------------------------------------------------- Correction d'erreurs
+    // ---------------------------------------------------------------- Error correction
 
     private static byte[] interleave(int version, byte[] data) {
         int blocks = BLOCKS[version], ec = EC_PER_BLOCK[version], per = data.length / blocks;
@@ -111,7 +111,7 @@ public final class QrCode {
         return result;
     }
 
-    /** Produit dans GF(2^8), polynôme 0x11D. */
+    /** Product in GF(2^8), polynomial 0x11D. */
     private static int mul(int x, int y) {
         int z = 0;
         for (int i = 7; i >= 0; i--) {
@@ -121,7 +121,7 @@ public final class QrCode {
         return z;
     }
 
-    // ---------------------------------------------------------------- Dessin
+    // ---------------------------------------------------------------- Drawing
 
     private void set(int x, int y, boolean on) {
         dark[y][x] = on;
@@ -142,7 +142,7 @@ public final class QrCode {
                 for (int dx = -2; dx <= 2; dx++)
                     set(c + dx, c + dy, Math.max(Math.abs(dx), Math.abs(dy)) != 1);
         }
-        drawFormat(0); // réserve la place, réécrite après le choix du masque
+        drawFormat(0); // reserves the area, written again once the mask is chosen
     }
 
     private void finder(int cx, int cy) {
@@ -156,9 +156,9 @@ public final class QrCode {
         }
     }
 
-    /** Informations de format : niveau M (00) et masque, code BCH(15,5), deux copies. */
+    /** Format information: level M (00) and mask, BCH(15,5) code, two copies. */
     private void drawFormat(int mask) {
-        int data = mask; // niveau M = 00
+        int data = mask; // level M = 00
         int rem = data;
         for (int i = 0; i < 10; i++) rem = (rem << 1) ^ ((rem >>> 9) * 0x537);
         int bits = (data << 10 | rem) ^ 0x5412;
@@ -214,7 +214,7 @@ public final class QrCode {
         }
     }
 
-    /** Pénalités de la norme : suites de même couleur, carrés 2×2, motifs de repère, équilibre noir/blanc. */
+    /** Penalties of the standard: runs of one colour, 2×2 blocks, finder-like patterns, dark/light balance. */
     private long penalty() {
         long p = 0;
         for (int pass = 0; pass < 2; pass++) {
