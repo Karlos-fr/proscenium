@@ -308,6 +308,8 @@ abstract class HomeHeader extends HomeBackdrop {
                     : film.title + " " + film.customTitle + " " + film.tagline + " " + film.overview;
             autoPick = WeatherPicker.smart(genres, text, frame.lumTop, frame.lumBottom, frame.accent, autoRandom);
         }
+        Log.d(TAG, "Météo " + (mode == Settings.FX_RANDOM ? "aléatoire" : "selon le fond") + " : "
+                + (frame == null ? "?" : frame.title) + " -> couches " + autoPick.layers + ", force " + autoPick.amount);
         return autoPick;
     }
 
