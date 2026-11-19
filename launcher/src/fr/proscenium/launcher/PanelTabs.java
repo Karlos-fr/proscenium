@@ -193,6 +193,22 @@ abstract class PanelTabs extends PanelCore {
                         () -> ctx.getString(host.homeServiceActive() ? R.string.service_on : R.string.service_off),
                         host::openAccessibility));
                 break;
+            // Android 13 et plus bloque l'accessibilité des applis installées hors du Play Store
+            // (« paramètre restreint ») : l'interrupteur du service refuse alors de s'activer. Cette
+            // ligne ouvre la page de l'appli, où le menu ⋮ permet de lever le blocage
+            case PanelLayout.RESTRICTED:
+                if (android.os.Build.VERSION.SDK_INT < 33 || host.homeServiceActive()) break;
+                content.addView(action(R.string.act_restricted, R.string.help_restricted, () -> "›", () -> {
+                    try {
+                        ctx.startActivity(new android.content.Intent(
+                                android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS,
+                                android.net.Uri.parse("package:" + ctx.getPackageName()))
+                                .addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK));
+                    } catch (Exception e) {
+                        host.openAndroidSettings();
+                    }
+                }));
+                break;
             case PanelLayout.ANDROID_SETTINGS:
                 content.addView(action(R.string.act_android_settings, R.string.help_android_settings, null,
                         host::openAndroidSettings));
@@ -500,18 +516,34 @@ abstract class PanelTabs extends PanelCore {
     void askCity() {
         askText(R.string.weather_prompt, s.weatherCity.value, q -> {
             help.setText(R.string.weather_searching);
-            host.searchCity(q, result -> {
-                if (result == null) {
+            host.searchCity(q, cities -> {
+                if (cities == null || cities.isEmpty()) {
                     help.setText(R.string.weather_not_found);
                     return;
                 }
-                s.weatherCity.value = result[0];
-                s.weatherCoords.value = result[1];
-                s.changed(s.weatherCoords);
-                s.changed(s.weatherCity);
-                for (Runnable r : refreshers) r.run();
+                if (cities.size() == 1) {
+                    setCity(cities.get(0));
+                    return;
+                }
+                // Plusieurs villes de ce nom : la liste, avec région et pays, pour choisir la sienne
+                String[] labels = new String[cities.size()];
+                for (int i = 0; i < labels.length; i++) labels[i] = cities.get(i)[2];
+                help.setText("");
+                new android.app.AlertDialog.Builder(ctx)
+                        .setTitle(R.string.weather_choose)
+                        .setItems(labels, (d, which) -> setCity(cities.get(which)))
+                        .setNegativeButton(android.R.string.cancel, null)
+                        .show();
             });
         });
+    }
+
+    void setCity(String[] city) {
+        s.weatherCity.value = city[0];
+        s.weatherCoords.value = city[1];
+        s.changed(s.weatherCoords);
+        s.changed(s.weatherCity);
+        for (Runnable r : refreshers) r.run();
     }
 
 

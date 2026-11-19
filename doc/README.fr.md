@@ -211,6 +211,12 @@ testé. Les Fire TV les plus récents, sous Vega OS, ne peuvent pas du tout inst
 par Google. Activez le service prévu pour ça (**Réglages → Système → Service du bouton Accueil**,
 puis Proscenium dans la page d'accessibilité d'Android) : le bouton Accueil ouvre alors Proscenium.
 
+**Le service du bouton Accueil refuse de s'activer.** Android 13 et plus bloque l'accessibilité des
+applis installées hors du Play Store (« paramètre restreint »). Ouvrez **Réglages → Système → Le
+service refuse de s'activer ?**, qui affiche les infos de Proscenium, choisissez **⋮ → Autoriser les
+paramètres restreints**, puis réactivez le service. Si la TV n'a pas ce menu, lancez une fois depuis
+un ordinateur avec adb : `adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow`.
+
 **Pourquoi une clé TMDB ?** Elle ne sert qu'à chercher des films vous-même. Les packs, les photos
 Bing et la météo s'en passent. TMDB donne gratuitement des clés aux projets personnels, et chaque
 utilisateur a la sienne : Proscenium ne partage pas une même clé entre tout le monde.

@@ -81,7 +81,8 @@ abstract class PanelCore {
         boolean restoreSettings();
     }
 
-    interface CityCallback { void found(String[] cityAndCoords); }
+    /** Villes trouvées : {nom, "lat,lon", « Nom, région, pays »} ; vide si aucune, null si erreur réseau. */
+    interface CityCallback { void found(java.util.List<String[]> cities); }
     interface TextCallback { void text(String s); }
 
 

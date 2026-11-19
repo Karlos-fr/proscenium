@@ -94,6 +94,13 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   "Random values" button that also turns the animation on.
 - README (in the six languages): new sections on the living weather and the web remote, and the
   film details of the cinema mode title card.
+- Weather town: when several towns have the name typed (very common in Italy, for one), a list with
+  province, region and country lets you pick yours, on the TV and on the web remote (20 results
+  instead of the first one only).
+- Home button service: Android 13 and later blocks accessibility for apps installed outside the Play
+  Store. Settings → System shows "Service won't turn on?" while the service is off, which opens
+  Proscenium's app info (⋮ → Allow restricted settings); the README gives the adb command for TVs
+  without that menu.
 
 ## [1.0] — 2026-11-17
 

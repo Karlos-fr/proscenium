@@ -39,7 +39,7 @@ final class PanelLayout {
             DREAM_SETTINGS = "dream_settings", DOCK_APPS = "dock_apps", CITY = "city", WEATHER_STYLES = "weather_styles",
             TMDB_KEY = "tmdb_key", TMDB_KEY_PHONE = "tmdb_key_phone", TMDB_TEST = "tmdb_test", CACHE = "cache",
             CLEAR_CACHE = "clear_cache", DOWNLOADS = "downloads", TMDB_ABOUT = "tmdb_about", WEB_REMOTE = "web_remote",
-            SERVICE = "service", ANDROID_SETTINGS = "android_settings", BACKUP = "backup", RESTORE = "restore",
+            SERVICE = "service", RESTRICTED = "restricted", ANDROID_SETTINGS = "android_settings", BACKUP = "backup", RESTORE = "restore",
             RESET_ALL = "reset_all", UPDATE = "update", WELCOME = "welcome", VERSION = "version", CREDITS = "credits";
 
     /** Entrées de l'onglet {@code tab} (PanelCore.TAB_…) ; vide pour Playlists et Verre. */
@@ -82,7 +82,7 @@ final class PanelLayout {
                 return list(sec(R.string.sec_language), s.language,
                         sec(R.string.sec_performance), s.economy,
                         sec(R.string.sec_web_remote), sp(WEB_REMOTE),
-                        sec(R.string.sec_service), sp(SERVICE), sp(ANDROID_SETTINGS),
+                        sec(R.string.sec_service), sp(SERVICE), sp(RESTRICTED), sp(ANDROID_SETTINGS),
                         sec(R.string.sec_maintenance), sp(BACKUP), sp(RESTORE), sp(RESET_ALL),
                         sec(R.string.sec_updates), sp(UPDATE), s.updateCheck,
                         sec(R.string.sec_about), sp(WELCOME), sp(VERSION), sp(CREDITS), sp(TMDB_ABOUT));

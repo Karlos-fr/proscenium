@@ -219,6 +219,12 @@ installieren.
 Taste. Schalten Sie den dafür vorgesehenen Dienst ein (**Einstellungen → System → Home-Tasten-Dienst**,
 dann Proscenium auf der Bedienungshilfen-Seite von Android): Die Home-Taste öffnet dann Proscenium.
 
+**Der Dienst der Home-Taste lässt sich nicht einschalten.** Ab Android 13 wird die Bedienungshilfe
+für Apps außerhalb des Play Store gesperrt („eingeschränkte Einstellung“). Öffnen Sie
+**Einstellungen → System → Dienst lässt sich nicht einschalten?**, das die App-Infos von Proscenium
+zeigt, wählen Sie **⋮ → Eingeschränkte Einstellungen zulassen** und schalten Sie den Dienst erneut
+ein. Hat der Fernseher dieses Menü nicht, führen Sie einmal von einem Computer mit adb aus: `adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow`.
+
 **Warum ein TMDB-Schlüssel?** Er wird nur gebraucht, um selbst nach Filmen zu suchen. Pakete,
 Bing-Fotos und Wetter funktionieren ohne. TMDB vergibt Schlüssel für private Projekte kostenlos, und
 jeder Nutzer hat seinen eigenen: Proscenium teilt keinen gemeinsamen Schlüssel.

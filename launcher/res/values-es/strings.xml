@@ -658,4 +658,7 @@
     <string name="fx_smart">Según el fondo</string>
     <string name="set_keep_screen_on">Mantener la pantalla encendida</string>
     <string name="help_keep_screen_on">Mientras se muestra Proscenium, Android no inicia ni su salvapantallas ni la suspensión: el modo cine sigue sin fin. Consume más; algunas TV entran igualmente en reposo al cabo de unas horas.</string>
+    <string name="weather_choose">Varias ciudades tienen este nombre: elige la tuya</string>
+    <string name="act_restricted">¿El servicio no se activa?</string>
+    <string name="help_restricted">Android 13 y posteriores bloquean la accesibilidad de las apps instaladas fuera de Play Store. OK abre la información de Proscenium: menú ⋮ → Permitir ajustes restringidos, y vuelve a activar el servicio. Sin ese menú: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
 </resources>

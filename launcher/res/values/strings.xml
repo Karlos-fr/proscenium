@@ -658,4 +658,7 @@
     <string name="fx_smart">Matching the backdrop</string>
     <string name="set_keep_screen_on">Keep the screen on</string>
     <string name="help_keep_screen_on">While Proscenium is shown, Android starts neither its screensaver nor sleep: cinema mode goes on with no end. Uses more power; some TVs still go to standby after a few hours.</string>
+    <string name="weather_choose">Several towns have this name: choose yours</string>
+    <string name="act_restricted">Service won\'t turn on?</string>
+    <string name="help_restricted">Android 13 and later blocks accessibility for apps installed outside the Play Store. OK opens Proscenium\'s app info: menu ⋮ → Allow restricted settings, then turn the service on again. Without that menu: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
 </resources>

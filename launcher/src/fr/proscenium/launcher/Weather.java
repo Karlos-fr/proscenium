@@ -57,13 +57,31 @@ final class Weather {
     }
 
     /** Géocodage : renvoie {nom, « lat,lon »} de la première ville trouvée, ou null. */
-    static String[] searchCity(String query, String language) throws Exception {
-        String url = "https://geocoding-api.open-meteo.com/v1/search?count=1&format=json&name=" + Uri.encode(query)
+    /**
+     * Villes de ce nom (20 au plus, les plus peuplées d'abord) : {nom, "lat,lon", « Nom, région,
+     * pays »}. Liste vide si aucune. Plusieurs villes portent souvent le même nom : l'appelant
+     * laisse choisir la bonne.
+     */
+    static java.util.List<String[]> searchCities(String query, String language) throws Exception {
+        String url = "https://geocoding-api.open-meteo.com/v1/search?count=20&format=json&name=" + Uri.encode(query)
                 + "&language=" + language;
         JSONArray results = new JSONObject(Net.getText(url)).optJSONArray("results");
-        if (results == null || results.length() == 0) return null;
-        JSONObject r = results.getJSONObject(0);
-        return new String[]{r.getString("name"),
-                String.format(Locale.US, "%.4f,%.4f", r.getDouble("latitude"), r.getDouble("longitude"))};
+        java.util.List<String[]> out = new java.util.ArrayList<>();
+        java.util.Set<String> seen = new java.util.HashSet<>();
+        if (results == null) return out;
+        for (int i = 0; i < results.length(); i++) {
+            JSONObject r = results.getJSONObject(i);
+            String name = r.getString("name");
+            StringBuilder label = new StringBuilder(name);
+            for (String key : new String[]{"admin2", "admin1", "country"}) {
+                String part = r.optString(key, "");
+                if (!part.isEmpty() && !part.equals(name) && label.indexOf(", " + part) < 0) label.append(", ").append(part);
+            }
+            if (!seen.add(label.toString())) continue;
+            out.add(new String[]{name,
+                    String.format(Locale.US, "%.4f,%.4f", r.getDouble("latitude"), r.getDouble("longitude")),
+                    label.toString()});
+        }
+        return out;
     }
 }

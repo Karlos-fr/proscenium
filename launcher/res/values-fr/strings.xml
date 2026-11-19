@@ -658,4 +658,7 @@
     <string name="fx_smart">Selon le fond</string>
     <string name="set_keep_screen_on">Garder l\'écran allumé</string>
     <string name="help_keep_screen_on">Tant que Proscenium est affiché, Android ne lance ni son économiseur ni la mise en veille : le mode cinéma continue sans fin. Consomme davantage ; certaines TV se mettent quand même en veille au bout de quelques heures.</string>
+    <string name="weather_choose">Plusieurs villes portent ce nom : choisissez la vôtre</string>
+    <string name="act_restricted">Le service refuse de s\'activer ?</string>
+    <string name="help_restricted">Android 13 et plus bloque l\'accessibilité des applis installées hors du Play Store. OK ouvre les infos de Proscenium : menu ⋮ → Autoriser les paramètres restreints, puis réactivez le service. Sans ce menu : adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
 </resources>

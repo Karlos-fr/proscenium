@@ -606,13 +606,13 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
     public void searchCity(String query, SettingsPanel.CityCallback cb) {
         String language = Lang.locale(this).getLanguage();
         net.execute(() -> {
-            String[] found = null;
+            List<String[]> found = null;
             try {
-                found = Weather.searchCity(query, language);
+                found = Weather.searchCities(query, language);
             } catch (Exception e) {
                 Log.w(TAG, "Géocodage impossible", e);
             }
-            String[] result = found;
+            List<String[]> result = found;
             ui.post(() -> cb.found(result));
         });
     }

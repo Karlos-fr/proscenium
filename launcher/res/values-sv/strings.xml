@@ -659,4 +659,7 @@
     <string name="fx_smart">Efter bakgrunden</string>
     <string name="set_keep_screen_on">Håll skärmen på</string>
     <string name="help_keep_screen_on">Medan Proscenium visas startar Android varken sin skärmsläckare eller viloläge: bioläget fortsätter utan slut. Drar mer ström; vissa tv-apparater går ändå i vänteläge efter några timmar.</string>
+    <string name="weather_choose">Flera orter heter så: välj din</string>
+    <string name="act_restricted">Går tjänsten inte att slå på?</string>
+    <string name="help_restricted">Android 13 och senare spärrar tillgänglighet för appar som installerats utanför Play Butik. OK öppnar Proscenium-appens info: meny ⋮ → Tillåt begränsade inställningar, slå sedan på tjänsten igen. Utan den menyn: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
 </resources>

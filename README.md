@@ -203,6 +203,11 @@ tested. The newest Fire TV models running Vega OS cannot install Android apps at
 handled by Google. Turn on the service made for this (**Settings → System → Home button service**,
 then Proscenium in Android's accessibility page): the Home button then opens Proscenium.
 
+**The Home button service won't turn on.** Android 13 and later blocks accessibility for apps
+installed outside the Play Store ("restricted setting"). Open **Settings → System → Service won't
+turn on?**, which shows Proscenium's app info, choose **⋮ → Allow restricted settings**, then turn the
+service on again. If the TV has no such menu, run once from a computer with adb: `adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow`.
+
 **Why a TMDB key?** It is only needed to search for films yourself. Packs, Bing's photos and the
 weather work without it. TMDB gives keys for free to personal projects, and each user has their
 own: Proscenium does not share one key between everyone.

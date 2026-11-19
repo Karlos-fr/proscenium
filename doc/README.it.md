@@ -207,6 +207,12 @@ TV più recenti con Vega OS non possono installare app Android.
 Attiva il servizio previsto (**Impostazioni → Sistema → Servizio tasto Home**, poi Proscenium
 nella pagina di accessibilità di Android): il tasto Home aprirà Proscenium.
 
+**Il servizio del tasto Home non si attiva.** Da Android 13 l'accessibilità è bloccata per le app
+installate fuori dal Play Store ("impostazione con limitazioni"). Apri **Impostazioni → Sistema → Il
+servizio non si attiva?**, che mostra le info di Proscenium, scegli **⋮ → Consenti impostazioni con
+limitazioni**, poi riattiva il servizio. Se la TV non ha quel menu, esegui una volta da un computer
+con adb: `adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow`.
+
 **Perché una chiave TMDB?** Serve solo per cercare film da soli. Pacchetti, foto Bing e meteo
 funzionano senza. TMDB dà chiavi gratuite ai progetti personali e ogni utente ha la sua: Proscenium
 non condivide un'unica chiave tra tutti.

@@ -209,6 +209,12 @@ Fire TV-modellerna med Vega OS kan inte installera Android-appar alls.
 Slå på tjänsten som finns för detta (**Inställningar → System → Hem-knappstjänst**, sedan Proscenium på
 Androids tillgänglighetssida): då öppnar hemknappen Proscenium.
 
+**Tjänsten för hemknappen går inte att slå på.** Android 13 och senare spärrar tillgänglighet för
+appar som installerats utanför Play Butik ("begränsad inställning"). Öppna **Inställningar → System →
+Går tjänsten inte att slå på?**, som visar Proscenium-appens info, välj **⋮ → Tillåt begränsade
+inställningar** och slå på tjänsten igen. Saknar tv:n den menyn, kör en gång från en dator med adb:
+`adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow`.
+
 **Varför en TMDB-nyckel?** Den behövs bara för att söka filmer själv. Paket, Bing-foton och vädret
 fungerar utan. TMDB ger gratis nycklar till personliga projekt och varje användare har sin egen:
 Proscenium delar inte en gemensam nyckel.

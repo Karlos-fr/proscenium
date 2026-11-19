@@ -658,4 +658,7 @@
     <string name="fx_smart">Passend zum Hintergrund</string>
     <string name="set_keep_screen_on">Bildschirm eingeschaltet lassen</string>
     <string name="help_keep_screen_on">Solange Proscenium angezeigt wird, startet Android weder seinen Bildschirmschoner noch den Ruhezustand: Der Kinomodus läuft ohne Ende weiter. Verbraucht mehr Strom; manche Fernseher gehen nach einigen Stunden trotzdem in den Standby.</string>
+    <string name="weather_choose">Mehrere Orte heißen so: wählen Sie Ihren</string>
+    <string name="act_restricted">Dienst lässt sich nicht einschalten?</string>
+    <string name="help_restricted">Ab Android 13 wird die Bedienungshilfe für Apps außerhalb des Play Store gesperrt. OK öffnet die App-Infos von Proscenium: Menü ⋮ → Eingeschränkte Einstellungen zulassen, dann den Dienst erneut einschalten. Ohne dieses Menü: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
 </resources>

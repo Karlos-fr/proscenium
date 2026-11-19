@@ -260,7 +260,7 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
      * télécommande elle-même (la régler depuis le téléphone pourrait la couper).
      */
     private static final java.util.Set<String> TV_ONLY = new java.util.HashSet<>(java.util.Arrays.asList(
-            PanelLayout.TMDB_KEY_PHONE, PanelLayout.DREAM_SETTINGS, PanelLayout.WEB_REMOTE, PanelLayout.SERVICE,
+            PanelLayout.TMDB_KEY_PHONE, PanelLayout.DREAM_SETTINGS, PanelLayout.WEB_REMOTE, PanelLayout.SERVICE, PanelLayout.RESTRICTED,
             PanelLayout.ANDROID_SETTINGS, PanelLayout.UPDATE, PanelLayout.WELCOME));
 
     private static int tabOf(String id) {
@@ -312,6 +312,12 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
                 sc.add(Item.text("city", str(R.string.set_weather_city), s.weatherCity.value)
                         .help(cityStatus.isEmpty() ? str(R.string.help_weather_city) : cityStatus)
                         .badge(str(R.string.badge_internet), "internet"));
+                java.util.List<String[]> choices = cityChoices;
+                if (choices != null) {
+                    Item list = Item.list("city_pick", str(R.string.weather_choose), Item.Check.NONE).opens("home");
+                    for (int k = 0; k < choices.size(); k++) list.row(Item.row(String.valueOf(k), choices.get(k)[2]));
+                    sc.add(list);
+                }
                 break;
             case PanelLayout.WEATHER_STYLES:
                 sc.add(Item.button("styles", str(R.string.act_weather_styles)).opens("weather_styles")
@@ -522,6 +528,13 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
 
     private Result doAction(String screen, String id) {
         Settings s = act.settings;
+        if (id.startsWith("city_pick/")) {                      // une des villes du même nom
+            java.util.List<String[]> choices = cityChoices;
+            int k = Integer.parseInt(id.substring(10));
+            if (choices == null || k < 0 || k >= choices.size()) return Result.error("?", "unknown");
+            setCity(choices.get(k));
+            return Result.ok();
+        }
         switch (id) {
             case "next":
                 act.nextBackdrop();
@@ -711,21 +724,34 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
         if (query.isEmpty()) return Result.ok();
         cityStatus = str(R.string.weather_searching);
         Settings s = act.settings;
-        act.searchCity(query, result -> {
-            if (result == null) {
+        cityChoices = null;
+        act.searchCity(query, cities -> {
+            if (cities == null || cities.isEmpty()) {
                 cityStatus = str(R.string.weather_not_found);
+            } else if (cities.size() == 1) {
+                setCity(cities.get(0));
             } else {
-                cityStatus = "";
-                s.weatherCity.value = result[0];
-                s.weatherCoords.value = result[1];
-                fromPhone = true;
-                s.changed(s.weatherCoords);
-                s.changed(s.weatherCity);
-                fromPhone = false;
+                cityStatus = str(R.string.weather_choose);
+                cityChoices = cities;
             }
             if (server != null) server.changed("home");
         });
         return Result.ok();
+    }
+
+    /** Villes du même nom proposées sur la page, ou null. */
+    private java.util.List<String[]> cityChoices;
+
+    private void setCity(String[] city) {
+        Settings s = act.settings;
+        cityStatus = "";
+        cityChoices = null;
+        s.weatherCity.value = city[0];
+        s.weatherCoords.value = city[1];
+        fromPhone = true;
+        s.changed(s.weatherCoords);
+        s.changed(s.weatherCity);
+        fromPhone = false;
     }
 
     /** Clé TMDB envoyée du téléphone : vérifiée auprès de TMDB avant d'être enregistrée. */

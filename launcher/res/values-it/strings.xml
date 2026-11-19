@@ -658,4 +658,7 @@
     <string name="fx_smart">In base allo sfondo</string>
     <string name="set_keep_screen_on">Mantieni lo schermo acceso</string>
     <string name="help_keep_screen_on">Finché Proscenium è visualizzato, Android non avvia né il suo screensaver né lo standby: la modalità cinema continua senza fine. Consuma di più; alcune TV vanno comunque in standby dopo qualche ora.</string>
+    <string name="weather_choose">Più città hanno questo nome: scegli la tua</string>
+    <string name="act_restricted">Il servizio non si attiva?</string>
+    <string name="help_restricted">Da Android 13 l\'accessibilità è bloccata per le app installate fuori dal Play Store. OK apre le info di Proscenium: menu ⋮ → Consenti impostazioni con limitazioni, poi riattiva il servizio. Senza quel menu: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
 </resources>
