@@ -1,6 +1,6 @@
-17 nouveaux packs de fonds (20 en tout) et mises à jour des packs.
-Écran Premiers pas au premier lancement.
-Option pour activer ou non l'économiseur d'écran.
-Mises à jour : Proscenium cherche une nouvelle version sur GitHub une fois par jour et l'installe depuis Réglages → Système → Mise à jour.
-Nouvelle clé de signature : désinstallez la 1.0 avant d'installer la 1.1 (une seule fois).
-Licence MIT.
+Météo vivante sur les fonds : rayons de soleil, pluie sur la vitre poussée par le vent, éclairs, neige, brouillard ; réelle, au choix, aléatoire ou selon le film.
+Télécommande web : tous les réglages sur le téléphone (proscenium.local).
+Fiche du film en mode cinéma : résumé et note TMDB.
+17 nouveaux packs de fonds (20 en tout).
+Mises à jour intégrées, premiers pas, écran toujours allumé.
+Nouvelle clé : désinstallez la 1.0 avant la 1.1 (une fois).

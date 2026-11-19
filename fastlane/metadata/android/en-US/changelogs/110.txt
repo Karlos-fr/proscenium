@@ -1,6 +1,6 @@
-17 new backdrop packs (20 in all) and pack updates.
-Getting started screen on first launch.
-Screensaver on/off option.
-Update check: Proscenium looks for a new version on GitHub once a day and installs it from Settings → System → Update.
-New signing key: uninstall version 1.0 before installing 1.1 (once only).
-MIT licence.
+Living weather on the backdrops: sun rays, rain on the glass pushed by the wind, lightning, snow, fog; real, custom, random or matched to each film.
+Web remote: every setting from your phone (proscenium.local).
+Cinema mode film card: synopsis and TMDB rating.
+17 new backdrop packs (20 in all).
+In-app updates, getting started screen, keep screen on.
+New signing key: uninstall 1.0 before installing 1.1 (once only).
