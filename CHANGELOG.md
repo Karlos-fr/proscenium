@@ -23,6 +23,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   http://proscenium.local:8770 (name on the network to choose; .local name answered by Proscenium
   itself) or the TV's IP for the QR code, optional password asked by the browser, and "Add to home
   screen" on the phone; turning the fixed address off gives a secret address, new at each start.
+  When the password changes, the page asks for it again; when the TV is busy or paused after wrong
+  passwords, the page says so instead of "connection lost".
   Built on a core shared with Lactea (fr.tvremote).
 - Updates: Proscenium checks GitHub for a new version once a day and shows a short message when one
   comes out. Settings → System → Update downloads it and hands it to Android's installer, which asks
