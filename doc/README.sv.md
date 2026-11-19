@@ -141,6 +141,10 @@ På Google TV visar Android bara Googles egna skärmsläckare. Välj Proscenium 
 dator, med [adb](https://developer.android.com/tools/adb) anslutet till tv:n:
 `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Inställningar → Bioläge → Skärmsläckare** slår på eller av den.
 
+**Inställningar → Bioläge → Håll skärmen på** hindrar Android från att starta sin skärmsläckare eller
+gå i viloläge medan Proscenium visas: bioläget fortsätter då utan slut (det drar mer ström, och vissa
+tv-apparater går ändå i vänteläge efter några timmar).
+
 ## Dina bakgrunder: spellistor och paket
 
 Bilderna på startskärmen kommer antingen från **Bings dagliga foton** eller från **dina spellistor**

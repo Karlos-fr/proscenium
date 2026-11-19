@@ -218,7 +218,7 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
             case "cinema": {
                 Screen sc = tab(id, R.string.tab_cinema, 2);
                 section(sc, R.string.sec_activation);
-                add(sc, s.cinemaDelay);
+                add(sc, s.cinemaDelay, s.keepScreenOn);
                 section(sc, R.string.sec_bars);
                 add(sc, s.cinemaBars, s.barOpacity, s.cinemaKeepZoom);
                 section(sc, R.string.sec_title_card);

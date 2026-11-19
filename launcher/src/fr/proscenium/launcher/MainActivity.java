@@ -188,6 +188,13 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         applyBand();
         applyHeaderBlocks();
         applyCinemaLayout();
+        applyKeepScreenOn();
+    }
+
+    /** Réglage « Garder l'écran allumé » : ni économiseur ni veille d'Android tant que Proscenium est affiché. */
+    void applyKeepScreenOn() {
+        if (settings.keepScreenOn.value) getWindow().addFlags(android.view.WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+        else getWindow().clearFlags(android.view.WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
     }
 
     @Override
@@ -395,6 +402,8 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
             applyAccent();
         } else if (item == s.clockSize || item == s.dateSize) {
             applyClockSizes();
+        } else if (item == s.keepScreenOn) {
+            applyKeepScreenOn();
         } else if (item == s.uiSounds || item == s.uiVolume) {
             Sounds.configure(s.uiSounds.value, s.uiVolume.f());
         } else if (item == s.weatherCity || item == s.weatherCoords || item == s.tempUnit) {

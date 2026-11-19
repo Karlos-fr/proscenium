@@ -57,6 +57,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   the wind (real, none, light, strong, gale); drops on the screen show the scene through the fog
   and veils outside. It can also be turned off (Android 13 and later for
   the drops).
+- Keep the screen on (Settings → Cinema mode, off by default): while Proscenium is shown, Android
+  starts neither its screensaver nor sleep, so cinema mode goes on with no end, as in Lactea.
 - Two more weather modes: Random draws a new mix of layers now and then (at most every two minutes,
   when the backdrop changes), and Matching the backdrop picks one for each backdrop from the film's
   genres, title and synopsis (in the six languages) and the light and colour of the picture, with a

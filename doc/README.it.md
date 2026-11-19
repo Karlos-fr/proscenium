@@ -141,6 +141,10 @@ Su Google TV, Android elenca solo gli screensaver di Google. Scegli Proscenium u
 computer, con [adb](https://developer.android.com/tools/adb) collegato al televisore:
 `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Impostazioni → Modalità cinema → Salvaschermo** lo attiva o lo disattiva.
 
+**Impostazioni → Modalità cinema → Mantieni lo schermo acceso** impedisce ad Android di avviare il
+suo screensaver o di andare in standby finché Proscenium è visualizzato: la modalità cinema continua
+allora senza fine (consuma di più, e alcune TV vanno comunque in standby dopo qualche ora).
+
 ## I tuoi sfondi: playlist e pacchetti
 
 Le immagini della Home provengono dalle **foto Bing del giorno** oppure dalle **tue playlist** di film.

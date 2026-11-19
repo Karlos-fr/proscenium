@@ -656,4 +656,6 @@
     <string name="web_remote_hint_fixed">Scannen Sie diesen Code mit dem Handy im selben WLAN wie der Fernseher. Die Adresse bleibt gleich: als Lesezeichen speichern oder zum Startbildschirm hinzufügen.</string>
     <string name="fx_random">Zufällig</string>
     <string name="fx_smart">Passend zum Hintergrund</string>
+    <string name="set_keep_screen_on">Bildschirm eingeschaltet lassen</string>
+    <string name="help_keep_screen_on">Solange Proscenium angezeigt wird, startet Android weder seinen Bildschirmschoner noch den Ruhezustand: Der Kinomodus läuft ohne Ende weiter. Verbraucht mehr Strom; manche Fernseher gehen nach einigen Stunden trotzdem in den Standby.</string>
 </resources>

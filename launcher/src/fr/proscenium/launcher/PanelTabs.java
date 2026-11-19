@@ -119,7 +119,7 @@ abstract class PanelTabs extends PanelCore {
 
     void buildCinema(List<Settings.Item> r) {
         section(R.string.sec_activation);
-        add(r, choice(s.cinemaDelay));
+        add(r, choice(s.cinemaDelay), flag(s.keepScreenOn));
         section(R.string.sec_bars);
         add(r, choice(s.cinemaBars), num(s.barOpacity), flag(s.cinemaKeepZoom));
         section(R.string.sec_title_card);

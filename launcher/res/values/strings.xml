@@ -656,4 +656,6 @@
     <string name="web_remote_hint_fixed">Scan this code with your phone, on the same Wi-Fi as the TV. The address stays the same: bookmark it, or add it to the home screen.</string>
     <string name="fx_random">Random</string>
     <string name="fx_smart">Matching the backdrop</string>
+    <string name="set_keep_screen_on">Keep the screen on</string>
+    <string name="help_keep_screen_on">While Proscenium is shown, Android starts neither its screensaver nor sleep: cinema mode goes on with no end. Uses more power; some TVs still go to standby after a few hours.</string>
 </resources>

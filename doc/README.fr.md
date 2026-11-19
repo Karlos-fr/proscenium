@@ -143,6 +143,10 @@ Sur Google TV, Android ne liste que les économiseurs de Google. Choisissez Pros
 depuis un ordinateur, avec [adb](https://developer.android.com/tools/adb) connecté à la TV :
 `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Réglages → Mode cinéma → Économiseur d'écran** l'active ou le désactive.
 
+**Réglages → Mode cinéma → Garder l'écran allumé** empêche Android de lancer son économiseur ou de
+se mettre en veille tant que Proscenium est affiché : le mode cinéma continue alors sans fin (cela
+consomme davantage, et certaines TV se mettent quand même en veille au bout de quelques heures).
+
 ## Vos fonds : playlists et packs
 
 Les images de l'accueil viennent soit des **photos Bing du jour**, soit de **vos playlists** de films.

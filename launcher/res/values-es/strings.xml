@@ -656,4 +656,6 @@
     <string name="web_remote_hint_fixed">Escanea este código con el móvil, en la misma wifi que la TV. La dirección no cambia: guárdala en favoritos o añádela a la pantalla de inicio.</string>
     <string name="fx_random">Aleatorio</string>
     <string name="fx_smart">Según el fondo</string>
+    <string name="set_keep_screen_on">Mantener la pantalla encendida</string>
+    <string name="help_keep_screen_on">Mientras se muestra Proscenium, Android no inicia ni su salvapantallas ni la suspensión: el modo cine sigue sin fin. Consume más; algunas TV entran igualmente en reposo al cabo de unas horas.</string>
 </resources>

@@ -656,4 +656,6 @@
     <string name="web_remote_hint_fixed">Inquadra questo codice con il telefono, sullo stesso Wi-Fi della TV. L\'indirizzo resta lo stesso: salvalo nei preferiti, o aggiungilo alla schermata Home.</string>
     <string name="fx_random">Casuale</string>
     <string name="fx_smart">In base allo sfondo</string>
+    <string name="set_keep_screen_on">Mantieni lo schermo acceso</string>
+    <string name="help_keep_screen_on">Finché Proscenium è visualizzato, Android non avvia né il suo screensaver né lo standby: la modalità cinema continua senza fine. Consuma di più; alcune TV vanno comunque in standby dopo qualche ora.</string>
 </resources>

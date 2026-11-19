@@ -140,6 +140,10 @@ En Google TV, Android solo muestra los salvapantallas de Google. Elige Prosceniu
 un ordenador, con [adb](https://developer.android.com/tools/adb) conectado al televisor:
 `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Ajustes → Modo cine → Salvapantallas** lo activa o lo desactiva.
 
+**Ajustes → Modo cine → Mantener la pantalla encendida** impide que Android inicie su salvapantallas
+o se suspenda mientras se muestra Proscenium: el modo cine sigue entonces sin fin (consume más, y
+algunas TV entran igualmente en reposo al cabo de unas horas).
+
 ## Tus fondos: listas y packs
 
 Las imágenes de la pantalla de inicio vienen de las **fotos de Bing del día** o de **tus listas** de

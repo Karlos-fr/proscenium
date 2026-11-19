@@ -656,4 +656,6 @@
     <string name="web_remote_hint_fixed">Scannez ce code avec votre téléphone, sur le même Wi-Fi que la TV. L\'adresse reste la même : gardez-la en favori, ou ajoutez-la à l\'écran d\'accueil.</string>
     <string name="fx_random">Aléatoire</string>
     <string name="fx_smart">Selon le fond</string>
+    <string name="set_keep_screen_on">Garder l\'écran allumé</string>
+    <string name="help_keep_screen_on">Tant que Proscenium est affiché, Android ne lance ni son économiseur ni la mise en veille : le mode cinéma continue sans fin. Consomme davantage ; certaines TV se mettent quand même en veille au bout de quelques heures.</string>
 </resources>

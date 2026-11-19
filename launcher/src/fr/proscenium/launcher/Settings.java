@@ -187,6 +187,8 @@ final class Settings {
     final Num barOpacity = new Num("bar_opacity", R.string.set_bar_opacity, R.string.help_bar_opacity,
             100, 20, 100, 10, Format.PERCENT);
     /** Le fond garde sa taille en mode cinéma ; désactivé, il recule à sa taille réelle. */
+    /** L'écran reste allumé tant que Proscenium est affiché (FLAG_KEEP_SCREEN_ON), comme Lactea. */
+    final Flag keepScreenOn = new Flag("keep_screen_on", R.string.set_keep_screen_on, R.string.help_keep_screen_on, false);
     final Flag cinemaKeepZoom = new Flag("cinema_keep_zoom", R.string.set_cinema_keep_zoom,
             R.string.help_cinema_keep_zoom, true);
     static final int TITLE_LOGO = 0, TITLE_TEXT = 1, TITLE_NONE = 2;
@@ -352,7 +354,7 @@ final class Settings {
     Settings() {
         Item[] items = {bgSource, bgDelay, bgOrder, bgTransition, bgTransitionMs, kenBurns, kbAmplitude, kbCycle,
                 vignette, vignetteIntensity, themeAuto, themeColor, entrance, parallax,
-                cinemaDelay, cinemaBars, barOpacity, cinemaKeepZoom, titleMode, titleSide, showYear, titleInfo, titleRating, titleSummary, titleTextSize, clockSeconds, hideHeader,
+                cinemaDelay, keepScreenOn, cinemaBars, barOpacity, cinemaKeepZoom, titleMode, titleSide, showYear, titleInfo, titleRating, titleSummary, titleTextSize, clockSeconds, hideHeader,
                 dockApps, inputShortcuts, bandMode, slimBand, visibleApps, tileSize, tileSpacing, centerZoom, tilt, shine, neighborDim, glowMode,
                 glowPower, glowAnim, glowAnimAmount, glowAnimSpeed, scrollSpeed,
                 scrollParallax, loop, glassEngine, rimWidth,

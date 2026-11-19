@@ -145,6 +145,11 @@ einmalig von einem Computer aus, mit [adb](https://developer.android.com/tools/a
 Fernseher verbunden: `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Einstellungen → Kinomodus → Bildschirmschoner** schaltet ihn ein
 oder aus.
 
+**Einstellungen → Kinomodus → Bildschirm eingeschaltet lassen** verhindert, dass Android seinen
+Bildschirmschoner startet oder in den Ruhezustand geht, solange Proscenium angezeigt wird: Der
+Kinomodus läuft dann ohne Ende weiter (das verbraucht mehr Strom, und manche Fernseher gehen nach
+einigen Stunden trotzdem in den Standby).
+
 ## Ihre Hintergründe: Playlists und Pakete
 
 Die Bilder des Startbildschirms stammen entweder von den **Bing-Fotos des Tages** oder aus **Ihren

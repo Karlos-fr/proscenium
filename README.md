@@ -137,6 +137,10 @@ On Google TV, Android only lists Google's own screensavers. Choose Proscenium on
 computer, with [adb](https://developer.android.com/tools/adb) connected to the TV:
 `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Settings → Cinema mode → Screensaver** turns it on or off.
 
+**Settings → Cinema mode → Keep the screen on** stops Android from starting its screensaver or going
+to sleep while Proscenium is shown: cinema mode then goes on with no end (it uses more power, and
+some TVs still go to standby after a few hours).
+
 ## Your backdrops: playlists and packs
 
 The home screen pictures come either from **Bing's photos of the day** or from **your playlists**

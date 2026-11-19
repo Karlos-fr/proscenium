@@ -657,4 +657,6 @@
     <string name="web_remote_hint_fixed">Skanna koden med mobilen, i samma wifi som tv:n. Adressen ändras inte: spara den som bokmärke eller lägg till den på hemskärmen.</string>
     <string name="fx_random">Slumpmässig</string>
     <string name="fx_smart">Efter bakgrunden</string>
+    <string name="set_keep_screen_on">Håll skärmen på</string>
+    <string name="help_keep_screen_on">Medan Proscenium visas startar Android varken sin skärmsläckare eller viloläge: bioläget fortsätter utan slut. Drar mer ström; vissa tv-apparater går ändå i vänteläge efter några timmar.</string>
 </resources>
