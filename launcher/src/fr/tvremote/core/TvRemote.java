@@ -1,4 +1,4 @@
-// TV Remote core 0.2.1 - copied by tvremote\sync.ps1, do not edit here.
+// TV Remote core 0.2.1 (v0.2.1 44d37f1) - copied by tvremote\sync.ps1, do not edit here.
 package fr.tvremote.core;
 
 import android.content.Context;
