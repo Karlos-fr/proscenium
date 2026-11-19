@@ -42,7 +42,8 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
   on a window (out of focus at first, then sharp, squashed by the impact), slide down in fits and
   starts, pushed sideways by the wind, with sudden gusts that change their direction, and leave a wet
   trail; storms add lightning that lights the picture, sun rays stream through the bright parts of
-  the picture with a warm halo and dust sparkling in the light, the sun drifting slowly and passing
+  the picture with a warm halo and dust sparkling in the light (on a dark picture, soft beams from
+  the sun take over so the rays still show), the sun drifting slowly and passing
   clouds dimming the rays now and then (on clear days), snow falls and its
   flakes melt on the screen, fog veils the picture with banks that drift, swirl and thicken or clear.
   Sun, rain, lightning, snow and fog combine: the real weather turns on the layers it needs (a storm brings rain and lightning,

@@ -233,6 +233,12 @@ final class WeatherGpu {
             "  shafts *= mix(1.0, smoothstep(0.25, 0.7, cloud), clamp(extra.w, 0.0, 1.0));",
             "  float3 warm = mix(float3(1.0, 0.97, 0.92), float3(1.0, 0.70, 0.36), ray.w);",
             "  float3 rays = acc * shafts * warm * ray.x * 2.4;",
+            // Rayons de base : des faisceaux qui partent du soleil quel que soit le fond. Ils prennent
+            // le relais là où l'image n'a pas de zones claires pour en faire naître (fond sombre)
+            "  float beams = smoothstep(0.2, 0.9, vnoise(float2(ang * 10.0 + t * 0.12, t * 0.17 + 7.3)));",
+            "  beams *= mix(1.0, smoothstep(0.25, 0.7, cloud), clamp(extra.w, 0.0, 1.0));",
+            "  float fill = 1.0 - smoothstep(0.015, 0.12, dot(acc, float3(0.299, 0.587, 0.114)));",
+            "  rays += warm * beams * exp(-dist / (size.y * 0.85)) * fill * ray.x * 0.2;",
             // Halo autour du soleil
             "  float sky = mix(1.0, 0.35 + 0.65 * smoothstep(0.25, 0.7, vnoise(float2(t * 0.021, 4.2))), clamp(extra.w, 0.0, 1.0));",
             "  float3 col = rays + warm * exp(-dist / (size.y * 0.33)) * extra.x * 0.45 * sky;",
