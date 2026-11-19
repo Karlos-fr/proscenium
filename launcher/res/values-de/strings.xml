@@ -638,4 +638,8 @@
     <string name="help_wx_sun_dust">Staubkörnchen, die in den Strahlen schweben und glitzern.</string>
     <string name="wx_sun_clouds">Vorbeiziehende Wolken</string>
     <string name="help_wx_sun_clouds">Ab und zu dämpfen Wolken das Licht, Strahl für Strahl, dann kehrt es zurück (0: immer sonnig).</string>
+    <string name="sec_web_remote">WEB-FERNBEDIENUNG</string>
+    <string name="set_web_remote">Web-Fernbedienung</string>
+    <string name="help_web_remote">Alle Einstellungen auf dem Handy: eine Seite, die der Fernseher im Heimnetz bereitstellt, geöffnet per QR-Code.</string>
+    <string name="web_remote_hint">Scannen Sie diesen Code mit dem Handy im selben WLAN wie der Fernseher. Die Adresse ändert sich bei jedem Start von Proscenium.</string>
 </resources>

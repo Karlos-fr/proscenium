@@ -499,13 +499,22 @@ final class SettingsPanel extends PanelTabs {
             focusFirstRow();
             return;
         }
-        QrCode qr = QrCode.encode(server.url);
+        qrImage(server.url);
+        status.setText(R.string.key_qr_hint);
+        status.setGravity(Gravity.CENTER_HORIZONTAL);
+        status.setPadding(dp(14), dp(10), dp(14), dp(4));
+        content.addView(status, new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+        note(ctx.getString(R.string.key_qr_note));
+    }
+
+    /** QR code (modules nets, faciles à lire pour l'appareil photo) suivi de l'adresse en clair. */
+    void qrImage(String url) {
+        QrCode qr = QrCode.encode(url);
         int quiet = 3, n = qr.size + quiet * 2;
         Bitmap small = Bitmap.createBitmap(n, n, Bitmap.Config.ARGB_8888);
         for (int y = 0; y < n; y++)
             for (int x = 0; x < n; x++)
                 small.setPixel(x, y, qr.get(x - quiet, y - quiet) ? Color.BLACK : Color.WHITE);
-        // Agrandi sans lissage : des modules nets, faciles à lire pour l'appareil photo
         Bitmap big = Bitmap.createScaledBitmap(small, n * 8, n * 8, false);
         small.recycle();
         ImageView iv = new ImageView(ctx);
@@ -515,14 +524,36 @@ final class SettingsPanel extends PanelTabs {
         lp.setMargins(0, dp(6), 0, dp(6));
         content.addView(iv, lp);
         TextView link = text(13, 0xB3FFFFFF, false);
-        link.setText(server.url);
+        link.setText(url);
         link.setGravity(Gravity.CENTER_HORIZONTAL);
         content.addView(link, new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
-        status.setText(R.string.key_qr_hint);
-        status.setGravity(Gravity.CENTER_HORIZONTAL);
-        status.setPadding(dp(14), dp(10), dp(14), dp(4));
-        content.addView(status, new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
-        note(ctx.getString(R.string.key_qr_note));
+    }
+
+    // ---------------------------------------------------------------- Télécommande web
+
+    /** Marche / arrêt de la télécommande web ; en marche, le QR code de sa page. */
+    @Override
+    void showWebRemote() {
+        clearContent();
+        pageTitle(ctx.getString(R.string.set_web_remote), 0);
+        Row toggle = row(s.webRemote.label, s.webRemote.help, 0, () -> onOff(s.webRemote.value), dir -> {
+            s.webRemote.value = !s.webRemote.value;
+            s.changed(s.webRemote);
+            rebuildPage("web_remote");
+        }, null, null);
+        toggle.setTag("web_remote");
+        content.addView(toggle);
+        if (s.webRemote.value) {
+            ProsceniumRemote remote = ProsceniumRemote.get();
+            String url = remote == null ? null : remote.url();
+            if (url == null) {
+                note(ctx.getString(R.string.key_qr_no_network));
+            } else {
+                qrImage(url);
+                note(ctx.getString(R.string.web_remote_hint));
+            }
+        }
+        focusFirstRow();
     }
 
     // ---------------------------------------------------------------- Onglet Films (TMDB)

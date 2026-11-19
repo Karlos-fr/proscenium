@@ -184,6 +184,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         track.setNextFocusUpId(header.getId());
 
         setContentView(root);
+        ProsceniumRemote.attach(this);
         applyBand();
         applyHeaderBlocks();
         applyCinemaLayout();
@@ -274,6 +275,7 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
     @Override
     protected void onDestroy() {
         settings.removeListener(this);
+        ProsceniumRemote.detach(this);
         super.onDestroy();
     }
 

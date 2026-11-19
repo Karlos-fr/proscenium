@@ -638,4 +638,8 @@
     <string name="help_wx_sun_dust">Specks of dust that float and sparkle in the rays.</string>
     <string name="wx_sun_clouds">Passing clouds</string>
     <string name="help_wx_sun_clouds">Now and then clouds dim the light, ray after ray, then it comes back (0: always sunny).</string>
+    <string name="sec_web_remote">WEB REMOTE</string>
+    <string name="set_web_remote">Web remote</string>
+    <string name="help_web_remote">All the settings on your phone: a page served by the TV on your home network, opened with a QR code.</string>
+    <string name="web_remote_hint">Scan this code with your phone, on the same Wi-Fi as the TV. The address changes each time Proscenium starts.</string>
 </resources>

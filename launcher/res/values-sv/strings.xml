@@ -639,4 +639,8 @@
     <string name="help_wx_sun_dust">Dammkorn som svävar och glittrar i strålarna.</string>
     <string name="wx_sun_clouds">Förbidragande moln</string>
     <string name="help_wx_sun_clouds">Då och då dämpar moln ljuset, stråle för stråle, sedan kommer det tillbaka (0: alltid soligt).</string>
+    <string name="sec_web_remote">WEBBFJÄRRKONTROLL</string>
+    <string name="set_web_remote">Webbfjärrkontroll</string>
+    <string name="help_web_remote">Alla inställningar i mobilen: en sida som tv:n visar i hemnätverket, öppnas med en QR-kod.</string>
+    <string name="web_remote_hint">Skanna koden med mobilen, i samma wifi som tv:n. Adressen ändras varje gång Proscenium startar.</string>
 </resources>

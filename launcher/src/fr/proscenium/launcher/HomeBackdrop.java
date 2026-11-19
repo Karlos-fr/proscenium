@@ -368,6 +368,8 @@ abstract class HomeBackdrop extends HomeBase {
     void showFrame(Wallpaper.Frame f) {
         Wallpaper.Frame old = frame;
         frame = f;
+        ProsceniumRemote remote = ProsceniumRemote.get();
+        if (remote != null) remote.frameChanged();
         long ms = settings.bgTransitionMs.value;
         if (old == null) {
             wallImg.setImageBitmap(f.sharp);

@@ -12,6 +12,13 @@ In development: not released yet. The latest download is still [Proscenium 1.0](
 
 ### Added
 
+- Web remote (Settings → System → Web remote, off by default): the TV serves a page on the home
+  network, opened on the phone with a QR code. It has the settings panel's tabs and settings (all but
+  the glass), the playlists to show, the packs to install or remove, the apps of the bar in their
+  order, the weather town and the weather pages (previewed live on the TV while one is open), the
+  TMDB key (checked before it is saved, never sent back to the phone), and a bar with the film on
+  screen and "next backdrop". The page refreshes by itself when a setting changes on the TV. The
+  address changes each time Proscenium starts. Built on a core shared with Lactea (fr.tvremote).
 - Updates: Proscenium checks GitHub for a new version once a day and shows a short message when one
   comes out. Settings → System → Update downloads it and hands it to Android's installer, which asks
   for confirmation. Settings are kept. The daily check can be turned off.

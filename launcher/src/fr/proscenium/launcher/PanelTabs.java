@@ -139,6 +139,9 @@ abstract class PanelTabs extends PanelCore {
     /** Catalogue des packs (SettingsPanel). */
     abstract void showPacks();
 
+    /** Télécommande web : marche / arrêt et QR code vers la page (SettingsPanel). */
+    abstract void showWebRemote();
+
     boolean onWelcome() {
         return open && !pages.isEmpty() && pages.peek() == welcomePage;
     }
@@ -313,6 +316,9 @@ abstract class PanelTabs extends PanelCore {
         content.addView(choice(s.language));
         section(R.string.sec_performance);
         content.addView(flag(s.economy));
+        section(R.string.sec_web_remote);
+        content.addView(action(R.string.set_web_remote, R.string.help_web_remote,
+                () -> onOff(s.webRemote.value) + "  ›", () -> openPage(this::showWebRemote)));
         section(R.string.sec_service);
         content.addView(action(R.string.set_service, R.string.help_service,
                 () -> ctx.getString(host.homeServiceActive() ? R.string.service_on : R.string.service_off),

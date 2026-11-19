@@ -1,0 +1,230 @@
+/* Proscenium — the settings panel of the TV, laid out for a phone (no glass). */
+:root {
+  --tr-accent: #7FA7FF;
+  --panel: rgba(14, 19, 28, 0.65);      /* 0xA60E131C */
+  --line: rgba(255, 255, 255, 0.18);    /* 0x2EFFFFFF */
+  --focus: rgba(255, 255, 255, 0.20);   /* 0x33FFFFFF */
+  --text: #fff;
+  --value: rgba(255, 255, 255, 0.90);   /* 0xE6FFFFFF */
+  --dim: rgba(255, 255, 255, 0.70);     /* 0xB3FFFFFF */
+  --section: rgba(255, 255, 255, 0.65); /* 0xA6FFFFFF */
+  --hint: rgba(255, 255, 255, 0.60);    /* 0x99FFFFFF */
+  --track: rgba(255, 255, 255, 0.15);   /* 0x26FFFFFF */
+  --badge: #FFD25A;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; min-height: 100%; }
+body {
+  background: #101826;
+  color: var(--text);
+  font: 16px/1.4 Roboto, "Segoe UI", system-ui, sans-serif;
+  padding: 0 0 env(safe-area-inset-bottom);
+}
+button, input, select { font: inherit; color: inherit; }
+
+/* Film behind the panel, blurred like the TV's menu backdrop */
+.backdrop {
+  position: fixed; inset: -40px; z-index: -1;
+  background: #101826 center / cover no-repeat;
+  filter: blur(24px) brightness(0.55) saturate(1.2);
+  transition: background-image .6s;
+}
+
+/* Now on the TV */
+.now {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 16px;
+  background: rgba(14, 19, 28, 0.82);
+  backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--line);
+}
+.now-img { width: 64px; height: 36px; object-fit: cover; border-radius: 6px; background: rgba(255,255,255,.12); }
+.now-text { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.now-label { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--hint); }
+.now-title { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 500; }
+.now-next {
+  border: 0; border-radius: 12px; width: 44px; height: 44px;
+  background: var(--focus); color: #fff; display: grid; place-items: center;
+}
+.now-next:active { background: color-mix(in srgb, var(--tr-accent) 50%, transparent); }
+
+/* Panel */
+.panel {
+  margin: 12px 12px 24px;
+  border-radius: 28px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  overflow: hidden;
+  min-height: 60vh;
+}
+
+/* Tabs: icon and name, scrolling sideways */
+.tr-tabs {
+  display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none;
+  padding: 12px 12px 10px;
+  border-bottom: 1px solid var(--line);
+}
+.tr-tabs::-webkit-scrollbar { display: none; }
+.tr-tab {
+  flex: none; display: flex; align-items: center; gap: 8px;
+  border: 0; border-radius: 12px; padding: 8px 12px;
+  background: transparent; color: var(--dim);
+}
+.tr-tab-icon { width: 20px; height: 20px; opacity: .7; }
+.tr-tab.tr-active { background: var(--focus); color: #fff; font-weight: 500; }
+.tr-tab.tr-active .tr-tab-icon { opacity: 1; }
+
+/* Screen */
+.tr-screen { padding: 14px 12px 20px; }
+.tr-head { padding: 0 6px 10px; }
+.tr-back {
+  border: 0; background: none; color: var(--dim); padding: 4px 0 8px; font-size: 14px;
+}
+.tr-back::before { content: "‹ "; }
+.tr-title { margin: 0; font-weight: 300; font-size: 26px; font-family: "Roboto Light", Roboto, system-ui, sans-serif; }
+.tr-subtitle { margin: 4px 0 0; font-size: 13px; color: var(--hint); }
+.tr-search {
+  display: block; width: calc(100% - 12px); margin: 4px 6px 12px; padding: 10px 14px;
+  border-radius: 12px; border: 1px solid var(--line); background: rgba(255,255,255,.06);
+}
+
+/* Section headers */
+.tr-header {
+  margin: 18px 14px 4px; font-size: 12px; font-weight: 400;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--section);
+}
+.tr-header:empty { margin-top: 6px; }
+
+/* Rows */
+.tr-item:not(.tr-header) {
+  display: block; width: 100%; text-align: left;
+  padding: 10px 14px; border-radius: 12px; border: 0; background: transparent;
+}
+.tr-item:not(.tr-header):active, .tr-button:hover { background: var(--focus); }
+.tr-main { display: flex; align-items: center; gap: 10px; min-height: 28px; }
+.tr-label { flex: 1; font-size: 16px; color: var(--text); }
+.tr-value { font-size: 15px; font-weight: 500; color: var(--value); text-align: right; }
+.tr-help { margin: 4px 0 0; font-size: 13px; line-height: 1.35; color: var(--hint); }
+.tr-disabled { opacity: .45; pointer-events: none; }
+.tr-badge {
+  font-size: 11px; font-weight: 700; color: var(--badge); letter-spacing: .04em;
+  border: 1px solid rgba(255, 210, 90, .45); border-radius: 6px; padding: 1px 6px;
+}
+.tr-badge-internet { color: #9fd0ff; border-color: rgba(159, 208, 255, .45); }
+
+/* Toggle */
+.tr-switch {
+  appearance: none; -webkit-appearance: none; flex: none;
+  width: 46px; height: 26px; border-radius: 13px; margin: 0;
+  background: var(--track); position: relative; transition: background .2s;
+}
+.tr-switch::after {
+  content: ""; position: absolute; top: 3px; left: 3px; width: 20px; height: 20px;
+  border-radius: 50%; background: #fff; transition: transform .2s;
+}
+.tr-switch:checked { background: var(--tr-accent); }
+.tr-switch:checked::after { transform: translateX(20px); }
+
+/* Choice */
+.tr-select {
+  max-width: 55%; padding: 6px 28px 6px 10px; border-radius: 10px;
+  border: 1px solid var(--line); background: rgba(255,255,255,.06);
+  font-weight: 500; color: var(--value); text-align: right;
+}
+.tr-select option { color: #000; }
+
+/* Slider: thin track, filled with the accent like the TV's row bar */
+.tr-range {
+  -webkit-appearance: none; appearance: none; width: 100%; height: 28px; margin: 4px 0 0;
+  background: transparent;
+}
+.tr-range::-webkit-slider-runnable-track {
+  height: 3px; border-radius: 2px;
+  background: linear-gradient(to right, color-mix(in srgb, var(--tr-accent) 70%, #fff) var(--tr-fill, 0%), var(--track) var(--tr-fill, 0%));
+}
+.tr-range::-webkit-slider-thumb {
+  -webkit-appearance: none; width: 22px; height: 22px; margin-top: -9.5px; border-radius: 50%;
+  background: #fff; box-shadow: 0 1px 6px rgba(0,0,0,.4);
+}
+.tr-range::-moz-range-track { height: 3px; background: var(--track); border-radius: 2px; }
+.tr-range::-moz-range-progress { height: 3px; background: var(--tr-accent); border-radius: 2px; }
+.tr-range::-moz-range-thumb { width: 22px; height: 22px; border: 0; border-radius: 50%; background: #fff; }
+
+/* Text */
+.tr-field { display: flex; gap: 8px; margin-top: 8px; }
+.tr-input {
+  flex: 1; min-width: 0; padding: 10px 12px; border-radius: 10px;
+  border: 1px solid var(--line); background: rgba(255,255,255,.06);
+}
+.tr-button.tr-send, .tr-dialog .tr-button {
+  border: 0; border-radius: 10px; padding: 10px 16px; background: var(--tr-accent); color: #0e131c; font-weight: 600;
+}
+.tr-isset { letter-spacing: .1em; }
+
+/* Buttons that open a page */
+.tr-opens .tr-main::after { content: "›"; font-size: 20px; color: var(--dim); margin-left: 4px; }
+
+/* Grids: pictures with a tick in the corner, like the TV's tiles */
+.tr-grid > .tr-label { display: block; margin: 0 0 8px; font-size: 12px; font-weight: 400; letter-spacing: .14em; text-transform: uppercase; color: var(--section); }
+.tr-grid > .tr-label:empty { display: none; }
+.tr-tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; }
+.tr-tile {
+  position: relative; display: flex; flex-direction: column; gap: 4px; padding: 0; border: 0;
+  background: none; text-align: left;
+}
+.tr-tile img {
+  width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px;
+  background: rgba(255,255,255,.12); outline: 2px solid transparent; outline-offset: 2px; transition: outline-color .2s;
+}
+.tr-tile::after {
+  content: ""; position: absolute; top: 6px; right: 6px; width: 22px; height: 22px; border-radius: 50%;
+  border: 2px solid rgba(255,255,255,.85); background: rgba(0,0,0,.35);
+}
+.tr-tile.tr-checked img { outline-color: var(--tr-accent); }
+.tr-tile.tr-checked::after {
+  background: var(--tr-accent) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5' fill='none' stroke='%230e131c' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center / 16px no-repeat;
+  border-color: var(--tr-accent);
+}
+.tr-tile-label { font-size: 13px; color: var(--value); }
+.tr-tile-sub { font-size: 11px; color: var(--hint); }
+
+/* Lists */
+.tr-list > .tr-label { display: block; margin: 0 0 6px; font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: var(--section); }
+.tr-list > .tr-label:empty { display: none; }
+.tr-rows { display: flex; flex-direction: column; }
+.tr-row { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,.06); }
+.tr-row-text { flex: 1; display: flex; flex-direction: column; min-width: 0; cursor: pointer; }
+.tr-row-label { color: var(--dim); }
+.tr-row-sub { font-size: 12px; color: var(--hint); }
+.tr-row.tr-checked .tr-row-label { color: #fff; font-weight: 500; }
+.tr-row.tr-checked .tr-row-label::after { content: "  ✓"; color: var(--tr-accent); }
+.tr-row-moves { display: flex; gap: 4px; }
+.tr-move { border: 0; border-radius: 8px; width: 34px; height: 30px; background: var(--focus); }
+.tr-move:disabled { opacity: .25; }
+
+/* Paging */
+.tr-more { display: block; margin: 12px auto 0; border: 0; border-radius: 10px; padding: 8px 18px; background: var(--focus); }
+
+/* Messages */
+.tr-toast {
+  position: fixed; left: 16px; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom)); z-index: 10;
+  padding: 12px 16px; border-radius: 14px; background: rgba(40, 14, 18, .95); color: #ffb4b4;
+  border: 1px solid rgba(255, 138, 128, .4); opacity: 0; transform: translateY(12px);
+  transition: opacity .25s, transform .25s; pointer-events: none;
+}
+.tr-toast.tr-show { opacity: 1; transform: none; }
+.tr-offline {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 20; padding: 10px 16px; text-align: center;
+  background: #5a1e1e; color: #fff; font-size: 14px;
+}
+.tr-dialog { position: fixed; inset: 0; z-index: 30; display: grid; place-items: center; background: rgba(0,0,0,.55); padding: 16px; }
+.tr-dialog-box { width: min(360px, 100%); padding: 20px; border-radius: 22px; background: #182133; border: 1px solid var(--line); }
+.tr-dialog-text { margin: 0 0 16px; }
+.tr-dialog-buttons { display: flex; justify-content: flex-end; gap: 10px; }
+.tr-dialog .tr-cancel { background: var(--focus); color: #fff; }
+
+@media (min-width: 720px) {
+  .panel { max-width: 760px; margin: 20px auto 40px; }
+}

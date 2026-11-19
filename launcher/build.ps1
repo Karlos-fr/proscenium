@@ -28,7 +28,7 @@ Step 'Ressources (aapt2 compile)' { & "$bt\aapt2.exe" compile --dir "$root\res" 
 Step 'Manifeste (aapt2 link)' {
     & "$bt\aapt2.exe" link -I $jar --manifest "$root\AndroidManifest.xml" `
         --min-sdk-version 25 --target-sdk-version 34 `
-        --java "$out\gen" -o "$out\base.apk" "$out\res.zip"
+        -A "$root\assets" --java "$out\gen" -o "$out\base.apk" "$out\res.zip"
 }
 
 $sources = @(Get-ChildItem "$root\src", "$out\gen" -Recurse -Filter *.java | ForEach-Object FullName)

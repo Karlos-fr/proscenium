@@ -638,4 +638,8 @@
     <string name="help_wx_sun_dust">Granelli di polvere che fluttuano e brillano nei raggi.</string>
     <string name="wx_sun_clouds">Nuvole di passaggio</string>
     <string name="help_wx_sun_clouds">Di tanto in tanto le nuvole attenuano la luce, raggio dopo raggio, poi torna (0: sempre soleggiato).</string>
+    <string name="sec_web_remote">TELECOMANDO WEB</string>
+    <string name="set_web_remote">Telecomando web</string>
+    <string name="help_web_remote">Tutte le impostazioni sul telefono: una pagina servita dalla TV sulla rete di casa, aperta con un codice QR.</string>
+    <string name="web_remote_hint">Inquadra questo codice con il telefono, sullo stesso Wi-Fi della TV. L\'indirizzo cambia a ogni avvio di Proscenium.</string>
 </resources>

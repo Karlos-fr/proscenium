@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0e131c">
+<title>Proscenium</title>
+<link rel="stylesheet" href="static/skin.css">
+</head>
+<body>
+<div class="backdrop" id="backdrop"></div>
+<header class="now" id="now" hidden>
+  <img class="now-img" id="now-img" alt="">
+  <div class="now-text"><span class="now-label">Proscenium</span><span class="now-title" id="now-title"></span></div>
+  <button class="now-next" id="now-next" type="button" aria-label="Next">
+    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 5l9 7-9 7zM17 5h2v14h-2z" fill="currentColor"/></svg>
+  </button>
+</header>
+<main class="panel" id="app"></main>
+<script src="static/core.js"></script>
+<script>
+(function () {
+  var now = document.getElementById('now');
+  var lastImg = '';
+  TVRemote.start(document.getElementById('app'), {
+    state: function (s) {
+      now.hidden = false;
+      document.getElementById('now-title').textContent = s.title || '';
+      if (s.img && s.img !== lastImg) {
+        lastImg = s.img;
+        document.getElementById('now-img').src = s.img;
+        document.getElementById('backdrop').style.backgroundImage = 'url("' + s.img + '")';
+      }
+    }
+  }).then(function (app) {
+    document.title = app.app;
+    document.querySelector('.now-label').textContent = app.app;
+  });
+  document.getElementById('now-next').onclick = function () { TVRemote.action('next'); };
+})();
+</script>
+</body>
+</html>

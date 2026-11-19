@@ -638,4 +638,8 @@
     <string name="help_wx_sun_dust">Grains de poussière qui flottent et brillent dans les rayons.</string>
     <string name="wx_sun_clouds">Nuages qui passent</string>
     <string name="help_wx_sun_clouds">De temps en temps, des nuages baissent la lumière, rayon après rayon, puis elle revient (0 : toujours ensoleillé).</string>
+    <string name="sec_web_remote">TÉLÉCOMMANDE WEB</string>
+    <string name="set_web_remote">Télécommande web</string>
+    <string name="help_web_remote">Tous les réglages sur votre téléphone : une page servie par la TV sur le réseau de la maison, ouverte avec un QR code.</string>
+    <string name="web_remote_hint">Scannez ce code avec votre téléphone, sur le même Wi-Fi que la TV. L\'adresse change à chaque démarrage de Proscenium.</string>
 </resources>

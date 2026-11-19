@@ -638,4 +638,8 @@
     <string name="help_wx_sun_dust">Motas de polvo que flotan y brillan en los rayos.</string>
     <string name="wx_sun_clouds">Nubes que pasan</string>
     <string name="help_wx_sun_clouds">De vez en cuando las nubes atenúan la luz, rayo tras rayo, y luego vuelve (0: siempre soleado).</string>
+    <string name="sec_web_remote">MANDO WEB</string>
+    <string name="set_web_remote">Mando web</string>
+    <string name="help_web_remote">Todos los ajustes en el móvil: una página servida por la TV en la red de casa, abierta con un código QR.</string>
+    <string name="web_remote_hint">Escanea este código con el móvil, en la misma wifi que la TV. La dirección cambia cada vez que se inicia Proscenium.</string>
 </resources>

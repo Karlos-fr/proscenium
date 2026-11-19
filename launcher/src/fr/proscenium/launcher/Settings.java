@@ -335,6 +335,9 @@ final class Settings {
     final Choice backdropPick = new Choice("backdrop_pick", R.string.set_backdrop_pick, R.string.help_backdrop_pick,
             PICK_REPLACE, Format.LABELS, seq(2), R.string.pick_replace, R.string.pick_add);
 
+    /** Télécommande web : page de réglages servie au téléphone sur le réseau local (ProsceniumRemote). */
+    final Flag webRemote = new Flag("web_remote", R.string.set_web_remote, R.string.help_web_remote, false);
+
     final List<Item> all = new ArrayList<>();
     private final List<Listener> listeners = new ArrayList<>();
     private SharedPreferences prefs;
@@ -347,7 +350,7 @@ final class Settings {
                 glowPower, glowAnim, glowAnimAmount, glowAnimSpeed, scrollSpeed,
                 scrollParallax, loop, glassEngine, rimWidth,
                 weatherCity, weatherCoords, tempUnit, timeFormat, clockSize, dateSize, showCpu, showRam, showWeather, showWind, weatherAnim, weatherFx, fxSun, fxRain, fxLightning, fxSnow, fxFog, fxWind, weatherFxAmount, weatherLens, headerScale,
-                language, economy, updateCheck, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
+                language, economy, webRemote, updateCheck, uiSounds, uiVolume, tmdbLang, tmdbQuality, textlessOnly, fullHdOnly, backdropPick};
         for (Item i : items) all.add(i);
     }
 
