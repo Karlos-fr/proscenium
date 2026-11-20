@@ -489,12 +489,6 @@
     <string name="help_welcome_done">Schließt diesen Bildschirm. Du findest ihn wieder unter Einstellungen → System → Erste Schritte.</string>
     <string name="act_welcome">Erste Schritte</string>
     <string name="help_welcome">Öffnet den Bildschirm des ersten Starts erneut: Sprache, Ort, Hintergründe und Home-Taste.</string>
-    <string name="sec_screensaver">BILDSCHIRMSCHONER</string>
-    <string name="set_screensaver">Proscenium-Bildschirmschoner</string>
-    <string name="help_screensaver">Bietet Proscenium als Android-Bildschirmschoner an (Hintergründe, Titel und Uhr). Ausgeschaltet verschwindet er aus der Android-Liste und Android nutzt seinen eigenen.</string>
-    <string name="act_dream_settings">Android-Bildschirmschoner</string>
-    <string name="help_dream_settings">Öffnet die Bildschirmschoner-Einstellungen von Android. Google TV bietet dort nur seine eigenen an: Proscenium wird einmalig über einen Computer ausgewählt (siehe README).</string>
-    <string name="dream_none">Keiner</string>
     <string name="set_weather_fx">Wetter auf dem Hintergrund</string>
     <string name="help_weather_fx">Sonne, Regen, Blitze, Schnee und Nebel vor dem Film: das echte Wetter Ihrer Stadt, eine Mischung nach Wahl (Benutzerdefiniert), eine ab und zu ausgeloste Mischung (Zufällig) oder eine für jeden Hintergrund passend zu Genres, Inhalt und Licht des Bildes gewählte (Passend zum Hintergrund). Die Ebenen addieren sich.</string>
     <string name="fx_real">Echtes Wetter</string>
@@ -661,4 +655,10 @@
     <string name="weather_choose">Mehrere Orte heißen so: wählen Sie Ihren</string>
     <string name="act_restricted">Dienst lässt sich nicht einschalten?</string>
     <string name="help_restricted">Ab Android 13 wird die Bedienungshilfe für Apps außerhalb des Play Store gesperrt. OK öffnet die App-Infos von Proscenium: Menü ⋮ → Eingeschränkte Einstellungen zulassen, dann den Dienst erneut einschalten. Ohne dieses Menü: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
+    <string name="help_web_active">Die angehakten Playlists mischen ihre Hintergründe auf dem Startbildschirm.</string>
+    <string name="help_web_search_film">Geben Sie einen Titel ein und wählen Sie dann den Film und seine Hintergründe.</string>
+    <string name="hint_web_results">Tippen Sie auf ein Plakat, um seine Hintergründe zu wählen. ✓ = schon in der Playlist.</string>
+    <string name="hint_web_backdrops">Die bestbewerteten zuerst. Tippen Sie auf einen Hintergrund, um ihn hinzuzufügen, erneut, um ihn zu entfernen.</string>
+    <string name="help_web_logo">Eines der Logos des Films oder keines (Titel als Text).</string>
+    <string name="help_web_position">Platz des Films in der Playlist (der Reihe nach).</string>
 </resources>

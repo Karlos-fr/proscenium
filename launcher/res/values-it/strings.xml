@@ -489,12 +489,6 @@
     <string name="help_welcome_done">Chiude questa schermata. La ritroverai in Impostazioni → Sistema → Primi passi.</string>
     <string name="act_welcome">Primi passi</string>
     <string name="help_welcome">Riapre la schermata del primo avvio: lingua, città, sfondi e tasto Home.</string>
-    <string name="sec_screensaver">SALVASCHERMO</string>
-    <string name="set_screensaver">Salvaschermo Proscenium</string>
-    <string name="help_screensaver">Propone Proscenium come salvaschermo di Android (sfondi, titolo e orologio). Se disattivato, sparisce dall\'elenco di Android, che usa il proprio salvaschermo.</string>
-    <string name="act_dream_settings">Salvaschermo di Android</string>
-    <string name="help_dream_settings">Apre le impostazioni del salvaschermo di Android. Google TV vi propone solo i propri: Proscenium si sceglie una volta da un computer (vedi il README).</string>
-    <string name="dream_none">Nessuno</string>
     <string name="set_weather_fx">Meteo sullo sfondo</string>
     <string name="help_weather_fx">Sole, pioggia, fulmini, neve e nebbia davanti al film: il meteo reale della tua città, un mix a scelta (Personalizzato), un mix estratto a sorte ogni tanto (Casuale), o uno scelto per ogni sfondo in base ai generi del film, alla trama e alla luce dell\'immagine (In base allo sfondo). Gli strati si sommano.</string>
     <string name="fx_real">Meteo reale</string>
@@ -661,4 +655,10 @@
     <string name="weather_choose">Più città hanno questo nome: scegli la tua</string>
     <string name="act_restricted">Il servizio non si attiva?</string>
     <string name="help_restricted">Da Android 13 l\'accessibilità è bloccata per le app installate fuori dal Play Store. OK apre le info di Proscenium: menu ⋮ → Consenti impostazioni con limitazioni, poi riattiva il servizio. Senza quel menu: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
+    <string name="help_web_active">Le playlist selezionate mescolano i loro sfondi nella schermata Home.</string>
+    <string name="help_web_search_film">Digita un titolo, poi scegli il film e i suoi sfondi.</string>
+    <string name="hint_web_results">Tocca una locandina per sceglierne gli sfondi. ✓ = già nella playlist.</string>
+    <string name="hint_web_backdrops">Prima i più votati. Tocca uno sfondo per aggiungerlo alla playlist, di nuovo per toglierlo.</string>
+    <string name="help_web_logo">Uno dei loghi del film, o nessuno (titolo mostrato come testo).</string>
+    <string name="help_web_position">Posizione del film nella playlist (ordine sequenziale).</string>
 </resources>

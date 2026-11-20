@@ -1,7 +1,5 @@
 package fr.proscenium.launcher;
 
-import android.content.ComponentName;
-import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.util.Log;
 
@@ -132,8 +130,8 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
     private static boolean contentPending;
 
     /**
-     * Quelque chose a changé hors des réglages (playlists, films, packs, réglages d'une météo,
-     * économiseur…) : les téléphones relisent leur écran. Appelable depuis n'importe quel fil ; un
+     * Quelque chose a changé hors des réglages (playlists, films, packs, réglages d'une météo) :
+     * les téléphones relisent leur écran. Appelable depuis n'importe quel fil ; un
      * changement fait depuis le téléphone lui-même est ignoré (il a déjà le nouvel écran).
      */
     static void contentChanged() {
@@ -207,21 +205,8 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
         int tab = tabOf(id);
         if (tab >= 0) return layoutScreen(id, tab);
         switch (id) {
-            case "playlists": {
-                Screen sc = tab(id, R.string.tab_playlists, 1);
-                Item grid = Item.grid("active", str(R.string.sec_my_playlists), Item.Check.MULTI)
-                        .help(str(R.string.help_active_playlists));
-                for (Playlists.Playlist p : Playlists.all(act)) {
-                    grid.tile(Item.tile(p.id, p.name).img("img/playlist:" + p.id)
-                            .checked(s.isActive(p.id)).sub(films(p.films.size())));
-                }
-                sc.add(grid);
-                section(sc, R.string.sec_packs);
-                sc.add(Item.button("packs", str(R.string.act_browse_packs)).opens("packs")
-                        .help(str(R.string.help_browse_packs)).badge(str(R.string.badge_internet), "internet"));
-                downloads(sc);
-                return sc;
-            }
+            case "playlists": return playlists().tab();
+            case "active": return playlists().active();
             case "packs": return packs();
             case "dock_apps": return dockApps();
             case "weather_styles": {
@@ -238,6 +223,7 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
                 return sc;
             }
         }
+        if (RemotePlaylists.handles(id)) return playlists().screen(id);
         if (id.startsWith("wx:")) {
             WeatherStyles.Style w = style(id.substring(3));
             return w == null ? null : weatherStyle(w);
@@ -256,11 +242,11 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
 
     /**
      * Lignes de la TV seulement : saisie de la clé par QR code, paramètres et services d'Android,
-     * économiseur d'Android, mise à jour (l'installeur s'ouvre sur la TV), premiers pas, et la
+     * mise à jour (l'installeur s'ouvre sur la TV), premiers pas, et la
      * télécommande elle-même (la régler depuis le téléphone pourrait la couper).
      */
     private static final java.util.Set<String> TV_ONLY = new java.util.HashSet<>(java.util.Arrays.asList(
-            PanelLayout.TMDB_KEY_PHONE, PanelLayout.DREAM_SETTINGS, PanelLayout.WEB_REMOTE, PanelLayout.SERVICE, PanelLayout.RESTRICTED,
+            PanelLayout.TMDB_KEY_PHONE, PanelLayout.WEB_REMOTE, PanelLayout.SERVICE, PanelLayout.RESTRICTED,
             PanelLayout.ANDROID_SETTINGS, PanelLayout.UPDATE, PanelLayout.WELCOME));
 
     private static int tabOf(String id) {
@@ -294,15 +280,11 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
         Settings s = act.settings;
         switch (id) {
             case PanelLayout.ACTIVE_PLAYLISTS:
-                sc.add(Item.button("playlists", str(R.string.set_active_playlists)).opens("playlists")
+                sc.add(Item.button("playlists", str(R.string.set_active_playlists)).opens("active")
                         .help(str(R.string.help_active_playlists)).value(activeSummary()));
                 break;
             case PanelLayout.NEXT_IMAGE:
                 sc.add(Item.button("next", str(R.string.act_next_image)).help(str(R.string.help_next_image)));
-                break;
-            case PanelLayout.SCREENSAVER:
-                sc.add(Item.toggle("screensaver", str(R.string.set_screensaver), dreamEnabled())
-                        .help(str(R.string.help_screensaver)));
                 break;
             case PanelLayout.DOCK_APPS:
                 sc.add(Item.button("apps", str(R.string.set_dock_apps)).opens("dock_apps")
@@ -469,8 +451,12 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
         fromPhone = true;
         try {
             if (screen.startsWith("wx:")) return setWeather(style(screen.substring(3)), id, value);
+            if (screen.equals("playlists") || RemotePlaylists.handles(screen)) {
+                Result r = playlists().set(screen, id, value);
+                if (r != null) return r;
+            }
             switch (screen) {
-                case "playlists":
+                case "active":
                     if (id.startsWith("active/")) {
                         s.setActive(id.substring(7), Boolean.TRUE.equals(value));
                         return Result.ok();
@@ -481,15 +467,6 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
                     break;
                 case "dock_apps":
                     return setDock(id, value);
-                case "cinema":
-                    if (id.equals("screensaver")) {
-                        act.getPackageManager().setComponentEnabledSetting(dream(), Boolean.TRUE.equals(value)
-                                        ? PackageManager.COMPONENT_ENABLED_STATE_DEFAULT
-                                        : PackageManager.COMPONENT_ENABLED_STATE_DISABLED,
-                                PackageManager.DONT_KILL_APP);
-                        return Result.ok();
-                    }
-                    break;
                 case "home":
                     if (id.equals("city")) return searchCity(String.valueOf(value).trim());
                     break;
@@ -528,6 +505,10 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
 
     private Result doAction(String screen, String id) {
         Settings s = act.settings;
+        if (screen.equals("playlists") || RemotePlaylists.handles(screen)) {
+            Result r = playlists().action(screen, id);
+            if (r != null) return r;
+        }
         if (id.startsWith("city_pick/")) {                      // une des villes du même nom
             java.util.List<String[]> choices = cityChoices;
             int k = Integer.parseInt(id.substring(10));
@@ -606,6 +587,13 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
                 String size = key.substring(5, colon), path = key.substring(colon + 1);
                 if (!path.startsWith("/") || path.contains("..")) return null;
                 return jpeg(Tmdb.thumb(act, size, path), size + path);
+            }
+            if (key.startsWith("film:")) {                      // fond d'un film d'une playlist
+                String path = playlists().imagePath(key);
+                if (path == null) return null;
+                android.graphics.BitmapFactory.Options o = new android.graphics.BitmapFactory.Options();
+                o.inSampleSize = 4;
+                return jpeg(android.graphics.BitmapFactory.decodeFile(path, o), path + new File(path).lastModified());
             }
             if (key.startsWith("playlist:")) {                  // premier fond de la playlist
                 Playlists.Playlist p = Playlists.byId(act, key.substring(9));
@@ -782,6 +770,22 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
 
     // ================================================================== Aides
 
+    private RemotePlaylists playlists;
+
+    /** Écrans des playlists (créés au premier besoin, rattachés à l'activité en cours). */
+    private RemotePlaylists playlists() {
+        if (playlists == null || playlists.activity() != act) {
+            playlists = new RemotePlaylists(new RemotePlaylists.Host() {
+                @Override public MainActivity act() { return act; }
+                @Override public void refresh(String screen) { if (server != null) server.changed(screen); }
+                @Override public Item item(Settings.Item i) { return ProsceniumRemote.this.item(i); }
+                @Override public String films(int n) { return ProsceniumRemote.this.films(n); }
+                @Override public void downloads(Screen sc) { ProsceniumRemote.this.downloads(sc); }
+            });
+        }
+        return playlists;
+    }
+
     private Screen tab(String id, int title, int order) {
         return Screen.of(id, str(title));          // les onglets viennent de AppInfo.tab()
     }
@@ -883,14 +887,5 @@ final class ProsceniumRemote implements TvRemote.App, Settings.Listener {
         List<String> order = new ArrayList<>();
         for (String p : act.settings.dockApps.value.split(",")) if (!p.trim().isEmpty()) order.add(p.trim());
         return order;
-    }
-
-    private ComponentName dream() {
-        return new ComponentName(act, CinemaDream.class);
-    }
-
-    private boolean dreamEnabled() {
-        return act.getPackageManager().getComponentEnabledSetting(dream())
-                != PackageManager.COMPONENT_ENABLED_STATE_DISABLED;
     }
 }

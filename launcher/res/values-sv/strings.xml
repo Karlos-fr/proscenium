@@ -490,12 +490,6 @@
     <string name="help_welcome_done">Stänger den här skärmen. Du hittar den igen under Inställningar → System → Kom igång.</string>
     <string name="act_welcome">Kom igång</string>
     <string name="help_welcome">Öppnar startskärmen från första starten igen: språk, ort, bakgrunder och hemknappen.</string>
-    <string name="sec_screensaver">SKÄRMSLÄCKARE</string>
-    <string name="set_screensaver">Proscenium som skärmsläckare</string>
-    <string name="help_screensaver">Erbjuder Proscenium som Androids skärmsläckare (bakgrunder, titel och klocka). Avstängd försvinner den ur Androids lista och Android använder sin egen.</string>
-    <string name="act_dream_settings">Androids skärmsläckare</string>
-    <string name="help_dream_settings">Öppnar Androids inställningar för skärmsläckare. Google TV erbjuder bara sina egna där: Proscenium väljs en gång från en dator (se README).</string>
-    <string name="dream_none">Ingen</string>
     <string name="set_weather_fx">Väder på bakgrunden</string>
     <string name="help_weather_fx">Sol, regn, blixtar, snö och dimma framför filmen: det verkliga vädret i din stad, en blandning efter val (Anpassat), en blandning som lottas då och då (Slumpmässig), eller en som väljs för varje bakgrund efter filmens genrer, handling och bildens ljus (Efter bakgrunden). Lagren läggs ihop.</string>
     <string name="fx_real">Verkligt väder</string>
@@ -662,4 +656,10 @@
     <string name="weather_choose">Flera orter heter så: välj din</string>
     <string name="act_restricted">Går tjänsten inte att slå på?</string>
     <string name="help_restricted">Android 13 och senare spärrar tillgänglighet för appar som installerats utanför Play Butik. OK öppnar Proscenium-appens info: meny ⋮ → Tillåt begränsade inställningar, slå sedan på tjänsten igen. Utan den menyn: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
+    <string name="help_web_active">Markerade spellistor blandar sina bakgrunder på hemskärmen.</string>
+    <string name="help_web_search_film">Skriv en titel och välj sedan filmen och dess bakgrunder.</string>
+    <string name="hint_web_results">Tryck på en affisch för att välja dess bakgrunder. ✓ = redan i spellistan.</string>
+    <string name="hint_web_backdrops">Högst betyg först. Tryck på en bakgrund för att lägga till den, tryck igen för att ta bort den.</string>
+    <string name="help_web_logo">En av filmens logotyper, eller ingen (titeln visas som text).</string>
+    <string name="help_web_position">Filmens plats i spellistan (i tur och ordning).</string>
 </resources>

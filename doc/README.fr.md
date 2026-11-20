@@ -132,6 +132,9 @@ s'efface, des bandes noires recadrent l'image en format cinéma (2:1 ou Scope 2,
 film s'affiche, avec son logo officiel quand il existe et son année. Le délai, les bandes, le titre
 et le bandeau sont réglables.
 
+**Retour** sur l'accueil passe directement en mode cinéma ; en mode cinéma, **← →** passent au
+fond précédent ou suivant sans en sortir.
+
 La carte titre peut aussi afficher la **fiche du film** : année, durée et genres, la note TMDB
 (étoiles, anneau en pourcentage ou note sur 10), et un résumé court ou complet qui défile doucement.
 Les packs apportent ces fiches en six langues.
@@ -141,7 +144,7 @@ d'Android, rubrique Économiseur d'écran.
 
 Sur Google TV, Android ne liste que les économiseurs de Google. Choisissez Proscenium une fois
 depuis un ordinateur, avec [adb](https://developer.android.com/tools/adb) connecté à la TV :
-`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Réglages → Mode cinéma → Économiseur d'écran** l'active ou le désactive.
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`.
 
 **Réglages → Mode cinéma → Garder l'écran allumé** empêche Android de lancer son économiseur ou de
 se mettre en veille tant que Proscenium est affiché : le mode cinéma continue alors sans fin (cela
@@ -192,6 +195,9 @@ d'accueil. Le nom se change, et un mot de passe peut être demandé par le navig
 d'autres personnes utilisent votre Wi-Fi). Seuls les appareils du réseau de la maison peuvent
 atteindre la page. Sans **Adresse fixe**, l'adresse est secrète et neuve à chaque démarrage de
 Proscenium.
+
+Les playlists se composent aussi depuis la page : en créer une, chercher des films sur TMDB,
+choisir leurs fonds et leur logo, les renommer, les réordonner ou les retirer.
 
 ## Et aussi
 

@@ -126,6 +126,9 @@ fades away, black bars frame the picture in a cinema format (2:1 or Scope 2.39:1
 title appears, with its official logo when there is one and its year. The delay, the bars, the
 title and the header can all be adjusted.
 
+**Back** on the home screen switches straight to cinema mode, and in cinema mode **← →** go to
+the previous or next backdrop without leaving it.
+
 The title card can also show the **film's details**: year, running time and genres, the TMDB
 rating (stars, a percentage ring or a score out of 10), and a short or full synopsis that scrolls
 slowly. Packs bring these details in six languages.
@@ -135,7 +138,7 @@ Screen saver.
 
 On Google TV, Android only lists Google's own screensavers. Choose Proscenium once from a
 computer, with [adb](https://developer.android.com/tools/adb) connected to the TV:
-`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Settings → Cinema mode → Screensaver** turns it on or off.
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`.
 
 **Settings → Cinema mode → Keep the screen on** stops Android from starting its screensaver or going
 to sleep while Proscenium is shown: cinema mode then goes on with no end (it uses more power, and
@@ -184,6 +187,9 @@ the TV's address shown under the QR code; bookmark it or add it to the home scre
 changed, and a password can be asked by the browser (recommended if other people use your Wi-Fi).
 Only devices on your home network can reach the page. Turning off **Fixed address** gives a secret
 address instead, new each time Proscenium starts.
+
+Playlists can be built from the page too: create one, search for films on TMDB, pick their
+backdrops and logo, rename, reorder or remove them.
 
 ## And also
 

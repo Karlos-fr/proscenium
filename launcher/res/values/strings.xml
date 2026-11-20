@@ -489,12 +489,6 @@
     <string name="help_welcome_done">Closes this screen. You will find it again in Settings → System → Getting started.</string>
     <string name="act_welcome">Getting started</string>
     <string name="help_welcome">Opens the first-launch screen again: language, town, backdrops and Home button.</string>
-    <string name="sec_screensaver">SCREENSAVER</string>
-    <string name="set_screensaver">Proscenium screensaver</string>
-    <string name="help_screensaver">Offers Proscenium as Android\'s screensaver (backdrops, title and clock). Turned off, it disappears from Android\'s list and Android uses its own screensaver.</string>
-    <string name="act_dream_settings">Android screensaver</string>
-    <string name="help_dream_settings">Opens Android\'s screensaver settings. Google TV only offers its own screensavers there: choosing Proscenium is done once from a computer (see the README).</string>
-    <string name="dream_none">None</string>
     <string name="set_weather_fx">Weather on the backdrop</string>
     <string name="help_weather_fx">Sun, rain, lightning, snow and fog in front of the film: the real weather of your town, a mix of your choice (Custom), a random mix that changes now and then (Random), or one chosen for each backdrop from the film\'s genres, its synopsis and the picture\'s light (Matching the backdrop). The layers add up.</string>
     <string name="fx_real">Real weather</string>
@@ -661,4 +655,10 @@
     <string name="weather_choose">Several towns have this name: choose yours</string>
     <string name="act_restricted">Service won\'t turn on?</string>
     <string name="help_restricted">Android 13 and later blocks accessibility for apps installed outside the Play Store. OK opens Proscenium\'s app info: menu ⋮ → Allow restricted settings, then turn the service on again. Without that menu: adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
+    <string name="help_web_active">Checked playlists mix their backdrops on the home screen.</string>
+    <string name="help_web_search_film">Type a title, then pick the film and its backdrops.</string>
+    <string name="hint_web_results">Tap a poster to choose its backdrops. ✓ = already in the playlist.</string>
+    <string name="hint_web_backdrops">Best rated first. Tap a backdrop to add it to the playlist, tap again to remove it.</string>
+    <string name="help_web_logo">One of the film\'s logos, or none (title shown as text).</string>
+    <string name="help_web_position">Place of the film in the playlist (sequential order).</string>
 </resources>

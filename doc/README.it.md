@@ -130,6 +130,9 @@ sparisce, bande nere ritagliano l'immagine in formato cinematografico (2:1 o Sco
 il titolo del film, con il suo logo ufficiale quando esiste e l'anno. Attesa, bande, titolo e banner
 sono regolabili.
 
+**Indietro** nella schermata Home passa subito alla modalità cinema; in modalità cinema **← →**
+passano allo sfondo precedente o successivo senza uscirne.
+
 La scheda del titolo può mostrare anche i **dettagli del film**: anno, durata e generi, il voto
 TMDB (stelle, un anello in percentuale o un voto su 10) e una trama breve o completa che scorre
 lentamente. I pacchetti portano questi dettagli in sei lingue.
@@ -139,7 +142,7 @@ alla voce Screensaver.
 
 Su Google TV, Android elenca solo gli screensaver di Google. Scegli Proscenium una volta da un
 computer, con [adb](https://developer.android.com/tools/adb) collegato al televisore:
-`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Impostazioni → Modalità cinema → Salvaschermo** lo attiva o lo disattiva.
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`.
 
 **Impostazioni → Modalità cinema → Mantieni lo schermo acceso** impedisce ad Android di avviare il
 suo screensaver o di andare in standby finché Proscenium è visualizzato: la modalità cinema continua
@@ -188,6 +191,9 @@ TV mostrato sotto il codice QR; salvalo nei preferiti o aggiungilo alla schermat
 può cambiare, e il browser può chiedere una password (consigliata se altre persone usano il tuo
 Wi-Fi). Solo i dispositivi della rete di casa possono raggiungere la pagina. Senza **Indirizzo
 fisso**, l'indirizzo è segreto e nuovo a ogni avvio di Proscenium.
+
+Anche le playlist si compongono dalla pagina: crearne una, cercare film su TMDB, sceglierne
+sfondi e logo, rinominarli, riordinarli o toglierli.
 
 ## E inoltre
 

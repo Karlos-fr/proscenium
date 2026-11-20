@@ -489,12 +489,6 @@
     <string name="help_welcome_done">Ferme cet écran. Vous le retrouverez dans Réglages → Système → Premiers pas.</string>
     <string name="act_welcome">Premiers pas</string>
     <string name="help_welcome">Rouvre l\'écran du premier lancement : langue, ville, fonds et bouton Accueil.</string>
-    <string name="sec_screensaver">ÉCONOMISEUR D\'ÉCRAN</string>
-    <string name="set_screensaver">Économiseur Proscenium</string>
-    <string name="help_screensaver">Propose Proscenium comme économiseur d\'écran d\'Android (fonds, titre et horloge). Désactivé, il disparaît de la liste d\'Android, qui reprend son propre économiseur.</string>
-    <string name="act_dream_settings">Économiseur d\'Android</string>
-    <string name="help_dream_settings">Ouvre les réglages de l\'économiseur d\'écran d\'Android. Google TV n\'y propose que les siens : choisir Proscenium se fait une fois depuis un ordinateur (voir le README).</string>
-    <string name="dream_none">Aucun</string>
     <string name="set_weather_fx">Météo sur le fond</string>
     <string name="help_weather_fx">Soleil, pluie, éclairs, neige et brouillard devant le film : la météo réelle de votre ville, un mélange au choix (Personnalisée), un mélange tiré au sort de temps en temps (Aléatoire), ou un mélange choisi pour chaque fond d\'après les genres du film, son résumé et la lumière de l\'image (Selon le fond). Les couches se cumulent.</string>
     <string name="fx_real">Météo réelle</string>
@@ -661,4 +655,10 @@
     <string name="weather_choose">Plusieurs villes portent ce nom : choisissez la vôtre</string>
     <string name="act_restricted">Le service refuse de s\'activer ?</string>
     <string name="help_restricted">Android 13 et plus bloque l\'accessibilité des applis installées hors du Play Store. OK ouvre les infos de Proscenium : menu ⋮ → Autoriser les paramètres restreints, puis réactivez le service. Sans ce menu : adb shell appops set fr.proscenium.launcher ACCESS_RESTRICTED_SETTINGS allow</string>
+    <string name="help_web_active">Les playlists cochées mélangent leurs fonds sur l\'accueil.</string>
+    <string name="help_web_search_film">Tapez un titre, puis choisissez le film et ses fonds.</string>
+    <string name="hint_web_results">Touchez une affiche pour choisir ses fonds. ✓ = déjà dans la playlist.</string>
+    <string name="hint_web_backdrops">Les mieux notés d\'abord. Touchez un fond pour l\'ajouter à la playlist, à nouveau pour le retirer.</string>
+    <string name="help_web_logo">Un des logos du film, ou aucun (titre affiché en texte).</string>
+    <string name="help_web_position">Place du film dans la playlist (ordre séquentiel).</string>
 </resources>

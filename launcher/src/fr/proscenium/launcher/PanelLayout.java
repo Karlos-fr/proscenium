@@ -35,8 +35,7 @@ final class PanelLayout {
     private static Special sp(String id) { return new Special(id); }
 
     /** Lignes particulières (identifiants partagés par les deux côtés). */
-    static final String ACTIVE_PLAYLISTS = "active_playlists", NEXT_IMAGE = "next", SCREENSAVER = "screensaver",
-            DREAM_SETTINGS = "dream_settings", DOCK_APPS = "dock_apps", CITY = "city", WEATHER_STYLES = "weather_styles",
+    static final String ACTIVE_PLAYLISTS = "active_playlists", NEXT_IMAGE = "next", DOCK_APPS = "dock_apps", CITY = "city", WEATHER_STYLES = "weather_styles",
             TMDB_KEY = "tmdb_key", TMDB_KEY_PHONE = "tmdb_key_phone", TMDB_TEST = "tmdb_test", CACHE = "cache",
             CLEAR_CACHE = "clear_cache", DOWNLOADS = "downloads", TMDB_ABOUT = "tmdb_about", WEB_REMOTE = "web_remote",
             SERVICE = "service", RESTRICTED = "restricted", ANDROID_SETTINGS = "android_settings", BACKUP = "backup", RESTORE = "restore",
@@ -57,8 +56,7 @@ final class PanelLayout {
                         sec(R.string.sec_bars), s.cinemaBars, s.barOpacity, s.cinemaKeepZoom,
                         sec(R.string.sec_title_card), s.titleMode, s.titleSide, s.showYear, s.titleInfo, s.titleRating,
                         s.titleSummary, s.titleTextSize,
-                        sec(R.string.sec_clock_header), s.clockSeconds, s.hideHeader,
-                        sec(R.string.sec_screensaver), sp(SCREENSAVER), sp(DREAM_SETTINGS));
+                        sec(R.string.sec_clock_header), s.clockSeconds, s.hideHeader);
             case PanelCore.TAB_DOCK:
                 return list(sec(R.string.sec_apps), sp(DOCK_APPS),
                         sec(R.string.sec_band), s.bandMode, s.slimBand,

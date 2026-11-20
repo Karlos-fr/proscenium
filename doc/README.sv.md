@@ -130,6 +130,9 @@ tonas bort, svarta fält beskär bilden till biografformat (2:1 eller Scope 2,39
 visas, med sin officiella logotyp när det finns en, och utgivningsår. Väntetid, fält, titel och
 banner kan justeras.
 
+**Tillbaka** på hemskärmen går direkt till bioläget; i bioläget byter **← →** till föregående
+eller nästa bakgrund utan att lämna det.
+
 Titelkortet kan också visa **uppgifter om filmen**: år, speltid och genrer, TMDB-betyget (stjärnor,
 en procentring eller ett betyg av 10) och en kort eller fullständig handling som rullar långsamt.
 Paketen har dessa uppgifter på sex språk.
@@ -139,7 +142,7 @@ under Skärmsläckare.
 
 På Google TV visar Android bara Googles egna skärmsläckare. Välj Proscenium en gång från en
 dator, med [adb](https://developer.android.com/tools/adb) anslutet till tv:n:
-`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Inställningar → Bioläge → Skärmsläckare** slår på eller av den.
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`.
 
 **Inställningar → Bioläge → Håll skärmen på** hindrar Android från att starta sin skärmsläckare eller
 gå i viloläge medan Proscenium visas: bioläget fortsätter då utan slut (det drar mer ström, och vissa
@@ -190,6 +193,9 @@ på en iPhone, en Mac eller en dator, eller tv:ns adress under QR-koden; spara d
 lägg till den på hemskärmen. Namnet kan ändras, och webbläsaren kan fråga efter ett lösenord
 (rekommenderas om andra använder ditt wifi). Bara enheter i hemnätverket når sidan. Utan **Fast
 adress** är adressen hemlig och ny varje gång Proscenium startar.
+
+Spellistor kan också byggas från sidan: skapa en, sök filmer på TMDB, välj deras bakgrunder och
+logotyp, byt namn, ändra ordning eller ta bort dem.
 
 ## Och dessutom
 

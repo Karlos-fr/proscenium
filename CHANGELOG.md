@@ -2,6 +2,29 @@
 
 All notable changes to Proscenium are listed here, newest first.
 
+## [Unreleased]
+
+### Added
+
+- Playlists from the web remote: create a playlist (or the trending one), search for films on TMDB
+  or open the popular and trending lists, import them all or pick each film's backdrops, then
+  change a film's logo, title or place, remove it, rename or delete the playlist. The Playlists tab
+  of the page is laid out as on the TV (my playlists, new playlist, packs); the playlists shown on
+  the home screen are ticked on their own page.
+- Back on the home screen (with nothing open) switches straight to cinema mode.
+- In cinema mode, ← and → go to the previous or next backdrop without leaving cinema mode.
+
+### Fixed
+
+- The full synopsis of the title card now scrolls slowly when it is longer than five lines (the
+  text was cut to the height of its box, so there was nothing to scroll).
+
+### Removed
+
+- The Screensaver section of Settings → Cinema mode (on the TV and on the web remote), replaced by
+  "Keep the screen on". Proscenium can still be chosen as Android's screensaver, in Android's
+  settings or with adb (see the README); a screensaver turned off by the old option is offered again.
+
 ## [1.1] — 2026-11-19
 
 Download: [Proscenium 1.1](https://github.com/Karlos-fr/proscenium/releases/tag/v1.1).

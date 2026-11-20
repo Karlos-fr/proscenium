@@ -75,6 +75,8 @@ final class FilmCard {
     private final TextView info, summary;
     private final FrameLayout summaryBox;
     private ValueAnimator scroll;
+    /** Numéro du texte affiché : un défilement prévu pour un ancien texte ne démarre pas. */
+    private int generation;
 
     FilmCard(Context ctx) {
         this.ctx = ctx;
@@ -90,7 +92,19 @@ final class FilmCard {
         info.setEllipsize(TextUtils.TruncateAt.END);
         summary = text(15, 0xE6FFFFFF);
         summary.setLineSpacing(0, 1.15f);
-        summaryBox = new FrameLayout(ctx);
+        summaryBox = new FrameLayout(ctx) {
+            @Override
+            protected void onMeasure(int w, int h) {
+                super.onMeasure(w, h);
+                // Le texte garde toute sa hauteur (une boîte de hauteur fixe le rognerait à sa
+                // taille, sans rien à faire défiler) : la boîte le coupe, il défile dedans
+                View c = getChildAt(0);
+                if (c == null || c.getVisibility() == GONE) return;
+                int cw = Math.max(0, getMeasuredWidth() - getPaddingLeft() - getPaddingRight());
+                c.measure(MeasureSpec.makeMeasureSpec(cw, MeasureSpec.EXACTLY),
+                        MeasureSpec.makeMeasureSpec(0, MeasureSpec.UNSPECIFIED));
+            }
+        };
         summaryBox.setPadding(dp(2), dp(10), dp(2), 0);
         summaryBox.addView(summary, new FrameLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,
                 ViewGroup.LayoutParams.WRAP_CONTENT));
@@ -147,6 +161,7 @@ final class FilmCard {
      */
     boolean fill(Playlists.Film film, String year, Settings s) {
         stopScroll();
+        generation++;
         float k = s.titleTextSize.f();
         info.setTextSize(TypedValue.COMPLEX_UNIT_SP, 14 * k);
         summary.setTextSize(TypedValue.COMPLEX_UNIT_SP, 15 * k);
@@ -197,13 +212,20 @@ final class FilmCard {
             int box = lineH * 5 + summaryBox.getPaddingTop();
             lp.height = box;
             summaryBox.setClipChildren(true);
-            summary.post(() -> startScroll(box - summaryBox.getPaddingTop()));
+            int gen = generation;
+            summary.post(() -> startScroll(box - summaryBox.getPaddingTop(), 0, gen));
         }
         summaryBox.setLayoutParams(lp);
         return infoRow.getVisibility() == View.VISIBLE;
     }
 
-    private void startScroll(int visible) {
+    private void startScroll(int visible, int tries, int gen) {
+        if (gen != generation) return;
+        // Attend la mise en page du nouveau texte (sa hauteur n'est connue qu'après)
+        if ((summary.isLayoutRequested() || summaryBox.isLayoutRequested()) && tries < 20) {
+            summary.postDelayed(() -> startScroll(visible, tries + 1, gen), 100);
+            return;
+        }
         int overflow = summary.getHeight() - visible;
         if (overflow <= 0) return;
         scroll = ValueAnimator.ofFloat(0, -overflow);

@@ -306,7 +306,11 @@ abstract class HomeBackdrop extends HomeBase {
         }
     };
 
-    static final int CURRENT = 0, NEXT = 1, SWITCH = 2;
+    static final int CURRENT = 0, NEXT = 1, SWITCH = 2, PREVIOUS = 3;
+
+    /** Fonds déjà montrés (numéros dans la source), pour revenir en arrière avec ← en mode cinéma. */
+    private final java.util.ArrayDeque<Integer> history = new java.util.ArrayDeque<>();
+    private String historySource = "";
 
     void scheduleRotate() {
         ui.removeCallbacks(rotate);
@@ -328,7 +332,8 @@ abstract class HomeBackdrop extends HomeBase {
 
     /**
      * CURRENT : remet la photo en cours (au lancement) ; NEXT : photo suivante ;
-     * SWITCH : changement de source. Tout se passe en arrière-plan.
+     * SWITCH : changement de source ; PREVIOUS : photo précédente (celle d'avant dans l'historique,
+     * sinon celle d'avant dans la liste). Tout se passe en arrière-plan.
      */
     void loadWallpaper(int mode) {
         boolean hasFrame = frame != null;
@@ -340,7 +345,7 @@ abstract class HomeBackdrop extends HomeBase {
                 List<Wallpaper.Item> items = Wallpaper.items(this, src);
                 // La photo en cache s'affiche tout de suite, avant tout téléchargement
                 boolean shown = hasFrame && mode == CURRENT;
-                if (!shown && mode != NEXT && !items.isEmpty()) {
+                if (!shown && mode != NEXT && mode != PREVIOUS && !items.isEmpty()) {
                     Wallpaper.Frame cached = Wallpaper.decode(items.get(Math.floorMod(prefs.getInt(pref, 0), items.size())));
                     ui.post(() -> showFrame(cached));
                     shown = true;
@@ -352,7 +357,20 @@ abstract class HomeBackdrop extends HomeBase {
                 if (n == 0) return;
                 int cur = Math.floorMod(prefs.getInt(pref, 0), n);
                 int idx;
-                if (changed && src == Wallpaper.Source.BING) idx = 0;
+                Integer back = null;
+                synchronized (history) {
+                    if (!src.dir.equals(historySource)) {
+                        history.clear();
+                        historySource = src.dir;
+                    }
+                    if (mode == PREVIOUS) back = history.pollLast();
+                    else if (history.isEmpty() || history.peekLast() != cur) {
+                        history.addLast(cur);
+                        if (history.size() > 50) history.pollFirst();
+                    }
+                }
+                if (mode == PREVIOUS) idx = back != null && back < n ? back : Math.floorMod(cur - 1, n);
+                else if (changed && src == Wallpaper.Source.BING) idx = 0;
                 else if (sequential || src == Wallpaper.Source.BING) idx = (cur + 1) % n;
                 else idx = n == 1 ? 0 : (cur + 1 + random.nextInt(n - 1)) % n;
                 prefs.edit().putInt(pref, idx).apply();

@@ -132,39 +132,6 @@ abstract class PanelTabs extends PanelCore {
             case PanelLayout.NEXT_IMAGE:
                 content.addView(action(R.string.act_next_image, R.string.help_next_image, null, host::nextBackdrop));
                 break;
-            // Proscenium peut servir d'économiseur d'écran Android. Le désactiver retire Proscenium de la
-            // liste des économiseurs d'Android (qui reprend alors le sien) ; le choix de l'économiseur
-            // actif reste dans les paramètres d'Android, qu'on ouvre directement
-            case PanelLayout.SCREENSAVER:
-                content.addView(action(R.string.set_screensaver, R.string.help_screensaver,
-                        () -> ctx.getString(dreamEnabled() ? R.string.val_on : R.string.val_off), () -> {
-                            ctx.getPackageManager().setComponentEnabledSetting(dreamComponent(), dreamEnabled()
-                                            ? android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DISABLED
-                                            : android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DEFAULT,
-                                    android.content.pm.PackageManager.DONT_KILL_APP);
-                            ProsceniumRemote.contentChanged();
-                            for (Runnable x : new ArrayList<>(refreshers)) x.run();
-                        }));
-                break;
-            case PanelLayout.DREAM_SETTINGS:
-                content.addView(action(R.string.act_dream_settings, R.string.help_dream_settings,
-                        () -> currentDream() + "  ›", () -> {
-                            // Android TV : page des économiseurs. Google TV ne l'a plus et n'offre que son
-                            // mode ambiant (le choix d'un économiseur tiers s'y fait par adb, voir le README)
-                            for (String action : new String[]{android.provider.Settings.ACTION_DREAM_SETTINGS,
-                                    "com.google.android.tv.settings.ambient"}) {
-                                android.content.Intent i = new android.content.Intent(action)
-                                        .addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK);
-                                if (i.resolveActivity(ctx.getPackageManager()) == null) continue;
-                                try {
-                                    ctx.startActivity(i);
-                                    return;
-                                } catch (Exception ignored) {
-                                }
-                            }
-                            host.openAndroidSettings();
-                        }));
-                break;
             case PanelLayout.DOCK_APPS:
                 content.addView(action(R.string.set_dock_apps, R.string.help_dock_apps,
                         () -> String.valueOf(s.dockApps.value.isEmpty() ? 0 : s.dockApps.value.split(",").length) + "  ›",
@@ -299,33 +266,6 @@ abstract class PanelTabs extends PanelCore {
                 () -> ctx.getString(host.homeServiceActive() ? R.string.service_on : R.string.service_off),
                 host::openAccessibility));
         content.addView(action(R.string.act_welcome_done, R.string.help_welcome_done, null, this::close));
-    }
-
-    // ---------------------------------------------------------------- Économiseur d'écran
-
-    android.content.ComponentName dreamComponent() {
-        return new android.content.ComponentName(ctx, CinemaDream.class);
-    }
-
-    boolean dreamEnabled() {
-        int st = ctx.getPackageManager().getComponentEnabledSetting(dreamComponent());
-        return st != android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DISABLED;
-    }
-
-    /** Économiseur d'Android actuellement choisi : Proscenium, un autre, ou inconnu (réglage illisible). */
-    String currentDream() {
-        try {
-            String c = android.provider.Settings.Secure.getString(ctx.getContentResolver(), "screensaver_components");
-            if (c == null || c.isEmpty()) return ctx.getString(R.string.dream_none);
-            String first = c.split(",")[0];
-            if (first.startsWith(ctx.getPackageName() + "/")) return ctx.getString(R.string.app_name);
-            android.content.ComponentName cn = android.content.ComponentName.unflattenFromString(first);
-            if (cn == null) return "";
-            android.content.pm.PackageManager pm = ctx.getPackageManager();
-            return String.valueOf(pm.getApplicationLabel(pm.getApplicationInfo(cn.getPackageName(), 0)));
-        } catch (Exception e) {
-            return "";
-        }
     }
 
     void buildGlass(List<Settings.Item> r) {

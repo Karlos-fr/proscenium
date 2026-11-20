@@ -133,6 +133,9 @@ Die Oberfläche blendet sich aus, schwarze Balken beschneiden das Bild im Kinofo
 Scope 2,39:1), und der Filmtitel erscheint, mit seinem offiziellen Logo, sofern vorhanden, und dem
 Erscheinungsjahr. Wartezeit, Balken, Titel und Banner sind einstellbar.
 
+**Zurück** auf dem Startbildschirm schaltet sofort in den Kinomodus; im Kinomodus wechseln
+**← →** zum vorherigen oder nächsten Hintergrund, ohne ihn zu verlassen.
+
 Die Titelkarte kann auch die **Angaben zum Film** zeigen: Jahr, Laufzeit und Genres, die
 TMDB-Bewertung (Sterne, ein Prozentring oder eine Note von 10) und eine kurze oder vollständige
 Inhaltsangabe, die langsam scrollt. Die Pakete liefern diese Angaben in sechs Sprachen.
@@ -142,8 +145,7 @@ Android-Einstellungen unter „Bildschirmschoner“ aus.
 
 Auf Google TV listet Android nur die Bildschirmschoner von Google auf. Wählen Sie Proscenium
 einmalig von einem Computer aus, mit [adb](https://developer.android.com/tools/adb) mit dem
-Fernseher verbunden: `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Einstellungen → Kinomodus → Bildschirmschoner** schaltet ihn ein
-oder aus.
+Fernseher verbunden: `adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`.
 
 **Einstellungen → Kinomodus → Bildschirm eingeschaltet lassen** verhindert, dass Android seinen
 Bildschirmschoner startet oder in den Ruhezustand geht, solange Proscenium angezeigt wird: Der
@@ -199,6 +201,9 @@ unter dem QR-Code; speichern Sie sie als Lesezeichen oder auf dem Startbildschir
 sich ändern, und der Browser kann ein Passwort abfragen (empfohlen, wenn andere Ihr WLAN nutzen).
 Nur Geräte in Ihrem Heimnetz erreichen die Seite. Ohne **Feste Adresse** ist die Adresse geheim und
 bei jedem Start von Proscenium neu.
+
+Auch Playlists lassen sich auf der Seite zusammenstellen: eine anlegen, Filme auf TMDB suchen,
+ihre Hintergründe und ihr Logo wählen, sie umbenennen, umsortieren oder entfernen.
 
 ## Und außerdem
 

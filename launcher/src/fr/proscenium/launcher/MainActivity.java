@@ -189,6 +189,17 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         applyHeaderBlocks();
         applyCinemaLayout();
         applyKeepScreenOn();
+        // L'option « Économiseur d'écran » a disparu (remplacée par « Garder l'écran allumé ») : un
+        // économiseur désactivé par elle redevient proposé à Android, qui reste seul à choisir
+        try {
+            android.content.ComponentName dream = new android.content.ComponentName(this, CinemaDream.class);
+            android.content.pm.PackageManager pm = getPackageManager();
+            if (pm.getComponentEnabledSetting(dream) == android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DISABLED) {
+                pm.setComponentEnabledSetting(dream, android.content.pm.PackageManager.COMPONENT_ENABLED_STATE_DEFAULT,
+                        android.content.pm.PackageManager.DONT_KILL_APP);
+            }
+        } catch (Exception ignored) {
+        }
     }
 
     /** Réglage « Garder l'écran allumé » : ni économiseur ni veille d'Android tant que Proscenium est affiché. */
@@ -307,6 +318,10 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
             endMove();
         } else if (panel.isOpen()) {
             panel.back();
+        } else if (!idle) {
+            // Rien d'ouvert : Retour passe directement en mode cinéma
+            ui.removeCallbacks(goIdle);
+            goIdle.run();
         }
     }
 
@@ -314,6 +329,18 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
     public boolean dispatchKeyEvent(KeyEvent e) {
         if (e.getAction() == KeyEvent.ACTION_DOWN) {
             boolean wasIdle = idle;
+            int code = e.getKeyCode();
+            // En mode cinéma, ← → passent au fond précédent ou suivant sans quitter le mode
+            if (wasIdle && (code == KeyEvent.KEYCODE_DPAD_LEFT || code == KeyEvent.KEYCODE_DPAD_RIGHT)) {
+                long now = SystemClock.uptimeMillis();
+                if (e.getRepeatCount() == 0 && now - lastBrowse > 400) {
+                    lastBrowse = now;
+                    loadWallpaper(code == KeyEvent.KEYCODE_DPAD_RIGHT ? NEXT : PREVIOUS);
+                    scheduleRotate();
+                }
+                swallowKeyUp = true;
+                return true;
+            }
             wake();
             // Au repos, le premier appui ne fait que réveiller l'écran
             if (wasIdle) {
@@ -332,6 +359,9 @@ public class MainActivity extends HomeDock implements Settings.Listener, Setting
         }
         return handled;
     }
+
+    /** Dernier changement de fond aux flèches en mode cinéma (un appui à la fois, pas de rafale). */
+    private long lastBrowse;
 
     private static boolean isArrow(int code) {
         return code == KeyEvent.KEYCODE_DPAD_UP || code == KeyEvent.KEYCODE_DPAD_DOWN

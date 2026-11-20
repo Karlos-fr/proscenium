@@ -129,6 +129,9 @@ se desvanece, unas bandas negras recortan la imagen en formato cine (2:1 o Scope
 el título de la película, con su logotipo oficial cuando existe y su año. El tiempo de espera, las
 bandas, el título y el banner son ajustables.
 
+**Atrás** en la pantalla de inicio pasa directamente al modo cine; en modo cine, **← →** cambian
+al fondo anterior o siguiente sin salir de él.
+
 La tarjeta del título también puede mostrar la **ficha de la película**: año, duración y géneros,
 la nota de TMDB (estrellas, un anillo en porcentaje o una nota sobre 10) y una sinopsis corta o
 completa que se desplaza despacio. Los packs traen estas fichas en seis idiomas.
@@ -138,7 +141,7 @@ en el apartado Salvapantallas.
 
 En Google TV, Android solo muestra los salvapantallas de Google. Elige Proscenium una vez desde
 un ordenador, con [adb](https://developer.android.com/tools/adb) conectado al televisor:
-`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`. **Ajustes → Modo cine → Salvapantallas** lo activa o lo desactiva.
+`adb shell settings put secure screensaver_components fr.proscenium.launcher/.CinemaDream`.
 
 **Ajustes → Modo cine → Mantener la pantalla encendida** impide que Android inicie su salvapantallas
 o se suspenda mientras se muestra Proscenium: el modo cine sigue entonces sin fin (consume más, y
@@ -189,6 +192,9 @@ aparece bajo el código QR; guárdala en favoritos o añádela a la pantalla de 
 puede cambiar, y el navegador puede pedir una contraseña (recomendada si otras personas usan tu
 wifi). Solo los aparatos de la red de casa pueden llegar a la página. Sin **Dirección fija**, la
 dirección es secreta y nueva cada vez que se inicia Proscenium.
+
+Las listas también se arman desde la página: crear una, buscar películas en TMDB, elegir sus
+fondos y su logotipo, renombrarlas, reordenarlas o quitarlas.
 
 ## Y además
 
